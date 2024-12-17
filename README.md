@@ -4,8 +4,8 @@ This project analyzes the evolution of topics over time using Latent Dirichlet A
 
 ## Datasets  
 All data is located in the **`Data/`** directory.
-- **Complete Dataset:** 388 pages (~6000 revisions, 2001–2024).  
-- **Test Subsample:** 11 pages (~210 revisions, 2001–2024).
+- **Complete Dataset:** 388 pages (~6000 revisions, 2001–2024) 296.2 MB.  
+- **Test Subsample:** 11 pages (~210 revisions, 2001–2024) 14.3 MB.
 
 ## PySpark Scripts  
 All scripts for preprocessing, testing NLP pipelines, tuning parameters, and running LDA are located in the **`PySpark_Scripts/`** directory.
