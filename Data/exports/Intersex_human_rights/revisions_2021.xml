@@ -1,0 +1,763 @@
+<?xml version="1.0"?><api><continue rvcontinue="20211101194145|1053079703" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="47275784" pageid="47275784" ns="0" title="Intersex human rights"><revisions><rev timestamp="2021-11-23T19:20:23Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{short description|Human rights for intersex people}}
+{{Intersex sidebar|rights}}
+{{Rights}}
+[[File:Third International Intersex Forum.jpg|thumb|300px|Participants at the third [[International Intersex Forum]], Malta, in December 2013]]
+[[Intersex]] people are born with [[sex]] characteristics, such as [[chromosome]]s, [[gonad]]s, or [[genital]]s, that, according to the UN [[Office of the High Commissioner for Human Rights]], "do not fit typical binary notions of [[male]] or [[female]] bodies."&lt;ref name="unfe-fact"&gt;{{Cite web| author=&lt;!--Staff writer(s); no by-line.--&gt; | publisher = United Nations [[Office of the High Commissioner for Human Rights]] | title = Free &amp; Equal Campaign Fact Sheet: Intersex| date = 2015| url = https://unfe.org/system/unfe-65-Intersex_Factsheet_ENGLISH.pdf | access-date = 28 March 2016 }}&lt;/ref&gt;
+
+Intersex people face [[Social stigma|stigmatisation]] and [[discrimination]] from birth, particularly when an intersex variation is visible. In some countries (particularly in Africa and Asia) this may include [[infanticide]], abandonment and the stigmatization of families. Mothers in [[East Africa]] may be accused of [[witchcraft]], and the birth of an intersex child may be described as a [[curse]].&lt;ref name="cschrcl" /&gt;&lt;ref name="bbc2017" /&gt;&lt;ref name="bbkci2015"/&gt;
+
+Intersex infants and children, such as those with ambiguous outer genitalia, may be surgically and/or hormonally altered to fit perceived more socially acceptable sex characteristics. However, this is considered controversial, with no firm evidence of good outcomes.&lt;ref name="apeg2013"&gt;{{cite web | url = http://www.aph.gov.au/DocumentStore.ashx?id=aafe43f3-c6a2-4525-ad16-15e4210ee0ac&amp;subId=16191 | title = Submission 88 to the Australian Senate inquiry on the involuntary or coerced sterilisation of people with disabilities in Australia | work = Australasian Paediatric Endocrine Group (APEG) | date = 27 June 2013}}&lt;/ref&gt; Such treatments may involve sterilization. Adults, including elite female athletes, have also been subjects of such treatment.&lt;ref name="jysk"&gt;{{cite journal |author1=Rebecca Jordan-Young |author2=Peter Sonksen |author3-link=Katrina Karkazis |author3=Katrina Karkazis|title= Sex, health, and athletes |journal=[[BMJ]]|volume=348|pages=g2926|year=2014 |doi=10.1136/bmj.g2926|url=http://www.bmj.com/content/348/bmj.g2926 |pmid=24776640|s2cid=2198650 |author1-link=Rebecca Jordan-Young }}&lt;/ref&gt;&lt;ref name=Chand&gt;{{cite news|last1=Macur|first1=Juliet|title=Fighting for the Body She Was Born With|url=https://www.nytimes.com/2014/10/07/sports/sprinter-dutee-chand-fights-ban-over-her-testosterone-level.html|access-date=9 February 2015|work=[[The New York Times]]|date=6 October 2014}}&lt;/ref&gt; These issues are recognized as human rights abuses, with statements from UN agencies,&lt;ref name="untorture"&gt;{{cite web | url = http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session22/A.HRC.22.53_English.pdf | title = Report of the UN Special Rapporteur on Torture | work = [[Office of the UN High Commissioner for Human Rights]] | date = February 2013}}&lt;/ref&gt;&lt;ref name="jointun"&gt;{{cite web | url =https://www.who.int/reproductivehealth/publications/gender_rights/eliminating-forced-sterilization/en/ | title = Eliminating forced, coercive and otherwise involuntary sterilization, An interagency statement | work = [[World Health Organization]] | date = May 2014}}&lt;/ref&gt; the [[Intersex rights in Australia|Australian]] parliament,&lt;ref name="SenateOnSterilisation" /&gt; and [[Intersex rights in Germany|German]] and Swiss ethics institutions.&lt;ref name="swissnek" /&gt; [[Intersex civil society organizations|Intersex organizations]] have also issued joint statements over several years, including the [[Malta declaration (International Intersex Forum)|Malta declaration]] by the third [[International Intersex Forum]].
+
+Implementation of human rights protections in legislation and regulation has progressed more slowly. In 2011, [[Christiane Völling]] won the first successful case brought against a surgeon for non-consensual surgical intervention.&lt;ref name="voll" /&gt; In 2015, the [[Council of Europe]] recognized for the first time a right for intersex persons to ''not'' undergo sex assignment treatment.&lt;ref name="coe" /&gt; In April 2015, [[Intersex rights in Malta|Malta]] became the first country to outlaw nonconsensual medical interventions to modify sex anatomy, including that of intersex people.&lt;ref name="nyt-2015"&gt;{{Cite news| last = Reuters| title = Surgery and Sterilization Scrapped in Malta's Benchmark LGBTI Law| work = The New York Times| date = 1 April 2015| url = https://www.nytimes.com/reuters/2015/04/01/world/europe/01reuters-gay-rights-malta.html}}&lt;/ref&gt;&lt;ref name="star-2015"&gt;{{Cite news| last = Star Observer| author-link = Star Observer | title = Malta passes law outlawing forced surgical intervention on intersex minors| work = Star Observer| date = 2 April 2015| url = http://www.starobserver.com.au/news/international-news-news/malta-passes-law-outlawing-forced-surgical-intervention-on-intersex-minors/134800}}&lt;/ref&gt;
+
+Other human rights and legal issues including the right to life, protection from discrimination, standing to file in law and compensation, access to information, and legal recognition.&lt;ref name="coe" /&gt;&lt;ref name="afp2016" /&gt; Few countries so far protect intersex people from discrimination.&lt;ref name="coe" /&gt;&lt;ref name="afp2016" /&gt;&lt;!--- specific countries and levels of protection are given in the text, tables &amp; wiki-links below ---&gt;
+
+{{TOC limit|3}}
+
+==Intersex and human rights==
+[[File:ILGA conference 2018 Intersex Awareness Day group photo.jpg|thumb|300px|ILGA conference 2018, group photo to mark [[Intersex Awareness Day]]]]
+Research indicates a growing consensus that diverse intersex bodies are normal—if relatively rare—forms of human biology,&lt;ref name=Zderic&gt;{{cite book|first=  Stephen |last = Zderic|title=Pediatric gender assignment : a critical reappraisal; [proceedings from a conference ... in Dallas in the spring of 1999 which was entitled "pediatric gender assignment - a critical reappraisal"]|year=2002|publisher=Kluwer Acad. / Plenum Publ.|location=New York, NY [u.a.]|isbn=978-0306467592}}&lt;/ref&gt; and human rights institutions are placing increasing scrutiny on medical practices and issues of discrimination against intersex people. A 2013 first international pilot study. [[Human Rights between the Sexes]], by [[Dan Christian Ghattas]],&lt;ref name="ghattas"&gt;{{cite web | url = http://www.boell.de/sites/default/files/endf_human_rights_between_the_sexes.pdf | title = Human Rights Between the Sexes | first1 = Dan Christian | author2-link = Heinrich Böll Foundation | last1 = Ghattas | author-link1 = Dan Christian Ghattas | last2 = Heinrich Böll Foundation | date = September 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://oiieurope.org/a-preliminary-study-on-the-life-situations-of-inter-individuals/ | title = A preliminary study on the life situations of inter* individuals | work = [[OII Europe]] | date = 4 November 2013}}&lt;/ref&gt; found that intersex people are discriminated against worldwide:
+{{quotation|Intersex individuals are considered individuals with a "disorder" in all areas in which Western medicine prevails. They are more or less obviously treated as sick or "abnormal", depending on the respective society.}}
+
+The [[Council of Europe]] highlights several areas of concern:
+
+* Equal right to life and prevention of medical treatments without informed consent including treatments considered unnecessary;
+* Removal of Intersex as a curable medical condition but one which can have medical treatments with informed consent
+* Equal treatment under the law; including specific legal provision similar to other classes covered;
+* Access to information, medical records, peer and other counselling and support;
+* Self-determination in gender recognition, through expeditious access to official documents.&lt;ref name="coe"&gt;{{Citation| last1 = Council of Europe| last2 = Commissioner for Human Rights| title = Human rights and intersex people, Issue Paper| date = April 2015| url = https://wcd.coe.int/ViewDoc.jsp?Ref=CommDH/IssuePaper(2015)1&amp;Language=lanEnglish&amp;Ver=original| author1-link = Council of Europe}}&lt;/ref&gt;
+
+=== Relationship between Intersex and LGBT ===
+{{main|Intersex and LGBT}}
+Multiple organizations have highlighted appeals to LGBT rights recognition that fail to address the issue of unnecessary "normalising" treatments on intersex children, using the portmanteau term "[[Pinkwashing (LGBT)|pinkwashing]]". In June 2016, [[Organisation Intersex International Australia]] claimed contradictory statements by Australian governments, suggesting that the dignity and rights of LGBTI (LGBT and intersex) people are recognized while this is contradicted by practices which are opposed being performed on intersex children continue.&lt;ref&gt;{{cite web | title = Submission: list of issues for Australia's Convention Against Torture review | url = https://oii.org.au/30546/loi-cat-review/ | work = [[Organisation Intersex International Australia]] | date = June 28, 2016}}&lt;/ref&gt;
+
+In August 2016, [[Zwischengeschlecht]] described actions to promote equality or civil status legislation without action on banning "intersex genital mutilations" as a form of "pinkwashing".&lt;ref&gt;{{cite web | title = "Intersex legislation" that allows the daily mutilations to continue = PINKWASHING of IGM practices | url = http://stop.genitalmutilation.org/post/Intersex-politics-that-ignore-the-daily-mutilations-PINKWASHING-OF-IGM-PRACTICES | work = [[Zwischengeschlecht]] | date = August 28, 2016}}&lt;/ref&gt; The organization has previously highlighted evasive government statements to UN Treaty Bodies that conflate intersex, transgender and LGBT issues, instead of addressing harmful practices on infants.&lt;ref&gt;{{cite web | title = TRANSCRIPTION &gt; UK Questioned over Intersex Genital Mutilations by UN Committee on the Rights of the Child - Gov Non-Answer + Denial | url = http://stop.genitalmutilation.org/post/UK-Questioned-over-Intersex-Genital-Mutilations-by-UN-Committee-on-the-Rights-of-the-Child | work = [[Zwischengeschlecht]] | date = May 26, 2016}}&lt;/ref&gt;
+
+== Physical integrity and bodily autonomy ==
+{{main|Intersex medical interventions}}
+[[File:Protection of intersex children from harmful practices.svg|thumb|right|452px|
+{{legend|#002255|Legal prohibition of non-consensual medical interventions}}
+{{legend|#0066FF|Regulatory suspension of non-consensual medical interventions}}
+{{legend|#E3E3E3|Physical integrity and bodily autonomy on intersex not legislated}}]]
+Intersex people face stigmatisation and discrimination from birth. In some countries, particularly in Africa and Asia, this may include infanticide, abandonment and the stigmatization of families. Mothers in east Africa may be accused of witchcraft, and the birth of an intersex child may be described as a curse.&lt;ref name="cschrcl" /&gt;&lt;ref name="bbc2017"&gt;{{cite web | url = https://www.bbc.com/news/world-africa-39780214 | title = The midwife who saved intersex babies | first1 = Helen | last1 = Grady |first2 = Anne | last2 = Soy | work = BBC World Service, Kenya | date = May 4, 2017}}&lt;/ref&gt; Abandonments and infanticides have been reported in [[Intersex rights in Uganda|Uganda]],&lt;ref name="cschrcl"&gt;{{Cite web| last1 = Civil Society Coalition on Human Rights and Constitutional Law| last2 = Human Rights Awareness and Promotion Forum| last3 = Rainbow Health Foundation| last4 = Sexual Minorities Uganda| last5 = Support Initiative for Persons with Congenital Disorders| title = Uganda Report of Violations based on Sex Determination, Gender Identity, and Sexual Orientation| date = 2014| url = http://www.hrapf.org/publications/research-papers/uganda-report-violations-based-sex-determination-gender-identity-and| access-date = 2017-05-14| archive-url = https://web.archive.org/web/20150503012642/http://www.hrapf.org/publications/research-papers/uganda-report-violations-based-sex-determination-gender-identity-and| archive-date = 2015-05-03}}&lt;/ref&gt; [[Intersex rights in Kenya|Kenya]],&lt;ref name="76crimes" /&gt; [[Intersex rights in India|south Asia]],&lt;ref name="warne2008"&gt;{{Cite journal| doi = 10.1007/s11154-008-9084-2| issn = 1389-9155| volume = 9| issue = 3| pages = 227–236| last1 = Warne| first1 = Garry L.| last2 = Raza| first2 = Jamal| title = Disorders of sex development (DSDs), their presentation and management in different cultures| journal = Reviews in Endocrine and Metabolic Disorders| date = September 2008| pmid=18633712| citeseerx = 10.1.1.469.9016| s2cid = 8897416}}&lt;/ref&gt; and [[Intersex rights in China|China]].&lt;ref name="bbkci2015"&gt;{{Cite web| last = Beyond the Boundary - Knowing and Concerns Intersex| title = Intersex report from Hong Kong China, and for the UN Committee Against Torture: the Convention against Torture and Other Cruel Inhuman or Degrading Treatment or Punishment| date = October 2015| url = http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=INT%2fCAT%2fCSS%2fHKG%2f22156&amp;Lang=en}}&lt;/ref&gt; In 2015, it was reported that an intersex Kenyan adolescent, Muhadh Ishmael, was mutilated and later died. He had previously been described as a curse on his family.&lt;ref name="76crimes"&gt;{{Cite web| last = Odero| first = Joseph| title = Intersex in Kenya: Held captive, beaten, hacked. Dead.| work = 76 CRIMES| access-date = 2016-10-01| date = December 23, 2015| url = http://76crimes.com/2015/12/23/intersex-in-kenya-held-captive-beaten-hacked-dead/}}&lt;/ref&gt;
+
+Non-consensual medical interventions to modify the sex characteristics of intersex people take place in all countries where the human rights of intersex people have been explored.&lt;ref name="ghattas" /&gt; Such interventions have been criticized by the World Health Organization, other UN bodies such as the Office of the High Commissioner for Human Rights, and an increasing number of regional and national institutions. In low and middle income countries, the cost of healthcare may limit access to necessary medical treatment at the same time that other individuals experience coercive medical interventions.&lt;ref name="bbkci2015" /&gt;
+
+Several rights have been stated as affected by stigmatization and coercive medical interventions on minors:
+* the [[right to life]].&lt;ref name="coe" /&gt;
+* the [[right to privacy]], including a right to personal [[autonomy]] or self-determination regarding medical treatment.&lt;ref name="SenateOnSterilisation" /&gt;&lt;ref name="swissnek" /&gt;
+* prohibitions against [[torture]] and other cruel, inhuman and degrading treatment.&lt;ref name="untorture"/&gt;&lt;ref name="SenateOnSterilisation" /&gt;
+* a right to physical integrity&lt;ref&gt;{{Cite conference| publisher = United Nations| last1 = United Nations| last2 = Committee on the Rights of Persons with Diabilities | title = Concluding observations on the initial report of Germany (advance unedited version)| location = Geneva| date = April 17, 2015| url = http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CRPD%2FC%2FDEU%2FCO%2F1&amp;Lang=en| author2-link = Convention on the Rights of Persons with Disabilities}}&lt;/ref&gt; and/or bodily autonomy.&lt;ref name="star-2015" /&gt;&lt;ref name="gate-malta"&gt;{{cite web |url=http://transactivists.org/2015/04/08/making-depathologization-a-matter-of-law-a-comment-from-gate-on-the-maltese-act-on-gender-identity-gender-expression-and-sex-characteristics/ |title=Making depathologization a matter of law. A comment from GATE on the Maltese Act on Gender Identity, Gender Expression and Sex Characteristics |last1=Cabral |first1=Mauro |author-link=Mauro Cabral |date=April 8, 2015 |publisher=[[Global Action for Trans Equality]] |access-date=2015-07-03 |archive-url=https://web.archive.org/web/20150704213308/http://transactivists.org/2015/04/08/making-depathologization-a-matter-of-law-a-comment-from-gate-on-the-maltese-act-on-gender-identity-gender-expression-and-sex-characteristics/ |archive-date=July 4, 2015 }}&lt;/ref&gt;
+* additionally, the best interests of the child may not be served by surgeries aimed at familial and social integration.&lt;ref name="swissnek" /&gt;
+
+===Human rights reports===
+[[File:Small Ela Luk.jpg|thumb|Hong Kong intersex activist [[Small Luk]]]]
+{{further|Intersex human rights reports}}
+In recent years, Intersex rights have been the subject of reports by several national and international institutions. These include the Swiss National Advisory Commission on Biomedical Ethics (2012),&lt;ref name="swissnek" /&gt; the [[United Nations special rapporteur|UN special rapporteur]] on torture and other cruel, [[inhuman or degrading treatment]] or punishment (2013),&lt;ref name="untorture"/&gt; and the Australian Senate (2013).&lt;ref name="SenateOnSterilisation" /&gt; In 2015 the [[Council of Europe]], the United Nations [[Office of the United Nations High Commissioner for Human Rights]] and the [[World Health Organization]] also addressed the issue. In April 2015, [[Intersex rights in Malta|Malta]] became the first country to outlaw coercive medical interventions.&lt;ref name="nyt-2015" /&gt;&lt;ref name="star-2015" /&gt; In the same year, the Council of Europe became the first institution to state that intersex people have the right ''not'' to undergo sex affirmation interventions.&lt;ref name="coe" /&gt;
+
+For [[Intersex Awareness Day]], October 26, UN experts including the [[United Nations Convention against Torture#Committee against Torture|Committee against Torture]], the [[Committee on the Rights of the Child]] and the [[Committee on the Rights of Persons with Disabilities]], along with the Council of Europe [[Commissioner for Human Rights]], the [[Inter-American Commission on Human Rights]] and [[United Nations Special Rapporteur]]s called for an urgent end to human rights violations against intersex persons, including in medical settings. The experts also called for the investigation of alleged human rights abuses, the ability to file claims for compensation, and the implementation of anti-discrimination measures:&lt;ref name="un-2016"&gt;{{Citation| last = Office of the High Commissioner for Human Rights| author-link = Office of the United Nations High Commissioner for Human Rights |title = End violence and harmful medical practices on intersex children and adults, UN and regional experts urge| date = October 24, 2016| url = http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=20739&amp;LangID=E}}&lt;/ref&gt;
+
+{{quotation|In countries around the world, intersex infants, children and adolescents are subjected to medically unnecessary surgeries, hormonal treatments and other procedures in an attempt to forcibly change their appearance to be in line with societal expectations about female and male bodies. When, as is frequently the case, these procedures are performed without the full, free and informed consent of the person concerned, they amount to violations of fundamental human rights...
+
+States must, as a matter of urgency, prohibit medically unnecessary surgery and procedures on intersex children. They must uphold the autonomy of intersex adults and children and their rights to health, to physical and mental integrity, to live free from violence and harmful practices and to be free from torture and ill-treatment. Intersex children and their parents should be provided with support and counselling, including from peers.&lt;ref name="un-2016" /&gt;}}
+
+In 2017, the human rights non-governmental organizations [[Amnesty International]]&lt;ref name="amnesty2017report"/&gt;&lt;ref name="amnesty2017post"/&gt; and [[Human Rights Watch]]&lt;ref name="hrw2017"&gt;{{Cite book| isbn = 978-1-62313-502-7| last1 = Human Rights Watch| author1-link = Human Rights Watch | last2 = interACT | author2-link = Interact Advocates for Intersex Youth | title = I Want to Be Like Nature Made Me| date = July 2017| url = https://www.hrw.org/report/2017/07/25/i-want-be-nature-made-me/medically-unnecessary-surgeries-intersex-children-us}}&lt;/ref&gt;&lt;ref name="stewart2017"&gt;{{Cite web| last = Stewart| first = Philippa| title = Interview: Intersex Babies Don't Need 'Fixing'| work = Human Rights Watch| access-date = 2017-07-25| date = 2017-07-25| url = https://www.hrw.org/news/2017/07/25/interview-intersex-babies-dont-need-fixing}}&lt;/ref&gt;&lt;ref name="hrw2017b"&gt;{{Cite web| last = Human Rights Watch| title = US: Harmful Surgery on Intersex Children| work = Human Rights Watch| access-date = 2017-07-25| date = 2017-07-25| url = https://www.hrw.org/news/2017/07/25/us-harmful-surgery-intersex-children}}&lt;/ref&gt; published major reports on the rights of children with intersex conditions.
+
+===Constitutional Court of Colombia===
+{{main|Intersex rights in Colombia}}
+Although not many cases of children with intersex conditions are available, a case taken to the [[Constitutional Court of Colombia]] led to changes in their treatment.&lt;ref&gt;{{cite journal|last=Curtis|first=Skyler|title=Reproductive Organs and Differences of Sex Development: The Constitutional Issues Created by the Surgical Treatment of Intersex Children|journal=McGeorge Law Review|year=2010–2011|volume=42|page=863|url=http://heinonline.org/HOL/Page?handle=hein.journals/mcglr42&amp;div=66&amp;g_sent=1&amp;collection=journals|access-date=15 November 2012}}&lt;/ref&gt; The case restricted the power of doctors and parents to decide surgical procedures on children's ambiguous genitalia after the age of five, while continuing to permit interventions on younger children. Due to the decision of the Constitutional Court of Colombia on Case 1 Part 1 (SU-337 of 1999), doctors are obliged to inform parents on all the aspects of the intersex child. Parents can only consent to surgery if they have received accurate information, and cannot give consent after the child reaches the age of five. By then the child will have, supposedly, realized their gender identity.&lt;ref&gt;{{cite web|title=Corte Constitucional de Colombia: Sentencia T-1025/02|url=http://www.corteconstitucional.gov.co/relatoria/2002/t-1025-02.htm|access-date=2 December 2012}}&lt;/ref&gt; The court case led to the setting of legal guidelines for doctors' surgical practice on intersex children.
+
+===Maltese legislation===
+{{main|Intersex rights in Malta}}
+In April 2015, [[Intersex rights in Malta|Malta]] became the first country to outlaw non-consensual medical interventions in a ''Gender Identity Gender Expression and Sex Characteristics Act''.&lt;ref name="nyt-2015" /&gt;&lt;ref name="star-2015" /&gt; The Act recognizes a right to bodily integrity and physical autonomy, explicitly prohibiting modifications to children's sex characteristics for social factors:
+
+{{quotation|14. (1) It shall be unlawful for medical practitioners or other professionals to conduct any sex assignment treatment and/or surgical intervention on the sex characteristics of a minor which treatment and/or intervention can be deferred until the person to be treated can provide informed consent: Provided that such sex assignment treatment and/or surgical intervention on the sex characteristics of the minor shall be conducted if the minor gives informed consent through the person exercising parental authority or the tutor of the minor.
+(2) In exceptional circumstances treatment may be effected once agreement is reached between the Interdisciplinary Team and the persons exercising parental authority or tutor of the minor who is still unable to provide consent: Provided that medical intervention which is driven by social factors without the consent of the minor, will be in violation of this Act.&lt;ref name="gigesc"/&gt;}}
+
+The Act was widely welcomed by civil society organizations.&lt;ref name="gate-malta" /&gt;&lt;ref name="oiieu-malta"&gt;{{Cite web| last = OII Europe| title = OII-Europe applauds Malta's Gender Identity, Gender Expression and Sex Characteristics Act. This is a landmark case for intersex rights within European law reform| date = April 1, 2015| url = http://oiieurope.org/press-release-oii-europe-applauds-maltas-gender-identity-gender-expression-and-sex-characteristics-act/|access-date=2015-07-03}}&lt;/ref&gt;&lt;ref name="oiiau-malta"&gt;{{cite web |url=https://oii.org.au/28592/we-celebrate-maltese-protections-for-intersex-people/ |title=We celebrate Maltese protections for intersex people |last1=Carpenter |first1=Morgan | author-link= Morgan Carpenter |date=April 2, 2015 |publisher= [[Organisation Intersex International Australia]] |access-date=2015-07-03 }}&lt;/ref&gt;
+
+===Chilean regulations===
+{{main|Intersex rights in Chile}}
+In January 2016, the [[Ministry of Health (Chile)|Ministry of Health]] of [[Intersex rights in Chile|Chile]] ordered the suspension of unnecessary normalization treatments for intersex children, including irreversible surgery, until they reach an age when they can make decisions on their own.&lt;ref name="Outright2016"&gt;{{cite web| url = https://www.outrightinternational.org/content/chilean-government-stops-normalization-intersex-children | title = Chilean Government Stops the &amp;#039;Normalization&amp;#039; of Intersex Children | work = [[OutRight Action International]] | date = January 14, 2016}}&lt;/ref&gt;&lt;ref name="Intersex Chile"&gt;{{cite web|title=Chilean Ministry of Health issues instructions stopping "normalising" interventions on intersex children|url=https://oii.org.au/30250/chilean-ministry-stops-normalising/|website=[[Organisation Intersex International Australia]]|access-date=3 January 2017|date=11 January 2016}}&lt;/ref&gt; The regulations were superseded in August 2016.&lt;ref name="inter2017"&gt;{{Cite web| last1 = Inter| first1 = Laura| last2 = Aoi| first2 = Hana| title = Circular 7 de 2016: Un paso atrás en la lucha por los Derechos Humanos de las personas intersexuales en Chile. Por Laura Inter y Hana Aoi| work = [[Brújula Intersexual]]| access-date = 2017-07-09| date = June 15, 2017 | url = https://brujulaintersexual.wordpress.com/2017/06/15/circular-7-2016-un-paso-atras/}}&lt;/ref&gt;&lt;ref name="godoy2017"&gt;{{Cite web| last = Godoy| first = Camilo| title = ¿Cómo nace la Circular 7 del Ministerio de Salud de Chile? Por Camilo Godoy| work = [[Brújula Intersexual]]| access-date = 2017-07-09| date = June 18, 2017| url = https://brujulaintersexual.wordpress.com/2017/06/17/como-nace-la-circular-7-chile/| archive-url = https://web.archive.org/web/20170730060244/https://brujulaintersexual.wordpress.com/2017/06/17/como-nace-la-circular-7-chile/| archive-date = 2017-07-30}}&lt;/ref&gt;&lt;ref name="interaoi2017"&gt;{{Cite web| last1 = Inter| first1 = Laura| last2 = Aoi| first2 = Hana| title = Circular 7 De 2016: Un Paso Atrás En La Lucha Por Los Derechos Humanos De Las Personas Intersexuales En Chile|  work = [[Brújula Intersexual]]| date = June 2017| url = https://brujulaintersexual.files.wordpress.com/2017/06/circular-7-laura-y-hana11.pdf}}&lt;/ref&gt;
+
+===[[Government of Tamil Nadu]] Executive Order===
+On 22 April 2019 the [[Madras High Court]] (Madurai Bench) passed a landmark judgment&lt;ref name="Live Law.in"&gt;{{cite web|url=https://www.livelaw.in/news-updates/transwoman-regarded-as-bride-madras-hc-bans-sex-re-assignment-surgeries-intersex-children-144467|title="Transwoman A 'Bride' Under Hindu Marriage Act": Madras HC; Also Bans Sex Re-Assignment Surgeries On Intersex Children [Read Judgment]|access-date=2019-04-24}}&lt;/ref&gt; and issued direction to ban Sex-Selective Surgeries on Intersex Infants based on the works of [[Gopi Shankar Madurai]]. On August 13, 2019 the [[Government of Tamil Nadu]], [[India]] has issued a Government Order to ban non-necessary surgeries on the sex characteristics of babies and children in the Indian state of [[Tamil Nadu]] with 77.8 Million people, this regulation is exempted in the case of life-threatening situations.&lt;ref name="Kyle Knight - Human Rights Watch"/&gt;&lt;ref name="The News Minute"/&gt;&lt;ref name="Times of India"/&gt;&lt;ref name="Human Rights Watch"/&gt;
+
+=== Legal protections in Germany 2021 ===
+{{main|Intersex rights in Germany}}
+A law that provides for a general ban on operations in children and adolescents with 'variants of gender development' ('Varianten der Geschlechtsentwicklung') was passed in the [[Intersex rights in Germany|German]] parliament on March 25, 2021.&lt;ref&gt;{{cite web |url=https://www.bundestag.de/dokumente/textarchiv/2021/kw12-de-geschlechterentwicklung-kinder-830122 |title=Schutz von Kindern mit Varianten der Geschlechtsentwicklung |website=Deutscher Bundestag |language=German |access-date=April 29, 2021}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://dipbt.bundestag.de/extrakt/ba/WP19/2677/267726.html |title=Gesetz zum Schutz von Kindern mit Varianten der Geschlechtsentwicklung |language=German |website=Deutscher Bundestag |access-date=April 29, 2021}}&lt;/ref&gt; According to a report in the [[Deutsches Ärzteblatt]], the law is intended to strengthen the self-determined decision-making of children and adolescents and avoid possible damage to their health. Surgical changes to [[sex characteristics (legal term)|gender characteristics]] should only take place - even with the consent of the parents - if the operation cannot be postponed until age 14. The Federal Chamber of Psychotherapists requires the mandatory participation of a counsellor with experience on intersex in an assessment before a possible intervention.&lt;ref&gt;{{cite web |first=Petra |last=Bühring |url=https://www.aerzteblatt.de/archiv/217721/Intersexuelle-Kinder-Recht-zur-Selbstbestimmung |title=Intersexuelle Kinder: Recht zur Selbstbestimmung |date=February 20, 2021 |language=German |website=aerzteblatt.de |access-date=April 29, 2021}}&lt;/ref&gt; While supportive of progress,&lt;ref&gt;{{Cite web| last = OII Europe | author-link = OII Europe | url = https://oiieurope.org/a-good-first-step-germany-adopts-law-banning-igm/ | title = A good first step: Germany adopts law banning IGM. But there is still room for improvement | date = March 30, 2021 | access-date = April 4, 2021}}&lt;/ref&gt; the law that was finally passed was also criticized by the [[Organisation Intersex International|Organisation Intersex International (OII) Germany]], [[OII Europe]], and Intergeschlechtliche Menschen, because of the existence of exceptions.&lt;ref name="Intergeschlechtliche Menschen"/&gt;&lt;ref&gt;{{cite web |url=https://oiigermany.org/wp-content/uploads/2020/11/Stellungnahme-OII-Germany-Nov-2020_.pdf |title=Stellungnahme IVIM - OII Germany zum Gesetzentwurf der Bundesregierung "Entwurf eines Gesetzes zum Schutz von Kindern mit Varianten der Geschlechtsentwicklung" |date=September 23, 2020 |language=German |access-date=April 29, 2021}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://oiigermany.org/wp-content/uploads/2021/03/Presseerkla%CC%88rung-Internationale-Vereinigung-Intergeschlechtlicher-Menschen_3_2021.pdf |title=Presseerklärung Internationale Vereinigung Intergeschlechtlicher Menschen |website=OII Germany |language=German |date=March 26, 2021 |access-date=April 29, 2021}}&lt;/ref&gt;
+
+==Right to life==
+{{further|Genetic diagnosis of intersex}}
+[[Preimplantation genetic diagnosis]] (PGD or PIGD) refers to [[Genetics|genetic]] testing of [[embryo]]s prior to [[Implantation (human embryo)|implantation]] (as a form of [[embryo profiling]]), and sometimes even of [[oocyte]]s prior to [[Fertilisation|fertilization]]. PGD is considered in a similar fashion to [[prenatal diagnosis]]. When used to screen for a specific genetic condition, the method makes it highly likely that the baby will be free of the condition under consideration. PGD thus is an adjunct to [[assisted reproductive technology]], and requires [[In vitro fertilisation|in vitro fertilization]] (IVF) to obtain oocytes or embryos for evaluation. The technology allows discrimination against those with [[intersex]] traits.
+
+[[Georgiann Davis]] argues that such discrimination fails to recognize that many people with intersex traits led full and happy lives.&lt;ref&gt;{{Cite journal| doi = 10.1080/15265161.2013.828119| issn = 1526-5161| volume = 13| issue = 10| pages = 51–53| last = Davis| first = Georgiann| author-link=Georgiann Davis|title = The Social Costs of Preempting Intersex Traits| journal = The American Journal of Bioethics| date = October 2013| pmid=24024811| s2cid = 7331095}}&lt;/ref&gt; [[Morgan Carpenter]] highlights the appearance of several intersex variations in a list by the UK [[Human Fertilisation and Embryology Authority]] of "serious" "genetic conditions" that may be de-selected, including [[5 alpha reductase deficiency]] and [[androgen insensitivity syndrome]], traits evident in elite women athletes and "the world's first openly [[Tony Briffa (politician)|intersex mayor]]".&lt;ref&gt;{{Cite web |last=Carpenter |first=Morgan |author-link=Morgan Carpenter |title=Morgan Carpenter at LGBTI Human Rights in the Commonwealth conference |location=Glasgow |date=July 18, 2014 |access-date=April 29, 2021 |url=http://oii.org.au/27467/lgbti-human-rights-in-the-commonwealth/ |archive-url=https://web.archive.org/web/20140912102123/http://oii.org.au/27467/lgbti-human-rights-in-the-commonwealth/ |archive-date=September 12, 2014}}&lt;/ref&gt; [[Organisation Intersex International Australia]] has called for the Australian [[National Health and Medical Research Council]] to prohibit such interventions, noting a "close entanglement of intersex status, gender identity and sexual orientation in social understandings of sex and gender norms, and in medical and medical sociology literature".&lt;ref&gt;{{Cite report| publisher = Organisation Intersex International Australia| last1 = Carpenter| first1 = Morgan| author2-link = Organisation Intersex International Australia| last2 = Organisation Intersex International Australia| title = Submission on the Review of Part B of the Ethical Guidelines for the Use of Assisted Reproductive Technology in Clinical Practice and Research, 2007| location = Sydney| date = April 30, 2014| url = http://oii.org.au/25621/submission-ethics-genetic-selection-intersex-traits/}}&lt;/ref&gt;
+
+In 2015, the [[Council of Europe]] published an Issue Paper on ''Human rights and intersex people'', remarking:
+
+{{quotation|Intersex people's right to life can be violated in discriminatory “sex selection” and “preimplantation genetic diagnosis, other forms of testing, and selection for particular characteristics”. Such de-selection or selective abortions are incompatible with ethics and human rights standards due to the discrimination perpetrated against intersex people on the basis of their sex characteristics.&lt;ref name="coe" /&gt;}}
+
+==Protection from discrimination ==
+[[File:Inclusion of sex characteristics in anti-discrimination law.svg|thumb|right|452px|
+{{legend|#002255|Explicit protection on grounds of sex characteristics (Bosnia and Herzegovina, Finland, Greece, Serbia, Malta, Portugal)}}
+{{legend|#0066FF|Explicit protection on grounds of intersex status ([[Intersex rights in Australia|Australia]], Jersey)}}
+{{legend|#9FCFFF|Explicit protection on grounds of intersex within attribute of sex (South Africa)}}
+{{legend|#e3e3e3|No explicit protection on grounds}}]]
+{{main|Discrimination against intersex people}}
+A handful of jurisdictions so far provide explicit protection from discrimination for intersex people. [[Intersex rights in South Africa|South Africa]] was the first country to explicitly add intersex to legislation, as part of the attribute of "sex".&lt;ref name="zagaz"/&gt; [[Intersex rights in Australia|Australia]] was the first country to add an independent attribute, of "intersex status".&lt;ref name="com law"&gt;{{cite web | url = http://www.comlaw.gov.au/Details/C2013A00098 | title = Sex Discrimination Amendment (Sexual Orientation, Gender Identity and Intersex Status) Act 2013, No. 98, 2013, C2013A00098 | work = ComLaw | date = 2013}}&lt;/ref&gt; [[Intersex rights in Malta|Malta]] was the first to adopt a broader framework of "sex characteristics, through legislation that also ended modifications to the sex characteristics of minors undertaken for social and cultural reasons.&lt;ref name="gate-malta" /&gt;  [[Bosnia-Herzegovina]] listed as "sex characteristics"&lt;ref name="ilgaeurope"/&gt;&lt;ref name="lezbelib.com"&gt;{{cite web | url = http://www.lezbelib.com/europe-news/lgbti-people-are-now-better-protected-in-bosnia-and-herzegovina | title = LGBTI people are now better protected in Bosnia and Herzegovina}}&lt;/ref&gt; [[Greece]] prohibits discrimination and hate crimes based on "sex characteristics", since 24 December 2015.&lt;ref name="et.gr" /&gt;&lt;ref name="Πρώτη φορά, ίσοι απέναντι στον νόμο"&gt;{{cite web | url = http://www.efsyn.gr/arthro/proti-fora-isoi-apenanti-ston-nomo | script-title=el:Πρώτη φορά, ίσοι απέναντι στον νόμο| date = 2015-12-23|language=el}}&lt;/ref&gt; Since 2021, [[Serbia]] also prohibits discrimination based on "sex characteristics".&lt;ref name="XY Spectrum"/&gt;
+
+=== Education ===
+An Australian survey of 272 persons born with atypical sex characteristics, published in 2016, found that 18% of respondents (compared to an Australian average of 2%) failed to complete secondary school, with early school leaving coincident with pubertal medical interventions, bullying and other factors.&lt;ref name="jones2016ed"&gt;{{Cite journal| doi = 10.1080/14681811.2016.1149808| issn = 1468-1811 | pages = 602–618| last = Jones| first = Tiffany| title = The needs of students with intersex variations| journal = Sex Education| volume = 16 | issue = 6 | date = March 11, 2016 | s2cid = 74173324 }}&lt;/ref&gt;
+
+=== Employment ===
+A 2015 Australian survey of people born with atypical sex characteristics found high levels of poverty, in addition to very high levels of early school leaving, and higher than average rates of disability.&lt;ref name="jonesbk2016"&gt;{{Cite book| publisher = Open Book Publishers| isbn = 978-1-78374-208-0| last1 = Jones| first1 = Tiffany| last2 = Hart| first2 = Bonnie| last3 = Carpenter| first3 = Morgan| last4 = Ansara| first4 = Gavi| last5 = Leonard| first5 = William| last6 = Lucke| first6 = Jayne| title = Intersex: Stories and Statistics from Australia| location = Cambridge, UK| access-date = 2016-02-02| date = February 2016| url = http://oii.org.au/wp-content/uploads/key/Intersex-Stories-Statistics-Australia.pdf | archive-url = https://web.archive.org/web/20160914152729/http://oii.org.au/wp-content/uploads/key/Intersex-Stories-Statistics-Australia.pdf| archive-date = 2016-09-14}}&lt;/ref&gt; An ''Employers guide to intersex inclusion'' published by Pride in Diversity and [[Organisation Intersex International Australia]] also discloses cases of discrimination in employment.&lt;ref&gt;{{Cite book| publisher = Pride in Diversity and [[Organisation Intersex International Australia]] | isbn = 978-0-646-92905-7| last1 = Carpenter| first1 = Morgan| last2 = Hough| first2 = Dawn| author1-link = Morgan Carpenter | title = Employers' Guide to Intersex Inclusion| location = Sydney, Australia| date = 2014| url = http://oii.org.au/employer}}&lt;/ref&gt;
+
+=== Healthcare ===
+Discrimination protection intersects with involuntary and coercive medical treatment. Maltese protections on grounds of [[sex characteristics]] provides explicit protection against unnecessary and harmful modifications to the sex characteristics of children.&lt;ref name="star-2015" /&gt;&lt;ref name="gate-malta" /&gt;
+
+In May 2016, the [[United States Department of Health and Human Services]] issued a statement explaining Section 1557 of the [[Affordable Care Act]] stating that the Act prohibits "discrimination on the basis of intersex traits or atypical sex characteristics" in publicly funded healthcare, as part of a prohibition of discrimination "on the basis of sex".&lt;ref name="interacthealth"&gt;{{cite web| last = [[Interact Advocates for Intersex Youth|interACT]]| title = Federal Government Bans Discrimination Against Intersex People in Health Care| work = interactadvocates| access-date = 2016-05-27| url = http://interactadvocates.org/federal-government-bans-discrimination-against-intersex-people-in-health-care/}}&lt;/ref&gt;
+
+=== Sport ===
+{{main|Sex verification in sports}}
+In 2013, it was disclosed in a medical journal that four unnamed elite female athletes from developing countries were subjected to gonadectomies (sterilization) and partial clitoridectomies ([[female genital mutilation]]) after [[Sex verification in sports|testosterone testing]] revealed that they had an intersex condition.&lt;ref name="jcem2013" /&gt;&lt;ref name="bmj2014" /&gt; Testosterone testing was introduced in the wake of the [[Caster Semenya]] case, of a [[Intersex rights in South Africa|South African]] runner subjected to testing due to her appearance and vigor.&lt;ref name="jcem2013"&gt;{{Cite journal| doi = 10.1210/jc.2012-3893| pmid = 23633205 | issn = 0021-972X | volume = 98| issue = 6| pages = –1055–E1059| last1 = Fénichel| first1 = Patrick| last2 = Paris| first2 = Françoise| last3 = Philibert| first3 = Pascal| last4 = Hiéronimus| first4 = Sylvie| last5 = Gaspari| first5 = Laura| last6 = Kurzenne| first6 = Jean-Yves| last7 = Chevallier| first7 = Patrick| last8 = Bermon| first8 = Stéphane| last9 = Chevalier| first9 = Nicolas| last10 = Sultan| first10 = Charles| title = Molecular Diagnosis of 5α-Reductase Deficiency in 4 Elite Young Female Athletes Through Hormonal Screening for Hyperandrogenism| journal = The Journal of Clinical Endocrinology &amp; Metabolism| date = June 2013| doi-access = free}}&lt;/ref&gt;&lt;ref name="bmj2014"&gt;{{Cite journal| doi = 10.1136/bmj.g2926| issn = 1756-1833| volume = 348| issue = apr28 9| pages = –2926–g2926| last1 = Jordan-Young| first1 = R. M.| last2 = Sonksen| first2 = P. H.| last3 = Karkazis| first3 = K.| author-link1= Rebecca Jordan-Young | author-link3= Katrina Karkazis |title = Sex, health, and athletes| journal = BMJ| date = April 2014 | pmid=24776640| s2cid = 2198650}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/athletics/8210471.stm|title=Semenya told to take gender test  |work=[[BBC Sport]]|date=19 August 2009|access-date=19 August 2009}}&lt;/ref&gt;&lt;ref name="nyt2008"&gt;{{cite news | title = A Lab is Set to Test the Gender of Some Female Athletes. | work = [[New York Times]] | date = 30 July 2008 | url = https://www.nytimes.com/2008/07/30/sports/olympics/30gender.html }}&lt;/ref&gt; There is no evidence that innate hyperandrogenism in elite women athletes confers an advantage in sport.&lt;ref&gt;{{Cite journal| doi = 10.1210/jc.2014-1391| pmid = 25137421 | issn = 0021-972X | pages = –2014–1391| last1 = Bermon| first1 = Stéphane| last2 = Garnier| first2 = Pierre Yves| last3 = Lindén Hirschberg| first3 = Angelica| last4 = Robinson| first4 = Neil| last5 = Giraud| first5 = Sylvain| last6 = Nicoli| first6 = Raul| last7 = Baume| first7 = Norbert| last8 = Saugy| first8 = Martial| last9 = Fénichel| first9 = Patrick| last10 = Bruce| first10 = Stephen J.| last11 = Henry| first11 = Hugues| last12 = Dollé| first12 = Gabriel| last13 = Ritzen| first13 = Martin| title = Serum Androgen Levels in Elite Female Athletes| journal = The Journal of Clinical Endocrinology &amp; Metabolism| date = August 2014 | volume=99| issue = 11 | doi-access = free}}&lt;/ref&gt;&lt;ref name="IAAF ruling"&gt;{{cite news|last1=Branch|first1=John|title=Dutee Chand, Female Sprinter With High Testosterone Level, Wins Right to Compete|url=https://www.nytimes.com/2015/07/28/sports/international/dutee-chand-female-sprinter-with-high-male-hormone-level-wins-right-to-compete.html|access-date=22 May 2016|work=The New York Times|date=27 July 2016}}&lt;/ref&gt; While Australia protects intersex persons from discrimination, the Act contains an exemption in sport.
+
+== Remedies and compensation claims==
+[[File:Utrechtpride-intersexboat.jpg|thumb|300px|Intersex activists on a boat at Utrecht Canal Pride on June 16, 2018]]
+Compensation claims have been made in a limited number of legal cases.
+
+=== Christiane Völling case, Germany ===
+{{main|Christiane Völling|Intersex rights in Germany}}
+In [[Intersex rights in Germany|Germany]] in 2011, [[Christiane Völling]] was successful in a case against her medical treatment. The surgeon was ordered to pay €100,000 in compensatory damages&lt;ref&gt;{{cite web |url=http://zwischengeschlecht.org/pages/Hermaphrodite-wins-damage-claim |title=Christiane Völling: Hermaphrodite wins damage claim over removal of reproductive organs |last1=Zwischengeschlecht |date=August 12, 2009 |access-date=2015-07-20 |author1-link=Zwischengeschlecht }}&lt;/ref&gt;&lt;ref name="local" /&gt; after a legal battle that began in 2007, thirty years after the removal of her reproductive organs.&lt;ref name="voll"&gt;{{Cite web| title = German Gender-Assignment Case Has Intersexuals Hopeful | publisher= [[Deutsche Welle]] | date=12 December 2007| work = DW.COM| access-date = 2015-12-21| url = http://www.dw.com/en/german-gender-assignment-case-has-intersexuals-hopeful/a-3000902}}&lt;/ref&gt;&lt;ref&gt;{{Cite web| last = DW Staff| title = Christiane Völling| publisher = [[German Ethics Council]]| date = August 2010| access-date = 2015-12-21| url = http://diskurs.ethikrat.org/christiane-volling/| archive-url = https://web.archive.org/web/20160304060821/http://diskurs.ethikrat.org/christiane-volling/| archive-date = 2016-03-04}}&lt;/ref&gt;
+
+=== Benjamín-Maricarmen case, Chile ===
+{{further|Intersex rights in Chile}}
+On August 12, 2005, the mother of a child, Benjamín, filed a lawsuit against the [[Ministry of Health (Chile)|Maule Health Service]] after the child's male gonads and reproductive system were removed without informing the parents of the nature of the surgery. The child had been raised as a girl. The claim for compensatory damages was initiated in the Fourth Court of Letters of [[Talca]], and ended up in the [[Supreme Court of Chile]]. On November 14, 2012, the Court sentenced the Maule Health Service for "lack of service" and to pay compensation of 100 million pesos for moral and psychological damages caused to Benjamín, and another 5 million for each of the parents.&lt;ref name="diario.latercera.com"&gt;{{cite web|title=Condenan al H. de Talca por error al determinar sexo de bebé|url=http://diario.latercera.com/2012/11/24/01/contenido/pais/31-123780-9-condenan-al-h-de-talca--por-error-al-determinar-sexo-de-bebe.shtml|archive-url=https://web.archive.org/web/20121124010101/http://diario.latercera.com/2012/11/24/01/contenido/pais/31%2D123780%2D9%2Dcondenan%2Dal%2Dh%2Dde%2Dtalca%2D%2Dpor%2Derror%2Dal%2Ddeterminar%2Dsexo%2Dde%2Dbebe.shtml|website=diario.latercera.com|access-date=15 February 2017|archive-date=24 November 2012 |language=es}}&lt;/ref&gt;&lt;ref name="Benjamin"&gt;{{cite web|last = García | first = Gabriela | title=Identidad forzada|url=http://www.paula.cl/reportajes-y-entrevistas/reportajes/identidad-forzada/|website=www.paula.cl|language=es| date = 2013-06-20 }}&lt;/ref&gt;
+
+=== M.C. v. Aaronson case, USA ===
+{{further|Intersex rights in the United States}}
+In the [[Intersex rights in the United States|United States]] the ''M.C. v. Aaronson'' case, advanced by [[Interact Advocates for Intersex Youth|interACT]] with the [[Southern Poverty Law Center]], was brought before the courts in 2013.&lt;ref&gt;{{cite web |url=http://www.splcenter.org/get-informed/news/groundbreaking-splc-lawsuit-accuses-south-carolina-doctors-and-hospitals-of-unnece |title= Groundbreaking SLPC Lawsuit Accuses South Carolina Doctors and Hospitals of Unnecessary Surgery on Infant |last1=Southern Poverty Law Center |date=May 14, 2013 |access-date=2015-07-20 |author1-link= Southern Poverty Law Center }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://nursingclio.org/2013/05/17/do-no-harm-intersex-surgeries-and-the-limits-of-certainty/ |title= Do No Harm: Intersex Surgeries and the Limits of Certainty |last1=Reis |first1=Elizabeth  |date=May 17, 2013 |website=Nursing Clio |access-date=2015-07-20 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.theatlantic.com/health/archive/2013/05/when-to-do-surgery-on-a-child-with-both-genitalia/275884/ |title= When to Do Surgery on a Child With 'Both' Genitalia |last1=Dreger |first1=Alice  |date=May 16, 2013 |website=[[The Atlantic]] |access-date=2015-07-20 }}&lt;/ref&gt; In 2015, the Court of Appeals for the Fourth Circuit dismissed the case, stating that, "it did not “mean to diminish the severe harm that M.C. claims to have suffered” but that a reasonable official in 2006 did not have fair warning from then-existing precedent that performing sex assignment surgery on sixteen-month-old M.C. violated a clearly established constitutional right."&lt;ref name="largent2015"&gt;{{cite web| url = http://blogs.harvard.edu/billofhealth/2015/03/05/m-c-v-aaronson-update/ | title = M.C. v. Aaronson | first = Emily | last = Largent | work = Petrie-Flom Center, Harvard Law | date = March 5, 2015}}&lt;/ref&gt;&lt;ref&gt;{{Cite web| last = interACT| author-link = Interact Advocates for Intersex Youth| title = Update on M.C.'s Case – The Road to Justice can be Long, but there is more than one path for M.C.| access-date = 2017-02-18| date = January 27, 2015| url = http://interactadvocates.org/update-on-the-m-c-case-the-road-to-justice-can-be-long/| archive-url = https://web.archive.org/web/20170219013202/http://interactadvocates.org/update-on-the-m-c-case-the-road-to-justice-can-be-long/| archive-date = 2017-02-19}}&lt;/ref&gt; In July 2017, it was reported that the case had been settled out of court by the Medical University of South Carolina for $440,000, without admission of liability.&lt;ref name="ghorayshi2017"&gt;{{Cite web| last = Ghorayshi| first = Azeen| title = A Landmark Lawsuit About An Intersex Baby's Genital Surgery Just Settled For $440,000| work = BuzzFeed| access-date = 2017-07-27| date = July 27, 2017 | url = https://www.buzzfeed.com/azeenghorayshi/intersex-surgery-lawsuit-settles}}&lt;/ref&gt;
+
+=== Michaela Raab case, Germany ===
+{{further|Intersex rights in Germany}}
+In 2015, Michaela Raab filed suit against doctors in Nuremberg, Germany, for failing to properly advise her. Doctors stated that they "were only acting according to the norms of the time - which sought to protect patients against the psychosocial effects of learning the full truth about their chromosomes."&lt;ref name="local"&gt;{{Cite web| last = [[The Local]]| title = Intersex person sues clinic for unnecessary op| date = February 27, 2015| access-date = 2015-12-21| url = http://www.thelocal.de/20150227/intersex-person-sues-doctors-for-unwanted-op}}&lt;/ref&gt; On 17 December 2015, the Nuremberg State Court ruled that the [[University of Erlangen-Nuremberg]] Clinic pay damages and compensation.&lt;ref&gt;{{Cite web| last = Zwischengeschlecht| title = Nuremberg Hermaphrodite Lawsuit: Michaela "Micha" Raab Wins Damages and Compensation for Intersex Genital Mutilations!| access-date = 2015-12-21| date = December 17, 2015 | url = http://stop.genitalmutilation.org/post/Nuremberg-Hermaphrodite-Lawsuit-Damages-and-Compensation-for-Intersex-Genital-Mutilations}}&lt;/ref&gt;
+
+== Access to information ==
+[[File:Licence to Lie.jpg|thumb|"They should never be told ... "&lt;ref&gt;{{Cite book|title=Testicular Feminization. In: Intersexuality|last=Hauser|first=G.A.|publisher=Academic Press|year=1963|location=London and New York|pages=273}}&lt;/ref&gt; Licence to Lie - [[Androgen insensitivity syndrome]] treatment standards in 1963]]
+With the rise of modern medical science in Western societies, many intersex people with ambiguous external genitalia have had their genitalia surgically modified to resemble either female or male genitals. Surgeons pinpointed the birth of intersex babies as a "social emergency".&lt;ref&gt;{{cite journal|last1=Coran|first1=Arnold G.|last2=Polley|first2=Theodore Z.|title=Surgical management of ambiguous genitalia in the infant and child|journal=Journal of Pediatric Surgery|date=July 1991|volume=26|issue=7|pages=812–820|doi=10.1016/0022-3468(91)90146-K|pmid=1895191|citeseerx=10.1.1.628.4867}}&lt;!--|access-date=30 November 2014--&gt;&lt;/ref&gt; A secrecy-based model was also adopted, in the belief that this was necessary to ensure “normal” physical and psychosocial development.&lt;ref name="swissnek" /&gt;&lt;ref&gt;{{cite web| last = Holmes| first = Morgan| author-link=Morgan Holmes |title = Is Growing up in Silence Better Than Growing up Different?| work = Intersex Society of North America| url = http://www.isna.org/node/743}}&lt;/ref&gt;&lt;ref&gt;{{cite web| last = [[Intersex Society of North America]]| title = What's wrong with the way intersex has traditionally been treated?| url = http://www.isna.org/faq/concealment#fn2}}&lt;/ref&gt; Disclosure also included telling people that they would never meet anyone else with the same condition.&lt;ref name="SenateOnSterilisation" /&gt; Access to medical records has also historically been challenging.&lt;ref name="coe" /&gt; Yet the ability to provide free, informed consent depends on the availability of information.
+
+The [[Council of Europe]]&lt;ref name="coe" /&gt; and [[World Health Organization]]&lt;ref name="who2015"&gt;{{Cite book| publisher = World Health Organization| isbn = 9789241564984| last = [[World Health Organization]]| title = Sexual health, human rights and the law| location = Geneva| date = 2015}}&lt;/ref&gt; acknowledge the necessity for improvements in information provision, including access to [[medical record]]s.
+
+Some intersex organizations claim that secrecy-based models have been perpetuated by a shift in clinical language to [[disorders of sex development]]. [[Morgan Carpenter]] of [[Organisation Intersex International Australia]] quotes the work of [[Miranda Fricker]] on "hermeneutical injustice" where, despite new legal protections from discrimination on grounds of intersex status, "someone with lived experience is unable to even make sense of their own social experiences" due to the deployment of clinical language and "no words to name the experience".&lt;ref&gt;{{Cite conference| publisher = Organisation Intersex International Australia| last = Carpenter| first = Morgan| title = Intersex and ageing| date = February 3, 2015 | url = https://oii.org.au/28385/intersex-and-ageing/}}&lt;/ref&gt;
+
+== Legal recognition ==
+{{main|Legal recognition of intersex people}}
+According to the [[Asia Pacific Forum]] of National Human Rights Institutions, few countries have provided for the legal recognition of intersex people. The Forum states that the legal recognition of intersex people is:
+
+* firstly about access to the same rights as other men and women, when assigned male or female; 
+* secondly it is about access to administrative corrections to legal documents when an original [[sex assignment]] is not appropriate; and 
+* thirdly, while opt in schemes may help some individuals, legal recognition is not about the creation of a third [[sex or gender]] classification for intersex people as a population, but instead is about enabling an opt-in scheme for any individual who seeks it.&lt;ref name="afp2016" /&gt;
+
+In some jurisdictions, access to any form of identification document can be an issue.&lt;ref name="Reuters"/&gt;
+
+===Gender identities===
+Like all individuals, some intersex individuals may be raised as a particular sex (male or female) but then identify with another later in life, while most do not.&lt;ref name="Money"&gt;{{cite book |last=Money |first=John |author-link = John Money |author2=Ehrhardt, Anke A. |title=Man &amp; Woman Boy &amp; Girl. Differentiation and dimorphism of gender identity from conception to maturity |year=1972 |publisher=The Johns Hopkins University Press |location=USA |isbn=978-0-8018-1405-1 |url-access=registration |url=https://archive.org/details/manwomanboygirl00mone }}&lt;/ref&gt;&lt;ref name="Dreger"&gt;{{cite book |last=Domurat Dreger |first=Alice |title=Hermaphrodites and the Medical Invention of Sex |year=2001 |publisher=Harvard University Press |location=USA |isbn=978-0-674-00189-3 }}&lt;/ref&gt;&lt;ref name="maranon"&gt;{{cite book |last=Marañón |first=Gregorio |title=Los estados intersexuales en la especie humana |year=1929 |publisher=Morata |location=Madrid }}&lt;/ref&gt; Like non-intersex people, some intersex individuals may not identify themselves as either exclusively female or exclusively male. A 2012 clinical review suggests that between 8.5-20% of persons with intersex conditions may experience [[gender dysphoria]],&lt;ref name="furtado"&gt;{{cite journal | author = Furtado P. S.| year = 2012 | title = Gender dysphoria associated with disorders of sex development | journal = Nat. Rev. Urol. | volume = 9 | issue = 11| pages = 620–627 | doi = 10.1038/nrurol.2012.182 |display-authors=etal | pmid=23045263| s2cid = 22294512 }}&lt;/ref&gt; while sociological research in Australia, a country with a third 'X' sex classification, shows that 19% of people born with atypical sex characteristics selected an "X" or "other" option, while 52% are women, 23% men and 6% unsure.&lt;ref name="jonesbk2016" /&gt;&lt;ref name="oiiaudemo"&gt;{{Citation| last = Organisation Intersex International Australia| title = Demographics| date = July 28, 2016| url = https://oii.org.au/demographics/ | access-date = 2016-09-30}}&lt;/ref&gt;
+
+===Access to identification documents===
+Depending on the jurisdiction, access to any birth certificate may be an issue,&lt;ref name="Reuters"&gt;{{Cite news|url=https://www.reuters.com/article/us-kenya-intersex-idUSKCN0JJ1M120141205|title=Kenya takes step toward recognizing intersex people in landmark ruling |website=Reuters|date=2014-12-05}}&lt;/ref&gt; including a birth certificate with a sex marker.&lt;ref name="adv-de"&gt;{{cite web | url = http://www.advocate.com/commentary/2013/11/06/op-ed-germany's-third-gender-law-fails-equality | first = Hida | last = Viloria | work = The Advocate | title = Op-ed: Germany's Third-Gender Law Fails on Equality | date = November 6, 2013}}&lt;/ref&gt;
+
+In 2014, in the case of ''Baby 'A' (Suing through her Mother E.A) &amp; another v Attorney General &amp; 6 others [2014]'', a Kenyan court ordered the Kenyan government to issue a birth certificate to a five-year-old child born in 2009 with ambiguous genitalia.&lt;ref name="Reuters2014"&gt;{{cite news| last = Migiro| first = Katy|url=https://www.reuters.com/article/us-kenya-intersex-idUSKCN0JJ1M120141205|title=Kenya takes step toward recognizing intersex people in landmark ruling|work=Reuters}}&lt;/ref&gt; In [[Intersex rights in Kenya|Kenya]] a birth certificate is necessary for attending school, getting a national identity document, and voting.&lt;ref name="Reuters2014"/&gt; Many intersex persons in [[Intersex rights in Uganda|Uganda]] are understood to be stateless due to historical difficulties in obtaining identification documents, despite a birth registration law that permits intersex minors to change assignment.&lt;ref name="sipd2016"&gt;{{Citation| last = Support Initiative for Persons with Congenital Disorders| title = Baseline Survey on Intersex Realities in East Africa - Specific Focus on Uganda, Kenya and Rwanda| date = 2016}}&lt;/ref&gt;
+
+===Access to the same rights as other men and women===
+The [[Asia Pacific Forum]] of [[National Human Rights Institutions]] states that:
+{{quotation|Recognition before the law means having legal personhood and the legal protections that flow from that. For intersex people, this is neither primarily nor solely about amending birth registrations or other official documents. Firstly, it is about intersex people who have been issued a male or a female birth certificate being able to enjoy the same legal rights as other men and women&lt;ref name="afp2016"&gt;{{Cite book| publisher = [[Asia Pacific Forum|Asia Pacific Forum of National Human Rights Institutions]]| isbn = 978-0-9942513-7-4| last = Asia Pacific Forum of National Human Rights Institutions| title = Promoting and Protecting Human Rights in relation to Sexual Orientation, Gender Identity and Sex Characteristics| date = June 2016| url = http://www.asiapacificforum.net/resources/manual-sogi-and-sex-charactersitics/}}&lt;/ref&gt;}}
+
+Some countries like Australia and New Zealand exempt female genital mutilation laws from intersex people. and the laws may exist but may not be enforced in some other countries like the United States.{{Citation needed|date=January 2019}}
+
+===Binary categories===
+Access to a birth certificate with a correct sex marker may be an issue for people who do not identify with their sex assigned at birth,&lt;ref name="coe" /&gt; or it may only be available accompanied by surgical requirements.&lt;ref name="afp2016" /&gt;
+
+The passports and identification documents of [[Intersex rights in Australia|Australia]] and some other nationalities have adopted "X" as a valid third category besides "M" (male) and "F" (female), at least since 2003.&lt;ref name="Science as Culture"&gt;{{cite journal|first=Ingrid | last = Holme | title = Hearing People's Own Stories | journal = Science as Culture | volume = 17 | issue = 3 | doi = 10.1080/09505430802280784 | date = 2008| pages=341–344| s2cid = 143528047 }}&lt;/ref&gt;&lt;ref name="nzpass"&gt;{{cite web|url=http://www.passports.govt.nz/Transgender-applicants|title=New Zealand Passports - Information about Changing Sex / Gender Identity|access-date=6 October 2014}}&lt;/ref&gt; In 2013, Germany became the first European nation to allow babies with characteristics of both sexes to be registered as ''indeterminate gender'' on birth certificates, amidst opposition and skepticism from intersex organisations who point out that the law appears to mandate exclusion from male or female categories.&lt;ref&gt;{{cite web | url = http://www.dw.de/third-sex-option-on-birth-certificates/a-17193869 | title = Third sex option on birth certificates | work = [[Deutsche Welle]] | date = 1 November 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://oiieurope.org/bluff-package-for-inter-leaving-sex-entry-open-is-not-an-option/ | title = Sham package for Intersex: Leaving sex entry open is not an option | work = [[OII Europe]] | date = 15 February 2013}}&lt;/ref&gt; The Council of Europe acknowledged this approach, and concerns about recognition of third and blank classifications in a 2015 Issue Paper, stating that these may lead to "forced outings" and "lead to an increase in pressure on parents of intersex children to decide in favour of one sex."&lt;ref name="coe" /&gt; The Issue Paper argues that "further reflection on non-binary legal identification is necessary":
+
+{{quotation|[[Mauro Cabral]], [[Global Action for Trans Equality]] (GATE) Co-Director, indicated that any recognition outside the “F”/”M” dichotomy needs to be adequately planned and executed with a human rights point of view, noting that: “People tend to identify a [[third sex]] with freedom from the gender binary, but that is not necessarily the case. If only trans and/or intersex people can access that third category, or if they are compulsively assigned a third sex, then the gender binary gets stronger, not weaker”&lt;ref name="coe" /&gt;}}
+
+==Intersex rights by jurisdiction==
+{{further|Discrimination against intersex people|Legal recognition of intersex people}}
+Read country-specific pages on intersex rights via the links on the country name, where available. &lt;section begin="bycountry" /&gt;
+
+=== Africa ===
+
+{| class="wikitable
+! width="12.5%"|Country/jurisdiction
+! width="12.5%"|Physical integrity and bodily autonomy
+! width="12.5%"|[[Discrimination against intersex people|Anti-discrimination protection]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to identification documents|Access to identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to the same rights as other men and women|Access to same rights as other men and women]]
+! width="12.5%"|[[Legal recognition of intersex people#Changing identification documents|Changing M/F identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Third sex or gender classifications|Third gender or sex classifications]]
+! width="12.5%"|[[Legal recognition of intersex people#end official classification by sex or gender|Ending official classification by sex or gender]]
+! width="12.5%"|[[Sex and gender distinction]]s
+! width="12.5%"|[[Legal recognition of intersex people#Malta declaration|Assign infants and children to male or female]]
+|-
+| {{flagicon|Kenya}} [[Intersex rights in Kenya|Kenya]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="chigiti2016"&gt;{{Cite web| last = Chigiti| first = John| title = The plight of the intersex child| work = The Star, Kenya| access-date = 2017-05-13| date = September 14, 2016| url = http://www.the-star.co.ke/news/2016/09/14/the-plight-of-the-intersex-child_c1419560}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Reuters"/&gt;
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; 
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|South Africa}} [[Intersex rights in South Africa|South Africa]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref&gt;{{cite news | title = SA joins the global fight to stop unnecessary genital surgery on intersex babies | url = http://mg.co.za/article/2016-10-27-00-sa-joins-the-global-fight-to-stop-unnecessary-genital-surgery-on-intersex-babies/ | date = October 27, 2016 | last = Collison | first = Carl | work = [[Mail&amp;Guardian]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CRC/C/ZAF/CO/2&amp;Lang=En | last1 = United Nations | last2 = Committee on the Rights of the Child | title = Concluding observations on the second periodic report of South Africa | date = October 27, 2016}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="zagaz"&gt;{{cite web | url = http://www.justice.gov.za/legislation/acts/2005-022.pdf | title = Judicial Matters Amendment Act, No. 22 of 2005, Republic of South Africa, Vol. 487, Cape Town | date = 11 January 2006}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Access to same rights as other men and women--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref&gt;{{cite web |url=http://www.justice.gov.za/legislation/acts/2000-004.pdf |title=Promotion of Equality and Prevention of Unfair Discrimination Act 4 of 2000 |date=February 2, 2000 |archive-url=https://web.archive.org/web/20110603050532/http://www.justice.gov.za/legislation/acts/2000-004.pdf |archive-date=June 3, 2011 |access-date=April 29, 2021}}&lt;/ref&gt;
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Subject to medical and social reports
+|&lt;!--Third gender or sex classifications--&gt;
+|&lt;!--Ending official classification by sex or gender--&gt; 
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Uganda}} [[Intersex rights in Uganda|Uganda]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref&gt;{{Cite news| issn = 0261-3077| last = Kaggwa| first = Julius| title = I'm an intersex Ugandan – life has never felt more dangerous| work = [[The Guardian]] | access-date = September 16, 2016| date = 2016-09-16| url = https://www.theguardian.com/world/2016/sep/16/intersex-ugandan-lgbt-gay-rights-life-never-felt-more-dangerous}}&lt;/ref&gt;&lt;ref&gt;{{Cite web| last = Kaggwa| first = Julius| title = Understanding intersex stigma in Uganda| work = [[Intersex Day]]| access-date = 2016-10-26| date = October 9, 2016| url = http://intersexday.org/en/understanding-stigma-uganda/}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref&gt;{{Citation| last = Parliament of Uganda| title = Registration of Persons Act| date = 2015| url = http://www.ulii.org/ug/legislation/act/2015/4-6}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+|}
+
+=== Americas ===
+
+{| class="wikitable
+! width="12.5%"|Country/jurisdiction
+! width="12.5%"|Physical integrity and bodily autonomy
+! width="12.5%"|[[Discrimination against intersex people|Anti-discrimination protection]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to identification documents|Access to identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to the same rights as other men and women|Access to same rights as other men and women]]
+! width="12.5%"|[[Legal recognition of intersex people#Changing identification documents|Changing M/F identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Third sex or gender classifications|Third gender or sex classifications]]
+! width="12.5%"|[[Legal recognition of intersex people#end official classification by sex or gender|Ending official classification by sex or gender]]
+! width="12.5%"|[[Sex and gender distinction]]s
+! width="12.5%"|[[Legal recognition of intersex people#Malta declaration|Assign infants and children to male or female]]
+|-
+| {{flagicon|Argentina}} [[Intersex rights in Argentina|Argentina]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="justicia2017"&gt;{{Cite web| last1 = Justicia Intersex| last2 = Zwischengeschlecht.org| author2-link = Zwischengeschlecht | title = NGO Report to the 6th and 7th Periodic Report of Argentina on the Convention against Torture (CAT)| location = Buenos Aires| date = 2017 | url = http://intersex.shadowreport.org/public/2017-CAT-Justicia-Intersex-Zwischengeschlecht-IGM.pdf}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref name="Global Action for Trans Equality"&gt;{{cite web|url = http://sxpolitics.org/around-the-world-259/7556 | title = Gender identity Law in Argentina: an opportunity for all | date = 14 May 2012 | last = [[Global Action for Trans Equality]] | work = Sexuality Policy Watch}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]] (Gender X available since July 2021)&lt;ref&gt;{{Cite web|url=https://www.hrw.org/news/2021/07/22/argentina-recognizes-non-binary-identities|title = Argentina Recognizes Non-Binary Identities|date = 22 July 2021}}&lt;/ref&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Chile}} [[Intersex rights in Chile|Chile]]
+|&lt;!--Physical integrity and bodily autonomy--&gt;  [[Image:X mark.svg|15px|No]]&lt;ref name="circular7"&gt;{{cite web | url = http://normativas.minsal.cl/CIRCULARES/CIRCULAR_7_16_SP.pdf | title = Complementa circular 18 que instruye sobre ciertos aspectos de la atencion de salud a niños y niñas intersex | work = Ministerio de Salud | date = 23 August 2016}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]] (Pending)&lt;ref name="diptados2017"&gt;{{cite web|last1=Chile|first1=Cámara de Diputados de|title=Proyectos de Ley Sistema de garantías de los derechos de la niñez|url=https://www.camara.cl/pley/pley_detalle.aspx?prmID=10729&amp;prmBoletin=10315-18|website=www.camara.cl|access-date=3 January 2017|language=es-LA}}&lt;/ref&gt;&lt;ref name="comision2017"&gt;{{cite web|title=Comisión de la Cámara aprueba que niñas y niños trans tengan derecho a desarrollar su identidad de género|url=http://www.movilh.cl/comision-de-la-camara-aprueba-que-ninas-y-ninos-trans-tengan-derecho-a-desarrollar-su-identidad-de-genero/|website=www.movilh.cl|access-date=3 January 2017|language=es-LA}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref name="Civil Registry Chile"&gt;{{cite web|title=Datos Registrales con Enfoque de Género|url=http://www.registrocivil.cl/transparencia/DatoInteresCiudadano/Datos_Registrales_por_Genero_2017_1.pdf|access-date=16 March 2018|language=es|date=July 2017|archive-url=https://web.archive.org/web/20180316152027/http://www.registrocivil.cl/transparencia/DatoInteresCiudadano/Datos_Registrales_por_Genero_2017_1.pdf|archive-date=16 March 2018}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Civil Registry Chile" /&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Colombia}} [[Intersex rights in Colombia|Colombia]]
+|&lt;!--Physical integrity and bodily autonomy--&gt;  [[Image:X mark.svg|15px|No]] No, but restricted in children aged over 5.
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]] 
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Self-determination
+|&lt;!--Third gender or sex classifications--&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Mexico}} [[Intersex rights in Mexico|Mexico]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="inter2015"&gt;{{Cite journal| volume =  5| issue = 2| pages = 95–98| last = Inter| first = Laura| title = Finding My Compass| journal = Narrative Inquiry in Bioethics| date = 2015| doi = 10.1353/nib.2015.0039| pmid = 26300133| s2cid = 20101103}}&lt;/ref&gt;&lt;ref name="inter2016"&gt;{{Cite web| last = Inter| first = Laura| title = The situation of the intersex community in Mexico| work = [[Intersex Day]]| access-date = 2017-05-13| date = October 2016| url = http://intersexday.org/en/situation-mexico/}}&lt;/ref&gt;&lt;ref name="baruch2016"&gt;{{Citation| publisher = Animal Politico| last = Baruch| first = Ricardo| title = Sí, hay personas intersexuales en México| date = October 13, 2016| url = http://www.animalpolitico.com/blogueros-blog-invitado/2016/10/13/las-personas-intersexuales-mexico/}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="inter2016" /&gt;
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; 
+|&lt;!--Third gender or sex classifications--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="inter2016" /&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|United States}} [[Intersex rights in the United States|United States]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="interactcat" /&gt;
+|&lt;!--Anti-discrimination--&gt; Partial, in healthcare&lt;ref name="interact"&gt;{{Cite web| last = [[Interact Advocates for Intersex Youth|interACT]]| title = Federal Government Bans Discrimination Against Intersex People in Health Care| access-date = 2016-05-27| date = 2016 | url = http://interactadvocates.org/federal-government-bans-discrimination-against-intersex-people-in-health-care/}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt;
+|&lt;!--Access to same rights as other men and women--&gt; [[Image:X mark.svg|15px|No]] Laws on [[female genital mutilation]] not enforced&lt;ref name="interactcat"&gt;{{Cite conference| last = [[Interact Advocates for Intersex Youth|interACT]]| title = Recommendations from interACT: Advocates for Intersex Youth regarding the List of Issues for the United States for the 59th Session of the Committee Against Torture| date = June 2016| url = http://tbinternet.ohchr.org/Treaties/CAT/Shared%20Documents/USA/INT_CAT_ICS_USA_24552_E.pdf}}&lt;/ref&gt;
+|&lt;!--Changing identification documents--&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]/[[Image:X mark.svg|15px|No]] Opt in only for Washington D.C., California, New York City, Ohio (with a court order only), New Mexico,&lt;ref&gt;{{cite web |url=https://www.kob.com/new-mexico-news/new-laws-take-effect-in-new-mexico/5389614/ |title=New Laws Take Effect in New Mexico |date=June 14, 2019 |website=KOB4 |access-date=April 29, 2021}}&lt;/ref&gt; Nevada,&lt;ref&gt;{{cite web |url=https://transequality.org/documents/state/nevada |title=ID Documents Center - Nevada |website=National Center for Transgender Equality |access-date=April 29, 2021}}&lt;/ref&gt; Oregon, Utah (with a court order only),&lt;ref&gt;{{cite web |url=https://www.sltrib.com/news/politics/2018/10/08/male-female-x-utahn/ |title=Utahn Becomes One of the First in the State to Receive Nonbinary 'X' Markers on Birth Certificate and Driver License |last=Stevens |first=Taylor |date=October 8, 2018 |website=The Salt Lake Tribune |access-date=April 29, 2021}}&lt;/ref&gt; Washington State, New Jersey&lt;ref&gt;{{cite web |url=https://www.gaystarnews.com/article/new-jersey-introduce-gender-neutral-birth-certificates-february-2019/ |title=New Jersey to Introduce Gender-neutral Birth Certificates in February |last=Gunz |first=Rafaella |date=January 6, 2019 |website=Gay Star News |access-date=April 29, 2021}}&lt;/ref&gt; and Colorado.&lt;ref&gt;{{cite web |url=https://www.colorado.gov/pacific/cdphe/birth-certificates |title=Birth Certificates |website=Colorado Department of Public Health &amp; Environment |access-date=April 29, 2021}}&lt;/ref&gt;&lt;ref name="leginfo.legislature.ca.gov"&gt;{{cite web|title=California Senate Bill "SB-179 Gender identity: female, male, or nonbinary" to enact the Gender Recognition Act, to authorize the change of gender on the new birth certificate to be female, male, or nonbinary.|url=https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB179|website=California Legislative Information|access-date=May 25, 2017|date=January 24, 2017}}&lt;/ref&gt;&lt;ref name="nbcnews.com"&gt;{{cite web|last1=O'Hara|first1=Mary Emily|title=Californian Becomes Second US Citizen Granted 'Non-Binary' Gender Status|url=https://www.nbcnews.com/feature/nbc-out/californian-becomes-second-us-citizen-granted-non-binary-gender-status-n654611|website=[[NBC News]]|access-date=September 26, 2016|date=September 26, 2016}}&lt;/ref&gt;&lt;ref name="ohara2016"&gt;{{cite web| last = O'Hara| first = Mary Emily| title = Nation's First Known Intersex Birth Certificate Issued in NYC| website = [[NBC News]]| access-date = 2016-12-30| date = December 29, 2016 | url = https://www.nbcnews.com/feature/nbc-out/nation-s-first-known-intersex-birth-certificate-issued-nyc-n701186}}&lt;/ref&gt; In October 2021, the very first US Passport with a gender X was issued.&lt;ref&gt;[https://www.theguardian.com/world/2021/oct/27/us-passport-x-gender-designation-first]&lt;/ref&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Uruguay}} [[Intersex rights in Uruguay|Uruguay]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="uru"&gt;{{cite web |title=Ley N° 19580 de violencia hacia las mujeres basada en género |url=https://www.impo.com.uy/bases/leyes/19580-2017 |access-date=21 October 2018 |language=es}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Prohíben las operaciones de definición de sexo en la niñez |url=https://www.elpais.com.uy/informacion/prohiben-operaciones-definicion-sexo-ninez.html |website=Diario EL PAIS Uruguay |access-date=21 October 2018 |language=es-UY}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt;
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Self-determination
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="uruguay trans law"&gt;{{Cite web | url=http://www.mides.gub.uy/innovaportal/file/77785/1/proyecto-de-ley-integral-para-personas-trans.pdf | publisher=Uruguay Ministry for Social Development | title=Ley Integral Para Personas Trans | access-date = 20 October 2018 }}&lt;/ref&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+|}
+
+=== Asia ===
+
+{| class="wikitable
+! width="12.5%"|Country/jurisdiction
+! width="12.5%"|Physical integrity and bodily autonomy
+! width="12.5%"|[[Discrimination against intersex people|Anti-discrimination protection]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to identification documents|Access to identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to the same rights as other men and women|Access to same rights as other men and women]]
+! width="12.5%"|[[Legal recognition of intersex people#Changing identification documents|Changing M/F identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Third sex or gender classifications|Third gender or sex classifications]]
+! width="12.5%"|[[Legal recognition of intersex people#Ending official classification by sex or gender|Ending official classification by sex or gender]]
+! width="12.5%"|[[Sex and gender distinction]]s
+! width="12.5%"|[[Legal recognition of intersex people#Malta declaration|Assign infants and children to male or female]]
+|-
+| {{flagicon|Bangladesh}} [[Intersex rights in Bangladesh|Bangladesh]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[File:Emblem-question.svg|15px]]&lt;ref name="Bangladesh Gender Identity" /&gt;{{citation needed|reason=Better source needed due to contradictory information|date=May 2017}}
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Bangladesh Gender Identity"&gt;{{Cite journal|last=UK Home Office|date=December 2016|title=Bangladesh: Sexual orientation and gender identity|url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/580345/Bangladesh_-_CPIN_Sexual_orientation_and_gender_identity_-_December_2016.pdf|journal=UK Home Office Country Policy and Information Note|access-date=25 May 2017}}&lt;/ref&gt;{{citation needed|reason=Better source needed due to contradictory information|date=May 2017}}
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|People's Republic of China}} [[Intersex rights in China|China]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="cat2015cn"&gt;{{Cite web| publisher = United Nations| last1 = United Nations| last2 = Committee against Torture| title = Concluding observations on the fifth periodic report of China| location = Geneva| date = 2015| url = http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CAT%2fC%2fCHN%2fCO%2f5&amp;Lang=en}}&lt;/ref&gt;&lt;ref name="cat2015hk"&gt;{{Cite web| publisher = United Nations| last1 = United Nations| last2 = Committee against Torture| title = Concluding observations on the fifth periodic report of China with respect to the Hong Kong Special Administrative Region| location = Geneva| date = 2015| url = http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CAT%2fC%2fCHN-HKG%2fCO%2f5&amp;Lang=en}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="eoc2017"&gt;{{cite web| url = http://www.eoc.org.hk/eoc/graphicsfolder/ShowContent.aspx?ItemID=14332 | title = EOC &amp; GRC of CUHK Issue Statement Calling for the Introduction of Legislation against Discrimination on the Grounds of Sexual Orientation, Gender Identity and Intersex Status | date = March 9, 2017 | last = Equal Opportunities Commission | author-link = Equal Opportunities Commission (Hong Kong)}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; 
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|India}} [[Intersex rights in India|India]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Kyle Knight - Human Rights Watch"&gt;{{cite web|url=https://www.hrw.org/news/2019/08/29/indian-state-bans-unnecessary-surgery-intersex-children|title=Indian State Bans Unnecessary Surgery on Intersex Children - Human Rights Watch|access-date=2019-08-30}}&lt;/ref&gt;&lt;ref name="The News Minute"&gt;{{cite web|url=https://www.thenewsminute.com/article/ban-sex-reassignment-surgeries-intersex-infants-madras-hc-tells-tn-govt-100565|title="Ban sex reassignment surgeries on intersex infants Madras High Court tells Tamil Nadu Govt" - The News Minute|access-date=2019-04-24}}&lt;/ref&gt;&lt;ref name="Times of India"&gt;{{cite web|url=https://timesofindia.indiatimes.com/city/madurai/ruling-on-intersex-infants-madurai-activist-comes-in-for-praise-by-hc/articleshow/69016201.cms|title=Ruling on intersex infants: Madurai activist comes in for praise by High Court|website=[[The Times of India]]|access-date=2019-04-24}}&lt;/ref&gt;&lt;ref name="Human Rights Watch"&gt;{{cite web|url=https://www.hrw.org/news/2019/04/29/indian-court-decides-favor-informed-consent-rights-intersex-people|title=Indian Court Decides In Favor of Informed Consent Rights for Intersex People - Human Rights Watch|access-date=2019-07-15}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://www.thenewsminute.com/article/activists-say-surgical-correction-intersex-babies-birth-wrong-govt-doesnt-listen-56739 | title = Activists say surgical 'correction' of intersex babies at birth wrong, govt doesn't listen | first = Ragamalika | last = Karthikeyan | work = The News Minute | date = February 3, 2017}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Kyle Knight - Human Rights Watch"/&gt;
+|&lt;!--Access to identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Kyle Knight - Human Rights Watch"/&gt;
+|&lt;!--Access to same rights as other men and women--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Kyle Knight - Human Rights Watch"/&gt;
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Supreme Court of India 2014" /&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Supreme Court of India 2014"&gt;{{cite web | url = http://supremecourtofindia.nic.in/outtoday/wc40012.pdf | title = Supreme Court recognises the right to determine and express one's gender; grants legal status to 'third gender' | last = Supreme Court of India 2014 | access-date = 2017-05-25 | archive-url = https://web.archive.org/web/20140527105348/http://supremecourtofindia.nic.in/outtoday/wc40012.pdf | archive-date = 2014-05-27}}&lt;/ref&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Japan}} [[Intersex rights in Japan|Japan]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt;
+|&lt;!--Access to same rights as other men and women--&gt;
+|&lt;!--Changing identification documents--&gt; [[File:Warning icon.svg|15px|Warning]] Requires surgery&lt;ref name="afp2016" /&gt;
+|&lt;!--Third gender or sex classifications--&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Nepal}} [[Intersex rights in Nepal|Nepal]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Supreme Court of Nepal 2014" /&gt;[[File:Emblem-question.svg|15px]]&lt;ref name="regmi2016"&gt;{{Cite book| last = Regmi| first = Esan| title = Stories of Intersex People from Nepal| location = Kathmandu| url = https://oii.org.au/30476/stories-intersex-people-nepal/ | date = 2016}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Supreme Court of Nepal 2014"&gt;{{Cite journal|date=April 2007|title=Sunil Babu Pant and Others/ v. Nepal Government and Others, Supreme Court of Nepal|url=http://icj.wpengine.netdna-cdn.com/wp-content/uploads/2012/07/Sunil-Babu-Pant-and-Others-v.-Nepal-Government-and-Others-Supreme-Court-of-Nepal.pdf|journal=National Judicial Academy Law Journal|access-date=4 May 2016|archive-url=https://web.archive.org/web/20161011064131/http://icj.wpengine.netdna-cdn.com/wp-content/uploads/2012/07/Sunil-Babu-Pant-and-Others-v.-Nepal-Government-and-Others-Supreme-Court-of-Nepal.pdf|archive-date=2016-10-11}}&lt;/ref&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Pakistan}} [[Intersex rights in Pakistan|Pakistan]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="trans act pk" /&gt;
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref name="trans act pk"&gt;{{cite web |title=Transgender Persons (Protection of Rights) Act, 2018 |url=http://www.na.gov.pk/uploads/documents/1528787262_286.pdf |access-date=1 December 2018}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="trans act pk" /&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|South Korea}} [[Intersex rights in South Korea|South Korea]]
+|&lt;!--Physical integrity and bodily autonomy--&gt;[[Image:X mark.svg|15px|No]] 
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt;
+|&lt;!--Access to same rights as other men and women--&gt;
+|&lt;!--Changing identification documents--&gt; [[File:Yes check.svg|15px|Yes]]{{citation needed|date=March 2018}}
+|&lt;!--Third gender or sex classifications--&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Thailand}} [[Intersex rights in Thailand|Thailand]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[File:Warning icon.svg|15px|Warning]] Requires surgery&lt;ref name="afp2016" /&gt;
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Vietnam}} [[Intersex rights in Vietnam|Vietnam]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[File:Warning icon.svg|15px|Warning]] Requires surgery&lt;ref name="afp2016" /&gt;
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+|}
+
+=== Europe ===
+
+{| class="wikitable
+! width="12.5%"|Country/jurisdiction
+! width="12.5%"|Physical integrity and bodily autonomy
+! width="12.5%"|[[Discrimination against intersex people|Anti-discrimination protection]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to identification documents|Access to identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to the same rights as other men and women|Access to same rights as other men and women]]
+! width="12.5%"|[[Legal recognition of intersex people#Changing identification documents|Changing M/F identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Third sex or gender classifications|Third gender or sex classifications]]
+! width="12.5%"|[[Legal recognition of intersex people#end official classification by sex or gender|Ending official classification by sex or gender]]
+! width="12.5%"|[[Sex and gender distinction]]s
+! width="12.5%"|[[Legal recognition of intersex people#Malta declaration|Assign infants and children to male or female]]
+|-
+| {{flagicon|Albania}} [[Intersex rights in Albania|Albania]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref&gt;{{cite web|url=https://exit.al/en/2020/06/27/albania-approves-protocol-to-stop-medical-intervention-on-intersex-babies/|title=Albania approves protocol to stop medical intervention on intersex babies|website=www.exit.al}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref&gt;{{cite web|url=https://www.lgbti-era.org/news/albania-amends-its-law-protection-discrimination-hiv-status-and-sex-characteristics-are-now|title=ALBANIA AMENDS ITS LAW FOR PROTECTION FROM DISCRIMINATION: HIV STATUS AND SEX CHARACTERISTICS ARE NOW PROTECTED GROUNDS}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt;
+|&lt;!--Access to same rights as other men and women--&gt;
+|&lt;!--Changing identification documents--&gt;
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Austria}} [[Intersex rights in Austria|Austria]]
+|&lt;!--Physical integrity and bodily autonomy--&gt;
+|&lt;!--Anti-discrimination--&gt;
+|&lt;!--Access to identification documents--&gt;
+|&lt;!--Access to same rights as other men and women--&gt;
+|&lt;!--Changing identification documents--&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref&gt;{{cite web|url=https://www.vfgh.gv.at/medien/Civil_register_-_Intersex_persons.en.php|title=Der Österreichische Verfassungsgerichtshof - Intersex persons have the right to adequate designation in the civil register|website=www.vfgh.gv.at}}&lt;/ref&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon| Bosnia-Herzegovina}} [[Intersex rights in Bosnia and Herzegovina|Bosnia and Herzegovina]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="ilgaeurope"&gt;{{cite web | url = http://www.ilga-europe.org/resources/news/latest-news/anti-discrimination-law-updated-bosnia-herzegovina | title = Anti-discrimination Law Updated in Bosnia-Herzegovina | work = [[ILGA-Europe]] }}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; 
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Belgium}} [[Intersex rights in Belgium|Belgium]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; 
+|&lt;!--Anti-discrimination--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Access to identification documents--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Access to same rights as other men and women--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Changing identification documents--&gt;  [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref&gt;{{cite web|url=https://tgeu.org/belgium-new-gender-recognition-law-with-obstacles/|title=– Belgium – New Gender Recognition Law with obstacles|website=tgeu.org}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://iacl-aidc-blog.org/2018/03/20/new-belgian-gender-recognition-act-shouldnt-self-determination-also-include-non-binary-people/ |title=Archived copy |access-date=2018-05-14 |archive-url=https://web.archive.org/web/20180514213913/https://iacl-aidc-blog.org/2018/03/20/new-belgian-gender-recognition-act-shouldnt-self-determination-also-include-non-binary-people/ |archive-date=2018-05-14}}&lt;/ref&gt; 
+|&lt;!--Third gender or sex classifications--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Denmark}} [[Intersex rights in Denmark|Denmark]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="amnesty2017report"&gt;{{Cite book| last = Amnesty International| title = First, Do No Harm| date = 2017 | url = https://www.amnesty.org/en/documents/eur01/6086/2017/en/}}&lt;/ref&gt;&lt;ref name="amnesty2017post"&gt;{{Cite web| last = Amnesty International| title = First, Do No Harm: ensuring the rights of children born intersex.| access-date = 2017-05-13 | date = 2017 | url = https://www.amnesty.org/en/latest/campaigns/2017/05/intersex-rights/}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt;
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref name="guar-irl"&gt;{{Cite news|title=Ireland passes law allowing trans people to choose their legal gender|url=https://www.theguardian.com/world/2015/jul/16/ireland-transgender-law-gender-recognition-bill-passed|work=[[The Guardian]]|date=July 16, 2015|last1 = McDonald | first1 = Henry| last2 = Others |access-date=13 November 2015}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Finland}} [[Intersex rights in Finland|Finland]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref&gt;{{cite web | url = http://www.ilga-europe.org/sites/default/files/how_to_be_a_great_intersex_ally_a_toolkit_for_ngos_and_decision_makers_december_2015_updated.pdf | title = Standing up for the human rights of intersex people – how can you help? | last1 = Ghattas | first1 = Dan Christian | author2-link = ILGA-Europe | author-link1 = Dan Christian Ghattas | last2 = ILGA-Europe | date = 2016 |url-status=live | archive-url = https://web.archive.org/web/20160327095320/http://www.ilga-europe.org/sites/default/files/how_to_be_a_great_intersex_ally_a_toolkit_for_ngos_and_decision_makers_december_2015_updated.pdf | archive-date = 2016-03-27 }}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Changing identification documents--&gt;  [[File:Emblem-question.svg|15px]]
+|&lt;!--Third gender or sex classifications--&gt; [[Image:X mark.svg|15px|No]] 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|France}} [[Intersex rights in France|France]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref&gt;{{Cite web| last1 = Guillot| first1 = Vincent| last2 = Zwischengeschlecht| author2-link = Zwischengeschlecht | title = NGO Report to the 7th Periodic Report of France on the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT)| access-date = 2017-03-24| date = April 3, 2016| url = http://intersex.shadowreport.org/post/2016/04/03/2016-CAT-France-Thematic-Intersex-NGO-Report}}&lt;/ref&gt;&lt;ref name="senat2017"&gt;{{Cite book| publisher = Sénat| last1 = Sénat| author1-link = Senate (France) | last2 = Blondin| first2 = Maryvonne| author2-link = Maryvonne Blondin | last3 = Bouchoux| first3 = Corinne| title = Variations du développement sexuel : lever un tabou, lutter contre la stigmatisation et les exclusions| location = Paris, France| series = 2016-2017| date = 2017-02-23| url = https://www.senat.fr/notice-rapport/2016/r16-441-notice.html | language = fr}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Changing identification documents--&gt;  [[File:Emblem-question.svg|15px]]
+|&lt;!--Third gender or sex classifications--&gt; [[Image:X mark.svg|15px|No]] 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Germany}} [[Intersex rights in Germany|Germany]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:Yes check.svg|15px|Yes]] with exceptions&lt;ref name="Intergeschlechtliche Menschen"&gt;{{Cite web | last = Intergeschlechtliche Menschen | url = https://im-ev.de/pm-2021-03-26-gesetz-vdg/ | title = Bundestag verabschiedet Gesetz zum Schutz von Kindern mit Varianten der Geschle | date = March 26, 2021 | access-date = April 4, 2021}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://oiigermany.org/wp-content/uploads/2020/11/Stellungnahme-OII-Germany-Nov-2020_.pdf |title=Stellungnahme IVIM - OII Germany zum Gesetzentwurf der Bundesregierung "Entwurf eines Gesetzes zum Schutz von Kindern mit Varianten der Geschlechtsentwicklung" |date=September 23, 2020 |website=OII Germany |language=German |access-date=April 29, 2021}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://oiigermany.org/wp-content/uploads/2021/03/Presseerkla%CC%88rung-Internationale-Vereinigung-Intergeschlechtlicher-Menschen_3_2021.pdf |title=Presseerklärung Internationale Vereinigung Intergeschlechtlicher Menschen |date=March 26, 2021 |website=OII Germany |access-date=April 29, 2021}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]] 
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Changing identification documents--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref&gt;{{cite web|url=http://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2017/bvg17-095.html|title=Bundesverfassungsgericht - Press - Civil status law must allow a third gender option|website=www.bundesverfassungsgericht.de}}&lt;/ref&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Greece}} [[Intersex rights in Greece|Greece]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="et.gr"&gt;{{cite web | url = http://www.ministryofjustice.gr/site/Portals/0/4356-2015.pdf | script-title=el:ΝΟΜΟΣ ΥΠ' ΑΡΙΘ. 3456 Σύμφωνο συμβίωσης, άσκηση δικαιωμάτων, ποινικές και άλλες διατάξεις|trans-title=LAW NO. 3456 Cohabitation, exercise of rights, criminal and other provisions |language=el}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; 
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Iceland}} [[Intersex rights in Iceland|Iceland]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="shame" /&gt;&lt;ref name="applauded" /&gt;&lt;ref name="over" /&gt;
+|&lt;!--Access to identification documents--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Access to same rights as other men and women--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref name="shame"&gt;{{cite web |url=https://www.theguardian.com/commentisfree/2019/jun/21/trans-issues-britain-iceland-law-intersex-rights |title=On Trans Issues, Iceland has just put Britain to Shame |last=Fisher |first=Owl |date=June 21, 2019 |website=The Guardian |access-date=April 29, 2021}}&lt;/ref&gt;&lt;ref name="applauded"&gt;{{cite web |url=https://icelandmonitor.mbl.is/news/politics_and_society/2019/06/21/gender_autonomy_act_applauded/ |title=Gender Autonomy Act Applauded |date=June 21, 2019 |website=Iceland Monitor |access-date=April 29, 2021}}&lt;/ref&gt;&lt;ref name="over"&gt;{{cite web |url=https://grapevine.is/news/2019/06/19/iceland-passes-major-gender-identity-law-the-fight-is-far-from-over/ |title=Iceland Passes Major Gender Identity Law: "The Fight Is Far From Over" |date=June 19, 2019 |website=Grapevine |access-date=April 29, 2021}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="shame" /&gt;&lt;ref name="applauded" /&gt;&lt;ref name="over" /&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Ireland}} [[Intersex rights in Ireland|Ireland]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="zwisch2015ie"&gt;{{Cite web| last = Zwischengeschlecht.org| author-link = Zwischengeschlecht | title = Intersex Genital Mutilations Human Rights Violations Of Children With Variations Of Sex Anatomy: NGO Report to the 2nd, 3rd and 4th Periodic Report of Ireland on the Convention on the Rights of the Child (CRC)| location = Zurich| date = December 2015| url = http://intersex.shadowreport.org/public/2015-CRC-Ireland-NGO-Zwischengeschlecht-Intersex-IGM.pdf}}&lt;/ref&gt;&lt;ref name="uncrc2016ie"&gt;{{Cite web| publisher = United Nations| last1 = United Nations| last2 = Committee on the Rights of Child| title = Concluding observations on the combined third to fourth periodic reports of Ireland (advance unedited version)| location = Geneva| date = February 4, 2016| url = http://stop.genitalmutilation.org/public/Ireland_Concl-Obs_CRC_C_IRL_CO_3-4_22988_E.doc}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref name="guar-irl"/&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Jersey}} [[Intersex rights in the United Kingdom|Jersey]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="jersey"&gt;{{cite web | url = http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce%5chtm%5cROFiles%5cR%26OYear2015%2fR%26O-061-2015.htm | title = DISCRIMINATION (SEX AND RELATED CHARACTERISTICS) (JERSEY) REGULATIONS 2015 | date = 2015}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; 
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Luxembourg}} [[Intersex rights in Luxembourg|Luxembourg]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; 
+|&lt;!--Anti-discrimination--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Access to identification documents--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Access to same rights as other men and women--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="luxtimes.lu"&gt;{{cite web|url=https://luxtimes.lu/luxembourg/34530-luxembourg-makes-status-change-for-transgender-people-easier|title=Luxembourg makes status change for transgender people easier|date=26 July 2018}}&lt;/ref&gt; 
+|&lt;!--Third gender or sex classifications--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Malta}} [[Intersex rights in Malta|Malta]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:Yes check.svg|15px|Yes]] Legislated{{citation needed|date=September 2019}}
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="gigesc"&gt;{{Citation| last = Malta| title = Gender Identity, Gender Expression and Sex Characteristics Act: Final version| date = April 2015| url = http://justiceservices.gov.mt/DownloadDocument.aspx?app=lp&amp;itemid=26805&amp;l=1}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Access to same rights as other men and women--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref name="guar-irl"/&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="Dalli"&gt;{{cite web | url = http://www.maltatoday.com.mt/news/national/49185/male_female_or_x_the_new_gender_options_on_identification_documents | title = Male, Female or X: the new gender options on identification documents | last = Dalli | first = Miriam | work = [[Malta Today]] | date = 3 February 2015}}&lt;/ref&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+|{{flagicon|Montenegro}} [[Intersex rights in Montenegro|Montenegro]]
+|[[Image:X mark.svg|15px|No]]
+|[[Image:Yes check.svg|15px|Yes]]&lt;ref&gt;{{Cite web|title=Zakon o zabrani diskriminacije {{!}} Crna Gora {{!}} Paragraf Lex|url=https://www.paragraf.me/propisi-crnegore/zakon-o-zabrani-diskriminacije.html|access-date=2020-11-08|website=www.paragraf.me|at=Article 19 ("Any discrimination, unequal treatment or unequal position of a person or group of persons on the basis of gender identity, sexual orientation and / or intersex characteristics is considered discrimination.")}}&lt;/ref&gt;
+|[[Image:X mark.svg|15px|No]]
+|[[Image:X mark.svg|15px|No]]
+|[[Image:X mark.svg|15px|No]]
+|[[Image:X mark.svg|15px|No]]
+|[[Image:X mark.svg|15px|No]]
+|[[Image:X mark.svg|15px|No]]
+|[[Image:X mark.svg|15px|No]]
+|-
+| {{flagicon|Netherlands}} [[Intersex rights in the Netherlands|Netherlands]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; 
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Access to identification documents--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Access to same rights as other men and women--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Changing identification documents--&gt;  [[File:Emblem-question.svg|15px]]
+|&lt;!--Third gender or sex classifications--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Norway}} [[Intersex rights in Norway|Norway]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; 
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]&lt;ref&gt;{{cite web |url=https://rainbow-europe.org/#8652/0/0 |website=Rainbow Europe |title=Norway |access-date=April 29, 2021}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Access to same rights as other men and women--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Changing identification documents--&gt;  [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref&gt;{{cite web|url=https://www.ilga-europe.org/resources/news/latest-news/norway-introduces-self-determination|title=Norway becomes fourth country in Europe to introduce model of self-determination - ILGA-Europe|website=www.ilga-europe.org}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.gaystarnews.com/article/norway-becomes-fourth-country-world-allow-trans-people-determine-gender/#gs.1sGX2OA|title=Norway becomes fourth country in the world to allow trans people to determine their own gender|date=6 June 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.amnesty.org/en/latest/news/2016/03/norway-historic-breakthrough-for-transgender-rights/|title=Norway: Historic breakthrough for transgender rights|website=www.amnesty.org|date=18 March 2016}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[File:Emblem-question.svg|15px]]
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Portugal}} [[Intersex rights in Portugal|Portugal]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:Yes check.svg|15px|No]] Legislated&lt;ref name="ABS-CBN"&gt;{{cite news | url = http://news.abs-cbn.com/overseas/07/13/18/portugal-parliament-approves-new-gender-change-law | title = Portugal parliament approves new gender change law | work = [[Agence France-Presse]] | date = July 13, 2018 | access-date = 2018-08-31}}&lt;/ref&gt;&lt;ref name="DW-Portugal"&gt;{{cite news | url = https://www.dw.com/en/portugals-parliament-approves-new-gender-identity-bill/a-44655418 | title = Portugal's parliament approves new gender identity bill | work = DW | date = July 13, 2018 | access-date = 2018-08-31}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Access to identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Access to same rights as other men and women--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Changing identification documents--&gt;  [[Image:Yes check.svg|15px|Yes]] Self-determination&lt;ref name="ABS-CBN" /&gt;&lt;ref name="DW-Portugal" /&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+|-
+| {{flagicon| Serbia}} [[Intersex rights in Serbia|Serbia]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]]&lt;ref name="XY Spectrum"&gt;{{cite web | url = http://xyspectrum.org/napokon-vidljivi/ | title = Napokon vidljivi | work = [[XY Spectrum]] |language=bs |trans-title=Finally visible |accessdate=2021-07-29 |date=2021-05-27}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt; 
+|&lt;!--Third gender or sex classifications--&gt; 
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|Switzerland}} [[Intersex rights in Switzerland|Switzerland]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="swissnek"&gt;{{Cite book| last = Swiss National Advisory Commission on Biomedical Ethics NEK-CNE| title = On the management of differences of sex development. Ethical issues relating to "intersexuality".Opinion No. 20/2012| location = Berne| series = 2012| date = November 2012| url = http://www.nek-cne.ch/fileadmin/nek-cne-dateien/Themen/Stellungnahmen/en/NEK_Intersexualitaet_En.pdf | archive-url = https://web.archive.org/web/20150423213245/http://www.nek-cne.ch/fileadmin/nek-cne-dateien/Themen/Stellungnahmen/en/NEK_Intersexualitaet_En.pdf| archive-date = 2015-04-23| access-date = 2015-07-19}}&lt;/ref&gt;&lt;ref&gt;{{Cite web| last = Zwischengeschlecht.org| title = Intersex Genital Mutilations Human Rights Violations Of Children With Variations Of Sex Anatomy: NGO Report to the 2nd, 3rd and 4th Periodic Report of Switzerland on the Convention on the Rights of the Child (CRC)| location = Zurich| date = March 2014| url = http://intersex.shadowreport.org/public/2014-CRC-Swiss-NGO-Zwischengeschlecht-Intersex-IGM_v2.pdf}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|  last1 = United Nations| last2 = Committee on the Rights of Child| title = Concluding observations on the combined second to fourth periodic reports of Switzerland| location = Geneva| date = February 26, 2015| url = http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CRC%2fC%2fCHE%2fCO%2f2-4&amp;Lang=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite web| last1 = United Nations| last2 = Committee on the Rights of Child| title = Concluding observations on the seventh periodic report of Switzerland| location = Geneva| date = September 7, 2015|url=https://www.bj.admin.ch/dam/data/bj/staat/menschenrechte/antifolterkonvention/cat-ber-7-schlussfolgerungen-e.pdf}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|United Kingdom}} [[Intersex rights in the United Kingdom|United Kingdom]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref&gt;{{Cite web| publisher = United Nations| last1 = United Nations| last2 = Committee on the Rights of Child| title = Concluding observations on the fifth periodic report of the United Kingdom of Great Britain and Northern Ireland| location = Geneva| date = June 2016 | url = http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CRC%2fC%2fGBR%2fCO%2f5&amp;Lang=en}}&lt;/ref&gt;&lt;ref name="zwischen2016uk"&gt;{{Cite book| last1 = Zwischengeschlecht.org| last2 = IntersexUK| last3 = OII-UK| last4 = The UK Intersex Association| author1-link = Zwischengeschlecht | author2-link = Intersex UK | author3-link = Organisation Intersex International | title = Intersex Genital Mutilations Human Rights Violations of Children with Variations of Sex Anatomy: NGO Report to the 5th Periodic Report of the United Kingdom on the Convention on the Rights of the Child (CRC)| location = Zurich| date = April 2016| url = http://intersex.shadowreport.org/public/2016-CRC-UK-NGO-Zwischengeschlecht-Intersex-IGM_v2.pdf}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; 
+|&lt;!--Changing identification documents--&gt;[[Image:X mark.svg|15px|No]] Requires diagnosis of [[gender dysphoria]]&lt;ref name="pink-uk"&gt;{{cite web| url = http://www.pinknews.co.uk/2015/07/23/comment-why-the-uks-gender-recognition-laws-desperately-need-updating/ | title = Comment: Why the UK's gender recognition laws desperately need updating | first = Naith | last = Payton | date = July 23, 2015 | work = The Pink Paper}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+|}
+
+=== Oceania ===
+
+{| class="wikitable
+! width="12.5%"|Country/jurisdiction
+! width="12.5%"|Physical integrity and bodily autonomy
+! width="12.5%"|[[Discrimination against intersex people|Anti-discrimination protection]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to identification documents|Access to identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Access to the same rights as other men and women|Access to same rights as other men and women]]
+! width="12.5%"|[[Legal recognition of intersex people#Changing identification documents|Changing M/F identification documents]]
+! width="12.5%"|[[Legal recognition of intersex people#Third sex or gender classifications|Third gender or sex classifications]]
+! width="12.5%"|[[Legal recognition of intersex people#end official classification by sex or gender|Ending official classification by sex or gender]]
+! width="12.5%"|[[Sex and gender distinction]]s
+! width="12.5%"|[[Legal recognition of intersex people#Malta declaration|Assign infants and children to male or female]]
+|-
+| {{flagicon|Australia}} [[Intersex rights in Australia|Australia]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="darlington2017"&gt;{{Citation| last1 = Androgen Insensitivity Support Syndrome Support Group Australia| author1-link = Androgen Insensitivity Syndrome Support Group Australia | last2 = Intersex Trust Aotearoa New Zealand| author2-link = Intersex Trust Aotearoa New Zealand| last3 = Organisation Intersex International Australia| author3-link = Organisation Intersex International Australia | last4 = Black| first4 = Eve| last5 = Bond| first5 = Kylie| last6 = Briffa| first6 = Tony| author6-link = Tony Briffa (politician) | last7 = Carpenter| first7 = Morgan| author7-link = Morgan Carpenter | last8 = Cody| first8 = Candice| last9 = David| first9 = Alex| last10 = Driver| first10 = Betsy| last11 = Hannaford| first11 = Carolyn| last12 = Harlow| first12 = Eileen| last13 = Hart| first13 = Bonnie| author13-link = Bonnie Hart | last14 = Hart| first14 = Phoebe| author14-link = Phoebe Hart | last15 = Leckey| first15 = Delia| last16 = Lum| first16 = Steph| last17 = Mitchell| first17 = Mani Bruce| author17-link = Mani Mitchell | last18 = Nyhuis| first18 = Elise| last19 = O'Callaghan| first19 = Bronwyn| last20 = Perrin| first20 = Sandra| last21 = Smith| first21 = Cody| last22 = Williams| first22 = Trace| last23 = Yang| first23 = Imogen| last24 = Yovanovic| first24 = Georgie| title = Darlington Statement| date = March 2017 | url = https://oii.org.au/darlington-statement/| archive-url = https://web.archive.org/web/20170322204013/https://oii.org.au/darlington-statement/ | archive-date = 2017-03-22 | access-date = March 21, 2017}}&lt;/ref&gt;&lt;ref name="SenateOnSterilisation"&gt;{{cite web | url = http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Involuntary_Sterilisation/Sec_Report/index | title = Involuntary or coerced sterilisation of intersex people in Australia | last = [[Australian Senate]] Community Affairs Committee | date = October 2013 |url-status=live | archive-url = https://web.archive.org/web/20150923181927/http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Involuntary_Sterilisation/Sec_Report/index | archive-date = 2015-09-23 }}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:Yes check.svg|15px|Yes]] At federal level&lt;ref name="oiiau2013"&gt;{{cite web | url = http://oii.org.au/21774/welcome-senate-inquiry-anti-discrimination/ | title = We welcome the Senate Inquiry report on the Exposure Draft of the Human Rights and Anti-Discrimination Bill 2012 | work = [[Organisation Intersex International Australia]] | date = 21 February 2013}}&lt;/ref&gt;
+|&lt;!--Access to identification documents--&gt;  
+|&lt;!--Access to same rights as other men and women--&gt; [[Image:X mark.svg|15px|No]] Exemptions regarding sport and female genital mutilation&lt;ref name="oiiau2013" /&gt;
+|&lt;!--Changing identification documents--&gt;[[Image:Yes check.svg|15px|Yes]] Policies vary depending on jurisdiction&lt;ref name="oiiau2009" /&gt; [[File:Warning icon.svg|15px|Warning]] Requires [[sexual reassignment surgery]] and permission from at least 2 [[medical practitioners]] within both NSW and QLD only. Appropriate clinical treatment (or just 1 doctors permission) within WA, SA, NT and the ACT. "Self-determination" within TAS and VIC.&lt;ref&gt;{{cite web|url=https://www.buzzfeed.com/lanesainty/australian-states-have-one-year-to-repeal-transgender|title=Now That Same-Sex Marriage Is Legal, States Must Abolish Transgender "Forced Divorce" Laws|website=[[BuzzFeed]]}}&lt;/ref&gt;
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]] (Passports) [[Image:Yes check.svg|15px|Yes]] Opt in at federal level, state/territory policies vary&lt;ref name="oiiau2009"&gt;{{cite web | url = http://oii.org.au/4856/on-birth-registrations/ | title = On intersex birth registrations | work = OII Australia | date = 13 November 2009}}&lt;/ref&gt;&lt;ref name="ausag"&gt;{{cite web|url=http://www.ag.gov.au/Publications/Pages/AustralianGovernmentGuidelinesontheRecognitionofSexandGender.aspx|title=Australian Government Guidelines on the Recognition of Sex and Gender, 30 May 2013|access-date=6 October 2014}}&lt;/ref&gt;
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+| {{flagicon|New Zealand}} [[Intersex rights in New Zealand|New Zealand]]
+|&lt;!--Physical integrity and bodily autonomy--&gt; [[Image:X mark.svg|15px|No]]&lt;ref name="darlington2017" /&gt;&lt;ref name="hrc2016"&gt;{{Citation| last = Human Rights Commission| author-link = Human Rights Commission (New Zealand) | title = Intersex Roundtable Report 2016 The practice of genital normalisation on intersex children in Aotearoa New Zealand| date = 2016| url = https://www.hrc.co.nz/files/5914/8124/9497/HRC_Intersex_Roundtable.pdf}}&lt;/ref&gt;
+|&lt;!--Anti-discrimination--&gt; [[Image:X mark.svg|15px|No]]
+|&lt;!--Access to identification documents--&gt; 
+|&lt;!--Access to same rights as other men and women--&gt; [[Image:X mark.svg|15px|No]] Exemptions regarding female genital mutilation&lt;ref name="afp2016" /&gt;
+|&lt;!--Changing identification documents--&gt; [[Image:Yes check.svg|15px|Yes]]
+|&lt;!--Third gender or sex classifications--&gt; [[Image:Yes check.svg|15px|Yes]] (Passports) [[File:Warning icon.svg|15px|Warning]] (Third birth certificate may be used if determined at birth&lt;ref&gt;{{cite web | url = http://www.dia.govt.nz/diawebsite.nsf/Files/GeninfoDeclarationsofFamilyCourt/$file/GeninfoDeclarationsofFamilyCourt.pdf | last = Department of Internal Affairs | title = General information regarding Declarations of Family Court as to sex to be shown on birth certificates | access-date = 2015-07-19 | archive-url = https://web.archive.org/web/20170430193249/http://www.dia.govt.nz/diawebsite.nsf/Files/GeninfoDeclarationsofFamilyCourt/$file/GeninfoDeclarationsofFamilyCourt.pdf | archive-date = 2017-04-30 | url-status = dead }}&lt;/ref&gt;)
+|&lt;!--Ending official classification by sex or gender--&gt;
+|&lt;!--Sex and gender distinctions--&gt;
+|&lt;!--Assign infants and children to male or female--&gt;
+|-
+|}
+&lt;section end="bycountry" /&gt;
+
+==See also==
+* [[Intersex Awareness Day]]
+* [[Intersex people and military service]]
+* [[Intersex human rights reports]]
+* [[Intersex medical interventions]]
+* [[Discrimination against intersex people]]
+* [[Legal recognition of intersex people]]
+
+==Notes==
+{{Reflist|30em}}
+
+==Bibliography==
+* {{Cite book| last = Amnesty International| title = First, Do No Harm| date = 2017 | url = https://www.amnesty.org/en/documents/eur01/6086/2017/en/}}
+* {{Cite web| last1 = Androgen Insensitivity Support Syndrome Support Group Australia| author1-link = Androgen Insensitivity Syndrome Support Group Australia | last2 = Intersex Trust Aotearoa New Zealand| author2-link = Intersex Trust Aotearoa New Zealand| last3 = Organisation Intersex International Australia| author3-link = Organisation Intersex International Australia | last4 = Black| first4 = Eve| last5 = Bond| first5 = Kylie| last6 = Briffa| first6 = Tony| author6-link = Tony Briffa (politician) | last7 = Carpenter| first7 = Morgan| author7-link = Morgan Carpenter | last8 = Cody| first8 = Candice| last9 = David| first9 = Alex| last10 = Driver| first10 = Betsy| last11 = Hannaford| first11 = Carolyn| last12 = Harlow| first12 = Eileen| last13 = Hart| first13 = Bonnie| author13-link = Bonnie Hart | last14 = Hart| first14 = Phoebe| author14-link = Phoebe Hart | last15 = Leckey| first15 = Delia| last16 = Lum| first16 = Steph| last17 = Mitchell| first17 = Mani Bruce| author17-link = Mani Mitchell | last18 = Nyhuis| first18 = Elise| last19 = O'Callaghan| first19 = Bronwyn| last20 = Perrin| first20 = Sandra| last21 = Smith| first21 = Cody| last22 = Williams| first22 = Trace| last23 = Yang| first23 = Imogen| last24 = Yovanovic| first24 = Georgie| title = Darlington Statement| date = March 2017 | url = https://oii.org.au/darlington-statement/| archive-url = https://web.archive.org/web/20170322204013/https://oii.org.au/darlington-statement/ | archive-date = 2017-03-22 | access-date = March 21, 2017}}
+* {{Cite book| author-link = Asia Pacific Forum | isbn = 978-0-9942513-7-4| last = Asia Pacific Forum of National Human Rights Institutions| title = Promoting and Protecting Human Rights in relation to Sexual Orientation, Gender Identity and Sex Characteristics| date = June 2016| url = http://www.asiapacificforum.net/resources/manual-sogi-and-sex-charactersitics/}}
+* {{Cite web| last1 = Council of Europe| last2 = Commissioner for Human Rights| author1-link = Council of Europe| author2-link = Commissioner for Human Rights | title = Human rights and intersex people, Issue Paper| date = April 2015| url = https://wcd.coe.int/ViewDoc.jsp?Ref=CommDH/IssuePaper(2015)1&amp;Language=lanEnglish&amp;Ver=original}}
+* {{Cite book| work = [[NYU Press]]| isbn = 978-1-4798-3786-1| last = Davis| first = Georgiann| author-link = Georgiann Davis | title = Contesting Intersex, The Dubious Diagnosis | location = New York| date = 2015| url = http://nyupress.org/books/9781479887040/}}
+* {{Cite web| publisher = [[Palm Center]]| last1 = Elders| first1 = M Joycelyn| last2 = Satcher| first2 = David| last3 = Carmona| first3 = Richard| author1-link = Joycelyn Elders | author2-link = David Satcher | author3-link = Richard Carmona | title = Re-Thinking Genital Surgeries on Intersex Infants| date = June 2017| url = http://www.palmcenter.org/wp-content/uploads/2017/06/Re-Thinking-Genital-Surgeries-1.pdf}}
+* {{Cite book| publisher = Heinrich-Böll-Stiftung| isbn = 978-3-86928-107-0 | last1 = Ghattas| first1 = Dan Christian| author1-link = Dan Christian Ghattas | last2 = Heinrich-Böll-Stiftung | author2-link = Heinrich Böll Foundation | title =  Human Rights between the Sexes: A preliminary study on the life situations of inter*individuals| location = Berlin| date = 2013 | title-link = Human Rights between the Sexes }}
+* {{Cite book| last1 = Human Rights Commission of the City and County of San Francisco| last2 = de María Arana| first2 = Marcus| title = A Human Rights Investigation Into The Medical "Normalization" Of Intersex People| location = San Francisco| date = 2005 | url =http://www.aph.gov.au/DocumentStore.ashx?id=2bbf04f0-66c8-4dd9-9c20-2cdb1c936f79}}
+* {{Cite book| isbn = 978-1-62313-502-7| last1 = Human Rights Watch| author1-link = Human Rights Watch | last2 = interACT | author2-link = Interact Advocates for Intersex Youth | title = I Want to Be Like Nature Made Me| date = July 2017| url = https://www.hrw.org/report/2017/07/25/i-want-be-nature-made-me/medically-unnecessary-surgeries-intersex-children-us}}
+* {{Cite book|publisher=Open Book Publishers |isbn=978-1-78374-208-0 |last1=Jones |first1=Tiffany |last2=Hart |first2=Bonnie |last3=Carpenter |first3=Morgan |last4=Ansara |first4=Gavi |last5=Leonard |first5=William |last6=Lucke |first6=Jayne |title=Intersex: Stories and Statistics from Australia |location=Cambridge, UK |date=2016 |access-date=2 February 2016 |url=http://oii.org.au/wp-content/uploads/key/Intersex-Stories-Statistics-Australia.pdf |archive-url=https://web.archive.org/web/20160914152729/http://oii.org.au/wp-content/uploads/key/Intersex-Stories-Statistics-Australia.pdf |archive-date=14 September 2016 }}
+* {{Cite book| publisher = Duke University Press| isbn = 978-0-8223-4318-9| last = Karkazis| first = Katrina| author-link = Katrina Karkazis | title = Fixing Sex: Intersex, Medical Authority, and Lived Experience | date = 2008| title-link = Fixing Sex}}
+* [[Malta declaration (International Intersex Forum)]], {{cite web | url = http://www.ilga-europe.org/home/news/latest/intersex_forum_2013 | title = Statement of the Third International Intersex Forum | last = ILGA-Europe (Creative Commons statement) | date = December 2, 2013 | archive-url = https://web.archive.org/web/20131204073813/http://www.ilga-europe.org/home/news/latest/intersex_forum_2013 | archive-date = December 4, 2013 }}
+* {{Cite book| last = National Advisory Commission on Biomedical Ethics, Switzerland| title = On the management of differences of sex development. Ethical issues relating to "intersexuality".Opinion No. 20/2012| location = Berne| series = 2012| date = November 2012| url = http://www.nek-cne.ch/fileadmin/nek-cne-dateien/Themen/Stellungnahmen/en/NEK_Intersexualitaet_En.pdf| access-date = 2015-07-19| archive-url = https://web.archive.org/web/20150423213245/http://www.nek-cne.ch/fileadmin/nek-cne-dateien/Themen/Stellungnahmen/en/NEK_Intersexualitaet_En.pdf| archive-date = 2015-04-23}}
+* {{Cite web| last1 = OII Europe| last2= Bilitis | last3 = Intersex Belgium | last4 = Intersex Iceland | last5 = Intersex Russia | last6 = Intersex Scandinavia | last7 = NNID | last8 = OII Germany | last9 = OII-Italia | last10 = OII Netherlands | last11 = TRIQ Inter*-Projekt | last12 = X-Y Spectrum | title = STATEMENT of the 1st European Intersex Community Event (Vienna, 30st - 31st of March 2017)| work = OII Europe| access-date = 2017-05-26| date = April 20, 2017| url = https://oiieurope.org/statement-1st-european-intersex-community-event-vienna-30st-31st-march-2017/}}
+* {{Cite book| last = Regmi| first = Esan| author-link = Esan Regmi| title = Stories of Intersex People from Nepal| location = Kathmandu| url = https://oii.org.au/30476/stories-intersex-people-nepal/ | date = 2016}}
+* {{Cite book| author1-link = Australian Senate | isbn = 978-1-74229-917-4 | last1 = Senate of Australia | last2 = Community Affairs References Committee| title = Involuntary or coerced sterilisation of intersex people in Australia| location = Canberra| date = 2013| url = http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Involuntary_Sterilisation/Sec_Report/index}}
+* {{Cite book| pages = 91–104| editor1-last = Center for Human Rights &amp; Humanitarian Law|editor2-last=Washington College of Law| last = Tamar-Mattis| first = Anne| author-link = Anne Tamar-Mattis| editor1-link = Center for Human Rights &amp; Humanitarian Law | title =  Torture in Healthcare Settings: Reflections on the Special Rapporteur on Torture's 2013 Thematic Report| chapter = Medical Treatment of People with Intersex Conditions as Torture and Cruel, Inhuman, or Degrading Treatment or Punishment| location = Washington, DC| date = 2014| chapter-url = http://antitorture.org/torture-in-healthcare-publication/}}
+* {{Cite web| last=United Nations Office of the High Commissioner for Human Rights | author-link = Office of the High Commissioner for Human Rights | title = Free &amp; Equal Campaign Fact Sheet: Intersex| date = 2015| url = https://unfe.org/system/unfe-65-Intersex_Factsheet_ENGLISH.pdf }}
+* {{cite web | url = http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session22/A.HRC.22.53_English.pdf | last= UN Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment | title = Report of the UN Special Rapporteur on Torture | work = [[Office of the UN High Commissioner for Human Rights]] | date = February 2013}}
+* {{cite web |title=Intersex Awareness Day – Wednesday 26 October |url=https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=20739&amp;LangID=E |publisher=[[Office of the United Nations High Commissioner for Human Rights]] |access-date=7 October 2018 |date=24 October 2016}}
+* {{Cite book| isbn = 978-92-4-150732-5| last1 = World Health Organization| last2 = OHCHR| last3 = UN Women| last4 = UNAIDS| last5 = UNDP| last6 = UNFPA| last7 = UNICEF| title = Eliminating forced, coercive and otherwise involuntary sterilization, An interagency statement| date = 2014| url = http://apps.who.int/iris/bitstream/10665/112848/1/9789241507325_eng.pdf?ua=1|author1-link= World Health Organization | author2-link = Office of the High Commissioner for Human Rights}}
+* {{Cite book| publisher = World Health Organization| isbn = 9789241564984| last = [[World Health Organization]]| title = Sexual health, human rights and the law| location = Geneva| date = 2015}}
+
+{{Intersex}}
+{{Human rights}}
+{{Discrimination|state=collapsed}}
+{{LGBT rights footer}}
+
+[[Category:Intersex rights|Human rights]]
+[[Category:Human rights by issue]]
+[[Category:Medical ethics]]
+[[Category:Minority rights]]</rev></revisions></page></pages></query></api>

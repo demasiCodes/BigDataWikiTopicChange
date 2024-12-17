@@ -1,0 +1,24 @@
+<?xml version="1.0"?><api><continue rvcontinue="20111115072757|460742015" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="3523938" pageid="3523938" ns="0" title="World Conference on Women, 1995"><revisions><rev timestamp="2011-11-15T15:43:03Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{refimprove|date=January 2011}}
+The [[United Nations]] convened the '''Fourth World Conference on Women: Action for Equality, Development and Peace''' on 4-15 September 1995 in [[Beijing]], [[China]]. 189 governments and more than 5,000 representatives from 2,100 non-governmental organizations participated in the Conference. Delegates had prepared a Declaration and Platform for Action that aimed at achieving greater equality and opportunity for [[women]]. The three previous World Conferences were in [[Mexico City]] (International Women's Year, [[1975]]), [[Copenhagen]] ([[1980]]) and Nairobi ([[1985]]).
+
+The issue of global advocacy for [[abortion]] rights was controversial, with the United States and the [[Holy See]] publicly disagreeing over the issue. &lt;ref&gt;[http://query.nytimes.com/gst/fullpage.html?res=990CE6DE143FF935A1575BC0A963958260&amp;partner=rssnyt&amp;emc=rss New York Times article]&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official|http://www.un.org/geninfo/bp/women.html}}
+
+[[Category:Women's rights|World conference]]
+[[Category:Reproductive rights]]
+[[Category:United Nations conferences]]
+[[Category:Diplomatic conferences in China]]
+[[Category:20th-century diplomatic conferences]]
+[[Category:1995 in international relations]]
+[[Category:1995 conferences]]
+
+[[de:UN-Weltfrauenkonferenz]]
+[[fr:Quatrième conférence mondiale sur les femmes]]
+[[ja:世界女性会議]]
+[[pl:Konferencja Pekińska]]
+[[pt:Conferência de Pequim de 1995]]</rev></revisions></page></pages></query></api>

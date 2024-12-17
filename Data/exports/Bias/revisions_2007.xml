@@ -1,0 +1,50 @@
+<?xml version="1.0"?><api><continue rvcontinue="20071114141027|171432256" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2007-11-14T14:10:51Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{dablink|For other senses of this word, see [[bias (disambiguation)]].}}
+{{selfref|For Wikipedia's policy on avoiding bias, see [[Wikipedia:Neutral point of view]].}}
+
+{{Unreferenced|date=February 2007}}
+
+A '''bias''' is a prejudice in a general or specific sense, usually in the sense for having a preference to one particular [[perspective (cognitive)|point of view]] or [[ideology|ideological]] perspective. However, one is generally only said to be ''biased'' if one's powers of judgment are influenced by the biases one holds, to the extent that one's views could not be taken as being [[Objectivity (philosophy)|neutral]] or [[Objectivity (science)|objective]], but instead as [[Subjectivity|subjective]]. A bias could, for example, lead one to accept or deny the [[truth]] of a [[logical assertion|claim]], not on the basis of the strength of the arguments in support of the claim themselves, but because of the extent of the claim's correspondence with one's own preconceived [[idea]]s. This is called [[confirmation bias]].
+
+A [[systematic bias]] is a bias resulting from a flaw integral to the [[system]] within which the bias arises (for example, an incorrectly calibrated [[thermostat]] may consistently read — that is 'be biased' — several degrees hotter or colder than actual [[temperature]]). As a consequence, systematic bias commonly leads to [[systematic error]]s, as opposed to [[random error]]s, which tend to cancel one another out. 
+
+In practice, accusations of bias often result from a perception of unacknowledged [[favouritism]] on the part of a [[critic]] or [[judge]], or indeed any person in a position requiring the careful and disinterested exercise of arbitration or assessment. Any tendency to favour a certain set of values naturally leads to an uneven dispensation of judgment. It may also be noted that, if a person were to take their own preexisting view as ''[[A priori and a posteriori (philosophy)|a priori]]'' balanced without acknowledging their own personal inclinations, any person or organization that ''disagrees'' with their views is likely to be viewed as biased ''regardless'' of that person or organization's actual efforts at balance. It may be observed that bias is, in a sense, reflexive, unacknowledged or unrecognized bias potentially leading to its apprehension (with or without good reason) in others. 
+
+==Types==
+Some common social biases are:
+:*''' [[Social class|Class]]:''' bias favoring one social class and bias ignoring social or class divisions;	 
+:*'''[[Corporatism|Commercial]]:'''  [[advertising]], coverage of political campaigns favoring corporate interests, or reporting favoring media owner interests;
+:*''' [[Ethnicity|Ethnic]] or [[racism|racial]]:''' [[racism]], [[nationalism]], [[regionalism]] and [[tribalism]];
+:*''' [[WP:CSB|Geographical]]:'''  describing a dispute as it is conducted in one country, when the dispute is framed differently elsewhere;
+:*''' [[Nationalism|Nationalistic]]:''' favoring or opposing the interests or views of a particular nation;
+:*''' [[Gender]]:''' including [[sexism]] and [[heteronormativity]];
+;*''' [[Linguistic]]''' bias, favoring certain languages
+:*''' [[Political]]:'''  bias in favor of or against a particular political party, philosophy, policy or candidate;	 
+:*''' [[Religion|Religious]]:'''  bias for or against religion, faith or beliefs;  
+:*'''[[Sensationalism|Sensationalist]]:''' favoring the exceptional over the ordinary. This includes emphasizing, distorting, or fabricating exceptional news to boost commercial ratings;
+:*''' [[Scientific]]''' (including [[antiscience|anti-scientific]] and [[scientific skepticism]]): favoring (or disfavoring) a scientist, inventor, or theory for non-scientific reasons. This can also include excessive favoring (or disfavoring) prevalent scientific opinion, if in doing so, notable viewpoints are no longer being treated neutrally.
+
+==See also==
+*[[Bias (textile)]]
+*[[Biased sample]]
+*[[Cognitive bias]]
+*[[Inductive bias]]
+*[[List of bias in medical literature]]
+*[[List of cognitive biases]]
+*[[Media bias]]
+*[[Objectivity (philosophy)|Neutral point of view]]
+*[[Objectivity (science)|Objectivity]]
+*[[Scholarly method]]
+*[[Subjectivity]]
+*[[Teaching for social justice]]
+[[Category:Bias|*]]
+[[Category:Psychological attitude]]
+
+[[ar:انحياز]]
+[[da:Bias (psykologi)]]
+[[de:Bias]]
+[[he:נטאי]]
+[[pt:Viés]]
+[[simple:Bias]]
+[[sr:Биас]]
+[[sv:Metodfel]]
+[[tr:Ön yargı]]</rev></revisions></page></pages></query></api>

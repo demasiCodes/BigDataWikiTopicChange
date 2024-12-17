@@ -1,0 +1,679 @@
+<?xml version="1.0"?><api><continue rvcontinue="20091116054220|326113958" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="13831" pageid="13831" ns="0" title="Human rights"><revisions><rev timestamp="2009-11-16T05:43:15Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{pp-move-indef}}
+{{Rights}}
+
+'''Human rights''' are "basic [[right]]s and [[freedom (political)|freedoms]] to which all [[humans]] are entitled."&lt;ref&gt;Houghton Miffin Company (2006)&lt;/ref&gt; Examples of rights and freedoms which have come to be commonly thought of as human rights include [[civil and political rights]], such as the right to [[life]] and [[liberty]], [[freedom of speech|freedom of expression]], and [[equality before the law]]; and [[economic, social and cultural rights]], including the right to participate in [[culture]], the [[right to food]], the [[right to work]], and the [[right to education]].
+
+{{cquote|All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.|||Article 1 of the [[United Nations]] [[Universal Declaration of Human Rights]] (UDHR)&lt;ref&gt;{{cite web|title=Universal Declaration of Human Rights adopted by General Assembly resolution 217 A (III) of 10 December 1948|url=http://www.un.org/en/documents/udhr/index.shtml#a1}}&lt;/ref&gt;}}
+
+==History==
+{{Unreferenced section|date=September 2009}}
+{{Main|History of human rights}}
+[[File:Magna Carta.jpg|thumb|left|The [[Magna Carta]] was issued in [[England]] in 1215.]]
+
+In the 16th century, the "Great Mughal," [[Akbar the Great]] of India, granted religious minorities legal status in his realm and condemned traditional Indian practices such as the burning of widows ([[suttee]]) and [[slavery]].&lt;ref&gt;{{cite book|last=Ishay|first=Micheline|title=The History of Human Rights: From Ancient Times to the Globalization Era|page=66-67|publisher=University of California Press|year=2008|isbn=9780520256415}}&lt;/ref&gt; However, it is unclear how much such liberties can be described as "human rights" in the modern sense. Some historians argue that in non-Western cultures – and indeed in the West before the late Middle Ages – there was no concept of human rights, although important ethical concepts were nonetheless present. The concept of rights certainly existed in pre-modern cultures; ancient philosophers such as [[Aristotle]] wrote extensively on the rights (''to dikaion'' in [[ancient Greek]], roughly a "just claim") of citizens to property and participation in public affairs. However, neither the Greeks nor the Romans had any concept of universal human rights; slavery, for instance, was justified both in classical and medieval times as a natural condition.&lt;ref&gt;{{cite book|last=Freeman|first=Michael|title=Human rights: an interdisciplinary approach|publisher=Wiley-Blackwell|page=15-17|year=2002|isbn=9780745623559}}&lt;/ref&gt; Medieval charters of liberty such as the English [[Magna Carta]] were not charters of human rights, let alone general charters of rights. They instead constituted a form of limited political and legal agreement to address specific political circumstances, in the case of Magna Carta later being mythologised in the course of early modern debates about rights.&lt;ref&gt;Freeman, pp. 18-19&lt;/ref&gt;
+
+Much of modern human rights law and the basis of most modern interpretations of human rights can be traced back to relatively recent European history. The [[Twelve Articles of the Black Forest]] (1525) are considered to be the first record of human rights in Europe. They were part of the peasants' demands raised towards the [[Swabian League]] in the [[Peasants' War]] in Germany. The [[British Bill of Rights]] (or “An Act Declaring the Rights and Liberties of the Subject and Settling the Succession of the Crown”) of 1689 made illegal a range of oppressive governmental actions in the United Kingdom. Two major revolutions occurred during the 18th century, in the [[United States]] (1776) and in [[France]] (1789), leading to the adoption of the [[United States Declaration of Independence]] and the French [[Declaration of the Rights of Man and of the Citizen]] respectively, both of which established certain [[legal rights]]. Additionally, the [[Virginia Declaration of Rights]] of 1776 encoded a number of fundamental rights and freedoms into law.
+
+[[Image:Declaration of Human Rights.jpg|right|thumb|''Declaration of the Rights of Man and of the Citizen'' approved by the [[National Assembly of France]], August 26, 1789.]]
+
+{{Cquote|We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.|30px|30px|United States Declaration of Independence, 1776}}
+
+These were followed by developments in philosophy of human rights by philosophers such as [[Thomas Paine]], [[John Stuart Mill]] and [[Georg Wilhelm Friedrich Hegel|G. W. F. Hegel]] during the 18th and 19th centuries.  The term ''human rights'' probably came into use sometime between Paine's ''The Rights of Man'' and [[William Lloyd Garrison]]'s 1831 writings in ''[[The Liberator]]'' saying he was trying to enlist his readers in "the great cause of human rights"&lt;ref&gt;Mayer (2000) p. 110&lt;/ref&gt; 
+
+Many groups and movements have managed to achieve profound social changes over the course of the 20th century in the name of human rights. In [[Western Europe]] and [[North America]], [[trade union|labour union]]s brought about laws granting workers the right to strike, establishing minimum work conditions and forbidding or regulating [[child labor|child labour]]. The [[women's rights]] movement succeeded in gaining for many women the right to [[voting|vote]]. [[National Liberation Front|National liberation movements]] in many countries succeeded in driving out [[colony|colonial]] powers. One of the most influential was [[Mahatma Gandhi]]'s movement to free his native [[India]] from [[United Kingdom|British]] rule. Movements by long-oppressed racial and religious minorities succeeded in many parts of the world, among them the [[civil rights movement]], and more recent diverse [[identity politics]] movements, on behalf of women and minorities in the United States.
+
+The establishment of the [[International Committee of the Red Cross]], the 1864 [[Lieber Code]] and the first of the [[Geneva Conventions]] in 1864 laid the foundations of [[International humanitarian law]], to be further developed following the two World Wars.
+
+The World Wars, and the huge losses of life and gross abuses of human rights that took place during them were a driving force behind the development of modern [[international human rights instruments|human rights instruments]]. The [[League of Nations]] was established in 1919 at the negotiations over the [[Treaty of Versailles]] following the end of [[World War I]]. The League's goals included disarmament, preventing war through collective security, settling disputes between countries through negotiation, diplomacy and improving global welfare. Enshrined in its Charter was a mandate to promote many of the rights which were later included in the Universal Declaration of Human Rights. 
+
+At the 1945 [[Yalta Conference]], the Allied Powers agreed to create a new body to supplant the League's role. This body was to be the [[United Nations]]. The United Nations has played an important role in international human rights law since its creation. Following the World Wars the United Nations and its members developed much of the discourse and the bodies of law which now make up [[international humanitarian law]] and [[international human rights law]].
+
+==International norms==
+===Humanitarian Law===
+[[Image:Original Geneva Conventions.jpg|thumb|Original [[Geneva Conventions|Geneva Convention]] in 1864.]]
+{{Main|Geneva Conventions}}
+{{Main|Humanitarian law}}
+
+The '''Geneva Conventions''' came into being between 1864 and 1949 as a result of efforts by [[Henry Dunant]], the founder of the [[International Committee of the Red Cross]]. The conventions safeguard the human rights of individuals involved in armed conflict, and build on the [[Hague Conventions (1899 and 1907)|1899 and 1907 Hague Conventions]], the international community's first attempt to formalize the laws of war and war crimes in the nascent body of secular international law. The conventions were revised as a result of World War II and readopted by the international community in 1949.
+
+The Geneva Conventions define what is today referred to as [[humanitarian law]]. The [[International Committee of the Red Cross]] is the controlling body of the Geneva conventions.
+
+===Universal Declaration of Human Rights===
+{{Main|Universal Declaration of Human Rights}}
+[[File:EleanorRooseveltHumanRights.png|rightt|thumb|200px|"It is not a [[treaty]]...[In the future, it] may well become the international [[Magna Carta]]."&lt;ref&gt;[http://www.americanrhetoric.com/speeches/eleanorrooseveltdeclarationhumanrights.htm Eleanor Roosevelt: Address to the United Nations General Assembly] 10 December 1948 in Paris, France&lt;/ref&gt; [[Eleanor Roosevelt]] with the Spanish text of the [[Universal Declaration of Human Rights|Universal Declaration]] in 1949.]]
+ 
+The '''Universal Declaration of Human Rights (UDHR)''' is a non-binding declaration adopted by the United Nations General Assembly&lt;ref&gt;(A/RES/217, 1948-12-10 at Palais de Chaillot, Paris)&lt;/ref&gt; in 1948, partly in response to the atrocities of [[World War II]]. Although the UDHR is a non-binding resolution, it is now considered to be a central component of international [[custom (law)|customary law]] which may be invoked under appropriate circumstances by national and other judiciaries.&lt;ref&gt;Ball, Gready&lt;/ref&gt; The UDHR urges member nations to promote a number of human, civil, economic and social rights, asserting these rights are part of the "foundation of freedom, justice and peace in the world." The declaration was the first international legal effort to limit the behaviour of states and press upon them duties to their citizens following the model of the [[corelative|rights-duty duality]].
+
+{{Cquote|...recognition of the inherent dignity and of the equal and [[inalienable rights]] of all members of the human family is the foundation of freedom, justice and peace in the world|30px|30px|Preamble to the Universal Declaration of Human Rights, 1948}}
+
+The UDHR was framed by members of the Human Rights Commission, with former [[First Lady]] [[Eleanor Roosevelt]] as Chair, who began to discuss an ''International Bill of Rights'' in 1947. The members of the Commission did not immediately agree on the form of such a bill of rights, and whether, or how, it should be enforced. The Commission proceeded to frame the UDHR and accompanying treaties, but the UDHR quickly became the priority.&lt;ref name=Glendon&gt;{{cite journal|title=The Rule of Law in The Universal Declaration of Human Rights|author=Glendon, Mary Ann|url=http://www.law.northwestern.edu/journals/jihr/v2/5/|journal=Northwestern University Journal of International Human Rights|month=July | year=2004|volume=2|number=5}}&lt;/ref&gt; Canadian law professor John Humprey and French lawyer [[René Cassin]] were responsible for much of the cross-national research and the structure of the document respectively, where the articles of the declaration were interpretative of the general principle of the preamble. The document was structured by Cassin to include the basic principles of dignity, liberty, equality and brotherhood in the first two articles, followed successively by rights pertaining to individuals; rights of individuals in relation to each other and to groups; spiritual, public and political rights; and economic, social and cultural rights. The final three articles place, according to Cassin, rights in the context of limits, duties and the social and political order in which they are to be realized.&lt;ref name=Glendon/&gt; Humphrey and Cassin intended the rights in the UDHR to be legally enforceable through some means, as is reflected in the third clause of the preamble:&lt;ref name=Glendon/&gt;
+
+{{Cquote|Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law.|30px|30px|Preamble to the Universal Declaration of Human Rights, 1948}}
+
+Some of the UDHR was researched and written by a committee of international experts on human rights, including representatives from all continents and all major religions, and drawing on consultation with leaders such as Mahatma Gandhi.&lt;ref&gt;Glendon (2001)&lt;/ref&gt;&lt;ref&gt;[http://www.atimes.com/atimes/Front_Page/DK02Aa02.html Asia Times Online]&lt;/ref&gt; The inclusion of both civil and political rights and economic, social and cultural rights&lt;ref name=Glendon/&gt;&lt;ref name = "hysvvq"&gt;Ball, Gready (2007) p.34&lt;/ref&gt; was predicated on the assumption that basic human rights are indivisible and that the different types of rights listed are inextricably linked. This principle was not then opposed by any member states (the declaration was adopted unanimously, with the abstention of the [[Eastern Bloc]], [[South Africa under apartheid|Apartheid]] [[South Africa]] and [[Saudi Arabia]]), however this principle was later subject to significant challenges.&lt;ref name = "hysvvq"/&gt;
+
+The Universal Declaration was bifurcated into two distinct and different covenants, a Covenants on Civil and Political Rights and another Covenant on Economic, Social and Cultural Rights. Over the objection of the more developed states [Capitalist], which questioned the relevance and propriety of such provisions in covenants on human rights, both begin with the right of people to self-determination and to sovereignty over their natural resources. Then the two covenants go different ways.&lt;ref&gt;Louis Henkin, The International Bill of Rights: The Universal Declaration and the Covenants, in International Enforcement of Human Rights 6-9, Bernhardt and Jolowicz, eds, (1987))&lt;/ref&gt;
+
+The drafters of the Covenants initially intended only one instrument. The original drafts included only political and civil rights, but economic and social rights were added early. Western States then fought for, and obtained, a division into two covenants. They insisted that economic and social right were essentially aspirations or plans, not rights, since their realization depended on availability of resources and on controversial economic theory and ideology. These, they said, were not appropriate subjects for binding obligations and should not be allowed to dilute the legal character of provisions honoring political-civil rights; states prepared to assume obligations to respect political-civil rights should not be mitments{{ambig}}. There was wide agreement and clear recognition that the means required to enforce or induce compliance with socio-economic undertakings were different from the means required for civil-political rights.&lt;ref&gt;Louis Henkin, Introduction, The International Bill of Rights 9-10 (1981).&lt;/ref&gt;
+
+Because of the divisions over which rights to include, and because some states declined to ratify any treaties including certain specific interpretations of human rights, and despite the Soviet bloc and a number of developing countries arguing strongly for the inclusion of all rights in a so-called ''Unity Resolution'', the rights enshrined in the UDHR were split into two separate covenants, allowing states to adopt some rights and derogate others.{{Citation needed|date=January 2008}} Though this allowed the covenants to be created, one commentator has written that it denied the proposed principle that all rights are linked which was central to some interpretations of the UDHR.&lt;ref&gt;Ball, Gready (2007) p.35&lt;/ref&gt;&lt;ref&gt;{{cite journal|title=Human Rights and Human Wrongs|author=Littman, David G.|date=19 January 2003|quote=The principal aim of the 1948 Universal Declaration of Human Rights (UDHR) was to create a framework for a universal code based on mutual consent. The early years of the United Nations were overshadowed by the division between the Western and Communist conceptions of human rights, although neither side called into question the concept of universality. The debate centered on which "rights" — political, economic, and social — were to be included among the Universal Instruments|url=http://www.nationalreview.com/comment/comment-littman011903.asp}}&lt;/ref&gt;
+
+{{Articles of the Universal Declaration of Human Rights}}
+
+===Law===
+{{Main|International human rights law}}
+{{Main|International human rights instruments}}
+'''Human rights law is a system of laws, both domestic and international, designed to promote human rights.''' 
+
+====Treaties====
+{{Main|Human rights law}}
+In 1966, the [[International Covenant on Civil and Political Rights]] ('''ICCPR''') and the [[International Covenant on Economic, Social and Cultural Rights]] ('''ICESCR''') were adopted by the [[United Nations]], between them making the rights contained in the UDHR binding on all states that have signed this treaty, creating human rights law. 
+
+Since then numerous other treaties ([[International human rights instruments|pieces of legislation]]) have been offered at the international level. They are generally known as ''human rights instruments''. Some of the most significant are:
+
+*[[Convention on the Elimination of All Forms of Racial Discrimination]] ('''CERD''') (adopted 1966, entry into force: 1969) [http://www.unhchr.ch/html/menu3/b/d_icerd.htm]
+*[[Convention on the Elimination of All Forms of Discrimination Against Women]] ('''CEDAW''') (entry into force: 1981) [http://www.un.org/womenwatch/daw/cedaw/index.html]
+*[[United Nations Convention Against Torture]] ('''CAT''') (adopted 1984, entry into force: 1984) [http://www.unhchr.ch/html/menu3/b/h_cat39.htm]
+*[[Convention on the Rights of the Child]] ('''CRC''') (adopted 1989, entry into force: 1989) [http://www.unicef.org/crc]
+*[[United Nations Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families|International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families]] ('''ICRMW''') (adopted 1990, entry into force: 2003)
+
+====Enforcement of law====
+{{Main|Human rights law}}
+The enforcement of international human rights law is the responsibility of the [[Nation State]], and its the primary responsibility of the State to make human rights a reality.{{Citation needed|date=March 2009}} There is currently no international court that upholds human rights law (the [[International Criminal Court]] deals with [[crimes against humanity]], [[war crimes]] and [[genocide]]),{{Citation needed|date=March 2009}} although the [[Council of Europe]] is responsible for both the [[European Convention on Human Rights]], and the [[European Court of Human Rights]] that acts as a court of last appeal for human rights issues in member states (see the section [[#Europe|Europe]] below).&lt;ref name="autogenerated1"&gt;{{cite web|url=http://www.coe.int/T/E/Human_rights/|title=Council of Europe Human Rights|publisher=Council of Europe|accessdate=2008-01-04}}&lt;/ref&gt;
+
+In practice, many human rights are very difficult to legally enforce due to the absence of consensus on the application of certain rights, the lack of relevant national legislation or of bodies empowered to take legal action to enforce them.{{Citation needed|date=March 2009}}
+
+====Universal Jurisdiction====
+{{Main|Human rights law}}
+[[Universal jurisdiction]] is a controversial principle in international law whereby states claim criminal jurisdiction over persons whose alleged crimes were committed outside the boundaries of the prosecuting state, regardless of nationality, country of residence, or any other relation with the prosecuting country. The state backs its claim on the grounds that the crime committed is considered a crime against all, which any state is authorized to punish. The concept of universal jurisdiction is therefore closely linked to the idea that certain international norms are [[erga omnes]], or owed to the entire world community, as well as the concept of [[jus cogens]].&lt;ref&gt;{{cite journal|title=The Pitfall of Universal Jurisdiction|journal=Foreign Affairs|author=Kissinger, Henry|date=July/August 2001|url=http://www.foreignaffairs.org/20010701faessay4996/henry-a-kissinger/the-pitfalls-of-universal-jurisdiction.html}}&lt;/ref&gt;
+
+==United Nations==
+{{Main|United Nations}}
+
+[[Image:UN General Assembly hall.jpg|thumb|right|The [[UN General Assembly]]]]
+The '''United Nations (UN)''' is the only multilateral governmental agency with universally accepted international [[jurisdiction]] for universal human rights legislation.&lt;ref&gt;Ball, Gready (2007) p.92&lt;/ref&gt; Human rights are primarily governed by the [[United Nations Security Council]] and the [[United Nations Human Rights Council]], and there are numerous committees within the UN with responsibilities for safeguarding different human rights treaties. The most senior body of the UN with regard to human rights is the Office of the High Commissioner for Human Rights. The United Nations has an international mandate to:
+
+{{cquote|...achieve international co-operation in solving international problems of an economic, social, cultural, or humanitarian character, and in promoting and encouraging respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion.|||Article 1-3 of the [[United Nations Charter]]}}
+
+====Human Rights Council====
+[[Image:United Nations Human Rights Council logo.png|thumb|right|[[United Nations Human Rights Council]] logo.]]
+{{Main|United Nations Human Rights Council}}
+
+The United Nations '''Human Rights Council''', created at the [[2005 World Summit]] to replace the [[United Nations Commission on Human Rights]], has a mandate to investigate violations of human rights.&lt;ref&gt;{{cite news|publisher=United Nations News Page|url=http://www.un.org/apps/news/infocusRel.asp?infocusID=114&amp;Body=human%20rights%20council&amp;Body1=|title=United Nations Rights Council Page}}&lt;/ref&gt; The Human Rights Council is a subsidiary body of the [[United Nations General Assembly|General Assembly]]&lt;ref&gt;{{cite web|url=http://www.un.org/aboutun/chart_en.pdf|title=The United Nations System|format=PDF}}&lt;/ref&gt; and reports directly to it. It ranks below the Security Council, which is the final authority for the interpretation of the [[United Nations Charter]].&lt;ref&gt;UN Charter, Article 39&lt;/ref&gt; Forty-seven of the one hundred ninety-one member states sit on the council, elected by simple majority in a secret ballot of the [[United Nations General Assembly]]. Members serve a maximum of six years and may have their membership suspended for gross human rights abuses. The Council is based in [[Geneva]], and meets three times a year; with additional meetings to respond to urgent situations.&lt;ref&gt;Ball, Gready (2007) p.95&lt;/ref&gt;
+
+Independent experts (''rapporteurs'') are retained by the Council to investigate alleged human rights abuses and to provide the Council with reports.
+
+The Human Rights Council may request that the Security Council take action when human rights violations occur. This action may be direct actions, may involve [[sanctions]], and the [[United Nations Security Council|Security Council]] may also refer cases to the [[International Criminal Court]] (ICC) even if the issue being referred is outside the normal jurisdiction of the ICC.&lt;ref&gt;The Security Council referred the human rights situation in [[Darfur]] in [[Sudan]] to the ICC despite the fact that Sudan has a functioning legal system&lt;/ref&gt;
+
+====Security Council====
+{{Main|United Nations Security Council}}
+[[Image:United Nations Security Council.jpg|[[United Nations Security Council]].|thumb]]
+
+The United Nations '''Security Council''' has the primary responsibility for maintaining international peace and security and is the only body of the UN that can authorize the use of force (including in the context of peace-keeping operations), or override member nations sovereignty by issuing binding [[United Nations Security Council resolution|Security Council resolutions]]. Created by the UN Charter, it is classed as a ''Charter Body'' of the United Nations. The UN Charter gives the Security Council the power to:
+
+* Investigate any situation threatening international peace; 
+* Recommend procedures for peaceful resolution of a dispute; 
+* Call upon other member nations to completely or partially interrupt economic relations as well as sea, air, postal, and radio communications, or to sever diplomatic relations; and 
+* Enforce its decisions militarily if necessary. 
+
+The Security Council hears reports from all organs of the United Nations, and can take action over any issue which it feels threatens peace and security, including human rights issues. It has at times been criticised for failing to take action to prevent human rights abuses, including the [[War in Darfur|Darfur crisis]], the [[Srebrenica massacre]] and the [[Rwandan Genocide]].{{Citation needed|date=January 2008}}
+
+The [[Rome Statute of the International Criminal Court]] recognizes the Security Council the power to refer cases to the Court, where the Court could not otherwise exercise jurisdiction.
+
+====Other UN Treaty Bodies====
+A modern interpretation of the original Declaration of Human Rights was made in the [[Vienna Declaration and Programme of Action]] adopted by the World Conference on Human Rights in 1993. The degree of unanimity over these conventions, in terms of how many and which countries have ratified them varies, as does the degree to which they are respected by various states. The UN has set up a number of ''treaty-based'' bodies to monitor and study human rights, under the leadership of the [[Office of the United Nations High Commissioner for Human Rights|UN High Commissioner for Human Rights]] (UNHCHR). The bodies are committees of independent experts that monitor implementation of the core international human rights treaties. They are created by the treaty that they monitor.
+
+*The ''[[Human Rights Committee]]'' promotes participation with the standards of the [[International Covenant on Civil and Political Rights|ICCPR]]. The eighteen members of the committee express opinions on member countries and make judgements on individual complaints against countries which have ratified the treaty. The judgements are not legally binding.
+
+*The ''Committee on Economic, Social and Cultural Rights'' monitors the [[International Covenant on Economic, Social and Cultural Rights|ICESCR]] and makes general comments on ratifying countries performance. It does not have the power to receive complaints.
+
+*The ''Committee on the Elimination of Racial Discrimination'' monitors the [[Convention on the Elimination of All Forms of Racial Discrimination|CERD]] and conducts regular reviews of countries' performance. It can make judgements on complaints, but these are not legally binding. It issues warnings to attempt to prevent serious contraventions of the convention.
+
+*The ''Committee on the Elimination of Discrimination against Women'' monitors the [[Convention on the Elimination of All Forms of Discrimination Against Women|CEDAW]]. It receives states' reports on their performance and comments on them, and can make judgements on complaints against countries which have opted into the 1999 Optional Protocol.
+
+*The ''Committee Against Torture'' monitors the [[United Nations Convention Against Torture|CAT]] and receives states' reports on their performance every four years and comments on them. It may visit and inspect individual countries with their consent.
+
+*The ''[[Committee on the Rights of the Child]]'' monitors the [[Convention on the Rights of the Child|CRC]] and makes comments on reports submitted by states every five years. It does not have the power to receive complaints.
+
+*The ''Committee on Migrant Workers'' was established in 2004 and monitors the [[United Nations Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families|ICRMW]] and makes comments on reports submitted by states every five years. It will have the power to receive complaints of specific violations only once ten member states allow it.
+
+* The ''Committee on the Rights of Persons with Disabilities'' was established in 2008 to monitor the [[Convention on the Rights of Persons with Disabilities]].
+
+Each treaty body receives secretariat support from the Treaties and Commission Branch of Office of the High Commissioner on Human Rights (OHCHR) in Geneva except CEDAW, which is supported by the Division for the Advancement of Women (DAW). CEDAW meets at United Nations headquarters in New York; the other treaty bodies generally meet at the United Nations Office in Geneva. The Human Rights Committee usually holds its March session in New York City.
+
+==Regional human rights==
+The three principal regional human rights instruments are the [[African Charter on Human and Peoples' Rights]], the [[American Convention on Human Rights]] (the Americas) and the [[European Convention on Human Rights]]. 
+{{See also|List of human rights articles by country|National human rights institutions}}
+
+===Africa===
+{{Main|Human rights in Africa}}
+
+The [[African Union]] (AU) is a supranational union consisting of fifty-three African states.&lt;ref&gt;{{cite web|url=http://www.africa-union.org/root/au/memberstates/map.htm|title=AU Member States|publisher=African Union|accessdate=2008-01-03}}&lt;/ref&gt; Established in 2001, the AU's purpose is to help secure Africa's democracy, human rights, and a sustainable economy, especially by bringing an end to intra-African conflict and creating an effective common market.&lt;ref&gt;{{cite web|url=http://www.africa-union.org/root/au/AboutAu/au_in_a_nutshell_en.htm|title=AU in a Nutshell|accessdate=2008-01-03}}&lt;/ref&gt;
+
+The [[African Charter on Human and Peoples' Rights]] is the region's principal human rights instrument and emerged under the aegis of the [[Organisation of African Unity]] (OAU) (since replaced by the [[African Union]]). The intention to draw up the [[African Charter on Human and Peoples' Rights]] was announced in 1979 and the Charter was unanimously approved at the OAU's 1981 Assembly. Pursuant to its Article 63 (whereby it was to "come into force three months after the reception by the Secretary General of the instruments of ratification or adherence of a simple majority" of the OAU's member states), the African Charter on Human and Peoples' Rights came into effect on 21 October 1986 – in honour of which [[October 21|21&lt;sup&gt;st&lt;/sup&gt; of October]] was declared "African Human Rights Day".&lt;ref&gt;[[African Charter on Human and Peoples' Rights]]&lt;/ref&gt;
+
+The [[African Commission on Human and Peoples' Rights]] (ACHPR) is a quasi-judicial organ of the [[African Union]] tasked with promoting and protecting human rights and collective (peoples') rights throughout the African continent as well as interpreting the African Charter on Human and Peoples' Rights and considering individual complaints of violations of the Charter. The Commission has three broad areas of responsibility:&lt;ref name=mandate&gt;{{cite web|url=http://www.achpr.org/english/_info/mandate_en.html|title=Mandate of the African Commission on Human and Peoples' Rights|accessdate=2008-01-03}}&lt;/ref&gt;
+
+* Promoting human and peoples' rights 
+* Protecting human and peoples' rights 
+* Interpreting the [[African Charter on Human and Peoples' Rights]] 
+
+In pursuit of these goals, the Commission is mandated to "collect documents, undertake studies and researches on African problems in the field of human and peoples, rights, organise seminars, symposia and conferences, disseminate information, encourage national and local institutions concerned with human and peoples' rights and, should the case arise, give its views or make recommendations to governments" (Charter, Art. 45).&lt;ref name=mandate/&gt;
+
+With the creation of the [[African Court on Human and Peoples' Rights]] (under a protocol to the Charter which was adopted in 1998 and entered into force in January 2004), the Commission will have the additional task of preparing cases for submission to the Court's jurisdiction.&lt;ref name=court&gt;{{cite web|url=http://www.achpr.org/english/_info/court_en.html|title=Protocol to the African Charter on human and peoples' rights on the establishment of an African court on human and peoples' rights|accessdate=2008-01-03}}&lt;/ref&gt; In a July 2004 decision, the AU Assembly resolved that the future Court on Human and Peoples' Rights would be integrated with the African Court of Justice.
+
+The [[African Court of Justice|Court of Justice of the African Union]] is intended to be the “principal judicial organ of the Union” (Protocol of the Court of Justice of the African Union, Article 2.2).&lt;ref&gt;{{cite web|url=http://www.africa-union.org/official_documents/Treaties_%20Conventions_%20Protocols/Protocol%20to%20the%20African%20Court%20of%20Justice%20-%20Maputo.pdf|title=Protocol of the Court of Justice of the African Union|publisher=African Union|format=PDF}}&lt;/ref&gt; Although it has not yet been established, it is intended to take over the duties of the African Commission on Human and Peoples' Rights, as well as act as the supreme court of the African Union, interpreting all necessary laws and treaties. The Protocol establishing the African Court on Human and Peoples' Rights entered into force in January 2004&lt;ref&gt;{{cite web|url=http://www.amnesty.org/en/alfresco_asset/dc501e2c-a5f9-11dc-bc7d-3fb9ac69fcbb/ior630082004en.pdf|title=Open Letter to the Chairman of the African Union (AU) seeking clarifications and assurances that the Establishment of an effective African Court on Human and Peoples’ Rights will not be delayed or undermined|publisher=Amnesty International|date=5 August 2004|format=PDF}}&lt;/ref&gt; but its merging with the Court of Justice has delayed its establishment. The Protocol establishing the Court of Justice will come into force when ratified by 15 countries.&lt;ref&gt;{{cite web|publisher=African International Courts and Tribunals|url=http://www.aict-ctia.org/courts_conti/acj/acj_home.html|title=African Court of Justice|accessdate=2008-01-03}}&lt;/ref&gt;
+
+There are many countries in Africa accused of human rights violations by the international community and NGOs.&lt;ref&gt;{{cite web|url=http://hrw.org/doc/?t=africa|title=Human Rights Watch Africa|accessdate=2008-01-03}}&lt;/ref&gt;
+
+{{Africa topic|Human rights in}}
+
+===Americas===
+The [[Organization of American States]] (OAS) is an international organization, headquartered in [[Washington, D.C.]], [[United States]]. Its members are the thirty-five independent states of the Americas. Over the course of the 1990s, with the end of the [[Cold War]], the return to democracy in [[Latin America]]{{Citation needed|date=April 2008}}, and the thrust toward [[globalization]], the OAS made major efforts to reinvent itself to fit the new context. Its stated priorities now include the following:&lt;ref&gt;{{cite web|url=http://www.oas.org/key_issues/eng/default.asp|title=OAS Key Issues|accessdate=2008-01-03}}&lt;/ref&gt;
+
+* Strengthening democracy
+* Working for peace
+* Protecting human rights
+* Combating corruption
+* The rights of Indigenous Peoples
+* Promoting sustainable development
+
+The [[Inter-American Commission on Human Rights]] (the IACHR) is an autonomous organ of the [[Organization of American States]], also based in Washington, D.C. Along with the [[Inter-American Court of Human Rights]], based in [[San José, Costa Rica|San José]], [[Costa Rica]], it is one of the bodies that comprise the inter-American system for the promotion and protection of human rights.&lt;ref&gt;{{cite web|url=http://www.oas.org/documents/eng/biographies.asp?group=hhrr|publisher=Organization of American States|title=Directory of OAS Authorities|accessdate=2008-01-03}}&lt;/ref&gt; The IACHR is a permanent body which meets in regular and special sessions several times a year to examine allegations of human rights violations in the hemisphere. Its human rights duties stem from three documents:&lt;ref&gt;{{cite web|url=http://www.cidh.oas.org/what.htm|title=What is the IACHR?|publisher=Inter-American Commission on Human Rights|accessdate=2008-01-03}}&lt;/ref&gt;
+
+* the [[Charter of the Organization of American States|OAS Charter]] 
+* the [[American Declaration of the Rights and Duties of Man]] 
+* the [[American Convention on Human Rights]]
+
+The Inter-American Court of Human Rights was established in 1979 with the purpose of enforcing and interpreting the provisions of the American Convention on Human Rights. Its two main functions are thus adjudicatory and advisory. Under the former, it hears and rules on the specific cases of human rights violations referred to it. Under the latter, it issues opinions on matters of legal interpretation brought to its attention by other OAS bodies or member states.&lt;ref&gt;{{cite web|url=http://www.corteidh.or.cr/index.cfm?CFID=25331&amp;CFTOKEN=36922058|title=Inter-American Court on Human Rights homepage|publisher=Inter-American Court on Human Rights|accessdate=2008-01-03}}&lt;/ref&gt;
+
+Many countries in the Americas, such as Colombia, Canada, Cuba, Mexico, The United States, and Venezuela have been accused of human rights violations.
+
+{{North America topic|Human rights in}}
+{{South America topic|Human rights in}}
+
+===Asia===
+[[Image:Asia Cooperation Dialogue Map.png|300px|thumb|right|Membership and expansion of the Asia Cooperation Dialogue. Note that the [[Republic of China|Republic of China (Taiwan)]] is recognised or acknowledged by the member states as part of the [[People's Republic of China]] (PRC), but ''de facto'' does not have any representation.]]
+
+{{Main|Human rights in Asia|Human rights in East Asia|Human rights in Central Asia|Human Rights in the Middle East}}
+
+There are no Asia-wide organisations or conventions to promote or protect human rights. Countries vary widely in their approach to human rights and their record of human rights protection. 
+
+The [[Association of Southeast Asian Nations]] (ASEAN)&lt;ref name=Overview&gt;{{cite web|url=http://www.aseansec.org/64.htm|title=Overview Association of Southeast Asian Nations|accessdate=2008-01-03}}&lt;/ref&gt; is a geo-political and economic organization of 10 countries located in Southeast Asia, which was formed in 1967 by [[Indonesia]], [[Malaysia]], the [[Philippines]], [[Singapore]] and [[Thailand]].&lt;ref&gt; [[s:Bangkok Declaration|Bangkok Declaration]]. Wikisource. Retrieved March 14, 2007&lt;/ref&gt; The organisation now also includes [[Brunei]], [[Vietnam]], [[Laos]], [[Myanmar]] and [[Cambodia]].&lt;ref name=Overview/&gt; Its aims include the acceleration of economic growth, social progress, cultural development among its members, and the promotion of regional peace&lt;ref name=Overview/&gt;
+
+The [[South Asian Association for Regional Cooperation]] (SAARC) is an economic and political organization of eight countries in Southern Asia, representing almost 1.5 billion people. It was established in 1985 by [[India]], [[Pakistan]], [[Bangladesh]], [[Sri Lanka]], [[Nepal]], [[Maldives]] and [[Bhutan]]. In April 2007, at the Association's 14th summit, [[Afghanistan]] became its eighth member.&lt;ref&gt;{{cite web|url=http://www.saarc-sec.org/main.php|title=South Asian Association for Regional Cooperation homepage|accessdate=2008-01-03}}&lt;/ref&gt;
+
+The [[Cooperation Council for the Arab States of the Gulf]] (CCASG) is a trade bloc involving the seven Arab states of the [[Persian Gulf]], with many economic and social objectives. Created in 1981, the Council comprises the Persian Gulf states of [[Yemen]] [[Bahrain]], [[Kuwait]], [[Oman]], [[Qatar]], [[Saudi Arabia]] and the [[United Arab Emirates]].&lt;ref&gt;{{cite web|url=http://gcc-sg.org/Foundations.html|title=The Concept and Foundations and Objectives of the CCASG|accessdate=2008-01-03}}&lt;/ref&gt;
+
+The [[Asia Cooperation Dialogue]] (ACD) is a body created in 2002 to promote Asian cooperation at a continental level, helping to integrate the previously separate regional organizations of political or economical cooperation. The main objectives of the ACD are as follows:&lt;ref name=aboutACD&gt;{{cite web|url=http://www.acddialogue.com/about/index.php|title=About the Asia Cooperation Dialogue|publisher=Asia Cooperation Dialogue|accessdate=2008-01-03}}&lt;/ref&gt;
+
+* To promote interdependence among Asian countries in all areas of cooperation by identifying Asia's common strengths and opportunities which will help reduce poverty and improve the quality of life for Asian people whilst developing a knowledge-based society within Asia and enhancing community and people empowerment; 
+* To expand the trade and financial market within Asia and increase the bargaining power of Asian countries in lieu of competition and, in turn, enhance Asia's economic competitiveness in the global market; 
+* To serve as the missing link in Asian cooperation by building upon Asia's potentials and strengths through supplementing and complementing existing cooperative frameworks so as to become a viable partner for other regions; 
+* To ultimately transform the Asian continent into an Asian Community, capable of interacting with the rest of the world on a more equal footing and contributing more positively towards mutual peace and prosperity.
+
+None of the above organisations have a specific mandate to promote or protect human rights, but each has some human rights related economic, social and cultural objectives.&lt;ref name=aboutACD/&gt;&lt;ref&gt;{{cite web|url=http://gcc-sg.org/CHARTER.html|title=Charter of CCASG|accessdate=2008-01-03}}&lt;/ref&gt;
+
+A number of Asian countries are accused of serious human rights abuses by the international community and human rights organisations.&lt;ref&gt;{{cite web|url=http://www.hrw.org/asia/|title=Human Rights Watch Asia|accessdate=2008-01-03}}&lt;/ref&gt;
+
+{{Asia topic|Human rights in}}
+
+===Europe===
+[[Image:European flag in the wind.jpg|thumb|The [[Flag of Europe]] is the flag of both the [[European Union]] and the [[Council of Europe]].]]
+
+{{Main|Human rights in Europe}}
+
+The [[Council of Europe]], founded in 1949, is the oldest organisation working for European integration. It is an international organisation with legal personality recognised under public international law and has observer status with the United Nations. The seat of the Council of Europe is in [[Strasbourg]] in [[France]]. The Council of Europe is responsible for both the [[European Convention on Human Rights]] and the [[European Court of Human Rights]].&lt;ref name="autogenerated1" /&gt; These institutions bind the Council's members to a code of human rights which, though strict, are more lenient than those of the United Nations charter on human rights.{{Citation needed|date=January 2008}} The Council also promotes the [[European Charter for Regional or Minority Languages]] and the [[European Social Charter]].&lt;ref&gt;{{cite web|url=http://www.coe.int/T/E/Human_Rights/Esc/|title=Social Charter|publisher=Council of Europe|accessdate=2008-01-04}}&lt;/ref&gt; Membership is open to all European states which seek [[European integration]], accept the principle of the [[rule of law]] and are able and willing to guarantee [[democracy]], fundamental human rights and [[freedom (political)|freedoms]].&lt;ref&gt;{{cite web|url=http://www.coe.int/T/e/Com/about_coe/|title=The Council of Europe in Brief|accessdate=2008-01-04}}&lt;/ref&gt;
+
+The [[Council of Europe]] is separate from the [[European Union]], but the latter is expected to accede to the European Convention and potentially the Council itself.{{Citation needed|date=January 2008}} The EU also has a separate human rights document; the [[Charter of Fundamental Rights of the European Union]].&lt;ref&gt;{{cite web|url=http://www.gouvernement.lu/salle_presse/actualite/2006/04/11conseil_europe/english_mod.pdf|title=Council of Europe - European Union: "A sole ambition for the European Continent"|author=Juncker, Jean-Claude|date=11 April 2006|publisher=Council of Europe|accessdate=2008-01-04|format=PDF}}&lt;/ref&gt;
+
+The [[European Convention on Human Rights]] defines and guarantees since 1950 human rights and fundamental freedoms in Europe.&lt;ref name=EUCourt&gt;{{cite web|url=http://www.echr.coe.int/ECHR/EN/Header/The+Court/The+Court/History+of+the+Court/|title=Historical Background to the European Court of Human Rights|publisher=European Court of Human Rights|accessdate=2008-01-04}}&lt;/ref&gt; All 47 member states of the Council of Europe have signed this Convention and are therefore under the jurisdiction of the European Court of Human Rights in Strasbourg.&lt;ref name=EUCourt/&gt; In order to prevent torture and inhuman or degrading treatment (Article 3 of the Convention), the [[Committee for the Prevention of Torture]] was established.&lt;ref&gt;{{cite web|url=http://www.cpt.coe.int/en/about.htm|title=About the European Committee for the Prevention of Torture|publisher=European Committee for the Prevention of Torture|accessdate=2008-01-04}}&lt;/ref&gt;
+
+The [[European Court of Human Rights]] is the only international court with jurisdiction to deal with cases brought by individuals (rather than states).&lt;ref name=EUCourt/&gt;
+
+{{Europe topic|Human rights in}}
+
+===Oceania===
+There are no regional approaches or agreements on human rights for Oceania, but most countries have a well-regarded human rights record. However, incorporated into the 2005 [[Pacific Plan]], is the commitment to a plan of "defence and promotion of human rights" in the region. The idea of an institutionalized regional human rights framework is ongoing, with an objective to establish an ombudsman and security structures that goes beyond the [[Pacific Islands Forum]].[http://www.pacificplan.org/]&lt;ref&gt;Julia de Blaauw, Human Rights at a Crossroad? Towards an institutionalised regional human rights framework in the Pacific, Just Change http://www.dev-zone.org/justchange/documents/JC%2012_web&lt;/ref&gt;         
+
+Australia is the only western democracy with no constitutional or legislative bill of rights, but a number of laws have been enacted to protect human rights and the Constitution of Australia has been found to contain certain implied rights by the High Court. However, Australia has been criticised at various times for its immigration policies, treatment of asylum seekers, treatment of its indigenous population, and foreign policy.
+
+{{Oceania topic|Human rights in}}
+
+==Philosophies==
+Several theoretical approaches have been advanced to explain how and why human rights become part of social expectations. 
+
+One of the oldest Western philosophies on human rights is that they are a product of a natural law, stemming from different philosophical or religious grounds.
+
+Other theories hold that human rights codify moral behavior which is a human social product developed by a process of biological and social evolution (associated with [[David Hume|Hume]]). Human rights are also described as a sociological pattern of rule setting (as in the sociological theory of law and the work of [[Max Weber|Weber]]). These approaches include the notion that individuals in a society accept rules from legitimate authority in exchange for security and economic advantage (as in [[John Rawls|Rawls]]) - a social contract.
+
+===Natural rights===
+{{Main|Natural law|Natural right}}
+
+Natural law theories base human rights on a “natural” moral, religious or even biological order that is independent of transitory human laws or traditions.  
+
+[[Socrates]] and his philosophic heirs, [[Plato]] and [[Aristotle]], posited the existence of [[natural justice]] or natural right (''dikaion physikon'', ''δικαιον φυσικον'', [[Latin]] ''ius naturale'').  Of these, Aristotle is often said to be the father of natural law,&lt;ref&gt;Shellens (1959)&lt;/ref&gt; although evidence for this is due largely to the interpretations of his work by [[Thomas Aquinas]].&lt;ref&gt;Jaffa (1979)&lt;/ref&gt;
+
+The development of this tradition of natural justice into one of natural law is usually attributed to the [[Stoicism|Stoics]].&lt;ref&gt;Sills (1968, 1972) ''Natural Law''&lt;/ref&gt;
+
+Some of the early [[Church Fathers]] sought to incorporate the until then [[paganism|pagan]] concept of natural law into [[Christianity]]. Natural law theories have featured greatly in the [[philosophy|philosophies]] of [[Thomas Aquinas]], [[Francisco Suárez]], [[Richard Hooker]], [[Thomas Hobbes]], [[Hugo Grotius]], [[Samuel von Pufendorf]], and [[John Locke]].  
+
+In the Seventeenth century [[Thomas Hobbes]] founded a [[social contract|contractualist theory]] of [[legal positivism]] on what all men could agree upon: what they sought (happiness) was subject to contention, but a broad consensus could form around what they feared (violent death at the hands of another). The natural law was how a rational human, seeking to survive and prosper, would act. It was discovered by considering humankind's natural rights, whereas previously it could be said that natural rights were discovered by considering the natural law.  In Hobbes' opinion, the only way natural law could prevail was for men to submit to the commands of the sovereign. In this lay the foundations of the theory of a social contract between the governed and the governor.
+
+[[Hugo Grotius]] based his philosophy of international law on natural law. He wrote that "even the will of an [[omnipotence|omnipotent]] being cannot change or abrogate" natural law, which "would maintain its objective validity even if we should assume the impossible, that there is no [[God]] or that he does not care for human affairs." (''De iure belli ac pacis'', Prolegomeni XI). This is the famous argument ''etiamsi daremus'' (''non esse Deum''), that made natural law no longer dependent on theology.
+
+[[John Locke]] incorporated natural law into many of his theories and philosophy, especially in ''[[Two Treatises of Government]]''. Locke turned Hobbes' prescription around, saying that if the ruler went against natural law and failed to protect "life, liberty, and property," people could justifiably overthrow the existing state and create a new one.
+
+The Belgian philosopher of law [[Frank Van Dun]] is one among those who are elaborating a secular conception&lt;ref&gt;{{cite web|url=http://users.ugent.be/~frvandun/Texts/Logica/NaturalLaw.htm|author=van Dun, Frank|accessdate=2007-12-28|title=Natural Law}}&lt;/ref&gt; of natural law in the liberal tradition. There are also emerging and secular forms of natural law theory that define human rights as derivative of the notion of universal human dignity.&lt;ref&gt;Kohen (2007)&lt;/ref&gt;
+
+The term "human rights" has replaced the term "natural rights" in popularity, because the rights are less and less frequently seen as requiring natural law for their existence.&lt;ref&gt;{{cite web|author=Weston, Burns H.|url=http://www.britannica.com/eb/article-9106289?query=human%20rights&amp;ct=eb|title=Human Rights|publisher=Encyclopedia Britannica Online, p. 2|accessdate=2006-05-18}}&lt;/ref&gt;
+
+===Social contract===
+The English philosopher [[Thomas Hobbes]] suggested the existence of a hypothetical ''social contract'' where a group of free individuals agree for the sake of the common good to form institutions to govern themselves. They give up some liberties in exchange for protection from the Sovereign. This led to [[John Locke]]'s theory that a failure of the government to secure rights is a failure which justifies the removal of the government, and was mirrored in later postulation by [[Jean-Jacques Rousseau]] in his "Du Contrat Social" ([[The Social Contract]]).
+
+International [[equity (law)|equity]] expert Paul Finn has echoed this view: 
+
+{{cquote|the most fundamental fiduciary relationship in our society is manifestly that which exists between the community (the people) and the state, its agencies and [[official]]s.|||Paul Finn&lt;ref name = "zogvfu"/&gt;}}
+
+The relationship between government and the governed in countries which follow the [[English law]] tradition is a [[fiduciary]] one. In equity law, a politician's fiduciary obligations are not only the duties of good faith and loyalty, but also include duties of skill and [[competence (human resources)|competence]] in managing a country and its people. Originating from within the [[Court of equity|Courts of Equity]], the fiduciary concept exists to prevent those holding positions of power from abusing their authority. The fiduciary relationship between government and the governed arises from the governments ability to control people with the exercise of its power. In effect, if a government has the power to abolish any rights, it is equally burdened with the fiduciary duty to protect such an interest because it would benefit from the exercise of its own discretion to extinguish rights which it alone had the power to dispose of.&lt;ref name = "zogvfu"&gt;Salevao (2005) p.76&lt;/ref&gt;
+
+===Reciprocity===
+The Golden Rule, or the ''[[ethic of reciprocity]]'' states that one must do unto others as one would be treated themselves; the principle being that reciprocal recognition and respect of rights ensures that one's own rights will be protected. This principle can be found in all the world's major religions in only slightly differing forms, and was enshrined in the "Declaration Toward a Global Ethic" by the [[Parliament of the World's Religions]] in 1993.
+
+===Other theories of human rights===
+The philosopher [[John Finnis]] argues that human rights are justifiable on the grounds of their instrumental value in creating the necessary conditions for human well-being.&lt;ref&gt;{{cite web|url=http://www.iep.utm.edu/h/hum-rts.htm#SH4b|title=''Human Rights''|publisher=The Internet Encyclopedia of Philosophy|author=Fagan, Andrew|year=2006|accessdate=2008-01-01}}&lt;/ref&gt;&lt;ref&gt;Finnis (1980)&lt;/ref&gt; Interest theories highlight the duty to respect the rights of other individuals on grounds of self-interest:
+
+{{cquote|Human rights law, applied to a State's own citizens serves the interest of states, by, for example, minimizing the risk of violent resistance and protest and by keeping the level of dissatisfaction with the government manageable|||Niraj Nathwani in ''Rethinking refugee law''&lt;ref&gt;Nathwani (2003) p.25&lt;/ref&gt;}}
+
+The [[Biology|biological]] theory considers the comparative reproductive advantage of human social behavior based on empathy and [[altruism]] in the context of [[natural selection]].&lt;ref&gt;Arnhart (1998)&lt;/ref&gt;&lt;ref&gt;Clayton, Schloss (2004)&lt;/ref&gt;&lt;ref&gt;Paul, Miller, Paul (2001): Arnhart, Larry. ''Thomistic Natural Law as Darwinian Natural Right'' p.1&lt;/ref&gt;
+
+{{Main|Human security}}
+[[Human security]] is an emerging school of thought which challenges the traditional, state-based conception of security and argues that a people-focused approach to security is more appropriate in the modern interdependent world and would be more effective in advancing the security of individuals and societies across the globe.
+
+Philosopher Friedrich [[Nietzsche]] has argued to the effect that those who speak most vehemently about their rights, doubt at the bottom of their soul if they truly have any.
+
+===Critiques of human rights===
+Philosophers who have criticized the concept of human rights include [[Jeremy Bentham]], [[Edmund Burke]], [[Friedrich Nietzsche]] and [[Karl Marx]]{{Citation needed|date=October 2009}}. A recent critique has been advanced by [[Charles Blattberg]] in his essay "The Ironic Tragedy of Human Rights." Blattberg argues that rights talk, being abstract, demotivates people from upholding the values that rights are meant to assert.&lt;ref&gt;[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1330693  Social Science Research Network (SSRN)]&lt;/ref&gt; In his book ''[[After Virtue]],'' [[Alasdair MacIntyre]] claimed the concept that all human beings have certain rights simply by virtue of being human was illogical, stated "the best reason for asserting so bluntly that there are no such rights is indeed of precisely the same type as the best reason which we possess for asserting that there are no witches and the best reason which we possess for asserting that there are no unicorns: every attempt to give good reasons for believing there ''are'' such rights has failed."&lt;ref&gt;McIntyre, Alisdair "After Virtue" p. 69 Duckworth 1981&lt;/ref&gt;
+
+==Concepts in human rights==
+===Indivisibility and categorization===
+The most common categorization of human rights is to split them into [[civil and political rights]], and [[economic, social and cultural rights]].
+
+Civil and political rights are enshrined in articles 3 to 21 of the [[Universal Declaration of Human Rights]] (UDHR) and in the [[International Covenant on Civil and Political Rights]] ([[ICCPR]]). Economic, social and cultural rights are enshrined in articles 22 to 28 of the [[Universal Declaration of Human Rights]] (UDHR) and in the [[International Covenant on Economic, Social and Cultural Rights]] ([[ICESCR]]). 
+
+====Indivisibility====
+The [[UDHR]] included both economic, social and cultural rights and civil and political rights because it was based on the principle that the different rights could only successfully exist in combination:
+
+{{cquote|The ideal of free human beings enjoying civil and political freedom and freedom from fear and want can only be achieved if conditions are created whereby everyone may enjoy his civil and political rights, as well as his social, economic and cultural rights|30px|30px|International Covenant on Civil and Political Rights and the International Covenant on Economic Social and Cultural Rights, 1966}}
+
+This is held to be true because without civil and political rights the public cannot assert their economic, social and cultural rights. Similarly, without livelihoods and a working society, the public cannot assert or make use of civil or political rights (known as the ''full belly thesis''). 
+
+The indivisibility and interdependence of all human rights has been confirmed by the 1993 [[Vienna Declaration and Programme of Action]]:
+
+{{cquote|All human rights are universal, indivisible and interdependent and related. The international community must treat human rights globally in a fair and equal manner, on the same footing, and with the same emphasis|30px|30px|[[Vienna Declaration and Programme of Action]], [[World Conference on Human Rights]], 1993}} This statement was again endorsed at the 2005 World Summit in New York (paragraph 121).
+
+Although accepted by the signatories to the [[UDHR]], most do not in practice give equal weight to the different types of rights. Some Western cultures have often given priority to civil and political rights, sometimes at the expense of economic and social rights such as the right to [[right to work|work]], to [[right to education|education]], [[right to health|health]] and housing. For example, in the United States there is no universal access to [[Health care|healthcare]] free at the point of use.&lt;ref&gt;Light (2002)&lt;/ref&gt; That is not to say that Western cultures have overlooked these rights entirely (the welfare states that exist in Western Europe are evidence of this). Similarly the ex Soviet bloc countries and Asian countries have tended to give priority to economic, social and cultural rights, but have often failed to provide civil and political rights.
+
+====Categorization====
+Opponents of the indivisibility of human rights argue that economic, social and cultural rights are fundamentally different from civil and political rights and require completely different approaches. Economic, social and cultural rights are argued to be:&lt;ref&gt;Scott (1989&lt;/ref&gt;
+*''positive'', meaning that they require active provision of entitlements by the state (as opposed to the state being required only to prevent the breach of rights)
+*''resource-intensive'', meaning that they are expensive and difficult to provide
+*''progressive'', meaning that they will take significant time to implement
+*''vague'', meaning they cannot be quantitatively measured, and whether they are adequately provided or not is difficult to judge
+*''ideologically divisive/political'', meaning that there is no consensus on what should and shouldn't be provided as a right
+*''[[socialism|socialist]]'', as opposed to [[capitalism|capitalist]]
+*''non-justiciable'', meaning that their provision, or the breach of them, cannot be judged in a court of law
+*''aspirations or goals'', as opposed to real 'legal' rights
+
+Similarly civil and political rights are categorized as:
+*''negative'', meaning the state can protect them simply by taking no action
+*''cost-free''
+*''immediate'', meaning they can be immediately provided if the state decides to
+*''precise'', meaning their provision is easy to judge and measure
+*''non-ideological/non-political''
+*''capitalist''
+*''justiciable''
+*''real 'legal' rights''
+
+In ''The No-Nonsense Guide to Human Rights'' Olivia Ball and Paul Gready argue that for both civil and political rights and economic, social and cultural rights it is easy to find examples which do not fit into the above categorisation. Amongst several others, they highlight the fact that maintaining a judicial system, a fundamental requirement of the civil right to due process before the law and other rights relating to judicial process, is positive, resource-intensive, progressive and vague, while the social right to housing is precise, justiciable and can be a real 'legal' right.&lt;ref name = "ymtznq"&gt;Ball, Gready (2007) p.37&lt;/ref&gt;
+
+Another categorization, offered by [[Karel Vasak]], is that there are ''[[three generations of human rights]]'': first-generation civil and political rights (right to life and political participation), second-generation economic, social and cultural rights (right to subsistence) and third-generation solidarity rights (right to peace, right to clean environment). Out of these generations, the third generation is the most debated and lacks both legal and political recognition. This categorisation is at odds with the indivisibility of rights, as it implicitly states that some rights can exist without others. Prioritisation of rights for pragmatic reasons is however a widely accepted necessity. Human rights expert [[Philip Alston]] argues:
+
+{{cquote|If every possible human rights element is deemed to be essential or necessary, then nothing will be treated as though it is truly important.|||[[Philip Alston]]&lt;ref name = "bxxpps"&gt;Alston (2005)&lt;/ref&gt;}}
+
+He, and others, urge caution with prioritisation of rights:
+
+{{cquote|...the call for prioritizing is not to suggest that any obvious violations of rights can be ignored.|||[[Philip Alston]]&lt;ref name = "bxxpps"/&gt;}}
+
+{{cquote|Priorities, where necessary, should adhere to core concepts (such as reasonable attempts at progressive realization) and principles (such as non-discrimination, equality and participation.|||Olivia Ball, Paul Gready&lt;ref&gt;Ball, Gready. (2007) p.42&lt;/ref&gt;}}
+
+Some human rights are said to be "[[inalienable rights]]."  The term inalienable rights (or unalienable rights) refers to "a set of human rights that are fundamental, are not awarded by human power, and cannot be surrendered."
+
+===Universalism vs. cultural relativism===
+{{Main|Cultural relativism|Moral relativism|Moral universalism|Universal ethic}}
+[[Image:Fgm map.gif|right|thumb|Map: Estimated Prevalence of [[Female Genital Cutting]] (FGC) in Africa. Data based on uncertain estimates.]]
+
+The UDHR enshrines universal rights that apply to all humans equally, whichever geographical location, state, race or culture they belong to.
+
+Proponents of cultural relativism argue for acceptance of different cultures, which may have practices conflicting with human rights.
+
+For example [[female genital mutilation]] occurs in different cultures in [[Africa]], [[Asia]] and [[South America]]. It is not mandated by any religion, but has become a tradition in many cultures. It is considered a violation of women's and girl's rights by much of the international community, and is outlawed in some countries.
+
+Universalism has been described by some as cultural, economic or political imperialism. In particular, the concept of human rights is often claimed to be fundamentally rooted in a politically [[liberalism|liberal]] outlook which, although generally accepted in [[Europe]], [[Japan]] or [[North America]], is not necessarily taken as standard elsewhere.
+
+For example, in 1981, the Iranian representative to the [[United Nations]], Said Rajaie-Khorassani, articulated the position of his country regarding the Universal Declaration of Human Rights by saying that the UDHR was "a [[Secularism|secular]] understanding of the [[Judeo-Christian]] tradition", which could not be implemented by Muslims without trespassing the Islamic law.&lt;ref name="Littman1999"&gt;Littman (1999)&lt;/ref&gt; The former Prime Ministers of [[Singapore]], [[Lee Kuan Yew]], and of [[Malaysia]], [[Mahathir bin Mohamad]] both claimed in the 1990s that ''Asian values'' were significantly different from western values and included a sense of loyalty and foregoing personal freedoms for the sake of social stability and prosperity, and therefore authoritarian government is more appropriate in Asia than democracy. This view is countered by Mahathir's former deputy:
+
+{{cquote|To say that freedom is Western or unAsian is to offend our traditions as well as our forefathers, who gave their lives in the struggle against tyranny and injustices.|30px|30px|A Ibrabim in his keynote speech to the Asian Press Forum title ''Media and Society in Asia'', 2 December 1994}}
+
+and also by Singapore's opposition leader [[Chee Soon Juan]] who states that it is racist to assert that Asians do not want human rights.&lt;ref&gt;Ball, Gready (2007) p.25&lt;/ref&gt;&lt;ref&gt;{{cite book|title=Human Rights: Dirty Words in Singapore|publisher=Activating Human Rights and Diversity Conference (Byron Bay, Australia)|date=3 July 2003|author=Chee, S.J.}}&lt;/ref&gt;
+
+An appeal is often made to the fact that influential human rights thinkers, such as [[John Locke]] and [[John Stuart Mill]], have all been Western and indeed that some were involved in the running of [[Empire]]s themselves.&lt;ref&gt;Tunick (2006)&lt;/ref&gt;&lt;ref&gt;Beate (2005)&lt;/ref&gt; 
+
+Cultural relativism is a self-detonating position; if cultural relativism is true, then universalism must also be true. Relativistic arguments also tend to neglect the fact that modern human rights are new to all cultures, dating back no further than the UDHR in 1948. They also don't account for the fact that the UDHR was drafted by people from many different cultures and traditions, including a US Roman Catholic, a Chinese Confucian philosopher, a French zionist and a representative from the Arab League, amongst others, and drew upon advice from thinkers such as Mahatma Gandhi.&lt;ref name = "hysvvq"/&gt;
+
+[[Michael Ignatieff]] has argued that cultural relativism is almost exclusively an argument used by those who wield power in cultures which commit human rights abuses, and that those whose human rights are compromised are the powerless.&lt;ref&gt;Ignatief, M. (2001) p.68&lt;/ref&gt; This reflects the fact that the difficulty in judging universalism versus relativism lies in who is claiming to represent a particular culture.
+
+Although the argument between universalism and relativism is far from complete, it is an academic discussion in that all international human rights instruments adhere to the principle that human rights are universally applicable. The [[2005 World Summit]] reaffirmed the international community's adherence to this principle:
+
+{{cquote|The universal nature of human rights and freedoms is beyond question.|30px|30px|2005 World Summit, paragraph 120}}
+
+===State and non-state actors===
+Companies, NGOs, political parties, informal groups, and individuals are known as ''non-State actors''. Non-State actors can also commit human rights abuses, but are not generally subject to human rights law other than under International Humanitarian Law, which applies to individuals.{{Citation needed|date=January 2008}} Also, certain national instruments such as the [[Human Rights Act 1998]] (UK), impose human rights obligations on certain entities which are not traditionally considered as part of government ("[[Public authority|public authorities]]").{{Citation needed|date=January 2008}}
+
+[[Multinational corporation|Multinational companies]] play an increasingly large role in the world, and are responsible for a large number of human rights abuses.&lt;ref&gt;{{cite web|url=http://www.hrw.org/worldreport99/special/corporations.html|title=Corporations and Human Rights|publisher=Human Rights Watch|accessdate=2008-01-03}}&lt;/ref&gt; Although the legal and moral environment surrounding the actions of governments is reasonably well developed, that surrounding multinational companies is both controversial and ill-defined.{{Citation needed|date=January 2008}} Multinational companies' primary responsibility is to their [[shareholder]]s, not to those affected by their actions. Such companies may be larger than the economies of some the states within which they operate, and can wield significant economic and political power. No international treaties exist to specifically cover the behavior of companies with regard to human rights, and national legislation is very variable. [[Jean Ziegler]], Special Rapporteur of the [[United Nations Commission on Human Rights|UN Commission on Human Rights]] on the right to food stated in a report in 2003:
+
+{{cquote|the growing power of transnational corporations and their extension of power through privatization, deregulation and the rolling back of the State also mean that it is now time to develop binding legal norms that hold corporations to human rights standards and circumscribe potential abuses of their position of power.|||Jean Ziegler&lt;ref&gt;{{cite web|url=http://www.un.org/apps/news/story.asp?NewsID=8536&amp;Cr=right&amp;Cr1=food|title=Transnational corporations should be held to human rights standards - UN expert|accessdate=2008-01-03|date=13 October 2003|publisher=UN News Centre}}&lt;/ref&gt;}}
+
+In August 2003 the Human Rights Commission's Sub-Commission on the Promotion and Protection of Human Rights produced draft ''Norms on the responsibilities of transnational corporations and other business enterprises with regard to human rights''.&lt;ref&gt;{{cite web|url=http://www.unhchr.ch/huridocda/huridoca.nsf/(Symbol)/E.CN.4.Sub.2.2003.12.Rev.2.En.|title=Norms on the responsibilities of transnational corporations and other business enterprises with regard to human rights|publisher=UN Sub-Commission on the Promotion and Protection of Human Rights|accessdate=2008-01-03}}&lt;/ref&gt; These were considered by the Human Rights Commission in 2004, but have no binding status on corporations and are not monitored.&lt;ref&gt;{{cite web|title=Report oto the Economic and Social Council on the sixtieth session of the commission (E/CN.4/2004/L.11/Add.7)|url=http://www.unhchr.ch/huridocda/huridoca.nsf/e06a5300f90fa0238025668700518ca4/169143c3c1009015c1256e830058c441/$FILE/G0413976.pdf|page=81|publisher=United Nations Commission on Human Rights|accessdate=2008-01-03|format=PDF}}&lt;/ref&gt;
+
+===Theory of value and property===
+{{See also|Property}}
+[[Henry of Ghent]] articulated the theory that every person has a property interest in their own body.&lt;ref&gt;Tierney (1997)&lt;/ref&gt; [[John Locke]] uses the word property in both broad and narrow senses. In a broad sense, it covers a wide range of human interests and aspirations; more narrowly, it refers to material goods. He argues that property is a natural right and it is derived from labour.&lt;ref&gt;[[John Locke]]&lt;/ref&gt; In addition, property precedes government and government cannot "dispose of the estates of the subjects arbitrarily." To deny valid property rights according to Locke is to deny human rights. The British philosopher had significant impacts upon the development of the Government of the UK and was central to the fundamental founding philosophy of the [[United States]]. [[Karl Marx]] later critiqued Locke's theory of property in his ''Theories of Surplus Value'', seeing the beginnings of a theory of [[surplus value]] in Locke's works. In Locke's ''Second Treatise'' he argued that the right to own private property was unlimited as long as nobody took more than they could use without allowing any of their property to go to waste and that there were enough common resources of comparable quality available for others to create their own property. Locke did believe that some would be more "industrious and rational" than others and would amass more property, but believed this would not cause shortages. Though this system could work before the introduction of [[money]], Marx argued in ''Theories of Surplus Value'' that Locke's system would break down and claimed money was a contradiction of the law of nature on which private property was founded.&lt;ref&gt;Vaughn (1978)&lt;/ref&gt;
+
+==Legal issues==
+===Human rights vs. national security===
+{{See also|National security|Anti-terrorism legislation}}
+
+With the exception of non-derogable human rights (international conventions class the right to life, the right to be free from slavery, the right to be free from torture and the right to be free from retroactive application of penal laws as non-derogable&lt;ref name=resourceII&gt;{{cite web|title=The Resource Part II: Human Rights in Times of Emergencies|url=http://www.un.org/esa/socdev/enable/comp210.htm#10.2|publisher=United Nations|accessdate=2007-12-31}}&lt;/ref&gt;), the UN recognises that human rights can be limited or even pushed aside during times of national emergency - although 
+
+{{cquote|the emergency must be actual, affect the whole population and the threat must be to the very existence of the nation. The declaration of emergency must also be a last resort and a temporary measure|||United Nations. ''The Resource''&lt;ref name=resourceII/&gt;}}
+
+Rights that cannot be derogated for reasons of national security in any circumstances are known as [[Peremptory norm|peremptory norms or ''jus cogens'']]. Such [[United Nations Charter]] obligations are binding on all states and cannot be modified by treaty.
+
+Examples of national security being used to justify human rights violations include the [[Japanese American internment]] during [[World War II]],&lt;ref&gt;[http://www.pbs.org/childofcamp/history/timeline.html Children of the Camps | Internment Timeline&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Stalin's [[Great Purge]],&lt;ref&gt;[http://www.cusd.chico.k12.ca.us/~bsilva/projects/russia/stalin/great_purge.htm The Great Purge&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; and the actual and alleged modern-day abuses of terror suspects rights by some western countries, often in the name of the [[War on Terror]].&lt;ref&gt;{{cite web|title=Fox News Report|publisher=Fox News|url=http://www.foxnews.com/story/0,2933,316382,00.html}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.hrw.org/english/docs/2004/12/16/uk9890.htm|title=UK Law Lords Rule Indefinite Detention Breaches Human Rights|publisher=Human Rights Watch}}&lt;/ref&gt;
+
+===Human rights violations===
+[[Image:Burma 3 150.jpg|[[Aung San Suu Kyi]] is a [[prisoner of conscience]] and pro-[[democracy]] campaigner in [[Myanmar]]|thumb]]
+{{See also|Genocides in history}}
+
+'''Human rights violations''' occur when any state or non-state actor breaches any part of the UDHR treaty or other international human rights or humanitarian law. In regard to human rights violations of [[United Nations]] laws. Article 39 of the [[United Nations Charter]] designates the [[United Nations Security Council|UN Security Council]] (or an appointed authority) as the only tribunal that may determine UN human rights violations.
+
+Human rights abuses are monitored by United Nations committees, national institutions and governments and by many independent [[non-governmental organization]]s, such as [[Amnesty International]], [[International Federation of Human Rights]], [[Human Rights Watch]], [[World Organisation Against Torture]], [[Freedom House]], [[International Freedom of Expression Exchange]] and [[Anti-Slavery International]]. These organisations collect evidence and documentation of alleged human rights abuses and apply pressure to enforce human rights laws. 
+
+Only a very few countries do not commit significant human rights violations, according to Amnesty International. In their 2004 human rights report (covering 2003), the [[Netherlands]], [[Norway]], [[Denmark]], [[Iceland]] and [[Costa Rica]] are the only (mappable) countries that did not (in their opinion) violate at least some human rights significantly.&lt;ref&gt;{{cite book | title=Amnesty International Report 2004 | publisher=Amnesty International |year=2004 | isbn=0862103541 }}&lt;/ref&gt;
+
+There are a wide variety of databases available which attempt to measure, in a rigorous fashion, exactly what violations governments commit against those within their territorial jurisdiction.{{Citation needed|date=January 2008}}  An example of this is the list created and maintained by [[Prof. Christian Davenport]] at the University of Maryland.&lt;ref&gt;{{cite web|url=http://web.mac.com/christiandavenport/iWeb/Christian%20Davenport/Stop%20Our%20States%20%28SOS%29.html|title=Stop Our States (SOS): Analyzing and Ending State Repression|author=Davenport, Christian|accessdate=2008-01-19}}&lt;/ref&gt;
+
+Wars of aggression, [[war crime]]s and [[crime against humanity|crimes against humanity]], including [[genocide]], are breaches of [[International humanitarian law]] and represent the most serious of human rights violations.
+
+When a government closes a geographical region to journalists, it raises suspicions of human rights violations.  Seven regions are currently closed to foreign journalists:
+*[[Chechnya]], Russia [http://www.medialaw.ru/e_pages/research/commentary6.htm]
+*[[Jaffna]], Sri Lanka [http://www.newssafety.com/hotspots/countries/srilanka/srilankatips.htm]
+*[[Myanmar]] (Burma)
+*[[North Korea]]
+*[[Papua, Indonesia]] [http://www.hrw.org/english/docs/2007/07/05/indone16272.htm]
+*[[Peshawar]], Pakistan [http://www.mcclatchydc.com/world/story/30964.html]
+*[[Tibet]], People's Republic of China [http://www.wtopnews.com/?nid=105&amp;sid=1208395]
+
+{{International Criminal Law|state=collapsed}}
+
+==Currently debated rights==
+Events and new possibilities can affect existing rights or require new ones.  Advances of technology, medicine, and philosophy constantly challenge the [[status quo]] of human rights thinking. 
+
+===Environmental rights===
+There are two basic conceptions of environmental human rights in the current human rights system. The first is that the right to a healthy or adequate environment is itself a human right (as seen in both Article 21 of the [[African Charter of Human and People’s Rights]], and Article 11 of the San Salvador Protocol to the [[American Charter of Human Rights]]).&lt;ref&gt;[http://www.achpr.org/english/_info/charter_en.html African Commission on Human and Peoples' Rights]&lt;/ref&gt;&lt;ref&gt;[http://www.oas.org/juridico/english/sigs/a-52.html OAS - Organization of American States: Democracy for peace, security, and development.]&lt;/ref&gt; The second conception is the idea that environmental human rights can be derived from other human rights, usually - the right to life, the right to health, the right to private family life and the right to property (among many others). This second theory enjoys much more widespread use in human rights courts around the world, as those rights are contained in many human rights documents.
+
+The onset of various [[List of environmental issues|environmental issues]], especially [[climate change]], has created potential conflicts between different human rights. Human rights ultimately require a working ecosystem and healthy environment, but the granting of certain rights to individuals may damage these. Such as the conflict between right to decide number of offspring and the common need for a healthy environment, as noted in the [[tragedy of the commons]].&lt;ref name=hardin68&gt;Garrett Hardin, [http://www.sciencemag.org/cgi/content/full/162/3859/1243 "The Tragedy of the Commons"], ''Science'', Vol. 162, No. 3859 (December 13, 1968), pp. 1243-1248. Also available [http://www.sciencemag.org/cgi/reprint/162/3859/1243.pdf here] and [http://www.garretthardinsociety.org/articles/art_tragedy_of_the_commons.html here.]&lt;/ref&gt; In the area of environmental rights, the responsibilities of multinational corporations, so far relatively unaddressed by human rights legislation, is of paramount consideration.{{Citation needed|date=January 2008}}
+
+Environmental Rights revolve largely around the idea of a right to a livable environment both for the present and the future generations.
+
+===Future generations===
+In 1997 [[UNESCO]] adopted the Declaration on the Responsibilities of the Present Generation Towards the Future Generation. The Declaration opens with the words: 
+
+{{cquote|Mindful of the will of the peoples, set out solemnly in the [[Charter of the United Nations]], to 'save succeeding generations from the scourge of war' and to safeguard the values and principles enshrined in the [[Universal Declaration of Human Rights]], and all other relevant instruments of international law.|||Declaration on the Responsibilities of the Present Generation Towards the Future Generation}}
+
+Article 1 of the declaration states "the present generations have the responsibility of ensuring that the needs and interests of present and future generations are fully safeguarded." The preamble to the declaration states that "at this point in history, the very existence of humankind and its environment are threatened" and the declaration covers a variety of issues including protection of the [[Natural environment|environment]], the [[human genome]], [[biodiversity]], cultural heritage, [[peace]], development, and [[education]]. The preamble recalls that the responsibilities of the present generations towards future generations has been referred to in various international instruments, including the Convention for the Protection of the World Cultural and Natural Heritage (UNESCO 1972), the [[United Nations Framework Convention on Climate Change]] and the [[Convention on Biological Diversity]] (Rio de Janeiro, 1992), the [[Rio Declaration on Environment and Development]] (UN Conference on Environment and Development, 1992), the [[Vienna Declaration and Programme of Action]] (World Conference on Human Rights, 1993) and a number of UN General Assembly resolutions relating to the protection of the global climate for present and future generations adopted since 1990.&lt;ref&gt;[http://portal.unesco.org/en/ev.php-URL_ID=13178&amp;URL_DO=DO_PRINTPAGE&amp;URL_SECTION=201.html Declaration on the Responsibilities of the Present Generation Towards the Future Generation]&lt;/ref&gt;
+
+===Lesbian, Gay, Bisexual, Transgender (LGBT) rights===
+{{Main|LGBT social movements}}
+Some organizations argue that LGBT issues, such as [[same-sex marriage]], gay adoption rights, and protection from discrimination should be considered human rights.&lt;ref&gt;{{cite web |title=2000 CCAR Resolution|url=http://www.shamash.org/lists/scj-faq/HTML/faq/18-03-08.html |accessdate=2008-10-12}}&lt;/ref&gt;&lt;ref&gt;{{cite web | title=2003 URJ Resolution | url=http://urj.org/Articles/index.cfm?id=13462&amp;pge_prg_id=57308&amp;pge_id=1607 | accessdate=2008-10-12}}&lt;/ref&gt;&lt;ref&gt;{{cite web | title=John Geddes Lawrence and Tyron Garner v. State of Texax | url=http://supreme.lp.findlaw.com/supreme_court/briefs/02-102/02-102.mer.ami.aob.pdf | accessdate=2008-10-12}}&lt;/ref&gt; Canadian courts have recognized certain rights under [[Section Fifteen of the Canadian Charter of Rights and Freedoms|section fifteen of the Canadian Charter of Rights and Freedoms]]. Current campaigns, such as the [[Human Rights Campaign]], specifically focus on the rights of the [[LGBT]] community.&lt;ref&gt;{{cite web |title=Human Rights Campaign |url=http://www.hrc.org/index.htm |accessdate=2007-12-31}}&lt;/ref&gt;
+
+Part of this debate includes a proposed [[UN declaration on LGBT rights]] which would for the first time condemn “discrimination based on [[sexual orientation]] and gender identity.”&lt;ref&gt;[http://www.pinknews.co.uk/ Pink News]&lt;/ref&gt; While receiving widespread global support, including signatures from the member states of the [[European Union]], opposition has come from several UN member nations, as well as the [[Holy See|Vatican]], where the Vatican’s permanent observer at the UN, indicated his belief that the declaration would discriminate against states which support traditional marriage.&lt;ref&gt;[http://www.pinknews.co.uk/news/articles/2005-9811.html Pink News]&lt;/ref&gt;
+
+===Trade===
+Although both the [[Universal Declaration of Human Rights]] and the [[International Covenant on Economic, Social and Cultural Rights]] emphasize the importance of a right to work, neither of these documents explicitly mention trade as a mechanism for ensuring this fundamental right. And yet trade plays a key role in providing jobs.&lt;ref&gt;{{cite web|title=Should trade be considered a human right?|date=09 December 2008|publisher=COPLA|url=http://www.cop-la.net/en/node/523}}&lt;/ref&gt;
+
+Some experts argue that trade is inherent to human nature and that when governments inhibit international trade they directly inhibit the right to work and the other indirect benefits, like the right to education, that increased work and investment help accrue.&lt;ref&gt;{{cite web|title=Protecting access to markets|date=09 December 2008|publisher=COPLA|author=Fernandez, Soraya|url=http://www.cop-la.net/en/node/526}}&lt;/ref&gt; Others have argued that the ability to trade does not affect everyone equally—often groups like the rural poor, indigenous groups and women are less likely to access the benefits of increased trade.&lt;ref&gt;{{cite web|title=Untangling links between trade, poverty and gender|date=March 2008|publisher=[[Overseas Development Institute]]|author=Jones, Nicola and Hayley Baker|url=http://www.odi.org.uk/resources/odi-publications/briefing-papers/38-untangling-links-trade-poverty-gender.pdf}}&lt;/ref&gt;
+
+On the other hand, others think that it is no longer primarily individuals but companies that trade, and therefore it cannot be guaranteed as a human right.{{Citation needed|date=December 2008}} Additionally, trying to fit too many concepts under the umbrella of what qualifies as a human right has the potential to dilute their importance. Finally, it is difficult to define a right to trade as either "fair"&lt;ref&gt;{{cite web|title=Do we need a new 'Good for Development' label?|date=November 2008|publisher=[[Overseas Development Institute]]|author=Ellis, Karen and Jodie Keane|url=http://www.odi.org.uk/resources/odi-publications/opinions/115-good-for-development-label.pdf}}&lt;/ref&gt; or "just" in that all trade regimes create winners and losers, and changing the rules only creates different losers, not necessarily fewer.&lt;ref&gt;{{cite web|title=Beyond rights: Trading to win|date=09 December 2008|author=Mareike Meyn|publisher=COPLA|url=http://www.cop-la.net/en/node/524}}&lt;/ref&gt;
+&lt;br /&gt;
+&lt;br /&gt;See also: [[The Recognition of Labour Standards within the World Trade Organisation]]
+
+===Water===
+{{See also|Water politics|Right to water}}
+
+There is no current universal human right to water, binding or not, enshrined by the United Nations or any other multilateral body. In November 2002, the United Nations Committee on Economic, Social and Cultural Rights issued a non-binding comment affirming that access to water was a human right:
+
+{{cquote|the human right to water is indispensable for leading a life in human dignity. It is a prerequisite for the realization of other human rights.|||United Nations Committee on Economic, Social and Cultural Rights}}
+
+This principle was reaffirmed at the 3rd and 4th [[World Water Council]]s in 2003 and 2006. This marks a departure from the conclusions of the 2nd World Water Forum in The Hague in 2000, which stated that water was a commodity to be bought and sold, not a right.&lt;ref&gt;{{cite web|title=Water forum no 'talking shop'|date=17 March 2003|publisher=BBC News|author=Sutherland, Ben|url=http://news.bbc.co.uk/2/hi/science/nature/2856755.stm}}&lt;/ref&gt; There are calls from many NGOs and politicians to enshrine access to water as a binding human right, and not as a commodity.&lt;ref&gt;{{cite web|url=http://www.wateryear2003.org/en/ev.php-URL_ID=2915&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html|title=2003 International Year of Water website press kit|publisher=United Nations Department of Public Information|accessdate=2007-12-28}}&lt;/ref&gt;
+
+===Crime and Punishment===
+The [[Universal Declaration of Human Rights]] states that everyone has the "right to life".&lt;ref&gt;[[Universal Declaration of Human Rights]] - Article 5&lt;/ref&gt; According to many Human Rights activists, the [[death penalty]] violates these rights.&lt;ref&gt;[http://www.amnesty.org/en/death-penalty Amnesty International]&lt;/ref&gt; The [[United Nations]] also called on retentionist states to establish a moratorium on Capital Punishment with a view to abolition.&lt;ref&gt;United Nations resolution 62/149&lt;/ref&gt; States which do not face considerable moral and political pressure. The Universal Declaration of Human Rights also prohibits [[torture]] and other cruel, inhuman, and degrading punishment. Countries have argued that "enhanced interrogation methods", which amount to torture, are needed for national security. Human rights activists have also criticized some methods used to punish criminal offenders. For example, [[Corporal Punishment]] is also an issue. One example is [[Caning]], used in [[Malaysia]], [[Brunei]], and [[Singapore]] is considered to be cruel, inhuman, and degrading punishment.&lt;ref&gt;Amnesty International Report 2008: Singapore&lt;/ref&gt; In [[Mexico]], [[Life Imprisonment without Parole (LWOP)|Life Imprisonment without parole]] is also considered to be cruel and unusual punishment. Other issues, such as [[Police Brutality]] and impunity for Human Rights violators&lt;ref&gt;[[Amnesty International]] - No Hiding Place for Torture - 5 June 2008&lt;/ref&gt; are also serious issues.
+
+===Reproductive rights===
+{{Main|reproductive rights}}
+[[Reproductive rights]] are [[right]]s relating to [[human reproduction|reproduction]] and [[reproductive health]].&lt;ref name="COOK"&gt;{{cite journal |last=Cook |first=Rebecca J. |coauthors=Mahmoud F. Fathalla |year=1996 |month=September |title=Advancing Reproductive Rights Beyond Cairo and Beijing |journal=''International Family Planning Perspectives'' |volume=22 |issue=3 |pages=115–121 |url=http://links.jstor.org/sici?sici=0190-3187%28199609%2922%3A3%3C115%3AARRBCA%3E2.0.CO%3B2-E |accessdate=2007-12-08 |doi=10.2307/2950752 |unused_data=|quote }}&lt;/ref&gt; The [[World Health Organisation]] defines reproductive rights as follows:
+
+{{cquote|Reproductive rights rest on the recognition of the basic right of all couples and individuals to decide freely and responsibly the number, spacing and timing of their children and to have the information and means to do so, and the right to attain the highest standard of sexual and reproductive health. They also include the right of all to make decisions concerning reproduction free of discrimination, coercion and violence.|||[[World Health Organisation]]&lt;ref name=autogenerated1&gt;[http://who.int/reproductive-health/gender/index.html Gender and reproductive rights home page&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;}}
+
+Reproductive rights were first established as a subset of human rights at the United Nation's 1968 International Conference on Human Rights.&lt;ref name="FREEDMAN" /&gt; The sixteenth article of the resulting Proclamation of Teheran states, "Parents have a basic human right to determine [[Freedom (philosophy)|freely]] and [[Moral responsibility|responsibly]] the number and the spacing of their children."&lt;ref name="FREEDMAN"&gt;{{cite journal |last=Freedman |first=Lynn P. |coauthors=Stephen L. Isaacs |year=1993 |month=Jan. - Feb. |title=Human Rights and Reproductive Choice" |journal=''Studies in Family Planning'' |volume=24 |issue=1 |pages=18–30 |id= |url=http://links.jstor.org/sici?sici=0039-3665%28199301%2F02%2924%3A1%3C18%3AHRARC%3E2.0.CO%3B2-A |accessdate=2007-12-08 |doi=10.2307/2939211}}&lt;/ref&gt;&lt;ref name=teheran_proc&gt;{{cite web |title=Proclamation of Teheran|publisher=International Conference on Human Rights|year= 1968|url=http://www.unhchr.ch/html/menu3/b/b_tehern.htm|accessdate=2007-11-08 }}&lt;/ref&gt; 
+
+Reproductive rights may include some or all of the following rights: the right to legal or safe [[abortion]], the right to [[birth control|control one's reproductive functions]], the right to quality [[reproductive health]]care, and the right to [[family planning|education and access]] in order to make reproductive choices free from [[coercion]], [[discrimination]], and [[violence]].&lt;ref name="AMNESTY"&gt;{{cite web |url=http://www.amnestyusa.org/Stop_Violence_Against_Women_SVAW/Reproductive_Rights/page.do?id=1108242&amp;n1=3&amp;n2=39&amp;n3=1101 |title=Stop Violence Against Women: Reproductive rights |accessdate=2007-12-08 |author=Amnesty International USA |year=2007 |work=SVAW |publisher=Amnesty International USA |quote="'''Reproductive rights - access to sexual and reproductive healthcare and autonomy in sexual and reproductive decision-making - are human rights'''; they are universal, indivisible, and undeniable. These rights are founded upon principles of human dignity and equality, and have been enshrined in international human rights documents. Reproductive rights embrace core human rights, including the right to health, the right to be free from discrimination, the right to privacy, the right not to be subjected to torture or ill-treatment, the right to determine the number and spacing of one's children, and the right to be free from sexual violence. Reproductive rights include the recognition of the basic right of all couples and individuals to decide freely and responsibly the number, spacing and timing of their children, and the right to have the information and means to implement those decisions free from discrimination, coercion, and violence. Reproductive rights also include the right to the highest standards of sexual and reproductive healthcare."}}&lt;/ref&gt; Reproductive rights may also be understood to include [[sex education|education]] about [[contraception]] and [[Sexually transmitted disease|sexually transmitted infections]], and freedom from [[compulsory sterilization|coerced sterilization]] and contraception, protection from gender-based practices such as [[female genital cutting]] (FGC) and [[male genital mutilation]] (MGM).&lt;ref name="COOK"/&gt;&lt;ref name="FREEDMAN"/&gt;&lt;ref name="AMNESTY"/&gt;&lt;ref&gt;[http://www.nocirc.org/symposia/fourth/zavales4.html National Organization of Circumcision Information Resource Centers&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+===Medicine===
+In [[Canada]] several legal [[medical marijuana]] patients have filed human rights complaints over their discrimination and treatment.&lt;ref&gt;[http://www.rata.ca Russell Barth's Ontario Human Rights Challenge Against the Ontario Government]&lt;/ref&gt;&lt;ref&gt;[http://www.canada.com/ch/chchnews/story.html?id=854bb17a-d3e2-4f8a-a592-831722d64443 Settlement in Gator Ted's pot case: Medical marijuana smoker claimed discrimination]&lt;/ref&gt;
+
+==See also==
+{{Portal}}
+* [[Customary international law]]
+* [[Discrimination]]
+* [[Economic freedom]]
+* [[Freedom (political)]]
+* [[Global governance]]
+* [[Global Human Rights Defence]]
+* [[Human responsibilities]]
+* [[Human security]]
+* [[Political repression]]
+* [[Warsaw Confederation]]
+
+==References==
+{{Reflist|colwidth=20em}}
+* [[Rule of Law in Armed Conflicts Project (RULAC)]]
+
+==Bibliography==
+* Amnesty International (2004). [http://www.bookwire.com/PDF/amnesty.pdf ''Amnesty International Report'']. [[Amnesty International]] Publications. ISBN 0862103541 ISBN 1-887204-40-7
+* Alexander, Fran (ed) (1998). ''Encyclopedia of World History''. [[Oxford University Press]]. ISBN 0198602235
+* [[Philip Alston|Alston, Philip]] (2005). "Ships Passing in the Night: The Current State of the Human Rights and Development Debate seen through the Lens of the Millennium Development Goals". ''Human Rights Quarterly''. Vol. 27 (No. 3) p.&amp;nbsp;807
+* Arnhart, Larry (1998). ''Darwinian Natural Right: The Biological Ethics of Human Nature'' [[SUNY Press]]. ISBN 0791436934
+* Ball, Olivia; Gready, Paul (2007). ''The No-Nonsense Guide to Human Rights.'' New Internationalist. ISBN 1-904456-45-6
+* Bösl, Anton &amp; Diescho, Joseph (Eds), Human Rights in Africa. Legal Perspectives on their protection and promotion; Macmillan Education Namibia 2009. ISBN 978-99916-0-956-0 
+* [[Gad Barzilai|Barzilai, Gad]]. (2003). Communities and Law: Politics and Cultures of Legal Identities. Ann Arbor: [[University of Michigan Press]]. ISBN 0472113151
+* Blattberg, Charles (2007). ''The Ironic Tragedy of Human Rights'' in Patriotic Elaborations: Essays in Practical Philosophy. Montreal and Kingston: [[McGill-Queen's University Press]], 2007  ISBN 9780773535381
+* Chauhan, O.P. (2004). ''Human Rights: Promotion and Protection''. Anmol Publications PVT. LTD. ISBN 812612119X. 
+* Cook, Rebecca J.; Fathalla, Mahmoud F. (September 1996). [http://links.jstor.org/sici?sici=0190-3187%28199609%2922%3A3%3C115%3AARRBCA%3E2.0.CO%3B2-E "Advancing Reproductive Rights Beyond Cairo and Beijing"]. ''International Family Planning Perspectives'' Vol.22 (No.3): p.&amp;nbsp;115-121
+* Davenport, Christian (2007a). [http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521864909 ''State Repression and the Domestic Democratic Peace.'']  New York: [[Cambridge University Press]]. ISBN 0521864909
+* Davenport, Christian (2007b). [http://www.bsos.umd.edu/gvpt/davenport/STATER%7e2.PDF ''State Repression and Political Order.''] Annual Review of Political Science.
+* Dees, Morris (2001). ''A Lawyer’s Journey''. Chicago: American Bar Association. (Popular biography by innovative lawyer who pioneered use of civil suits to put white supremacist organizations out of business). 
+* Donnelly, Jack. (2003). ''Universal Human Rights in Theory &amp; Practice.'' 2nd ed. Ithaca &amp; London: [[Cornell University Press]]. ISBN 0801487765
+* [[David Ellerman|Ellerman, David]] (2005). ''Helping People Help Themselves: From the World Bank to an Alternative Philosophy of Development Assistance.'' Ann Arbor: University of Michigan Press. ISBN 0472031422
+* [[John Esposito|Esposito, John L.]] (2004). ''The Oxford Dictionary of Islam''. [[Oxford University Press]]. ISBN 0195125592
+* Esposito, John L. (2005). ''Islam: The Staight Path''. Oxford University Press. ISBN 0195182669
+* Finnis, John (1980). ''Natural Law and Natural Rights'' Oxford: Clarendon Press. ISBN 0198761104
+* Forsythe, David P. (2000). ''Human Rights in International Relations.'' Cambridge: Cambridge University Press. International Progress Organization. ISBN 3-900704-08-2  
+* Forsythe, David P. (2005). ''The Humanitarians: The International Committee of the Red Cross'' Cambidge University Press. ISBN 0521848288
+* Freedman, Lynn P.; Isaacs, Stephen L. (Jan-Feb 1993). [http://links.jstor.org/sici?sici=0039-3665%28199301%2F02%2924%3A1%3C18%3AHRARC%3E2.0.CO%3B2-A "Human Rights and Reproductive Choice"]. ''Studies in Family Planning'' Vol.24 (No.1): p.&amp;nbsp;18-30
+* [[Michael Ignatieff|Ignatieff, Michael]] (2001). ''Human Rights as Politics and Idolatry.'' Princeton &amp; Oxford: [[Princeton University Press]]. ISBN 0691088934
+* [[Mary Ann Glendon|Glendon, Mary Ann]] (2001). ''A World Made New: Eleanor Roosevelt and the Universal Declaration of Human Rights''. Random House of Canada Ltd. ISBN 0375506926
+* Haddad, Yvonne Yazbeck; Esposito, John L. (1998) ''Islam, Gender, and Social Change''. Oxford University Press US. ISBN 0195113578
+* Hitchens, Christopher (2002). ''The Trial of Henry Kissinger''. Verso. ISBN 1859843980
+* Horn, Nico &amp; Bösl, Anton (Eds.) Human Rights and the Rule of Law in Namibia, Macmillan Namibia 2009. ISBN 978-99916-0-915-7 
+* Houghton Mifflin Company (2006). ''The American Heritage Dictionary of the English Language''. Houghton Mifflin. ISBN 0618701737
+* Jackson, Kevin (1994).  ''Charting Global Responsibilities: Legal Philosophy and Human Rights''. University Press of America.  ISBN 0819194786
+* [[Harry V. Jaffa|Jaffa, Harry V.]] (1979). ''Thomism and Aristotelianism; A Study of the Commentary by Thomas Aquinas on the Nicomachean Ethics'' Greenwood Press. ISBN 0313211493 (reprint of 1952 edition published by [[University of Chicago Press]])
+* Jahn, Beate (2005). [http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=312510 "Barbarian thoughts: imperialism in the philosophy of John Stuart Mill"]. ''Review of International Studies'' 13-06-2005 31: 599-618 Cambridge University Press 
+* Jones, Lindsay. ''Encyclopedia of religion, second edition''. ISBN 0-02-865742-X 
+* Joseph, Suad; [[Afsaneh Najmabadi|Najmabadi, Afsaneh]] (eds) (2007). ''Encyclopedia of Women &amp; Islamic Cultures''. Brill Publishing. ISBN 9004128182
+* [[Duncan Kennedy|Kennedy, Duncan]] (1982). ''[http://duncankennedy.net/documents/Photo%20articles/Legal%20Education%20and%20the%20Reproduction%20of%20Hierarchy_J.%20Leg.%20Ed..pdf Legal Education and the Reproduction of Hierarchy]''. Journal of Legal Education Vol.32 (No. 591)
+* [[Majid Khadduri|Khadduri, Majid]] (1978). "Marriage in Islamic Law: The Modernist Viewpoints". ''American Journal of Comparative Law'' Vol. 26 (No. 2): pp.&amp;nbsp;213–218.  
+* [[Hans Köchler|Köchler, Hans]] (1981). [http://hanskoechler.com/Filosofia-del-derecho.htm ''The Principles of International Law and Human Rights'']
+* [[Hans Köchler|Köchler, Hans]]. (1990). "Democracy and Human Rights". ''Studies in International Relations, XV.'' Vienna: International Progress Organization.
+* Kohen, Ari (2007). ''In Defense of Human Rights: A Non-Religious Grounding in a Pluralistic World''. Routledge. ISBN 0415420156 , ISBN 978-0415420150
+* Landman, Todd (2006). ''Studying Human Rights''. Oxford and London: Routledge ISBN 0-415-32605-2
+* [[Bernard Lewis|Lewis, Bernard]] (1992). ''Race and Slavery in the Middle East: An Historical Enquiry''. Oxford University Press. ISBN 0195053265
+* Lewis, Bernard (21 January 1998). [http://www.nybooks.com/articles/4557 "Islamic Revolution"]. ''The New York Review of Books'' Vol.34 (Nos. 21 &amp; 22) 
+* Light, Donald W. (2002). "[http://www.healthpaconline.net/rekindling/Articles/Light_FRM.htm A Conservative Call For Universal Access To Health Care]" ''Penn Bioethics'' Vol.9 (No.4) p.&amp;nbsp;4-6  
+* [[David Littman (historian)|Littman, David]] (1999). "Universal Human Rights and 'Human Rights in Islam'". ''Midstream Magazine'' '''Vol. 2''' (no.2) pp.&amp;nbsp;2–7  
+* [[Bashir Maan|Maan, Bashir]]; [[Alastair McIntosh|McIntosh, Alastair]] (1999). [http://www.alastairmcintosh.com/articles/2000_watt.htm "Interview with William Montgomery Watt"] ''The Coracle'' Vol. 3 (No. 51) pp.&amp;nbsp;8–11. 
+* Marshall, Thurgood (2001). ''Thurgood Marshall: His Speeches, Writings, Arguments, Opinions and Reminiscences''. Chicago: Lawrence Hill Books. (A rare and revealing popular memoir by a distinguished contemporary Supreme Court justice). 
+* Mayer, Henry (2000). ''All on Fire: William Lloyd Garrison and the Abolition of Slavery''. St Martin's Press. ISBN 0312253672
+* [[Jane McAuliffe|McAuliffe, Jane Dammen]] (ed) (2005). ''Encyclopaedia of the Qur'an: vol 1-5'' Brill Publishing. ISBN 9004147438. ISBN 978-9004147430 
+* McLagan, Meg (2003) [http://www.anthrosource.net/doi/abs/10.1525/aa.2003.105.3.605 "Principles, Publicity, and Politics: Notes on Human Rights Media"]. ''American Anthropologist''. Vol. 105 (No. 3). pp.&amp;nbsp;605–612 
+* Hershock, Peter D; Ames, R.T.; Stepaniants, M. (eds). ''Technology and Cultural Values on the Edge of the Third Millennium. (Selected papers from the 8 th East-West Philosophers Conference)''. Honolulu: U of Hawai’i Press, 2003. 209-221. 
+** Möller, Hans-Georg (2003). ''How to Distinguish Friends from Enemies: Human Rights Rhetoric and Western Mass Media.''
+* Nathwani, Niraj (2003). ''Rethinking Refugee Law''. Martinus Nijhoff Publishers. ISBN 9041120025
+* Paul, Ellen Frankel; Miller, Fred Dycus; Paul, Jeffrey (eds) (2001). ''Natural Law and Modern Moral Philosophy'' Cambridge University Press. ISBN 0521794609 
+* Clayton, Philip; Schloss, Jeffrey (2004). ''Evolution and Ethics: Human Morality in Biological and Religious Perspective'' Wm. B. Eerdmans Publishing. ISBN 0802826954
+* Robertson, Arthur Henry; Merrills, John Graham (1996). ''Human Rights in the World: An Introduction to the Study of the International Protection of Human Rights''. Manchester University Press. ISBN 0719049237. 
+* Salevao, Lutisone (2005). ''Rule of Law, Legitimate Governance and Development in the Pacific''. ANU E Press. ISBN 1920942556
+* Sciacca, Fabrizio (ed.) (2008). ''Struttura e senso dei diritti. L'Europa tra identità e giustizia politica''. Milano: Bruno Mondadori. ISBN 978861591820
+*Scott, C. (1989). "The Interdependence and Permeability of Human Rights Norms: Towards a Partial Fusion of the International Covenants on Human Rights". ''Osgood Law Journal'' Vol. 27  
+* Sills, David L. (1968, 1972) ''International Encyclopedia of the Social Sciences''. MacMillan. 
+* Shellens, Max Salomon.  1959.  "Aristotle on Natural Law."  ''Natural Law Forum'' 4, no. 1.  Pp.&amp;nbsp;72&amp;ndash;100.
+* [[Annemarie Schimmel|Schimmel, Annemarie]] (1992). ''Islam: An Introduction''. SUNY Press. ISBN 0791413276
+* [[Amartya Sen|Sen, Amartya]] (1997). ''Human Rights and Asian Values''. ISBN 0-87641-151-0. 
+* Shute, Stephen &amp; [[Susan Hurley|Hurley, Susan]] (eds.). (1993). ''On Human Rights: The Oxford Amnesty Lectures.'' New York: BasicBooks. ISBN 046505224X
+* Steiner, J. &amp; [[Philip Alston|Alston, Philip]]. (1996). ''International Human Rights in Context: Law, Politics, Morals.'' Oxford: Clarendon Press. ISBN 019825427X
+* Stone, Irving (1943). ''Clarence Darrow for the Defense''. Garden City, NY: Garden City Publishing Co. (Popular diography of innovative lawyer who largely invented the insanity defense). 
+* [[Lyal S. Sunga|Sunga, Lyal S]]. (1992) Individual Responsibility in International Law for Serious Human Rights Violations, Martinus Nijhoff Publishers. ISBN 0792314530
+* [[Muhammad Tahir ul-Qadri|Tahir-ul-Qadri, Muhammad]] (2005), ''Huquq al Insania fil Islam (Human Rights in Islam)''. Minhaj Publishers. 365-M-Model 
+* [[Brian Tierney|Tierney, Brian]] (1997). ''The Idea of Natural Rights: Studies on Natural Rights, Natural Law, and Church Law''. Wm. B. Eerdmans Publishing. ISBN 0802848540
+* Tunick, Mark (2006). [http://journals.cambridge.org/action/displayAbstract;jsessionid=8D5C00D59031F9DBD3B061E779D59F99.tomcat1?fromPage=online&amp;aid=532804 "Tolerant Imperialism: John Stuart Mill's Defense of British Rule in India"]. ''The Review of Politics'' 27-10-2006 68: 586-611 Cambridge University Press 
+* Vaughn, Karen I. (1978) "John Locke and the Labor Theory of Value" ''Journal of Libertarian Studies''. Vol. 2 (No. 4)  pp.&amp;nbsp;311–326
+
+{{Refend}}
+
+==External links==
+{{Wikinewshas|related&lt;br&gt;[[wikinews:Category:Human rights|human rights news]]}}
+*[http://www.fidh.org International Federation of Human Rights - 155 Human Rights Organisations throughout the world]
+*[http://www.humanrightsfirst.org Human Rights First - International human rights organization]
+*[http://www.un.org/Overview/rights.html United Nations- Universal Declaration of Human Rights]
+*[http://www.un.org/rights/ United Nations- Human Rights]
+*[http://www.ohchr.org Office of the High Commissioner for Human Rights]
+*[http://www.universalhumanrightsindex.org/ The Universal Human Rights Index of United Nations documents]
+*[http://www.law.upenn.edu/bll/archives/ali/collections/ali.04.006.html Guide to the Statement of Essential Human Rights at the American Law Institute Archives]
+*[http://www.adh-geneva.ch/RULAC Rule of Law in Armed Conflicts Project]
+*[http://www.acontrario.org/uhr Universal Human Rights] chronological lists of the core international human rights treaties
+*{{dmoz|Society/Issues/Human_Rights_and_Liberties}}
+*[http://www.cchrcambodia.org Cambodian Center for Human Rights (CCHR)]
+* [http://hrca.org.ru/ Human Rights in Central Asia]
+{{Template group
+|list =
+{{Human rights|organizations=yes|legal=yes|rights=yes}}
+{{Articles of the Universal Declaration of Human Rights}}
+{{Human}}
+}}
+
+{{DEFAULTSORT:Human Rights}}
+[[Category:Human rights| ]]
+[[Category:Law]]
+[[Category:Culture]]
+[[Category:Society]]
+[[Category:Politics]]
+[[Category:Economics]]
+[[Category:International relations]]
+[[Category:Human rights abuses| ]]
+[[Category:Concepts in ethics]]
+
+[[af:Menseregte]]
+[[ar:حقوق الإنسان]]
+[[an:Dreitos umans]]
+[[arc:ܙܕܩܐ ܕܒܪܢܫܐ]]
+[[az:İnsan hüquqları]]
+[[zh-min-nan:Jîn-kôan]]
+[[be-x-old:Правы чалавека]]
+[[bs:Ljudska prava]]
+[[br:Gwirioù Mab-Den]]
+[[ca:Drets Humans]]
+[[cs:Lidská práva]]
+[[cy:Hawliau dynol]]
+[[da:Menneskerettighederne]]
+[[de:Menschenrechte]]
+[[et:Inimõigused]]
+[[el:Ανθρώπινα δικαιώματα]]
+[[es:Derechos Humanos]]
+[[eo:Homaj rajtoj]]
+[[fa:حقوق بشر]]
+[[fr:Droits de l'homme]]
+[[gl:Dereitos humanos]]
+[[ko:인권]]
+[[ha:Hakkokin Yan-adam]]
+[[hi:मानवाधिकार]]
+[[hr:Ljudska prava]]
+[[io:Homala Yuri]]
+[[id:Hak asasi manusia]]
+[[ia:Derectos human]]
+[[is:Mannréttindi]]
+[[it:Diritti umani]]
+[[he:זכויות האדם]]
+[[jv:Hak asasi manungsa]]
+[[ka:ადამიანის უფლებები]]
+[[sw:Haki za binadamu]]
+[[ku:Mafên mirovan]]
+[[la:Iura humana]]
+[[lv:Cilvēktiesības]]
+[[lt:Žmogaus teisės]]
+[[hu:Emberi jogok]]
+[[mk:Човекови права]]
+[[ml:മനുഷ്യാവകാശം]]
+[[arz:حقوق انسان]]
+[[ms:Hak asasi manusia]]
+[[my:လူ့အခွင့်အရေး]]
+[[nl:Rechten van de mens]]
+[[ja:人権]]
+[[no:Menneskerettigheter]]
+[[oc:Dreches de l'òme]]
+[[ps:بشري حقونه]]
+[[pl:Prawa człowieka]]
+[[pt:Direitos humanos]]
+[[ro:Drepturile omului]]
+[[qu:Runa hayñi]]
+[[ru:Права и свободы человека и гражданина]]
+[[sq:Të Drejtat e Njeriut]]
+[[scn:Dritti umani]]
+[[simple:Human rights]]
+[[sk:Ľudské práva]]
+[[sl:Človekove pravice]]
+[[sr:Људска права]]
+[[fi:Ihmisoikeudet]]
+[[sv:Mänskliga rättigheter]]
+[[tl:Karapatang pantao]]
+[[ta:மனித உரிமைகள்]]
+[[th:สิทธิมนุษยชน]]
+[[tg:Ҳуқуқҳои инсон]]
+[[tr:İnsan hakları]]
+[[uk:Права людини]]
+[[vi:Nhân quyền]]
+[[wa:Abondroets des djins]]
+[[war:Katungod pantawo]]
+[[bat-smg:Žmuogaus teisės]]
+[[zh:人权]]</rev></revisions></page></pages></query></api>

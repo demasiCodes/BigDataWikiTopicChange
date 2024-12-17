@@ -1,0 +1,6 @@
+<?xml version="1.0"?><api batchcomplete=""><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="13200141" pageid="13200141" ns="0" title="Women in government"><revisions><rev timestamp="2007-09-10T16:49:35Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Women in politics''' have historicaly been underrepresented in [[Western society|Western socities]] compared to men.  Some women have been politically elected to be heads of government though, such as former [[Prime Minister of the United Kingdom]] [[Margaret Thatcher]].
+
+{{gender-stub}}
+{{politics-stub}}
+
+[[Category:Women in politics| ]]</rev></revisions></page></pages></query></api>

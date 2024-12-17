@@ -1,0 +1,16 @@
+<?xml version="1.0"?><api><continue rvcontinue="20091116064402|326119722" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="18055330" pageid="18055330" ns="0" title="Victimisation"><revisions><rev timestamp="2009-11-16T17:06:56Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Unreferenced|date=October 2009}}
+'''Victimisation''' is an [[employment law]] concept. It refers to situations where people are targeted with abuse, suffer detriment to their employment conditions or are dismissed as a result of bringing a claim for another form of discrimination. If an employee is "victimised" for complaining about another part of work, then a separate and independent claim for such treatment would arise.
+If an employee has brought a discrimination claim, acted as a witness in someone else's claim or raised issues relating to potential discrimination, any action taken against them because of this will be unlawful.&lt;ref&gt;{{cite web|title= This section provides general information on employment law in the UK|publisher=UK Film Council|last=|first=|year=2009|url= http://www.diversitytoolkit.org.uk/workinginfilm/employmentlaw/discriminationlaw/harassment/|accessdate=2009-10-12}}&lt;/ref&gt;
+
+==See also==
+*[[Employment discrimination law in the United Kingdom]]
+
+==Notes==
+{{reflist|2}}
+
+[[Category:Labour law]]
+
+
+{{UK-law-stub}}
+
+[[fr:Victimisation]]</rev></revisions></page></pages></query></api>

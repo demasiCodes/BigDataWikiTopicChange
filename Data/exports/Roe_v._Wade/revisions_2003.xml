@@ -1,0 +1,20 @@
+<?xml version="1.0"?><api><continue rvcontinue="20031106185008|1682782" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="68493" pageid="68493" ns="0" title="Roe v. Wade"><revisions><rev timestamp="2003-11-06T19:07:39Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">&lt;i&gt;'''Roe v. Wade'''&lt;/i&gt; was the caption of the lawsuit in which a 1973 [[U.S. Supreme Court]] ruling recognized [[abortion]] as a constitutional right, over-turning individual states' laws against abortion.
+
+The case originated in [[Texas]] in March 1970: A pregnant woman, the pseudonymous Jane Roe, headed a [[class action]] against the state of Texas's anti-abortion laws, claiming that the laws were unconstitutionally vague and abridged her rights under the First, Fourth, Fifth, Ninth, and Fourteenth Amendments to the [[United States Constitution]]. It was argued in the Supreme Court on December 13, 1971, and reargued on October 11, 1972, with the court issuing its opinion on [[January 22]], [[1973]], with a majority of four, and two concurring and two dissenting.
+
+The opinion of the court was that the right to an abortion fell under the [[right to privacy]] derived from the [[Fifth Amendment to the United States Constitution|Fifth Amendment]] and the [[Due Process Clause]] of the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]] (the latter extending the protections in the Bill of Rights to state as well as federal action). Justice [[Harry Blackmun]]'s majority decision holds that "the right of personal privacy includes the abortion decision, but that this right is not unqualified". The right to an abortion is unlimited within the first trimester of pregnancy; under ''Roe'', states can pass laws regulating second- and third-trimester abortions.
+
+In an interesting turn of events, "Jane Roe", whose real name is [[Norma McCorvey]], has become a member of the [[pro-life]] movement and is now fighting to make abortion illegal.  McCorvey claims she became the "pawn" of two young and ambitious lawyers who were looking for a plaintiff whom they could use to challenge the [[Texas]] state law prohibiting abortion.  Using her prerogative as a party to the original litigation, she sought to reopen the case in a U.S. District Court in Texas and have it overturned based on changes in facts which have occurred since the decision, including evidence of emotional and other harm suffered by many women who have had abortions, increased resources for the care of unwanted children, and additional evidence of the humanity of the fetus.  On June 19, 2003, Judge [[David Godbey]] ruled that the motion was not made within a "reasonable time."  McCorvey's lawyer maintains that no time limit exists for such motions, and an appeal seems likely.
+
+Every year on the anniversary of the decision, protesters continue to demonstrate outside the Supreme Court Building in [[Washington, D.C.]].
+
+== See Also: ==
+
+* ''[[Griswold v. Connecticut]]'' 
+* ''[[Doe v. Bolton]]''
+* ''[[Webster v. Reproductive Health Services]]''
+* ''[[Planned Parenthood v. Casey]]''
+
+==External Links==
+*[http://www.tourolaw.edu/patch/Roe/ Full text of the Supreme Court's opinion in ''Roe v. Wade'']
+*[http://www.roenomore.org/ Norma McCorvey's website]</rev></revisions></page></pages></query></api>

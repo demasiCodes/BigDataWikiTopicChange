@@ -1,0 +1,6 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051013204339|25456225" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="2900454" pageid="2900454" ns="0" title="Racial steering"><revisions><rev timestamp="2005-10-15T00:50:37Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">In [[real estate]], '''racial steering''' is the act of steering prospective homebuyers to [[neighborhood]]s which have residents of mostly their same [[racial]] background.
+
+{{econ-stub}}
+
+
+[[category: real estate]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?><api><continue rvcontinue="20111005071227|454036958" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="14546141" pageid="14546141" ns="0" title="Occupational inequality"><revisions><rev timestamp="2011-10-05T07:32:43Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{mergefrom|Inequality in the workplace|date=October 2011}}
+'''Occupational inequality''' is the unequal treatment of people based on gender or race in the workplace. When researchers study trends in occupational inequality they usually focus on distribution or allocation pattern of groups across occupations, for example, the distribution of men compared to women in a certain occupation.&lt;ref&gt;[http://links.jstor.org/sici?sici=00029602%28199705%29102%3A6%3C1652%3ASSAOGI%3E2.0.CO%3B2-1 Tam, T. 1997. Sex Segregation and Occupational Gender Inequality in the United States: Devaluation or Specialized Training?. The American Journal of Sociology, 102(6):1653]&lt;/ref&gt; Secondly, they focus on the link between occupation and income, for example, comparing the income of whites with blacks in the same occupation.&lt;ref&gt;[http://links.jstor.org/sici?sici=00029602%28199705%29102%3A6%3C1652%3ASSAOGI%3E2.0.CO%3B2-1Tam, T. 1997. Sex Segregation and Occupational Gender Inequality in the United States: Devaluation or Specialized Training?. The American Journal of Sociology, 102(6):1653]&lt;/ref&gt;
+
+==Effects==
+Occupational inequality greatly affects the [[socioeconomic status]] of an individual which is linked with their access to resources like finding a job, buying a house, etc.&lt;ref name="wox.sagepub.com"&gt;[http://wox.sagepub.com/cgi/reprint/30/4/440 Miech, R, A. 2003. Occupational stratification over the life course: a comparison of occupational trajectories across race and gender during the 1980s and 1990s. Work and occupations, 30(4):441]&lt;/ref&gt; If an individual experiences occupational inequality, it may be more difficult for them to find a job, advance in their job, get a loan or buy a house. Occupational standing can lead to predictions of outcomes such as social standing and [[wealth]] which have long lasting effects on the individual as well as their dependents.&lt;ref name="wox.sagepub.com"/&gt; Segregation by gender in the labor force is extremely high, hence the reason why there remain so many disparities and inequalities among men and women of equitable qualifications. The division of labor is a central feature for gender based inequality. It influences the structure both based on its economic aspects and construction of identities. However, studies show that the general overall picture of gender and labor has not been evaluated. The importance of these issues is pertinent for the future structure of our labor force.
+
+==History==
+The enactment of federal equal employment opportunity (EEO) laws were passed in the 1960s to enforce equal employment opportunities and to eradicate past discrimination against women and minority men in the workplace.&lt;ref&gt;[http://links.jstor.org/sici?sici=00377791%28199208%2939%3A3%3C268%3ATIROIC%3E2.0.CO%3B2-4 Carlson, S. 1992. Trends in Race/Sex Occupational Inequality: Conceptual and Measurement Issues. Social Problems, 39(3):268]&lt;/ref&gt; In the 1960s and 1970s, the US saw a tremendous decrease in occupational inequality; however, in the 1980s and 1990s, it began to rise again.
+
+==Theories==
+Occupational inequality has historically always been a problem, but could diminish over time, according to Richard A. Miech, who attributes this potential change to [[economic theory]]. He determines that race and sex [[discrimination]] is inefficient in a competitive world because it calls for only white men to be employed. White men, however, will demand a higher salary than women or people of other races who have the same education and abilities, thus discriminating employers lose more money.&lt;ref&gt;[http://wox.sagepub.com/cgi/reprint/30/4/440 Miech, R, A. 2003. Occupational stratification over the life course: a comparison of occupational trajectories across race and gender during the 1980s and 1990s. Work and occupations, 30(4):441-442.]&lt;/ref&gt; Non-discriminating employers can gain an edge in the competitive market by hiring women and minorities, thereby reducing occupational inequality.&lt;ref name="Miech, R 2003"&gt;[http://wox.sagepub.com/cgi/reprint/30/4/440 Miech, R, A. 2003. Occupational stratification over the life course: a comparison of occupational trajectories across race and gender during the 1980s and 1990s. Work and occupations, 30(4):441-442]&lt;/ref&gt; This plan, if taken on by employers, could perpetuate over time to other employers in which occupational inequality could decrease nationally.&lt;ref name="Miech, R 2003"/&gt; Other theories and research suggests occupational inequality is increasing and will continue to do so.
+
+According to the process of “aging effects”, occupational inequality will continue with advancing age.&lt;ref name="ReferenceA"&gt;[http://wox.sagepub.com/cgi/reprint/30/4/440 Miech, R, A. 2003. Occupational stratification over the life course: a comparison of occupational trajectories across race and gender during the 1980s and 1990s. Work and occupations, 30(4):442]&lt;/ref&gt; According to this theory, the labor market consists of two sectors of jobs; one is the “primary” core of good jobs with good working conditions, advancement opportunities and job safety.&lt;ref name="ReferenceA"/&gt; The other is the “peripheral” sector of bad jobs with bad working conditions, low advancement opportunities and little job safety. [[Social mobility|Mobility]] between these two groups is very difficult.&lt;ref name="ReferenceA"/&gt; Women and minorities are disproportionately placed into the peripheral sector early on in their careers with little chance of moving into the primary group to achieve equal occupational status.&lt;ref name="ReferenceA"/&gt; 
+
+The theory of “homosocial reproduction” points to a trend where those in high position tend to pick the employees who have similar social backgrounds as their own for advancement.&lt;ref&gt;[http://wox.sagepub.com/cgi/reprint/30/4/440 Miech, R, A. 2003. Occupational stratification over the life course: a comparison of occupational trajectories across race and gender during the 1980s and 1990s. Work and occupations, 30(4):443]&lt;/ref&gt; Since the majority of managers are men, women are less chosen for career advancement and thus occupational inequality increases.
+
+==Measuring Occupational Inequality==
+The Duncan Socioeconomic Index (SEI) has been most commonly used to measure Occupational Status. It is based on two factors, occupational earnings and occupational education.&lt;ref&gt;[http://wox.sagepub.com/cgi/reprint/30/4/440 Miech, R, A. 2003. Occupational stratification over the life course: a comparison of occupational trajectories across race and gender during the 1980s and 1990s. Work and occupations, 30(4):445]&lt;/ref&gt;
+
+One way occupational inequality is measured is by the [[index of dissimilarity]] (D). The equation is as follows:
+
+D=½ε&lt;sub&gt;i&lt;/sub&gt;|X&lt;sub&gt;i&lt;/sub&gt;-Y&lt;sub&gt;i&lt;/sub&gt;|
+
+where X&lt;sub&gt;i&lt;/sub&gt; equals the percent of race or sex group X in the labor force in occupation i and Y&lt;sub&gt;i&lt;/sub&gt; equals the percent of race or sex group Y in occupation i. D is the measure of one half the sum of the [[absolute difference]] between the percentage distributions. The values range from 0 to 100 and measures the relative separation or integration of groups across an area.&lt;ref name="Chart disimilarity"&gt;[http://www.censusscope.org/us/s40/p75000/chart_dissimilarity.html Chart disimilarity], censusscope.org.&lt;/ref&gt; If the value equals 0% it means the area is distributed evenly.&lt;ref name="Chart disimilarity"/&gt; If the value is 100% it means the area is completely segregated.&lt;ref name="Chart disimilarity"/&gt; If the value is 60%, for example, it means 60% of workers would have to change occupations to make the distributions equal.&lt;ref name="Chart disimilarity"/&gt;
+
+==Occupational Inequality and Occupational Segregation==
+Occupational inequality is often linked with [[occupational segregation]] in a work place.&lt;ref name="journals.uchicago.edu"&gt;[http://www.journals.uchicago.edu/doi/full/10.1086/378928?cookieSet=1 Huffman, M. and Cohen, P. 2004 Racial Wage Inequality: Job Segregation and Devaluation across U.S. Labor Markets. American Journal of Sociology, 108(4)]&lt;/ref&gt; The greater the segregation in a workplace, the greater the occupational inequality.&lt;ref name="journals.uchicago.edu"/&gt; This is true specifically for jobs dominated by a certain minority or women.&lt;ref name="journals.uchicago.edu"/&gt; They often have bad work environments and less income than white males who usually make up the managerial positions with better work environments and more pay.&lt;ref name="journals.uchicago.edu"/&gt;
+
+==See also==
+* [[Gender equality]]
+* [[Gender inequality]]
+* [[Gender Wage Gap in the United States]]
+* [[Glass ceiling]]
+* [[Occupational segregation]]
+* [[Racial equality]]
+* [[Racism]]
+* [[Sexism]]
+* [[Social stratification]]
+
+==References==
+{{Reflist}}
+
+{{Aspects of occupations}}
+
+[[Category:Racial segregation]]
+[[Category:Income in the United States]]
+[[Category:Occupations]]
+[[Category:Sexism]]
+[[Category:Social classes]]
+[[Category:Sociology]]</rev></revisions></page></pages></query></api>

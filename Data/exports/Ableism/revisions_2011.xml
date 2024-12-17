@@ -1,0 +1,199 @@
+<?xml version="1.0"?><api><continue rvcontinue="20111030201905|458180803" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="29555364" pageid="29555364" ns="0" title="Ableism"><revisions><rev timestamp="2011-10-30T20:40:29Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{cite check|date=October 2011}}
+&lt;!--
+ since this article "belongs to" several projects, please add navigational aids as navboxes below, not sidebars here
+ --&gt;
+:''Discrimination faced by those with [[mental illness|mental disorders]] is sometimes called [[Mentalism (discrimination)]] rather than ableism.''
+
+'''Ableism''' is a form of [[discrimination]] or social prejudice against people with disabilities.  It is known by many names, including '''disability discrimination''', '''physicalism''', '''handicapism''', and '''disability oppression'''.{{sfn|Griffin|Peters|Smith|2007|p=335}}  It is also sometimes known as '''disablism''', although there is some dispute as to whether ableism and disablism are synonymous, and some people within [[Disability rights movement|disability rights]] circles find the latter term's use inaccurate.
+
+==Definition of the concept==
+Similar to many of the assumptions underlying the [[medical model of disability]] amongst many [[clinicians]], the "ableist" societal world-view is that the [[able-bodied]] are the norm in society, and that people who have disabilities must either strive to become that norm or should keep their distance from [[able-bodied]] people.  A disability is thus, inherently, a "bad" thing that must be overcome.  The ableist worldview holds that disability is an error, a mistake, or a failing, rather than a simple consequence of human diversity, akin to [[race (classification of humans)|race]], [[Ethnic group|ethnicity]], [[sexual orientation]] or [[gender]].{{sfn|Marshak|Dandeneau|Prezant|L'Amoreaux|2009|p=50}}
+
+Fiona A Kumari Campbell, Senior Lecturer in [[disability studies]] at [[Griffith University]], draws a distinction between disablism and ableism.  Disablism, she notes, has been the traditional focus of study within the field of [[disability studies]].  Disablism promotes the unequal treatment of the (physically) disabled versus the able-bodied.  It marks the disabled as the [[Other]], and works from the perspective of the able-bodied.{{sfn|Campbell|2009|pp=3&amp;ndash;4}}
+
+Citing prior work {{harv|Clear|1999}} {{harv|Iwasaki|Mactavish|2005}} {{harv|Watts|Erevelles|2004}}, Campbell acknowledges that the concept of ableism is, as of 2009, not clearly defined in the literature and has "limited definitional or conceptual specifity".{{sfn|Campbell|2009|p=5}}  She herself distinguishes between ableism and disablism, defining the former as:
+&lt;blockquote&gt;
+A network of beliefs, processes and practices that produces a particular kind of self and body (the corporeal standard) that is projected as the perfect, species-typical, and therefore essential and fully human.  Disability is then cast as a diminished state of being human.{{sfn|Campbell|2009|p=5}}{{sfn|Campbell|2001|p=44}}
+&lt;/blockquote&gt;
+
+Other definitions of ableism include those of Vera Chouinard (professor of geography at [[McMaster University]]), who defines it as "ideas, practices, institutions, and social relations that presume able-bodiedness, and by so doing, construct persons with disabilities as marginalized &amp;#91;&amp;hellip;&amp;#93; and largely invisible 'others'"{{sfn|Chouinard|1997|p=380}}{{sfn|Campbell|2009|p=5}} and Ron Amundson (professor of philosophy at the [[University of Hawaii at Hilo]]) and Gayle Taira, who define it as "a doctrine that falsely treats impairments as inherently and naturally horrible and blames the impairments themselves for the problems experienced by the people who have them".{{sfn|Amundson|Taira|2005|p=54}}{{sfn|Campbell|2009|p=5}}
+
+Harpur (Research Fellow in Employment Relations at Griffith University) argues that the term ableism is a powerful label that has the capacity to ameliorate the use of negative stereotypes and facilitate cultural change by focusing attention on the discriminator rather than on the victim or impairment.&lt;ref&gt;{{Cite journal | last = Harpur | first = Paul | title = Sexism and Racism, Why not Ableism? Calling for a Cultural Shift in the Approach to Disability Discrimination | journal = Alternative Law Journal | volume = 34 | issue = 3 | pages = 163–167 | publisher = Legal Service Bulletin Co-operative Ltd | location = Melbourne | year = 2009 | url = http://www.altlj.org/index.php?option=Articles&amp;task=viewarticle&amp;artid=69#4 }}&lt;/ref&gt;
+
+==Laws in the United States defending the disabled==
+In the U.S., Section 504 of the Rehabilitation Act of 1973 and the [[Americans with Disabilities Act]] of 1990 (ADA) enacted into law certain [[Civil law (common law)|civil]] penalties for failing to make public places comply with access codes known as the ADA Access Guidelines (ADAAG); this law also helped expand the use of certain adaptive devices, such as TTYs (phone systems for the deaf/speech impaired), some [[computer]]-related hardware and software, and [[Wheelchair ramp|ramps]] or lifts on [[public transportation]] [[bus]]es and private automobiles.{{citation needed|date=January 2011}} In the UK, meanwhile, the [[Disability Discrimination Act 1995|1995 Disability Discrimination Act]] and [[Disability Discrimination Act 2005]] and the [[Equality Act 2010]] attempt the same.
+
+However, neither of these laws requires all buildings constructed before the date of the Act to be modified to fit the physical directives of the Act. Instead, these directives are applied to three general categories of buildings: 1) existing Government administration buildings and structures regardless of age; 2) all newly-constructed buildings and structures; and, 3) significantly [[renovated]] and/or [[refurbished]] buildings and structures. Therefore, in general, due to overriding regulatory frameworks such as [[Historic site|landmark status]]es, [[historic building]] statuses, and similar, very few older structures in a given society may be modified according to the new requirements.{{citation needed|date=January 2011}}
+
+Sometimes, under their own power and for their own reasons, a business or service that does not have to modify its building structure to fit the accessibility requirements will modify it anyway. But other times, this does not happen, and the building continues to be fundamentally inaccessible to people with physical disabilities.{{Examples|date=January 2011}}
+
+
+'''California Law'''
+
+In addition to the federal protections provided by the ADA, California’s Fair Employment and Housing Act (“FEHA”) provides additional protections to California employees. Notably, FEHA applies to employers with 5 or more employees and offers more extensive protection than the ADA. &lt;ref&gt;[http://mybossstinks.com/mybossstinks_disability_discrimination.html Disability Discrimination] - Solomon, Saltsman &amp; Jamieson&lt;/ref&gt;
+
+
+{{Expert-subject-multiple|Sociology|Discrimination|Disability|date=September 2010}}
+
+==References==
+{{Reflist|colwidth=30em|refs=}}
+===Bibliography===
+&lt;!-- alphabetically by last name of first author/editor --&gt;
+{{refbegin|1}}
+* {{cite journal|ref=harv
+  |last1=Amundson|first1=Ron
+  |first2=Gayle|last2=Taira
+  |title=Our Lives and Ideologies: The Effects of Life Experience on the Perceived Morality of the Policy of Physician-Assisted Suicide
+  |journal=Journal of Policy Studies
+  |volume=16|issue=1
+  |year=2005
+  |pages=53&amp;ndash;57
+  |url=http://uhh.hawaii.edu./~ronald/pubs/2005-Amundson-Taira.pdf
+  |format=[[Portable Document Format|PDF]]
+}}
+* {{cite journal|ref=harv
+  |first=Fiona A. Kumari|last=Campbell
+  |year=2001
+  |title=Inciting Legal Fictions: Disability Date with Ontology and the Ableist Body of the Law
+  |journal=Griffith Law Review
+  |volume=10
+  |issue=1
+  |pages=42&amp;ndash;62
+}}
+* {{cite book|ref=harv
+  |title=Contours of Ableism: The Production of Disability and Abledness
+  |first=Fiona A. Kumari|last=Campbell
+  |publisher=Palgrave Macmillan
+  |year=2009
+  |isbn10=0230579280|isbn=978-0-230-57928-6
+}}
+* {{cite journal|ref=harv
+  |last=Chouinard|first=Vera
+  |title=Making Space for Disabling Difference: Challenges Ableist Geographies|
+  |journal=Environment and Planning D: Society and Space
+  |volume=15
+  |year=1997
+  |pages=379&amp;ndash;387
+}}
+* {{cite book|ref=harv
+  |title=Teaching for diversity and social justice
+  |volume=1
+  |editor1-first=Maurianne|editor1-last=Adams
+  |editor2-first=Lee Anne|editor2-last=Bell
+  |editor3-first=Pat|editor3-last=Griffin
+  |chapter=Ableism Curriculum Design
+  |first1=Pat|last1=Griffin
+  |first2=Madelaine L.|last2=Peters
+  |first3=Robin M.|last3=Smith
+  |edition=2nd
+  |publisher=Taylor &amp;amp; Francis
+  |year=2007
+  |isbn10=0415951992|isbn=978-0-415-95199-9
+}}
+* {{cite book|ref=harv
+  |title=The School Counselor's Guide to Helping Students with Disabilities
+  |series=Jossey-Bass teacher
+  |first1=Laura E.|last1=Marshak
+  |first2=Claire J.|last2=Dandeneau
+  |first3=Fran P.|last3=Prezant
+  |first4=Nadene A.|last4=L'Amoreaux
+  |publisher=John Wiley and Sons
+  |year=2009
+  |isbn10=070175796|isbn=978-0-470-17579-8
+}}
+{{refend}}
+== Further reading ==
+* {{cite journal|ref=harv
+  |url=http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/46/0
+  |journal=M/C Journal
+  |volume=11|issue=3
+  |year=2008
+  |title=Refusing Able(ness): A Preliminary Conversation about Ableism
+  |first=Fiona A. Kumari|last=Campbell
+}}
+* {{cite journal|ref=harv
+  |last=Clear|first=Mike
+  |title=The "Normal" and the Monstrous in Disability Research
+  |journal=Disability &amp;amp; Society
+  |volume=14|issue=4
+  |year=1999
+  |pages=435&amp;ndash;448
+}}
+* {{cite book|ref=harv
+  |chapter=Eliminating Ableism in Education
+  |first=Thomas|last=Hehir
+  |title=Special education for a new century
+  |volume=41
+  |series=Harvard educational review
+  |editor1-first=Lauren I.|editor1-last=Katzman
+  |publisher=Harvard Educational Review
+  |year=2005
+  |isnb10=091669044X|isbn=978-0-916690-44-1
+}}
+* {{cite journal|ref=harv
+  |last1=Iwasaki|first1=Yoshitaka
+  |first2=Jennifer|last2=Mactavish
+  |title=Ubiquitous Yet Unique: Perspectives of People with Disabilities on Stress|
+  |journal=Rehabilitation Counselling Bulletin
+  |volume=48|issue=4
+  |year=2005
+  |pages=194&amp;ndash;208
+  |doi=10.1177/00343552050480040101
+}}
+* {{cite journal|ref=harv
+  |last1=Watts|first1=Ivan Eugene
+  |first2=Nirmala|last2=Erevelles
+  |title=These Deadly Times: Reconceptualizing School Violence by Using Critical Race Theory and Disability Studies
+  |journal=American Educational Research Journal
+  |volume=41|issue=2
+  |year=2004
+  |pages=271&amp;ndash;299
+  |url=http://jstor.org./stable/3699367
+}}
+==See also==
+{{Portal|Disability|Discrimination}}
+*[[ADAPT]]
+*[[Audism]]
+*[[Autism rights movement]]
+*[[Custom employment]]
+*[[Disability etiquette]]
+*[[Disability hate crime]]
+*[[Disability rights]]
+*[[Inclusion (disability rights)]]
+*[[Intersectionality]]
+*[[Kyriarchy]]
+*[[List of disability rights activists]]
+*[[Psychophobia]]
+*[[Social criticism]]
+*[[Phillip Davies]]
+
+==External links==
+* [http://www.ataccess.org/ Alliance for Technology Access ]
+* [http://www.equalemployment.org/publications/aguidetodisabilityrights.html Center for Disability Law and Policy ]
+* [http://www.raggededgemagazine.com/1100/1100votestory.htm Ragged Edge Online ]
+* [http://www.zmag.org/sustainers/content/2002-08/31russell.cfm "The Social Movement Left Out"] - ''[[Z Magazine]]'' article by Marta Russell
+* [http://www.issuelab.org/closeup/Feb_2009 Nonprofit Research Collection on Disability &amp; Employment] Published on IssueLab
+* [http://www.timetogetequal.org.uk/page.asp?section=37&amp;sectionTitle=Beating+disablism Beating Disablism]
+* [http://www.demos.co.uk/publications/disablism Disablism]
+* [http://www.milieu.it/DisabilityStudiesItaly/DisabilityStudiesItaly.html Disability Studies Italy]
+* [http://www.disabled-world.com/disability/discrimination/ Disability Discrimination Information and News]
+
+{{Disability navbox}}
+{{Discrimination}}
+
+[[Category:Disability]]
+[[Category:Sociology]]
+[[Category:Political theories]]
+[[Category:Social theories]]
+[[Category:Discrimination]]
+[[Category:Disability rights]]
+[[Category:Activism]]
+[[Category:Dispositional beliefs]]
+[[Category:Prejudices]]
+
+[[de:Behindertenfeindlichkeit]]
+[[nl:Validisme]]
+[[pl:Handicapizm]]
+[[pt:Ableísmo]]
+[[fi:Vammaisten syrjintä]]
+[[sv:Diskriminering av personer med funktionsnedsättning]]</rev></revisions></page></pages></query></api>

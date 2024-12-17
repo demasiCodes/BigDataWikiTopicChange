@@ -1,0 +1,8 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051005103047|24801373" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1890864" pageid="1890864" ns="0" title="Guttmacher Institute"><revisions><rev timestamp="2005-11-01T21:48:41Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">The '''Alan Guttmacher Institute''' is a [[research institute]] that provides global and U.S. specific [[demography|demographic]] [[statistics]] on reproductive matters such as [[birth control]] and [[abortion]]. Though it advocates for the wide availability of both, and is associated with the [[pro-Choice]] movement, its statistical research is widely respected, and considered authoritative.
+
+AGI is named after a former president of the [[Planned Parenthood Federation of America]], [[Alan Guttmacher]]. It has offices in both [[New York City]] and [[Washington, D.C.]]. As of 2004, it has an annual revenue of $6.9 million dollars, and expenses of $7.8 million, with a asset reserve of $16.9 million dollars. [http://www.agi-usa.org/about/agi_2004_AR.pdf]
+
+==External link==
+* http://www.guttmacher.org/
+
+{{org-stub}}</rev></revisions></page></pages></query></api>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041023204044|6894998" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="399735" pageid="399735" ns="0" title="Liberal feminism"><revisions><rev timestamp="2004-10-27T11:36:30Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Liberal feminism''' is a form of [[feminism]] that argues that equality for women can be achieved through legal means and social reform, and that men as a group need not be challenged.
+
+Liberal feminism is a somewhat [[conservative]] form of [[feminism]] - compare with "small-L" [[liberalism]]. Liberal feminism leans towards an equality of sameness with men (not a [[difference feminism]]). 
+
+Liberal feminism conceives of politics in individualistic terms and looks to reform present liberal practices in society, rather than advocating for a wholesale revolutionary change. Feminist writers associated with this tradition are amongst others [[Mary Wollstonecraft]], [[John Stuart Mill]]
+and second wave feminist [[Betty Friedan]]. 
+
+{{msg:stub}}
+
+[[Category:Feminism]]
+
+[[sv:Liberalfeminism]]</rev></revisions></page></pages></query></api>

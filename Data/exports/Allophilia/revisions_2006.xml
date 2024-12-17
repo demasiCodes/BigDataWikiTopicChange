@@ -1,0 +1,16 @@
+<?xml version="1.0"?><api><continue rvcontinue="20061026190249|83895160" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="3755654" pageid="3755654" ns="0" title="Allophilia"><revisions><rev timestamp="2006-10-30T14:43:27Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Allophilia''' -- positive attitudes for a group that is not one's own -- is a term derived from Greek words meaning "liking or love of the other" (Pittinsky, 2005). Studied by social scientists, allophilia is the antonym of [[prejudice]] and the antonym of a host of "isms": [[sexism]], [[racism]], [[heterosexism]], [[ageism]], [[anti-Semitism]], [[elitism]]/[[classism]] or [[phallocentrism]]. Allophilia can be felt towards members of a different [[race]], [[sex]], [[gender role|gender]], [[sexual orientation]], [[religion]], [[disability]], [[Social class|class]], [[nationality]], [[school]], [[team]] and workplace ([[occupation]]).
+
+Allophilia has five statistical factors: 1) Kinship, 2) Engagement, 3) Affection, 4) Comfort, and 5) Enthusiasm (Pittinsky &amp; Rosenthal, 2006). The Allophilia Scale measures each of these factors. 
+
+The image below locates allophilia vis-à-vis its related constructs of prejudice and [[tolerance]]. The typical remedy for prejudice is to bring conflicting groups into a state of tolerance. However, tolerance is not the logical antithesis of prejudice, but rather is the midpoint between negative feelings and positive feelings toward others. The introduction of allophilia – positive intergroup attitudes – as an anchor, identifies a new domain for theory, research, and practice: allophilia enhancement.
+
+[[Image:Allophilia Scale.jpg|center]]
+
+== References ==
+
+#Pittinsky, T. L. (2005).  Allophilia and intergroup leadership. In N. Huber &amp; M. Walker (Eds.), Building Leadership Bridges: Emergent Models of Global Leadership.  College Park, Maryland: International Leadership Association.
+#Pittinsky, T. L. &amp; Rosenthal, S. A. (2006). Moving Beyond Tolerance: Factors and Measurement of Allophilia. Manuscript in preparation.
+#[http://www.ksg.harvard.edu/leadership/compass/index.php?itemid=629 ''Compass: A Journal of Leadership'' article, Tolerance Is Not Enough: Allophilia - a framework for effective intergroup leadership]
+
+[[Category:Society]]
+[[Category:Discrimination]]</rev></revisions></page></pages></query></api>

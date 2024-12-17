@@ -1,0 +1,65 @@
+<?xml version="1.0"?><api><continue rvcontinue="20101022184108|392262478" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="28828380" pageid="28828380" ns="0" title="UN Women"><revisions><rev timestamp="2010-10-25T14:44:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Infobox United Nations
+| name = UN Women&lt;br&gt;ONU Femmes&lt;br&gt;ONU Mujeres
+| image = &lt;!--UN Women logo.svg--&gt;
+| image size = 150px
+| caption =
+| type = UN entity
+| acronyms =
+| languages_type              = [[Official language]]s
+| languages                   = {{Collapsible list
+ | title = [[Language|4]]
+  | [[English language|English]]
+  | [[French language|French]]}}
+| head                = {{Flag icon|Chile}} [[Michelle Bachelet]]
+| status =
+| established = 2010
+| website = {{URL|www.unwomen.org}}
+| headquarters = {{Flag icon|USA}} [[New York]]
+| parent =
+| subsidiaries =
+| footnotes =
+}}
+The '''United Nations Entity for Gender Equality and the Empowerment of Women''', also known as '''UN Women''' is a [[United Nations]] entity working for the empowerment of women and girls.
+
+UN Women will become operational by January 2011.&lt;ref name="un"&gt;http://www.unwomen.org/faq/&lt;/ref&gt;
+
+==History==
+On 2 July 2010, the United Nations General Assembly voted unanimously to "accelerate progress in meeting the needs of women and girls worldwide." The body is a result of many years of negotiations between UN member states and [[women's rights]] advocates. The body is a part of the UN's reform agenda seeking to bring together "resources and mandates for greater impact." The body's intention is to "accelerate progress in meeting the needs of women and girls worldwide."
+
+Secretary-General [[Ban Ki-moon]] announced at the founding of the movement that he is "grateful to Member States for having taken this major step forward for the world’s women and girls. UN Women will significantly boost UN efforts to promote gender equality, expand opportunity, and tackle discrimination around the globe."&lt;ref&gt;{{Cite web|url=http://www.unwomen.org/ |title=Welcome to UN Women  UN Women |publisher=Unwomen.org |date=2010-07-02 |accessdate=2010-09-15}}&lt;/ref&gt;
+
+On September 14, 2010, it was announced that former [[President of Chile]] [[Michelle Bachelet]] was appointed as head of UN Women.&lt;ref&gt;*[http://www.ipsnews.net/news.asp?idnews=52834 "Michelle Bachelet's Appointment to Head UN Women Widely Applauded"], ''[[Inter Press Service]]''&lt;/ref&gt; Various countries supported the creation of the body and welcomes Bachelet as chief.&lt;ref&gt;http://gadebate.un.org/View/Sept24.aspx&lt;/ref&gt; During General Debate at the opening of the 65th General Assembly of the United Nations, world leaders commended the creation of the body and its intention to "empower women,"  as well as welcoming Bachelet's position as the inaugural head.&lt;ref&gt;The various speeches from all the world leader from 23-25 &amp; 27-30 September 2010 are listed at http://gadebate.un.org/&lt;/ref&gt;
+
+==Goals==
+UN Women is empowered to:&lt;ref name="un"/&gt;
+*To support inter-governmental bodies, such as the Commission on the Status of Women, in their formulation of policies, global standards and norms. 
+*To help UN member states implement the above standards, standing ready to provide suitable technical and financial support to those countries that request it and to forge effective partnerships with civil society. 
+*To enable member states to hold the UN system accountable for its own commitments on gender equality, including regular monitoring of system-wide progress. 
+
+==See also==
+{{Portal|United Nations}}
+*[[UNIFEM]]
+*[[United Nations International Research and Training Institute for the Advancement of Women]]
+*[[Women's rights]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.un-ngls.org/IMG/pdf_Report_July_2010_N0947917.pdf General Assembly Resolution 64/289]
+
+{{Template group
+|list =
+{{Supranationalism/World government topics|state=collapsed}}
+{{International Criminal Court|state=collapsed}}
+{{International Criminal Law|state=collapsed}}
+{{International human rights organizations}}
+{{UN Charter}}
+{{United Nations}}
+{{UN Security Council}}
+}}
+
+{{DEFAULTSORT:Un Women}}
+[[Category:United Nations]]
+
+[[fr:ONU Femmes]]</rev></revisions></page></pages></query></api>

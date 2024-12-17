@@ -1,0 +1,12 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020531194922|83154" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="54421" pageid="54421" ns="0" title="Sex-selective abortion"><revisions><rev timestamp="2002-05-31T19:52:22Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Sex-selective abortion''' is the practice of aborting a fetus after a
+determination by ultrasound that the fetus is a certain sex (usually female).  
+It is believed to be responsible for at least part of the skewed birth
+statistics in favor of males in Mainland China, India, Taiwan, and South Korea.
+Although the practice is often illegal, laws against it are extremely difficult
+to enforce.
+
+The cause of sex-selective abortion are social in that a male is necessary to
+carry on the family name and economic in that a male can work in the fields
+and generate more income than females.  Another contributing factor is the
+wide availablity of [[ultrasound]] in rural areas which makes it possible
+to determine gender before birth.</rev></revisions></page></pages></query></api>

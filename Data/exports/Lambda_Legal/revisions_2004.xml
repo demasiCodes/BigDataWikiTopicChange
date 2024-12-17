@@ -1,0 +1,12 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041106043730|7147150" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="265102" pageid="265102" ns="0" title="Lambda Legal"><revisions><rev timestamp="2004-11-06T05:34:00Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Lambda Legal Defense and Education Fund''', formed in [[1973]], is an [[United States|American]] [[non-governmental organization]] devoted to promoting the legal rights of [[homosexuality|gay men and lesbians]], [[bisexuality|bisexuals]], the [[transgendered]], and people with [[HIV]] or [[AIDS]], through [[impact litigation]], education, and public policy work.
+
+The current executive director is Kevin M. Cathcart.
+
+Lambda initially was denied the right to organize as a [[not-for-profit corporation]] under the laws of the State of [[New York]], on the grounds that its proposed activities would be contrary to [[public policy]].  That decision was later overturned in a [[1973]] decision by the [[New York Court of Appeals]], that [[U.S. state|state]]'s highest [[court]].  (''In re Thom'', 301 N.E.2d 542 (N.Y. 1973).)
+
+Lambda has played a role in many legal cases in the [[United States]] pertaining to [[gay rights]], including the 6-3 [[United States Supreme Court]]'s [[2003]] decision in ''[[Lawrence v. Texas]]'', which invalidated [[sodomy law|sodomy laws]].
+
+== External links ==
+* [http://www.lambdalegal.org Lambda Legal Defense and Education Fund]
+
+[[Category:LGBT rights organizations]]</rev></revisions></page></pages></query></api>

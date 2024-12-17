@@ -1,0 +1,22 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041024174848|7018114" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="355849" pageid="355849" ns="0" title="Equal opportunity"><revisions><rev timestamp="2004-10-31T23:24:55Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Equal opportunity''' is a descriptive term for an approach intended to give equal access to an [[environment]] or benefits, such as [[education]], [[employment]], [[health_care|health care]], or [[social_welfare|social welfare]] to members of various social groups, some of which might otherwise suffer from [[discrimination]]. This can involve hiring and other practices. Major social groupings involved are those delineated by aspects of [[sex|gender]], [[race]], or [[religion]].
+
+Equal opportunity practices that are [[race-blind]] or [[gender-blind]] may be distinguished from practices that involve or require [[affirmative action]]. The United States federal government and various state and local governments require affirmative action in terms of governmental hiring and contracting; other countries make any such action illegal.
+
+==See Also==
+*[[Universal access]]
+*[[Equal Employment Opportunity Commission|Equal Employment Opportunity Commission (US)]]
+*[[Office of Fair Housing and Equal Opportunity|Office of Fair Housing and Equal Opportunity  (US)]]
+*[[Equal Opportuinity (New Brunswick)]]
+
+==External Links==
+*Australia
+**[http://www.hreoc.gov.au/ Australian Human Rights and Equal Opportunity Commission]
+*United Kingdom
+**[http://www.eoc.org.uk/ The Equal Opportunities Commission (gender equality)]
+**[http://www.womenandequalityunit.gov.uk/ UK Governmen Women &amp; Equality Unit]
+**[http://www.cre.gov.uk/ The Commission for Racial Equality (racial equality)]
+**[http://www.drc-gb.org/ Disability Rights Commission (disablement equality)]
+*United States
+**[http://www.nafeo.org/ NAFEO - National Association For Equal Opportunity In Higher Education (US)]
+**[http://www.doi.gov/diversity/ Department of the Interior Office for Equal Opportunity (US)]
+**[http://www.ceousa.org/ Center for Equal Opportunity (US)]</rev></revisions></page></pages></query></api>

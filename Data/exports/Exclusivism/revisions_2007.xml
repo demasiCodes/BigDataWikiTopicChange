@@ -1,0 +1,18 @@
+<?xml version="1.0"?><api><continue rvcontinue="20070410122204|121659322" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1752698" pageid="1752698" ns="0" title="Exclusivism"><revisions><rev timestamp="2007-08-30T11:17:44Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Exclusivism''' is the practice of being [[exclusive]]; [[mentality]] characterized by the [[disregard]] for [[opinions]] and [[ideas]] other than one's own, or the practice of organizing entities into groups by excluding those entities which possess certain traits (for an opposite example, see [[essentialism]]).
+
+==Religious exclusivism==
+{{main|Chosen people}}
+
+Religious exclusivism asserts that one religion is true and that all others are in error.
+
+It has two forms;
+
+Absolute Exclusivism; Asserts that one religion is true and that all others are in error and one must be born into the religion to be a true adherent. Examples are Zoroastrianism and Judaism.
+
+Relative Exclusivism; Asserts that one religion is true and that all others are in error therefore conversion is mandatory. Examples are Christianity and Islam.
+
+{{psych-stub}}
+{{philo-stub}}
+{{socio-stub}}
+
+[[de:Exklusivismus]]</rev></revisions></page></pages></query></api>

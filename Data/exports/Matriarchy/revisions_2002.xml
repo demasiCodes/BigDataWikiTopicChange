@@ -1,0 +1,9 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020910215133|210317" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="83525" pageid="83525" ns="0" title="Matriarchy"><revisions><rev timestamp="2002-09-10T23:47:27Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">A '''matriarchy''' is a form of government or tradition in which the balance of power is held by the senior females of a community.  
+
+The term is sometimes used to refer to "government by women", although this is more properly termed ''gynarchy''.
+
+Matriarchal societies have been rare in comparison to [[patriarchy|patriarchal]] societies.  Some have suggested that many ancient societies were matriarchal, or even that there existed a wide-ranging matriarchal society prior to the ancient cultures of which we are aware. However, most professional historians discount these claims on the basis of a lack of historical evidence to support them.
+
+Matriarchy is distinct from [[matrilineality]] and [[matrilocality]]. 
+
+See also: [[patriarchy]]</rev></revisions></page></pages></query></api>

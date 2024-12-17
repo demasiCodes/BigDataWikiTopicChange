@@ -1,0 +1,5 @@
+<?xml version="1.0"?><api><continue rvcontinue="20040729014139|4951695" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="804964" pageid="804964" ns="0" title="Dehumanization"><revisions><rev timestamp="2004-08-01T19:08:54Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Dehumanization''' refers to subvert and overt acts which assert a separation of a particular group as belonging to an "inferior" class  of people.
+
+{{stub}}
+
+[[pl:Dehumanizacja]]</rev></revisions></page></pages></query></api>

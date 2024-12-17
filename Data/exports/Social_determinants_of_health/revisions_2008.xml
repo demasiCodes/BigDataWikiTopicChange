@@ -1,0 +1,65 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081113225623|251652514" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="3875331" pageid="3875331" ns="0" title="Social determinants of health"><revisions><rev timestamp="2008-11-14T08:28:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Social determinants of health''' are the economic and social conditions under which people live which determine their [[health]]. Virtually all major diseases are primarily determined by a network of interacting exposures that increase or decrease the risk for the disease.  This is particularly the case for cardiovascular disease and type II diabetes. And these conditions are a result of social, economic, and political forces. Social determinants of health have been recognized by several health organizations such as the [[Public Health Agency of Canada]] and the [[World Health Organization]] to greatly influence collective and [[person]]al well-being.  A list of determinants of health -- only some of which are social determinants -- compiled by the Public Health Agency of Canada is below:
+
+# [[Income]] and [[social status]]
+# [[Social network|Social support network]]s
+# [[Education]] and [[literacy]], i.e. [[health literacy]]
+# [[Employment]]/[[Working conditions]]
+# [[Social environment]]s
+# [[Natural environment|Physical environment]]s
+# Personal health practices and [[coping]] skills
+# Healthy [[child development]]
+# [[Biology]] and [[genetics|genetic endowment]]
+# [[Healthcare|Health services]]
+# [[Gender]]
+# [[Culture]]
+
+The term social determinants of health grew out of the search by researchers to identify the specific exposures by which members of different socio-economic groups come to experience varying degrees of health and illness. While it was well documented that individuals in various socio-economic groups experienced differing health outcomes, the specific factors and means by which these factors led to illness remained to be identified.  Overviews of the concept, recent findings, and an analysis of emerging issues are available. All these formulation share a concern with factors beyond those of biomedical and behavioural risk. 
+
+The SDOH National Conference list (see Raphael, below) is unique in that it specifically focuses on the public policy environment (e.g., income and its distribution) rather than characteristics associated with individuals (e.g. income and social status). These 11 social determinants of health are:
+# Aboriginal status
+# early life
+# education
+# employment and working conditions
+# food security
+# gender
+# health care services
+# housing
+# income and its distribution
+# social safety net
+# social exclusion
+# unemployment and employment security.
+
+A particularly important issue that is emerging is whether any particular analysis of social determinants of health is de-politicized or not.  A de-politicized approach is one that fails to take account of the fact that the quality of the social determinants of health to which citizens in a jurisdiction are exposed to is shaped by public policy created by governments.  And governments of course are controlled by political parties who come to power with a set of ideological beliefs concerning the nature of society and the role of governments.
+
+Such analyses that recognize the role played by politics outline the particular importance of having social democratic political parties in power.  Nations that have had longer periods of social democratic influence such as Norway, Finland, Sweden, and Denmark have government policymaking that is remarkably consistent with social determiannts of health concepts. Nations such as the USA and Canada,dominated by liberal and neo-liberal governing parties, much less so.  The work of David Coburn, Toba Bryant, Clare Bambra, Richard Hofrichter, Carles Muntaner, and Vicente Navarro has been especially attentive to these issues.      
+
+A wealth of evidence from Canada and other countries supports the notion that the socioeconomic circumstances of individuals and groups are equally or more important to health status than medical care and personal health behaviours, such as smoking and eating patterns (Evans et al., 1994; Frank, 1995; Federal/Provincial/Territorial Advisory Committee on Population Health, 1999). 
+
+An example of SDOH, applicable to the United States, is shown in the graph, below.  It shows self-reported health as it relates to income level and political party identification (Democrat vs. Republican).&lt;ref&gt;Fried, Joseph, ''Democrats and Republicans - Rhetoric and Reality'' (New York: Algora Publishing, 2008), 25.&lt;/ref&gt;
+[[image:Fig._23_-_Would_you_say_your_own_health_is_excellent.JPG|thumb|375px|left]]
+
+The weight of the evidence suggests that the SDOH have a direct impact on the health of individuals and populations, are the best predictors of individual and population health, structure lifestyle choices, and interact with each other to produce health (Raphael, 2003). In terms of the health of populations, it is well known that disparities-the size of the gap or inequality in social and economic status between groups within a given population-greatly affect the health status of the whole. The larger the gap, the lower the health status of the overall population (Wilkinson, 1996; Wilkinson and Marmot, 1998).
+
+==See also==
+
+* [[Health literacy]]
+* [[Population health]]
+* [[Population Health Forum]]
+* [[Whitehall Study]]
+* [[Center for Minority Health]]
+* [[Race and health]]
+* [[Unnatural Causes: Is Inequality Making Us Sick?]]
+
+==External links==
+* [http://www.phac-aspc.gc.ca/ph-sp/phdd/determinants/index.html Public Health Agency of Canada: What determines health? - Key Determinants]
+* [http://www.who.int/social_determinants/en/ World Health Organization: Commission on Social Determinants of Health]
+* [http://depts.washington.edu/eqhlth Population Health Forum website]
+* [http://www.wilsoncenter.org/index.cfm?topic_id=116811&amp;fuseaction=topics.event_summary&amp;event_id=224806 VIDEO: Health Status Disparities in the US] ''featuring'' Paula Braveman, Gregg Bloche, George Kaplan, Thomas Ricketts, Mary Lou deLeon Siantz, and David Williams
+* [http://podcast.cbc.ca/mp3/ideas_20080303_4892.mp3 CBC Ideas - Sick People or Sick Societies? Part 1]
+* [http://podcast.cbc.ca/mp3/ideas_20080310_4869.mp3 CBC Ideas - Sick People or Sick Societies? Part 2]
+
+[[Category:Public health]]
+[[Category:Determinants of health| ]]
+[[Category:Demography]]
+
+[[ja:健康の社会的決定要因]]</rev></revisions></page></pages></query></api>

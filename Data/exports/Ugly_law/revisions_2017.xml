@@ -1,0 +1,33 @@
+<?xml version="1.0"?><api><continue rvcontinue="20161231074725|757544823" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="20491560" pageid="20491560" ns="0" title="Ugly law"><revisions><rev timestamp="2017-09-09T04:22:49Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Disability}}
+{{Discrimination sidebar}}
+From the late 1860s until the 1970s, several American cities had '''ugly laws''' that deemed it illegal for persons who were "unsightly" or "unseemly"  to appear in public. Some of these laws were called '''unsightly beggar ordinances'''.
+
+== History ==
+"Ugly laws" arose in the late nineteenth century in U.S. cities. During this period, urban spaces underwent a sharp influx of new residents, as both resident and immigrant populations were drawn to cities; their new populations were often impoverished, as, in the 1870s, the country underwent an economic downturn; and new residents were often veterans of the Civil War who were visibly disabled. This meant large numbers of people who were strangers to each other now occupied closer quarters than they had in small towns, where such local institutions as schools, families, and churches helped moderate social relations.&lt;ref name=":1"&gt;{{Cite book|title = Women in Public: Between Banners and Ballots 1825-1880.|last = Ryan|first = Mary|publisher = Johns Hopkins University Press|year = 1992|isbn = |location = Baltimore|pages = }}&lt;/ref&gt;&lt;ref name=":2"&gt;{{Cite journal|url = |title = Whose City? Public and Private Spaces in Nineteenth-Century Chicago|last = Duis|first = Perry|date = Spring 1983|journal = Chicago History: The Manual of the Chicago Historical Society|doi = |pmid = |access-date = }}&lt;/ref&gt; In response to the pressures of condensed urban populations, local city councils attempted to regulate conduct on the streets using their law-making capacities. Ugly laws identified groups of people as disturbing the flow of public life and banned them from public spaces. Such people, deemed "unsightly" or "unseemly," were usually impoverished and often beggars. Thus ugly laws were methods by which lawmakers attempted to remove the poor from sight.&lt;ref name=":0" /&gt;
+
+==Examples==
+The first ordinance thus far discovered by historians is one passed in 1867 in [[San Francisco]], [[California]].&lt;ref name=":0"&gt;Quoted in Schweik, Susan. ''The Ugly Laws: Disability in Public'' ([[NYU Press|New York: NYU Press]] 2009), pp. 31-32.&lt;/ref&gt; Similar ordinances were passed in the 1880s in Western and particularly Midwestern cities, which experienced intense crowding during this period.&lt;ref name=":0" /&gt; Ugly laws extended eastward: [[Pennsylvania]] passed a state version of the law in the early 1890s. [[New York (state)|New York]] made an unsuccessful attempt at a city ordinance in 1895.&lt;ref name="brown"&gt;Brown, Patricia Leigh. "Viewing Ahab and Barbie Through the Lens of Disability." ''[[New York Times]]'' (August 20, 2000) as quoted by http://www.accessmylibrary.com/coms2/summary_0286-29736932_ITM&lt;/ref&gt;
+
+The Chicago ordinance of 1881 read as follows:&lt;blockquote&gt;Whereas the streets and sidewalks of the City of Chicago contain numerous beggars, [[mendicant]]s, organ-grinders and other unsightly and unseemly objects, which are a reproach to the City, disagreeable to people upon the streets, an offense to business houses along the streets and often dangerous, Therefore be it ordered, That the mayor at once take steps to remove from the streets all beggars, mendicants, and all those who by way of making Exhibition of themselves and their infirmaries seek to obtain money from people on and along the streets.&lt;ref name=":0" /&gt;&lt;/blockquote&gt;In most cities, punishments for violating an ugly law ranged from [[incarceration]] to [[fine (penalty)|fine]]s of up to $50 for each offense.
+
+==Repeal==
+Many ugly laws were not repealed until the mid-1970s.&lt;ref name="burgdorf"&gt;Marcia Pearce Burgdorf and Robert Burgdorf, Jr., “A History of Unequal Treatment: The Qualifications of Handicapped Persons as a Suspect Class Under the Equal Protection Clause,” Santa Clara Lawyer 15:4 (1975) 855-910.&lt;/ref&gt; Omaha repealed its ugly law in 1967. Columbus withdrew its in 1972. Chicago was the last to repeal its ugly law in 1974.&lt;ref&gt;{{cite web|url=http://www.ncld-youth.info/index.php?id=61 |title=Disability History: Timeline |publisher=Ncld-youth.info |date=1939-07-04 |accessdate=2015-02-13}}&lt;/ref&gt;
+
+==Americans with Disabilities Act==
+The recantation of ugly laws preceded the passing of the [[Americans with Disabilities Act]] of 1990 where certain rights were granted to [[people with disabilities]]:
+
+&lt;blockquote&gt;Individuals with disabilities are a [[Discrete and insular minorities|discrete and insular minority]] who have been faced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the individual ability of such individuals to participate in, and contribute to, society.&lt;ref&gt;{{cite book|last1=Fredman|first1=Sandra|title=Discrimination Law|date=2011|publisher=Oxford University Press|location=Oxford|isbn=0199584427|page=96|edition=2nd}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+==See also==
+* [[Ableism]]
+* [[Lookism]]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Ugly law}}
+[[Category:Disability in law]]
+[[Category:Discrimination]]
+[[Category:History of San Francisco]]
+[[Category:History of the United States]]
+[[Category:History of Chicago]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,112 @@
+<?xml version="1.0"?><api><continue rvcontinue="20130917165539|573354065" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="2406648" pageid="2406648" ns="0" title="Violence Against Women Act"><revisions><rev timestamp="2013-10-16T02:29:42Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{About|United States federal law|other related topics|Outline of domestic violence}}
+{{Violence against women}}
+
+The '''Violence Against Women Act of 1994''' ('''VAWA''') is a [[United States federal law]] (Title IV, sec. 40001-40703 of the [[Violent Crime Control and Law Enforcement Act of 1994]], {{USBill|103|hr|3355}}) signed as {{USPL|103|322}} by [[US President|President]] [[Bill Clinton]] on September 13, 1994. The Act provides $1.6 billion toward investigation and prosecution of violent crimes against women, imposes automatic and mandatory restitution on those convicted, and allows civil redress in cases prosecutors chose to leave un-prosecuted. The Act also establishes the [[Office on Violence Against Women]] within the [[United States Department of Justice|Department of Justice]]. Its coverage extends to male victims of domestic violence, dating violence, sexual assault, and stalking.&lt;ref name = "VAW2005(3)(b)(8)" &gt;{{cite act |title=Violence Against Women and Department of Justice Re-authorization Act of 2005|number=H. R. 3402|language=English|date=January 5, 2006|article=Sec.(3)(b)(8)|url=http://www.gpo.gov/fdsys/pkg/BILLS-109hr3402enr/pdf/BILLS-109hr3402enr.pdf|accessdate=February 12, 2013}}"NON-EXCLUSIVITY. —Nothing in this title shall be construed to prohibit male victims of domestic violence, dating violence, sexual assault, and stalking from receiving benefits and services under this title."&lt;/ref&gt;
+
+VAWA was drafted by the office of [[U.S. Senator|Senator]] [[Joe Biden]] ([[Democratic Party (United States)|D]]-[[Delaware|DE]]), with support from a broad coalition of advocacy groups. The Act passed through [[U.S. Congress|Congress]] with bipartisan support in 1994, clearing the [[United States House of Representatives]] by a vote of 235&amp;ndash;195 and the [[United States Senate|Senate]] by a vote of 61&amp;ndash;38, although the following year House [[Republican Party (United States)|Republicans]] attempted to cut the Act's funding.&lt;ref name="wp-funding"&gt;{{cite news | work = [[Washington Post]] | title = House GOP Budget Cutters Try to Limit Domestic Violence Programs | url = http://pqasb.pqarchiver.com/washingtonpost/access/18605326.html?dids=18605326:18605326&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Jul+15%2C+1995&amp;author=Kenneth+J.+Cooper&amp;pub=The+Washington+Post+%28pre-1997+Fulltext%29&amp;desc=House+GOP+Budget+Cutters+Try+to+Limit+Domestic+Violence+Programs | first = Kenneth | last = Cooper | accessdate = April 19, 2012 | date = July 15, 1995}}&lt;/ref&gt; In the 2000 [[United States Supreme Court|Supreme Court]] case ''[[United States v. Morrison]]'', a sharply divided Court struck down the VAWA provision allowing women the right to sue their attackers in federal court. By a 5&amp;ndash;4 majority, the Court overturned the provision as an intrusion on [[states' rights]].&lt;ref name="cnn-scotus"&gt;{{cite news | publisher = [[CNN]] | title = Supreme Court strikes down Violence Against Women Act | url = http://articles.cnn.com/2000-05-15/justice/scotus.violence_1_supreme-court-strikes-christy-brzonkala-civilized-system?_s=PM:LAW | first = Charles | last = Bierbauer | date = May 18, 2000 | accessdate = April 19, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news | work = [[New York Times]] | first = Linda | last = Greenhouse | authorlink = Linda Greenhouse | title = Women lose right to sue attackers in federal court | url = http://www.nytimes.com/2000/05/16/us/supreme-court-court-federalism-women-lose-right-sue-attackers-federal-court.html | date = May 16, 2000 | accessdate=April 19, 2012}}&lt;/ref&gt;
+
+VAWA was reauthorized by Congress in 2000, and again in December 2005.&lt;ref&gt;{{cite press release|date=January 5, 2006|title=President Signs H.R. 3402, the "Violence Against Women and Department of Justice Re-Authorization Act of 2005" |url=http://georgewbush-whitehouse.archives.gov/news/releases/2006/01/20060105-3.html |publisher=George W. Bush White House archives}}&lt;/ref&gt; The Act's 2012 renewal was opposed by [[conservatism in the United States|conservative]] Republicans, who objected to extending the Act's protections to [[same-sex relationship|same-sex couples]] and to provisions allowing battered undocumented individuals to claim [[visa (document)|temporary visas]], also known as U- Visas.&lt;ref name="vawa-2012"&gt;{{cite news | work = New York Times | title = Women Figure Anew in Senate’s Latest Battle | accessdate = April 19, 2012 | date = March 14, 2012 | first = Jonathan | last = Weisman | url = http://www.nytimes.com/2012/03/15/us/politics/violence-against-women-act-divides-senate.html}}&lt;/ref&gt; In April 2012, the Senate voted to reauthorize the Violence Against Women Act, and the House subsequently passed its own measure (omitting provisions of the Senate bill that would protect gays, Native Americans living in reservations, and undocumented individuals who are victims of domestic violence). Reconciliation of the two bills was stymied by procedural measures, leaving the re-authorization in question.&lt;ref&gt;{{cite news | work = New York Times | first = Jennifer | last = Steinhauer | title = THE CAUCUS; G.O.P. Push on Domestic Violence Act | url = http://nyti.ms/ThdlgP | date = July 31, 2012 | accessdate=October 13, 2012}}&lt;/ref&gt; The Senate's 2012 re-authorization of VAWA was not brought up for a vote in the House.
+
+In February 2013, the Senate passed an extension of the Violence Against Women Act by a vote of 78-22,&lt;ref name="USAT021213"/&gt; and the House of Representatives passed it by a vote of 286-138, with unanimous Democratic support and 87 Republicans voting in the affirmative.&lt;ref&gt;{{cite web|title=House Reauthorizes Violence Against Women Act|url=http://www.npr.org/blogs/thetwo-way/2013/02/28/173150486/house-reauthorizes-violence-against-women-act|publisher=NPR|accessdate=28 February 2013}}&lt;/ref&gt; The extension was signed by President [[Barack Obama]].&lt;ref&gt;[http://www.cnn.com/2013/03/07/politics/obama-violence-against-women-act/]&lt;/ref&gt;
+
+==Background==
+The [[World Conference on Human Rights]], held in Vienna in 1993, and the [[Declaration on the Elimination of Violence Against Women]] in the same year, concluded that civil society and governments have acknowledged that domestic violence is a public health policy and [[human rights]] concern. 
+
+The Violence Against Women Act was developed and passed as a result of extensive grassroots efforts in the late 80's and early 1990s, with advocates and professionals from the battered women's movement, sexual assault advocates, victim services field, law enforcement agencies, prosecutors' offices, the courts, and the private bar urging Congress to adopt significant legislation to address domestic and sexual violence. Since its original passage in 1994, VAWA's focus has expanded from domestic violence and sexual assault to also include dating violence and stalking.  It funds services to protect female adult and teen victims of these crimes, and supports training on these issues, to ensure consistent responses across the country.  One of the greatest successes of VAWA is its emphasis on a coordinated community response to domestic violence, sex dating violence, sexual assault, and stalking of women; courts, law enforcement, prosecutors, victim services, and the private bar currently work together in a coordinated effort that had not heretofore existed on the state and local levels.  VAWA also supports the work of community-based organizations that are engaged in work to end domestic violence, dating violence, sexual assault, and stalking against women, particularly those groups that provide culturally and linguistically specific services. Additionally, VAWA provides specific support for work with tribes and tribal organizations to end domestic violence, dating violence, sexual assault, and stalking against Native American women.
+
+Many grant programs authorized in VAWA have been funded by the U.S. Congress.  The following grant programs, which are administered primarily through the [[Office on Violence Against Women]] in the U.S. Department of Justice have received appropriations from Congress:
+
+* STOP Grants (State Formula Grants)
+* Transitional Housing Grants
+* Grants to Encourage Arrest and Enforce Protection Orders
+* Court Training and Improvement Grants
+* Research on Violence Against Indian Women
+* National Tribal Sex Offender Registry
+* Stalker Reduction Database
+* Federal Victim Assistants
+* Sexual Assault Services Program
+* Services for Rural Victims
+* Civil Legal Assistance for Victims
+* Elder Abuse Grant Program
+* Protections and Services for Disabled Victims
+* Combating Abuse in Public Housing
+* National Resource Center on Workplace Responses
+* Violence on College Campuses Grants
+* Safe Havens Project
+* Engaging Men and Youth in Prevention
+
+==Debate and legal standing==
+The [[American Civil Liberties Union]] had originally expressed concerns about the Act, saying that the increased penalties were rash, the increased pretrial detention was "repugnant" to the US Constitution, the mandatory HIV testing of those only charged but not convicted is an infringement of a citizen’s  [[right to privacy]] and the edict for automatic payment of full restitution was non-judicious (see their paper: "Analysis of Major Civil Liberties Abuses in the Crime Bill Conference Report as Passed by the House and the Senate", dated September 29, 1994).  However, the ACLU has supported reauthorization of VAWA on the condition that the "unconstitutional DNA provision" be removed.&lt;ref&gt;{{cite web|publisher=American Civil Liberties Union|url=https://secure.aclu.org/site/Advocacy?pagename=homepage&amp;id=251&amp;page=UserAction |title=Tell Congress to Support the Violence Against Women Act|archiveurl=http://web.archive.org/web/20051116000141/https://secure.aclu.org/site/Advocacy?pagename=homepage&amp;id=251&amp;page=UserAction|archivedate=2006-11-06}}&lt;/ref&gt;  
+
+The ACLU, in their July 27, 2005 'Letter to the Senate Judiciary Committee Regarding the Violence Against Women Act of 2005, S. 1197' stated that "VAWA is one of the most effective pieces of legislation enacted to end domestic violence, dating violence, sexual assault, and stalking. It has dramatically improved the law enforcement response to violence against women and has provided critical services necessary to support women in their struggle to overcome abusive situations."&lt;ref&gt;{{cite web|title=ACLU Letter to the Senate Judiciary Committee Regarding the Violence Against Women Act of 2005, S. 1197|publisher=ACLU|date=July 27, 2005|url=http://www.aclu.org/womensrights/violence/19921leg20050727.html}}&lt;/ref&gt;
+
+Some activists oppose the bill. A spokeswoman for [[Concerned Women for America]] called the Act a "boondoggle" which "creates an ideology that all men are guilty and all women are victims." Conservative activist [[Phyllis Schlafly]] denounced VAWA as a tool to "fill feminist coffers" and argued that the Act promoted "divorce, breakup of marriage and [[misandry|hatred of men]]."&lt;ref name="vawa-2012"/&gt;  
+
+In 2000 the [[Supreme Court of the United States]] held part of VAWA unconstitutional in ''[[United States v. Morrison]]'' on federalism grounds.  Only the civil rights remedy of VAWA was struck down.  The provisions providing program funding were unaffected.&lt;ref&gt;[http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&amp;vol=529&amp;invol=598 United States v. Morrison], 529 U.S. 598, 627;  "For these reasons, we conclude that Congress' power under § 5 does not extend to the enactment of § 13981.... The judgment of the Court of Appeals is Affirmed." (at end of opinion section III)&lt;/ref&gt;
+
+In 2011 the law expired.&lt;ref name = USAT021213 /&gt; In 2012 the law was up for reauthorization in Congress.&lt;ref&gt;{{cite news|last=Bolduan|first=Kate|title=House passes GOP version of Violence Against Women Act renewal|newspaper=CNN|location=Washington|date=16 May 2012| url=http://www.cnn.com/2012/05/16/politics/gop-violence-against-women/index.html}}&lt;/ref&gt; Different versions of the legislation have been passed along party lines in the Senate and House, with the Republican-sponsored House version favoring the reduction of services to undocumented immigrants and LGBT individuals. Another area of contention is giving Native American tribal authorities jurisdiction over sex crimes involving non-native Americans on tribal lands. This is considered to have constitutional implications as non-tribes people are under the jurisdiction of the United States federal government and granted the protections of the US Constitution, protections that tribal courts do not often have. The two bills were pending [[Reconciliation (United States Congress)|reconciliation]], and a final bill did not reach the President's desk before the end of the year, ending the Act after 18 years as the 112th Congress.
+
+== 2013 Reauthorization ==
+[[File:S 47 - Violence Against Women Reauthorization Act of 2013 - Senate Vote.svg|thumb|400px|right|Senate vote on '''Violence Against Women Reauthorization Act of 2013'''
+{{legend|#000080|Both yes}}
+{{legend|#D42AFF|One yes, one no}}
+{{legend|#800000|Both no}}]]
+In 2013, the question of jurisdiction over offenses in Indian country continued to be at issue over the question of whether defendants who are not tribal members would be treated fairly by [[tribal court]]s or afforded constitutional guarantees.&lt;ref name=NYT021013&gt;{{cite news|title=Measure to Protect Women Stuck on Tribal Land Issue|url=http://www.nytimes.com/2013/02/11/us/politics/violence-against-women-act-held-up-by-tribal-land-issue.html|accessdate=February 10, 2013|newspaper=The New York Times|date=February 10, 2013|author=Jonathan Weisman|quote=If a Native American is raped or assaulted by a non-Indian, she must plead for justice to already overburdened United States attorneys who are often hundreds of miles away.}}&lt;/ref&gt;
+
+On February 11, 2013, The Senate passed an extension of the Violence Against Women Act by a vote of 78-22. The measure went to the House of Representatives where jurisdiction of tribal courts and inclusion of same-sex couples were expected to be at issue.&lt;ref name=NYT011213&gt;{{cite news|title=Senate Votes Overwhelmingly to Expand Domestic Violence Act|url=http://www.nytimes.com/2013/02/13/us/politics/senate-votes-to-expand-domestic-violence-act.html|accessdate=February 13, 2013|newspaper=The New York Times|date=February 12, 2013|author=Jonathan Weisman}}&lt;/ref&gt; Possible solutions advanced were permitting either [[Removal jurisdiction|removal]] or [[appeal]] to federal courts by non-tribal defendants.&lt;ref name = USAT021213 &gt;{{cite web|title=Senate votes to reauthorize Violence Against Women Act|url=http://www.usatoday.com/story/news/politics/2013/02/12/violence-against-women-act-senate-vote/1913739/|publisher=USA Today|accessdate=12 February 2013}}&lt;/ref&gt; The Senate had tacked on the [[Victims of Trafficking and Violence Protection Act of 2000|Trafficking Victims Protection Act]] which is another bone of contention due to a clause which requires provision of [[reproductive health services]] to victims of sex trafficking.&lt;ref name=NYT021513&gt;{{cite news|title=Renew the Violence Against Women Act|url=http://www.nytimes.com/2013/02/16/opinion/renew-the-violence-against-women-act.html|accessdate=February 16, 2013|newspaper=The New York Times|date=February 15, 2013|author=Editors, ''The New York Times''|format=editorial|quote=What should be an uncontroversial bill has been held up by Republicans over the Obama administration’s proper insistence that contractors under the act afford victims access to a full range of reproductive health services.}}&lt;/ref&gt;
+
+[[File:S 47 - Violence Against Women Reauthorization Act of 2013 - House of Representatives vote.svg|thumb|400px|right|House vote on '''Violence Against Women Reauthorization Act of 2013'''
+{{legend|#000080|Democratic aye}}
+{{legend|#FF5050|Republican aye}}
+{{legend|#C8C8C8|Abstention or no representative seated}}
+{{legend|#800000|Republican no}}]]
+ 
+On February 28, 2013, in a 286 to 138 vote, the House passed the Senate's all-inclusive version of the bill.  House Republicans had previously hoped to pass their own version of the measure — one that substantially weakened the bill's protections for certain categories. The stripped down version, which allowed only limited protection for LGBT and Native Americans, was rejected 257 to 166.&lt;ref&gt;{{cite web|title=VAWA victory shows that House GOP needs Democrats |url=http://www.washingtonpost.com/blogs/plum-line/wp/2013/02/28/vawa-victory-shows-that-house-gop-needs-democrats |publisher=The Washington Post|accessdate=28 February 2013}}&lt;/ref&gt; The renewed act expanded federal protections to gays, lesbians and [[transgender]] individuals, Native Americans and immigrants.&lt;ref&gt;{{cite web|title=Congress sends Violence Against Women Act to Obama|url=http://www.usatoday.com/story/news/politics/2013/02/28/violence-against-women-congress-obama/1953527/?csp=breakingnews|publisher=USA Today|accessdate=28 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=LeTrent |first=Sarah|title=Violence Against Women Act shines a light on same-sex abuse|url=http://www.cnn.com/2013/03/14/living/same-sex-domestic-violence-and-vawa|accessdate=May 2, 2013|date=March 14, 2013}}&lt;/ref&gt; 
+
+==Conference of Catholic Bishops==
+
+The [[United States Conference of Catholic Bishops|US Conference of Catholic Bishops]] opposed the act because it addressed the categories "sexual orientation" and "gender identity".&lt;ref&gt;{{cite news|title=USCCB Committees Express Concerns Over Domestic Violence Legislation|url=http://www.usccb.org/news/2013/13-046.cfm|accessdate=May 2, 2013|newspaper=United States Conference of Catholic Bishops|date=March 6, 2013}}&lt;/ref&gt;
+
+==After passage==
+
+More than 130 House Republicans voted against the act.  However, several of them, including [[Steve King]] (R-Iowa), [[Bill Johnson (Ohio politician)|Bill Johnson]] (R-Ohio), [[Tim Walberg]] (R-Michigan), [[Vicky Hartzler]] (R-Missouri), [[Keith Rothfus]] (R-Pennsylvania), and [[Timothy F. Murphy|Tim Murphy]] (R-Pennsylvania), later claimed to have voted in favor of the act.&lt;ref&gt;{{cite web|title=Violence Against Women Act Now Touted By Republicans Who Voted Against Bill|url=http://www.huffingtonpost.com/2013/03/07/violence-against-women-act_n_2832014.html|publisher=Huffington Post|accessdate=17 September 2013}}&lt;/ref&gt;
+
+On September 12, 2013 at an event marking the 19th anniversary of the bill, Vice President [[Joe Biden]] criticized the Republicans who slowed the passage of the reauthorization of the act as being "this sort of Neanderthal crowd".&lt;ref&gt;{{cite web|title=Biden: 'Neanderthal crowd' slowed VAWA renewal|url=http://www.politico.com/politico44/2013/09/biden-neanderthal-crowd-slowed-vawa-renewal-172549.html|publisher=Politico|accessdate=17 September 2013}}&lt;/ref&gt;    
+
+==Programs and services==
+The Violence Against Women laws provide programs and services, including:
+* Federal [[rape shield law]].&lt;ref&gt;[http://www.whitehouse.gov/sites/default/files/docs/vawa_factsheet.pdf Factsheet: The Violence Against Women Act] from The [[White House]].&lt;/ref&gt;
+* Community violence prevention programs
+* Protections for victims who are evicted from their homes because of events related to domestic violence or stalking
+* Funding for victim assistance services, like rape crisis centers and hotlines
+* Programs to meet the needs of immigrant women and women of different races or ethnicities
+* Programs and services for victims with disabilities
+* Legal aid for survivors of domestic violence
+
+==See also==
+*[[Domestic violence]]
+*[[International Violence Against Women Act]]
+*[[Office on Violence Against Women]]
+*[[Violence against women]]
+*[[Violence against men]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_cong_bills&amp;docid=f:h3402enr.txt.pdf Violence Against Women Act]
+*[http://www.ovw.usdoj.gov Office on Violence Against Women]
+*[http://www.epic.org/privacy/dv/vawa.html Privacy Provisions of the Violence Against Women Act]
+*[http://www.who.int/gender/violence/who_multicountry_study/en/ World Health Organization Multi-country Study on Women's Health and Domestic Violence against Women 2005]
+*[http://nnedv.org/docs/Policy/VAWA2005FactSheet.pdf VAWA 2005 Fact Sheet]
+*[http://denisedv.org/what-is-the-violence-against-women-act-and-why-is-congress-playing-politics/ What is the Violence Against Women Act, and why is Congress playing politics?]
+*[http://www.washingtonpost.com/blogs/wonkblog/wp/2013/01/25/the-violence-against-women-act-is-on-life-support/The Violence against Women Act is on Life Support]
+
+[[Category:1994 in law]]
+[[Category:United States federal criminal legislation]]
+[[Category:Joe Biden]]
+[[Category:Violence against women in the United States]]
+[[Category:1994 in the United States]]
+[[Category:Women's rights legislation]]
+[[Category:Women's rights in the United States]]
+[[Category:113th United States Congress]]</rev></revisions></page></pages></query></api>

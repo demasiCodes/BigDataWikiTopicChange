@@ -1,0 +1,12 @@
+<?xml version="1.0"?><api><continue rvcontinue="20110505222017|427658746" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="990353" pageid="990353" ns="0" title="Polyculturalism"><revisions><rev timestamp="2011-07-19T06:15:48Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Notability|date=July 2011}}"'''Polyculturalism'''" is a term for an assertion that all of the world's [[culture]]s are inter-related. It is thus opposed to the concept of [[multiculturalism]], which its supporters argue is divisive. Polyculturalism was the subject of the 2001 book ''Everybody Was Kung Fu Fighting: Afro-Asian Connections and the Myth of Cultural Purity'' by [[Vijay Prashad]].
+
+==External links==
+* [http://www.zmag.org/znet/viewArticle/10125 Justin Podur: Revolutionizing Culture ]
+
+{{Culture-stub}}
+
+[[Category:Culture]]
+[[Category:Multiculturalism]]
+
+[[it:Policulturalismo]]
+[[ru:Поликультурализм]]</rev></revisions></page></pages></query></api>

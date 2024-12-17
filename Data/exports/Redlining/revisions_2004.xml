@@ -1,0 +1,15 @@
+<?xml version="1.0"?><api><continue rvcontinue="20040909071336|6948393" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="60562" pageid="60562" ns="0" title="Redlining"><revisions><rev timestamp="2004-10-29T03:38:06Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">:''Redlining also refers to operating an engine in the [[redline]].''
+----
+
+'''Redlining''' is the practice of denying or increasing the cost of services, such as [[banking]] or 
+[[insurance]], to residents of certain areas.  In the [[United States]], the practice is illegal when the
+criteria are based on race, religion, or ethnic origin. The US Government has imposed regulations that require all banks to provide a map to anyone who asks showing the locations of home loans they have made (so that individuals can help ensure that redlining is not taking place). The term "redlining" comes from the practice of actually marking red lines on a map, which banks would do in order to delineate areas they did not want to lend to.
+
+==See also==
+*[[Racial discrimination]]
+*[[Racism]]
+*[[Urban renewal]]
+
+{{stub}}
+
+[[Category:Civil Rights]]</rev></revisions></page></pages></query></api>

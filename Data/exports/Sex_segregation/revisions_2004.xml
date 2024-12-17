@@ -1,0 +1,7 @@
+<?xml version="1.0"?><api><continue rvcontinue="20040813131125|5947324" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="597792" pageid="597792" ns="0" title="Sex segregation"><revisions><rev timestamp="2004-09-17T16:09:56Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Sex segregation''' is the separation, or [[segregation]], of people according to [[sex]] or [[gender]]. [[Toilet#Public_toilets|Public bathroom]]s, public [[shower]]s, [[dorm]]itories, and other areas are often sex segregated. Entrances and worship areas of some [[Islam]]ic [[mosque]]s are sex segregated. [[Sex education]] in [[public school]]s is often sex segregated. [[Private school]]s are sometimes entirely sex segregated or contain an entirely sex segregated student body.
+
+On the [[Cairo metro]], the first car of each train is reserved for women.
+
+See: [[sexism]].
+
+{{stub}}</rev></revisions></page></pages></query></api>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041026212450|7341617" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="167703" pageid="167703" ns="0" title="Empowerment"><revisions><rev timestamp="2004-11-11T15:24:04Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Empowerment''' refers to increasing the [[political]], [[social]] or [[economic]] strength of individuals. 
+
+Many times empowerment refers to members of groups that have been excluded from the decision-making process through social discrimination - for example, through discrimination based on [[race]], [[ethnicity]], [[religion]], [[gender]] etc. 
+
+In [[economic development]], it is an approach based on mobilizing the self-help efforts of the poor, rather than providing them with [[social welfare]]. In the sphere of management and organizations, empowerment has often been used to describe processes for giving workers greater discretion and resources in order to better serve customers and the interests of organizations they work for. This use of the word is somewhat at odds with other usage, which most often assumes groups and individuals are empowered to better serve their own interests.
+
+Empowerment is building [[confidence]] on the capacities within individuals.
+
+{{stub}}</rev></revisions></page></pages></query></api>

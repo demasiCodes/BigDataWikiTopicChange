@@ -1,0 +1,37 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041107023926|7202261" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="245632" pageid="245632" ns="0" title="Clan"><revisions><rev timestamp="2004-11-07T23:52:51Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">''See also [[Clan (computer gaming)]]''
+
+A '''clan''' is a group of people united by [[kinship and descent]].  Generally a clan is quite large. Members of a clan share an [[apical ancestor]] several generations back (i.e., they share the same great grandparents, great-great grandparents, or an even more distant ancestor).  Kin groups who only share the same grandparents are generally called extended [[family|families]], not clans.  Some clans are so large and so old that they merely share a "stipulated" common ancestor; that is, the clan has no evidence of the ancestor, and he or she may be fictional, merely a symbol of the clan's unity.  In certain societies this ancestor is not even human; he or she is an animallian [[totem]].
+
+Some clans are [[patrilineality|patrilineal]], meaning its members are related through the male line.  Others are [[matrilineality|matrilineal]]; its members are related through the female line.  Still other clans are ''bilateral'', consisting of all the descendents of the apical ancestor through both the male and female lines; the clans of [[Scotland]] are one example.  Whether a clan is patrilineal, matrilineal, or bilateral depends on the kinship rules of the culture in which the clan lives.
+
+In different cultures and situations a clan may mean the same thing as other kin-based groups such as [[tribe]]s and [[band society|bands]].   Often, however, the distinguishing factor is that a clan is a smaller part of a larger [[society]] such as a tribe, a [[chiefdom]], or a [[state]].  Examples include [[Scottish clan|Scottish]], [[Consort clan|Chinese]] and [[Japanese clans]], which exist as kin groups within Scottish, Chinese, and Japanese society, respectively.  Note that tribes and bands can also be components of larger societies; Arab tribes are small groups within Arab society, and Ojibwa bands are smaller parts of the Ojibwa tribe.
+
+However, the [[Norse clans]], the ''ätter'', can not be translated with ''tribe'' or ''band'', and consequently they are often translated with ''house'' or ''line''.
+
+Most clans are [[exogamy|exogamous]], meaning that its members cannot marry one another.  Some clans have an official leader such as a [[chieftain]], [[matriarch]], or [[patriarch]].
+
+
+===China===
+*[[Chinese clan]]
+*[[Chinese family name]]
+*[[Consort clan]]
+
+The five main [[Han Chinese]] ''[[Punti]]'' clans in [[Hong Kong]] are:
+* [[Tang clan]], arrived in Hong Kong in [[1069]]
+* [[Hau clan]], arrived in the 12th century
+* [[Pang clan]], arrived in the 12th century
+* [[Man clan]], arrived in [[1307]]
+* [[Liu clan]], arrived in the 15th century
+
+===See also:===
+* [[tribe]]
+* [[Scottish clan]]s
+* [[Norse clans]]
+* [[Japanese clans]]
+* [[Manchu family name]]
+* [[Irish clans]]
+{{msg:stub}}
+
+[[Category:Kinship and descent]]
+
+[[da:Klan]]</rev></revisions></page></pages></query></api>

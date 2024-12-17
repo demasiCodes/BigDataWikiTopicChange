@@ -1,0 +1,35 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050812171817|20865152" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1316684" pageid="1316684" ns="0" title="Power distance"><revisions><rev timestamp="2005-08-24T07:49:19Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Power distance''' is a [[cultural index]] derived by [[sociologist]] [[Geert Hofstede]]. It measures how much a [[culture]] has [[respect]] for [[authority]]. The Arabic-speaking nations, Latin America, Russia, and nearly all of Asia (especially India and China) are high power distance. Most of Europe, Canada, Australia and Israel are low power distance. Japan and Mediterranean-Europe fall in the middle range.
+
+In a high power distance culture:
+* it's acceptable for a supervisor to display his authority
+* superiors rarely give their subordinates important work
+* if something goes wrong, the subordinates are usually blamed for not doing their proper job/role
+* managers rarely interact or socialize with workers
+* teachers are expected to teach patriotism
+* economic politics (corporation-labor relations, corporation-consumer relations, etc.) are prone to totalitarianism, generally overriding governmental politics
+* revolutions are, or were, common if the indocrination fails, but uncommon if it succeeds
+
+
+In a low power distance culture:
+* supervisors are expected to treat employees respectfully
+* subordinates may do important work, thus having the opportunity to get promoted quickly
+* if something goes wrong, the superior/authority figure is usually blamed by giving unrealistic expectations or being too strict
+* managers socialize and interact with workers more often
+* teachers are simply employees
+* totalitarianism and revolutions are rare
+
+==See also==
+
+*[[Face (social custom)]]
+*[[Political Philosophy]]
+*[[Power (sociology)]]
+*[[Authority]]
+*[[Authoritarianism]]
+*[[Liberty]]
+*[[Freedom]]
+*[[Freedom (political)]]
+*[[Collectivist and Individualist cultures]]
+
+[[Category:Social psychology]]
+[[Category:Social philosophy]]
+[[Category:Political philosophy]]</rev></revisions></page></pages></query></api>

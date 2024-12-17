@@ -1,0 +1,54 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081111004636|250998310" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2008-11-14T16:30:12Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{for|other senses of this word}}
+{{selfref|For Wikipedia's policy on avoiding bias, see [[Wikipedia:Neutral point of view]].}}
+'''Bias''' is a term used to describe a [[tendency]] or [[preference]] towards a particular [[perspective (cognitive)|perspective]], [[ideology]] or result, especially when the tendency interferes with the ability to be [[impartial]], unprejudiced, or [[Objectivity (science)|objective]].&lt;ref&gt;http://dictionary.reference.com/browse/bias Dictionary.com&lt;/ref&gt;  The term '''biased''' is used to describe an action, judgment, or other outcome influenced by a prejudged perspective. It is also used to refer to a person or body of people whose actions or judgments exhibit bias.
+
+
+==Psychology of bias==
+
+In psychology, [[cognitive bias]] is bias based on [[cognitive]] factors.  One type of cognitive bias is [[confirmation bias]], the tendency to interpret new information in such a way that confirms one's prior beliefs, even to the extreme of [[denial]], ignoring information that conflicts with one's prior beliefs.  The [[fundamental attribution error]], also known as [[correspondence bias]], is one example of such bias, in which people tend to explain others' behavior in terms of personality, whereas they tend to explain their own behavior in terms of the situation.
+
+&lt;ref&gt;http://allpsych.com/psychology101/attribution_attraction.html AllPsych.com&lt;/ref&gt;&lt;ref&gt;http://www.britannica.com/EBchecked/topic/222156/fundamental-attribution-error Britannica.com&lt;/ref&gt;
+
+==Forms of biases==
+*[[Cultural bias|Cultural]]: interpreting and judging phenomena in terms particular to one's own culture.
+*[[Ethnicity|Ethnic]] or [[racism|racial]]: [[racism]], [[nationalism]], [[regionalism (politics)|regionalism]] and [[tribalism]].
+*[[WP:CSB|Geographical]]:  describing a dispute as it is conducted in one country, when the dispute is framed differently elsewhere.
+*[[Inductive bias|Inductive]]
+*[[Media bias|Media]]: real or perceived bias of [[journalist]]s and [[news]] producers within the [[mass media]], in the selection of which events will be reported and how they are covered
+*[[Gender]]: including [[sexism]] and [[heteronormativity]].
+*[[Linguistic]]: bias, favoring certain languages
+*[[Political]]:  bias in favor of or against a particular political party, philosophy, policy or candidate. 
+*[[Corporate]]:  bias in favor of a business.
+*[[Advertising]]:  bias with observations motivated for selling an opinion rather than using objectivity.
+*[[Sociological]]:  bias in favor of a society's ideals. bias for groups needs/wants.
+*[[Entertainment]]: bias in favor of entertaining an audience
+*[[Personal]]: bias for personal gain.
+*[[Religion|Religious]]:  bias for or against religion, faith or beliefs;  
+*[[Sensationalism|Sensationalist]]: favoring the exceptional over the ordinary. This includes emphasizing, distorting, or fabricating exceptional news to boost commercial ratings.
+*[[Scientific]] (including [[antiscience|anti-scientific]] and [[scientific skepticism]]): favoring (or disfavoring) a scientist, inventor, or theory for non-scientific reasons. This can also include excessive favoring (or disfavoring) prevalent scientific opinion, if in doing so, not able viewpoints are no longer being treated neutrally.
+
+==See also==
+*[[Bias (textile)]]
+*[[List of cognitive biases]]
+*[[Scholarly method]]
+*[[Source criticism]]
+*[[Weasel word]]
+
+==References==
+{{reflist}}
+
+{{wikiquote}}
+[[Category:Bias|*]]
+[[Category:Psychological attitude]]
+
+[[ar:انحياز]]
+[[da:Bias (psykologi)]]
+[[de:Bias]]
+[[es:sesgo]]
+[[he:נטאי]]
+[[no:Bias]]
+[[pt:Viés]]
+[[simple:Bias]]
+[[sr:Биас]]
+[[sv:Metodfel]]
+[[tr:Ön yargı]]</rev></revisions></page></pages></query></api>

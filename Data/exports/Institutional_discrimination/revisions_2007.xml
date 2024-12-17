@@ -1,0 +1,18 @@
+<?xml version="1.0"?><api><continue rvcontinue="20070812023609|150693843" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="4751083" pageid="4751083" ns="0" title="Institutional discrimination"><revisions><rev timestamp="2007-10-01T15:37:02Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Cleanup|date=April 2006}}
+
+'''Institutionalized discrimination''' is discrimination which has long been accepted as normal governmental operating procedures, laws, or objectives.
+
+Examples of institutionalized discrimination include, laws and decisions that reflect racism, such as the [[Plessy vs. Ferguson]] supreme court case, which ruled in favor of separate but equal public facilities between African Americans and non-African Americans. This ruling was struck down by the [[Brown vs. Board of Education]] Supreme Court decision.
+
+Laws that refuse equal legal rights solely based on race, gender, ethnicity, religion, or sexual orientation. These equal legal rights may encompass all areas of societal function, from the right to marry to the right to be treated equally by employers.
+
+A UK example:
+A member of a trade union making a complaint of workplace harassment against a fellow employee and member of the same union is not entitled to union advice and assistance, irrespective of the merit of the case, because the employee complained against could lose his/her job. In the [http://www.legalferret.net Weaver v NATFHE (now part of UCU)] race discrimination case, the Tribunal decided that the union’s principal obligation in race harassment cases is to protect the tenure of the accused employee. The Employment Appeal Tribunal upheld the decision and extended the decision to cover complaints of sexist harassment. Also known as the Bournville College Racial Harassment Issue
+
+[[Category:Discrimination]]
+
+
+{{humanrights-stub}}
+
+[[de:Institutionelle Diskriminierung]]
+[[nl:Geïnstitutionaliseerde discriminatie]]</rev></revisions></page></pages></query></api>

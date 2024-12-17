@@ -1,0 +1,275 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081113044952|251496745" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="22648231" pageid="22648231" ns="0" title="Ageism"><revisions><rev timestamp="2008-11-13T04:58:21Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Wikify|date=June 2008}}
+{{Discrimination sidebar}}{{wiktionarypar|ageism}}
+
+'''Ageism''' is [[stereotyping]] and [[prejudice]] against individuals or groups because of their age.&lt;ref&gt;{{cite book |last=Nelson|first=T. (Ed.)|year=2002|title=Ageism: Stereotyping and Prejudice against Older Persons|publisher=[[MIT Press]]|id=ISBN 978-0-262-64057-2}}&lt;/ref&gt;
+The term was coined in 1969 by US [[gerontology|gerontologist]] [[Robert Neil Butler|Robert N. Butler ]] to describe discrimination against [[Old age|seniors]] and patterned on [[sexism]] and [[racism]].&lt;ref&gt;Kramarae, C.  and Spender, D. (2000) ''Routledge International Encyclopedia of Women: Global Women's Issues and Knowledge.'' Routledge. p. 29.&lt;/ref&gt;
+
+Butler defined ageism as a combination of three connected elements.  These were:
+
+* prejudicial attitudes towards older people, old age and the ageing process
+* discriminatory practices against older people
+* institutional practices and policies that perpetuate stereotypes about older people.&lt;ref&gt;Wilkinson J and Ferraro K, Thirty Years of Ageism Research.  In Nelson T (ed).  Ageism: Stereotyping and Prejudice Against Older Persons.  Massachusetts Institute of Technology, 2002&lt;/ref&gt;
+
+The term has also been used to describe discrimination against [[teens]] and [[children]], by ignoring their ideas because they are young or by assuming that they should behave a certain way because of their age. ref: [http://www.youthrights.org/oppressed.php]
+
+==Forms of ageism==
+{{Original research|date=June 2008}} {{Inappropriate person|date=June 2008}}
+Ageism is sometimes completely in the open.  People use offensive language about older people when equivalent descriptions of [[minority]] [[ethnic groups]] or [[disabled people]] are socially unacceptable.  Many people also express derogatory views about older people which either have no factual basis or are gross generalizations. It can also be hidden – either where people disguise their ageism or where it is subconscious and they are not aware of it themselves.  In [[Freakonomics]], [[Stephen Levitt]]’s surprise hit of 2005, the study of hidden (or ‘implicit’) ageism was brought out of the psychologist’s laboratory and into the TV studio.  Levitt described how, in the US version of the [[Weakest Link]], contestants’ voting decisions were, on average, biased against older panelists. At the stage of the game where it is in participants’ interests to vote for poor performers older people were likely to be chosen even when younger adults had performed worse. But when contestants would benefit by choosing top performing rivals (to eliminate the competition) they tended to choose lower-performing older contestants. Subconsciously the panelists simply did not want to be around older people.&lt;ref&gt;Levitt S and Dubner S, Freakonomics, Penguin, 2005, pp 77-79&lt;/ref&gt;
+
+‘'''Ageism'''’ consists of the [[stereotypes]] and prejudices people hold about people of different ages (whether open or hidden).  The practices that result from these attitudes, at both personal and institutional level, are described as ‘'''age discrimination’'''.  So, ageism refers to beliefs and attitudes; age discrimination is about actions.
+
+Ageist '''stereotyping''' is a tool of cognition which involves categorizing into groups and attributing characteristics to these groups.  Stereotypes are necessary for processing huge volumes of information, which would otherwise overload us, and they are often based on a ‘grain of truth’ (for example the association between aging and ill-health).  However they cause harm when the content of the stereotype is incorrect with respect to most of the group; or where a stereotype is so strongly held that it overrides evidence which shows that an individual does not conform to it.  Stereotypes are used to interpret the world around us.  For example age-based stereotypes prime us to draw very different conclusions when we see an older and a younger adult with, say, back pain or a limp.  We might well assume that the younger person’s condition was temporary and treatable, following an accident; while the older person’s condition was chronic and less susceptible to intervention.  On average this might be true, but plenty of older people have accidents and recover quickly.  This assumption may have no consequence if we make it in the blink of an eye as we are passing someone in the street; but if it is held by a health professionals offering treatment, or managers thinking about occupational health, it could inappropriately influence their actions and lead to age-related discrimination. 
+
+Ageist '''prejudice''' is a type of emotion which is often linked to the cognitive process of stereotyping. It can involve the expression of derogatory attitudes, which may then lead to the use of discriminatory behavior.  The example of the Weakest Link helps to explain the difference between stereotyping and prejudice.  Where older contestants were rejected in the belief that they were poor performers this could well be the result of stereotyping.  But older people were also voted for at the stage in the game where it made sense to target the best performers.  This can only be explained by a subconscious emotional reaction to older people; in this case the prejudice took the form of distaste and a desire to exclude oneself from the company of older people. 
+
+Stereotyping and prejudice against different groups in society does not take the same form.  Age-based prejudice and stereotyping usually involves older people being pitied, marginalized or patronized.  This is described as ‘'''benevolent prejudice’''' because the tendency to pity is linked to seeing older people as ‘friendly’ but ‘incompetent’.  This is similar to the prejudice most often directed against women and disabled people.  Age Concern’s survey revealed strong evidence of ‘benevolent prejudice’.  48% said that over-70s are viewed as friendly (compared to 27% who said the same about under-30s).  Meanwhile only 26% believe over-70s are viewed as capable (with 41% saying the same about under-30s). 
+
+‘'''Hostile prejudice'''’ based on hatred, fear or threat (which often characterizes attitudes linked to race, [[Religion and sexuality|religion and sexual orientation]]) is less common with respect to age issues.  But there are examples, including excessive rhetoric regarding inter-generational competition, and violence against vulnerable older people, which can be motivated by sub-conscious hostility or fear.  Equality campaigners are often wary of drawing comparisons between different forms of inequality.  But it is unquestionably true that abuse and neglect experienced by vulnerable older people (which is closely linked to hostile prejudice) kills more people each year than the shocking but relatively isolated cases of public violence motivated by race, religion or sexual orientation. 
+
+The impact of ‘benevolent’ and ‘hostile’ prejudice can be equally severe but tends to be different.  The warmth felt towards older people means there is often public acceptance that they are deserving of preferential treatment – for example concessionary travel.  But the perception of incompetence means older people can be seen as ‘not up to the job’ or ‘a menace on the roads’, when there is no evidence to support this.  Benevolent prejudice also leads to assumptions that it is ‘natural’ for older people to have lower expectations, reduced choice and control, and less account taken of their views.
+
+==Effects==
+
+Ageism commonly and most likely refers towards negative discriminatory practices, regardless of the age towards which it is applied. The following terms are subsidiary forms of ageism:
+*[[Adultism]] is a predisposition towards adults, which is seen as biased against children, youth, and all young people who aren't addressed or viewed as adults.&lt;ref&gt;Lauter And Howe (1971) ''Conspiracy of the Young.'' Meridian Press.&lt;/ref&gt;
+*Jeunism is the tendency to prefer young people over older people. This includes political candidacies, commercial functions, and cultural settings where the supposed greater vitality and/or [[Human physical appearance|physical beauty]] of youth is more appreciated than the supposed greater moral and/or [[Rigour|intellectual rigor]] of adulthood.
+*[[Adultcentricism]] is the "exaggerated [[egocentrism]] of [[adults]].&lt;ref&gt;De Martelaer, K., De Knop, P., Theeboom, M., and Van Heddegem, L. (2000) "The UN Convention as a Basis for Elaborating Rights of Children In Sport," ''Journal of Leisurability. 27''(2), pp. 3-10.&lt;/ref&gt;
+*[[Adultocracy]] is the [[Convention (norm)|social convention]] which defines "maturity" and "immaturity," placing adults in a dominant position over [[youth|young people]], both theoretically and practically.&lt;ref&gt;(n.d.) [http://www.zmag.org/0009.htm Youth Liberation] ''Z'' magazine.&lt;/ref&gt;
+*[[Gerontocracy]] is a form of oligarchical rule in which an entity is ruled by leaders who are significantly older than most of the adult population.
+*[[Chronocentrism]] is primarily the belief that a certain state of humanity is superior to all previous and/or former times.
+
+Ageism is said to lead towards the development of fears towards age groups, particularly:
+*[[Pedophobia]], the fear of infants and children
+*[[Ephebiphobia]], the fear of youth.&lt;ref&gt;Fletcher, A. (2006) ''Washington Youth Voice Handbook.'' CommonAction.&lt;/ref&gt;
+*[[Gerontophobia]], the fear of elderly people.&lt;ref&gt;Branch, L., Harris, D. &amp; Palmore, E.B. (2005) ''Encyclopedia of Ageism.'' Haworth Press. ISBN 078901890X&lt;/ref&gt;
+
+===Employment===
+====Discrimination against younger workers====
+Like race and [[gender discrimination]], age discrimination, at least when it affects younger workers, can result in unequal pay for equal work.  Unlike race and gender discrimination, age discrimination in wages is often enshrined in law.  For example, in both the United States&lt;ref&gt;[http://www.dol.gov/esa/minwage/q-a.htm Questions and Answers About the Minimum Wage], US Department of Labor&lt;/ref&gt; and the United Kingdom&lt;ref&gt;[http://www.agepositive.gov.uk/news/minimum_wage.asp Age Positive], [[Department for Work and Pensions]] in Sheffield and London&lt;/ref&gt; [[minimum wage]] laws allow for employers to pay lower wages to young workers.  Many state and [[Maxima and minima|local minimum]] wage laws mirror such an age-based tiered minimum wage.  Outside of the law, older workers, on average, make more than younger workers do.  Firms may be afraid to offer older workers lower wages than younger workers.  
+
+Labor regulations also limit the age at which people are allowed to work and how many hours and under what conditions they may work.  In the United States a person must generally be at least 14 years old to seek a job, and workers face additional restrictions on their work activities until age 16.&lt;ref&gt;[http://www.dol.gov/dol/topic/youthlabor/agerequirements.htm Youth &amp; Labor - Age Requirements], US Department of Labor&lt;/ref&gt; Many companies refuse to hire workers under 18.
+
+====Discrimination against older workers====
+While older workers benefit from higher wages than younger workers, they face barriers in promotions and hiring.  Employers may also encourage [[Retirement|early retirement]] or [[Layoff|lay off]] disproportionately older/more [[Work experience|experienced workers]]. 
+
+Age discrimination in hiring has been shown to exist in the United States.  Joanna Lahey, Economics professor at [[Texas A&amp;M University]], found that firms are more than 40% more likely to interview a younger job applicant than an older job applicant.&lt;ref&gt;Lahey, J. (2005) [http://www.bc.edu/centers/crr/ib_33.shtml Do Older Workers Face Discrimination?] Boston College.&lt;/ref&gt;
+ 
+In a survey for the [[University of Kent]], [[England]], 29% of respondents stated that they had suffered from age discrimination.  This is a higher proportion than for [[Sexism|gender]] or [[Racism|race]] discrimination.  [[Dominic Abrams]], Social Psychology professor at the University, concluded that ageism is the most pervasive form of prejudice experienced in the UK population.&lt;ref&gt;(2006) [http://www.ageconcern.org.uk/AgeConcern/media/how_ageist_is_britain.pdf How Ageist is Britain?] London: Age Concern.&lt;/ref&gt;
+
+According to Dr. Bob McCann, an associate professor of management communication at the University of Southern California’s [[Marshall School of Business]], denigrating older workers, even if only subtly – can have an outsized negative impact on employee productivity and corporate profits. For American corporations, age discrimination can lead to significant expenses. In Fiscal Year 2006, the U.S. [[Equal Employment Opportunity Commission]] received nearly 17,000 charges of age discrimination, resolving more than 14,000 and recovering $51.5 million in monetary benefits. Costs from lawsuit settlements and judgments can run into the millions, most notably with the $250 million paid by the [[CalPERS|California Public Employees' Retirement System (CalPERS)]] under a settlement agreement in 2003.&lt;ref&gt;[http://newswise.com/articles/view/544169/ When Words Get Old: Ageist Language] Newswise, Retrieved on September 9, 2008.&lt;/ref&gt;&lt;ref&gt;Harris, D. (2003 July-August) [http://www.aarpmagazine.org/lifestyle/a2003-05-21-mag-justice_age.html Simple justice. The story behind a record-setting age discrimination settlement and what it could mean in your workplace.] ''AARP The Magazine''.  Retrieved on October 25, 2008.&lt;/ref&gt;
+
+===Health Care===
+There is considerable evidence of discrimination against the elderly in health care. This is particularly true for aspects of the physician-patient interaction, such as screening procedures, information exchanges, and treatment decisions. For example, elderly people are less likely than younger people to be screened for cancers and, due to the lack of this preventative measure, less likely to be diagnosed at early stages of their conditions. In addition, elderly people are more likely to receive disease management treatments rather than potentially curative treatments. Such differential medical treatment of elderly people can have significant effects on their health outcomes. &lt;ref&gt; Robb, C., Hongbin, C., &amp; Haley, W. E. (2002). Ageism in mental health and health care: A critical review. Journal of Clinical Geropsychology, 8(1), 1-12. [http://www.springerlink.com/content/gx05765126721755/fulltext.pdf] &lt;/ref&gt;
+
+==Government responses==
+In the US, each state may have its own laws regarding age discrimination.  In [[California]], the California [[Employment discrimination|Fair Employment]] and Housing Act permits discrimination against persons under the age of 40.  The FEHA is the principal California statute prohibiting employment discrimination, covering employers, [[Trade union|labor organizations]], [[Employment agency|employment agencies]], [[apprentice]]ship programs and/or any person or entity who aids, abets, incites, compels, or coerces the doing of a discriminatory act. In addition to age, it prohibits employment discrimination based on race or color; religion; national origin or ancestry, [[Disability|physical disability]]; mental disability or medical condition; marital status; sex or sexual orientation; and pregnancy, childbirth, or related medical conditions.&lt;ref&gt;[http://finduslaw.com/california_fair_employment_and_housing_act_feha_government_code_12900_12996 California Fair Employment and Housing Act] FindLaw.&lt;/ref&gt;
+
+The federal government governs age discrimination under the [[Age Discrimination in Employment Act]] of 1967 (ADEA). The ADEA prohibits employment discrimination based on age with respect to employees 40 years of age or older as well. The ADEA also addresses the difficulty older workers face in obtaining new employment after being displaced from their jobs, arbitrary age limits.&lt;ref&gt;[http://finduslaw.com/age_discrimination_in_employment_act_of_1967_adea_29_u_s_code_chapter_14 Age Discrimination in Employment Act of 1967] FindLaw website.&lt;/ref&gt; The ADEA applies even if some of the minimum 20 employees are overseas and working for a US corporation.&lt;ref&gt;[http://finduslaw.com/morelli_v_cedel_2nd_cir_1998_141_f3d_39_45 Morelli v. Cedel (2nd Cir. 1998) 141 F3d 39, 45] FindLaw website.&lt;/ref&gt;
+
+The United States federal government has responded to issues of ageism in governance through several measures in the past. They include the creation of the 1970s-era [[National Commission on Resources for Youth]], which was created in the late 1960s as to promote [[youth participation]] throughout communities. Recently the federal government implemented the [[Tom Osborne Federal Youth Coordination Act]], aiming to curb redundancy among federal service providers to youth.
+
+Other countries that have laws addressing ageism include Australia, Denmark, Ireland, and the  [[Employment Equality (Age) Regulations 2006|United Kingdom]].
+
+==Advocacy campaigns==
+Many current and historical [[intergenerational equity|intergenerational]] and [[youth programs]] have been created to address the issue of ageism. Among the advocacy organizations created in the [[United Kingdom]] to challenge age discrimination are [[Age Concern]], the [[British Youth Council]] and [[Help the Aged]].
+
+In the [[United States]] there have been several historic and current efforts to challenge ageism. The earliest example may be the [[Newsboys Strike of 1899]], which fought ageist employment practices targeted against youth by large newspaper syndicates in the Northeast. During the [[Franklin D. Roosevelt]] Administration, [[First Lady]] [[Eleanor Roosevelt]] was active in the national [[youth movement]], including the formation of the [[National Youth Administration]] and the defense of the [[American Youth Congress]]. She made several statements on behalf of youth and against ageism. In one report entitled, "Facing the Problems of Youth," Roosevelt said of youth,
+
+:"We cannot simply expect them to say, 'Our older people have had experience and they have proved to themselves certain things, therefore they are right.' That isn't the way the best kind of young people think. They want to experience for themselves. I find they are perfectly willing to talk to older people, but they don't want to talk to older people who are shocked by their ideas, nor do they want to talk to older people who are not realistic."&lt;ref&gt;Roosevelt, A.E. (1935) [http://newdeal.feri.org/er/er21.htm "Facing the Problems of Youth,"] ''National Parent-Teacher Magazine 29''(30). Retrieved 7/30/07.&lt;/ref&gt; 
+
+[[Students for a Democratic Society (1960 organization)|Students for a Democratic Society]] formed in 1960 to promote democratic opportunities for all people regardless of age, and the [[Gray Panthers]] was formed in the early 1970s with a goal of eliminating ageism in all forms.&lt;ref&gt;Kuhn, M., Long, C. and Quinn, L. (1991) ''No Stone Unturned: the Life and Times of Maggie Kuhn.'' Ballentine Books.&lt;/ref&gt; [[Three O'Clock Lobby]] formed in 1976 to promote [[youth participation]] throughout traditionally ageist government structures in Michigan, while [[Youth Liberation of Ann Arbor]] started in 1970 to promote youth and fight ageism.
+
+More recent U.S. programs include [[Americans for a Society Free from Age Restrictions]], which formed in 1996 to advance the civil and [[human rights]] of young people through eliminating ageist laws targeted against young people, and to help youth counter ageism in America.&lt;ref&gt;ASFAR (2006). [http://www.asfar.org/articles.php] Americans for a Society Free from Age Restrictions Articles of Incorporation.&lt;/ref&gt; The [[National Youth Rights Association]] started in 1998 to promote awareness of the legal and human rights of young people in the [[United States]],&lt;ref&gt;National Youth Rights Association (2001).[http://www.youthrights.org/docs/nyraarticlesofinc.pdf]National Youth Rights Association Articles of Incorporation (Partial)&lt;/ref&gt; and the [[Freechild Project]] was formed in 2001 to identify, unify and promote diverse opportunities for youth engagement in social change by fighting ageism.
+
+===Related campaigns===
+*In 2002 the [[Writers Guild of America, West]] has waged a legal battle within the entertainment industry to eliminate age discrimination commonly faced by elder scriptwriters.{{Fact|date=February 2007}}
+*Director [[Paul Weitz (filmmaker)|Paul Weitz]] reported he wrote the 2004 film, ''[[In Good Company]]'' to reveal how ageism affects youth and adults.&lt;ref&gt;Hellerman, A. (2005) [http://www.wgaeast.org/features/2005/03/18/paul_weitz/index.html Working Solo in Good Company] Writers Guild of America, East website.&lt;/ref&gt;
+*In 2002 [[The Freechild Project]] created an information and training initiative to provide resources to youth organizations and schools focused on youth rights.&lt;ref&gt;(n.d.) [http://www.freechild.org/SNAYR/index.htm Survey of North American Youth Rights] The Freechild Project website.&lt;/ref&gt;
+
+===Accusations of ageism===
+* In a recent interview, famed actor [[Pierce Brosnan]] cited ageism as one of the contributing factors as to why he was not cast as [[James Bond]] in the Bond film ''[[Casino Royale (2006 film)|Casino Royale]]'', released in 2006.&lt;ref&gt;Cox, J. (2006) [http://commanderbond.net/Public/Stories/2994-1.shtml Brosnan Bares All For Playboy]&lt;/ref&gt;
+
+==See also==
+* [[Adultism]]
+* [[Age of Consent]]
+* [[Aging brain]]
+* [[Allophilia]]
+* [[Aging#Cognitive|Effects of Aging]]
+* [[Ephebiphobia]]
+* [[Gerontocracy]]
+* [[Gerontophobia]]
+* [[Memory and aging]]
+* [[Minor (law)]]
+* [[Pedophobia]]
+* [[Prejudice]]
+* [[Social criticism]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.blackwell-synergy.com/toc/josi/61/2  2005 issue of the Journal of Social Issues] Thematic journal issue devoted to empirical and theoretical research on ageism.
+*[http://osha.europa.eu/priority_groups/ageingworkers/ Ageing at work]  [[EU-OSHA]]
+*[http://www.ilcusa.org/prj/ageism.htm Ageism In America] Detailed report on ageism from the International Longevity Center.
+*[http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=10385 Ageism: Stereotyping and Prejudice Against Older Persons] Edited scholarly volume of the latest research and theory on Ageism.
+*[http://www.luhs.org/depts/injprev/Transprt/tran3.htm#Older%20Drivers Article on Older Drivers].
+*[http://www.webster.edu/~woolflm/ageism.html An in-depth look at ageism by Linda M. Woolfe, Ph.D., of Webster University]
+*[http://www.eeoc.com/guidance/discrimination/age-discrimination/ Guidance on Age Discrimination from EEOC.com]
+*[http://hrsbstaff.ednet.ns.ca/engramja/projects&amp;evals/sem2_mag1/chantellemag/chanceessay.htm Everyone deserves to be given a chance] An essay against ageism towards teenagers, written by a Canadian adolescent.
+*[http://knol.google.com/k/solomon-tse/ageism/38s05w5hp4v3n/2# Ageism - Discrimination Against Age] A Knol examining ageism and social attitudes against different age groups.
+*[http://news.bbc.co.uk/1/hi/business/5334972.stm Age discrimination laws by the BBC]
+*[http://www.usatoday.com/money/companies/management/2008-08-12-obama-mccain-age-ceos_N.htm USA Today article examining old and young CEOs the ages of John McCain and Barack Obama]
+
+==Further reading==
+
+{{refbegin}}
+
+*{{cite book 
+	|last=Bergling 
+	|first=Tim
+	|title=Reeling in the Years: Gay Men's Perspectives on Age and Ageism
+	|year=2004
+	|publisher=Southern Tier Editions, Harrington Park Press 
+	|location=New York, NY 
+	|isbn=1560233702|oclc=52166116}}
+
+*{{cite book 
+	|last=Bytheway 
+	|first=Bill
+	|title=Ageism
+	|year=1995
+	|publisher=Open University Press 
+	|location=Buckingham; Bristol, PA
+	|isbn=0335191762|oclc=30733778}}
+
+*{{cite book 
+	|last=Calasanti |first=Toni M. and Kathleen F. Slevin 
+	|editor=
+	|title=Age Matters: Realigning Feminist Thinking  
+	|edition= 
+	|year=2006 
+	|publisher=Routledge 
+	|location=New York, NY 
+	|isbn=0415952239 |oclc=65400440}}
+
+*{{cite book 
+	|last=Cruikshank |first=Margaret 
+	|editor=
+	|title=Learning to be Old: Gender, Culture, and Aging  
+	|edition= 
+	|year=2003 
+	|publisher=Rowman &amp; Littlefield Publishers 
+	|location=Lanham, MD 
+	|isbn=0847698483|oclc=49566317}}
+
+*{{cite book 
+	|last=Eglit, 
+	|first=Howard C. 
+	|title=Elders on Trial: Age and Ageism in the American Legal System
+	|year=2004
+	|publisher=University Press of Florida 
+	|location=Gainesville, FL 
+	|isbn=0813027659|oclc=56482087}} 
+
+*{{cite book 
+	|last=Gaster |first=Lucy 
+	|editor=
+	|title=Past it at 40?: A Grassroots View of Ageism and Discrimination in Employment: A Report  
+	|edition= 
+	|year=2002 
+	|publisher=The Policy Press 
+	|location=Bristol, UK
+	|isbn=1861344848|oclc=51802692}}
+
+*{{cite book 
+	|last=Glover |first=Ian and Mohamed Branine 
+	|editor=
+	|title=Ageism in Work and Employment  
+	|edition= 
+	|year=2001 
+	|publisher=Ashgate 
+	|location=Aldershot, UK; Burlington, VT 
+	|isbn=1840141492|oclc=45487982}}
+
+*{{cite book 
+	|last=Gullette 
+	|first=Margaret Morganroth  
+	|title=Aged by Culture  
+	|year=2004
+	|publisher=University of Chicago Press
+	|location=Chicago, IL 
+	|isbn=0226310620|oclc=52514302}} 
+
+*{{cite book 
+	|last=Gullette 
+	|first=Margaret Morganroth  
+	|title=Declining to Decline: Cultural Combat and the Politics of the Midlife 
+	|year=1997
+	|publisher=University Press of Virginia
+	|location=Charlottesville, VA 
+	|isbn=0813917212|oclc=35986171}} 
+
+*{{cite book 
+	|last=Macnicol 
+	|first=John 
+	|title=Age Discrimination: An Historical and Contemporary Analysis 
+	|year=2006
+	|publisher=Cambridge University 
+	|location=Cambridge 
+	|isbn=052184777X|oclc=61176543}}
+
+*{{cite book 
+	|last=Nelson |first=Todd D. 
+	|editor=
+	|title=Ageism: Stereotyping and Prejudice Against Older Persons  
+	|edition= 
+	|year=2002 
+	|publisher=MIT Press 
+	|location=Cambridge, MA
+	|isbn=0262140772|oclc=47863229}}
+
+*{{cite book 
+	|last=Palmore |first=Erdman, Laurence Branch, and Diana Harris (editors)
+	|editor=
+	|title=Encyclopedia of Ageism  
+	|edition= 
+	|year=2005 
+	|publisher=Haworth Pastoral Press: Haworth Reference Press 
+	|location=Binhamton, NY
+	|isbn=0789018896|oclc=55801014}}
+
+*{{cite book 
+	|last=Thompson |first=Neil 
+	|editor=
+	|title=Anti-Discriminatory Practice  
+	|edition= 4th edition
+	|year=2006 
+	|publisher=Palgrave Macmillan 
+	|location=Basingstoke, England; New York, NY
+	|isbn=1403921601|oclc=62302620}}
+
+{{refend}}
+
+{{Discrimination}}
+
+[[Category:Ageism| ]]
+[[Category:Aging]]
+[[Category:Prejudice and discrimination]]
+[[Category:Human rights]]
+[[Category:Youth rights]]
+
+[[ar:عنصرية عمرية]]
+[[bs:Starosna diskriminacija]]
+[[bg:Възрастова дискриминация]]
+[[cs:Ageismus]]
+[[cy:Oedraniaeth]]
+[[de:Altersdiskriminierung]]
+[[el:Ηλικιακές διακρίσεις]]
+[[fr:Âgisme]]
+[[it:Discriminazione generazionale]]
+[[he:גילנות]]
+[[nl:Leeftijdsdiscriminatie]]
+[[pl:Ageizm]]
+[[pt:Edaísmo]]
+[[ru:Дискриминация по возрасту]]
+[[fi:Ikäsyrjintä]]</rev></revisions></page></pages></query></api>

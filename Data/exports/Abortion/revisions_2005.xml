@@ -1,0 +1,206 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051112210846|28143690" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="765" pageid="765" ns="0" title="Abortion"><revisions><rev timestamp="2005-11-12T23:31:22Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">&lt;!--Note for editors//This article has a long and intense history of terminology debates. Please review the talk page before making changes to lines to see if there is a previous established consensus or compromise--&gt;
+An '''abortion''' is the death of an [[embryo]] or a [[fetus]].  In [[medicine]], the following terms are used to define an abortion:
+* ''Spontaneous abortion'': An abortion due to accidental trauma or [[natural causes]], this is commonly termed a [[miscarriage]].
+* ''Induced abortion'': Deliberate abortion. Induced abortions are further subcategorized into therapeutic abortions and elective abortions.
+** ''Therapeutic abortion'': An abortion performed because the pregnancy poses physical or mental health risk to the [[pregnancy|pregnant woman]]. 
+** ''Elective abortion'': An abortion performed for any other reason.
+In common parlance, the term "abortion" is used exclusively for induced abortion.
+
+A pregnancy that terminates early, but where the fetus survives to become a live infant, is instead termed a [[premature birth]]. A pregnancy that ends with an infant dead upon birth, due to causes such as spontaneous abortion, is termed a [[stillbirth]]. Certain forms of [[birth control]] are used to prevent implantation before the pregnancy occurs. These acts of [[emergency contraception]] are often considered to be the equivalent of abortion, but are not classified as such in medicine.
+
+The [[ethics]] and [[morality]] of induced abortion have become the subject of an intense [[debate]] in the past 50 years in various areas of the world, particularly in the [[United States of America]], but also to a lesser extent in [[Canada]] and a number of countries in [[Europe]].
+
+While abortions can be performed and occur in any animal that gives birth, this article focuses exclusively on abortions performed upon [[human|humans]]. 
+
+==Spontaneous abortion==
+{{main|miscarriage}}
+&lt;!--improve me!--&gt;
+Spontaneous abortions, known more commonly as miscarriages, occur frequently. Up to 78% of all conceptions may fail, in most cases even before pregnancy is confirmed. 15% of all confirmed pregnancies end in a miscarriage. Most miscarriages occur very early in a pregnancy. Since early [[embryonic development]] is an error prone process, the body may spontaneously abort if a fetus is not viable (i.e., due to genetic deformities, such as most cases of [[trisomy]]), or when the womb is unable to support the development of the fetus. A spontaneous abortion can be caused by accidental [[trauma]], while trauma with the intent to cause miscarriage is considered an induced abortion. Some [[states]] have laws increasing the criminal liability of a person who causes a miscarriage during an [[assault]] or other violent [[crime]].
+
+==Induced abortions==
+The term "abortion" is usually used by lay people to refer to '''induced abortion'''. Women from 27 nations reported the following reasons for seeking an induced abortion:{{ref|abortion1}}
+
+*25.5% &amp;ndash; Want to postpone childbearing 
+*21.3% &amp;ndash; Cannot afford a [[baby]] 
+*14.1% &amp;ndash; Has relationship problem or partner does not want pregnancy
+*12.2% &amp;ndash; Too young; parent(s) or other(s) object to pregnancy 
+*10.8% &amp;ndash; Having a [[child]] will disrupt [[education]] or [[employment|job]] 
+*&amp;nbsp;&amp;nbsp;7.9% &amp;ndash; Want no (more) [[children]]
+*&amp;nbsp;&amp;nbsp;3.3% &amp;ndash; Risk to [[fetal]] health 
+*&amp;nbsp;&amp;nbsp;2.8% &amp;ndash; Risk to [[maternal]] health 
+*&amp;nbsp;&amp;nbsp;2.1% &amp;ndash; Rape, incest, other
+
+In many areas of the world, especially the developing nations or where induced abortions are illegal, many women choose or are pushed to perform abortions on themselves. These [[self-induced abortion|self-induced abortions]] are commonly [[unsafe abortions]] as described by the [[World Health Organization]]. Furthermore, some abortions are induced because of societal pressures, such as stigma of disabled persons and similar eugenic ideals, or laws, such as under China's [[one-child policy]]. These policies and societal pressures can lead to [[sex-selective abortion and infanticide]], which is illegal in most countries, but difficult to stop.
+
+==Methods of inducing abortion==
+Depending on the gestational age of the embryo or fetus, different methods of abortion can be performed to remove the embryo or fetus from the womb.
+
+=== Chemical Abortion ===
+{{main|Chemical Abortion}}
+Effective in the first trimester of pregnancy, chemical abortions comprise 10% of all abortions in the United States and Europe. The process begins with the administration of either [[methotrexate]] or [[mifepristone]], followed by [[misoprostol]]. While misoprostol may also be used alone to induce abortion, the need for surgical intervention is slightly elevated to about 10%, compared to the 8% when medications are combined. When surgical intervention is neccessary, primarily vacuum uterine aspiration is used.
+
+=== Surgical abortion ===
+
+In the first fifteen weeks, [[suction-aspiration abortion|suction-aspiration]] or vacuum abortion are the most common methods, replacing the more risky [[dilation and curettage]] (D &amp;amp; C). ''[[Manual vacuum aspiration]]'', or MVA abortion, consists of removing the [[fetus]] or [[embryo]] by suction using a manual [[syringe]], while the ''[[Electric vacuum aspiration]]'' or EVA abortion method uses suction produced by an electric [[pump]] to remove the [[fetus]] or [[embryo]]. From the fifteenth week up until around the eighteenth week, a surgical [[dilation and evacuation]] (D &amp;amp; E) is used. D &amp;amp; E consists of opening the [[cervix]] of the [[uterus]] and emptying it using surgical instruments and suction.
+
+''[[Dilation and suction curettage]]'' consists of emptying the [[uterus]] by suction using a different apparatus. ''[[Curettage]]'' refers to the cleaning of the walls of the [[uterus]] with a [[curette]]. ''[[Dilation and curettage]]'' (D &amp;amp; C) is a standard gynaecological procedure performed for a variety of reasons, such as examination.
+
+As the [[fetus]] grows, other techniques must be used to induce abortion in the third [[trimester]]. Premature delivery of the human fetus can be induced with [[prostaglandin]]; this can be coupled with injecting the [[amniotic sac|amniotic fluid]] with caustic solutions containing [[saline (medicine)|saline]] or [[urea]]. Very late abortions can be brought about by the controversial [[intact dilation and extraction]] (intact D &amp;amp; X) which requires the surgical decompression of the fetus's head before evacuation and is controversially termed "[[partial-birth abortion]]".  A [[hysterotomy abortion]], similar to a [[caesarian section]], can also be used at late stages of pregnancy. [[Hysterotomy abortion]] can be performed vaginally, with an incision just above the [[cervix]], in the late mid-trimester.
+
+===Other means of abortion===
+Certain herbs are considered by some to be effective [[abortifacient]]s. Using herbs in this way can cause serious side effects, including multiple organ failure and other serious injury, and are not recommended by physicians.{{ref|abortion7}} Physical trauma to a pregnant woman's womb can cause an abortion. The severity of the impact required to cause an abortion carries high risk of injury to the pregnant woman, without necessarily inducing a [[miscarriage]]. Both accidental and deliberate abortions of this kind carry criminal liability in many countries.{{ref|abortion8}}
+==Health risks==
+&lt;!--MAJOR REORG NEEDED. Entire section is argumentative--&gt;
+As with most [[surgery|surgical]] procedures, the most common surgical abortion methods carry the risk of serious complications. These risks include: a perforated [[uterus]], perforated [[bowel]] or [[bladder]], [[septic shock]], [[sterility]], and [[death]].
+
+Accurately assessing the risks of induced abortion is difficult due to a number of factors. These factors include a lack of uniform definitions of terms, and difficulties in follow-up.
+
+Use of "traditional medicine" methods (e.g., overdoses of various drugs and inserting various objects into uterus) for abortions is also dangerous. Serious complications from abortions done outside of professional clinics may include infections and bleeding. In many cases, such abortions lead to death.
+
+===Physical health===
+
+Each phase of the abortion carries separate risks, and practitioners are not in agreement as to the best methods of mitigating those risks. The degree of risk depends upon the skill and experience of the practitioner; maternal age, health, and [[parity]]; [[gestational age]]; pre-existing conditions; methods and instruments used; medications used; the skill and experience of those assisting the practitioner; and the quality of recovery and follow-up care. A highly-skilled practitioner operating under ideal conditions will have a very low rate of complications, whereas an inexperienced practitioner in an unsanitary, ill-equipped and ill-staffed facility will typically have a high complication rate. 
+
+Some practitioners advocate using the minimal possible anesthesia, so that patient pain can alert the practitioner to possible complications. Others recommend [[general anesthesia]] in order to prevent patient movement which might cause a perforation. [[General anesthesia]] carries its own risks and most public health officials recommend against its routine use in abortion due to an increased risk of death.
+
+[[Dilation]] of the [[cervix]] carries the risk of cervical tears or perforations, including small tears that might not be apparent and might cause [[cervical incompetence]] in future pregnancies. Most practitioners recommend using the smallest possible dilators, and using [[osmotic]] rather than [[mechanical]] dilators after the first [[trimester]] of pregnancy. 
+
+Instruments are placed within the [[uterus]] to remove the pregnancy. These can cause [[perforation]] or [[laceration]] of the uterus, and damage to structures surrounding the uterus. If the uterus is perforated, surrounding structures, especially the bowel, may be pulled through the perforation into the uterus. Partial [[evisceration]] can result, with its attendant risks, including [[peritonitis]] and the need for a [[colostomy]].
+
+Laceration or perforation of the uterus or cervix can result in [[amniotic fluid embolism]], with the resulting risk of disseminated intravascular [[coagulopathy]], [[shock]], and death.
+
+Incomplete emptying of the uterus can cause [[fever]], [[hemorrhage]], and [[infection]], which if not promptly diagnosed and treated can lead to [[sepsis]] and [[death]]. Another risk is failure to diagnose [[ectopic pregnancy]], which can lead to [[rupture]], [[infection]], [[hemorrhage]], [[sepsis]], and death. Use of ultrasound verification of the location and duration of the pregnancy prior to abortion, with immediate follow-up of patients reporting continuing pregnancy symptoms after the procedure, will virtually eliminate this risk. In some cases, the abortion will be unsuccessful and the pregnancy will continue. Most practitioners recommend a second procedure to terminate the pregnancy due to the possibility that the abortion attempt had caused injury to the fetus.
+
+The sooner a complication is noted and properly treated, the lower the risk of permanent injury or death. 
+
+* ''Main article: '''[[Abortion-breast cancer (ABC) hypothesis]]'''''
+:The controversial ''abortion-breast cancer (ABC) hypothesis'' posits an association between having an abortion and a higher risk of developing [[breast cancer]].  The proposed mechanism is based on the increased [[estrogen]] levels found during early [[pregnancy]], which initiate [[cellular differentiation]] (growth) in the [[breast]] in preparation for [[lactation]]. The ABC [[hypothesis]] states that if the pregnancy is aborted before full differentiation in the third [[trimester]], then more "vulnerable" undifferentiated cells would be left than prior to the pregnancy, resulting in an elevated risk of [[breast cancer]]. The majority of interview-based studies have indicated a link, and some have been demonstrated to be [[statistically significant]], but there remains debate as to their reliability because of possible [[response bias]].
+
+:According to the [[National Cancer Institute]] (NCI), it is "well established" that "induced abortion is not associated with an increase in breast cancer risk." Those findings have been disputed by [[Joel Brind|Dr. Joel Brind]], a leading scientific advocate of the ABC hypothesis. Nevertheless, gaps and inconsistencies remain in the research as the "ABC link" continues to be a politicized issue.
+
+*  A specific and undisputed complication that can arise, especially with repeated abortions by a [[dilatation and curettage]], is the development of [[Asherman syndrome]].&lt;!--orphan!--&gt;
+
+===Mental health===
+Thus far, there has been no conclusive evidence that abortion is specifically linked to a decrease in overall [[mental health]]. Women who undergo abortions and suffer from poor mental health are often also victims of rape, abuse, or other factors that put them at considerible risk for [[clinical depression]] among other mental disorders. Likewise, medical literature has not ruled out the ramifications of abortion being a stressor that can trigger an already present [[vulnerability]] in that woman's personality.
+
+==History of abortion==
+{{main|History of abortion}}
+
+The practice of induced abortion, according to some [[anthropologists]], can be traced to ancient times. There is evidence to suggest that, historically, pregnancies were terminated through a number of methods, including the administration of [[abortifacient]] herbs, the use of sharpened implements, the application of abdominal pressure, and other techniques.
+
+[[Soranus]], a 2nd century [[Greek]] [[physician]], suggested in his work ''Gynaecology'' that women wishing to abort their pregnancies should engage in violent exercise, energetic jumping, carrying heavy objects, and riding animals. He also prescribed a number of recipes for herbal bathes, [[pessary| pessaries]], and [[bloodletting]], but advised against the use of sharp instruments to induce miscarriage due to the risk of organ [[perforation]]. [http://www.stoa.org/diotima/anthology/wlgr/wlgr-medicine355.shtml]
+
+It is also known that the ancient Greeks relied upon the herb [[silphium]] as both a [[contraceptive]] and an [[abortifacient]]. The plant, as the chief export of [[Cyrene]], was driven to [[extinction]], but it is suggested that it might have possessed the same abortive properties as some of its closest extant relatives in the [[Apiaceae|Apiaceae family]].
+
+Such folk remedies, however, varied in effectiveness and were not without risk. [[Tansy]] and [[pennyroyal]], for example, are two [[poison|poisonous]] [[herbs]] with serious [[side effects]] that have at times been used to terminate pregnancy.
+
+[[19th-century]] [[medicine]] saw advances in the fields of [[surgery]], [[anaesthesia]], and [[sanitation]], in the same era that doctors with the [[American Medical Association]] lobbied for bans on abortion in [[The United States]] and the [[British Parliament]] passed the Offences Against the Person Act. Demand for the procedure continued, however, as the disguised, but nonetheless open, advertisement of abortion services in Victorian times would seem to suggest. [http://users.telerama.com/~jdehullu/abortion/abhist.htm]
+
+==The abortion debate==
+{{Main article|Abortion debate}}
+
+Throughout the [[history of abortion]], induced abortions have been a source of considerable [[debate]] and [[controversy]] regarding the morality and legality of this practice. An individual's position on the complex [[ethical]], [[moral]], [[philosophical]], [[biological]] and [[legal]] issues have a strong relationship with that individual's [[value system]]. A person's position on abortion may be best described as a combination of their personal beliefs on the morality of induced abortion, and that person's beliefs on the ethical scope and responsibility of legitimate [[government|governmental]] and legal [[authority]]. Another major factor for many individuals is authoritative religious doctrine.  See [[religion and abortion]] for more.
+
+Abortion debates, especially pertaining to abortion laws, are often spearheaded by [[advocacy|advocacy groups]] belonging to one of two camps. Those in favor of laws prohibiting abortion describe themselves as [[pro-life]].  Those against laws restricting abortion describe themselves as [[pro-choice]].  Both are [[loaded term|loaded terms]], designed to cast their position as advancing a general concept ("life" or "choice") that has broad support. Both terms are euphemisms designed to avoid the use of the term "abortion", such as being "anti-abortion" or "pro-abortion". Individuals are also usually classified or self-described as pro-choice or pro-life, despite the range of intermediate opinions.
+
+In debate, whether friendly discussion or political positioning, the arguments on abortion usually seek to change either an individual's [[beliefs]] on the moral permissibility of an induced abortion, or on the justification of [[laws]] permitting or restricting abortion. Arguments on morality and legality tend to collide and combine, complicating the issue at hand.
+
+===Public opinion===
+
+Political sides have largely been divided into [[moral absolutism|absolutes]]. The abortion debate, as such, tends to centre around individuals who hold strong positions. However, public opinion varies from poll to poll, country to country, and region to region:
+
+*'''Australia''': In a [[February]] [[2005]] [[AC Nielsen]] poll, as reported in the [[The Age]], 56%  thought the current abortion laws were "about right," 16% want changes in law to make abortion "more accessible," and 17% want changes to make it "less accessible." [http://www.theage.com.au/news/National/Poll-backs-abortion-laws/2005/02/15/1108230007300.html]  A [[1998]] poll, conducted by Roy Morgan Research, asked, "Do you approve of the termination of unwanted pregnancies through surgical abortion?" 65% of the [[Australia| Australians]] polled stated that they approved of surgical abortion and 25% stated that they disapproved of it. [http://oldwww.roymorgan.com/polls/1998/3058]
+
+*'''Ireland''': A [[1997]] [[Irish Times]]/MRBI poll of the [[Republic of Ireland|Republic of Ireland's]] electorate found that 18% believe that abortion should never be permitted, 35% that one should be allowed in the event that the mother's life is threatened, 18% if her health is at risk, 28% that "an abortion should be provided to those who need it," and 5% were undecided. [http://www.ireland.com/newspaper/front/1997/1211/archive.97121100003.html]
+
+* '''Canada''': A recent poll of [[Canadians]], conducted in [[April]] [[2005]] by [[Gallup]], found that  52% of those polled want abortion laws to "remain the same," 20% want the laws to be "less strict," and 24% would prefer that the laws become "more strict." An earlier Gallup poll, from [[December]] [[2001]], asked, "Do you think abortions should be legal under any circumstances, legal only under certain circumstances or illegal in all circumstances and in what circumstances?" 32% of Canadians responded that they believe abortion should be legal in all circumstance, 52% that it should be legal in certain circumstances, and 14% that it should be legal in no circumstances. See [[Abortion in Canada]].
+
+* '''The United Kingdom''': An online [[YouGov]]/[[Daily Telegraph]] poll in [[August]] [[2005]] found that 30% of [[The United Kingdom| Britons]] would back a measure to reduce the legal limit for abortion to 20 weeks, 19% support a limit of 12 weeks, 9% support a limit of less than 12 weeks, and 25% support maintaining the current limit of 24 weeks. 6% responded that abortion should never be allowed while 2% said it should be permitted throughout the entirety of pregnancy. [http://www.yougov.com/archives/pdf/TEL050101042_1.pdf] 
+
+* '''The United States''': A [[CNN]]/[[USA Today]]/[[Gallup]] poll in [[August]] [[2005]], which asked [[United States| Americans]] if they considered themselves to be "pro-choice" or "pro-life," found that 54% answered "pro-choice" while 38% answered "pro-life." An [[ABC News]]/[[Washington Post]] survey, in [[August]] [[2005]], asked, "Would you like to see the Supreme Court make it harder to get an abortion  than it is now, make it easier to get an abortion than it is now, or leave  the ability to get an abortion the same as it is now?" 42% of respondents said abortion should be "harder" to obtain, 9% that it should be "easier" to obtain, and 47% said that ease or difficulty of access should remain the "same." A [[July]] [[2005]] [[Pew Research Center]] poll asked Americans about ''[[Roe vs. Wade]]'' and found that 29% want it overturned while 65% do not. [http://www.pollingreport.com/abortion.htm]
+
+== Abortion law ==
+{{Main article|Abortion law}}
+
+[[image:AbortionLawsMap.png|thumb|250px|International status of abortion law]]
+
+The [[Soviet Union]] ([[1920]]) and [[Iceland]] ([[1935]]) were some of the first countries to generally allow abortion. The second half of the twentieth century saw the liberalization of abortion laws in many other countries. In [[1973]], the [[U.S. Supreme Court]] struck down state laws banning abortion, controversially ruling that such laws violated an inferred [[right to privacy]] in the [[U.S. Constitution]]. The [[Supreme Court of Canada]], similarly, discarded its criminal code regarding abortion in [[1988]], after ruling that such restrictions violated the security of person guaranteed to women under in the [[Canadian Charter of Rights and Freedoms]]. [[Ireland]], on the other hand, added an [[Eighth Amendment of the Constitution of Ireland| amendment]] to its [[Constitution of Ireland|Constitution]] in 1983 by popular referendum, recognizing "the right to life of the unborn." (see [[Abortion in Ireland]]).
+
+Current laws pertaining to abortion are diverse. Religious, moral, and cultural sensibilities continue to influence abortion laws throughout the world. The [[right to life]], the right to [[liberty]], and the right to [[security of person]] are major issues of [[human rights]] that are sometimes used as [[justification]] for the existence or the absence of laws controlling abortion. Many countries in which abortion is legal require that certain criteria be met in order for an abortion to be obtained, often, but not always, using a [[trimester]]-based system to regulate the window in which abortion is still legal to perform:
+
+* In the [[United States]], some states impose a 24-hour waiting period before the procedure, prescribe the distribution of information on [[fetal development]], or require that parents be contacted if their [[Minor (law)|minor]] daughter requests an abortion.
+* In the [[United Kingdom]], as in some other countries, two doctors must first certify that an abortion is medically or socially necessitated before it can be performed.
+Other countries, in which abortion is illegal, will allow one to be performed in the case of [[rape]], [[incest]], or danger to the pregnant woman's life or health. A handful of nations ban abortion entirely, such as [[Chile]], [[El Salvador]], and [[Malta]].
+
+== Related topics == 
+
+{{wikiquote}}
+
+*[[Abortion in Canada]]
+*[[Abortion in Ireland|Abortion in the Republic of Ireland]]
+*[[Abortion in the United Kingdom]]
+*[[Abortion in the United States]]
+*[[Adoption]]
+*[[Nuremberg Files]]
+*[[Partial-birth abortion]]
+*[[Pregnancy]]
+*[[Religion and abortion]]
+*[[Selective reduction]]
+*[[Self-induced abortion]]
+*[[Sex-selective abortion and infanticide]]
+*[[Wrongful abortion]]
+
+==Sources==
+
+# {{note|abortion1}} Bankole, Akinrinola; Singh, Susheela; Haas, Taylor. "Reasons Why Women Have Induced Abortions: Evidence from 27 Countries." International Family Planning Perspectives, 1998
+# {{note|abortion2}} Moreau, C. et al, ''[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15777440&amp;query_hl=8 "Previous induced abortions and the risk of very preterm delivery"]'', BJOG. 2005; 112(4):430-7
+# {{note|abortion3}} [http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2005/05/15/nabort15.xml http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2005/05/15/nabort15.xml]
+# {{note|Beral}} Beral V, Bull D, Doll R, Peto R, Reeves G; Collaborative Group on Hormonal Factors in Breast Cancer. Breast cancer and abortion: collaborative reanalysis of data from 53 epidemiological studies, including 83?000 women with breast cancer from 16 countries. Lancet. 2004 Mar 27;363(9414):1007-16. PMID 15051280
+# {{note|Koop}}Koop CE. Post abortion syndrome: myth or reality? Health Matrix. 1989 Summer;7(2):42-4. PMID 10294679
+# {{note|abortion4}} Denious, J. &amp; Russo, N. F. (2000). The Socio-Political Context of Abortion and its Relationship to Women's Mental Health. In J. Ussher (Ed.). Women's Health: Contemporary International Perspectives (pp. 431-439). London: British Psychological Society.
+# {{note|abortion5}} [http://www.medscimonit.com/medscimonit/index.php http://www.medscimonit.com/medscimonit/index.php - Medical Science Monitor]
+# {{note|abortion6}} Vincent Rue, Priscilla Coleman, James Rue, David Reardon (2004). Induced abortion and traumatic stress: A preliminary comparison of American and Russian women. Med Sci Monit, 2004; 10(10): SR5-16
+# {{note|abortion7}} Ciganda C, Laborde A., ''[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12807304&amp;query_hl=9 "Herbal infusions used for induced abortion"]'', J Toxicol Clin Toxicol. 2003; 41(3):235-9
+# {{note|abortion8}} [http://www.efc.org.uk/Foryoungpeople/Factsaboutabortion/Unsafeabortion Education For Choice] &amp;ndash; Unsafe abortion
+
+==External links==
+* [http://www.johnstonsarchive.net/policy/abortion Abortion Statistics and Other Data]
+* [http://www.abortionclinic.org The Abortion Clinic Directory]
+*[http://annualreview.law.harvard.edu/population/abortion/abortionlaws.htm Abortion Laws of the World]
+* [http://www.un.org/esa/population/publications/abortion Abortion Policies: A Global Review]
+'''The following links may be biased:'''
+* [http://www.plannedparenthood.com/ Planned Parenthood]
+* [http://www.care-net.org/ CareNet]
+* [http://justfacts.com/abortion.htm Just Facts: Abortion]
+* [http://agi-usa.org/ The Alan Guttmacher Institute]
+* [http://www.womenonwaves.org/set-1020.628-en.html WomenonWaves.org]
+
+[[Category:Abortion]]
+[[Category:Abortion by country]]
+[[Category:Obstetrics]]
+[[Category:Issue in the Culture Wars]]
+
+[[bg:Аборт]]
+[[ca:Avortament]]
+[[cs:Interrupce]]
+[[da:Provokeret abort]]
+[[de:Schwangerschaftsabbruch]]
+[[es:Aborto]]
+[[fr:Interruption volontaire de grossesse]]
+[[ia:Aborto]]
+[[id:Gugur kandungan]]
+[[it:Aborto]]
+[[lt:Abortas]]
+[[nl:Abortus]]
+[[nn:abort]]
+[[ja:妊娠中絶]]
+[[pl:Aborcja]]
+[[pt:Interrupção da gravidez]]
+[[ru:Аборт]]
+[[simple:Abortion]]
+[[sr:Абортус]]
+[[fi:Abortti]]
+[[sv:Abort]]
+[[tl:Aborsiyon]]
+[[zh:堕胎]]
+[[he:הפלה מלאכותית]]</rev></revisions></page></pages></query></api>

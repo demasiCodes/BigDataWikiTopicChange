@@ -1,0 +1,76 @@
+<?xml version="1.0"?><api><continue rvcontinue="20071112164137|170984872" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="245632" pageid="245632" ns="0" title="Clan"><revisions><rev timestamp="2007-11-12T16:41:52Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Otheruses|Clan (disambiguation)}}
+A '''clan''' is a group of people united by [[kinship and descent]], which is defined by perceived descent from a common ancestor. Even if actual lineage patterns are unknown, clan members nonetheless recognize a founding member or [[apical ancestor]]. As kinship based bonds can be merely symbolical in nature some clans share a "stipulated" common ancestor, which is a symbol of the clan's unity. When this ancestor is not human, this is referred to as animallian [[totem]]. Generally speaking, kinship differs from biological relation, as it also involves adoption, marriage, and fictive genealogical ties. Clans can be most easily described as sub-groups of tribes and usually constitute groups of 7,000 to 10,000 people.
+
+== Etymology ==
+''Clan'' is the English spelling of ''clann''&lt;ref&gt;''Oxford Pocket Irish Dictionary'' (paperback), Breandan O. Croinin (editor), Oxford University Press.&lt;/ref&gt;, a [[Goidelic language|Gaelic]] word meaning ''children'' or ''family''.  ''An Chlann Aoidh'', the [[Scottish Gaelic]] name for the [[Clan Mackay]], literally means "The Children of Fire"—"fire" being the literal meaning of the Gaelic name "Aodh", genitive and vocative case, "hAoidh"—which translates to Scots and English, variously and as phonetically as possible, as ''Eth'', ''Y'', ''Hy'', ''Heth'', ''Huey'', and ''Hugh''.
+
+== Organization of clans ==
+Some clans are [[patrilineality|patrilineal]], meaning its members are related through the male line; for example, the clans of Armenia.  Others are [[matrilineality|matrilineal]]; its members are related through the female line.  Still other clans are ''bilateral'', consisting of all the descendants of the apical ancestor through both the male and female lines; the [[Scottish clan|clans of Scotland]] are one example.  Whether a clan is patrilineal, matrilineal, or bilateral depends on the kinship rules and norms of their society.
+
+In different cultures and situations a clan may mean the same thing as other kin-based groups such as [[tribe]]s and [[band society|bands]].  Often, the distinguishing factor is that a clan is a smaller part of a larger [[society]] such as a tribe, a [[chiefdom]], or a [[state]].  Examples include [[Irish clans|Irish]], [[Scottish clan|Scottish]], [[Consort clan|Chinese]], and [[Japanese clans]], which exist as kin groups within their respective nations.  Note, however, that tribes and bands can also be components of larger societies.  [[Arabs|Arab]] tribes are small groups within Arab society, and [[Ojibwa]] bands are smaller parts of the Ojibwa tribe. In some cases multiple tribes recognized the same clans, such as the bear and fox clans of the [[Chickasaw]] and [[Choctaw]] tribes.
+
+Apart from these different traditions of kinship, further conceptual confusion arises from colloquial usages of the term. In post-Soviet countries for example it is quite common to speak of clans referring to informal networks within the economic and political sphere. This usage reflects the assumption that their members act towards each other in a particularly close and mutually supportive way approximating the solidarity among kinsmen.  However, the [[Norse clans]], the ''ätter'', can not be translated with ''tribe'' or ''band'', and consequently they are often translated with ''house'' or ''line''.
+
+[[Poland|Polish]] clans differ from most others in being a collection of [[families]] bearing the same [[coat of arms]], as opposed to actually claiming a common descent.  This is discussed under the topic of [[Polish Heraldry]].
+
+Most clans are [[exogamy|exogamous]], meaning that its members cannot marry one another. Most clans have an official leader such as a [[tribal chief|chieftain]] or [[patriarch]]. More recently a clan in South Londonn called the TRV clan has been formed by two people called JTFA and Nemo. Their real names are Josh and Nimesh. It is an exclusive club for people just from Trivandrum, a city in the state of Kerala in India. Anyone who wants to join must have proof that they are from Trivandrum. 
+
+== Clans by country ==
+* Albanian Fis clans of the country's [[geography of Albania|northern highlands]].
+* Armenian [[Tohm]] clans of [[Armenian nobility]].
+* [[Australian Aboriginal kinship|Australian Aboriginal and Torres Strait Islander]]
+* Chechen [[Teip]] and [[Tukkhum]] tribal organization
+* Chinese [[Chinese clan|clan]], [[Chinese family name|family name]] and [[consort clan]]s
+* Chinese (Hong Kong) five Great [[Han Chinese]] ''[[Punti]]'' clans: [[Tang Clan|Tang]], [[Hou (surname)|Hau]], [[Peng (surname)|Pang]], [[Wen Tianxiang|Man]], [[Liao|Liu]]
+* German [[German clan|clann]] or [[Sippe]]
+* Iranian [[Seven Parthian clans|clans]]
+* Irish [[Irish clans|clanns]] and [[Sept (social)|septs]] (also: [[Chiefs of the Name]])&lt;ref&gt;"Irish Families" [[Edward Mac Lysaght]], Irish Academic Press, Dublin, 1985&lt;/ref&gt;
+* [[India]]n/[[Pakistan]]i/[[Nepal]]ese [[Rajput clans]]
+* Indian - [[Maratha clan system|Maratha]], [[Dhangar]]
+* Indian/Pakistani [[Jat clan system|Jat clans]]
+* [[Japanese clans]]
+* Korean [[Korean clan|clans]] and [[Korean name|names]]
+* Manchu [[List of Manchu clans|clans]] and [[Manchu family name|names]]
+* [[Polish clans]]
+
+* [[Scandinavi]]an [[Norse clans]]
+* [[Scottish clan]]s
+* [[Serb clans|Serbian clans]]
+* [[Somali clan]]s
+* [[Ugandan]] [[ganda clans]]], [soga clans],[acholi clans]
+* Grey clan
+* Indian clan Rolan [[rajasthani clan:rolan]]
+* [[Kenyan]] [[Kalenjin clans]]], [Kipsigis clans],[Nandi clans],[Tugen],[Keiyo]
+
+
+[[Category:Kinship and descent|Clan]]
+
+[[ar:عشيرة]]
+[[da:Klan]]
+[[de:Klan]]
+[[es:Clan]]
+[[eo:Klano]]
+[[fa:عشایر کرد]]
+[[fr:Clan]]
+[[hr:Rod (prvobitna zajednica)]]
+[[it:Clan (antropologia)]]
+[[ku:Eşîrên kurdan]]
+[[lt:Klanas]]
+[[nl:Clan]]
+[[ja:氏族]]
+[[no:Klan]]
+[[pl:Klan (antropologia)]]
+[[pt:Clã (antropologia)]]
+
+[[simple:Clan]]
+[[sr:Клан]]
+[[fi:Klaani]]
+[[sv:Klan]]
+[[ta:குலம்]]
+[[tr:Aşiret]]
+[[zh:氏族]]
+[[rajasthani clan:Rolan]]
+
+==References==
+&lt;div class="references-small" {{#if: {{{colwidth|}}}| style="-moz-column-width:{{{colwidth}}}; column-width:{{{colwidth}}};" | {{#if: {{{1|}}}| style="-moz-column-count:{{{1}}}; column-count:{{{1}}} }};" |}}&gt;
+&lt;references /&gt;&lt;/div&gt;</rev></revisions></page></pages></query></api>

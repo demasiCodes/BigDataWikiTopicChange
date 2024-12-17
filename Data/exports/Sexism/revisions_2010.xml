@@ -1,0 +1,314 @@
+<?xml version="1.0"?><api><continue rvcontinue="20101117164944|397330806" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="27165" pageid="27165" ns="0" title="Sexism"><revisions><rev timestamp="2010-11-17T16:49:54Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">[[Image:National Association Against Woman Suffrage.jpg|thumb|300px|The sign of the headquarters of the National Association Opposed To Woman Suffrage.]]
+
+'''Sexism,''' a term coined in the mid-20th century,&lt;ref&gt;[[Shorter Oxford English Dictionary]], 6&lt;sup&gt;th&lt;/sup&gt; edition&lt;/ref&gt; is the belief or attitude that one [[gender]] or [[sex]] is inferior to, less competent, or less valuable than the other. It can also refer to [[hatred]] of, or [[prejudice]] towards, either [[gender|sex]] as a whole (see [[misogyny]] and [[misandry]]), or the application of [[stereotype]]s of [[masculinity]] in relation to [[men]], or of [[femininity]] in relation to [[women]].&lt;ref&gt;{{cite book
+ |last=Brittan
+ |first=Arthur
+ |title=Sexism, racism and oppression
+ |publisher=Blackwell
+ |year=1984
+ |pages=236
+ |isbn=9780855206748}}&lt;/ref&gt; It is also called male and female [[chauvinism]].
+'''Sexist''' is the adjective form of the noun ''sexism''.  '''Sex discrimination''' is [[discrimination]] on the basis of sex or gender.
+
+==Generalization and partition==
+In philosophy, sexist attitudes can be understood or judged on the basis of the [[esentialism|essential characteristics]] of the group to which an individual belongs&amp;mdash;in this case, their sexual group, as men or women. This assumes that all individuals fit into the category of ''male'' or ''female'' and does not take into account [[inter sex]]ed people who are born with a mixture of male and female sexual characteristics.&lt;!-- Note: the mixed sexual characteristics are not necessarily _primary_ sexual characteristics. Ambiguous genitalia (primary) are not a _sine qua non_ of inter sexuality. See the page on Inter sex for more details. --&gt; This also assumes a significant degree of [[wilktionary:Homogeneity|homogeneity]] in the characteristics of men and women respectively, and generally does not take into account the differences that exist within these groups. [[46,XY|XY males]] and [[46,XX|XX females]] who are genetically one sex but have developed the characteristics of the opposite sex during the foetal stage are usually considered with respect to their [[wilktionary:phenotype|phenotypes]] under this system.&lt;ref&gt;"What is AIS?" AISSG. 13 Sep 2006. http://www.medhelp.org/www/ais/21_overview.htm&lt;/ref&gt;
+
+Certain forms of sexual [[discrimination]] are illegal in many countries, but nearly all countries have laws that give special rights, privileges, or responsibilities to people of a particular sex.&lt;ref&gt;Neuwirth, Jessica (2004). [http://www.msmagazine.com/summer2004/globalwomenlaw.asp "Unequal: A Global Perspective on Women Under the Law"]. ''Ms. Magazine''.&lt;/ref&gt;
+
+{| class="wikitable"
+|-
+! sex
+! condition of
+! hatred
+! fears
+! discriminatory
+! anti-discriminatory
+|-
+! colspan=2 |
+! colspan=2 | discrimination of
+! colspan=2 | movement of
+|-
+| [[female]] ♀
+| [[femininity]]
+| [[misogyny]]
+| [[gynophobia]]
+| [[gynocentrism]]
+| [[feminism]]
+|-
+| [[male]] ♂
+| [[masculinity]]
+| [[misandry]]
+| [[androphobia]]
+| [[androcentrism]]
+| [[masculism]]
+|-
+| [[intersex]]
+| intersexuality
+| misandrogyny
+| androgynophobia
+|
+| [[LGBTIQ]]
+|-
+| [[transsex]]
+| transsexuality
+|
+| [[transphobia]]
+|
+| [[LGBT]]
+|}
+
+===Types===
+{{Discrimination sidebar}}
+''See also: [[Women's suffrage]]''&lt;br /&gt;
+''See also: [[Coverture]]''
+
+The view that men are superior to women is a form of sexism.  When expressed by men, sexism against women may be called [[male chauvinism]]. Related terms are ''[[misogyny]]'', which implies a ''hatred'' of women, and ''[[wikt:gynophobia|gynophobia]]'', which refers to a ''fear'' of women or [[femininity]].
+
+The idea that men benefit from certain rights and privileges not available to women is referred to as [[male privilege]]. The idea that women benefit from certain rights and privileges not available to men is referred to as [[female privilege]].
+
+The view that women are superior to men is another form of sexism, and when expressed by a woman may be called [[female chauvinism]] or [[misandry]].  The hatred of men is called ''[[misandry]]'', while ''[[androphobia]]'' refers to the fear of men or [[masculinity]].
+
+====Stereotypes====
+Gender stereotypes are formed at an early age with men and women being identified with particular occupations.  Much work is being done to challenge such gender stereotyping, especially to encourage women to enter professions which have traditionally been a largely male domain, such as construction and engineering. The June 2002 Review by the Social Science Research Unit, University of London &lt;ref name="Full review"&gt;[http://eppi.ioe.ac.uk/cms/LinkClick.aspx?fileticket=HagpzfgMmR8%3d&amp;tabid=236&amp;mid=1048&amp;language=en-US Social Science Research Unit, University of London Review 2002]&lt;/ref&gt; concluded that tackling gender stereotyping at the primary school stage is vital, as it develops early and quickly. Various interventions were reviewed including the use of fiction in challenging gender stereotypes. 
+
+For example, in a study by A. Wing, children were read Bill’s New Frock by [[Anne Fine]]. The content of the book was discussed with them. Children were able to articulate, and reflect on, their stereotypical constructions of gender and those in the world at large. There was evidence of children considering ‘the different treatment that boys and girls receive’, and of classroom discussion enabling stereotypes to be challenged.
+
+====Legal status====
+U.S. and English law subscribed until the 20th century to the system of [[coverture]], whereby "by marriage, the husband and wife are one person in law; that is the very being or legal existence of the woman is suspended during the marriage."&lt;ref&gt;Blackstone, William. ''Commentaries on the Laws of England.''http://www.mdx.ac.uk/WWW/STUDY/xBlack.htm&lt;/ref&gt;
+
+Not until 1875 were women in the U.S. legally defined as persons (Minor v Happersett, 88 U.S. 162),&lt;ref name="legacy98.org"&gt;http://www.legacy98.org/timeline.html&lt;/ref&gt; and women did not receive the vote in the U.S. until 1920&lt;ref name="legacy98.org"/&gt; and in the U.K. until 1918.
+
+====Domestic violence====
+{{Main|Domestic violence|Violence against women}}
+
+In the most serious cases of domestic violence men dominate. Women are much more likely to be murdered by an intimate partner, regardless of who started the fight. Among the persons killed by an intimate partner, about three quarters are female, and about a quarter are male: in 1999, in the [[US]], 1,218 women and 424 men were killed by an intimate partner, regardless of which partner started the violence and of the gender of the partner.&lt;ref&gt;[http://www.ojp.usdoj.gov/bjs/pub/pdf/ipv01.pdf Intimate Partner Violence, 1993-2001&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; In the [[US]], in 2005, 1181 females and 329 males were killed by their intimate partners.&lt;ref&gt;[http://www.cdc.gov/violencePrevention/intimatepartnerviolence/consequences.html]&lt;/ref&gt;
+&lt;ref&gt;[http://www.theduluthmodel.org/wheelgallery.php]&lt;/ref&gt;
+
+The U.S. Center for Disease Control in conjunction with the American Psychiatric Association found that of heterosexual relationships involving violence, 50.3% involve non-reciprocal violence, and of that 50.3%, women were the instigators 70.7% of the time, although "physical injury was more likely to occur when the violence was reciprocal."&lt;ref&gt;http://pn.psychiatryonline.org/cgi/content/full/42/15/31-a&lt;/ref&gt;  Linda Kelly states in her thesis, ''Disabusing the Definition of Domestic Abuse: How Women Batter Men and the Role of the Feminist State'' in the Florida State University Law Review that domestic violence is equally the province of women.&lt;ref&gt;http://www.law.fsu.edu/Journals/lawreview/downloads/304/kelly.pdf&lt;/ref&gt;
+
+In a [[UNICEF]] survey, the percentage of women aged 15–49 who thought that a husband is justified in hitting or beating his wife under certain circumstances, was 90% in [[Jordan]], 85.6% in [[Guinea]], 85.4% in [[Zambia]], 85% in [[Sierra Leone]], 81.2% in [[Laos]], and 81% in [[Ethiopia]].&lt;ref&gt;{{cite web|url=http://www.childinfo.org/attitudes_data.php|title=Percentage of women aged 15-49 who think that a husband is justified in hitting or beating his wife under certain circumstances|publisher=Childinfo|accessdate=2010-01-26}}&lt;/ref&gt;
+
+In a U.S. survey of 5,238 adults regarding the attitudinal acceptance of intimate partner violence, participants were more accepting of women hitting men, and were consistently more likely to tolerate the violence if they were first asked about women hitting men rather than the reverse.&lt;ref&gt;{{cite journal|title=Attitudinal Acceptance of Intimate Partner Violence Among U.S. Adults|author=Simon, Thomas R.|coauthors=Anderson, Mark; Thompson, Martie P.; Crosby, Alex E.; Shelley, Gene; Sacks, Jeffrey J.|journal=Violence and Victims|volume=16|issue=2|year=2001|pages=115–126|url=http://www.ingentaconnect.com/content/springer/vav/2001/00000016/00000002/art00001}}&lt;/ref&gt;
+
+====Rape====
+Research into the factors which motivate perpetrators of rape against women frequently reveals patterns of hatred of women and pleasure in inflicting psychological and/or physical trauma, rather than sexual interest.&lt;ref name=Lisak1988&gt;{{cite journal | author = Lisak, D.  | coauthors = Roth, S. | year = 1988  | title = Motivational factors in nonincarcerated sexually aggressive men. | journal = J Pers Soc Psychol  | volume = 55 | issue = 5 | pages = 795–802 | pmid = 3210146 | accessdate = 2008-05-27 | doi = 10.1037/0022-3514.55.5.795}}&lt;/ref&gt;  Feminists have argued that rape is not the result of pathological individuals, but rather of systems of male dominance and from cultural practices and beliefs that objectify and degrade women.&lt;ref name=Odem&gt;{{Cite book | author=Odem, Mary E.; | coauthors=Clay-Warner, Jody | title=Confronting rape and sexual assault | year=1998 | publisher=Scholarly Resources | location=Wilmington, Del.  | isbn=978-0-8420-2599-7 | pages=i-x}}&lt;/ref&gt; 
+
+Mary Odem and Jody Clay-Warner, along with Susan Brownwiller, consider sexist attitudes to be propagated by a series of myths about rape and rapists.&lt;ref name=Brownmiller&gt;{{Cite book | author=Brownmiller, Susan | title=Against Our Will: Men, Women and Rape | year=1992 | publisher=Penguin Books, Limited | location=New York  | isbn=9780140139860 | pages=480}}&lt;/ref&gt;&lt;ref&gt;{{Cite book | author=Odem, Mary E.; | coauthors=Clay-Warner, Jody | title=Confronting rape and sexual assault | year=1998 | publisher=Scholarly Resources | location=Wilmington, Del.  | isbn=978-0-8420-2599-7 | pages=130–140}}&lt;/ref&gt;  They state that contrary to these myths, rapists often plan a rape before they choose a victim,&lt;ref name="Odem"/&gt; and that [[acquaintance rape]] is the most common form of rape rather than assault by a stranger.&lt;ref&gt;{{Cite book | author=Odem, Mary E.; | coauthors=Clay-Warner, Jody | title=Confronting rape and sexual assault | year=1998 | publisher=Scholarly Resources | location=Wilmington, Del.  | isbn=978-0-8420-2599-7 | page=xiv}}&lt;/ref&gt;&lt;ref name=Bohmer&gt;{{Cite book | editor=Parrot, Andrea; Bechhofer, Laurie | author=Bohmer, Carol | chapter=Acquaintance rape and the law | title=Acquaintance rape: the hidden crime | year=1991 | publisher=Wiley | location=New York  | isbn=978-0-471-51023-9 | pages=317–333}}&lt;/ref&gt;  Odem also states that these rape myths propagate sexist attitudes about men by perpetuating a myth that men cannot control their sexuality.&lt;ref name=Odem&gt;{{Cite book | author=Odem, Mary E.; | coauthors=Clay-Warner, Jody | title=Confronting rape and sexual assault | year=1998 | publisher=Scholarly Resources | location=Wilmington, Del.  | isbn=978-0-8420-2599-7 | page=135}}&lt;/ref&gt;
+
+====Education====
+Women in the past have been excluded from higher education.&lt;ref&gt;Solomon, Barbara Miller. ''In the Company of Educated Women.''&lt;/ref&gt; When women were admitted to higher education, they were encouraged to major in subjects that were considered less intellectual; the study of English literature in English and U.S. colleges and universities was in fact instituted as a field of study considered suitable to women's "lesser intellects."&lt;ref&gt;Eagleton, Terry. ''Literary Theory.''&lt;/ref&gt; Recently more women than men have entered postsecondary institutions.&lt;ref&gt;National Center for Education Statistics, http://nces.ed.gov/pubs2005/2005028.pdf&lt;/ref&gt;
+
+Research studies have found that discrimination continues today: Boys receive more attention and praise in the classroom in grade school,&lt;ref&gt;Halpern, Diane F. ''Sex differences in cognitive abilities.'' Laurence Erlbaum Associates, 2000. ISBN 080582792. Page 259.&lt;/ref&gt; and "this pattern of more active teacher attention directed at male students continues at the postsecondary level."&lt;ref&gt;Sadker, Myra, and David Sadker. "Confronting Sexism in the College Classroom." In ''Gender in the Classroom: Power and Pedagogy.'' Ed. Susan L. Gabriel and Isaiah Smithson. Page 177.&lt;/ref&gt; Over time, female students speak less and less in classroom settings.&lt;ref&gt;Sadker, Myra, and David Sadker. "Failing at Fairness: Hidden Lessons." In ''Mapping the social landscape: readings in sociology.'' Ed. Sandra J. Ferguson, [[Susan J. Ferguson]]. Taylor &amp; Francies, 1999. ISBN 0-7674-0616-8. Page 350.&lt;/ref&gt; A possible reason for the increased attention paid to boys in school is that girls earn higher grades than boys until the end of high school. It is also possible that boys are discriminated against by the school system, as girls in some districts achieve higher grades despite scoring the same or lower than boys on standardized tests.&lt;ref&gt;Public Policy Sources, http://www.fraserinstitute.org/commerce.web/product_files/BoysGirlsandGradesIntro.pdf&lt;/ref&gt;.
+
+====Professions====
+Women have historically been excluded from participation in many professions. When women have gained entry into a previously male profession, they have faced many additional obstacles; [[Elizabeth Blackwell]], the first woman to receive an [[Doctor of Medicine|M.D.]] in the [[United States]], and [[Myra Bradwell]], the first female [[lawyer]] in the state of [[Illinois]], are examples.
+
+Professional discrimination continues today, according to studies done by [[Cornell University]] and others.  It has been hypothesized that gender bias has been influencing which scientific research gets published. This hypothesis coincides with a test conducted at the University of Toronto led by Amber Budden. Based on the results of this study, almost 10 percent of female authors get their papers published when their gender is hidden.
+
+In addition, women frequently earn significantly less wages than their male counterparts who perform the same job.&lt;ref name="unstats"&gt;[http://unstats.un.org/unsd/demographic/products/indwm/ww2005/tab5g.htm Statistics and indicators on women and men: Table 5g Women's wages relative to men's]  United Nations Statistics Division, 22 April 2005&lt;/ref&gt; In the United States, for example, women earn an average of 23.5% less than men.&lt;ref&gt;This number compares the income off all men and women who work 35 hours or more each week. See Institute for Women's Policy Research, [http://www.iwpr.org/pdf/WageRatioPress_release8-27-04.pdf 'Women's earnings fall: U.S. Census Bureau finds rising gender wage gap'], media release, 27 August 2004, retrieved Dec 2007&lt;/ref&gt;
+
+Some experts believe that parents play an important role in the creation of values and perceptions of their children. The fact that girls are asked to help their mothers do housework, while boys do technical tasks with their fathers, seems to influence their behavior and can sometimes discourage girls from performing such tasks. Girls will then think that each gender should have a specific role and behavior.&lt;ref&gt;http://www.physik.uni-bremen.de/physics.education/schwedes/text/bellater.htm&lt;/ref&gt;&lt;ref&gt;http://www.discriminations.us/2006/09/fighting_gender_bias_in_scienc.html&lt;/ref&gt;&lt;ref&gt;http://blogs.edweek.org/edweek/curriculum/2009/02/gender_bias_and_science.html&lt;/ref&gt;&lt;ref&gt;http://www.fasebj.org/cgi/reprint/20/9/1284.pdf&lt;/ref&gt;&lt;ref&gt;New Scientist, issue 2639, 18 January 2008&lt;/ref&gt;&lt;ref&gt;Wall Street Journal, p. B6, January 18, 2008&lt;/ref&gt;&lt;ref&gt;Cross, Sam. "Women Excluded from Executive Positions." http://cornellsun.com/section/news/content/2008/03/31/report-women-excluded-exec-positions&lt;/ref&gt;&lt;ref&gt;Newman, Melanie. "At the top, women still can't get a break from stereotypes." http://www.timeshighereducation.co.uk/story.asp?storycode=401046&lt;/ref&gt;
+
+A 2009 study of [[chief executive officer|CEOs]] found that more men occupying the position were overweight or obese compared to men in the general population, while the reverse held true for female CEOs. {{Citation needed|date=November 2009}} The leader of the study stated that the results "suggest that while being obese limits the career opportunities of both women and men, being merely overweight harms only female executives -- and may actually benefit male executives."&lt;ref&gt;{{cite news| url = http://www.news.com.au/heraldsun/story/0,21985,25317149-662,00.html| title = Women's careers more tied to weight than men -- study| accessdate = 2009-04-10| author = Julie Moult| date = 11 April 2009| publisher = ''[[news.com.au]]''}}&lt;/ref&gt;
+
+At other times, there are accusations that some traditionally female professions have been or are being eliminated by its roles being subsumed by a male dominated profession.  The assumption of baby delivery roles by doctors and subsequent decline of [[midwifery]] is sometimes claimed to be an example.
+
+====Mandatory military service====
+[[Military_service#Countries_with_mandatory_military_service|Many countries]] around the world make it mandatory for males to join the military, but not females.
+Men at 18 years of age in the United States are required to register for military conscription to be drafted to war or military service. Women are not required to register with the [[Selective Service System]] and have no obligation to serve in the military in the case of a draft.  Mandatory military service is sometimes cited as an example of discrimination against men.
+
+===Transsexuals===
+{{Main|Transphobia}}
+Transphobia refers to prejudice against transsexuality and transsexual or transgender people, based on their personal gender identification (see [[Phobia#Terms indicating prejudice or class discrimination|Phobia - terms indicating prejudice or class discrimination]]). Whether intentional or not, transphobia can have severe consequences for the person the object of the negative attitude. The [[LGBT]] movement has campaigned against sexism against transsexuals. One form of sexism against transsexuals is how many "women-only" and "men-only" events and organizations have been criticized for rejecting trans women and trans men, respectively.&lt;ref&gt;"Michigan Women's Music Festival ends policy of discrimination against Transwomen" http://www.intraa.org/story/newmwmfpolicy&lt;/ref&gt;&lt;ref&gt;Lesfest. http://www.lesbian.com/news/international_2003_1006.html&lt;/ref&gt;
+
+==Sexual expression==
+The expression of sexual intimacy is a part of the [[human condition]]. However, various aspects of human sexuality have been argued as having contributed to sexism.
+
+===Sexual revolution===
+During the [[sexual revolution]], there was a change in the cultural perception of sexual morality and sexual behavior. The sexual revolution has been known as the [[sexually liberal feminism|sexual liberation]] by [[feminist]]s since some saw this new development in the West as a leveling ground for females to have as many choices concerning their sexuality as males—hoping to eliminate the problematic [[virgin/whore dichotomy]] of traditional Western society.
+
+[[Ariel Levy]] argues that the current state of commercial sexuality has created a "[[Raunch Culture]]".&lt;ref&gt;{{cite book|title=Female Chauvinist Pigs|first=Ariel|last=Levy|publisher=Simon and Schuster|year=2005}}&lt;/ref&gt; She argues that there has been a commercialization of the sexual objectification of women; a cultural, largely Western development that she criticizes as being limiting for men and women. Some feminists argue that rather than being liberating, that a "pornification" of Western society has reduced and equated the scope of feminine power to sexual power only. They argue that women are themselves objectifying other women by becoming producers and promoters of the "Raunch Culture". [[Gloria Steinem]] has stated in an interview that: "In the '70s, people confused the sexual revolution with feminism, and the sexual revolution really was about making more women sexually available on men's terms."&lt;ref&gt;http://www.feministezine.com/feminist/funny/Fierce-Funny-Feminists.html&lt;/ref&gt;
+
+Some [[masculist]]s posit that prior to the sexual revolution the idealized male was expected to be virile while the idealized female was expected to be modest. They argue that after the sexual revolution, women were given more liberty to express virility while the reverse has not been true for men, who have yet to be given a choice to be non-virile. They argue that the dual identity of [[hypersexuality]] and [[asexuality]] is a luxury and special status that only exists for women.{{Citation needed|date=June 2009}} However, many feminists argue that the [[Madonna-whore complex|virgin/whore dichotomy]] has existed since long before the sexual revolution and that it entails unrealistic categories imposed on women by men, not chosen voluntarily. This dichotomy allows men to condemn women for their sexuality whether it is seen as modest or virile, a [[no-win situation]] and a [[double standard]] since they argue that this does not apply to men.&lt;ref&gt;{{cite book|title=Beauty and Misogyny|first=Sheila|last=Jeffreys|year=2005|pages=37, 41}}&lt;/ref&gt;&lt;ref&gt;{{cite book|title=Dehumanizing Women: Treating Persons as Sex Objects|first=Linda|last=LeMoncheck|publisher=Rowman &amp; Littlefield|year=1985|page=48}}&lt;/ref&gt;
+
+===Sexual objectification===
+It is argued that [[sexual objectification]] is a form of sexism. Some countries, such as [[Norway]] and [[Denmark]], have laws against sexual objectification in advertising. Nudity itself is not banned, and nude people can be used to advertise a product, but only if they are relevant to what is being advertised. Sol Olving, head of Norway's Kreativt Forum, an association of the country's top advertising agencies explained: "You could have a naked person advertising shower gel or a cream, but not a woman in a bikini draped across a car." &lt;ref&gt;{{cite news| url=http://news.bbc.co.uk/2/hi/europe/7365722.stm | work=BBC News | title=Scandinavian split on sexist ads | date=2008-04-25 | accessdate=2010-04-06 | first=Stephanie | last=Holmes}}&lt;/ref&gt;
+
+=== Pornography ===
+{{Main|Feminist views on pornography}}
+[[Radical feminists]] hold the view that [[pornography]] contributes to sexism, arguing that in pornographic performances for male spectators, actresses are reduced to mere receptacles—objects—for sexual use and abuse by men.
+
+=== Prostitution ===
+[[Radical feminists]] argue that [[prostitution]] is a sexist practice, which exploits women and which is the result of the existing patriarchal societal order, hence the laws from [[Sweden]], [[Norway]] and [[Iceland]], where it is illegal to pay for sex, but not to be a prostitute (the client commits a crime, but not the prostitute). These feminists believe that the assumptions that the bodily integrity and sexual pleasure of women are irrelevant, that women exist for men's sexual enjoyment, and that  men cannot control themselves and are entitled to sex at any time, underlie the whole idea of prostitution, and make it an inherently exploitative, sexist practice.
+
+==Language==
+{{See also|Gender-neutral language}}
+
+Sexual dichotomies exist in language, though it is disputed whether certain language causes sexism, sexism causes certain language (see the [[Sapir–Whorf hypothesis]]) or that they are both caused by something else.
+
+=== Sexist and gender-neutral language ===
+Nearing the end of the 20th century, there is a rise in the use of gender-neutral language in western worlds. This is often attributed to the rise of [[feminism]]. [[Gender-neutral language]] is the avoidance of [[gender-specific job title]]s, [[Non-parallel usage#Disputed issues|non-parallel usage]], and other usage that is felt by some to be sexist. Supporters feel that having gender-specific titles and gender-specific pronouns either implies a system bias to exclude individuals based on their gender, or else is as unnecessary in most cases as race-specific pronouns, religion-specific pronouns, or persons-height-specific pronouns. Some of those who support gender-specific pronouns assert that promoting gender-neutral language is a kind of "[[semantics]] injection" itself.
+
+=== Anthropological linguistics and gender-specific language ===
+Unlike the [[Indo-European languages]] in the west, for many other [[languages]] around the world, [[gender-specific pronouns]] are a recent phenomenon that occur around the early-20th century. As a result of [[colonialism]], cultural revolution occurred in many parts of the world with attempts to "modernize" and "westernize" by adding gender-specific pronouns and animate-inanimate pronouns to local languages. This ironically resulted in the situation of what was [[gender-neutral pronouns]] a century ago suddenly becoming gender-specific. (See for example [[Gender-neutrality in languages without grammatical gender#Turkish|Gender-neutrality in languages without grammatical gender: Turkish]].)
+
+=== Reappropriation and reclamation ===
+'''Reappropriation''' (aka '''reclamation projects''') describe a cultural process by which certain groups reclaim or re-appropriate terms, symbols, and artifacts that were previously used to discriminate. Within the [[English language]], terms like '[[Bitch (insult)|bitch]]' and '[[slut]]', which had been historically used as [[pejorative]] sexist remarks against females. They have since been used to refer to a "strong, independent, unattached female" and a "[[Sexually liberal feminism|sexually liberal]], [[hypersexual]] female"{{Citation needed|date=June 2007}}. Similarly, terms like '[[girlie men]]' and '[[transgender|tranny']], which has been historically used as pejorative sexist remarks against [[transsex]]es, have since been used to refer to the varying degree of transexuality for "pre-operation" and "non-operation" as whether they had undergone or will undergo sex-reassignment or not. The success of these cultural process has been disputed.
+
+On the flip side, the word 'dude' as a pejorative has crossed the sexes and is being applied to males. In politics, the term 'girlie men' has also been used by [[Governor Schwarzenegger]] to attack his political opponents, who are not transsexes. This has led to Schwarzenegger being accused of being sexist.
+{{POV-section|date=February 2010}}
+
+==Occupational sexism==
+{{Main|Occupational sexism}}
+Occupational sexism refers to any [[discriminatory]] practices, statements, actions, etc. based on a person's [[sex]] that are present or occur in a place of [[employment]]. One form of occupational sexism is wage discrimination, which is prohibited in the US.&lt;ref&gt;{{cite web
+|title=Facts About Compensation Discrimination
+|author=The U.S. Equal Employment Opportunity Commission
+|url=http://www.eeoc.gov/facts/fs-epa.html
+|accessdate=2008-04-23}}&lt;/ref&gt;
+
+====Gender wage gap====
+{{Main|Income disparity}}
+
+''See also: [[Male–female income disparity in the United States]]''
+
+Women have historically earned less than men; the reasons for the current wage gap are the subject of controversy.
+
+In the 19th century and for much of the 20th, women were paid less than men for the same work. In the [[USA|United States]], this eventually led to the passing of the U.S. [[Equal Pay Act]] in 1963. At that time, women earned approximately 58 cents to a man's dollar.&lt;ref name="clinton4.nara.gov"&gt;The White House. "Explaining Trends in the Gender Wage Gap." http://clinton4.nara.gov/WH/EOP/CEA/html/gendergap.html&lt;/ref&gt;
+
+Today, women in the [[United States]] are estimated to earn roughly 75 percent of the income of men.&lt;ref name="clinton4.nara.gov"/&gt;&lt;ref&gt;Longley, Robert. "Gender Wage Gap Widening, Census Data Shows." http://usgovinfo.about.com/od/censusandstatistics/a/paygapgrows.htm&lt;/ref&gt; The difference in wages is reduced when factors such as hours worked and experience are controlled for.  For instance, one study found that while women earn 69 cents for every dollar a man earns 10 years after graduating college.  When experience, education, training and personal characteristics were controlled for, however, women earned over 96 cents for every dollar a man made 10 years after graduating college.&lt;ref&gt; AAUW Behind the Pay Gap http://www.aauw.org/research/upload/behindPayGap.pdf&lt;/ref&gt; Unmarried women without children may earn 15 to 20 percent more than males in the same situation, depending upon geographical location in the US.&lt;ref name=forbesfmore&gt;http://www.forbes.com/ceonetwork/2006/05/12/women-wage-gap-cx_wf_0512earningmore.html&lt;/ref&gt;&lt;ref&gt;Roberts, Sam. "For Young Earners in the Big City, A Gap in Women's Favor." http://www.nytimes.com/2007/08/03/nyregion/03women.html&lt;/ref&gt; 
+
+Women are less likely to negotiate raises, and when they do negotiate, they are less likely to receive them.&lt;ref&gt;Babcock, L. &amp; Laschever, S. (2003) Women Don’t Ask: Negotiation and the Gender Divide. Princeton University Press&lt;/ref&gt;. [[David R. Hekman]] and colleagues found that women are less likely to negotiate because they are less valuable in the marketplace than equally well performing white men.&lt;ref&gt;Hekman, David R.; Aquino, Karl; Owens, Brad P.; Mitchell, Terence R.; Schilpzand, Pauline; Leavitt, Keith. (2009) An Examination of Whether and How Racial and Gender Biases Influence Customer Satisfaction. Academy of Management Journal. http://journals.aomonline.org/inpress/main.asp?action=preview&amp;art_id=610&amp;p_id=1&amp;p_short=AMJ&lt;/ref&gt;  Hekman et al. (2009) found that customers who viewed videos featuring a black male, a white female, or a white male actor playing the role of an employee helping a customer were 19% more satisfied with the white male employee's performance and also were more satisfied with the store's cleanliness and appearance. This despite that all three actors performed identically, read the same script, and were in the exact same location with identical camera angles and lighting.   Moreover, 45 percent of the customers were women and 41 percent were non-white, indicating that even women and minority customers prefer white men.  In a second study, they found that white male doctors were rated as more approachable and competent than equally-well performing women or minority doctors. They interpret their findings to suggest that employers are willing to pay more for white male employees because employers are customer driven and customers are happier with white male employees.  They also suggest that what is required to solve the problem of wage inequality isn't necessarily paying women more but changing customer biases. This paper has been featured in many media outlets including [[The New York Times]],&lt;ref&gt;Bakalar, Nicholas (2009) “A Customer Bias in Favor of White Men.” New York Times. June 23, 2009, page D6. http://www.nytimes.com/2009/06/23/health/research/23perc.html?ref=science&lt;/ref&gt; [[The Washington Post]],&lt;ref&gt;Vedantam, Shankar (2009) “Caveat for Employers.” Washington Post, June 1, 2009, page A8 http://www.washingtonpost.com/wp-dyn/content/article/2009/05/31/AR2009053102081.html&lt;/ref&gt;[[The Boston Globe]],&lt;ref&gt;Jackson, Derrick (2009) “Subtle, and stubborn, race bias.” Boston Globe, July 6, 2009, page A10 http://www.boston.com/bostonglobe/editorial_opinion/editorials/articles/2009/07/06/subtle_and_stubborn_race_bias/&lt;/ref&gt; and [[National Public Radio]].&lt;ref&gt;National Public Radio, Lake Effect, http://www.wuwm.com/programs/lake_effect/view_le.php?articleid=754&lt;/ref&gt; Perhaps because women are less valuable to customers than men, women are more likely to work part-time, to take more time off for their children, and join lower status professions.&lt;ref name="womensmedia.com"&gt;Lips, Hilary. "Blaming Women's Choices for the Gender Pay Gap." http://www.womensmedia.com/new/Lips-Hilary-blaming-gender-pay-gap.shtml&lt;/ref&gt;&lt;ref&gt;Longley, Robert. "Why Women Still Make Less Than Men." http://usgovinfo.about.com/cs/censusstatistic/a/womenspay.htm&lt;/ref&gt;
+
+Research done at [[Cornell University]] and elsewhere indicates that mothers are 44 percent less likely to be hired than women with otherwise identical resumes, experience, and qualifications, and, if hired, are offered on average $USD 11,000 a year less than women without children.&lt;ref&gt;MomsRising.org. ''The Motherhood Manifesto.'' http://www.momsrising.org/node/251&lt;/ref&gt; Exactly the opposite form of discrimination is indicated for men; those without children earn, on average, [[USD|$]]7,500 less than men with children.&lt;ref name="womensmedia.com"/&gt;
+
+A factor that is used by some authors, such as [[Warren Farrell]], to partially explain the wage gap is the fact that the majority of victims of workplace accidents are male.  For example in Canada, the rate of workplace accidents was 30 times higher for men than for women in 2005&lt;ref&gt;http://www.csls.ca/reports/csls2006-04-E.pdf&lt;/ref&gt; and in the U.S. 93% of people killed in the workplace in 2008 were men.&lt;ref&gt;Ecomomix, ''Why did Workplace Deaths Decline in 2008'',http://economix.blogs.nytimes.com/2009/08/31/why-did-workplace-deaths-fall-in-2008/&lt;/ref&gt;
+
+A study by Schilt and Wiswall found that female-to-male transsexuals earn an average of 1.5% more after their transition, whereas male-to-female transsexuals earn an average of 32% less.&lt;ref&gt;Cloud, John. "If Women Were More Like Men." http://www.time.com/time/nation/article/0,8599,1847194,00.html&lt;/ref&gt;
+
+==Discrimination==
+Though sexism refers to beliefs and [[Attitude (psychology)|attitudes]] in relation to the [[gender]] of a person, such beliefs and attitudes are of a social nature and do not, normally, carry any legal consequences. [[Discrimination|Sex discrimination]], on the other hand, may have legal consequences. Though what constitutes sex discrimination varies between countries, the essence is that it is an adverse action taken by one person against another person that would not have occurred had the person been of another sex. Discrimination of that nature in certain enumerated circumstances is illegal in many countries.
+
+Sexual discrimination can arise in different contexts. For instance an employee may be discriminated against by being asked discriminatory questions during a job interview, or because an [[employer]] did not hire, promote or wrongfully terminated an employee based on his or her gender, or employers pay unequally based on gender. In an educational setting there could be claims that a student was excluded from an educational institution, program, opportunity, loan, student group, or scholarship on account of his or her gender. In the housing setting there could be claims that a person was refused negotiations on seeking a house, contracting/leasing a house or getting a loan based on his or her gender.
+
+Socially, sexual differences have been used to justify different roles for men and women, in some cases giving rise to claims of primary and secondary roles. While there are non-physical differences between men and women, there is little agreement as to what those differences are.
+
+The [[United Nations]] has stated (2006) that women struggle to break through a "[[glass ceiling]]", and that "progress in bringing women into leadership and decision-making positions around the world remains far too slow."&lt;ref name="UN-IWD2006"&gt;{{cite web
+|first=
+|authorlink=
+|coauthors=
+|title=Women still struggle to break through glass ceiling in government, business, academia
+|work=
+|publisher=United Nations
+|date=2006-03-08
+|url=http://www.un.org/events/women/iwd/2006/PressReleaseIWD8March.pdf
+|format=PDF|doi=
+|accessdate=2008-07-21}}&lt;/ref&gt; The Special Adviser to the Secretary-General on Gender Issues, Rachel Mayanja, said, "The past ten years have seen the fastest growth in the number of women
+in parliaments, yet even at this rate, parity between women and men in parliaments
+will not be reached until 2040."&lt;ref name="UN-IWD2006" /&gt;
+
+The term "glass ceiling" is used to describe a perceived barrier to advancement in employment and government based on discrimination, especially sex discrimination. In the [[United States]], the Glass Ceiling Commission, a government-funded group, stated: "Over half of all Master’s degrees are now awarded to women, yet 95% of senior-level managers, of the top Fortune 1000 industrial and 500 service companies are men. Of them, 97% are white." In its report, it recommended [[reverse discrimination]], which is the consideration of an employee's gender and race in hiring and promotion decisions, as a means to end this form of discrimination.&lt;ref name="Glass Ceiling Commission"&gt;{{cite web
+|url=http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1117&amp;context=key_workplace
+|title=A Solid Investment: Making Full Use of the Nation's Human Capital
+|date=1995-11
+|accessdate=2008-05-23}}&lt;/ref&gt;
+
+[[transsexualism|Transgendered]] individuals, both male to female and female to male, often experience problems which often lead to dismissals, underachievement, difficulty in finding a job, social isolation, and, occasionally, violent attacks against them.
+
+==See also==
+{{col-begin}}
+{{col-2}}
+*[[Chauvinism]]
+*[[Equal Pay Act]]
+*[[Gender discrimination in Pakistan]]
+*[[Gender Egalitarianism]]
+*[[Genderism]]
+*[[Gender-neutral language]]
+*[[Gender role]]
+*[[Intersectionality]]
+*[[LGBT stereotypes]]
+*[[Masculinity]]
+*[[National Organization for Women]]
+*[[Occupational sexism]]
+*[[Misandry]]
+*[[Misogyny]]
+{{col-2}}
+*[[Pregnancy]] issues
+*[[Sexual harassment]]
+*[[Sexual objectification]]
+*[[Sex in advertising]]
+*[[Sex Roles (journal)]]
+*[[Sex segregation]]
+*[[Sexism in India]]
+*[[Stereotype]]
+*[[Triple oppression]]
+*[[Face-ism]]
+*[[Feminism]]
+*[[Masculism]]
+*[[Glass cliff]]
+{{col-end}}
+
+==References==
+{{Ibid|date=March 2010}}
+{{reflist|2}}
+
+==External links==
+*[http://www.nomas.org/ National Organisation of Men Against Sexism NOMAS, USA]
+*[http://finduslaw.com/equal_pay_act_of_1963_epa_29_u_s_code_chapter_8_206_d Equal Pay Act - Actual Text]
+*[http://finduslaw.com/taxonomy_menu/12/23/13 Gender Discrimination Law in the United States]
+*[http://genderstereotype.nomaki.jp/ Gender Stereotypes - Changes in People's Thoughts]
+
+{{Discrimination}}
+
+[[Category:Sexism| ]]
+[[Category:Sexual and gender prejudices]]
+[[Category:Dispositional beliefs]]
+
+[[als:Sexismus]]
+[[ar:تفرقة جنسية]]
+[[be-x-old:Сэксізм]]
+[[bs:Seksizam]]
+[[bg:Полова дискриминация]]
+[[ca:Sexisme]]
+[[cs:Sexismus]]
+[[da:Sexisme]]
+[[de:Sexismus]]
+[[et:Seksism]]
+[[el:Σεξισμός]]
+[[es:Sexismo]]
+[[eo:Seksismo]]
+[[fa:جنسیت‌گرایی]]
+[[fr:Sexisme]]
+[[ko:성 차별]]
+[[hr:Seksizam]]
+[[id:Seksisme]]
+[[is:Kynjamismunun]]
+[[it:Sessismo]]
+[[he:אפליה מינית]]
+[[lv:Seksisms]]
+[[lt:Seksizmas]]
+[[ms:Seksisme]]
+[[mwl:Sexismo]]
+[[nl:Seksisme]]
+[[new:लिङ्गभेद]]
+[[ja:性差別]]
+[[no:Kjønnsdiskriminering]]
+[[nn:Kjønnsdiskriminering]]
+[[pl:Seksizm]]
+[[pt:Sexismo]]
+[[ro:Sexism]]
+[[ru:Сексизм]]
+[[scn:Sissismu]]
+[[simple:Sexism]]
+[[sk:Sexizmus]]
+[[sl:Seksizem]]
+[[sr:Сексизам]]
+[[sh:Seksizam]]
+[[fi:Seksismi]]
+[[sv:Sexism]]
+[[tl:Seksismo]]
+[[th:เพศนิยม]]
+[[tr:Cinsiyetçilik]]
+[[uk:Сексизм]]
+[[vi:Phân biệt đối xử theo giới tính]]
+[[fiu-vro:Seksism]]
+[[zh:性別歧視主義]]</rev></revisions></page></pages></query></api>

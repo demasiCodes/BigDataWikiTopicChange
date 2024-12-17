@@ -1,0 +1,72 @@
+<?xml version="1.0"?><api><continue rvcontinue="20091116203100|326218181" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2009-11-16T20:32:33Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{TOCright}}  
+{{for|other meanings of '''Bias'''|Bias (disambiguation)}}
+{{selfref|For Wikipedia's policy on avoiding bias, see [[Wikipedia:Neutral point of view]].}}
+{{selfref|For [[systemic bias]] on Wikipedia and how to reduce it, see [[Wikipedia:Systemic bias]].}}
+'''Bias''' is a term used to describe a [[tendency]] or [[preference]] towards a particular [[perspective (cognitive)|perspective]], [[ideology]] or result, when the tendency interferes with the ability to                 be [[impartial]], unprejudiced, or [[Objectivity (science)|objective]].&lt;ref&gt;http://dictionary.reference.com/browse/bias Dictionary.com&lt;/ref&gt;. In other words, bias is generally seen as a 'one-sided' perspective.  The term '''''biased'''''  refers to a person or group who is judged to exhibit bias. It is used to describe an attitude, judgment, or behavior that is influenced by a prejudice. Bias can be unconscious or conscious in awareness.  Having a bias is part of a normal development.  Labeling someone as biased in some regard implies they need a greater or more flexible perspective in that area, or that they need to consider more deeply the context.
+
+==Bias in psychology==
+In psychology, [[cognitive bias]] is bias based on factors related to the brain as an information processor.  One type of cognitive bias is [[confirmation bias]], the tendency to interpret new information in such a way that confirms one's prior beliefs, even to the extreme of [[denial]], ignoring information that conflicts with one's prior beliefs.  The [[fundamental attribution error]], also known as "correspondence bias", is one example of such bias, in which people tend to explain others' behavior in terms of personality, whereas they tend to explain their own behavior in terms of the situation.&lt;ref&gt;http://allpsych.com/psychology101/attribution_attraction.html AllPsych.com&lt;/ref&gt;&lt;ref&gt;http://www.britannica.com/EBchecked/topic/222156/fundamental-attribution-error Britannica.com&lt;/ref&gt;
+
+==Bias in statistics==
+{{Main|Bias (statistics)}}
+In statistics, there are several types of bias:
+*[[Selection bias]], where there is an error in choosing the individuals or groups to take part in a [[Scientific method|scientific study]]. It includes [[biased sample|sampling bias]], in which some members of the population are more likely to be included than others. [[Spectrum bias]] consists of evaluating the ability of a diagnostic test in a biased group of patients, which leads to an overestimate of the sensitivity and specificity of the test.
+* The [[bias of an estimator]] is the difference between an estimator's expectation and the true value of the parameter being estimated. [[Omitted-variable bias]] is the bias that appears in estimates of parameters in a regression analysis when the assumed specification is incorrect, in that it omits an independent variable that should be in the model.
+* In [[statistical hypothesis testing]], a test is said to be ''unbiased'' when the probability of rejecting the null hypothesis exceeds the significance level when the alternative is true ''and'' is less than or equal to the significance level when the null hypothesis is true.
+* [[Systematic bias]] or [[systemic bias]] are external influences that may affect the accuracy of statistical measurements.
+* [[Data-snooping bias]] comes from the misuse of data mining techniques.
+
+==Other aspects of bias==
+* [[Cultural bias|Cultural]]: interpreting and judging phenomena in terms particular to one's own culture.
+* [[Ethnicity|Ethnic]] or [[racism|racial]]: [[racism]], [[regionalism (politics)|regionalism]] and [[tribalism]].
+* [[WP:CSB|Geographical]]:  describing a dispute as it is conducted in one country, when the dispute is framed differently elsewhere.
+* [[Inductive bias]] in machine learning
+* [[Media bias|Media]]: real or perceived bias of [[journalist]]s and [[news]] producers within the [[mass media]], in the selection of which events will be reported and how they are covered
+* [[Gender]]: including [[sexism]] and [[heteronormativity]].
+* [[natural language|Linguistic]]: bias, favoring certain languages
+* [[News bias]]
+* [[Political]]:  bias in favor of or against a particular political party, philosophy, policy or candidate.
+* [[Corporate]]:  bias in favor of a business.
+* [[Advertising]]:  bias with observations motivated for selling an opinion rather than using objectivity.
+* [[Sociological]]:  bias in favor of a society's ideals. bias for groups needs/wants.
+* [[Entertainment]]: bias in favor of entertaining an audience
+* [[Personal]]: bias for personal gain.
+* [[Religion|Religious]]:  bias for or against religion, faith or beliefs;  
+* [[Sensationalism|Sensationalist]]: favoring the exceptional over the ordinary. This includes emphasizing, distorting, or fabricating exceptional news to boost commercial ratings.
+* [[Scientific]] (including [[antiscience|anti-scientific]] and [[scientific skepticism]]): favoring (or disfavoring) a scientist, inventor, or theory for non-scientific reasons. This can also include excessive favoring (or disfavoring) prevalent scientific opinion, if in doing so, other viewpoints are no longer being treated neutrally.
+
+==See also==
+{{Portal|Psychology|Psi.PNG}}
+* [[Bias (textile)]]
+* [[List of cognitive biases]]
+* [[Scholarly method]]
+* [[Source criticism]]
+* [[Weasel word]]
+* [[Bias ratio (finance)]]
+* [[Biasing (electronics)]]
+* [[Systemic bias]]
+* [[Systematic bias]]
+
+==References==
+{{reflist}}
+
+== External links ==
+{{wikiquote}}
+{{wt}}
+{{Biases}}
+[[Category:Bias|*]]
+[[Category:Psychological attitude]]
+[[Category:Critical thinking]]
+
+[[ar:انحياز]]
+[[da:Bias (psykologi)]]
+[[de:Bias]]
+[[es:Sesgo]]
+[[he:נטאי]]
+[[no:Bias]]
+[[pt:Viés]]
+[[simple:Bias]]
+[[sr:Биас]]
+[[sv:Metodfel]]
+[[ta:பக்கசார்பு]]
+[[tr:Ön yargı]]</rev></revisions></page></pages></query></api>

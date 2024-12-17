@@ -1,0 +1,33 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050428011734|14140679" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1435066" pageid="1435066" ns="0" title="Convention on the Elimination of All Forms of Discrimination Against Women"><revisions><rev timestamp="2005-05-24T02:24:18Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">&lt;!-- UN-related article; UN spelling/stylistic conventions--&gt;
+{{Treatybox|
+treaty_name=Convention on the Elimination of All Forms of Discrimination Against Women
+|colour_scheme=background:pink
+|image=[[image:Weaving profile.jpg|thumb|center|225px]]
+|caption=|place_signed=[[New York City]]
+|date_signed=[[18 December]] [[1979]]
+|date_entered_into_force=[[3 September]] [[1981]]
+|conditions_for_entry_into_force=20 ratifications
+|parties=180[http://www.un.org/womenwatch/daw/cedaw/states.htm]
+|}}
+The '''Convention on the Elimination of All Forms of Discrimination against Women''' ('''CEDAW''') is an international convention adopted in [[1979]] by the [[United Nations]] [[United Nations General Assembly|General Assembly]]. 
+Described as an international [[bill of rights]] for [[woman|women]], it came into force on [[3 September]] [[1981]].
+
+==The Convention==
+The Convention defines discrimination against women in the following terms:
+
+&lt;blockquote&gt;Any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise by women, irrespective of their marital status, on a basis of equality of men and women, of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field.&lt;/blockquote&gt;
+
+It also establishes an agenda of action for putting an end to sex-based discrimination: 
+States ratifying the Convention are required to enshrine male/female equality into their domestic legislation, repeal all discriminatory provisions in their laws, and enact new provisions to guard against discrimination against women. They must also establish tribunals and public institutions to guarantee women effective protection against discrimination, and take steps to eliminate all forms of discrimination practised against women by individuals, organizations, and enterprises.
+
+==The Committee==
+Convention oversight is the task of the [[Committee on the Elimination of Discrimination against Women]], which is made up of 23 experts on women's issues from different UN member states. The Committee meets twice a year to review reports on compliance with the Convention's provisions that the signatory nations are required to submit every four years. 
+
+The Committee's members, described as "experts of high moral standing and competence in the field covered by the Convention", are elected to serve four-year terms in staggered elections held every two years. Its officers are a chairperson, three vice-chairpersons, and a rapporteur.  Efforts are made to ensure balanced geographical representation and the inclusion of the world's different forms of civilization and legal systems. 
+
+==External link==
+* [http://www.un.org/womenwatch/daw/cedaw/ UN CEDAW site], links to full text of document, country reports, lists of reservations stated by particular countries, etc.
+
+[[Category:United Nations]]
+[[Category:Feminism]]
+[[Category:Human rights instruments]]</rev></revisions></page></pages></query></api>

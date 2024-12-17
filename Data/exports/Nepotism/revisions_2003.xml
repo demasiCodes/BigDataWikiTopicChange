@@ -1,0 +1,9 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030907120721|1405587" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="313538" pageid="313538" ns="0" title="Nepotism"><revisions><rev timestamp="2003-09-07T14:43:13Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Nepotism''' is the act of favoring one's family members in a situation where doing so is considered inappropriate. For instance, a manager in a firm is generally expected to promote the most competent persons, in order that the firm may succeed. For that manager to promote an incompetent relative over a more-qualified employee is nepotism.
+
+The word ''nepotism'' comes from the Latin word for ''nephew''.
+
+Some biologists have suggested that a tendency towards nepotism is instinctual, a form of [[kin selection]].
+
+Nepotism is a common accusation in politics when the relative of a powerful figure ascends to similar power seemingly without appropriate qualifications. Politically powerful families such as the [[Kennedy family]] and [[Bush family]] in American politics are sometimes accused of nepotism by critics.
+
+''This article is a [[Wikipedia:The perfect stub article|stub]]. You can help  Wikipedia by [[Wikipedia:Find or fix a stub|fixing it]].''</rev></revisions></page></pages></query></api>

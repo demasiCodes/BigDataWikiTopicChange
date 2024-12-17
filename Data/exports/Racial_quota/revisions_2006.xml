@@ -1,0 +1,15 @@
+<?xml version="1.0"?><api><continue rvcontinue="20061101141158|85036300" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="49444" pageid="49444" ns="0" title="Racial quota"><revisions><rev timestamp="2006-11-09T13:52:51Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Racial quotas''' in employment and education are numerical requirements for hiring, promoting, admitting and/or graduating members of a particular racial group. These quotas are determined by governmental authority and are backed by governmental sanctions. When the total number of jobs or enrollment slots is fixed, this proportion may get translated to a specific number. In education, this kind of quota is also known as ''[[Numerus clausus]]''.
+
+Advocates of [[affirmative action]] programs deny that these programs involve "quotas", and regard the term "racial quotas" as particularly divisive in that it is assumed to be backed by the force of law to enable or disable certain linked programs or benefits based solely upon attainment of the one "quota" measure. 
+
+Opponents of quotas object that one group is favored at the expense of another whenever a quota is invoked, i.e. it displaces another individual from another group, presumably individuals that would normally be favored on another more objective metric, such as test scores or previous achievements. Advocates point out that the quotas may compensate for other groups being unfairly favored somehow.
+
+==See also==
+*[[Jewish quota]]
+*[[Numerus clausus]]
+*[[Racism]], [[Anti-racism]] 
+*[[Reverse discrimination]], [[Discrimination]] 
+*''[[Regents of the University of California v. Bakke]]''
+*[[Reservation in India]]
+
+[[Category:Discrimination]]</rev></revisions></page></pages></query></api>

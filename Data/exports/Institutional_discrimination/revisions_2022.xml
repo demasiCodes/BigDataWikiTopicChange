@@ -1,0 +1,34 @@
+<?xml version="1.0"?><api><continue rvcontinue="20220717165046|1098816364" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="4751083" pageid="4751083" ns="0" title="Institutional discrimination"><revisions><rev timestamp="2022-08-10T20:25:55Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Discrimination sidebar|expanded=Forms}}
+'''Institutional discrimination''' is [[discriminatory]] treatment of an individual or group of individuals by society or institutions, through unequal consideration of members of subordinate groups. 
+These unfair and indirect methods of discrimination are often embedded in an institution's policies, procedures, laws, and objectives.
+The discrimination can be on grounds of gender, caste, race, ethnicity, religion, or socio-economic status.
+&lt;ref&gt;Aronson, E., Wilson, T. D., &amp; Akert, R. M. (2010). Social Psychology (7th edition). New York: Pearson.&lt;/ref&gt;
+
+==In the United States==
+{{Main|Institutionalized discrimination in the United States|Educational segregation in the United States}}
+Members of minority groups such as populations of [[African Americans|African descent]] in the [[Racism_and_ethnic_discrimination_in_the_United_States#Racism_against_African_Americans|U.S.]] are at a much higher risk of encountering these types of sociostructural disadvantage. Among the severe and long-lasting detrimental effects of institutionalized discrimination on affected populations are [[Suicide_among_LGBT_youth|increased suicide rates]], suppressed attainment of wealth and decreased access to health care.&lt;ref name="brandeis"&gt;{{cite web|url=http://iasp.brandeis.edu/pdfs/Author/shapiro-thomas-m/racialwealthgapbrief.pdf|date=2013-02-25|title=The Roots of the Widening Racial Wealth Gap: Explaining the Black-White Economic Divide|author1=Thomas Shapiro|author2=Tatjana Meschede|author3=Sam Osoro|publisher=Institute on Assets and Social Policy|location=Waltham, US|accessdate=2020-05-23}}&lt;/ref&gt;&lt;ref name="usatoday"&gt;{{cite web|url=http://usatoday30.usatoday.com/news/health/2008-03-10-health-disparities_N.htm?csp=34|title=Minorities cite health care disparities|website=USATODAY.com|accessdate=2020-05-23}}&lt;/ref&gt;
+
+==Institutional racism==
+{{Main|Institutional racism}}
+Institutional racism (also known as systemic racism) is a form of [[racism]] that is embedded as normal practice within [[society]] or an organization. It can lead to such issues as discrimination in [[criminal justice]], [[employment]], [[housing]], [[health care]], [[political power]], and [[education]], among other issues.&lt;ref&gt;{{cite news |last1=Harmon |first1=Amy |last2=Mandavilli |first2=Apoorva |last3=Maheshwari |first3=Sapna |last4=Kantor |first4=Jodi |title=From Cosmetics to NASCAR, Calls for Racial Justice Are Spreading |url=https://www.nytimes.com/2020/06/13/us/george-floyd-racism-america.html |work=The New York Times |date=13 June 2020 |url-access=subscription }}&lt;/ref&gt;
+
+The term "institutional racism" was first coined in 1967 by [[Stokely Carmichael]] and [[Charles V. Hamilton]] in ''[[Black Power: The Politics of Liberation]]''.&lt;ref&gt;{{cite book |last1=Bhavnani |first1=Reena |last2=Mirza |first2=Heidi Safia |last3=Meetoo |first3=Veena |title=Tackling the Roots of Racism: Lessons for Success |date=2005 |publisher=Policy Press |isbn=978-1-86134-774-9 |page=28 |url=https://books.google.com/books?id=KVbRVVHoKkQC&amp;pg=PA28 }}&lt;/ref&gt; Carmichael and Hamilton wrote that while individual racism is often identifiable because of its overt nature, institutional racism is less perceptible because of its "less overt, far more subtle" nature. Institutional racism "originates in the operation of established and respected forces in the society, and thus receives far less public condemnation than [individual racism]".&lt;ref&gt;{{cite book |last1=Carmichael |first1=Stokely |authorlink1=Stokely Carmichael |last2=Hamilton |first2=Charles V. |authorlink2=Charles V. Hamilton |title=Black Power: Politics of Liberation |date=1967 |publisher=Vintage |location=New York |isbn=978-0679743132 |page=[https://archive.org/details/blackpowerpoliti00carm_0/page/4 4] |edition=November 1992 |url=https://archive.org/details/blackpowerpoliti00carm_0/page/4}}&lt;/ref&gt; 
+
+==See also==
+* [[Achievement gap]]
+* [[Affirmative action]]
+* [[Environmental racism]]
+* [[Gentrification]]
+* [[Harassment]]
+* [[Redlining]]
+* [[Residential segregation]]
+* [[Structural discrimination]]
+* [[Exclusionary zoning]]
+
+==References==
+{{reflist}}
+
+[[Category:Discrimination]]
+[[Category:Institutional abuse]]
+
+{{Gov-stub}}</rev></revisions></page></pages></query></api>

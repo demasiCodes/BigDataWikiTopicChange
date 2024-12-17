@@ -1,0 +1,81 @@
+<?xml version="1.0"?><api><continue rvcontinue="20101102165358|394405440" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1239941" pageid="1239941" ns="0" title="Age of candidacy"><revisions><rev timestamp="2010-11-02T18:28:52Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Age of candidacy''' is the minimum age at which a person can legally qualify to hold certain elected government offices. In many cases, it also determines the age at which a person may be [[nomination rules|eligible to stand]] for an election or be granted [[ballot access]].
+
+The first known example of a law enforcing age of candidacy was the ''Lex Villia Annalis'', a Roman law enacted in 180 BCE which set the minimum ages for senatorial [[Roman Magistrates|magistrates]].&lt;ref&gt;{{cite book|title=The Magistrates of the Roman Republic|first=Thomas|last=Broughton|coauthors=Marcia Patterson|publisher=American Philological Association|year=1951|page=388}}&lt;/ref&gt;
+
+==Controversies==
+[[Image:Jenness-for-president.jpg|thumb|right|In 1972, [[Linda Jenness]] ran for President of the United States although she was only 31 at the time.]]
+Many [[youth rights]] groups view current age of candidacy requirements as unjustified [[Ageism|age discrimination]].&lt;ref&gt;{{cite web |title=BYC Youth Manifesto |publisher=British Youth Council |year=2008 |url=http://www.byc.org.uk/asset_store/documents/amd5a_youth_manifesto_(annual_meeting_version).pdf |format=PDF |accessdate=2008-07-28|quote=Young people believe that the age to stand as candidates for local, regional, national and European elections should be 16, as should the age to become a trustee of a charity. Young people have significant responsibilities to society at the age of 16 and can have significant responsibilities in the private sector as company directors; this inconsistency should be rectified. Young people have lots to offer and the decision of their appointment to positions of political authority or governance of organisations should be in the hands of the electorate or membership respectfully.}}&lt;/ref&gt; Occasionally people who are younger than the minimum age will run for an office in protest of the requirement or because they don't know that the requirement exists. On extremely rare occasions, young people have been elected to offices they do not qualify for and have been deemed ineligible to assume the office.
+
+In 1934, [[Rush D. Holt, Sr.|Rush Holt]] of West Virginia was elected to the [[Senate of the United States]] at the age of 29. Since the [[United States Constitution|U.S. Constitution]] requires senators to be at least 30, Holt was forced to wait until his 30th birthday, six months after the start of the session, before being sworn in.&lt;ref&gt;"[http://www.time.com/time/magazine/article/0,9171,930751,00.html Unsworn Senators]". ''Time Magazine'' (January 14, 1935).&lt;/ref&gt;
+
+In 1954, [[Richard Fulton]] won election to the [[Tennessee Senate]]. Shortly after being sworn in, Fulton was ousted from office because he was only 27 years old at the time. The [[Tennessee State Constitution]] required that senators be at least 30.&lt;ref&gt;{{cite news|first=Dick|last=Battle|coauthors=Tom Flake|title=Senate Vote Ousts Fulton|work=Nashville Banner|date=January 5, 1955}}&lt;/ref&gt; Rather than hold a new election, the previous incumbent, [[Clifford Allen]], was allowed to resume his office for another term. Fulton went on to win the next State Senate election in 1956 and was later elected to the [[United States House of Representatives|US House of Representatives]] where he served for 10 years.
+
+On several occasions, the [[Socialist Workers Party (USA)]] has nominated candidates too young to qualify for the offices they were running for. In 1972, [[Linda Jenness]] ran as the SWP presidential candidate, although she was only 31 at the time. Since the U.S. Constitution requires that the President and Vice President be at least 35 years old, Jenness was not able to receive [[ballot access]] in several states in which she otherwise qualified.&lt;ref&gt;{{cite book|first=Jo|last=Freeman|title=We Will Be Heard: Women's Struggles for Political Power in the United States|publisher=Rowman &amp; Littlefield|year=2008|quote=Only 31, Linda Jenness did not meet the Constitutional age requirement to hold the office of President, but the SWP was on the ballot in 25 states — six more than in 1968.|page=91}}&lt;/ref&gt; Despite this handicap, Jenness still received 83,380 votes.&lt;ref&gt;{{cite web|title=1972 Presidential General Election Results|work=Dave Leip's Atlas of U.S. Presidential Elections|url=http://uselectionatlas.org/RESULTS/national.php?year=1972&amp;minper=0|accessdate=2008-07-28}}&lt;/ref&gt; In 2004, the SWP nominated [[Arrin Hawkins]] as the party's vice-presidential candidate, although she was only 28 at the time. Hawkins was also unable to receive ballot access in several states due to her age.&lt;ref&gt;{{cite web | title=Presidency 2004 |url=http://www.politics1.com/swp04.htm | work=Politics1.com | accessdate=2007-10-16 | quote= Since they weren't going to be elected anyways, the Socialist Workers Party didn't care that they nominated a ticket entirely ineligible to be elected. Why? Because Róger Calero is both foreign born and also not a US citizen; and Arrin Hawkins is too young. To avoid [[ballot access]] problems for the SWP, as the constitutional ineligibility may also render them unable to be listed on the ballot in some states, the 2000 SWP ticket of James Harris for President and Margaret Trowe for Vice President are being used in states that will not permit the Calero-Hawkins slate to be listed. |archiveurl = http://web.archive.org/web/20070730141140/http://www.politics1.com/swp04.htm &lt;!-- Bot retrieved archive --&gt; |archivedate = 2007-07-30}}&lt;/ref&gt;
+
+==Reform efforts==
+
+In the United States many groups have attempted to lower age of candidacy requirements in various states. In 1994, [[South Dakota]] voters rejected a ballot measure that would have lowered the age requirements to serve as a State Senator or State Congressman from 25 to 18. In 1998, however, they approved a similar ballot measure that reduced the age requirements for those offices from 25 to 21. In 2002, [[Oregon]] voters rejected a ballot measure that would have reduced the age requirement to serve as a State Congressman from 21 to 18.
+
+During the early 2000s, the [[British Youth Council]] and other groups successfully campaigned to lower age of candidacy requirements in the United Kingdom.&lt;ref name="byc"&gt;{{cite press release |title=How old is old enough? |publisher=British Youth Council |date=October 2003 |url=http://www.byc.org.uk/downloads/Campaigns/HowOldIsOldEnough.pdf |format=PDF |accessdate=2008-07-16|quote=BYC believes that at the age of 18 a person may hold elected office. A candidate’s breadth of life experience is something that can be evaluated by the electorate... BYC strongly believes that the age of voting should be lowered to 16 and candidacy age should be lowered to 18...}}&lt;/ref&gt; The age of candidacy was reduced from 21 to 18 in [[England]], [[Wales]] and [[Scotland]] on 1 January 2007,&lt;ref&gt;[http://www.opsi.gov.uk/si/si2006/20063412.htm The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006], article 3 and Schedule 1(14)(d).&lt;/ref&gt; when section 17 of the [[Electoral Administration Act|Electoral Administration Act 2006]] entered into force.&lt;ref&gt;[http://www.opsi.gov.uk/acts/acts2006/ukpga_20060022_en_6#pt5-l1g17 The Electoral Administration Act 2006 - Part 5, Section 17]&lt;/ref&gt;
+
+==Age of candidacy in various countries==
+===Australia===
+In [[Australia]], any person 18 years of age or older may stand for election to public office at Federal, state or local government level.
+
+The Commonwealth of Australia Constitution Section 34(i) states that a member of the House of Representatives must be "of the full age of twenty-one years".
+
+===Austria===
+In [[Austria]], a person must be 18 years of age or older to stand in elections to the [[European Parliament]] or [[National Council of Austria|National Council]].&lt;ref&gt;[http://www.parlinkom.gv.at/pls/portal/docs/page/PG/DE/XXIII/I/I_00129/FNAMEORIG_079516.HTML 31/BNR (XXIII. GP) Bundes-Verfassungsgesetz], ss. 2 and 6, Republik Österreich Parlament (German).  Retrieved on 1 July 2007.&lt;/ref&gt;  The Diets of regional [[States of Austria|''Länder'']] are able to set a minimum age lower than 18 for candidacy in elections to the Diet itself as well as to municipal councils in the Land.&lt;ref&gt;[http://www.ris.bka.gv.at/erv/erv_1930_1.pdf Bundes-Verfassungsgesetz - Federal Constitutional Law 1920, 1929 version]. Retrieved on 3 February 2007.&lt;/ref&gt;  In presidential elections the candidacy age is 35.
+
+===Canada===
+In [[Canada]], any person 18 years of age or older may stand for election to public office. However, to be appointed to the Senate, one must be at least 30 years of age, must possess land worth at least $4,000 in the province for which he or she is appointed, and must own real and personal property worth at least $4,000, above his or her debts and liabilities. These restrictions were most recently enforced in 1997. (See Sister [[Peggy Butts]].)
+
+===Denmark===
+In [[Denmark]], any adult 18 years of age or older can become a candidate and be elected in any public election.
+
+===Estonia===
+In [[Estonia]], any citizen 18 years of age or older [[Elections in Estonia|can be elected]] in [[local election]]s, and 21 years or older in [[Riigikogu|parliamentary elections]]. Minimum age for the [[President of Estonia]] is 40.&lt;ref&gt;[http://www.president.ee/en/estonia/constitution.php Constitution of the Republic of Estonia]&lt;/ref&gt;
+
+===Germany===
+In [[Germany]], any citizen 18 years of age or older [[Elections in Germany|can be elected]] in national, regional or local elections. Minimum age for the [[President of Germany]] is 40 by constitution.
+
+===Hong Kong===
+In Hong Kong a person must be at least 21 to be candidate in a district council or Legislative Council election. A person must be at least 40 to be candidate in the [[Chief Executive (Hong Kong)|Chief Executive]] election, and also at least 40 to be candidate in the election for the [[President of the Legislative Council of Hong Kong|President of the Legislative Council]] from among the members of the Legislative Council.
+
+===Italy===
+In [[Italy]] a person must be at least 50 to be President of the Republic, 40 to be a [[Italian Senate|Senator]], or 25 to be a [[Italian Chamber of Deputies|Deputy]], as specified in the 1947 [[Constitution of Italy]]. 18 years of age is sufficient, however, to be elected member of the Council of Regions, Provinces, and Municipalities (Communes).
+
+===Mexico===
+In [[Mexico]] a person must be at least 35 to be President, 35 to be a Senator, or 25 to be a Congressional Deputy, as specified in the [[1917 Constitution of Mexico]].
+
+===Netherlands===
+In the [[Netherlands]], any adult 18 years of age or older can become a candidate and be elected in any public election.
+
+===Nigeria===
+In [[Nigeria]], a person must be at least 40 years of age to be elected [[President of Nigeria|President]] or [[Vice President of Nigeria|Vice President]], 35 to be a Senator or State Governor, and 30 to be a Representative in parliament.
+
+===United Kingdom===
+In the [[United Kingdom|UK]] (other than in [[Northern Ireland]]) a person must be aged 18 or over to stand in [[Elections in the United Kingdom|elections]] to all parliaments, assemblies, and councils at the European, UK, [[devolution|devolved]], or local level. This age requirement also applies in elections to any individual elective public office; the main example is that of an [[Elected mayors in the United Kingdom|elected mayor]], whether of [[Mayor of London|London]] or a [[Local government in the United Kingdom|local authority]]. There are no higher age requirements for particular positions in public office. Candidates are required to be aged 18 on both the day of nomination and the day of the poll. This was reduced from 21 by the [[Electoral Administration Act 2006]].
+
+===United States===
+{{main|Age of candidacy legislation in the United States}}
+In the [[United States]] a person must be at least 35 to be President or Vice President, 30 to be a Senator, or 25 to be a Representative, as specified in the [[United States Constitution|U.S. Constitution]]. Most states in the U.S. also have age requirements for the offices of Governor, State Senator, and State Representative. Some states have a minimum age requirement to hold any elected office (usually 21 or 18). Most states will not allow ballot access to people who do not meet the age requirement of the office they are running for.
+
+==See also==
+
+*[[Ageism]]
+*[[Ballot access]]
+*[[Electoral reform]]
+*[[Voting age]]
+
+==Notes and references==
+{{reflist}}
+
+[[Category:Aging]]
+[[Category:Electoral restrictions]]
+[[Category:Ageism]]
+[[Category:Legal terms]]
+[[Category:Youth rights]]
+[[Category:Lists by country]]
+
+[[tr:Seçilme yaşı]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?><api><continue rvcontinue="20060806064109|67962769" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="3455302" pageid="3455302" ns="0" title="Genetic discrimination"><revisions><rev timestamp="2006-08-07T17:48:58Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Genetic discrimination''' occurs when people are treated differently by their [[employer]] or [[insurance company]] because they have a [[gene]] [[mutation]] that causes or increases the risk of an [[Genetic disorder|inherited disorder]]. People who undergo [[genetic testing]] may be at risk for genetic discrimination.
+
+The results of a genetic test are normally included in a person's [[medical record]]s. When a person applies for life, disability, or health insurance, in some countries the insurance company may ask to look at these records before making a decision about coverage. An employer may also have the right to look at an employee's medical records. As a result, genetic test results could affect a person's insurance coverage or employment. People making decisions about genetic testing should be aware that when test results are placed in their medical records, the results might not be kept private.
+
+Fear of discrimination is a concern among people considering [[genetic testing]]. Several countries have laws that help protect people against genetic discrimination; however, genetic testing is a fast-growing field and these laws don't cover every situation. 
+
+==See also==
+*[[Genoism]]
+
+{{genetics-stub}}
+
+[[Category:Genetics]]</rev></revisions></page></pages></query></api>

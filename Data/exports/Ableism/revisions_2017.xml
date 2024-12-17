@@ -1,0 +1,242 @@
+<?xml version="1.0"?><api><continue rvcontinue="20171112014508|809879568" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="29555364" pageid="29555364" ns="0" title="Ableism"><revisions><rev timestamp="2017-11-18T17:07:11Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{globalize/Eng|date=August 2012}}
+{{Discrimination sidebar}}
+{{Disability}}
+'''Ableism''' {{IPAc-en|ˈ|eɪ|b|l|ɪ|z|əm}} (also known as '''ablism''',&lt;ref&gt;Oxford University Press, [http://www.oxforddictionaries.com/definition/english/ableism "Oxford Dictionaries Online: 'ableism'"], ''Oxford Dictionaries Online'', Retrieved 12 March 201h.&lt;/ref&gt; '''disablism''', '''anapirophobia''', '''anapirism''', '''disability discrimination''', and '''handicapism''') is [[discrimination]] and social [[prejudice]] against people with disabilities. Ableism characterizes persons as defined by their disabilities and as inferior to the non-disabled.&lt;ref&gt;{{Cite book|title = Claiming Disability Knowledge and Identity|last = Linton|first = Simi|publisher = New York University Press|year = 1998|isbn = |location = New York|pages = 9}}&lt;/ref&gt; On this basis, people are assigned or denied certain perceived abilities, skills, or [[character traits]]. Discrimination faced by those who have or are perceived to have a [[mental disorder]] is sometimes called [[Mentalism (discrimination)|mentalism]] rather than ableism.
+
+There are stereotypes associated with various disabilities. These [[stereotype]]s in turn serve as a justification for ableist practices and reinforce discriminatory [[Attitude (psychology)|attitudes]] and [[behaviors]] toward people who are disabled.&lt;ref&gt;{{cite book |first1=Ernst |last1=Wüllenweber |first2=Georg |last2=Theunissen |first3=Heinz |last3=Mühl |title=Pädagogik bei geistigen Behinderungen: ein Handbuch für Studium und Praxis (Education for intellectual disabilities: A manual for study and practice) |page=149 |publisher=W. Kohlhammer Verlag |language=German |isbn=3-17-018437-7 |url=https://books.google.com/?id=33yCDe_IVyYC&amp;pg=PA150&amp;lpg=PA150&amp;dq=behindert+bestimmte+eigenschaften+zugeschrieben#v=onepage&amp;q=behindert%20bestimmte%20eigenschaften%20zugeschrieben&amp;f=false |accessdate=January 17, 2012|year=2006 }}&lt;/ref&gt; Labeling affects people when it limits their options for action or changes their identity.&lt;ref&gt;{{cite web|url=http://www.heilpaedagogik-info.de/fachwissen/grundlagen-heilpaedagogik/178-geistige-behinderung-speck-theorie.html |title=Geistige Behinderung - Normtheorien nach Speck und Goffman. |publisher=Heilpaedagogik-info.de |date= |accessdate=2014-05-12}}&lt;/ref&gt;
+
+In ableist societies, people with disabilities are viewed as less valuable to society, or even less than human. The [[eugenics]] movement of the early 20th century could be considered an example of widespread ableism. The mass murder of disabled in the German Nazi Government's [[Aktion T4]] could be an extreme example of ableism.{{Citation needed|date=November 2017}}
+
+Other definitions of ableism include those of Chouinard, who defines it as "ideas, practices, institutions, and social relations that presume able-bodiedness, and by so doing, construct persons with disabilities as [[marginalization|marginalized]] &amp;hellip; and largely invisible 'others'",{{sfn|Campbell|2009|p=5}}{{sfn|Chouinard|1997|p=380}} and of Amundson and Taira, who define ableism as "a doctrine that falsely treats impairments as inherently and naturally horrible and blames the impairments themselves for the problems experienced by the people who have them".{{sfn|Campbell|2009|p=5}}{{sfn|Amundson|Taira|2005|p=54}}
+
+==Terminology==
+
+Within communities of people with disabilities, there is disagreement about whether referring to themselves as "disabled" counts as internalized ableism. These groups may prefer the terms "non-neurotypical" or "neurodivergent" for mental divergences. When referring to people with disabilities, there are two methods: person-first language and disability-first language. The American Psychological Association (APA) advocates using person-first language.&lt;ref name=":0"&gt;{{Cite journal|last=Dunn|first=Dana S.|last2=Andrews|first2=Erin E.|title=Person-first and identity-first language: Developing psychologists' cultural competence using disability language|url=https://dx.doi.org/10.1037/a0038636|journal=American Psychologist|volume=70|issue=3|pages=255–264|doi=10.1037/a0038636|pmid=25642702|year=2015}}&lt;/ref&gt; This might look like "a person who is blind". The idea behind this method is to make the person the focus, and not their disability, as the idea behind this method is to focus on their personhood.&lt;ref name=":0" /&gt; Person-first language has been linked to disability culture.&lt;ref name=":0" /&gt; Disability-first language involves referring to the disability first, for example, "a blind person".&lt;ref name=":1"&gt;{{Cite journal|last=Anne|first=Primeau, Casey|date=2016-01-01|title=Person-First Language: Difficulties and Solutions with Putting People First|url=http://hdl.handle.net/10150/613459|language=en-US}}&lt;/ref&gt; This method may be preferred by people who feel their disability is part of their identity, and using person-first language separates disability as part of their identity.&lt;ref name=":1" /&gt; Preference between person-first language and disability-first language can vary per person and disability groups.&lt;ref name=":1" /&gt;
+
+Slang words to describe people with disabilities include "cripple", "daft", "dim-witted", "feeble-minded", "idiotic", "madman", and "retarded".&lt;ref&gt;{{Cite web|url=http://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html|title=Autistic Hoya: Ableism/Language|website=www.autistichoya.com|access-date=2016-05-17}}&lt;/ref&gt;
+
+==Legislation==
+
+===United Kingdom===
+
+In the UK, disability discrimination became unlawful as a result of the [[Disability Discrimination Act 1995]] and, later, the [[Disability Discrimination Act 2005]]. These were later repealed but the substantive law is replicated in the [[Equality Act 2010]]. Under the [[Equality Act 2010]] there are several types of discrimination that are prohibited. These are direct discrimination (s.13(1) [[Equality Act 2010]]), indirect discrimination (s.6 and s.19 [[Equality Act 2010]], [[harassment]] (s.26 [[Equality Act 2010]]), [[victimisation]] (s.27(2) [[Equality Act 2010]]), discrimination arising from disability (s.15(1) [[Equality Act 2010]]) and failure to make reasonable adjustments (s.20 [[Equality Act 2010]]).
+
+The legal definition of disability is:
+
+''"A person (P) has a disability if P has a physical or mental impairment, and the impairment has a substantial and long-term adverse effect on his ability to carry out normal day-to-day activities".'' (Section 6(1), [[Equality Act 2010]])
+
+Some conditions (such as blindness, [[AIDS]] and cancer) are expressly included; others (such as drug and alcohol addictions) are expressly excluded.
+
+===United States===
+Until the 1970s, ableism in the [[United States]] was often codified into law. For example, in many jurisdictions, so-called "[[ugly law]]s" barred people from appearing in public if they had diseases or disfigurements that were considered unsightly.&lt;ref name="brown"&gt;Brown, Patricia Leigh (August 20, 2000). [http://www.accessmylibrary.com/coms2/summary_0286-29736932_ITM "Viewing Ahab and Barbie Through the Lens of Disability"]. ''[[The New York Times]]''&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.accessmylibrary.com/coms2/summary_0286-29736932_ITM|title=Cengage Learning|work=accessmylibrary.com}}&lt;/ref&gt;
+
+Section 504 and other sections of the [[Rehabilitation Act of 1973]] and the [[Americans with Disabilities Act of 1990]] (ADA) enacted into law certain [[civil law (common law)|civil]] penalties for failing to make public places comply with access codes known as the ADA Access Guidelines (ADAAG); this law also helped expand the use of certain adaptive devices, such as [[Telecommunications device for the deaf|TTYs]] (phone systems for the hearing/speech impaired), some [[computer]]-related hardware and software, [[wheelchair ramp]]s or lifts on [[public transportation]] and curb-cuts at intersections which allow wheelchairs and their users to safely move between sidewalks and crosswalks.  In addition these laws prohibit direct discrimination against disabled people in government programs, employment, public transit and public accommodations like stores and restaurants.
+
+The building modification provisions of these directives apply to three general categories of buildings: existing government administration buildings and structures regardless of age; all newly constructed buildings and structures intended for use as public accommodations like stores and restaurants; significantly [[renovated]] or refurbished buildings and structures and any public accommodation where the cost of modification is slight when compared with the income it generates.  The US government also offered significant tax incentives to businesses to make these modifications.
+
+The federal [[Fair Housing Act (United States)|Fair Housing Amendments Act]] of 1988 prohibits housing discrimination on the basis of disability and requires that newly constructed multi-family housing meet certain access guidelines while requiring landlords to allow disabled persons to modify existing dwellings for accessibility.
+
+The [[Telecommunications Act of 1996|Telecommunications Act]],&lt;ref&gt;{{Cite web|title = The Telecommunications Act of 1996 and People With Disabilities {{!}} Federal Communications Commission|url = https://www.fcc.gov/general/telecommunications-act-1996-and-people-disabilities|website = www.fcc.gov|access-date = 2016-02-16}}&lt;/ref&gt; [[Individuals with Disabilities Education Act]], Air Carriers Access Act, [[Voting Accessibility for the Elderly and Handicapped Act]] and others have codified the notion that persons with disabilities have some of the same rights and privileges as other citizens.&lt;ref&gt;{{cite web|url=http://www.ada.gov/cguide.htm|title=A Guide to Disability Rights Laws|work=ada.gov}}&lt;/ref&gt;
+
+==== California ====
+In addition to the federal protections provided by the ADA, [[California]]'s [[California Fair Employment and Housing Act|Fair Employment and Housing Act]] (FEHA) provides additional protections to California employees. Notably, FEHA applies to employers with 5 or more employees and offers more extensive protection than the ADA.&lt;ref&gt;{{cite web|url=http://mybossstinks.com/disability_discrimination.html |title=Disability Discrimination |publisher=Mybossstinks.com |date= |accessdate=2012-10-06}}&lt;/ref&gt;
+
+==Empirical evidence==
+
+In 2014, a large correspondence experiment to measure disability discrimination was conducted in Belgium by professor Stijn Baert of [[Ghent University]]. Two applications of graduates, identical except that one revealed a disability (blindness, deafness or autism), were both sent out to 768 vacancies for which the disabled candidates could be expected to be as productive as their non-disabled counterparts, based on the vacancy information. In addition, the researcher randomly disclosed the entitlement to a substantial wage subsidy in the applications of the disabled candidates. Disabled candidates had a 48% lower chance to receive a positive reaction from the employer side compared with the non-disabled candidates. Potentially due to the fear of the red tape, disclosing a wage subsidy did not affect the employment opportunities of disabled candidates.&lt;ref&gt;Baert, S. (2016) [https://link.springer.com/article/10.1007%2Fs10198-014-0656-7 Wage Subsidies and Hiring Chances for the Disabled: Some Causal Evidence.] European Journal of Health Economics, 17, 71-86.&lt;/ref&gt;
+
+== Examples ==
+
+*[[Accessibility|Barriers]], such as poor access to transport and buildings for people with disabilities
+*People with disabilities are often excluded from cultural and social norms that afford pleasure (sex, sex education, sexual health, marriage).&lt;ref&gt;{{Cite book|title = Claiming Disability Knowledge and Identity|last = Linton|first = Simi|publisher = New York University Press|year = 1998|isbn = |location = New York|pages = 111}}&lt;/ref&gt;
+*[[Mass media]]: Ugliness and beauty are not only defined arbitrarily but also serve as evidence of good and evil. Ugliness is equated with violence and fear, a popular subject of horror films. Disabled people are depicted as helpless objects of charity and compassion, and disability is presented as a cost factor to raise funds, with resulting benefits referred to as a privilege.{{Citation needed|date=November 2017}}
+*[[Institutionalizing]]&lt;ref&gt;{{cite web|title= Attitudes toward people with disabilities |year= 2010 |website= The Center on Human Policy |publisher= [[Syracuse University]] |url= http://thechp.syr.edu/multatt.htm |deadurl= yes |archive-url= https://web.archive.org/web/20110227092848/http://thechp.syr.edu/multatt.htm 
+|archive-date= 2011-02-27}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Disability|Discrimination|Sociology}}
+{{div col|cols=2}}
+*[[ADAPT]]
+*[[Atos]]
+*[[Audism]]
+*[[Autism rights movement]]
+*[[Compulsory sterilization]]
+*[[Convention on the Rights of Persons with Disabilities]]
+*[[Custom employment]]
+*[[Disability abuse]]
+*[[Disability etiquette]]
+*[[Disability hate crime]]
+*[[Disability rights]]
+*[[Disability rights movement]]
+*[[Disfranchisement]]
+*[[Eugenics]]
+*[[Inclusion (disability rights)]]
+*[[Intersectionality]]
+*[[Kyriarchy]]
+*[[List of disability rights activists]]
+*[[Phillip Davies]]
+*[[Psychiatric survivors movement]]
+*[[Psychophobia]]
+*[[Rankism]]
+*[[Social criticism]]
+*[[Social Darwinism]]
+*[[Social deprivation]]
+*[[Supremacism]]
+*[[United Kingdom employment equality law]]
+*[[Universal design]]
+{{div col end}}
+
+==References==
+{{Reflist|30em}}
+
+===Bibliography===
+&lt;!-- alphabetically by last name of first author/editor --&gt;
+{{refbegin|1}}
+* {{cite journal
+ |ref=harv 
+ |last1=Amundson 
+ |first1=Ron 
+ |first2=Gayle 
+ |last2=Taira 
+ |title=Our Lives and Ideologies: The Effects of Life Experience on the Perceived Morality of the Policy of Physician-Assisted Suicide 
+ |journal=Journal of Policy Studies 
+ |volume=16 
+ |issue=1 
+ |year=2005 
+ |pages=53&amp;ndash;57 
+ |url=http://uhh.hawaii.edu./~ronald/pubs/2005-Amundson-Taira.pdf 
+ |format=PDF 
+ |doi=10.1177/10442073050160010801 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20101228114850/http://www.uhh.hawaii.edu/~ronald/pubs/2005-Amundson-Taira.pdf 
+ |archivedate=2010-12-28 
+}}
+* {{cite journal|ref=harv
+  |first=Fiona A. Kumari|last=Campbell
+  |year=2001
+  |title=Inciting Legal Fictions: Disability Date with Ontology and the Ableist Body of the Law
+  |journal=Griffith Law Review
+  |volume=10
+  |issue=1
+  |pages=42&amp;ndash;62
+}}
+* {{cite book|ref=harv
+  |title=Contours of Ableism: The Production of Disability and Abledness
+  |first=Fiona A. Kumari|last=Campbell
+  |publisher=Palgrave Macmillan
+  |year=2009
+  |isbn=978-0-230-57928-6
+}}
+* {{cite journal|ref=harv
+  |last=Chouinard|first=Vera
+  |title=Making Space for Disabling Difference: Challenges Ableist Geographies
+  |journal=Environment and Planning D: Society and Space
+  |volume=15
+  |year=1997
+  |pages=379&amp;ndash;387
+}}
+* {{cite book|ref=harv
+  |title=Teaching for diversity and social justice
+  |volume=1
+  |editor1-first=Maurianne|editor1-last=Adams
+  |editor2-first=Lee Anne|editor2-last=Bell
+  |editor3-first=Pat|editor3-last=Griffin
+  |chapter=Ableism Curriculum Design
+  |first1=Pat|last1=Griffin
+  |first2=Madelaine L.|last2=Peters
+  |first3=Robin M.|last3=Smith
+  |edition=2nd
+  |publisher=Taylor &amp; Francis
+  |year=2007
+  |isbn=978-0-415-95199-9
+}}
+* {{cite book|ref=harv
+  |title=The School Counselor's Guide to Helping Students with Disabilities
+  |series=Jossey-Bass teacher
+  |first1=Laura E.|last1=Marshak
+  |first2=Claire J.|last2=Dandeneau
+  |first3=Fran P.|last3=Prezant
+  |first4=Nadene A.|last4=L'Amoreaux
+  |publisher=John Wiley and Sons
+  |year=2009
+  |isbn=978-0-470-17579-8
+}}
+{{refend}}
+
+== Further reading ==
+* {{cite journal|ref=harv
+  |url=http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/46/0
+  |journal=M/C Journal
+  |volume=11|issue=3
+  |year=2008
+  |title=Refusing Able(ness): A Preliminary Conversation about Ableism
+  |first=Fiona A. Kumari|last=Campbell
+}}
+* {{cite journal|ref=harv
+  |last=Clear|first=Mike
+  |title=The "Normal" and the Monstrous in Disability Research
+  |journal=Disability &amp; Society
+  |volume=14|issue=4
+  |year=1999
+  |pages=435&amp;ndash;448
+  |doi=10.1080/09687599926055
+}}
+* {{cite book|ref=harv
+  |chapter=Eliminating Ableism in Education
+  |first=Thomas|last=Hehir
+  |title=Special education for a new century
+  |volume=41
+  |series=Harvard educational review
+  |editor1-first=Lauren I.|editor1-last=Katzman
+  |publisher=Harvard Educational Review
+  |year=2005
+  |isbn= 978-0-916690-44-1
+}}
+* {{cite journal|ref=harv
+  |last1=Iwasaki|first1=Yoshitaka
+  |first2=Jennifer|last2=Mactavish
+  |title=Ubiquitous Yet Unique: Perspectives of People with Disabilities on Stress
+  |journal=Rehabilitation Counselling Bulletin
+  |volume=48|issue=4
+  |year=2005
+  |pages=194&amp;ndash;208
+  |doi=10.1177/00343552050480040101
+}}
+* {{cite journal|ref=harv
+  |last1=Watts|first1=Ivan Eugene
+  |first2=Nirmala|last2=Erevelles
+  |title=These Deadly Times: Reconceptualizing School Violence by Using Critical Race Theory and Disability Studies
+  |journal=American Educational Research Journal
+  |volume=41|issue=2
+  |year=2004
+  |pages=271&amp;ndash;299
+  |jstor=3699367 |doi=10.3102/00028312041002271
+}}
+
+*Walter Fandrey: Krüppel, Idioten, Irre: zur Sozialgeschichte behinderter Menschen in Deutschland (Cripples, idiots, madmen: the social history of disabled people in Germany) {{de icon}} {{ISBN|978-3-925344-71-8}}
+*Susan Schweik: The Ugly Laws: Disability in Public (History of Disability), {{ISBN|0-8147-8361-9}}
+*James K. Shaver: Handicapism and Equal Opportunity: Teaching About the Disabled in [[Social Studies]], {{ISBN|978-0-939068-01-2}}
+
+==External links==
+{{Wiktionary|Wikisaurus:ableism}}
+* [https://web.archive.org/web/20090726183628/http://ataccess.org/ Alliance for Technology Access ]
+* [https://web.archive.org/web/20060107024634/http://www.equalemployment.org/publications/aguidetodisabilityrights.html Center for Disability Law and Policy ]
+* [http://www.raggededgemagazine.com/1100/1100votestory.htm Ragged Edge Online ]
+* [https://web.archive.org/web/20050421085524/http://www.zmag.org/sustainers/content/2002-08/31russell.cfm "The Social Movement Left Out"] - ''[[Z Magazine]]'' article by Marta Russell
+* [http://www.issuelab.org/closeup/Feb_2009 Nonprofit Research Collection on Disability &amp; Employment] Published on IssueLab
+* [https://web.archive.org/web/20090626133422/http://www.demos.co.uk/publications/disablism Disablism]
+* [http://www.disabled-world.com/disability/discrimination/ Disability Discrimination Information and News]
+* [http://www.lewissilkin.com/Knowledge/2012/February/~/media/Knowledge%20PDFs/Employment/Disability%20discrimination.ashx Guide to UK disability discrimination law]
+* [http://www.mlsemployment.co.uk/discrimination-equality.aspx Disability Discrimination] in the UK
+*[http://www.ebc-india.com/practicallawyer/index2.php?option=com_content&amp;itemid=54&amp;do_pdf=1&amp;id=1046 Handicapism - Disabling Images or Images Disabling?] By Justice Jitendra N. Bhatt† in: ''The Practical Lawyer''
+
+{{Disability navbox}}
+{{Discrimination}}
+
+[[Category:Social theories]]
+[[Category:Discrimination]]
+[[Category:Sociological terminology]]
+[[Category:Ableism| ]]
+[[Category:Ideologies]]
+[[Category:Prejudices]]
+[[Category:Disability rights]]</rev></revisions></page></pages></query></api>

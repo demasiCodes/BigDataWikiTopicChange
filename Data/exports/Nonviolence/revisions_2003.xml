@@ -1,0 +1,7 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030802011308|1228476" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="178755" pageid="178755" ns="0" title="Nonviolence"><revisions><rev timestamp="2003-08-02T01:22:20Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">An absence or active rejection of [[violence]] in one's words, thoughts, and/or deeds. Often based on personal ethics or [[religion | religious]] or spiritual convictions. [[Martin Luther King, Jr.]], [[Dorothy Day]], [[Cesar Chavez]] and [[Mohandas K. Gandhi]] are often cited as great theorists of nonviolence and leaders of nonviolent  social movements.
+
+See [[pacifism]], [[Civil disobedience]], [[Civil and social disobedience]], and [[satyagraha]].
+
+==External Links:==
+* [http://www.nonviolence.org/ Nonviolence.org]
+* [http://www.nonviolence.org/issues/philosophy-nonviolence.php/ The Philosophy of Nonviolence]</rev></revisions></page></pages></query></api>

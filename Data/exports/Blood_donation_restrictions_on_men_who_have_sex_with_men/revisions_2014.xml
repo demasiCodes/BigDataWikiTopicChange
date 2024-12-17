@@ -1,0 +1,361 @@
+<?xml version="1.0"?><api><continue rvcontinue="20141120225222|634754921" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="17602457" pageid="17602457" ns="0" title="Blood donation restrictions on men who have sex with men"><revisions><rev timestamp="2014-11-21T13:17:35Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">The '''men who have sex with men blood donor controversy''' is the dispute over prohibitions on donations of [[blood donation|blood]] or tissue for [[organ transplant]]s from [[men who have sex with men]] (MSM), a classification of men who engage (or have engaged in the past) in sex with other men, regardless of whether they identify themselves as [[bisexual]], [[gay]] or otherwise. Opposition to the prohibition is frequently addressed in terms of bisexual and gay men. Restrictions on donors are sometimes called "deferrals" since blood donors who are found ineligible may be found eligible at a later date. Many deferrals however are indefinite, meaning blood donors may not be accepted in the future. The restrictions vary from country to country, and in many cases men are deferred even though they have not had sex with men for many years. The restrictions affect these men and in some cases, any female sex partners. They do not otherwise affect other women, including [[women who have sex with women]]. Critics of many of the deferrals claim these policies are not supported by medical science.&lt;ref name=Schoettes&gt;{{cite news|last=Schoettes|first=Scott|title=Blood Donations Questions|accessdate=5 December 2012|newspaper=Adelante Magazine|date=December 2012}}&lt;/ref&gt; &lt;!-- dummy edit; can be deleted. --&gt;
+
+Many [[LGBT]] organizations view the restrictions on donation as based on [[homophobia]] and not based on valid medical concern since donations are rigorously [[HIV test|tested]] to rule out donors that are infected with known viruses such as HIV, Hepatitis B, and Hepatitis C. They state the deferrals are based on stereotypes.&lt;ref name=Schoettes/&gt; Proponents of the lifetime restriction defend it because of the risk of false negative test results&lt;ref&gt;{{cite news |url=http://www.huffingtonpost.com/jeff-stier/blood-for-sale_b_52046.html |title=Blood for Sale |accessdate=2008-04-05 |last=Stier|first=Jeff |date=2007-06-13 |publisher=HuffingtonPost.com, Inc}}&lt;/ref&gt; and because the MSM population in developed countries tends to have a relatively high prevalence of HIV/AIDS infection.&lt;ref name="unaids2006"&gt;UNAIDS 2006 report on the global AIDS epidemic, [http://data.unaids.org/pub/GlobalReport/2006/2006_GR_CH05_en.pdf Chapter 05], June 2006&lt;/ref&gt; There is supporting evidence that the risk of transfusion of HIV infected blood would increase if MSM were allowed to donate blood.&lt;ref name="telegraph1aug2013"&gt;{{cite web|url=http://www.telegraph.co.uk/health/healthnews/8441054/Homosexual-men-allowed-to-give-blood-but-sex-banned-for-decade.html |title=Homosexual men allowed to give blood but sex banned for decade |publisher=Telegraph |date= |accessdate=2013-08-01}}&lt;/ref&gt; Opponents of prohibitions against MSM point out that screening of donors should focus on sexual behavior as well as [[safe sex]] practices since many MSM may be [[monogamy|monogamous]] or in other low risk categories.&lt;ref name=Schoettes/&gt;&lt;ref name="telegraph1aug2013" /&gt; Some groups in favor of lifting the restrictions support a waiting period after the blood is donated when the donor is considered to have had behavior considered higher risk, and before it is used, to match the blood bank's window of testing methods.&lt;ref name=Schoettes/&gt;  Depending on the testing method used, the window to detect HIV can be as short as three weeks (NAT testing method), or as long as three months (serology testing method).&lt;ref name=Schoettes/&gt;
+
+&lt;!-- dummy edit; can be deleted. --&gt;
+
+==HIV/AIDS==
+{{Main|Men who have sex with men#HIV/AIDS}}
+In many developed countries HIV is more prevalent among [[men who have sex with men]] (MSM) than among the general population.&lt;ref name="unaids2006"/&gt;
+
+In the United States in 2005, MSM, [[African Americans]], and persons engaging in high-risk heterosexual behavior accounted for respectively 49%, 49%, and 32% of new HIV diagnoses.&lt;ref&gt;CDC [http://www.cdc.gov/hiv/topics/surveillance/resources/reports/2005report/pdf/2005SurveillanceReport.pdf HIV/AIDS Surveillance Report: HIV Infection and AIDS in the United States and Dependent Areas, 2005.]&lt;/ref&gt; In the United States, in 2009, African Americans accounted for 47.9% of new HIV diagnoses reported in 2009, and represented 12% of the population in 2008.&lt;ref&gt;{{cite web|url=http://www.avert.org/america.htm|title=HIV and AIDS in America|publisher=avert.org}}&lt;/ref&gt;
+
+== Current situation ==
+{{Update|policies and events|date=March 2012}}
+
+=== List of countries with their stand on MSM blood donors ===
+[[File:MSM Blood Donation Map.svg|thumb|Right|500px|Blood donation policies for men who have sex with men
+{{legend|#ff9999|Men who have sex with men may donate blood; No deferral}}
+{{legend|#ff0000|Men who have sex with men may donate blood; Temporary deferral}}
+{{legend|#990000|Men who have sex with men may not donate blood; Permanent deferral&lt;sup&gt;1&lt;/sup&gt;}}
+{{legend|#DCDCDC|No Data}}
+&lt;sup&gt;1&lt;/sup&gt;No restriction in Israel and the United States of America if last MSM activity was before 1977.]]
+[[File:Female partners of men who have sex with men blood ban.png|thumb|Right|500px|Blood donation policies for female sex partners of men who have sex with men
+{{legend|#ff9999|Female sex partners of men who have sex with men may donate blood; No deferral}}
+{{legend|#ff0000|Female sex partners of men who have sex with men may donate blood; Temporary deferral }}
+{{legend|#DCDCDC|No Data}}
+]]
+
+This list shows countries that had restrictions on blood donors.&lt;ref name="Seed"&gt;{{cite journal|journal=Transfusion|publisher=AABB|title=No evidence of a significantly increased risk of transfusion-transmitted human immunodeficiency virus infection in Australia subsequent to implementing a 12-month deferral for men who have had sex with men|author=Clive R. Seed, Philip Kiely, Mathew Law, and Anthony J. Keller|volume=50|pages=2722–2730|doi=10.1111/j.1537-2995.2010.02793.x|date=December 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bloodservices.ca/CentreApps/Internet/UW_V502_MainEngine.nsf/resources/Reports/$file/McLaughlin_Report.pdf|format=PDF|title=Mclaughlin  Report on Risk Management for Canadian Blood Services|date=2007-01-31|publisher=McLaughlin Center for Population Health Risk Assessment, University of Ottawa|page=28|accessdate=2008-05-25}}&lt;/ref&gt;  Most national standards require direct questioning regarding a man's sexual history, but the length of deferral varies.
+
+{| class="wikitable"
+|-
+! Country !! Deferral for MSM !! Deferral for female&lt;br&gt;sex partners of MSM !! Ref(s)
+|-
+| {{flag|Algeria}}
+| {{No|Indefinite}}
+| 
+| {{citation needed|date=April 2014}}
+|-
+| {{flag|Argentina}}
+| {{Partial|1 year}}
+|
+| &lt;ref name="Seed"/&gt;{{FV|date=June 2014}}&lt;ref&gt;http://southfloridagaynews.com/World/argentina-could-lift-gay-blood-ban-by-2013.html&lt;/ref&gt;
+|-
+| {{flag|Australia}}
+| {{Partial|1 year}}
+| {{Partial|1 year}}
+| &lt;ref&gt;{{cite web |url= http://www.donateblood.com.au/who-can-give/faq#faq_294 |title= FAQs - Who can give |publisher= Australian Red Cross Blood Service |date= 18 April 2012 |accessdate= 7 June 2012}}&lt;/ref&gt;
+|-
+| {{flag|Austria}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web|url=http://www.roteskreuz.at/blutspende/informationen-zur-blutspende/wer-darf-blutspenden/ |title=Rotes Kreuz: Wer darf Blutspenden? |publisher=Roteskreuz.at |date= |accessdate=2012-07-20}}&lt;/ref&gt;
+|-
+| {{flag|Belgium}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web |url=https://portal.health.fgov.be/pls/portal/docs/PAGE/INTERNET_PG/HOMEPAGE_MENU/ABOUTUS1_MENU/INSTITUTIONSAPPARENTEES1_MENU/HOGEGEZONDHEIDSRAAD1_MENU/ADVIEZENENAANBEVELINGEN1_MENU/ADVIEZENENAANBEVELINGEN1_DOCS/AVIS8094VALID.PDF |title=Avis du CSH relatif a` la sécurisation maximale de la collecte et de la transfusion sanguine (CSH 8094). |date=2005-02-18 |publisher=[[FPS Health Belgium]] |location=[[Brussels]] |language=French |format=PDF |archiveurl=http://www.webcitation.org/5y5n2WYcy |archivedate=2011-04-20 |accessdate=2009-09-24}}&lt;/ref&gt;
+|-
+| {{flag|Brazil}}
+| {{Partial|1 year}}
+|
+| 
+|-
+| {{flag|Canada}}
+| {{Partial|5 years}}
+| {{Partial|1 year}}
+| &lt;ref&gt;{{cite news|url=http://www.theglobeandmail.com/life/health-and-fitness/health/ban-lifted-on-gay-men-giving-blood-but-tough-restrictions-remain/article12056857/#dashboard/follows/ |title=Ban lifted on gay men giving blood, but tough restrictions remain |publisher=[[The Globe and Mail]] |author=D Andreatta |date= 2013-05-22 |accessdate=2013-05-22}}&lt;/ref&gt;
+|-
+| {{flag|Chile}}
+| {{Yes|No deferral}}
+| {{Yes|No deferral}}
+| &lt;ref&gt;{{cite web |url=http://www.santiagotimes.cl/chile/health-and-environment/26066-gays-and-lesbians-in-chile-now-allowed-to-donate-blood |title=Gays and lesbians in Chile now allowed to donate blood |publisher=Santiago Times |accessdate=2013-04-28}}&lt;/ref&gt;
+|-
+| {{flag|China}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web|url=http://www.latitudenews.com/story/china-says-lesbians-may-donate-blood-but-not-gay-men/ |title=China says lesbians may donate blood, but not gay men — Latitude News |publisher=Latitudenews.com |date= |accessdate=2014-03-04}}&lt;/ref&gt;
+|-
+| {{flag|Croatia}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web | url = http://narodne-novine.nn.hr/clanci/sluzbeni/270049.html | publisher = [[Narodne novine]] | language = Croatian | title = Pravilnik o krvi i krvnim sastojcima | trans_title = Bylaw for blood and its contents | date = 1998-12-16 | quote = E`lanak 16. Trajno se iskljue`uju kao davatelji krvi: [...] osobe sa homoseksualnim ponašanjem [...] | author = [[Ministry of Health (Croatia)]] | accessdate = 2011-07-18}}&lt;/ref&gt;
+|-
+| {{flag|Czech Republic}}
+| {{Partial|1 year}}
+| {{Partial|1 year}}
+| &lt;ref&gt;{{cite web |url=http://www.transfuznispolecnost.cz/get.php?cesta=%20doc/postupy/Dop_STL2007_03%20Zp%C5%AFsobilost%20d%C3%A1rce_V6_2012_04_19.doc%20&amp;%20id=318 |title=Doporučení Společnosti pro transfuzní lékařství ČLS JEP č. STL2007_03 ze dne 12. 4. 2007 verze 6 (2012_04) |publisher=Společnost pro transfuzní lékařství ČLS JEP |page=8 |language=Czech |format=DOC |accessdate=2013-02-07}}&lt;/ref&gt;
+|-
+| {{flag|Denmark}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web |url=http://www.bloddonor.dk/donor-info/karantaeneregler-1/risikobetonet-adfaerd |title=Risikobetonet adfærd  |publisher=Bloddonorerne i Danmark | language=Danish |accessdate=2014-04-25}}&lt;/ref&gt;
+|-
+| {{flag|Estonia}}
+| {{No|Indefinite}}
+|
+| {{citation needed|date=February 2014}}
+|-
+| {{flag|Finland}}
+| {{Partial|1 year}} 
+|
+| &lt;ref&gt;{{cite web|url=http://www.veripalvelu.fi/news/2728
+ |title=
+Ban on donation of blood imposed following male-to-male sexual contact to become temporary |publisher=veripalvelu.fi |date= |accessdate=2013-12-17}}&lt;/ref&gt;
+|-
+| {{flag|France}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&amp;dateJO=20090118&amp;numTexte=23&amp;pageDebut=01067&amp;pageFin=01076 Arrêté du 12 janvier 2009 fixant les critères de sélection des donneurs de sang], Annexe II, page 7&lt;/ref&gt;
+|-
+| {{flag|Germany}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web |url=http://www.bundesaerztekammer.de/downloads/RiliHaemotherapie2010.pdf |title=Richtlinien zur Gewinnung von Blut und Blutbestandteilen und zur Anwendung von Blutprodukten (Hämotherapie) |trans_title=Guidelines for the collection of blood and blood components and the use of blood products (haemotherapy) |publisher=[[German Medical Association]] |year=2010|accessdate=2013-10-28 }}&lt;/ref&gt;
+|-
+| {{flag|Greece}}
+| {{No|Indefinite}}
+|
+| {{citation needed|date=February 2014}}
+|-
+| {{flag|Hong Kong}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web |url=http://www5.ha.org.hk/rcbts/File/hh_enquiry.pdf |title=What should you know about the Health history Enquiry in Blood Donation? |year=2008 |publisher=Hong Kong Red Cross Blood Transfusion Service |location=[[Hong Kong]] |language=Traditional Chinese &amp; English |format=PDF |accessdate=2011-08-14}}&lt;/ref&gt;
+|-
+| {{flag|Hungary}}
+| {{Partial|1 year}}
+|
+| &lt;ref name="Seed"/&gt;
+|-
+| {{flag|Iceland}}
+| {{No|Indefinite}}
+|
+| 
+|-
+| {{flag|Ireland}}
+| {{No|Indefinite}}
+|
+| 
+|-
+| {{flag|Israel}}
+| {{No|Indefinite}} {{ref|a|A}}
+|
+| &lt;ref&gt;{{cite web |url=http://www.mdais.com/Blood_services/Blood_Donation/ |title=Blood Donation |publisher=[[Magen David Adom]] }}&lt;/ref&gt;
+|-
+| {{flag|Italy}}
+| {{Yes|No deferral}}
+| {{Yes|No deferral}}
+| &lt;ref name="Seed"/&gt;
+|-
+| {{flag|Japan}}
+| {{Partial|1 year}}
+|
+| &lt;ref name="Seed"/&gt;
+|-
+| {{flag|Malta}}
+| {{No|Indefinite}}
+|
+| {{citation needed|date=February 2014}}
+|-
+| {{flag|Mexico}}
+| {{Yes|No deferral}}
+| {{Yes|No deferral}}
+| &lt;ref&gt;{{cite web|last=Roberts |first=Scott |url=http://www.pinknews.co.uk/2012/12/27/mexico-lifts-ban-on-gay-men-donating-blood/ |title=Mexico lifts ban on gay men donating blood |publisher=PinkNews.co.uk |date= |accessdate=2013-03-02}}&lt;/ref&gt;
+|-
+| {{flag|Netherlands}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web |author=TFE, tfe.nl |url=http://www.sanquin.nl/bloed-geven/bloeddonor-worden/aanmeldingsprocedure/bloed-wordt-getest/hiv/risicofactoren-mannen/ |title=Bloed geven - Risicofactoren hiv mannen |trans_title=Giving Blood - Risk Factors of HIV for men |publisher=Sanquin.nl |date=2011-12-23 |accessdate=2012-07-20 }}&lt;/ref&gt;
+|-
+| {{flag|New Zealand}}
+| {{Partial|5 years}}
+| {{Partial|1 year}}
+| &lt;ref name="Seed"/&gt;&lt;ref name="NZBS-safeblood" /&gt;
+|-
+| {{flag|Northern Ireland}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web|url=http://www.pinknews.co.uk/2014/01/03/uk-government-refuses-to-repeal-northern-ireland-gay-blood-ban/ |title=UK Government refuses to repeal Northern Ireland gay blood ban |publisher=Pinknews.co.uk |date=2014-01-03 |accessdate=2014-03-04}}&lt;/ref&gt;
+|-
+| {{flag|Norway}}
+| {{No|Indefinite}}
+|
+|
+|- 
+| {{flag|Poland}}
+| {{Yes|No deferral}} {{ref|b|B}}
+| {{Yes|No deferral}} {{ref|b|B}}
+|  &lt;ref name="Seed"/&gt;&lt;ref&gt;{{cite web|url=http://isap.sejm.gov.pl/DetailsServlet?id=WDU20050790691 |title=Internetowy System Aktów Prawnych |trans_title=Internet System of Legal Acts |publisher=Isap.sejm.gov.pl |date= |accessdate=2012-07-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://wiadomosci.gazeta.pl/Wiadomosci/1,80708,5197854.html |title=Narodowe Centrum Krwi: Nie będziemy dyskryminować homoseksualistów |trans_title=National Blood Center: We will not discriminate against homosexuals |publisher=Wiadomosci.gazeta.pl |date= |accessdate=2012-07-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.kph.org.pl/pl/edukacja/honorowe-krwiodawstwo |title=Honorowe krwiodawstwo mężczyzn homo- i biseksualnych. Fakty i mity |trans_title=Honorable blood donation by gay and bisexual men. Facts and Myths |publisher=Kph.org.pl |date= |accessdate=2012-07-20}}&lt;/ref&gt; 
+|-
+| {{flag|Portugal}}
+| {{Yes|No deferral}}
+| {{Yes|No deferral}}
+| &lt;ref&gt;{{cite web|author=BY admin |url=http://election2008.advocate.com/health/health-news/2006/03/29/portugal-lifts-ban-gay-blood-donors |title=Portugal lifts ban on gay blood donors &amp;#124; Advocate.com |publisher=Election2008.advocate.com |date=2006-03-29 |accessdate=2014-03-04}}&lt;/ref&gt;
+|-
+| {{flag|Philippines}}
+| {{No|Indefinite}}
+|
+| {{citation needed|date=February 2014}}
+|-
+| {{flag|Russia}}
+| {{Yes|No deferral}}
+| {{Yes|No deferral}}
+| &lt;ref&gt;{{cite web|url=http://www.rg.ru/printable/2008/05/24/donor-doc.html|title=Приказ Минздравсоцразвития России от 16.04.2008 N 175н|publisher=[[Российская газета]]|date=2008-05-24|accessdate=2013-11-13}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.polit.ru/news/2008/05/23/donors/|script-title=ru:Россиянам вольют "голубую кровь"|date=2008-05-23|publisher=[[Полит.ру]]|language=ru|accessdate=2013-11-13}}&lt;/ref&gt;
+|-
+| {{flag|South Africa}}
+| {{Yes|No deferral}}
+| {{Yes|No deferral}}
+| &lt;ref&gt;{{cite news |first=Luiz |last=DeBarros |title=SA finally ends gay blood donation ban |date=20 May 2014 |publisher=Mamba Online |url=http://www.mambaonline.com/2014/05/20/sas-gay-blood-donation-ban-finally-ends/ |accessdate=20 May 2014}}&lt;/ref&gt;
+|-
+| {{flag|Slovenia}}
+| {{No|Indefinite}}
+|
+| &lt;ref&gt;{{cite web |url=http://www.ztm.si/sl/krvodajalstvo/kdo_lahko_daje_kri/kdo_nikoli_ne_sme_dati_krvi/ |title=The Republic of Slovenia Institute for Transfusion: Who cannot donate blood |publisher=Ztm.si |date= |accessdate=2012-07-20}}&lt;/ref&gt;
+|-
+| {{flag|Spain}}
+| {{Yes|No deferral}}
+| {{Yes|No deferral}}
+| &lt;ref name="Seed"/&gt;
+|-
+| {{flag|Sweden}}
+| {{Partial|1 year}}
+|
+| &lt;ref&gt;{{cite news |url=http://www.bbc.co.uk/news/health-14824310 |work=[[BBC News Online]] |title=Gay men blood donor ban to be lifted |date=2011-09-08}}&lt;/ref&gt;
+|-
+| {{flag|Switzerland}}
+| {{No|Indefinite}}
+|
+| 
+|-
+| {{flag|Thailand}}
+| {{No|Indefinite}}{{ref|c|C}}
+| {{No|Indefinite}}{{ref|c|C}}
+|&lt;ref name="thairedcross-not-allow-msm"&gt;{{cite web | url=http://www.redcross.or.th/forum/39/26390 | script-title=th:เป็นเกย์บริจาคเลือดไม่ได้หรอ | date=2013-02-26 | accessdate=2014-11-21 | publisher=[[The Thai Red Cross Society]] |language=th}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://blood.redcross.or.th/content/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%88%E0%B8%B2%E0%B8%84%E0%B9%82%E0%B8%A5%E0%B8%AB%E0%B8%B4%E0%B8%95 | script-title=th:คุณสมบัติผู้บริจาคโลหิต | date= | accessdate=2014-11-21 | publisher=ศูนย์บริการโลหิตแห่งชาติ [[The Thai Red Cross Society]] |language=th}}&lt;/ref&gt; 
+|-
+ 
+| {{flag|Turkey}}
+| {{No|Indefinite}}
+|
+| 
+|-
+| {{flag|United Kingdom}} (excluding Northern Ireland)
+| {{Partial|1 year}}
+| 
+| &lt;ref name="SaBTO"&gt;{{cite web |url=http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_129796 |title=Donor selection criteria review |accessdate=8 September 2011 |publisher=[[Department of Health (United Kingdom)|Department of Health]] and SaBTO, Blood Donor Selection Steering Group }}&lt;/ref&gt;
+|-
+| {{flag|United States}}
+| {{No|Indefinite}} {{ref|a|A}}
+| {{Partial|1 year}}
+| &lt;ref name="Seed"/&gt;
+|-
+| {{flag|Uruguay}}
+| {{Yes|No deferral}}
+| {{Yes|No deferral}}
+| &lt;ref name="Seed"/&gt;
+|-
+| {{flag|Venezuela}}
+| {{No|Indefinite}} {{ref|d|D}}
+| {{Yes|No deferral}}
+| {{citation needed|date=February 2014}}
+|}
+
+====Notes====
+* {{note|a|A}} No restriction if last MSM activity was before 1977.
+* {{note|b|B}} People of any sexual orientation involved in any kind of sexual activity are welcome to donate blood, if they are confident that their sexual behaviour is safe and does not expose them to sexually transmitted diseases by e.g. unprotected sex with non-trusted partners, regardless of sexual orientation. &lt;ref&gt;http://www.kph.org.pl/pl/edukacja/honorowe-krwiodawstwo&lt;/ref&gt;
+* {{note|c|C}} Individuals are requested to fill a "Yes/No" questionnaire about their sexual life. Direct questions like "Have you ever had any sexual intercourse with someone from your same sex? (Ask only male)" and "Has your partner ever had any sexual intercourse with someone from his same sex? (Ask only female with male partner)" are appear.&lt;ref name="thairedcross-not-allow-msm" /&gt;
+* {{note|d|D}} Individuals are requested to fill a "Yes/No" questionnaire about their sexual life. Direct questions like "Have you ever had any sexual intercourse with someone from your same sex?" may appear. {{citation needed|date=February 2014}}
+
+===United States===
+In the US, the current guidance from the [[U.S. Food and Drug Administration]] (FDA) is to indefinitely defer any male donor who has had sex with another man, in the period from 1977 to the present day.&lt;ref&gt;{{cite web|author=Consumer Affairs Branch (CBER) |url=http://www.fda.gov/BiologicsBloodVaccines/BloodBloodProducts/QuestionsaboutBlood/ucm108186.htm |title=Blood Donations from Men Who Have Sex with Other Men Questions and Answers |publisher=Fda.gov |date= |accessdate=2012-07-20}}&lt;/ref&gt;
+
+Female sexual partners of MSM are deferred for one year since the last exposure. This is the same policy used for any sexual partner of someone in a high risk group.&lt;ref&gt;[http://www.fda.gov/oashi/aids/1992policy.html 1992 Recommendations for the prevention of Human Immunodeficiency Virus Transmission by Blood and Blood Products]{{dead link|date=July 2012}}&lt;/ref&gt; The argument used to follow these policies is that blood should be collected from a population that is at low risk for disease, since the tests are not perfect and human error may lead to infected units not being properly discarded, and these population groups would be considered a high risk. The policy was first put in place in 1983 by the FDA, which regulates blood donations to profit and non-profit organizations.&lt;ref name="FDA"&gt;{{cite web | title=Blood Donations from Men Who Have Sex with Other Men Questions and Answers (published: August 19th, 2013) |publisher=FDA.gov |url=http://www.fda.gov/biologicsbloodvaccines/bloodbloodproducts/questionsaboutblood/ucm108186.htm | accessdate=2014-08-26}}&lt;/ref&gt;
+
+Donors of what the FDA calls "HCT/P's", a category that includes transplants (other than organs) and some reproductive tissue, notably anonymous semen donations, are ineligible for five years after the most recent contact.&lt;ref&gt;[http://www.fda.gov/Cber/gdlns/tissdonor.htm#iv FDA/CBER - Guidance for Industry: Eligibility Determination for Donors of Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps)]{{dead link|date=July 2012}}&lt;/ref&gt;  [[UNOS]] policies for [[Organ donation]] require the hospital receiving the organ to be notified if the donor was an MSM within the past 5 years.&lt;ref&gt;{{cite web|url=http://www.unos.org/PoliciesandBylaws2/policies/pdfs/policy_16.pdf |title=OPTN/UNOS POLICY 4 |format=PDF |date= |accessdate=2012-07-20}}&lt;/ref&gt;  The organs are generally used unless there is a clear positive test for a disease.
+
+====History of calls to change the policy====
+
+* In 2006, the [[AABB]], [[American Red Cross]], and [[America's Blood Centers]] all supported a change from the current US policy of a lifetime deferral of MSM to one year since most recent contact.&lt;ref&gt;{{cite web |url=http://www.fda.gov/ohrms/dockets/ac/06/transcripts/2006-4206t1.pdf |format=133MB |title=Meeting of Blood Products Advisory Committee |date=2006-03-09 |publisher=Food and Drug Administration |page=66 |accessdate=2008-05-25}}&lt;/ref&gt; One model suggested that this change would result in one additional case of HIV transmitted by transfusion every 32.8 years. The AABB has suggested making this change since 1997. The FDA did not accept the proposal and had concerns about the data used to produce the model, citing that additional risk to recipients was not justified.
+* On August 19, 2009, the Assembly Judiciary Committee in California passed AJR13, the U.S. Blood Donor Nondiscrimination Resolution, calling upon the FDA to end the MSM blood ban.&lt;ref&gt;{{cite web|url=http://www.californiaprogressreport.com/site/?q=node/252 |title=Ending the Federal Ban on Gay Blood Donations |publisher=California Progress Report |date=2009-08-19 |accessdate=2012-07-20}}&lt;/ref&gt;
+* In April 2010, the New York City Council passed a resolution calling on the U.S. Food and Drug Administration (FDA) to eliminate the ban stating "This ban was based on prejudice, a knee-jerk reaction, and misunderstandings about the HIV/AIDS disease. Given the constant need for blood, it does not make common sense to prohibit donations from an entire population."&lt;ref&gt;{{cite web |url=http://www.council.nyc.gov/d7/html/members/pdf/community_report_04.30.2010.pdf |title=Legislative and Community Report |date=2010-04-30 |publisher=[[New York City Council]] |location=[[New York]] |page=2 |format=PDF |archiveurl=http://www.webcitation.org/5y5nQs7v6 |archivedate=2011-04-20 |accessdate=2010-09-18}}&lt;/ref&gt;
+* On June 1, 2010, the Washington, DC City Council passed a resolution calling on the FDA to "reverse the lifetime deferment of blood donations by men who have had sex with men since 1977 in favor of a policy that protects the safety and integrity of the blood supply that is based on an up-to-date scientific criteria."&lt;ref&gt;{{cite web|url=http://www.dcregs.dc.gov/Notice/DownLoad.aspx?NoticeID=400045 |title=A Resolution 18-486 : In the Council of the District of Columbia |date=June 1, 2010 |publisher=Dcregs.dc.gov |accessdate=2013-10-28}}&lt;/ref&gt;
+* In June 2013, the American Medical Association issued a statement calling on the FDA to change the policy, stating that "The lifetime ban on blood donation for men who have sex with men is discriminatory and not based on sound science."&lt;ref&gt;
+*{{cite web |url= http://www.ama-assn.org/ama/pub/news/news/2013/2013-06-18-new-ama-policies-annual-meeting.page |title=AMA Adopts New Policies on Second Day of Voting at Annual Meeting |author=no author listed |work=ama-assn.org |publisher=[[American Medical Association]] |date=18 June 2013|accessdate=16 January 2014}}
+*{{cite web|url=http://abcnews.go.com/Health/american-medical-association-opposes-fda-ban-gay-men/storynew?id=19436366 |title=American Medical Association Opposes FDA Ban on Gay Men Donating Blood |publisher=Abcnews.go.com |date=2013-06-20 |accessdate=2013-08-01}}&lt;/ref&gt;
+* In July 2013, the [[American Osteopathic Association]] approved a policy calling on the FDA to "end the indefinite deferment period for Men who have sex with Men (MSM)", and to "modify the exclusion criteria for MSM to be consistent with deferrals for those judged to be at an increased risk of infection."&lt;ref&gt;{{cite web|url=http://www.osteopathic.org/inside-aoa/news-and-publications/media-center/2013-news-releases/Pages/HOD-2013-increase-number-of-eligible-blood-donors.aspx |title=American Osteopathic Association Calls for Removing FDA's Blood Donor Ban |publisher=Osteopathic.org |date=2013-07-20 |accessdate=2013-08-01}}&lt;/ref&gt;
+
+===European Union===
+The UK (excluding Northern Ireland) lifted its lifetime ban on MSM blood donation in September 2011,&lt;ref name="SaBTO" /&gt; and changed the policy to simply restrict men who have had sex with another man within the previous 12 months.&lt;ref&gt;{{cite web|last=Waygood |first=James |url=http://sosogay.org/2011/government-announces-end-of-lifetime-ban-on-gay-blood-donation/ |title=UK Government lifts lifetime ban on gay blood donation |publisher=So So Gay |date=2011-09-08 |accessdate=2012-07-20}}&lt;/ref&gt; The Advisory Committee on the Safety of Blood, Tissues and Organs recommended the policy change after a study concluded that a total ban may breach equality legislation and that the risk of HIV reaching the blood supply would only increase by approximately 2%.&lt;ref name = ukbanlift&gt;{{cite web|url=http://www.telegraph.co.uk/health/healthnews/8441054/Homosexual-men-allowed-to-give-blood-but-sex-banned-for-decade.html |title=Homosexual men allowed to give blood but sex banned for decade |publisher=Telegraph.co.uk |date= |accessdate=2012-07-20}}&lt;/ref&gt;
+
+A similar policy exists in the rest of the European Union and is the prevailing interpretation of the European Union Directive 2004/33/EC article 2.1 on donor deferrals.&lt;ref&gt;{{cite web|url=http://iospress.metapress.com/content/c1r9rx5fc499m1rm/fulltext.pdf |title=Commission Directive 2004/33/EC of 22 March 2004 |publisher=Iospress.metapress.com |accessdate=2013-10-28}}&lt;/ref&gt; The policy, however, is not very specific and refers to "high risk sexual contact."
+
+In Finland, the parliamentary ombudsman launched an investigation on the possible unconstitutionality of the lifetime ban in January 2006. In June 2008, it was concluded that the ban was not unlawful in Finland as it is based on "appropriately reasoned epidemiological information" and because it is related to sexual behaviour rather than sexual orientation. The ombudsman added that people over the age of 65 and people who lived in Britain during the [[bovine spongiform encephalopathy]] (mad cow disease) outbreak are also screened out during blood donor interviews. In December 2013, the Finnish Red Cross blood service announced it was lifting the ban and introducing a one year deferral instead.
+
+===Australia===
+Australia's individual states and territories each had their own [[Australian Red Cross Blood Service|policies on blood donations by MSM]]. Most previously had some form of the indefinite deferral, and they all changed to a 12-month deferral at different times between 1996 ([[South Australia|SA]]) and 2000 ([[Australian Capital Territory|ACT]], [[New South Wales|NSW]]).&lt;ref name = "Seed" /&gt;
+
+A comparison of confirmed HIV positive blood donations before and after the change did not see a statistically significant difference, though the number of HIV positive blood donations during the period with a 12-month deferral was greater. In all of the cases of HIV positive donations associated with MSM after the 12-month deferral, the donors had lied about their medical history and would not have been eligible under either criterion.&lt;ref name = "Seed" /&gt;
+
+===New Zealand===
+Since 2009, the [[New Zealand Blood Service]] (NZBS) have deferred males who have had oral or anal intercourse, with or without protection, with another male for five years. From the formation of the NZBS in 1998 to 2009, the deferral period was ten years, but reduced to five years following an independent review of blood donation criteria in 2007-8 which found no significant difference in risk to the blood supply for deferral periods of five years compared to ten years.&lt;ref name="NZBS-criteriareview"&gt;{{cite web |url= http://www.nzblood.co.nz/content/download/218/1386/file/NZBS%20Behavioural%20Donor%20Deferral%20Criteria%20Review%20%20Final%20Report%20April%202008.pdf |title= Behavioural Donor Deferral Criteria Review - Final Report to the New Zealand Blood Service |date= April 2008 |accessdate= 20 July 2012}}&lt;/ref&gt;
+
+The five year deferral period for MSM is on par with the five year deferral period for persons engaging in prostitution outside of New Zealand and people who have resided in a country which has a high (1% or more) HIV prevalence. Females who engage in sexual intercourse with a male who has had sex with another male are deferred for twelve months.&lt;ref name="NZBS-safeblood"&gt;{{cite web |url= http://www.nzblood.co.nz/content/download/284/1859/file/Safe%20Blood%20Starts%20with%20You.pdf |title= Safe Blood Starts with You |publisher= New Zealand Blood Service |accessdate= 20 July 2012}}&lt;/ref&gt;
+
+==Reasoning for the restrictions==
+Blood services first and foremost must ensure that all blood received for donation is safe for transfusion purposes. This is achieved by screening potential donors for high risk behaviors through questionnaires and interviews before blood is taken, and subsequent laboratory testing on samples of donated blood.
+
+Blood services commonly justify their bans against MSM using the statistically higher prevalence of HIV and hepatitis of MSM in population studies.
+
+In the earliest years of the AIDS epidemic, there were no reliable tests for the virus, which justified blanket bans on blood donations from groups at high risk of acquiring or having HIV, including MSM. These restrictions are similar to present-day restrictions in most countries on people residing in the United Kingdom during the [[Bovine spongiform encephalopathy|BSE]] ("mad cow disease") epidemic of the 1980s and early-to-mid 1990s, due to the absence of a test for its human form, [[Creutzfeldt–Jakob disease|variant Creutzfeldt–Jakob disease]] (vCJD).
+
+In 1985, early tests using the [[ELISA]] method looked for antibodies, which are the immune system's response to the virus. However, there is a [[window period]] when using this method in which a person who has been infected with HIV is able to spread the disease but may test negative for the virus. This window period can be as long as three to six months,&lt;ref&gt;{{cite web|url=http://www.sfaf.org/aids101/hiv_testing.html#window |title=San Francisco AIDS Foundation: HIV Testing |publisher=Sfaf.org |date= |accessdate=2012-07-20}}&lt;/ref&gt; with an average of 22 days.&lt;ref name=autogenerated1&gt;[http://www.fda.gov/bbs/topics/ANSWERS/2002/ANS01140.html FDA Approves First Nucleic Acid Test (Nat) System To Screen Whole Blood Donors For Infections With Human Immunodeficiency Virus (Hiv) And Hepatitis C Virus (Hcv)]{{dead link|date=July 2012}}&lt;/ref&gt; Tests using the ELISA methods are often still used in developed countries because they are highly [[Sensitivity and specificity|sensitive]]. In developing countries, these tests are often the only method used to screen donated blood for HIV. To cover the window period resultant from the use of these tests, donors are also screened for high risk behaviors, one of which is a history of same-sex sexual activity among male potential donors. Other groups with similar restrictions include commercial sex workers, injecting drug users, and people resident in countries with a high HIV prevalence (such as sub-Saharan Africa). Newer tests look for the virus itself, such as the [[p24 antigen]] test, which looks for a part on the surface of the virus, and [[Nucleic acid tests]] (NAT), which look for the genetic material of the virus. With these tests, the window period is shorter, with an average duration of 12 days.&lt;ref name=autogenerated1 /&gt;
+
+Risks are also associated with a regular donor testing positive for HIV, which can have major implications as the donor's last donation could have been given within the window period for testing and could have entered the blood supply, potentially infecting blood product recipients. An incident in 2003 in New Zealand saw a regular donor testing positive for HIV and subsequently all blood products made with the donor's last blood donation had to be recalled. This included NZ$4 million worth of [[Factor VIII]], a blood clotting factor used to treat haemophiliacs which is manufactured from large pools of donated plasma, and subsequently led to a natiowide shortage of Factor VIII and the deferral of non-emergency surgery on haemophiliac patients, costing the health sector millions of dollars more.&lt;ref name="NZBS-criteriareview" /&gt; Screening out those at high risk of bloodborne diseases, including MSM, reduces the potential frequency and impact of such incidents.
+
+==Criticism of the restrictions==
+Objections to the restrictions are generally based on the idea that improvements in testing and other safeguards have reduced the risk from transfusion transmitted HIV to an acceptable level. Blood shortages are common, and critics of the policies point out that excluding healthy donors only makes the problem worse. "Ideal" inventories are at least a three day supply, but many blood centers struggle to meet this demand.&lt;ref&gt;{{cite web|url=http://members.americasblood.org/plsql/ecat/supply_monitor_pkg.web_report |title=ABC Blood Supply Status Report |publisher=Members.americasblood.org |date= |accessdate=2012-07-20}}&lt;/ref&gt;
+
+Other criticism stems from the fact that the ban is a blanket ban encompassing all men who have had sex with another man, even once during their lifetime. Critics claim that a promiscuous heterosexual male is a higher-risk donor than a gay or bisexual man in a monogamous relationship, for example a [[civil partnership in the United Kingdom]], but the former will usually be allowed to donate blood. Furthermore, other high-risk activities such as having sexual contact with anyone who has used needles to take drugs not prescribed by their doctor have a set deferral period before the donor is allowed to donate blood, whereas MSM donors are deferred indefinitely. Female donors who have sexual contact with MSM are deferred for only twelve months.
+
+==Protests and boycotts==
+
+===Canada===
+* The students association at [[Carleton University]] in [[Ottawa, Ontario]] voted in 2012 to maintain a ban on blood clinics on campus.&lt;ref&gt;{{cite news|author=Posted: Jul 10, 2012 8:41 AM ET |url=http://www.cbc.ca/news/canada/ottawa/story/2012/07/10/ottawa-carleton-university-students-ban-blood-clinics-gay-man-policy.html |title=Blood clinic ban on campus upheld due to policy on gay men - Ottawa - CBC News |publisher=Cbc.ca |date=2012-07-10 |accessdate=2013-03-02}}&lt;/ref&gt;
+
+===United States===
+Throughout the 2000s, several boycotts have been held on college campuses across the United States against blood drives. For example, in 2003, a blood drive at the [[University of Vermont]] was cancelled to protest the MSM donor policy.&lt;ref&gt;[http://www.dailyfreepress.com/news/school-ends-blood-drives-in-protest-of-anti-gay-rules-1.582542 ]{{dead link|date=July 2012}}&lt;/ref&gt; In 2007, an [[Iowa State University]] student group sparked controversy when they pulled their support for a blood drive.&lt;ref&gt;{{cite web|author=July 19, 2012 |url=http://iowastatedaily.com/opinion/article_ea75d8f6-dc39-53fb-9c16-aadf27c5c2d9.html |title=LETTER: Political correctness may cripple blood drive turnout - Iowa State Daily: Opinion |publisher=Iowa State Daily |date=2007-02-26 |accessdate=2012-07-20}}&lt;/ref&gt; In 2008, a faculty member at [[Sonoma State University]] proposed a ban on blood drives on campus,&lt;ref&gt;{{cite web|last=Norton |first=Laura |url=http://www.pressdemocrat.com/article/20080308/NEWS/803080311?p=all&amp;tc=pgall |title=Battle over blood |publisher=PressDemocrat.com |date=2008-03-08 |accessdate=2012-07-20}}&lt;/ref&gt; and at [[San Jose State University]] President Don Kassing suspended all blood drives on campus.&lt;ref&gt;{{cite web|url=http://badgerherald.com/news/2008/02/06/college_protests_blo.php |title=News: College protests blood drives |publisher=The Badger Herald |date=2008-02-06 |accessdate=2012-07-20}}&lt;/ref&gt; In 2010, students from [[Keene State College]] protested blood drives on their campus.&lt;ref&gt;{{cite web|url=http://www.keeneequinox.com/news/pride-protests-bad-blood-1.2187207 |title=keeneequinox.com |publisher=keeneequinox.com |date= |accessdate=2013-08-01}}&lt;/ref&gt; On April 14, 2011, The Queens College Academic Senate of The City University of New York recommended that all blood drives on campus should cease.&lt;ref&gt;{{cite web|url=http://www.free-press-release.com/news-queens-college-city-university-of-new-york-bans-blood-drives-1302975220.html |title=Queens College Bans Blood Drives (The City University of New York) blood drive is happening in flushing queens,york college cuny blood donation |publisher=Free-press-release.com |date= |accessdate=2012-07-20}}&lt;/ref&gt;  The recommendation was adopted by Queens College President James Muyskens but reversed in  June 2011 when the CUNY chancellory expressed its disapproval.&lt;ref&gt;{{cite web|url=http://www.qc.cuny.edu/Academics/AcademicSenate/Documents/Minutes/110414.pdf |title=Minutes Of The Academic Senate Of Queens College |format=PDF |date= |accessdate=2014-03-04}}&lt;/ref&gt; A student organization at the University of Michigan, Blood Drives United, has been holding awareness drives in conjunction with their annual blood drive competitions as a means of productively addressing the policy while still collecting blood.&lt;ref&gt;http://michigandaily.com/opinion/10daily-blood-battle-equality23&lt;/ref&gt;&lt;ref&gt;http://michigandaily.com/opinion/10viewpoint-blood-battle21&lt;/ref&gt; These "sponsor" drives allow individuals ineligible to donate because of the policy to bring eligible individuals to donate on their behalf, visually demonstrating that twice as much blood could potentially be collected.&lt;ref&gt;http://bloodbattle.org/&lt;/ref&gt;
+
+===United Kingdom===
+{{Further|MSM blood donor controversy in the United Kingdom}}
+* The [[National Union of Students LGBT Campaign]] runs a "Donation Not Discrimination" campaign to have the blood ban revised, while also advocating for those who are not banned from donating.
+
+==See also==
+{{Portal|LGBT}}
+* [[Gay sexual practices]]
+* [[Terminology of homosexuality]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[http://www.fda.gov/ohrms/dockets/ac/06/transcripts/2006-4206t1.pdf FDA:Blood Products Advisory Committee, 09Mar2006 transcript] See page 53 (page 59 of the pdf) for the discussion of test error rates. ''Warning: this is a 133 MB scanned transcript.''
+*[http://www.cdc.gov/hiv/topics/msm/resources/factsheets/msm.htm CDC: HIV/AIDS among Men Who Have Sex with Men]
+*[http://www.bmj.com/cgi/content/full/338/feb26_1/b318 British Medical Journal Debate: Should men who have ever had sex with men be allowed to give blood? No]
+*[http://www.bmj.com/cgi/content/full/338/feb26_1/b311 British Medical Journal Debate: Should men who have ever had sex with men be allowed to give blood? Yes]
+
+{{Discrimination}}
+
+[[Category:Blood donation]]
+[[Category:Discrimination]]
+[[Category:Food and Drug Administration]]
+[[Category:Gay history]]
+[[Category:Homophobia]]
+[[Category:History of HIV/AIDS]]
+[[Category:Male homosexuality]]
+[[Category:Medical controversies]]
+[[Category:LGBT rights]]
+[[Category:Patient safety]]
+[[Category:Sexual orientation and science]]
+[[Category:Sexual orientation and society]]
+[[Category:Transfusion medicine]]</rev></revisions></page></pages></query></api>

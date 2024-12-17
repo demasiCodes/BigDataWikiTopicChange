@@ -1,0 +1,141 @@
+<?xml version="1.0"?><api><continue rvcontinue="20190923214208|917447785" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="732260" pageid="732260" ns="0" title="Religious segregation"><revisions><rev timestamp="2019-10-29T15:19:44Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">[[File:Endingen Doppeltuer.jpg|thumb|right|Two separate doors (one for Jews, and one for Christians) on a house in the town of [[Endingen, Switzerland]].]]'''Religious segregation''' is the separation of people according to their [[religion]]. The term has been applied to cases of religious-based segregation occurring as a social phenomenon,&lt;ref&gt;{{cite journal|title=Religious Segregation in the Schools of Northern Ireland|last=Knox|first=H. M.|journal=British Journal of Educational Studies|volume=21|issue = 3|pages=307–312|date=October 1973|jstor = 3120328|doi=10.1080/00071005.1973.9973387}} "...[S]egregated schooling, although in theory open to all, is in practice availed of by virtually only one denomination...." Also refers to pre-[[Partition of Ireland|Partition]] religious schools which retained their exclusively Catholic demographics after Partition.&lt;/ref&gt; as well as to segregation arising from laws, whether explicit or implicit.&lt;ref&gt;{{cite book|title=American Cultural Pluralism and Law|last1=Norgren|first1=Jill|last2=Nanda|first2= Serena|author2-link=Serena Nanda |isbn=978-0-275-98692-6|publisher=Greenwood Publishing Group|year=2006|pages=132}}, quoting U.S. Supreme Court Justice [[Anthony Kennedy]] in ''[[Board of Education of Kiryas Joel Village School District v. Grumet]]'': "...[D]rawing school district lines along the religious lines of the village impermissibly involved the state in accomplishing the religious segregation."&lt;/ref&gt;
+
+The similar term '''religious apartheid''' has also been used for situations where people are separated based on religion,&lt;ref&gt;{{cite web|url=http://www.christianitytoday.com/ct/2000/septemberweb-only/26.0b.html|title=Pakistan's Christians Demand End to 'Religious Apartheid' at Polls|work=Christianity Today|last=Akkaro|first=Anta|accessdate=2008-08-18|date=2000-09-01}}&lt;/ref&gt; including sociological phenomena.&lt;ref&gt;{{cite episode|title=Religion In Schools|url=http://www.teachers.tv/video/24057|series=The Big Debate|airdate=2008-01-29|minutes=0:09:29 and 0:11:52|url-status=dead|archiveurl=https://web.archive.org/web/20080921052334/http://www.teachers.tv/video/24057|archivedate=2008-09-21}}, in which Rabbi Dr Jonathan Romain says (at 0:09:29): "If you have separate Jewish, Catholic, Muslim, Sikh, Hindu schools, essentially you’re segregating children, you’re separating children" and (at 0:11:52): "It’s a religious apartheid society we’re creating."&lt;/ref&gt;
+
+== Northern Ireland ==
+{{Seealso|Segregation in Northern Ireland}}
+[[File:Belfast peace line Cupar Way.jpg|thumb|A "[[peace lines|peace line]]" in [[Belfast]], Northern Ireland, 2010]]
+In [[Northern Ireland]] religious segregation has been a phenomenon which increased in many areas, particularly in the capital city of [[Belfast]] and [[Derry]]. This trend increased since the [[Troubles]], a protracted series of conflicts and tensions between Roman Catholics and Protestants from the late 1960s to the late 2000s. Segregation does not occur everywhere. State schools are non-denominational, but many Roman Catholics send their children to Roman Catholic Maintained Schools.
+
+In government housing, most people will choose to be housed within their own communities. This segregation is most common with lower income people in larger towns and cities, and where there has been heightened levels of violence.
+
+In 2012 ''[[Foreign Policy (magazine)|Foreign Policy]]'' reported: {{quote|The number of "[[peace wall]]s," physical barriers separating Catholic and Protestant communities, has increased sharply since the first ceasefires in 1994. Most people in the region cannot envisage the barriers being removed, according to a recent survey conducted by the University of Ulster. In housing and education, Northern Ireland remains one of the most segregated tracts of land anywhere on the planet -- less than one in 10 children attends a school that is integrated between Catholics and Protestant. This figure has remained stubbornly low despite the cessation of violence.&lt;ref&gt;{{cite web|url=https://foreignpolicy.com/articles/2012/12/20/return_of_the_troubles|title=Return of the Troubles|publisher=|accessdate=29 November 2016|via=Foreign Policy}}&lt;/ref&gt;}}
+
+==Iran==
+[[Shi'a Islam]] has been the [[state religion]] of [[Iran]] since the [[Iranian Revolution]] in 1979. While [[Judaism]], [[Christianity]], and [[Zoroastrianism]] are officially recognized and legally protected religious minorities, they are not allowed to evangelize or allow Muslim Iranians to convert to their faiths. The U.S. [[United States Department of State|State Department]] has claimed that religious minorities have been subject to harassment and [[religious persecution]].&lt;ref name=2006Report&gt;
+{{cite web
+|url=https://2001-2009.state.gov/g/drl/rls/irf/2006/71421.htm
+|title=International Religious Freedom Report 2006 - Iran
+|accessdate=2006-11-08
+|author=U.S. Department of State
+|date=2005-09-15
+|publisher=U.S. Department of State}}&lt;/ref&gt;
+
+Other religious minorities like the [[Bahá'í]] are not recognized by the government and thus do not have any legal protections nor the [[Constitution of Iran|constitutional]] right to practice their religion.&lt;ref&gt;{{cite web|url=http://www.fidh.org/IMG/pdf/ir0108a.pdf|title=Discrimination against religious minorities in IRAN|page=6|publisher=FIDH|accessdate=2008-08-03}}&lt;/ref&gt; The Muslim Network for Bahá'í Rights has reported cases of [[Bahá'í]] students being expelled from [[university]] due to their religion.&lt;ref&gt;{{cite web|url=http://www.bahairights.org/2007/07/18/bahais-in-iran-deprived-of-their-education/|title=Baha'i children in Egypt not being admitted to schools because of their faith|work=Muslim Network for Bahá'í Rights|accessdate=2008-08-03}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.mideastyouth.com/2008/07/06/schools-out-for-the-bahais/|title=School's Out for the Bahá'ís|accessdate=2008-08-03|work=Mideast Youth|url-status=dead|archiveurl=https://archive.today/20120525144733/http://www.mideastyouth.com/2008/07/06/schools-out-for-the-bahais/|archivedate=2012-05-25}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://news.bahai.org/story/575|title=Confidential Iran memo exposes policy to deny Bahá'í students university education|work=Bahá'í World News Service|accessdate=2008-08-03|date=2007-08-27}}&lt;/ref&gt;
+According to the Times Higher Education, Bahá'í educators are required to renounce their faith in order to teach in Iranian universities.&lt;ref&gt;{{cite web|url=http://www.timeshighereducation.co.uk/story.asp?storyCode=203640&amp;sectioncode=26|title=Segregation in Iran|work=Times Higher Education|accessdate=2008-08-03|publisher=TSL Education Ltd.|date=2006-06-08}}&lt;/ref&gt; Due to its [[Heterodoxy|heterodox]] beliefs, the Bahá'í faith is officially considered a [[heresy|heretical]] movement&lt;ref&gt;{{cite web|url=http://www.iranian.ws/iran_news/publish/article_26173.shtml |accessdate=2008-08-03 |title=Iran: Religious minority reports arson attacks |work=Persian Journal |url-status=dead |archiveurl=https://web.archive.org/web/20130610153003/http://www.iranian.ws/iran_news/publish/article_26173.shtml |archivedate=June 10, 2013 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.abc.net.au/rn/talks/8.30/relrpt/stories/s892997.htm|title=Islam and apostasy|work=The Religion Report|publisher=ABC Radio National (Australia)|accessdate=2008-08-05|archive-url=https://web.archive.org/web/20111012073200/http://www.abc.net.au/rn/talks/8.30/relrpt/stories/s892997.htm|archive-date=2011-10-12|url-status=dead}}&lt;/ref&gt;
+because of the Bahá'í belief that [[Bahá'u'lláh]] is a divinely ordained prophet in contradiction of the [[Qur'an]], which asserts that Muhammad is the [[Seal of the prophets|last and final messenger]] sent to mankind.&lt;ref&gt;{{cite web|url=http://www.clarionledger.com/apps/pbcs.dll/article?AID=/20080719/FEAT04/807190313/1022|title=Bahá'í believers know freedom and oppression|work=Clarion Ledger|accessdate=2008-08-03}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt;
+
+==Pakistan==
+{{See also|Persecution of Ahmadis}}
+Pakistan is officially an Islamic country and defines who and who is not a Muslim. Under these conditions, [[Ahmadi Muslims]] are declared non-Muslim by law of the land and cannot practice their faith freely. They are not permitted to call their mosques as mosques, or meet with people with the Islamic [[As-salamu alaykum|greeting of Peace]]. Ahmadi Muslims are excluded from government and any other high-profile positions within Pakistan. There have been cases when the Ahmadi Muslims have been expelled from schools, colleges and universities, for being Ahmadi Muslim.&lt;ref&gt;{{cite web| url=http://tribune.com.pk/story/269390/ahmadis-expelled-from-school | title=Ahmadis expelled from school | publisher=Express Tribune | accessdate=April 6, 2014 | date=October 8, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.humanrights.asia/news/forwarded-news/AHRC-FPR-047-2013 | title=Persecution of Ahmadis in September 2013
+
+ | publisher=Human Rights Asia | accessdate= April 6, 2014}}&lt;/ref&gt; Once the entire population of [[Rabwah]], the Pakistani headquarters of Ahmadi Muslims was charged under Anti-Ahmadiyya laws.&lt;ref&gt;{{cite web| url=http://www.thepersecution.org/press/08/rbw080719.html | title=ENTIRE POPULATION OF RABWAH CHARGED UNDER ANTI-AHMADIYYA LAWS IN PAKISTAN | publisher=thepersecution.org | accessdate=April 6, 2014}}&lt;/ref&gt;
+
+==Saudi Arabia==
+[[Image:Christian Bypass.jpg|thumb|right|upright=1.25|Road sign on a highway into Mecca, stating that one direction is "Muslims only" while another direction is "obligatory for non-Muslims". [[Committee for the Promotion of Virtue and the Prevention of Vice (Saudi Arabia)|Religious police]] are stationed beyond the turnoff on the main road to prevent non-Muslims from proceeding into Mecca and Medina.&lt;ref name=mackeymecca /&gt;]]
+{{main|Freedom of religion in Saudi Arabia|Saudi Arabia and the apartheid analogy}}
+
+Prior to March 1, 2004, the official Saudi government website stated that [[Jew]]s were forbidden from entering the country, however, it was not enforced into practice.&lt;ref&gt;"The official tourism website stated that Jews were banned from entering the country; however, it was not enforced in practice." [[United States Department of State]]. [https://2001-2009.state.gov/g/drl/rls/hrrpt/2004/41731.htm Saudi Arabia], Country Reports on Human Rights Practices - 2004, February 28, 2005.&lt;/ref&gt;&lt;ref name=cnn2004-02-28&gt;{{cite news
+|url=http://www.cnn.com/2004/WORLD/meast/02/28/visa.flap/index.html
+|title=Jews barred, said Saudi Web site
+|date=February 28, 2004
+|publisher=CNN
+|accessdate=2008-06-02}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+ |url=http://www.sauditourism.gov.sa/sct/indexlist.php?catid=39&amp;maincat=Travel_Tips 
+ |title=www.sauditourism.gov.sa 
+ |accessdate=2008-07-21 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20040206173019/http://www.sauditourism.gov.sa/sct/indexlist.php?catid=39&amp;maincat=Travel_Tips 
+ |archivedate=2004-02-06 
+}}&lt;/ref&gt;
+
+In the City of [[Mecca]], only Muslims are allowed. Non-Muslims may not enter or travel through Mecca; attempting to enter Mecca as a non-Muslim can result in penalties such as a fine;&lt;ref name=mackeymecca&gt;[[Sandra Mackey]]'s account of her attempt to enter Mecca in {{cite book|last=Mackey|first=Sandra|title=The Saudis: Inside the Desert Kingdom|year=1987|pages=63–64|publisher=W. W. Norton &amp; Company|isbn=978-0-393-32417-4}}&lt;/ref&gt; being in Mecca as a non-Muslim can result in deportation.&lt;ref&gt;{{cite book|title=An A To Z Of Places And Things Saudi|last=Cuddihy|first=Kathy|pages=148|year=2001|publisher=Stacey International|isbn=978-1-900988-40-7}}&lt;/ref&gt;
+
+In the City of [[Medina]], both Muslims and Non-Muslims are allowed in. The exception are non-Muslims entering the Nabawi Square, where the [[Nabawi Mosque|Al-Masjid Al-Nabawi]] is located.&lt;ref&gt;{{cite web|url=http://www.sikhanswers.com/gurmat-islam/why-guru-nanak-visit-mecca-if-not-muslim/|title=How could Guru Nanak visit Mecca if he wasn't a Muslim? - Sikh Answers|publisher=|accessdate=29 November 2016}}&lt;/ref&gt;{{reliable|date=December 2017}}&lt;ref&gt;[https://2009-2017.state.gov/documents/organization/171744.pdf United States Department of State]&lt;/ref&gt;
+
+==Nepal==
+On the banks of the [[Bagmati River]] in [[Kathmandu]], Nepal is a [[Pashupatinath Temple]] dedicated to [[Pashupati|Pashupatinath]]. This temple complex which is on the [[UNESCO World Heritage Sites]]'s list since 1979 was erected anew in the 15th century by King kirat Yalamber.
+
+Entry into the inner courtyard is strictly monitored by the temple security, which is selective of who is allowed inside. Practicing Hindus and Buddhists of Indian and Tibetan descendant are only allowed into temple courtyard. Practicing Hindus and Buddhistes of other than Nepali, Indian, Tibetan descent are not allowed into the temple complex along with other non Hindu visitors. Others can look at the main temple from adjacent side of the river.
+
+==India==
+{{Seealso|Religious violence in India|Violence against Muslims in India|Caste-related violence in India}}
+The debate over the ban on non-Hindus entering Hindu temples began around 30 years ago when singer Yesudas, who planned to take part in a music programme, was stopped at the Guruvayur temple gate. He finally had to sing bhajans outside the temple wall. Though several temples in Kerala have signs saying that non-Hindus are denied entry, few of them enforce it as strictly as the Guruvayur temple, which insists on following its distinct traditions. 'Only Orthodox Hindus are allowed’, reads a signboard hanging from the Lion's Gate of the Sri Jagannath Temple in Puri. The issue has triggered many a controversy in the past and continues to arouse strong feelings even today.&lt;ref name="OutlookInd"&gt;{{cite web |last1=Sahu |first1=Sandeep |title=SC For Entry Of Non-Hindus Into Puri Jagannath Temple, Will Servitors Allow? |url=https://www.outlookindia.com/website/story/sc-for-entry-of-non-hindus-into-puri-jagannath-temple-will-servitors-allow/313183 |website=Outlookindia.com |publisher=Outlook |accessdate=25 July 2019}}&lt;/ref&gt;{{cn|date=January 2019}}
+
+The temple is an important pilgrimage destination for many Hindu traditions and part of the Char Dham pilgrimages that a Hindu is expected to make in one's lifetime.&lt;ref name="CompletePilgrim"&gt;{{cite web |last1=Kramer |first1=Howard |title=JAGANNATH TEMPLE |url=https://thecompletepilgrim.com/jagannath-temple/ |website=The Complete Pilgrim |publisher=The Complete Pilgrim, LLC. |accessdate=25 July 2019}}&lt;/ref&gt;&lt;ref name="TourMyIndia"&gt;{{cite web |last1=Rana |first1=Anil |title=Why is Char Dham Yatra Extremely Significant for Hindus? |url=https://www.tourmyindia.com/blog/why-is-char-dham-yatra-extremely-significant-for-hindus/ |website=Tour My India |publisher=tourmyindia.com |accessdate=25 July 2019}}&lt;/ref&gt;{{cn|date=January 2019}}
+
+In the past a number of dignitaries, including former prime minister Indira Gandhi, had not been allowed to enter the 12th century shrine because she had married a Parsi, Feroze Gandhi. In 2005, the Queen of Thailand Mahachakri Siridharan was not allowed inside the temple as she was a follower of Buddhism.&lt;ref name="OutlookInd"/&gt;{{cn|date=January 2019}}
+
+In 2006, the shrine did not allow a citizen of Switzerland named Elizabeth Jigler, who had donated 17.8 million Indian Rupees to the temple because she was a Christian.
+Kashi Vishvanath In Varanasi
+Located in Varanasi, the temple stands on the western bank of the holy river Ganga, and is one of the twelve Jyotirlingas, the holiest of Shiva temples. The most famous of the many temples in Varanasi is the one dedicated to Vishveswara -- Shiva as lord of the universe. 
+Non-Hindus are not allowed inside the temple, although this is not always enforced. On the northern side of Vishwanath Temple is the Gyan Kupor well. Non-Hindus are strictly not allowed to enter here.{{cn|date=January 2019}}
+ 	
+==Israel==
+{{Seealso|Israeli settlement|Israeli West Bank barrier}}
+[[File:16-03-31-israelische Siedlungen bei Za'atara-WAT 5587.jpg|thumb|240px|Israeli settlement in the [[West Bank]] near [[Za'atara]]]]
+
+==Bahrain==
+{{Main|Human rights in Bahrain|Freedom of religion in Bahrain}}
+
+==Myanmar==
+
+{{main|2012 Rakhine State riots}}
+
+The 2012 Rakhine State riots are a series of ongoing conflicts between Rohingya Muslims and ethnic Rakhine in northern [[Rakhine State]], [[Myanmar]]. The riots came after weeks of sectarian disputes and have been condemned by most people on both sides of the conflict.&lt;ref&gt;{{cite news | url=https://www.reuters.com/article/2012/06/08/us-myanmar-violence-idUSBRE85714E20120608 | title=Four killed as Rohingya Muslims riot in Myanmar: government | agency=Reuters | date=8 June 2012 | accessdate=9 June 2012}}&lt;/ref&gt;
+The immediate cause of the riots is unclear, with many commentators citing the killing of ten Burmese Muslims by ethnic Rakhine after the rape and murder of a Rakhine woman as the main cause.&lt;ref name=PhilInquirer&gt;{{cite news|last=Lauras|first=Didier|title=Myanmar stung by global censure over unrest|url=http://newsinfo.inquirer.net/271174/myanmar-stung-by-global-censure-over-unrest|accessdate=15 September 2012|newspaper=Agence France-Presse in the Philippine Daily Inquirer|date=15 September 2012}}&lt;/ref&gt;
+
+Whole villages have been "decimated".&lt;ref name=PhilInquirer /&gt;  Over three hundred houses and a number of public buildings have been razed. According to Tun Khin, the President of the Burmese Rohingya Organisation UK (BROUK), as of 28 June 650 Rohingyas have been killed, 1,200 are missing, and more than 80,000 have been displaced.&lt;ref name="dvb_hindstorm"/&gt; According to the Myanmar authorities, the violence, between ethnic Rakhine Buddhists and Rohingya Muslims, left 78 people dead, 87 injured, and thousands of homes destroyed. It also displaced more than 52,000 people.&lt;ref name="UN News"&gt;{{cite news|title=UN refugee agency redeploys staff to address humanitarian needs in Myanmar|work=UN News|date=29 June 2012|url=https://www.un.org/apps/news/story.asp?NewsID=42356|accessdate=29 June 2012}}&lt;/ref&gt;
+
+The government has responded by imposing curfews and by deploying troops in the region. On 10 June 2012, a [[state of emergency]] was declared in Rakhine, allowing the military to participate in the administration of the region.&lt;ref&gt;{{cite web | url=http://burma.irrawaddy.org/archives/11901 | title=အေရးေပၚအေျခအေန ေၾကညာခ်က္ ႏုိင္ငံေရးသမားမ်ား ေထာက္ခံ | publisher=The Irrawaddy | date=11 June 2012 | accessdate=11 June 2012 | author=Linn Htet}}&lt;/ref&gt;&lt;ref&gt;{{Cite news | first = Fergal | last = Keane | authorlink = Fergal Keane | title = Old tensions bubble in Burma | url = https://www.bbc.co.uk/news/world-asia-18402678 | publisher = BBC News | date = 11 June 2012 | accessdate = 2012-06-11 }}&lt;/ref&gt; The Burmese army and police have been accused of targeting Rohingya Muslims through mass arrests and arbitrary violence.&lt;ref name="dvb_hindstorm"&gt;{{cite news|last=Hindstorm|first=Hanna|title=Burmese authorities targeting Rohingyas, UK parliament told|url=http://www.dvb.no/news/burmese-authorities-targeting-rohingyas-uk-parliament-told/22676|accessdate=9 July 2012|date=28 June 2012|agency=[[Democratic Voice of Burma]]}}&lt;/ref&gt;&lt;ref name="presstv"&gt;{{cite news |url=http://www.presstv.ir/detail/2012/07/13/250651/un-focuses-on-myanmar-amid-muslim-plight/ |title=UN focuses on Myanmar amid Muslim plight |date=13 July 2012 |agency=PressTV |accessdate=13 July 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120717012101/http://www.presstv.ir/detail/2012/07/13/250651/un-focuses-on-myanmar-amid-muslim-plight/ |archivedate=17 July 2012 }}&lt;/ref&gt; A number of monks' organisations that played a vital role in Burma's struggle for democracy have taken measures to block any humanitarian assistance to the Rohingya community.&lt;ref name="ti_hindstorm"&gt;{{cite news|last=Hindstorm|first=Hanna|title=Burma's monks call for Muslim community to be shunned|url=https://www.independent.co.uk/news/world/asia/burmas-monks-call-for-muslim-community-to-be-shunned-7973317.html|accessdate=25 July 2012|date=25 July 2012|work=[[The Independent]]}}&lt;/ref&gt;
+In July 2012, the Myanmar Government did not include the Rohingya minority group–-classified as [[Statelessness|stateless]] Bengali Muslims from Bangladesh since 1982—on the government's list of more than 130 ethnic races and therefore the government says that they have no claim to Myanmar citizenship.&lt;ref&gt;{{cite news| url= http://www.thehindu.com/news/international/article3703383.ece|title= Rohingyas are not citizens: Myanmar minister| date= 1 August 2012}}&lt;/ref&gt;
+
+According to [[Amnesty International]], the Muslim [[Rohingya people]] have continued to suffer from [[human rights]] violations under the Burmese [[Military dictatorship|junta]] since 1978, and many have fled to neighbouring [[Bangladesh]] as a result.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/news/world-asia-18921960 |title=Muslims in Burma's Rakhine state 'abused' - Amnesty |date=20 July 2012 |website=BBC News |publisher=BBC}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.amnesty.org/en/news/myanmar-rohingya-abuses-show-human-rights-progress-backtracking-2012-07-19 |date=19 July 2012 |title=Myanmar: Abuses against Rohingya erode human rights progress |website=Amnesty International |url-status=dead |archive-url=https://web.archive.org/web/20150221095159/http://www.amnesty.org/en/news/myanmar-rohingya-abuses-show-human-rights-progress-backtracking-2012-07-19 |archive-date=2015-02-21 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Desperate plight of Burma's Rohingya people |url=http://news.bbc.co.uk/2/hi/south_asia/8605669.stm |date=4 June 2010 |website=BBC News |publisher=BBC}}&lt;/ref&gt;
+
+As of 2005, the UNHCR ([[United Nations High Commissioner for Refugees]]) had been assisting with the repatriation of Rohingya from Bangladesh, but allegations of human rights abuses in the refugee camps have threatened this effort.&lt;ref&gt;{{cite web
+ |url         = http://www.newagebd.com/2005/may/21/front.html#9
+ |title       = UNHCR threatens to wind up Bangladesh operations
+ |publisher   = New Age BDNEWS, Dhaka
+ |date        = 2005-05-21
+ |accessdate  = 2007-04-25
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20090425140346/http://www.newagebd.com/2005/may/21/front.html#9
+ |archivedate = 2009-04-25
+}}&lt;/ref&gt;
+
+Despite earlier efforts by the UN, the vast majority of Rohingya refugees have remained in Bangladesh, unable to return because of the regime in Myanmar. Now they face problems in Bangladesh where they do not receive support from the government.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/1/hi/world/asia-pacific/7019882.stm |title=Burmese exiles in desperate conditions |author=Mark Dummett |date=29 September 2007 |website=BBC News |publisher=BBC |accessdate=29 November 2016}}&lt;/ref&gt; In February 2009, many Rohingya refugees were helped by [[Acehnese people|Acehnese]] [[sailor]]s in the [[Strait of Malacca]], after 21 days at sea.&lt;ref&gt;[https://epaper.kompas.id/ KOMPAS ePaper]&lt;/ref&gt;{verification failed|date=February 2019}}
+
+Over the years thousands of Rohingya also have fled to Thailand. There are roughly 111,000 refugees housed in nine camps along the Thai-Myanmar border. There have been charges that groups of them have been shipped and towed out to open sea from Thailand, and left there. In February 2009, there was evidence of the Thai army towing a boatload of 190 Rohingya refugees out to sea. A group of refugees rescued by Indonesian authorities also in February 2009 told harrowing stories of being captured and beaten by the Thai military, and then abandoned at open sea. By the end of February, there were reports that of a group of five boats were towed out to open sea, of which four boats sank in a storm, and one washed up on the shore. February 12, 2009 Thailand's prime minister [[Abhisit Vejjajiva]] said there were "some instances" in which Rohingya people were pushed out to sea.
+&lt;blockquote&gt;"There are attempts, I think, to let these people drift to other shores. [...] when these practices do occur, it is done on the understanding that there is enough food and water supplied. [...] It's not clear whose work it is [...] but if I have the evidence who exactly did this I will bring them to account." [http://edition.cnn.com/2009/WORLD/asiapcf/02/12/thailand.refugees.admission/index.html]&lt;/blockquote&gt;
+
+==See also==
+{{col div|colwidth=16em}}
+*[[Caste]]
+*[[Devshirme]]
+*[[Dhimmi]] laws
+*[[Ghetto]]
+*[[Jim Crow laws]]
+*[[Judenhut]]
+*[[Mellah]]
+*[[Millet (Ottoman Empire)|Millet]]
+*[[Minority religion]]
+*[[Nuremberg laws]]
+*[[Racial segregation]]
+*[[Racial segregation of churches in the United States|Racial segregation in U.S. churches]]
+*[[Religious stratification]]
+*[[Second-class citizen]]
+*[[Yellow badge]]
+{{Portal|Religion}}
+{{colend}}
+
+==References==
+{{Reflist}}
+{{Religious persecution|right}}
+{{Segregation by type}}
+{{Religion topics}}
+{{Relpolnav}}
+
+[[Category:Religion and politics]]
+[[Category:Religion and race]]
+[[Category:Religious discrimination]]
+[[Category:Segregation]]</rev></revisions></page></pages></query></api>

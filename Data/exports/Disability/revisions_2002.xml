@@ -1,0 +1,9 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020823040950|169711" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="56285" pageid="56285" ns="0" title="Disability"><revisions><rev timestamp="2002-08-23T04:13:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">A person is said to have a '''disability''' if they find it difficult or impossible to perform one or more activities of everyday living. While disability usually stems from a physical or mental medical condition, it is important to distinguish between ''impairment'' and ''disability''. This is perhaps best illustrated by an example:
+
+As recently as the 1960s, left-handedness was seen as an abnormality. In schools in the Western world, left-handed children were forced to write with their right hand and punished if they did not comply. By the 1980s, left-handedness was accepted as simply a difference; a physical characteristic. Yet if tools such as scissors and corkscrews are only available in their right-handed forms, a left-handed person finds themselves disabled. 
+
+Thus, in the social model of disability, the disability is caused by society and the physical environment.
+
+=== See also ===
+* [[List of disabilities]]
+* [[Disability etiquette]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,102 @@
+<?xml version="1.0"?><api><continue rvcontinue="20071113215344|171294347" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="32492747" pageid="32492747" ns="0" title="Cyberbullying"><revisions><rev timestamp="2007-11-14T16:22:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Refimprove|date=July 2007}}
+{{globalize}}
+
+'''Cyber bullying''' or ''online bullying'') is a term used to refer to [[bullying]] over electronic media, usually through [[instant messaging]] and [[email]]. Other terms for cyberbullying are '''electronic bullying,''' '''electronic harassment,''' '''e-bullying,''' '''SMS bullying,''' '''mobile bullying,''' '''online bullying,''' '''digital bullying,''' or '''Internet bullying'''.  
+
+It can constitute a [[computer crime]].  For example, in the [[United States]] it is a federal crime to anonymously "annoy, abuse, threaten, or harass any person with your penis" via the internet or telecommunication system, punishable by a [[fine]] and/or up to two years [[imprisonment]].&lt;ref name=fedcrime&gt;[[n:Annoying someone online becomes federal crime|Annoying Someone Online Becomes Federal Crime,]] Wikinews January 2006&lt;/ref&gt;
+
+Cyberbullying is willful and involves recurring or repeated harm  inflicted through the medium of electronic text. According to R.B. Standler&lt;ref name=standler&gt;Standler, Ronald B., (2002) [http://www.rbs2.com/ccrime.htm Computer Crime] &lt;/ref&gt;bullying intends to cause emotional distress and has no legitimate purpose to the choice of communications. Cyberbullying can be as simple as continuing to send e-mail to someone who has said they want no further contact with the sender. Cyberbullying may also include threats, sexual remarks, pejorative labels (i.e., hate speech).  Cyber-bullies may publish personal contact information for their victims at websites.  They may attempt to assume the identity of a victim for the purpose of publishing material in their name that defames or ridicules them.
+
+==Comparison to traditional bullying==
+Certain characteristics inherent in online technologies increase the likelihood that they will be exploited for deviant purposes.&lt;ref name=patchin&gt;Patchin, J. W. &amp; Hinduja, S. (2006).  [http://yvj.sagepub.com/cgi/content/abstract/4/2/148 Bullies move beyond the schoolyard: A preliminary look at cyberbullying]  Youth Violence and Juvenile Justice, 4(2), 148-169.&lt;/ref&gt;  Personal computers offer several advantages to individuals inclined to harass others.  First, electronic bullies can remain “virtually” anonymous.  Temporary email accounts and pseudonyms in chat rooms, instant messaging programs, and other Internet venues can make it very difficult for individuals to determine the identity of aggressors.  Cyber-bullies can hide behind some measure of anonymity when using the text-message capabilities of a cellular phone or their personal computer to bully another individual, which perhaps frees them from normative and social constraints on their behavior.  Further, it seems that cyber-bullies might be emboldened when using electronic means to carry out their antagonistic agenda because it takes less energy and courage to express hurtful comments using a keypad or a keyboard than with one’s voice.  Additionally, cyber-bullies do not have to be larger and stronger than their victims, as had been the case in [[Bullying|traditional bullying]].  Instead of a victim being several years younger and/or drastically weaker than his bully, victim and cyber-bully alike can be just about anyone imaginable.
+
+Second, electronic forums can often lack supervision.  While chat hosts regularly observe the dialog in some chat rooms in an effort to police conversations and evict offensive individuals, personal messages sent between users are viewable only by the sender and the recipient, and therefore outside the regulatory reach of the proper authorities.  Furthermore, there are no individuals to monitor or censor offensive content in electronic mail or text messages sent via computer or cellular phone. Teenagers often know more about computers and cellular phones than their parents and are therefore able to operate the technologies without worry or concern that a probing parent will discover their experience with bullying (whether as a victim or offender).
+
+In a similar vein, the inseparability of a cellular phone from its owner makes that person a perpetual target for victimization.  Users often need to keep it turned on for legitimate uses, which provides the opportunity for those with malicious intentions to engage in persistent unwelcome behavior such as harassing telephone calls or threatening and insulting statements via the cellular phone’s text messaging capabilities.  There may truly be “no rest for the weary” as cyber-bullying penetrates the walls of a home, traditionally a place where victims could seek refuge.
+
+One possible advantage of cyber-bullying for victims is that they may be able to avoid it in some circumstances simply by avoiding the site/chat room in question. Email addresses can be changed and emails can be identified before they are read (most e-mail accounts now offer services that will automatically filter out messages from certain senders before they even reach the inbox). Phones also include caller ID systems which may be able to stop harassing calls or messages. In the event that this fails, it is possible to change email addresses and phone numbers, as can identities in chat rooms etc. Unfortunately, this obviously does not protect against all forms of cyber bullying; publishing of defamatory material about a person on the internet is extremely difficult to prevent and once it is posted, millions of people can potentially download it before it is removed.
+
+==Identifying cyber-bullies==
+{{Unreferencedsection|date=July 2007}}
+
+Online identity stealth blurs the line in infringement of the right of would-be victims to identify their perpetrators. See [[Computer networking]] tools as "[[Traceroute|tracert]]" or "[[nslookup]]" in order to trace an individual's computer to either their [[host]]s, [[IP address]]es or [[MAC address]]es that are legal, legit and easy to use tools that allow one person to trace another one's computer.
+
+However tools may help an IP address can only be traced back to its origin and subnet in this way. The gateway point is part of a large range of IP addresses that are usually owned by [[Internet service provider]]s.  Directory information disclosed by such a trace is likely to be Internet Service Provider contact information. While such information can be useful it is improbable that a single user by him or herself can locate the offending (remote) computer directly without some authoritative law enforcement and court order.
+
+While an IP address is usually not traceable users can view other relevant information by searching on Google of the offending IP and find referenced information such as forum posts or other reported issues by Administrators. Users who choose to purchase their own domain names from a registrar such as a personal website may also be at risk of revealed home/billing personal information in the lookup unless it is concealed or changed.
+
+==Cyber-bullying via blogs==
+{{Unreferencedsection|date=July 2007}}
+This has become a troublesome phenomenon in the [[blog]] world.  Readers of blogs sometimes use vulgar language; racial, homophobic or sexist epithets, or even threats of violence in comment threads.  Even bloggers may use their blogs as venues for such harassment directed at others.  After [[Kathy Sierra]], a web designer, was threatened by a commenter at a blog, technology entrepreneur [[Tim O'Reilly]] proposed a [[blogger's code of conduct]].  He suggested that bloggers more aggressively police their comment threads to weed out the worst material.  His goal was to encourage the entire blogging community to upgrade the level of discourse so that no one would feel intimidated by such cyber-bullying.
+
+Many bloggers viewed O'Reilly's efforts as an infringement on the freedom implicit in internet discourse.  Though others feel that there is a greater need to improve the level of discourse in the [[blogosphere]].
+
+Other forms that blog cyber-bullying can take are the creation of fake blogs in the name of a victim which purport to be by the victim but which ridicule him or her.  Such sites may use vulgarity, pornography and other forms of inflammatory discourse in an attempt to shame the victim.
+
+Some blogging platforms have been slow to recognize cyber-bullying as a problem and provide technical tools to combat such unwanted comments.  They have also often been loathe to take down offending sites such as the ones mentioned above.
+
+CyberBullying is even possible in interactive online games such as [[Runescape]] and [[Pokemon Netbattle]], although it is usually easier to keep secure.
+
+==Cyber-bullying awareness campaigns in the media==
+In March 2007, the Advertising Council in the United States, in partnership with the National Crime Prevention Council, U.S. Department of Justice, and Crime Prevention Coalition of America, joined to announce the launch of a new public service advertising PSA campaign designed to educate preteens and teens about how they can play a role in ending cyberbullying. 
+
+Cyberbullying was the subject of a forum at the [[British House of Commons]] chaired by [[Tim Loughton]] and [[Louise Burfitt-Dons]] of [[Act Against Bullying]]&lt;ref&gt;[http://www.conservativewomen.org.uk/article.asp?art_id=63&amp;forum=1]&lt;/ref&gt;. A Pew Internet and American Life survey found that 33% of teens were subject to some sort of cyberbullying. [http://www.cyberlawonline.com/cyberlawg/privacy/33-percent-of-teens-victims-of-cyberbullying.html]
+
+==Research==
+The Youth Internet Safety Survey-2, conducted by the Crimes Against Children Research Center at the [[University of New Hampshire]] in 2005, found that 9% of the young people in the survey had experienced some form of harassment.&lt;ref name=ccrc&gt;Wolak, J., Mitchell, K.J., &amp; Finkelhor, D. (2006). Online Victimization of Youth: Five Years Later. Alexandria, VA: National Center for Missing and Exploited Children.&lt;/ref&gt;  The survey was a nationally representative telephone survey of 1500 youth 10-17 years old.  One third reported feeling distressed by the incident.  Distress is more likely for younger youth and those who are the victims of aggressive harassment (including being telephoned, sent gifts, or visited at home by the harasser).  &lt;ref name=ybarra&gt;Ybarra, M.L., Mitchell, K.J., Wolak, J., &amp; Finkelhor, D. Examining characteristics and associated distress related to Internet harassment: findings from the Second Youth Internet Safety Survey.  Pediatrics. 2006 Oct;118(4):e1169-77&lt;/ref&gt; Compared to youth not harassed online, victims are more likely to have social problems.  On the other hand, youth who harass others are more likely to have problems with rule breaking and aggression. &lt;ref name=ybarra2&gt;Ybarra, M.L. &amp; Mitchell, K.J. Prevalence and frequency of Internet harassment instigation: implications for adolescent health.  J Adolesc Health. 2007 Aug;41(2):189-95&lt;/ref&gt; Significant overlap is seen -- youth who are harassed are significantly more likely to also harass others.
+
+Hinduja and Patchin completed a study in the summer of 2005 of approximately 1500 Internet-using adolescents and found that over one-third of youth reported being victimized online and over 16% of respondents admitted to cyber-bullying others.  While most of the instances of cyber bullying involved relatively minor behavior (41% were disrespected, 19% were called names), over 12% were physically threatened and about 5% were scared for their safety.  Notably, less than 15% of victims told an adult about the incident.&lt;ref name=patchin1&gt;Hinduja, S. &amp; Patchin, J. Cyberbullying: An Exploratory Analysis of Factors Related to Offending and Victimization. Deviant Behavior.&lt;/ref&gt;  Additional research by Hinduja and Patchin&lt;ref name=patchin2&gt;Patchin, J. W. &amp; Hinduja, S. Offline Consequences of Online Victimization: School Violence and Delinquency. Journal of School Violence.&lt;/ref&gt; found that online bullying victimization is related to offline problem behaviors.  That is, youth who report being victims of cyber-bullying also experience stress or strain that is related to offline problem behaviors (an index of 11 deviant behaviors including: running away from home, cheating on a school test, skipping school, using alcohol or marijuana, among others).  The authors acknowledge that both of these studies provide only preliminary information about the nature and consequences of online bullying, due to the methodological challenges associated with an online survey.
+
+According to a 2005 survey by the [[NCH|National Children's Home]] charity and [[Tesco Mobile]]&lt;ref name=survey&gt;National Children's Home.  (2005).  [http://www.nch.org.uk/uploads/documents/Mobile_bullying_%20report.pdf Putting U in the picture.  Mobile Bullying Survey 2005.](pdf)&lt;/ref&gt; of 770 youth between the ages of 11 and 19, 20% of respondents revealed that they had been bullied via electronic means.  Almost three-quarters (73%) stated that they knew the bully, while 26% stated that the offender was a stranger.  Another interesting finding was that 10% indicated that another person has taken a picture of them via a [[camera phone|cellular phone camera]], consequently making them feel uncomfortable, embarrassed, or threatened.  Many youths are not comfortable telling an authority figure about their cyber-bullying victimization for fear their access to technology will be taken from them; while 24% and 14% told a parent or teacher respectively, 28% did not tell anyone while 41% told a friend.&lt;ref name=survey/&gt;
+
+A survey by the Crimes Against Children Research Center at the [[University of New Hampshire]] in 2000 found that 6% of the young people in the survey had experienced some form of harassment including threats and negative rumours and 2% had suffered distressing harassment.&lt;ref name=ccrc&gt;Finkelhor, D., Mitchell, K.J., &amp; Wolak, J. (2000). Online victimization: A report on the nation’s youth. Alexandria, VA: National Center for Missing and Exploited Children.&lt;/ref&gt;
+
+A study by Campbell of Year 8 students in Queensland, Australia found 14% had been a victim of cyber-bullying, 11% admitted to bullying, while 25% knew someone who had bullied. Anecdotal evidence suggests that girls are more involved than boys as they are more likely to communicate regularly.
+
+Mossley Hollins High School in Manchester has recently taken the national lead in developing resources and material in the UK for schools and services to use. Will Aitken, coordinator of ICT, recently organised the countries first cyberbullying awareness day (http://www.sec-ed.co.uk/cgi-bin/go.pl/features/article.html?uid=2483) for students and parents.
+
+==Influence==
+It has been suggested by the BBC that cyber-bullying may be influenced by videos that are uploaded to video sharing websites online which contain offensive content or examples of acts of bullying. Websites that currently do not filter such videos, such as [[YouTube]] and [[Metacafe]], have been asked to take legal action against videos of people being attacked, harassed or ridiculed, in order to reduce cyber-bullying as a result of the influence.&lt;ref&gt;{{cite web  |last= Goff |first= Hannah |authorlink=  |coauthors=  |title= Websites urged to act on bullies |publisher= BBC News  |date= [[2007-04-10]] |url= http://news.bbc.co.uk/1/hi/education/6539989.stm |accessdate= 2007-04-10 }}&lt;/ref&gt; Some jurisdictions are currently using the videos posted on YouTube as evidence in later convictions and as a way of monitoring youth.&lt;ref&gt;{{cite web  |last= Driscoll |first= Matt |title= Videotaped brawls on the rise in Muskoka |work= Headline News |publisher= Bracebridge Examiner  |date= [[2007-03-15]] |url= http://www.bracebridgeexaminer.com/news%20-%20mar%2015.htm#News%206 |accessdate= 2007-04-17 }}&lt;/ref&gt;
+
+==Further reading==
+*Berson, I. R., Berson, M. J., &amp; Ferron, J. M.  (2002).  Emerging risks of violence in the digital age: Lessons for educators from an online study of adolescent girls in the United States.  Journal of School Violence, 1(2), 51-71.
+*Keith, S. &amp; Martin, M. E. (2005). Cyber-bullying: Creating a Culture of Respect in a Cyber World.  Reclaiming Children &amp; Youth, 13(4), 224-228.
+*Hinduja, S. &amp; Patchin, J.  (2007).  Cyberbullying: An Exploratory Analysis of Factors Related to Offending and Victimization.  Deviant Behavior.  In Print.
+*Hinduja, S. &amp; Patchin, J.  (2007).  Offline Consequences of Online Victimization: School Violence and Delinquency.  Journal of School Violence.  In Print.
+*Patchin, J. &amp; Hinduja, S.  (2006).  Bullies Move beyond the Schoolyard: A Preliminary Look at Cyberbullying.  Youth Violence and Juvenile Justice, 4 (2), 148-169.
+*Tettegah, S. Y. , Betout, D., &amp; Taylor, K. R. (2006). Cyber-bullying and schools in an electronic era. In S. Tettegah &amp; R. Hunter (Eds.) Technology and Education: Issues in administration, policy and appications in k12 school. PP. 17-28. London: Elsevier.
+*Wolak, J. Mitchell, K.J., &amp; Finkelhor, D. (2006).  Online victimization of youth: 5 years later.  Alexandria, VA: National Center for Missing &amp; Exploited Children.  Available: http://www.unh.edu/ccrc
+*Ybarra, M. L. &amp; Mitchell, J. K. (2004). Online aggressor/targets, aggressors and targets: A comparison of associated youth characteristics. Journal of Child Psychology and Psychiatry, 45, 1308-1316.
+*Ybarra ML (2004). Linkages between depressive symptomatology and Internet harassment among young regular Internet users. Cyberpsychol and Behavior. Apr;7(2):247-57.
+*Ybarra ML, Mitchell KJ (2004). Youth engaging in online harassment: associations with caregiver-child relationships, Internet use, and personal characteristics. Journal of Adolescence. Jun;27(3):319-36.
+
+==See also==
+*[[Internet Troll]]
+*[[Bullying Online]]
+*[[Odd Girl Out]] - a film about a girl who is bullied at school and online
+*[[Shredderman Rules]] - a film about a middle schooler who cyber-bullies the school bully to exact revenge for being bullied physically and emotionally
+*[[Act Against Bullying]]
+
+==References==
+&lt;references/&gt;
+
+==External links==
+*[http://www.cyberbullying.org www.cyberbullying.org]
+*[http://www.cyberbully411.org Cyberbully411]
+*[http://www.ncpc.org/media/cyberbullying.php www.ncpc.org/media/cyberbullying]
+*[http://www.cyberbullying.us www.cyberbullying.us]
+*[http://www.cyberbully.org www.cyberbully.org]
+*[http://stopcyberbullying.ning.com/ Stop CyberBullying]
+*[http://www.bullyDB.com/ BullyDB.com Online CyberBully database, check and report CyberBullies]
+
+[[Category:Abuse]]
+[[Category:Computer crimes]]
+[[Category:Cyberspace]]
+[[Category:Internet culture]]
+
+[[cs:Kyberšikana]]
+[[es:Ciber-acoso]]
+[[it:Cyberbullismo]]
+[[ja:ネットいじめ]]
+[[pl:Cyberprzemoc]]
+[[zh:網上欺凌]]</rev></revisions></page></pages></query></api>

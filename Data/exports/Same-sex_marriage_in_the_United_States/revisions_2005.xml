@@ -1,0 +1,657 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051112025607|28082507" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="249623" pageid="249623" ns="0" title="Same-sex marriage in the United States"><revisions><rev timestamp="2005-11-12T03:02:03Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{SSM}}
+'''Same-sex marriage''', often referred to as '''gay marriage''', indicates a marriage between two persons of the same [[sex]]. 
+
+In the United States, the push to obtain the [[Rights and responsibilities of marriages in the United States|legal protections of civil marriage]] such as health insurance, hospital visitation and social security survivor benefits for same-sex families has been taking shape since the early [[1970s]] and is supported by an assortment of groups such as the [[Human Rights Campaign]], [[National Association for the Advancement of Colored People]], [[National Organization for Women]], United Farm Workers Union (Hispanic labor union), [[American Civil Liberties Union]], [[American Psychiatric Association]] and [[Reform Judaism]]. This effort did not reach widespread national attention until the [[1990s]] after a series of court rulings, legislative votes and political actions encouraged supporters.
+
+The same political and legal events also gave rise to a counter movement to legally define traditional marriage, the marriage of one woman to one man, thus freezing the status quo in the 49 states without same-sex marriage and reversing the 2003 court ruling, ''Goodridge v. Massachusetts Department of Public Health,'' that legalized it in that state.  This would have the effect of excluding non-heterosexual families from the legal protections of marriage. It is supported by [[President of the United States|President]] [[George W. Bush]], most [[Republican Party (United States)|Republicans]] in Congress and groups such as the the [[Unification Church]], [[Moral Majority]], [[Christian Voice]], the [[KKK]], [[Christian Coalition]], [[Focus on the Family]], [[Church of Jesus Christ of Latter-day Saints]] and the [[Roman Catholic Church]]. This counter movement was widely attributed in some quarters for motivating voter turnout in the 2004 elections to support the Republican Party.
+
+As of September 2005 in the United States, the state of [[Massachusetts]] recognizes same-sex marriage, while [[California]], [[Connecticut]], the [[District of Columbia]], [[Hawaii]], [[Maine]], [[New Jersey]] and [[Vermont]] grant persons in same-sex unions a similar legal status to those in a civil marriage by domestic partnership, civil union or reciprocal beneficiary laws.
+
+Sixteen states have constitutional amendments explicitly barring the recognition of same-sex marriage, confining civil marriage to a legal union between a man and a woman. Twenty-seven states have legal statutes defining marriage to two persons of the opposite-sex. A small number of states ban any legal recognition of same-sex unions that would be equivalent to civil marriage.
+
+Some believe that the legal implications of the debate extend beyond the [[homosexual|lesbian and gay]] population and that [[heterosexual]] couples have had their marriages voided by new laws that ban same-sex marriage. For instance, they would argue that couples that were genetically of the same gender either as the result of [[intersexual|intersex]] status or a previous [[sex reassignment surgery]] of one of the spouses have had their marriages invalidated.  Others, however, argue that such marriages do not fit the definition of traditional marriages.
+
+== Popular opinion ==
+Advocates of same-sex marriage generally hold that lawful marriage and its benefits should not be denied to same-sex couples, and that such a denial infringes one or more of their rights as American citizens. On July 4, 2005, the General Synod  of the United Church of Christ endorsed a same-sex marriage resolution making the  UCC the first major U.S. Christian denomination to approve same-sex marriages. 
+
+Critics of same-sex marriage generally hold that lawful marriage should be defined as only consisting of a union of one man and one woman, a so-called "traditional marriage," and that no rights exist that should compel a state to recognize any relationships to the contrary of that definition.
+
+A national [[poll]] by the [[CBS]] in [[2004]] found that only 22%  favored legal recognition of same-sex marriages, while 73% were in opposition to legal recognition of these marriages. Many people make a distinction between same-sex marriage and civil unions, which would provide same-sex couples some legal rights. Although fewer than one-fourth of Americans think gay and lesbian people should be allowed to marry, there is larger support for permitting civil unions. All in all, over half of Americans support some type of legal status for same-sex couples who wish to make a long-term commitment. 40% think same-sex couples' relationships ought to have no legal recognition. [http://www.cbsnews.com/stories/2004/03/15/opinion/polls/main606453.shtml]
+
+Opposition correlated with level of religious attendance, older age, [[Republican Party (United States)|Republican Party]] affiliation and residing in the [[American South|southern states]]. Levels of support were higher among the young, non-church going, [[Democratic Party (United States)|Democratic Party]] affiliated and those who lived in the [[American West|Western states]] as well as [[New England]].  
+
+In some states particularly in New England and the West majorities support same-sex marriage. A Massachusetts poll conducted in October [[2003]] estimated that 59 percent of registered [[voter]]s believed that gay or lesbian couples should have the right to enter into civil marriage [http://www.ftmmass.org/PollMemoOct2911.pdf]. Previous polls in [[Hawaii]], [[California]] and [[New Jersey]] have shown majorities supporting same-sex marriage.
+
+The national majority opinion to not recognize same-sex marriages also extends to general support for amending the U.S. Constitution to define marriage as being between one man and one woman. The 2004 poll conducted by CBS found that 77% of Republicans favor a constitutional ban, while Democrats are more divided on the issue, with 52% in favor and 44% opposed. Most Republicans think there ought to be no legal recognition for gay and lesbian couples, while Democrats are more likely to say either marriages or civil unions should be permitted. In addition, [[African American]]s oppose same-sex marriage and 67% of them favor the constitutional amendment. 
+
+CBS News Poll highlighting regional, political party affiliations and age differences in views. May 20 - 23, 2004. Nationwide:
+						
+"Which comes closest to your view? Gay couples should be allowed to legally marry. OR, Gay couples should be allowed to form civil unions but not legally marry. OR There should be no legal recognition of a gay couple's relationship."
+
+{| class="wikitable"
+|-
+! Demographic
+! Marriage
+! Civil union
+! No recognition
+|-
+| All
+| 28%
+| 29%
+| 40%
+|-
+| [[Republican Party (United States)|Republicans]]
+| 13%
+| 33%
+| 53%
+|-
+| [[Democratic Party (United States)|Democrats]]
+| 32%
+| 28%
+| 36%
+|-
+| Independents  	
+| 37%
+| 27%
+| 33%
+|-
+| 18-29 years  	 
+| 43%
+| 32%
+| 25%
+|-
+| 30-44  	
+| 29%
+| 25%
+| 44%
+|-
+| 45-64  	 
+| 26%
+| 29%
+| 41%
+|-
+| 65 &amp; older  	 
+| 12%
+| 32%  	
+| 51%
+|-
+| [[U.S._Northeast|Northeast]]  	 
+| 35%
+| 31%
+| 33%
+|-
+| [[Midwestern_United_States|Midwest]]  	 
+| 26%
+| 23%
+| 47%
+|-
+| [[Southern_United_States|South]]  	 
+| 23%
+| 26%
+| 48%
+|-
+| [[Western_United_States|West]]  	 
+| 31%
+| 36%
+| 28%
+|}
+
+== Legislative votes on same-sex unions ==
+
+Legislative votes to recognize various types of same-sex unions, sorted by date:
+
+{| class="wikitable"
+|-
+! rowspan=2 | State
+! rowspan=2 | Date
+! rowspan=2 | Type of same-sex union
+! colspan=2 | Senate 
+! colspan=2 | Lower house
+! rowspan=2 | Final&lt;br /&gt;outcome
+|-
+! {{Y}}&amp;nbsp;Yes 
+! {{N}}&amp;nbsp;No 
+! {{Y}}&amp;nbsp;Yes
+! {{N}}&amp;nbsp;No
+|-
+| [[Image:Hawaii_state_flag.png|20px]] [[Hawaii]]
+| 1996
+| Domestic partnerships
+| colspan=2 | ''Passed''
+| colspan=2 | ''Failed''
+| {{N}}&amp;nbsp;No 
+|-
+| [[Image:Hawaii_state_flag.png|20px]] [[Hawaii]]
+| 1997
+| Reciprocal benefits
+| colspan=2 | ''Passed''
+| colspan=2 | ''Passed''
+| {{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:California_state_flag.png|20px]] [[California]] 
+| 1999 
+| Domestic partnerships 
+| colspan=2 | ''Passed''
+| colspan=2 | ''Passed''
+| {{Y}}&amp;nbsp;Yes {{fn|1}}
+|-
+| [[Image:Flag of Washington, D.C..svg|20px]] [[District of Columbia]]
+| 2000
+| Domestic partnerships
+| colspan=2 | ''Passed''
+| colspan=2 | ''Passed''
+| {{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Vermont_state_flag.png|20px]] [[Vermont]]
+| 2000
+| Same-sex marriage
+| colspan=2 | ''Failed''
+| colspan=2 | ''Failed''
+| {{N}}&amp;nbsp;No 
+|-
+| [[Image:Vermont_state_flag.png|20px]] [[Vermont]]
+| April 2000
+| Civil unions
+| 19
+| 11
+| 79
+| 68
+| {{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:California_state_flag.png|20px]] [[California]] 
+| 2001  
+| Domestic partnerships 
+| colspan=2 | ''Passed''
+| colspan=2 | ''Passed''
+| {{Y}}&amp;nbsp;Yes {{fn|2}}
+|-
+| [[Image:California_state_flag.png|20px]] [[California]] 
+| 2003 
+| Domestic partnerships 
+| colspan=2 | ''Passed''
+| colspan=2 | ''Passed''
+| {{Y}}&amp;nbsp;Yes {{fn|3}}
+|-
+| [[Image:New_Jersey_state_flag.png|20px]] [[New Jersey]]
+| January 2004
+| Domestic partnerships
+| 23
+| 9
+| 41
+| 28
+| {{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Maine_state_flag.png|20px]] [[Maine]]
+| April 2004
+| Domestic partnerships
+| 18
+| 14
+| 84
+| 58
+| {{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Utah_state_flag.png|20px]] [[Utah]]
+| February 2005
+| Reciprocal benefits
+| 10
+| 18
+| -
+| -
+| {{N}}&amp;nbsp;No 
+|-
+| [[Image:New_Mexico_state_flag.png|20px]] [[New Mexico]] 
+| March 2005
+| Civil unions
+| -
+| -
+| -
+| -
+| {{N}}&amp;nbsp;No {{fn|4}}
+|-
+| [[Image:Arizona_state_flag.png|20px]] [[Arizona]] 
+| April 2005
+| Domestic partnerships
+| -
+| -
+| -
+| -
+| {{N}}&amp;nbsp;No {{fn|4}}
+|-
+| [[Image:Montana_state_flag.png|20px]] [[Montana]] 
+| April 2005
+| Civil unions
+| -
+| -
+| -
+| -
+| {{N}}&amp;nbsp;No {{fn|4}}
+|-
+| [[Image:Connecticut_state_flag.png|20px]] [[Connecticut]]
+| April 2005
+| Civil unions
+| 27
+| 9
+| 85
+| 63
+| {{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Maryland_state_flag.png|20px]] [[Maryland]] 
+| May 2005
+| Domestic partnerships
+| 31
+| 16
+| 83
+| 50
+| {{N}}&amp;nbsp;No {{fn|5}}
+|-
+| [[Image:California_state_flag.png|20px]] [[California]] 
+| June 2005
+| Same-sex marriage
+| -
+| -
+| 37
+| 35
+| {{fn|6}}
+|-
+| [[Image:Oregon_state_flag.png|20px]] [[Oregon]] 
+| July 2005
+| Civil unions
+| 19
+| 10
+| -
+| -
+| {{fn|7}}
+|-
+| [[Image:California_state_flag.png|20px]] [[California]] 
+| August 2005
+| Same-sex marriage
+| 21
+| 15
+| 41
+| 35
+| {{N}}&amp;nbsp;No {{fn|8}} 
+|}
+
+* {{fnb|1}} Granted limited rights.
+* {{fnb|2}} Expanded rights included.
+* {{fnb|3}} Gave domestic partnerships legal rights of married couples.
+* {{fnb|4}} Did not come to up and down floor vote.
+* {{fnb|5}} Maryland Governor vetoed legislation; a veto override would require two-thirds support.
+* {{fnb|6}} The vote failed to receive the absolute majority (40 votes) required to pass. 
+* {{fnb|7}} Legislation still awaiting lower house vote, may have a hard time getting a floor vote as the House Majority leader, a Republican, is refusing to bring the measure up.
+* {{fnb|8}} California Governor vetoed legislation; a veto override would require two-thirds support.
+
+== Federal issues ==
+[[Image:Samesex Map North America.png|right|300px|thumb|Status of legal recognition in North America.]]
+In the [[United States]], proponents of equal marriage rights for same-sex couples observe that there are over 1,049 federal laws in which marital status is a factor, as well as state and private benefits (family memberships, discounts, etc) denied same-sex couples by excluding them from participating in marriage. A legal denial of federal rights or benefits, they say, directly contradicts the [[Fourteenth Amendment to the United States Constitution|14th Amendment of the US Constitution]] which provides for [[equal protection]] and substantive [[due process]] under the law: rights conferred to one person cannot be denied to another.
+
+In the 2003 case before the [[Supreme Court of the United States]] titled ''[[Lawrence v. Texas]]'', the court held that intimate consensual sexual conduct was part of the liberty protected by substantive due process under the Fourteenth Amendment. Many proponents of same-sex marriage believe that this ruling, especially when combined with the 1967 ruling in ''[[Loving v. Virginia]]'' that eliminated anti-[[miscegenation]] laws, paves the way for a subsequent decision invalidating state laws prohibiting same-sex marriage. However, these proponents often do not mention, or are not aware, of the United States Supreme Court's summary affirmance in the case of ''[[Baker v. Nelson]]'' [[Court citation|409 U.S. 810]]. This decision, binding on all lower federal courts, clearly distinguishes Loving, and establishes the right of the individual States to uphold traditional opposite sex marriage. 
+
+Despite Baker, many proponents of same-sex marriage hope for possibility of a challenge to the [[Defense of Marriage Act]] (DOMA) under the equal protection clause of the Fourteenth Amendment. 
+
+However, challenges to DOMA have already been rejected by several federal courts, including a decision by Judge James S. Moody, in the case of [[Wilson v. Ake]].
+
+The federal Defense of Marriage Act was passed with the support of President [[Bill Clinton|Clinton]] in 1996. This bill defines marriage as a "legal union between one man and one woman," refuses federal recognition to same-sex marriages, and allows [[U.S. state]]s not to recognize same-sex marriages performed in other U.S. states (currently only the Commonwealth of Massachusetts) or other countries. Since then, various states have passed a law to assert that they do not recognize same-sex unions, nor will they recognize such unions legally recognized in other states. These laws are sometimes referred to as "Mini-DOMAs."
+
+Some opponents of same-sex marriage, wanting to ensure that the constitutionality of such laws cannot be challenged in the courts under the [[Full Faith and Credit clause]], [[Equal protection clause]] or [[Due process clause]] of the [[United States Constitution]], have proposed a [[Federal Marriage Amendment]] to the constitution that would prevent the federal government or any state from providing a marriage or the legal incidents thereof to a same-sex couple, whether through the legislature or the courts.
+
+The amendment was debated in the [[United States Senate]], but on [[July 14]], [[2004]], a procedural motion to end debate failed by a wider-than-expected margin of 48 votes to 50. [http://www.nytimes.com/2004/07/14/politics/14CND-GAYS.html] This effectively prevented the amendment from facing a full Senate vote.
+
+Also in 2003, lesbian comedian [[Rosie O'Donnell]]'s court case with ex-colleagues raised another new issue when O'Donnell's life partner, Kelli, was forced to testify against O'Donnell. Under United States law, spouses cannot be forced to testify against each other; but because same-sex couples are not allowed to marry, they are denied this courtroom right, part of a long [[list of benefits of marriage in the United States]]. They married on [[February 26]], [[2004]] in San Francisco.
+
+== Civil unions ==
+
+Outside of [[Massachusetts]], where same-sex marriage is now legal, [[Vermont]], [[California]], [[New Jersey]], [[District of Columbia]]  and [[Connecticut]] are the only U.S. states to offer same-sex couples all of the state-level rights and benefits of heterosexual couples. They do not use the word "marriage", however, but call such unions ''[[civil union]]s'' and ''[[domestic partnerships]]''. These arrangements do not, however, provide the federal-level rights, benefits and protections that come with a civil marriage license, nor will they necessarily be recognized in States that have no such laws.
+
+[[Hawaii]] and [[Maine]]'s [[domestic partnership]] and reciprocal benefit laws provide similar benefits, but both stop short of full equality on a state level, much less marriage.
+
+There are also bills in both chambers of the [[New York State]] legislature that would extend marriage rights to same-sex couples. These bills were introduced in early [[2003]] and are currently still in committee.
+
+=== International issues ===
+
+The 2003-2004 interim legalization of same-sex marriages in seven [[Canada|Canadian]] provinces and one territory, and 2005 legalization of same sex-marriages across all of Canada (see [[same-sex marriage in Canada]]) has raised questions about U.S. law, due to Canada's proximity to the U.S. and the fact that Canada has no citizenship or residency requirement to receive a marriage certificate (unlike the [[same-sex marriage in the Netherlands|Netherlands]] and [[same-sex marriage in Belgium|Belgium]]). Canada and the U.S. have a history of respecting marriages contracted in either country. 
+
+Immediately after the June 2003 ruling legalizing [[same-sex marriage in Ontario]], a number of American couples headed or planned to head to the province in order to get married. A coalition of American national [[gay rights]] groups issued a statement asking couples to contact them before attempting legal challenges, so that they might be coordinated as part of the same-sex marriage movement in the United States.
+
+== Timeline ==
+
+=== 1971 Minnesota ===
+
+The [[Minnesota Supreme Court]] rules against the contention of plaintiffs Jack Baker and Mike McConnell that absence of a specific prohibition on same-sex marriage signified a legislative intent to recognize them. The court found that "The institution of marriage as a union of man and woman, uniquely involving the procreation and rearing of children within a family, is as old as the book of [[Genesis]]". [http://www.buddybuddy.com/t-line-1.html] This decision was summarily affimed by the United States Supreme Court ''[[Baker v. Nelson]]'', and as such remains the paramount case on this issue. 
+
+=== 1975 Arizona ===
+
+Two men from [[Phoenix, Arizona]] are granted a [[marriage license]] by a [[county clerk]] on [[January 7]]. The [[Arizona Supreme Court]], citing the [[Bible]], voided the marriage. The [[state legislature]] passed a bill specifically defining marriage as being between a man and a woman.[http://www.buddybuddy.com/t-line-1.html]
+
+=== 1975 Colorado ===
+
+[[Clela Rorex]], county clerk of [[Boulder County, Colorado]], allowed six same-sex couples to wed, after receiving an advisory opinion from the district attorney's office indicating that the state's laws did not explicitly prohibit it. [http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/02/14/MNG3R517N51.DTL]
+
+=== 1987 Washington, DC ===
+
+The [[American Civil Liberties Union]] commits to eliminating legal barriers against same-sex marriage. 2,000 gay and lesbian couples are "married" in a mass mock wedding outside the [[Internal Revenue Service]] building in Washington. [http://abcnews.go.com/sections/us/Relationships/gaymarriage030630.html]
+
+=== 1993 Hawaii ===
+
+[[1993]]: The [[Hawaii State Supreme Court]] rules that prohibiting same-sex couples from marrying may violate Hawaii's Constitutional equal protection clause and can only be upheld if prohibition is justified by a compelling reason. (Baehr v. Miike, 80 Hawai`i 341)
+
+[[1998]]: Hawaii's voters amend their Constitution to allow state legislature to restrict marriage to men and women only, rendering the equal protection clause moot. [http://www.lambdalegal.org/cgi-bin/iowa/documents/record?record=1067]
+
+=== 1998 Alaska ===
+
+[[February 27]]: The [[Alaska Superior Court]] judge Peter Michalski rules in favor of plaintiffs Jay Brause and Gene Dugan, saying that choosing a marital partner is a fundamental right that cannot be denied by the state without a compelling reason. 
+
+[[November 3]]: The state's voters amend their constitution to require that all marriages be between a man and a woman.
+
+=== 1999 Vermont ===
+
+[[1999]]: [[Vermont Supreme Court]] rules that same-sex couples are entitled, under the state's constitution, to all of the protections and benefits provided through marriage. 
+
+[[2000]]: The legislature passes a law creating [[civil union]]s for same-sex couples, giving them all rights and benefits of marriage under Vermont law.
+
+=== 2003 Massachusetts ===
+[[Image:CambridgeSameSexMarriage.jpg|thumb|right|People of all ages celebrate the first Same Sex marriages in Cambridge, MA on midnight of May 17, 2004]]
+
+''Main article: [[Same-sex marriage in Massachusetts]]''
+
+In [[November 18]], [[2003]], the [[Massachusetts Supreme Judicial Court]] ruled 4 to 3 in ''[[Goodridge et al. v. Department of Public Health]]'' that the state's ban on same-sex marriage was unconstitutional and gave the state legislature 180 days to change the law. The court found that Massachusetts may not "deny the protections, benefits and obligations conferred by civil marriage to two individuals of the same sex who wish to marry" because of a clause in the state's constitution that forbids "the creation of second-class citizens.".
+
+On [[May 17]], [[2004]], the Supreme Court's ruling went into effect, and the city of [[Cambridge, Massachusetts|Cambridge]] began processing applications at one minute past midnight.
+
+A constitutional amendment that would ban same-sex marriage but still allow civil unions was narrowly approved by the legislature in 2004, but failed by a vote of 157 to 39 in [[2005]]. Opponents of same-sex marriage are currently collecting signatures for a ballot initiative that would ban same-sex marriage without any provision for civil unions. If successful, the proposal would go to voters no earlier than 2008. Same-sex marriage advocates plan to take the issue to court, citing a law that states voters cannot overturn a right given by a Court.
+
+=== 2004 New Jersey===
+
+[[January 12]]: Governor [[James McGreevey|James E. McGreevey]] signs New Jersey's domestic partnership law. It goes into effect [[July 10]], 180 days after it was signed. The legislature passed the law in part to curtail a lawsuit seeking full marriage rights for gay people.
+
+[[March 8]]: The Deputy Mayor of [[Asbury Park, New Jersey]] marries a same-sex couple who had a license issued by the town clerk. [[New Jersey]] has a 72-hour waiting period between issuing a license and performing a ceremony, and the original license was issued without fanfare on [[March 5]]. 
+
+[[March 9]]: Numerous same-sex couples converge on the clerk's office once it opens, determined to get their own licenses before a threatened injunction by State Attorney General [[Peter C. Harvey]] could halt the process. [http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2004/03/09/national0952EST0528.DTL] By the end of the day, no such injunction had been issued, although the attorney general had sent letters to Asbury Park officials warning them that they could face prosecution if they continued. 
+
+[[March 10]]: In response, the city council votes unanimously to freeze all 16 pending license applications, and sue the state to have those licenses &amp;mdash; along with the one marriage which was actually performed &amp;mdash; declared valid.
+
+=== 2004 California ===
+''Main article: [[Same-sex marriage in California]].''
+
+Between [[February 12]] and [[March 11]], [[2004]], California stepped into the national spotlight for this issue after [[Gavin Newsom]], the newly elected mayor of [[San Francisco, California]], ordered the county to begin issuing marriage licenses to same-sex couples. These licenses were later ruled void, but the events in California set the stage for national politics through the following year.
+
+=== 2004 New Mexico ===
+
+[[February 20]]: [[Victoria Dunlap]], county clerk of [[Sandoval County, New Mexico]], announces that she would begin issuing same-sex marriage licenses because [[New Mexico]] marriage law does not mention gender.[http://www.365gay.com/newscon04/02/022004nmWed.htm] The first same-sex marriages in Sandoval County are performed later the same day. By the end of the day, however, New Mexico state attorney general [[Patricia Madrid]] issued an opinion stating that the licenses were "invalid under state law," and the Sandoval County clerk's office stops issuing them. In the interim, 26 such licenses had been issued.
+
+=== 2004 New York ===
+{{mainarticle|Same-sex marriage in New York}}
+In early 2004, [[Jason West]], mayor of the village of [[New Paltz (village), New York|New Paltz]], announced that the village would start performing same-sex civil weddings and officiated a number of same-sex marriages. These actions led other mayors to add: [[John Shields]], the mayor of [[Nyack, New York]], announced that his city would recognize same-sex marriages performed elsewhere, as did the mayor of [[Ithaca, New York]], [[Carolyn K. Peterson]]. Shields later announced that he will also begin officiating at same-sex marriages.
+
+A struggle against these actions was kicked off, when West was charged with misdemeanor counts of "solemnizing marriages without a license". Two [[Unitarian Universalist]] ministers who had been performing same-sex weddings in Mayor West's stead were also charged with 13 counts of solemnizing a marriage without a license by District Attorney Williams, and on [[March 5]] New York state judge [[Vincent Bradley]] issues a [[temporary restraining order]] barring West from performing any such ceremonies for a month. The temporary restraining order is made permanent on [[June 6]], by an Ulster County Supreme Court judge.
+
+In the meantime, the [[Rochester, Monroe County, New York|Rochester]] city council also announces that Rochester will recognize same-sex marriages performed elsewhere. In June and July 2004, two separate New Paltz Town Court Justices dismiss the charges against Mayor West and the Unitarian Universalist Ministers, ruling that the district attorney had failed to show that the state had a legitimate interest in preventing the marriages, or that the law under which West was charged was constitutional.
+
+In [[February 4]], [[2005]], [[New York Supreme Court|State Supreme Court]] Justice [[Doris Ling-Cohan]] ruled that [[New York City]] could not deny marriage licenses to same-sex couples, based on the equal protection clause of the state's constitution. The order was stayed for 30 days, pending an appeal (the Supreme Court is a trial-level court in New York, and the decision could be appealed either to the [[Appellate Division]] or directly to the [[New York Court of Appeals|Court of Appeals]]).
+
+=== 2004 Oklahoma ===
+
+[[May 13]]: A lesbian couple from [[Tulsa, Oklahoma|Tulsa]] obtained a marriage application in the [[Cherokee]] tribal headquarters in [[Tahlequah, Oklahoma]]. The Cherokee Nation issues marriage applications, rather than licenses. Couples obtaining a license have it signed by the individual performing the ceremony before returning to tribal court to have the application certified.
+
+[[Cherokee Principal Chief]] [[Chad 'Corntassel' Smith]] stated that he believes that same-sex marriages are not allowed under Cherokee law, and the Cherokee Nation Tribal Council unanimously approved language that defined a union as between one man and one woman.  In July 2005, however, the tribe's Judicial Appeals Tribunal upheld the couple's right to marry, confirming that if they should refile for certification, it would be granted. [http://www.gaywired.com/article.cfm?section=9&amp;id=6803]
+
+Although Oklahoma does not recognize same-sex marriages performed in other states, Oklahoma ''does'' recognize all Cherokee marriages. It is unclear how Oklahoma would react if the Cherokee tribal courts decide that this marriage is valid.
+
+=== 2004 Oregon ===
+''Main article: [[Same-sex unions in Oregon]]''
+
+[[Image:20040303pdxorusa.jpg|thumb|right|Over four hundred same-sex marriage licenses were distributed in Multnomah County.]]
+
+On [[March 3]], the [[Multnomah County, Oregon|Multnomah County]] government began issuing licenses for [[same-sex marriage]]s, pursuant to a legal opinion issued by its attorney deeming such marriages lawful. On [[March 9]], at the first legal hearing, County Circuit Judge Dale Koch refuses to issue an injunction stopping the ceremonies, and the next day the State Legislature's attorney [[Greg Chaimov]] issues an opinion stating that counties in Oregon cannot prohibit same-sex couples from receiving marriage licenses.
+
+On [[March 12]], [[Hardy Myers]], Oregon [[attorney general]], issued his office's opinion, after reviewing it with the governor, concluding that current Oregon laws prohibit [[county]] [[clerk]]s from issuing marriage licenses to same-sex couples, but that the [[Oregon Supreme Court]] likely would conclude that withholding from same-sex couples the legal rights, benefits, and obligations that are automatically granted to married couples of the opposite sex likely violates Article I, Section 20 of the [[Oregon Constitution]].
+
+The [[attorney general]] also stated that his office did not have the authority to order Multnomah County to cease issuing licenses for same-sex marriages, and on [[March 15]] Multnomah County announces that they will continue to issue licenses to same-sex couples. The next day [[Benton County, Oregon|Benton County]] commissioners vote 2-1 to start issuing marriage licenses to same sex couples also.
+
+On [[March 22]], after receiving two letters from the attorney general and a phone call threatening to arrest the county clerk, the Benton county commissioners reverse their decision and vote to issue ''no'' marriage licenses of any kind until a decision is reached by the Multnomah County Court.
+
+Both sides agree to let three couples with venue sue the state of Oregon in Multnomah County Court to settle this issue. On [[April 16]], Attorneys for the [[American Civil Liberties Union|ACLU]] and [[Basic Rights Oregon]] present arguments in favor of the couples, while attorneys for the Oregon Department of Justice and [[Defense of Marriage]] Coalition argued against the County's actions before Justice Frank Bearden. 
+
+On [[April 20]], Judge Bearden orders the county to stop issuing same-sex marriage licenses, while simultaneously ordering the state of Oregon to recognize the 3,022 such licenses already issued. He also finds that the Oregon state constitution would likely allow some form of marriage rights to same-sex couples, and directs the legislature to act on the issue within 90 days of the start of its next legislative session. Should they fail to successfully address the issue within that time, Multnomah County would be free to resume issuing same-sex marriage licenses.
+
+On [[May 21]], the Defense of Marriage Coalition gets legal approval for the language of their proposed [[initiative]] to prohibit same-sex marriage, and they begin to circulate petitions in churches, neighborhoods, and otherwise beyond public areas to obtain the 100,840 valid signatures needed by July 2 so it could submitted to a vote in the November general election. 
+
+On [[November 2]], Oregonians vote 57% to 43% to pass [[Oregon Ballot Measure 36 (2004)|Ballot Measure 36]], a constitutional amendment defining marriage to be between one man and one woman.
+
+=== 2004 Rhode Island ===
+
+[[May 17]]: [[Attorney General]] [[Patrick Lynch]] issues an advisory opinion that [[Rhode Island]] would recognize any legal marriage performed in another state, as long as the marriage is not contrary to the "strong public policy" of Rhode Island. He said that the legislature and courts should decide which types of marriages fall within that category, while adding that same-sex marriages are not included among the types of marriages currently proscribed. While his opinion does not have the force of law, it appears to indicate that Rhode Island ''would'', in fact, recognize valid same-sex marriages performed in Massachusetts or elsewhere.
+
+=== 2004 Washington ===
+
+[[March 8]]: [[Seattle, Washington|Seattle]] Mayor [[Greg Nickels]] issues an [[executive order]] recognizing same-sex marriages from other jurisdictions for all city employees. He also proposes an ordinance to the City Council to require all city contractors to do the same for their employees. [http://seattletimes.nwsource.com/html/localnews/2001874093_gaymarriage08m0.html]
+
+[[March 8]]: Six same-sex couples file suit against [[King County, Washington|King County]], seeking to require it to issue marriage licenses for them. At the time, Washington state law gives counties exclusive authority to issue marriage licenses, but also strictly defines marriage as "a civil contract between a male and a female" [http://seattlepi.nwsource.com/local/163743_gaycity08.html]. Their suit is invited by King County Executive [[Ron Sims]], who is named as a defendant.
+
+[[March 11]]: The [[American Family Association]] files suit in King County [[Superior Court]] seeking to block Mayor Nickels's executive order.
+
+[[April 1]]: The ACLU files suit in [[Thurston County, Washington|Thurston County]] Superior Court on behalf of eleven other same-sex couples from around the state.
+
+[[August 4]]: King County Superior Court Judge [[William L. Downing]] rules that the state law prohibiting same-sex marriages is unconstitutional, finding for the plaintiffs in the [[March 8]] lawsuit ''[[Andersen v. King County]]''. The judge rules that restricting the institution of marriage to opposite sex couples "is not rationally related to any legitimate or compelling state interest." The ruling is stayed pending an appeal to the state Supreme Court. The appeal is scheduled to be heard [[March 8]], [[2005]].[http://seattletimes.nwsource.com/news/local/gaymarriage/downing_opinion.pdf Text of his ruling, .pdf format]
+
+=== 2005 Ohio ===
+
+[[March 24]]: Two judges rule that Ohio's 25-year-old [[domestic violence]] law cannot be used against unmarried heterosexual couples because of Ohio's new constitutional amendment banning gay marriage.
+
+=== 2005 Nebraska ===
+
+[[May 12]]: A federal judge in [[Omaha, Nebraska|Omaha]] struck down [[Nebraska]]'s sweeping ban on same-sex marriages, civil unions, domestic partnerships, and other same-sex relationships. U.S. District Judge Joseph Bataillon ruled that the ban, Section 29 of the state constitution, violates the [[Equal Protection Clause]] of the [[14th Amendment]] of the [[U.S. Constitution]]. This is the first state constitutional provision banning same-sex marriage to be overturned.
+
+=== 2005 California ===
+
+[[June 29]]: The California Supreme Court ruled that the state's domestic partnership law did not conflict with a voter-approved resolution banning gay marriage.
+
+[[September 1]]: The California Senate voted to allow same-sex marriage, allowing the issue to advance to the State Assembly.
+
+[[September 6]]:  The California Assembly voted to allow same-sex marriage, sending the bill to the governor for approval.
+
+[[September 7]]:  Governor [[Arnold Schwarzenegger]] vows to veto the bill.
+
+[[September 29]]:  Governor [[Arnold Schwarzenegger]] vetos the bill.
+
+=== 2005 Massachusetts ===
+
+[[September 14]]: The Massachusetts Legislature defeats by 39-157 a proposed constitutional amendment that would have banned same-sex marriages and instituted civil unions. Many Republicans and a few Democrats voted against this "compromise" amendment in order to clear the way for a 2008 ballot initiative that would ban same-sex marriage without establishing civil unions [http://www.boston.com/news/local/articles/2005/09/15/after_vote_both_sides_in_debate_energized/]. However, a March 2005 Boston Globe poll found 56% of Massachusetts residents supported keeping same-sex marriage [http://www.boston.com/news/local/articles/2005/06/15/group_to_seek_referendum_against_gay_marriage/]. 
+
+=== 2005 Texas ===
+
+[[November 8]]: A proposition to add [http://www.sos.state.tx.us/elections/voter/2005novconsamend.shtml an amendment] to the state constitution defining marriage as "only of the union of one man and one woman" and prohibiting "this state or a political subdivision of this state from creating or recognizing any legal status identical or similar to marriage" [http://204.65.107.70/enr3race1.htm?x=0&amp;y=0&amp;id=284 passed] by a ratio of over 3:1 with overall voter turnout of less than 18%.  In some counties the vote was over 20:1 in favor.  It was approved in all counties except for [[Travis County, Texas|Travis]], where it was rejected by a 3:2 margin.  The vote gained special noteriety after a dozen [[Ku Klux Klan]] members at a [http://www.chron.com/cs/CDA/ssistory.mpl/politics/3441659 rally] in [[Austin, Texas|Austin]] on [[November 5]] called on voters to support the amendment.
+
+==Laws defining marriage==
+
+Presently legal recognition of same-sex couples has taken four forms: [[civil unions]], [[marriages]], [[reciprocal benefits]], and [[domestic partnerships]].  Forty states have passed [[laws]] or [[constitutional amendments]] that forbid [[marriages]] between those of the same-sex.  However, only a small minority of states have laws or constitutional amendments specifically banning any legal recognition of same-sex unions in other arrangements.   In 2004, [[Virginia]] passed a law nullifying private contracts between same-sex couples.  
+
+Seven states and the [[District of Columbia]] currently have established laws with provisions allowing legal recognition of [[same-sex union]]s.  In [[Massachusetts]] the recognition takes the form of [[marriage]], while in [[Vermont]] and [[Connecticut]] it is seen in [[civil unions]], in [[California]], [[New Jersey]], [[Maine]], and the [[District of Columbia]] it is present in [[domestic partnerships]].  [[Hawaii]] offers legal recognition in the form of [[reciprocal benefits]]. In February, 2005, a [[New York]] court threw out that state's marriage laws as unconstitutional, inasmuch as they prohibited gay couples from wedding. The ruling, presently under appeal, only applies to [[New York City]]. 
+
+Public opinion on the issue generally shows most Americans opposing recognition of same-sex unions through [[marriages]].  [[Civil unions]], [[reciprocal benefits]], and [[domestic partnerships]] are seen in a less controversial light with Americans evenly divided.
+
+There are also many groups actively fighting for and against legal recognition of same-sex marriage, proponents including traditional [[LGBT]] groups such as [[Human Rights Campaign|HRC]], [[Lambda Legal]] and [[NGLTF]], as well as groups that have been created around this single issue, such as [[Marriage Equality]] and [[Freedom to Marry]].
+
+Politicians in several states have proposed new [[ban]]s against the practice of same-sex marriage. Some states already had laws defining marriage as between a man and a woman, though many are now mulling the possibility of adding new amendments to the state constitutions in an effort to prevent the laws from being ruled unconstitutional. Many states require constitutional amendments to be voted on in state [[referendum|referenda]], meaning that a delay of several months to a year or more will take place before these proposals will have any effect. 
+
+In [[2000]], the state of [[Vermont]] began issuing same-sex [[civil union]] licenses. This union was intended to provide most of the state's legal benefits of marriage.
+
+In 2003, the [[Massachusetts Supreme Judicial Court]] issued a ruling demanding that the legislature pass a [[law]] authorizing same-sex marriages. The first licenses were issued in [[Cambridge, Massachusetts|Cambridge]] on [[May 17]], [[2004]]. 
+
+For several weeks in early 2004 several [[local government]] [[official]]s, most notably in [[San Francisco]] and [[Portland, Oregon]], began issuing [[marriage license]]s to same-sex couples. The San Francisco licenses were later nullified by the California Supreme Court, which ruled they had been issued without legal authority. [http://apnews.myway.com/article/20040812/D84DVM900.html] In Oregon, one court ruling both declared the marriages valid and ordered Multnomah County (where Portland is located) to stop issuing licenses to same-sex couples.
+
+On [[August 4]], [[2004]] Missouri became the fifth state to amend its [[state constitution]] to define marriage as being between one man and one woman.
+
+On [[September 18]], [[2004]] Louisiana passed a similar constitutional amendment; however, on [[October 5]], Louisiana District Judge [[William Morvant]] ruled that the amendment was invalid due to structural flaws inherent in its wording. This ruling has been appealed to the State Supreme Court, which decided the amendment was not flawed, and declared it legal.
+
+Also on [[August 4]], [[2004]], Washington State Judge [[William L. Downing]] ruled that the state law prohibiting same-sex marriages was unconstitutional, finding for the plaintiffs in the [[March 8]] lawsuit [[Andersen v. King County]]. The judge ruled that restricting the institution of marriage to opposite sex couples "is not rationally related to any legitimate or compelling state interest." As of [[October 3]], [[2004]], the ruling is stayed pending an appeal to the state Supreme Court. [http://seattletimes.nwsource.com/news/local/gaymarriage/downing_opinion.pdf Text of ruling in .pdf format]. On [[September 7]], [[2004]] a Thurston County Superior Court Judge, Richard Hicks, held that Washington's constitution offers broad guarantees of equality, and that marriage is a fundamental right that must be available to gay men and lesbians. He struck down the state's 1998 Defense of Marriage Act, which defines marriage as the union of a man and a woman and bars same-gender civil marriage.
+
+On [[March 5]], [[2004]], the [[Wisconsin State Assembly]] approved, by a vote of 68-27, a state constitutional amendment to ban same-sex marriages or civil unions, and to counter efforts elsewhere to legalize such [[Personal relationship|partnership]]s. The same day, the [[Kansas]] House passed, by 88 votes to 36, a similar proposed amendment. [http://morningsun.net/stories/022704/loc_20040227018.shtml] [http://www.usatoday.com/news/nation/2004-03-05-gay-marriage_x.htm] A week later, on [[March 12]], the [[Wisconsin State Senate]] also voted 20-13 to pass that state's amendment, which must still be passed again in next year's legislature, and be voted on in a state-wide referendum. [http://www.madison.com/archives/read.php?ref=wsj:2004:03:12:352556:FRONT] The Kansas Legislature did not immediately agree on the precise language of their amendment, delaying it until the next legislative session. On [[February 2]], [[2005]], however, they approved an amendment by a vote of 86-37; the measure was approved by about 70% of the state's voters on [[April 5]], [[2005]].
+
+On [[August 3]], [[2004]] voters of the state of [[Missouri]] voted to pass a state constitutional amendment banning gay marriage, with the final returns being 70.7% in favor of the amendment and 29.3% opposed.
+
+On [[November 2]], [[2004]] (Election Day), state constitutional amendments prohibiting [[same-sex marriage]] were passed in eleven states: [[Arkansas]], [[Georgia (U.S. state)|Georgia]], [[Kentucky]], [[Michigan]], [[Mississippi]], [[Montana]], [[North Dakota]], [[Oklahoma]], [[Ohio]], [[Oregon]], and [[Utah]] (see: [[Utah Constitutional Amendment 3]]). The measures in Oregon, Mississippi, and Montana bar same-sex marriage only; those in the other states bar [[civil union]]s and [[domestic partnership]]s as well; and Ohio bars granting any benefits whatsoever to same-sex couples. Every state that had the "definition of marriage" amendment on the ballot passed the constitutional amendment.
+
+On [[November 8]], [[2005]], [[Texas]] voters passed an amendment to the state constitution barring any sort of recognition or benifits to same sex couples.
+
+The following table shows all popular vote results regarding state constitutional amendments banning same-sex marriage, grouped by region:
+
+{| class="wikitable"
+|-
+! State
+! Date
+! {{Y}}&amp;nbsp;Yes vote
+! {{N}}&amp;nbsp;No vote
+! Final outcome
+|-
+| colspan="6" | ''West:''
+|-
+| [[Image:Nevada_state_flag.png|20px]] [[Nevada]]
+| November 2002
+| 67% (337,183)
+| 33% (164,555)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Montana_state_flag.png|20px]] [[Montana]]
+| November 2004
+| 67% (295,070)
+| 33% (148,263)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Oregon_state_flag.png|20px]] [[Oregon]]
+| November 2004
+| 57% (1,028,546)
+| 43% (787,556)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Utah_state_flag.png|20px]] [[Utah_Constitutional_Amendment_3|Utah]]
+| November 2004
+| 66% (593,297)
+| 34% (307,488)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| colspan="6" | ''Midwest:''
+|-
+| [[Image:Nebraska_state_flag.png|20px]] [[Nebraska]] 
+| November 2000
+| 70% (450,073)
+| 30% (189,555)
+|{{N}}&amp;nbsp;No {{fn|1}}
+|-
+| [[Image:Missouri_state_flag.png|20px]] [[Missouri]]
+| August 2004
+| 71% 
+| 29% 
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Michigan_state_flag.png|20px]] [[Michigan]]
+| November 2004
+| 59% (2,698,077)
+| 41% (1,904,319)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:North_Dakota_state_flag.png|20px]] [[North Dakota]]
+| November 2004
+| 73% (223,572)
+| 27% (81,716)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Ohio_state_flag.png|20px]] [[Ohio]]
+| November 2004
+| 62% (3,329,335)  	
+| 38% (2,065,462)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| colspan=6 | ''South:''
+|-
+| [[Image:Louisiana_state_flag.png|20px]] [[Louisiana]]
+| September 2004
+| 78% 
+| 22% 
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Arkansas_state_flag.png|20px]] [[Arkansas]]
+| November 2004
+| 75% (753,770)
+| 25% (251,914)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Georgia_state_flag.png|20px]] [[Georgia (U.S. state)|Georgia]]
+| November 2004
+| 76% (2,454,912)
+| 24% (768,703)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Kentucky_state_flag.png|20px]] [[Kentucky]]
+| November 2004
+| 75% (1,222,125)
+| 25% (417,097)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Mississippi_state_flag.png|20px]] [[Mississippi]]
+| November 2004
+| 86% (957,104)
+| 14% (155,648)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Oklahoma_state_flag.png|20px]] [[Oklahoma]]
+| November 2004
+| 76% (1,075,216)
+| 24% (347,303)
+|{{Y}}&amp;nbsp;Yes 
+|-
+| [[Image:Texas_state_flag.png|20px]] [[Texas]]
+| November 2005
+| 76% (1,718,513)
+| 24% (536,052)
+|{{Y}}&amp;nbsp;Yes 
+|}
+
+* {{fnb|1}} Ban declared unconstitutional by Judge Joseph Bataillon, Chief Judge of the [[U.S. District Court for the District of Nebraska]]. [http://www.msnbc.msn.com/id/7834478/]  The ruling was appealed to the Eighth U.S. Circuit Court of Appeals based in St. Louis[http://www2.ljworld.com/news/2005/jun/10/nebraska_samesex/?kansas_legislature].
+
+==The [[U.S. presidential election, 2004|2004 presidential election]]==
+
+In the [[U.S. presidential election, 2004|2004 presidential election]] campaign, legal recognition of same-sex unions became a major issue. Incumbent [[George W. Bush]], the [[Republican Party (United States)|Republican Party]] candidate supported banning [[marriages]] between those of the same-sex on a federal level, through the [[Federal Marriage Amendment]] (FMA), while supporting state-sanctioned [[civil unions]], [[reciprocal benefits]], or [[domestic partnerships]].  However, this amendment would have nulled state-recognized marriages in [[Massachussets]]. Challenger [[John F. Kerry]], the Democratic Party candidate took a similar position supporting the ban of [[marriages]] between [[same-sex couples]] on a state level while supporting [[civil unions]], [[reciprocal benefits]], and [[domestic partnerships]]. However, Kerry opposed the FMA. It should be noted that many legal scholars believe that the FMA would render civil unions unconstitutional as well.
+
+The position of President [[George W. Bush]] conflicts with that of his political party.  During the [[2004 Republican National Convention]] GOP platform called for a ban on all forms of legal recognition of same-sex unions. President [[George W. Bush]] has called that specific part of the party platform “wrong.” After his re-election President Bush indicated to the [[Washington Times]] that he would no longer lobby for the Federal Marriage Amendment to the federal [[Constitution]] banning [[marriages]] between [[same-sex couples]] unless the [[Defense of Marriage Act]] were ruled [[unconstitutional]].
+
+Strong opposition to gay marriage was likely a major factor in helping Bush get re-elected, especially since Kerry was from Massachusetts, the state where gay marriage had just been legalized. Several states passed constitutional amendments against gay marriage on election day, most notably [[Ohio]], which was the deciding state in the presidential race. The gay marriage issue probably either swung enough undecided voters in favor of Bush to secure his victory, or enhanced turnout among conservative voters who were encouraged to go to the polls to vote against gay marriage. When they did so, they also cast a vote for Bush. This is contested by some as there was not complete correlation between Bush voters and opposers of gay marriage. In some states Bush got more votes than the ban on same-sex marriage, indicating some of those who voted for him also voted against banning same-sex marriage. And the number of voters citing moral values as a deciding issue in their vote remained the same as in the [[2000]] according to exit polls.
+
+== Case law ==
+
+United States case law regarding the rights of homosexual persons:
+
+*''[[Lawrence v. Texas]], federal Supreme Court (2003), (a state cannot criminalize sex between two unrelated consenting adults, homosexuals have a right to dignity in their lives)
+*''[[Romer v. Evans]]'' (1998), federal Supreme Court, (a state cannot deem one class of persons a stranger to its laws and protections)
+*''Adams v. Howerton'', 673 F.2d 1036 (9th Cir.), cert. denied, 458 U.S. 1111 (1982)
+*''Baker v. Nelson'', 191 NW2d 185 (Minn. 1971)
+*''Jones v. Hallahan'', 501 SW2d 588 (Ky. 1973)
+*''Singer v. Hara'', 522 P.2d 1187 (Wash. App. 1974)
+*''De Santo v. Barnsley'', 476 A.2d 952 (Pa. Super. Ct. 1984)
+*''In re Estate of Cooper'', 564 N.Y.S.2d 684 (N.Y. Fam. Ct. 1990)
+*''Dean v. District of Columbia'', 653 A.2d 307 (DC 1995)
+*''Jennings v. Jennings'', 315 A.2d 816, 820 n.7 (Md. Ct. App. 1974) ("marriage is between only one man and one woman.")
+*''Storrs v. Holcomb'', 645 N.Y.S.2d 286 (N.Y. App. Div. 1996) (New York does not recognize or authorize same-sex marriage) (this ruling has since been changed, New York does recognize same-sex marriages performed in other states)
+*''In re Estate of Hall'', 707 N.E.2d 201, 206 (Ill. App. 1998) (no same sex marriage will be recognized; petitoner claiming existing same-sex marriage was not in a marriage recognized by law)
+*''Burns v. Burns'', 560 S.E.2d 47 (Ga. App. 2002) (state will only recognize marriage between one man and one woman)
+*''In re Estate of Gardiner'', 42 P.3d 120 (Kan. 2002) (a post-op male-to-female transgendered person may not marry a male, because this person is still a male in the eyes of the law, and marriage in Kansas is recognized only between a man and a woman)
+*''Rosengarten v. Downes'', 806 A.2d 1066 (Conn. 2002) (state will not recognize Vermont civil union)
+*''Frandsen v. County of Brevard'', 828 So. 2d 386 (Fla. 2002) (State constitution will not be construed to recognize same-sex marriage; sex classifications not subject to strict scrutiny under Florida constitution)
+*''Standhardt v. Superior Court ex rel County of Maricopa'', 77 P.3d 451 (Ariz. App. 2003) (no state constitution right to same-sex marriage)
+*''Lewis v. Harris'', 2005 WL 23191114 (New Jersey Appellate Division) (unpublished) (New Jersey is not requried to allow same-sex marriage, on appeal to Supreme Court)
+*''Morrison v. Sadler'', 2003 WL 23119998 (Ind. Super. Ct. 2003) (Indiana's Defense of Marriage Act is found valid)
+
+== See also ==
+* [[Defense of Marriage Act]]
+* [[Federal Marriage Amendment]]
+* [[Domestic partnerships in the United States]]
+* [[List of benefits of marriage in the United States]]
+* [[Rights and responsibilities of marriages in the United States]]
+* [[Gay rights timeline]]
+* [[2004 in gay rights]]
+
+[[Category:Same-sex marriage in the United States| ]]
+[[Category:Marriage, unions and partnerships by country|United States]]
+
+[[nl:Homohuwelijk in de Verenigde Staten]]
+[[zh:&amp;#32654;&amp;#22269;&amp;#21516;&amp;#24615;&amp;#23130;&amp;#23035;]]</rev></revisions></page></pages></query></api>

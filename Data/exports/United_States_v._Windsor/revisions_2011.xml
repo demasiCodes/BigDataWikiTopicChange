@@ -1,0 +1,47 @@
+<?xml version="1.0"?><api><continue rvcontinue="20110921114732|451661305" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="31039265" pageid="31039265" ns="0" title="United States v. Windsor"><revisions><rev timestamp="2011-11-11T10:06:23Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Infobox United States District Court Case
+| name               = Windsor v. United States
+| court              = [[United States District Court for the Southern District of New York]]
+| image              = 
+| imagesize          = 
+| caption            = 
+| full name          = Windsor v. The United States Of America
+| date decided       = 
+| citations          = 
+| transcripts        = 
+| judge              = [[James C. Francis]]
+| prior actions      = 
+| subsequent actions = 
+| holding            = 
+| keywords           = [[Defense of Marriage Act]], [[Equal protection]], [[Same-sex marriage]], [[States' rights]]
+}}
+'''''Windsor v. United States''''' is a [[lawsuit]] filed in the [[United States District Court for the Southern District of New York]]. The [[plaintiff]] in the suit challenges the [[constitutionality]] of section 3 of the [[Defense of Marriage Act]] (DOMA), which defines the terms "marriage" as "a legal union between one man and one woman as husband and wife" and "spouse" as "a person of the opposite sex who is a husband or a wife."
+
+The law firm [[Paul, Weiss, Rifkind, Wharton &amp; Garrison]], in conjunction with the [[American Civil Liberties Union]] (ACLU), filed ''Windsor v. United States'' in District Court in New York on behalf of Edith S. Windsor, the widow of Thea C. Spyer.&lt;ref&gt;ACLU: [http://www.aclu.org/lgbt-rights/windsor-v-united-states-complaint Complaint in ''Windsor v. United States''], accessed March 1, 2011&lt;/ref&gt;&lt;ref&gt;
+{{cite news |title= Widow’s $363,000 Tax Bill Led to Obama Shift on Marriage Act |author= Andrew M. Harris |url= http://www.businessweek.com/news/2011-02-28/widow-s-363-000-tax-bill-led-to-obama-shift-on-marriage-act.html |newspaper= Bloomberg Businessweek |date= 28 February 2011 | |accessdate= 5 March 2011 |language= English |url= http://www.businessweek.com/news/2011-02-28/widow-s-363-000-tax-bill-led-to-obama-shift-on-marriage-act.html}}
+&lt;/ref&gt; The two New York women married in Toronto in 2007 and New York officially recognizes same-sex marriages performed in other jurisdictions.&lt;ref&gt;''ACLU'': [http://www.aclu.org/lgbt-rights/windsor-v-united-states-thea-edie-doma "Windsor v. United States: Edie Windsor Challenges DOMA," February 23, 2011], accessed February 28, 2011&lt;/ref&gt;&lt;ref&gt; ''Law.com'':[http://www.law.com/jsp/nylj/PubArticleNY.jsp?id=1202483113125&amp; Mark Hamblett, "Obama No Longer Will Defend Marriage Act, February 24, 2011], accessed February 28, 2011&lt;/ref&gt; Windsor paid $363,000 in federal taxes on her inheritance from Spyer's estate. If federal law accorded their marriage the same status as opposite-sex marriages, she would have paid no tax.&lt;ref&gt;''New York Times'': [http://www.nytimes.com/2010/11/09/us/09marriage.html John Schwartz, "Gay Couples to Sue Over U.S. Marriage Law," November 8, 2010], accessed February 28, 2011&lt;/ref&gt;&lt;ref&gt;''Washington Blade'': [Chris Johnson, "Two new lawsuits target DOMA," November 9, 2010], accessed February 28, 2011&lt;/ref&gt;
+
+On February 23, 2011, Attorney General [[Eric Holder]] released a memo regarding two lawsuits challenging DOMA Section 3, ''Windsor'' and [[Pedersen v. Office of Personnel Management]]. It explained that the Obama administration had determined that classifications based on sexual orientation should be subject to [[heightened scrutiny]], and therefore it could no longer defend the constitutionality of DOMA's Section 3.&lt;ref name="HolderPressRelease"&gt;{{cite press release|url=http://www.justice.gov/opa/pr/2011/February/11-ag-222.html|title=Statement of the Attorney General on Litigation Involving the Defense of Marriage Act |date=February 23, 2011|accessdate=February 23, 2011|publisher=[[United States Department of Justice]]}}&lt;/ref&gt; The ''Windsor'' and ''Pedersen'' cases are widely credited as the primary reason for Obama administration's decision.&lt;ref&gt;''Wall Street Journal'':  [http://blogs.wsj.com/metropolis/2011/02/23/the-lawsuits-behind-obamas-gay-marriage-shift/?KEYWORDS=obama%27s+gay+marriage+shift/ "The Lawsuits Behind Obama’s Gay-Marriage Shift" February 23, 2011], accessed February 23, 2011&lt;/ref&gt;&lt;ref&gt;''Washington Post'':  [http://voices.washingtonpost.com/postpartisan/2011/02/edie_and_jerry_the_real_people.html/ "Edie and Jerry: The real people behind DOJ's shift on DOMA," February 23, 2011], accessed February 23, 2011&lt;/ref&gt;
+The administration intends to continue enforcing the law until it is either repealed by Congress or finally declared unconstitutional in court.&lt;ref&gt;GLAD: [http://www.glad.org/current/news-detail/glad-statement-on-dojs-announcement-it-wont-defend-constitutionality-of-dom/ "GLAD Statement on DOJ's Announcement it Won't Defend Constitutionality of DOMA in Pedersen," February 23, 2011], accessed February 23, 2011&lt;/ref&gt;
+
+U.S. District Court Magistrate Judge James C. Francis IV set April 18 as the deadline for Congress to intervene in the case and scheduled a May 9 conference with attorneys for both sides to consider how to proceed in light of the President's decision.&lt;ref&gt;''Metro Weekly''  [http://www.metroweekly.com/poliglot/2011/03/may-9-set-as-hearing-date-show.html "May 9 Set As Hearing Date Showdown Between DOJ and House GOP Lawyers in Windsor DOMA Case," March 15, 2011]&lt;/ref&gt;&lt;ref&gt;''Metro Weekly'': [http://metroweekly.com/poliglot/windsor_order.pdf "Order," March 15, 2011], accessed March 16, 2011&lt;/ref&gt; On April 18, [[Paul Clement]], designee of the [[Bipartisan Legal Advisory Group]] of the House of Representatives, filed a motion asking to be allowed to intervene in the suit "for the limited purpose of defending the constitutionality of Section III" of DOMA. Defense and Department of Justice attorneys did not oppose the motion.&lt;ref&gt;''MetroWeekly: [http://www.metroweekly.com/poliglot/2011/04/house-leadership-seeks-to-inte.html Chris Geidner, "House Leadership Seeks to Intervene in DOMA Case," April 18, 2011], accessed April 19, 2011&lt;/ref&gt; Following the May 9 conference, Judge Francis set a schedule for legal filings, with deadlines that vary if either side identifies expert witnesses or not. The earliest date for completed filings is September 9, the latest September 23.&lt;ref&gt;''MetroWeekly: [http://metroweekly.com/poliglot/2011/05/judge-sets-schedule-in-edith-w.html Chris Geidner, "Judge Sets Schedule in Edith Windsor's DOMA Challenge," May 11, 2011], accessed May 12, 2011;''MetroWeekly'': [http://metroweekly.com/poliglot/Windsor%20-%20Scheduling%20Order.pdf "Revised Scheduling Order," May 11, 2011], accessed May 12, 2011&lt;/ref&gt;
+
+Windsor's attorneys filed a motion for summary judgment on June 24.&lt;ref&gt;''MetroWeekly'': [http://metroweekly.com/poliglot/MotionSJ.pdf Memorandum in Support of Plaintiff's Motion for Summary Judgment, June 24, 2011], accessed August 3, 2011&lt;/ref&gt; New York Attorney General [[Eric Schneiderman]] filed a brief supporting Windsor's claim on July 26, arguing that DOMA Section 3 cannot survive the scrutiny used for classifications based on sex and constitutes "an intrusion on the power of the state to define marriage."&lt;ref&gt;MetroWeekly: [http://metroweekly.com/poliglot/2011/07/new-york-attorney-general-take.html Chris Geidner, "New York Attorney General Takes Edith Windsor's Side in DOMA Challenge," July 26, 2011], accessed July 26, 2011&lt;/ref&gt; On August 1, the BLAG filed its brief seeking summary judgment on the grounds that marriage is not a fundamental right and that classification based on sexual orientation is not subject to heightened scrutiny.&lt;ref&gt;''MetroWeekly'': [http://metroweekly.com/poliglot/2011/08/house-gop-leaders-say-court-sh.html Chris Geidner, "House GOP Leaders Say Court Should Dismiss Edith Windsor's Lawsuit, Find DOMA Constitutional," August 2, 2011], accessed August 2, 2011&lt;/ref&gt;
+
+==See also==
+*[[Same-sex marriage in the United States]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://www.aclu.org/lgbt-rights/windsor-v-united-states-complaint Complaint in ''Windsor v. United States'']
+
+{{DEFAULTSORT:Windsor v. United States}}
+[[Category:LGBT rights in New York]]
+[[Category:United States LGBT rights case law]]
+[[Category:Same-sex union case law]]
+[[Category:Ongoing legal cases]]
+[[Category:2010 in United States case law]]
+[[Category:Same-sex marriage in the United States]]
+[[Category:Defense of Marriage Act]]
+[[Category:2010 in New York]]</rev></revisions></page></pages></query></api>

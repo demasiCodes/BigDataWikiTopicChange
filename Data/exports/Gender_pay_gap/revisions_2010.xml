@@ -1,0 +1,119 @@
+<?xml version="1.0"?><api><continue rvcontinue="20100627190923|370461917" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="39426115" pageid="39426115" ns="0" title="Gender pay gap"><revisions><rev timestamp="2010-10-28T00:25:59Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{| class="wikitable sortable" style="text-align:center" align="right"
+! Country
+! Female wage as  percentage of male wage in manufacturing&lt;ref name="unstats"/&gt;
+|-
+| Botswana
+| 53
+|- 
+| Colombia
+| 65
+|- 
+| Paraguay
+| 53
+|- 
+| Japan
+| 60
+|- 
+| Singapore
+| 61
+|- 
+| Sri Lanka 
+| 81
+|- 
+| Denmark 
+| 87
+|- 
+| France 
+| 78
+|- 
+| Germany 
+| 74
+|- 
+| Hungary 
+| 74
+|- 
+| Ireland 
+| 69
+|- 
+| Latvia 
+| 82
+|- 
+| Lithuania 
+| 77
+|-
+| United States
+| 77
+|- 
+| Malta 
+| 92
+|- 
+| Sweden 
+| 91
+|- 
+| Ukraine 
+| 69
+|- 
+| United Kingdom
+| 79
+|- 
+| New Zealand 
+| 80
+|- 
+| Kenya
+| 123
+|- 
+| Panama
+| 93
+|- 
+| Myanmar
+| 112
+|- 
+| Qatar
+| 194
+|- 
+| Turkey
+| 97
+|- 
+| Switzerland
+| 133
+|}
+
+In the context of economic inequality, '''gender gap''' generally refers to the differences in the wages of [[men]] and [[women]]. There is a debate to what extent this is the result of [[gender differences]], lifestyle choices (e.g., number of hours worked), or because of [[discrimination]].
+
+==Statistics==
+A United Nations report found that women working in manufacturing earned the following percentages in relation to men in 2004. The statistics are based on wages for all male and female workers, regardless of age, experience, or other factors.&lt;ref name="unstats"&gt;[http://unstats.un.org/unsd/demographic/products/indwm/ww2005/tab5g.htm Statistics and indicators on women and men: Table 5g Women's wages relative to men's]  United Nations Statistics Division, 22 April 2005&lt;/ref&gt;  The report states: "International comparisons of wage ratios presented here must be made with great caution. The coverage, definitions and methods of compiling wage statistics differ significantly from country to country. [...] Furthermore, earnings are very much dependent on the number of hours worked, and where female workers generally work a much smaller number of hours than male workers, this factor must be kept in mind when interpreting the wage ratio."
+
+===United States===
+{{main|Male–female income disparity in the United States}}
+In 2004, women's wages in the USA were 76.5% of men's wages.&lt;ref&gt;This number compares the income off all men and women who work 35 hours or more each week. See Institute for Women's Policy Research, [http://www.iwpr.org/pdf/WageRatioPress_release8-27-04.pdf 'Women's earnings fall: U.S. Census Bureau finds rising gender wage gap'], media release, 27 August 2004, retrieved Dec 2007&lt;/ref&gt; [[David R. Hekman]] and colleagues (2009) found that customers prefer white men over equally-well performing women and minority employees, which may help explain why white men continue to earn more than other types of employees.&lt;ref&gt;Hekman, David R.; Aquino, Karl; Owens, Brad P.; Mitchell, Terence R.; Schilpzand, Pauline; Leavitt, Keith. (2009) An Examination of Whether and How Racial and Gender Biases Influence Customer Satisfaction. Academy of Management Journal. http://journals.aomonline.org/inpress/main.asp?action=preview&amp;art_id=610&amp;p_id=1&amp;p_short=AMJ&lt;/ref&gt;
+
+Hekman et al. (2009) found that customers who viewed videos featuring a black male, a white female, or a white male actor playing the role of an employee helping a customer were 19% more satisfied with the white male employee's performance and also were more satisfied with the store's cleanliness and appearance. This despite that all three actors performed identically, read the same script, and were in exactly the same location with identical camera angles and lighting.  Moreover, 45 percent of the customers were women and 41 percent were non-white, indicating that even women and minority customers prefer white men. In a second study, they found that white male doctors were rated as more approachable and competent than equally-well performing women or minority doctors. They interpret their findings to suggest that employers are willing to pay more for white male employees because employers are customer driven and customers are happier with white male employees. They also suggest that what is required to solve the problem of wage inequality isn't necessarily paying women more but changing customer biases. This paper has been featured in many media outlets including [[The New York Times]],&lt;ref&gt;Bakalar, Nicholas (2009) “A Customer Bias in Favor of White Men.” New York Times. June 23, 2009, page D6. http://www.nytimes.com/2009/06/23/health/research/23perc.html?ref=science&lt;/ref&gt; [[The Washington Post]],&lt;ref&gt;Vedantam, Shankar (2009) “Caveat for Employers.” Washington Post, June 1, 2009, page A8 http://www.washingtonpost.com/wp-dyn/content/article/2009/05/31/AR2009053102081.html&lt;/ref&gt; [[The Boston Globe]],&lt;ref&gt;Jackson, Derrick (2009) “Subtle, and stubborn, race bias.” Boston Globe, July 6, 2009, page A10 http://www.boston.com/bostonglobe/editorial_opinion/editorials/articles/2009/07/06/subtle_and_stubborn_race_bias/&lt;/ref&gt; and [[National Public Radio]].&lt;ref&gt;National Public Radio, Lake Effect, http://www.wuwm.com/programs/lake_effect/view_le.php?articleid=754&lt;/ref&gt;
+
+==Debate==
+Some groups, such as the [[Independent Women's Forum]], argue that the wage gap does not exist. For further information, see [[Male-female income disparity in the USA]]. Similarly, Thomas Sowell argued in the book, ''Civil Rights'', marriage is the main variable driving the wage gap—that married women make less than other types of workers.&lt;ref&gt;"Civil Rights: Rhetoric or Reality", Thomas Sowell, 1984. "Markets and Minorities, Thomas Sowell, 1981&lt;/ref&gt;
+
+According to the Centre for Economic Performance (CEP) at the [[London School of Economics]], it would take 150 years for the income gap between the two genders to close up due to discrimination and ineffective government policies. However this study did not compare equal jobs or conditions, rather the total earnings only and is generally considered to be an unrealistic comparison.&lt;ref name="150 years"&gt;{{cite web |url=http://www.expressindia.com/fullstory.php?newsid=71698|title=Women have to wait 150 yrs for equal pay: Study|publisher=[[The Indian Express]]|accessdate=2006-07-29}}&lt;/ref&gt;
+
+==See also==
+*[[Economic inequality]]
+*[[Income inequality metrics]]
+*[[International inequality]]
+*[[Income disparity in Malaysia]]
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+*{{cite book|last=Wilkinson|first=Richard|coauthors=Kate Pickett|title=The Spirit Level: Why More Equal Societies Almost Always Do Better|publisher=Penguin Books|date=5 March 2009|isbn=9781846140396|url=http://www.penguin.co.uk/nf/Book/BookDisplay/0,,9781846140396,00.html}}
+
+==External links==
+*[http://digital.library.unt.edu/govdocs/crs/search.tkl?q=wage+gap&amp;search_crit=title&amp;search=Search&amp;date1=Anytime&amp;date2=Anytime&amp;type=form Read Congressional Research Service (CRS) Reports regarding Gender Wage Gaps]
+*[http://www.ebi.ac.uk/~nils/gender_pay_gap Visualization of the gender pay gap in the UK across different occupations.]
+
+[[Category:Labor]]
+[[Category:Income distribution]]
+[[Category:Employment compensation]]
+[[Category:Economic inequality]]
+
+[[fr:Inégalités de revenus entre hommes et femmes]]
+[[sv:Löneskillnader mellan män och kvinnor]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?><api><continue rvcontinue="20071026205624|167292265" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="8727347" pageid="8727347" ns="0" title="Mortgage discrimination"><revisions><rev timestamp="2007-11-12T03:47:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Mortgage discrimination''' or ''mortgage lending discrimination'' is the practice of banks, governments or other lending institutions denying [[loans]] to one or more groups of people primarily on the basis of race, ethnic origin, sex or religion. One of the most notable instances of wide-spread mortgage discrimination occurred in United States [[inner city]] neighborhoods from the 1930s up until the late 1970s. There is evidence that the practice still continues in the United States today. &lt;ref name="nytimes"&gt;''[http://www.nytimes.com/2007/10/15/nyregion/15subprime.html?ex=1350187200&amp;en=a9978e04a9864642&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss Study Finds Disparities in Mortgages by Race]'' [[The New York Times]] By MANNY FERNANDEZ Published: October 15, 2007&lt;/ref&gt;
+
+==Background==
+[[African Americans]] and other minorities found it nearly impossible to secure mortgages for property located in [[redlining|redlined]] zones.&lt;ref&gt;"Loans To White Renegades Who Back Negroes Cut Off," Harlem Home News, [[April 7]], [[1911]]&lt;/ref&gt; The systematic denial of loans was a major contributor to the [[urban decay]] that plagued many American cities during this time period. Minorities who tried to buy homes continued to face direct discrimination from lending institutions into the late 1990s. The disparities are not simply due to differences in creditworthiness.&lt;ref&gt;[http://www.huduser.org/publications/fairhsg/lending.html What We Know About Mortgage Lending Discrimination in America (September 1999)]&lt;/ref&gt; With other factors held constant, rejection rates for Black and Hispanic applicants was about 1.6 times that for Whites in 1995&lt;ref&gt;[http://www.findarticles.com/p/articles/mi_qa3631/is_199507/ai_n8720778 Discrimination in mortgage lending Chicago Fed Letter,  Jul 1995  by Hunter, William C]&lt;/ref&gt;. Fairness in lending was improved by the [[Home Mortgage Disclosure Act]], passed in 1975. It requires banks to disclose their lending practices in the communities they serve.
+
+In the 1970's, the private sector fight against mortgage discrimination began to be led by [[community development bank]]s, such as [[ShoreBank]] in [[Chicago]]. &lt;ref name=""&gt;[http://www.spokesmanreview.com/business/story.asp?ID=194303]&lt;/ref&gt;
+
+==Contemporary mortgage discrimination==
+While the situation has somewhat improved, mortgage discrimination still occurs in another way. African Americans and other minorities are being disproportionately led to [[Subprime lending|sub-prime mortgages]] with higher interest rates than their white counterparts. Recently, the [[NAACP]] has submitted a lawsuit concerning these recent injustices in the lending industry. &lt;ref&gt;[http://www.blackenterprise.com/cms/exclusivesopen.aspx?id=3262 NAACP Fights Loan Discrimination]&lt;/ref&gt; An analysis, by N.Y.U.’s Furman Center for Real Estate and Urban Policy, illustrated stark racial differences between the [[New York City]] neighborhoods where subprime mortgages were common and those where they were rare. The 10 neighborhoods with the highest rates of mortgages from subprime lenders had black and Hispanic majorities, and the 10 areas with the lowest rates were mainly non-Hispanic white. The analysis showed that even when median income levels were comparable, home buyers in minority neighborhoods were more likely to get a loan from a subprime lender.&lt;ref name="nytimes"&gt;...&lt;/ref&gt; Discrimination motivated by [[prejudice]] is contingent on the racial composition of neighborhoods where the loan is sought and the race of the applicant. Lending institutions have been shown to treat black mortgage applicants differently when buying homes in white neighborhoods than when buying homes in black neighborhoods. &lt;ref&gt;Stephen R Holloway (1998) ''Exploring the Neighborhood Contingency of Race Discrimination in Mortgage Lending in Columbus, Ohio'' Annals of the Association of American Geographers 88 (2), 252–276.&lt;/ref&gt;
+
+== See also ==
+
+*[[Computer-assisted reporting]]
+*[[Redlining]]
+*[[Racial steering]]
+*[[Racial segregation|Segregation]]
+*[[White flight]]
+*[[Black flight]]
+*[[Home Mortgage Disclosure Act]]
+
+==Sources==
+
+&lt;!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the &lt;ref&gt; and &lt;/ref&gt; tags and the tag below --&gt;
+
+&lt;references/&gt;
+
+[[Category:Urban decay]]
+[[Category:Discrimination]]
+[[Category:US mortgage industry]]</rev></revisions></page></pages></query></api>

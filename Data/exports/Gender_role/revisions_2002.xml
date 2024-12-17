@@ -1,0 +1,13 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020820105154|211835" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="43094" pageid="43094" ns="0" title="Gender role"><revisions><rev timestamp="2002-09-11T16:33:28Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">Social scientists often use the term '''gender roles''' to describe the behaviors and responsibilities prescribed for each sex by a given society.  The study of gender roles has also opened up discussion of [[sex]] and [[gender]], with some schools of thought arguing that, in some cultures, sex does not always equal gender.
+
+=== Cultural views of gender roles ===
+
+Ideas of "appropriate" behavior according to gender vary between cultures, although some aspects are more widespread than others. For example, in most current and known historical cultures, martial combat has been seen as mostly (or only) appropriate for men, while child-rearing has been seen as mostly (or only) the domain of women.
+
+Other aspects, however, may differ markedly with time and place. In pre-industrial [[Europe]], for example, the practice of medicine (other than midwifery) was generally seen as a male perogative.  However, in [[Russia]] health care was more often seen as a feminine role.  The results of these views can be seen in modern society, where European medicine is most often practiced by men, while the majority of Russian doctors are women.
+
+=== Another [[nature versus nurture]] debate ===
+
+Considerable debate exists as to whether gender roles are biologically mandated, in the sense of the behavioral traits arising primarily from the biology of gender; or culturally mandated, in the sense of behavioral traits arising from early socialization. As with many such debates, most researchers believe that both factors influence the development and propagation of gender roles.  However, the relative influence of each, and the specifics of how that influence operates, are still hotly disputed.
+
+See also: [[feminism]], [[masculism]], [[transgender]]</rev></revisions></page></pages></query></api>

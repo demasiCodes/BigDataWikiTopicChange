@@ -1,0 +1,253 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051111001933|27974640" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="49392" pageid="49392" ns="0" title="Affirmative action"><revisions><rev timestamp="2005-11-11T00:20:45Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Affirmative action''' ([[American English|U.S. English]]), or '''positive discrimination''' ([[British English]]), is a policy or a program providing access to systems for people of a [[minority]] group who have traditionally been [[discriminate]]d against, with the aim of creating a more [[Egalitarianism|egalitarian]] society. This consists of access to [[education]], [[employment]], [[health care]], or [[social welfare]].  
+
+In employment, affirmative action may also be known as ''employment equity'' or ''preferential hiring''. In this context affirmative action requires that institutions increase hiring and promotion of candidates of mandated groups.
+
+There is much debate concerning claims that the practice is itself [[Racialism|racialist]], that it fails to achieve its desired goal, and that it has unintended and undesirable effects.
+
+==Purpose==
+
+Affirmative action began as corrective for past governmental and social injustices against demographic groups that have been subjected to prejudice. Such groups are characterized most commonly by [[race]], [[sex]] or [[Gender role|gender]], or [[ethnicity]].  Affirmative action seeks to increase the representation of these demographic groups in schools, in work place, and in society in general.
+
+A certain minority group or gender may be less proportionately represented in an area, often employment or education, due predominantly, in the view of proponents, to past or ongoing discrimination against members of the group. The theory is that a simple adoption of [[meritocracy|meritocratic]] principles along the lines of [[race-blind|race-blindness]] or [[gender-blind|gender-blindness]] would not suffice to change the situation for several reasons:  
+
+*Discrimination practices of the past preclude the aquisition of 'merit' by limiting access to educational opportunities and job experiences.
+*Ostensible measures of 'merit' might well be biased toward the same groups who were already empowered. 
+*Regardless of overt principles, people already in positions of power will be likely to hire people they already knew, and/or people from similar backgrounds.
+
+In such a circumstance, proponents believe government action giving members of the minority group preferential treatment is necessary in order to achieve a proportionate distribution.
+
+From its outset, affirmative action was seen as a transitional strategy, with the intent that over some period of time&amp;mdash;variously estimated from a generation to a century&amp;mdash;the effects of past discrimination would be sufficiently countered that such a strategy would no longer be necessary: the power elite would reflect the demographics of society at large.
+
+Though affirmative action in the U.S. is primarily associated with racial issues, the [[American civil rights movement]] originally gave as its purpose the correction of a history of oppression against all [[working-class]] and low-income people, and [[woman|women]] have figured as prominently as [[ethnic minority|ethnic minorities]] among its beneficiaries.
+
+==History==
+The terms "affirmative action" and "positive discrimination" originate in [[law]], where it is common for lawyers to speak of "affirmative" or "positive" remedies that command the wrongdoer to do something.  In contrast, "negative" remedies command the wrongdoer to ''not'' do something or to ''stop'' doing something.  
+
+The initial successes of the [[civil rights movement]] brought about negative remedies that attempted to prevent majority ethnic or racial groups from discriminating against minorities.  However, by the mid-[[1960s]], when such prohibitions failed to ameliorate existing structural inequities, many began to argue that governments should actively intervene, or take affirmative action, to compensate for the lingering effects of past harms.
+
+Contrary to popular belief, and despite his call for a colorblind nation, [[Martin Luther King Jr.]] supported affirmative action. Some resolve this contradiction by arguing that he advocated socioeconomic based affirmative action. Others contend that despite his call, he favored race-based affirmative action. King conceded that the vast majority of the poor were black, implying that he could frame his proposals in terms of class and not race, while still achieving the end of compensatory treatment, albeit via a more agreeable position. While he advocates at different times socioeconomic- and race-based affirmative action, his comments seem to favor the latter. Among his comments:
+
+&lt;blockquote&gt;""Whenever this issue [compensatory treatment] is raised, some of our friends recoil in horror. The Negro should be granted equality, they agree, but should ask for nothing more. On the surface, this appears reasonable, but is not realistic. For it is obvious that if a man enters the starting line of a race three hundred years after another man, the first would have to perform some incredible feat in order to catch up."&lt;/blockquote&gt;
+
+&lt;blockquote&gt;""A society that has done something special against the Negro for hundreds of years must now do something special for him, to equip him to compete on a just and equal basis. "&lt;/blockquote&gt;
+
+&lt;blockquote&gt;""... for two centuries the Negro was enslaved and robbed of any wages — potential accrued wealth which would have been the legacy of his descendants. All of America's wealth today could not adequately compensate its Negroes for his centuries of exploitation and humiliation. It is an economic fact that a program such as I propose would certainly cost far less than any computation of two centuries of unpaid wages plus accumulated interest. In any case, I do not intend that this program of economic aid should apply only to the Negro: it should benefit the disadvantaged of all races."&lt;/blockquote&gt;
+
+As one site puts it: "King actually suggested it might be necessary to have something akin to "discrimination in reverse" as a form of national "atonement" for the legacy of slavery and Jim Crow segregation." [http://www.lipmagazine.org/articles/featwise_mlk.shtml][http://www.tolerance.org/news/article_tol.jsp?id=687][http://www.fair.org/index.php?page=1292][http://www.allanfavish.com/mlking.htm]
+
+In 1962, James Farmer, founder of the [[Congress of Racial Equality]], held a meeting with then vice president [[Lyndon B. Johnson]]. Farmer proposed that a program that he called Compensatory Preferential Treatment should be put in place in order to advance the equality of the black race. In 1965, Johnson (then president) renamed Compensatory Preferential Treatment "affirmative action" in a famous speech at [[Howard University]], which became the national justification for moving the country beyond nondiscrimination to a more vigorous effort to improve the status of black Americans:
+&lt;blockquote&gt;"You do not take a person who, for years, has been hobbled by chains and liberate him, bring him up to the starting line in a race and then say, 'you are free to compete with all the others', and still justly believe that you have been completely fair."&lt;/blockquote&gt;
+It was a counter-argument to the previously prevailing notion of [[meritocracy]].  The skills that merit-based admission rewards are cultivated in children by parents with money.  Affirmative action was to be a method by which minorities could eventually develop those skills in their own children.
+
+During the [[Richard Nixon|Nixon]] administration, affirmative action was adopted as a federal mandate for companies with federal contracts and for labor unions whose workers were engaged in those projects. This "revised Philadelphia plan" was spearheaded by [[U.S. Labor Department|Labor Department]] official [[Arthur Fletcher]]. 
+
+In the 1960s and [[1970s]], affirmative action became overwhelmingly popular on campuses across America as mass student protests spurred schools to actively recruit minority applicants.  This sometimes led to colleges recruiting truly disadvantaged students from the ghettos, assuming that they would fit in naturally; such children did not generally adjust well to the sudden change, however, and were often unable to perform well. National excitement died down in the late 1970s, and quickly turned to national controversy.
+Some theorize, affirmative action has brought about vast improvement in the class stratification of minorities.  From 1960 to 1995, according to data in ''The Shape of the River'' by William G. Bowen and Derek Bok, the percentage of blacks aged 25&amp;ndash;29 who had graduated from college rose from 5.4 to 15.4%, the percentage of blacks in law school grew from below 1 to 7.5%, and the percentage of blacks in medical school increased from 2.2 to 8.1%.  
+
+Others contend that affirmative action, per se, cannot be considered the primary agent of change for the growth of black employment in the majority of employment categories in the U.S., as official affirmative action employment programs applied only to government and government contractor hiring. Most Americans worked for small- and medium-sized businesses that did not employ affirmative action programs. Many of these companies, however, espoused the concept of Equal Opportunity Employment: a pledge to not discriminate negatively in hiring and promotion decisions on the basis of race, color, gender, religion, national origin, and in some venues, sexual orientation. Morever, the growth of the black middle class was on an upward trajectory in the 1950s and 1960s prior to the implementation of the vast majority of affirmative action programs. 
+
+While the growth in many areas related to black people have been tremendous over the past three decades (the size of the black middle class, the rate of black homeownership, the number of black men and women in managerial and executive positions, black family wealth), there are those who feel that the lingering problems from a history of black oppression are far from gone for many black people, especially those in the underclass..
+
+==Other approaches==
+
+In some countries which have laws on racial equality, affirmative action is rendered illegal by a requirement to treat all races equally. This approach of equal treatment is sometimes described as being "[[race-blind]]". It tends to act against both discrimination and reverse discrimination.
+
+In such countries, the focus tends to be on ensuring equal opportunity and, for example, targeted advertising campaigns to encourage ethnic minority candidates to join the police force. This is sometimes described as "positive action", as opposed to "positive discrimination". 
+
+===Consultations===
+
+Another, more indirect form of affirmative action works through "consultations", whereby institutions such as [[school]]s or health-care facilities are viewed as centred on the majority culture, and therefore consultation with other ethnic groups are specified as a remedy. This can cause accusations of double-standards, as in practice representatives of all ethnic groups ''except the majority group'' receive consultation on institutional workings. Proponents discount this as being irrelevant, as they claim consultation with the majority group is pointless, as the institution's management is centered on their culture anyway.
+
+==United States==
+
+In the U.S., affirmative action only applies at transition points&amp;mdash;times when individuals are changing their employment or enrollment.  Thus, any potential advantage or disadvantage is predominantly conferred upon working age adults who hope to improve their lot through a change in employment or the pursuit of educational opportunities. &lt;!--(Um, this needs to be rewritten because it is jargon and conjecture)--&gt;
+
+This arrangement has the greatest impact on young people, while maintaining the status and position of established members of society. This overall framework was established by Presidential Decree in March [[1961]] by President Kennedy, but has evolved significantly.
+
+The [[Constitution of the United States]], as well as numerous laws, outlaws discrimination against a group based on their race or ethnicity.  Proponents believe affirmative action programs should not be ended until research has conclusively shown negative outcomes for non-preferred people or groups.
+
+===Basis in law===
+
+In the U.S. Constitution, the "[[equal protection]]" clause of the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]] mandates that no governmental entity burden a person or deny them benefits because they are members of a particular racial group (see [[Constitutional Law]], [[Nowak and Rotunda]]). 
+
+The [[Lyndon Johnson|Johnson]] administration embraced affirmative action in [[1965]], by issuing U.S [[Executive order]] 11246, later amended by Executive order 11375. The order, as amended, aims "to correct the effects of past and present discrimination". It prohibits federal contractors and subcontractors from discriminating against any employee or applicant for employment because of race, skin color, religion, gender, or national origin. The Order requires that contractors take affirmative action to ensure that "protected class, underutilized applicants" are employed when available, and that employees are treated without negative discriminatory regard to their protected-class status.
+
+The Order specifically requires certain organizations accepting federal funds to take affirmative action to increase employment of members of preferred racial or ethnic groups and women. Any organization with fifty or more employees and an aggregate revenue exceeding $50,000 from [[Government of the United States|federal]] contracts during a twelve month period must have a written affirmative action plan. This plan must include goals and timetables for achieving full utilization of women and members of racial minorities, in [[racial quota|quota]]s based on an analysis of the current workforce compared to the availability in the general labor pool of women and members of racial minorities..
+
+The order is enforced by the Office of Federal Contract Compliance Programs of the Employment Standards Administration of the U.S. Department of Labor and by the Office of Civil Rights of the Justice Department.
+
+Section 717 of Title VII of the [[Civil Rights Act of 1964]] and Section 501 of the [[Rehabilitation Act of 1973]] require all United States Federal Agencies to implement affirmative employment opportunity programs for all federal employees. [[Equal Employment Opportunity Commission|EEOC]] [http://www.eeoc.gov/federal/eeomd715.html Equal Employment Opportunity Management Directive 715 (MD 715)] provides guidance as to how such programs are to be implemented. 
+
+Although it is well known which ethnic groups and races are preferred or "protected" by the Government, almost no list or enumeration is made in writing, presumably because of a fear that such a list would be held unconstitutional as a form of invidious discrimination against groups not on the list. 
+
+In the beginning, racial classifications that identified race were inherently suspect and subject to strict scrutiny. These classifications would only be upheld if necessary to promote a compelling governmental interest. Later the [[United States Supreme Court|U.S. Supreme Court]] decided that racial classifications that benefited underrepresented minorities were to only be upheld if necessary and promoted a compelling governmental purpose. (See [[Richmond v. JA Croson Co.]]) There is no clear guidance about when government action is not "compelling", and such rulings are rare.
+
+Individual [[U.S. state]]s [http://www.moga.state.mo.us/statutes/chapters/chap213.htm e.g., Missouri] also have orders that prohibit discrimination and outline affirmative action requirements with regard to race, creed, color, religion, national origin, gender, age, and disability status.
+
+===Implementation in universities===
+When minorities are actively sought or preferred, the reason given is usually that this is necessary to compensate for advantages to groups such as males or those of [[Europe]]an descent from [[racism]], [[sexism]], results of historical circumstances, and [[institutional racism]]. 
+
+In the U.S., the most prominent form of affirmative action centers on access to education, particularly admission to universities and other forms of tertiary instruction. Race, ethnicity, native language, social class, geographical origin, parental attendance of the university in question ([[legacy admissions]]), and/or gender are often taken into account when assessing the meaning of an applicant's grades and test scores. 
+
+For example, the college admission chances of a female university student will tend to be equal to that of a male student with SAT scores fifty points higher than hers.
+
+Individuals can also be awarded [[scholarship]]s and have fees paid on the basis of criteria listed above.
+
+In the U.S., affirmative action programs at universities benefit mostly [[African Americans]], [[Hispanic Americans]], and [[Native Americans in the United States|Native Americans]]. [[Asian Americans]], although a racial minority, do not benefit at most colleges because the rate of college education among Asian Americans is higher than the other racial groups (including whites). See [[model minority]] for more information.
+
+An affirmative action study by Princeton researchers in 2005 attempted to break down and compare the effects of the practice among racial and special groups.  The data from the study represent admissions disadvantage and advantage in terms of [[SAT]] points (on 1600-point scale): 
+* Blacks: +230 
+* Hispanics: +185 
+* Asians:   &amp;minus;50
+* Recruited athletes: +200 
+* Legacies (children of alumni): +160
+[http://opr.princeton.edu/faculty/tje/espenshadessqptii.pdf Study (PDF)]
+
+The estimates for blacks, and to a lesser extent Hispanics, probably understate the disparity. Standardized tests tend to overpredict for individual, high-scoring members of populations with weaker test scores [http://www.lrainc.com/swtaboo/stalkers/em_bayes.html][http://www.lagriffedulion.f2s.com/dct.htm]. (One's SAT score predicts a certain level of performance. If one performs above this level, the test underpredicted; if the reverse, it overpredicted.)  Thus, according to these analyses, accounting for group differences, a white with a score of 1,200 would actually be more, not equally, able on average than a black or Hispanic with the same score. Critics say that this failure to adjust scores to improve the test's [[predictive validity]] distorts the true scores of minorities, and indirectly everyone, as admissions is a zero sum game. Adjusting for this tendency would likely result in more controversy, however, as it is easily misconstrued.
+
+Additionally, class rank, a statistic widely used in admissions, likely confers advantage on underperforming minorities. In California, Florida, and Texas public universities, affirmative action has been replaced with class rank and other programs. Class rank tends to discriminate against those at relatively competitive high schools, simply because high schools are not uniform in student ability. Thus a student with grades in the top ten percent at a mediocre school is unlikely to be equivalent or superior to a student at a elite school. Class rank, as a result, is more a measure of one's peers than of oneself. As such, some high schools refuse to rank their students.  [http://aad.english.ucsb.edu/docs/04-22-05Fischer.htm]
+
+===Important Supreme Court cases===
+*''[[Regents of the University of California v. Bakke]]'', 1978
+:The [[U.S. Supreme Court|Supreme Court]] held that the [[University of California, Davis|UC Davis]] medical school admissions program violated the equal protection clause with the institution of quotas for underrepresented minorities. However, the court ruled that race could be one of the factors in university admissions.
+
+*''[[Grutter v. Bollinger]]'', 2003
+:The Supreme Court ruled that race could be used as a criterion in school admissions and that it would not be in violation of the equal protection clause of the 14th Amendment.  The Court found that the University of Michigan Law School's narrowly-tailored policy was constitutional and appropriate "to further a compelling interest in obtaining the educational benefits that flow from a diverse student body."
+
+*''[[Gratz v. Bollinger]]'', 2003
+:The Supreme Court ruled that the University of Michigan's point-based undergraduate admissions policy that took race into account numerically was too mechanical and unconstitutional. 
+
+An attorney who filed an amicus brief on behalf of Pennsylvania legislators and former legislators in Grutter v. Bollinger, Rep. Mark B. Cohen of Philadelphia, said that "The cumulative effect of the Bakke, Grutter, and Bollinger cases is that no one has a legal right to have any demographic characteristic they possess be considered a favorable point on their behalf, but an employer has a right to take into account the goals of the organization and the interests of American society in making decisions.  This is a moderate, inclusive position that ably balances the various legal interests involved."
+
+Other important cases: 
+*''[[Adarand Constructors v. Peña]]'', 515 U.S. 200 (1995) (establishing strict scrutiny standard of review for race and ethnic-based Federal Affirmative Action programs).
+*''[[City of Richmond v. J.A. Croson Co.]]'', 488 U.S. 469 (1989) (strict scrutiny standard to state and local programs).
+
+==Other countries==
+
+*[[Greece]] Greece has quotas setting a lower limit for women participating in election lists of political parties for most of the election processes.
+
+*[[European Union]] 2000/43/EU ([[29 June]] [[2000]]) concerns the application of the principle of equality without regard to race or ethnic origin (ABl. EU Number L 180 p 22), anti-racism directive, to be implemented in national law of the member states. 
+
+*[[China]] The People's Republic allows non-Han ethnic groups (around 9% of the population) to be exempt from the [[One-child policy]], and there is a quota for minority representatives in the [[National Assembly]] in Beijing, as well as other realms of government. 
+
+*[[India]] In order to redress the historical inequity of the [[caste]] system, certain positions in university and government are reserved for previously oppressed castes. A large percentage of College admissions and government job quotas are reserved for these castes. There have been recent attempts to introduce it into the private job sector and for [[Muslim]] minorities. 
+
+*[[Malaysia]] The [[bumiputra]] laws are a form of affirmative action meant to provide more opportunity for the majority ethnic [[Malay people|Malay]] population versus the historical financial dominance of the [[Malaysian Chinese]] and [[Malaysian Indian]] populations.
+
+*[[New Zealand]] Individuals of [[Maori]] or other [[Polynesia]]n descent are often afforded preferential access to university courses, and scholarships.
+
+*[[Southeast Asia]] In countries such as [[Indonesia]], affirmative action programs give natives preference over [[Han Chinese]] who have immigrated into the country.
+
+*[[United Kingdom]] Under the [[1998]] [[Good Friday Agreement]] the law requires that the [[Police Service of Northern Ireland]] recruit equal numbers of [[Roman Catholic Church|Catholic]]s and [[Protestantism|Protestant]]s (including [[Anglicanism|Anglicans]]).
+
+*[[Slovakia]] The Constitutional Court declared in October 2005 that affirmative action i.e. 'providing advantages for people of an ethnic or racial minority group' as being against its Constitution. [http://euobserver.com/9/20123 (euobserver.com)]
+
+*[[South Africa]] The Employment Equity Act aims to promote and achieve equity in the workplace, by encouraging equal opportunity amongst all workers. It includes efforts to identify reasons for inequalities and change the employment rates of previously underrepresented groups for a more equitable job market.
+
+*[[Germany]] Article 3 of the [[Basic Law for the Federal Republic of Germany|German constitution]] provides for equal rights of all people regardless of sex or race. In recent years there has been a long public debate about whether to issue programs that would grant women a privileged access to jobs in order to fight discrimination. There were programs stating that if men and women had equal qualifications, women had to be prefered for a job. The anti-discrimination law (Antidiskriminierungsgesetz; ADG), which is yet to pass, aims at improving the protection of minorities. 
+
+*[[Japan]] The [http://www2.mhlw.go.jp/topics/seido/josei/hourei/20000401-31e.htm Law on Securing, Etc. of Equal Opportunity and Treatment between Men and Women in Employment] issued first in [[1972]], provided that men and women should have equal chances in employment. Most workers are still male.
+
+==Results==
+
+[[UCLA]] professor Richard H. Sander published an article in the November 2004 issue of the Stanford Law Review that questioned the effectiveness of affirmative action in [[law school]]s.  The article presents a study that, among other things, shows that half of all black law students rank near the bottom of their class after the first year of law school, and that black law students are more likely to drop out of law school and to fail the bar exam. The article offers a tentative estimate that the production of new black lawyers in the United States would grow by eight percent if affirmative action programs at all law schools were ended, as black students would instead attend less prestigious schools where they would be more closely matched with their classmates, and thus perform better. The article has sparked heated initial reaction and controversy, and critics are reviewing the study's methodology. Sander, whose personal politics are reported to be somewhat [[American liberalism|liberal]], helped to develop a socioeconomically-based affirmative action plan for the UCLA School of Law after the passage of [[California Proposition 209 (1996)|Proposition 209 in 1996]] which prohibited the use of racial preferences by public universities [[California]] schools. This change occurred after studies that showed that the graduation rate of blacks at UCLA was 41%, compared to 73% for whites.
+
+Another consequence of affirmative action as it is practised in U.S. universities is that it widens the gap in academic qualifications between different ethnic groups attending the same university by granting admission to preferred students based on different, lower requirements. The smallest gap is usually found at the most prestigious universities, who actively recruit the most qualified students from preferred minority groups The smallest gap is found at [[Harvard University|Harvard]], where the gap between African American and Asian American students is about 90 SAT points. [[UC Berkeley]] has one of the highest gaps at about 300 SAT points. This of course, assumes that SAT scores correlate significantly to academic merit, qualification, or potential, a highly controversial notion [http://www.collegeboard.com/research/pdf/rn15new_17517.pdf].
+
+In order to avoid a system of racial quotas, the State of [[Texas]] passed a law guaranteeing entry to any state university of a student's choice if they finished in the top 10% of their graduating class.  Despite fears that this would lower standards, minority students from schools with lesser performances are claimed to do as well as students from better schools, and the average SAT and GPA scores of applicants to Texas universities has reportedly not fallen. Nevertheless, the top 10% law is highly controversial on the grounds that it overemphasizes GPA, and a bill has recently passed in the Texas House (but not the Senate) strongly limiting it [http://www.dfw.com/mld/dfw/news/legislature/11627400.htm].
+
+==Criticism==
+
+===Demeaning racialism===
+Opponents of affirmative action regard it as government-sanctioned [[racial discrimination]], and also believe that it’s demeaning to members of minority groups, that affirmative action wrongly sends a condescending message to minorities that they are not capable enough to be considered on their own merits.
+
+===Quotas===
+Critics often object to the use of [[racial quota]]s and [[gender quota]]s in affirmative action. Quotas are illegal in the United States, except when a judge issues an order for a specific institution to make up for extreme past discrimination. There is dispute over whether this ''de jure'' illegality prevents ''de facto'' quotas. Much time has been spent attempting to show that these "goals" are not [[quotas]].
+
+===Cultural differences===
+Some view the disproportionate percentages of different races in instutition of higher education  or certain professions as a reflection of minority cultures having varying emphasis on education. Some proponents of this view believe African-Americans, Hispanic Americans and other often underrepresented minority communities do not emphasize education and high academic achievement as much as whites or Asians or [[Model Minority | "Model Minorites"]]. Proponents of this view will often further criticize [[hip hop]] culture, "victim mentality", militant afrocentricity, anti-establishment mentality, high family instability, and excessive [[economic materialism]] or [[consumerism]] as being among the cultural factors that have prevented blacks from achieving the same economic opportunity as whites.  Thus, proponents believe that the minority community, not the government, should be responsible for eliminating any economic disparity between the races. 
+
+Some proponents of this view often believe that it is primarily cultural differences, not just socioeconomic problems, that is the root of economic disparity between races. Supporting this view is not mutually exclusive to supporting affirmative action. Nonetheless, most supporters of this view believe that affirmative action policies or government intervention cannot solve the economic and educational disparity between the races. Social and fiscal conservatives most likely advocate this point of view.  
+
+TV talk show host [[Bill O'Reilly (commentator) | Bill O'Reilly]], who is white and labels himself a "traditionalist", is the one of the biggest commentators known for criticizing hip hop music for promoting the "gangster" lifestyle, misogynist behavior, and poor grammatical skills in inner city or black communities. He has often criticized several rappers by name, including [[Ludacris]] and [[Cam'ron]], for using profane and explicit lyrics in their music, which he believes heavily contributes to juvenile delinquency in black communities. 
+
+In [[2004]], African-American comedian [[Bill Cosby]] publicly [[Ghettosburg Address|criticized]] the black community for having low standards in regards to tolerating high illiteracy, high rate of single fatherless parent households, high crime rate, and emphasizing excessive [[consumerism]]. He has repeatedly called upon inner-city African-Americans to develop a culture that celebrates academic achievement and not juvenile delinquency or economic materialism (such as placing more value on clothing than getting a proper education). However, there is nothing to suggest that he in fact opposes affirmative action and this view is not mutually exclusive to supporting affirmative action. Nonetheless, conservatives and affirmative action opponents have used Cosby's message in order to introduce or further expand their message, especially towards those in the black community.
+
+===Biological Differences===
+Some critics of affirmative action believe that the demographic differences might have a biological influence.  Examples include hormonal and neural differences between men and women, and possible biological differences between groups, such as [[Asian-Americans]] and [[African-American]]s). (See [[Race and intelligence]])
+
+Certain supporters of this view believe some races are on average smarter than others races due to genetic and biological differences. Some of these proponents point to controversial and disputed studies that claim that whites and Asians on average have higher IQs than blacks (mostly disputed not on the grounds that the studies are inaccurate, but rather that IQ itself may be a poor measure of intellectual ability). Many supporters believe the physical characteristics inherent in certain races contribute to varying levels of intelligence and mental capacity of the race. 
+
+===Disadvantaging working-class non-minorities===
+Another criticism of affirmative action in employment and education claims that these programs encourage socioeconomic discrimination in favor of middle-class members of minority groups over better qualified but working-class members from the majority group, since such programs do not consider socioeconomic class. In essence, middle-class minorities with greater opportunities and resources at their disposal are favoured over members of the working poor who happen not to be minorities (usually, poor whites). These critics believe this is contrary to claims of "social justice" made by supporters.
+
+===Shifting justification===
+Affirmative action in the United States was originally conceived as a means to compensate African Americans for centuries of slavery, as newly granted legal equality was considered insufficient to redress African American grievances.  However, the inititative quickly ballooned to encompass various other racial minorities that had never suffered from slavery.  In addition, newly immigrated Africans without any enslaved ancestors benefit as well.  Thus the original justification, which the potential victims of affirmative action were intitially compelled to accept, has been abandoned.
+
+===Criticism by Dutch Martin===
+
+[[Dutch Martin]], an African-American, claims that the following are problems with affirmative action, based on his review&lt;sup&gt;[http://www.townhall.com/bookclub/sowell4.html]&lt;/sup&gt; of ''[[Affirmative Action Around the World|Affirmative Action Around the World: An Empirical Study]]'' (ISBN 0-30010-199-6, 2004) by African-American economist Dr. [[Thomas Sowell]]:
+
+*They encourage non-preferred groups to designate themselves as members of preferred groups [i.e. primary beneficiary of affirmative action] to take advantage of group preference policies;
+*They tend to benefit primarily the most fortunate among the preferred group (e.g. black millionaires), oftentimes to the detriment of the least fortunate among the non-preferred groups (e.g. poor whites); 
+*They reduce the incentives of both the preferred and non-preferred to perform at their best &amp;#8212; the former because doing so is unnecessary and the latter because it can prove futile &amp;#8212; thereby resulting in net losses for society as a whole; and
+*They engender animosity toward preferred groups as well as on the part of preferred groups themselves, whose main problem in some cases has been their own inadequacy combined with their resentment of non-preferred groups who &amp;#8212; without preferences &amp;#8212; consistently outperform them.
+
+Sowell also argued:[http://www.townhall.com/columnists/thomassowell/ts20030108.shtml]
+:What about the notion that affirmative action has helped blacks rise out of poverty? The black poverty rate was cut in half before affirmative action &amp;mdash; and has barely changed since then. 
+
+:What about the notion that blacks would not be able to get into colleges and universities without affirmative action? After group preferences and quotas were banned in California's state universities, the number of black students in the University of California system has risen.
+
+:"Minority students are systematically mismatched with institutions" due to racial preferences, where they underperform relative to the student body. Had they gone to an institution without the help of affirmative action, to a less selective school, they would have received better grades and graduated at higher rates.
+
+:"When the top-level schools recruit black students who would normally be qualified to succeed at the level next to the top, then the second tier of institutions faces the prospect of either being conspicuously lacking in minority students or (2) dipping down to the next level below to bring in enough minority students for a statistically respectable "representation." Usually they end up mismatching students. Once begun at the top, this process continues on down the line." 
+[http://www.leaderu.com/alumni/sowell-choosing/chpter07.html#black]
+
+===Counter-arguments===
+Proponents of Affirmative Action respond that such discrepancies are a result of residential segregation; in response, critics of affirmative action argue that qualified members of the majority group should not be deprived of access to opportunities just because the larger society is unable to fix problems affecting its minority groups.
+
+
+Another argument is that many of the state and city universities had much lower [[tuition]] during the time they were primarily for whites, while tuition at such institutions have grown faster than the rate of inflation now that more minorities are attending.  Tuition at the [[City College of New York]] was free up until the 1960s when the students were primarily Italian and Jewish, but now rival those of state universities now that most of the students are Black or Hispanic. In fact, however, until the 1960s the City College only accepted students with a 90 average, whereas now it accepts people with a 60 average. Furthermore, this college's alumni produced a record (for public colleges) eight [[Nobel Prize|Nobel]] laureates, all [[Ashkenazi Jews]].[http://www.lagriffedulion.f2s.com/iq.htm] A qualified minority with 90 average and a good SAT can qualify for honors college. One example is [[Colin Powell]]. For example, had [[Thurgood Marshall]] been admitted to Maryland, as a resident of Baltimore he would not have had to pay tuition. Howard, a private institution, had substantial tuition fees, but was at the time (the 1930s) the only ABA-accredited law program at a historically Black university.
+
+Other supporters of affirmative action argue that it benefits society as a whole. Given that affirmative action is effective, they argue, creating a diverse culture increases the quality of the society. This is widely argued in the realm of education. An example of support for this is a study done by Patricia Gurin, who is part of the [[American Psychological Association]]. Gurin found that students who are from a more diverse educational setting had better results in tests designed to measure complex thinking, were more motivated to understand other people’s points of view, were more understanding of differences in cultural environments, and were more confident in their intellectual ability.
+
+Counter-arguments regarding Cultural Differences:
+However, many supporters of affirmative action and critics of this view charge that those proponents are being [[ethnocentric]] and are disingenously trying to deflect or downplay the role of past and current institutional discrimination of minorities. These critics believe that these proponents are trying to shift the blame onto the victim who was discriminated in the first place in order to justify rolling back government civil rights policies. Most of these critics believe eradicating affirmative action will further deepen economic disparity between whites and underrepresented minorities. Furthermore, many critics believe that those proponents are being naive, hypocritical, or vague in their quest to 'change the cultural values' of the black community.
+
+===Libertarian view===
+[[Free market]] [[libertarian]]s believe any form of unjustified discrimination is likely to lead to inefficiencies, and that a [[rational]] person would therefore be unlikely to seek to discriminate one way or another and should therefore be free to decide who to select. Therefore, libertarians generally do not advocate anti-discrimination laws, as they reportedly distort the situation. They believe that inefficient, overregulated, noncompetitive industries enable unjustified discrimination, as said industries need not compete and hire on credentials relevant to the job. This was often the case with union membership, as unions were and are predicated upon rationing relatively high paying jobs to a large pool. 
+
+In terms of policy, libertarians favor repealing all affirmative action legislation and regulation, so that the government has no official stance on the practice, leaving the decision to uphold and maintain such a policy up to the individual institutions. Some, however, may still take issue as taxpayers' money will support institutions that support or oppose affirmative action in the case of colleges and universities, meaning colleges, and not the government, should fund any costs of discrimination at their own expense. Libertarians generally disdain using taxpayers' money for programs that any citizen may oppose, like stem cell research.  Instead, the optimal solution, according to them, lies in abolishing all federal aid to colleges and universities.
+
+==See also==
+===Organizations===
+* [[Equal Employment Opportunity Commission]]
+* [[Office of Fair Housing and Equal Opportunity]]
+* [[Institute for Justice]]
+===Miscellaneous===
+* [[Model minority]] - A minority group that’s highly successful despite a history of discrimination (e.g. Asian Americans)
+* [[Affirmative action bake sale]] – A critical bake sale organized on college campuses demonstrating "affirmative action pricing structures".
+* [[Jewish quota]] (historically restricting number of Jews)
+* [[Race and intelligence]]
+* [[Legacy preferences]]
+
+==References ==
+# Shaheen Lakhan - [http://www.biomedcentral.com/1472-6920/3/6 Diversification of U.S. Medical Schools via Affirmative Action Implementation]. ''BMC Medical Education''. 3:6. 2003.
+# [[Department of Labor|U.S. Department of Labor]] - [http://www.dol.gov/esa/regs/compliance/ofccp/fs11246.htm U.S. Executive Order 11246] EEO and Affirmative Action Guidelines for Federal Contractors Regarding Race, Color, Gender, Religion, and National Origin
+# [[Department of Labor|U.S. Department of Labor]] - [http://www.dol.gov/esa/regs/statutes/ofccp/eo11246.htm Executive Order 11246], As Amended
+#[http://laws.justice.gc.ca/en/charter/ Canadian Charter of Rights and Freedoms]
+# Richard H. Sander, ''A Systemic Analysis of Affirmative Action in American Law Schools'', 57 ''Stanford Law Review'' 367 (2004), ''available at'' [http://www1.law.ucla.edu/~sander/Systemic/SA.htm Richard Sander's Homepage].
+# [http://plato.stanford.edu/entries/affirmative-action/ Stanford Encyclopedia of Philosophy entry]
+# [[Cato Institute]]  [http://www.cato.org/pubs/pas/pa540.pdf Policy Analysis 540]
+
+[[Category:Discrimination]]
+[[Category:Social justice]]
+[[Category:Social inequality]]
+[[Category:Issue in the Culture Wars]]
+
+[[de:Quotenregelung]]
+[[fr:Discrimination positive]]
+[[he:אפליה מתקנת]]
+[[ja:積極的差別是正措置]]
+[[sv:Kvotering]]</rev></revisions></page></pages></query></api>

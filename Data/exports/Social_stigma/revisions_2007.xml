@@ -1,0 +1,47 @@
+<?xml version="1.0"?><api><continue rvcontinue="20071101144817|168514596" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="2649767" pageid="2649767" ns="0" title="Social stigma"><revisions><rev timestamp="2007-11-09T08:40:51Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Merge|Stigma (sociological theory)|date=November 2007}}
+'''Social stigma''' is severe social disapproval of personal characteristics or [[beliefs]] that are against [[Norm (sociology)|cultural norms]]. Social stigma often leads to [[marginalization]].
+
+Examples of existing or historic social stigmas can be physical or mental [[disabilities]] and [[mental illness|disorder]]s, as well as [[illegitimacy]], [[homosexuality]] or affiliation with a specific [[nationality]], [[religion]] (or lack of religion&lt;ref&gt;http://www.theglobeandmail.com/servlet/story/LAC.20070331.ATHEIST31/TPStory/TPNational/Ontario/&lt;/ref&gt;&lt;ref&gt;http://atheism.about.com/b/a/258950.htm&lt;/ref&gt;) or [[ethnicity]], such as being a [[Jew]], an [[African American]], or a [[Roma people|Gypsy]].  Likewise, [[Crime|criminality]] carries a strong social stigma.
+
+Stigma comes in three forms:&lt;ref&gt;Erving Goffman, ''Stigma: Notes on the Management of Spoiled Identity'', Prentice-Hall, 1963, ISBN 0-671-62244-7.&lt;/ref&gt; Overt or external deformations. Examples of this are physical manifestations of [[anorexia nervosa]], [[leprosy]], or a [[physical disability]].   Second, the known deviations in personal traits.  For example, [[drug addict]]s, [[alcoholic]]s, and criminals are stigmatized in this way.  Third, "tribal stigmas" are traits of a race, nation, or religion that constitute a deviation from the normative race, nationality or religion.  For example, [[Jewish]] people in [[Nazi Germany]].
+Although the specific social categories that become stigmatized can vary across times and places, the three basic forms of stigma (physical deformity, poor personal traits, and tribal outgroup status) are found in most cultures and time periods, leading some psychologists to hypothesize that the tendency to stigmatize may have evolutionary roots.
+
+==See also==
+*[[Identity (social science)|Identity]]
+*[[Label (sociology)]]
+*[[Labelling]] 
+*[[Stereotype]]
+*[[Taboo]]
+*[[Passing (sociology)]]
+*[[Collateral consequences of criminal charges]]
+
+==Further reading==
+* [[Erving Goffman]], ''Stigma: Notes on the Management of Spoiled Identity'', Prentice-Hall, 1963, ISBN 0-671-62244-7.
+* Heatherton, T. F., Kleck, R. E., Hebl, M. R., &amp; Hull, J. G. (Eds.), ''The Social Psychology of Stigma'', Guilford Press, 2000, ISBN 1-572-30573-8.
+* Kurzban, R., &amp; Leary, M. R. (2001). Evolutionary Origins of Stigmatization: The Functions of Social Exclusion. ''[[Psychological Bulletin]]'' '''127''': 187-208.
+
+''This article incorporates text translated from [http://de.wikipedia.org/w/index.php?title=Stigmatisierung&amp;oldid=8257586 the corresponding German Wikipedia article].''
+
+==References==
+&lt;references/&gt;
+
+==External Links==
+
+[http://www.stigmaresearch.org/ Research group that studies stigma related to people with mental illness]
+
+{{Unreferenced|date=June 2007}}
+
+[[Category:Social stigma| ]]
+
+[[de:Stigmatisierung]]
+[[id:Stigma sosial]]
+[[it:Stigmatizzazione (scienze sociali)]]
+[[he:סטיגמה]]
+[[lt:Stigmatizacijos teorija]]
+[[no:Sosial stigma]]
+[[pt:Estigma social]]
+[[ru:Стигматизация (социальная)]]
+[[sr:Стигматизација]]
+[[sv:Socialt stigma]]
+[[tr:Stigma]]
+[[uk:Стигматизація]]</rev></revisions></page></pages></query></api>

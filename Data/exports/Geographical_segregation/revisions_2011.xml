@@ -1,0 +1,15 @@
+<?xml version="1.0"?><api><continue rvcontinue="20110505032251|427516661" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1009410" pageid="1009410" ns="0" title="Geographical segregation"><revisions><rev timestamp="2011-06-09T16:46:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Missing information|on the various uses of the term and has inadequate referencing |date=June 2011}}
+'''Geographical segregation''' exists whenever the proportions of population rates of two or more [[population]]s are not [[wiktionary:homogenous|homogenous]] throughout a defined space. Populations can be considered any plant or animal [[species]], human [[gender]]s, followers of a certain [[religion]], people of different [[nationalities]], stone types, [[ethnic group]]s, etc.
+
+In [[social geography]] segregation of [[ethnic group]]s, [[social class]]es and genders is often measured by the calculation of indices such as the [[index of dissimilarity]]. Different dimensions of segregation (or its contrary) are recognised: exposure, evenness, clustering, concentration, centralisation, etc.&lt;ref&gt;Massey, D. and Denton, N. ''American Apartheid''&lt;/ref&gt;.
+
+==References==
+{{Reflist}}
+
+[[Category:Geography terminology]]
+
+{{geo-term-stub}}
+
+[[fr:Ségrégation (sciences humaines)]]
+[[he:סגרגציה גאוגרפית]]
+[[pt:Segregação espacial]]</rev></revisions></page></pages></query></api>

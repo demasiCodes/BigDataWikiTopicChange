@@ -1,0 +1,13 @@
+
+For number of topics, k=7
+Topic 1: samesex, harass, bulli, marriag, disabl, cyberbulli, polic, gai, drag, sexual
+Topic 2: samesex, asexu, marriag, homosexu, gai, lgbt, rape, bisexu, lesbian, queer
+Topic 3: white, racial, race, black, racism, defam, nonviol, immigr, african, privileg
+Topic 4: antisemit, homosexu, gender, women, health, genet, intersex, therapi, sexual, eugen
+Topic 5: jew, antisemit, jewish, parti, islam, church, muslim, gerrymand, witch, hate
+Topic 6: women, abort, categorytreati, feminist, femin, steril, mascot, reproduct, sex, roe
+Topic 7: uyghur, milk, ethnic, bisexu, hrc, sectarian, cleans, xinjiang, muslim, chines
+Perplexity: 9.164194515723176
+Coherence Score: 0.458694551768785
+
+For number of topics, k=16

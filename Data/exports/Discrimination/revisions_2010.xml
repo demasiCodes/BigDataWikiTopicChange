@@ -1,0 +1,296 @@
+<?xml version="1.0"?><api><continue rvcontinue="20101117164619|397330151" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="8900" pageid="8900" ns="0" title="Discrimination"><revisions><rev timestamp="2010-11-17T16:48:11Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Dablink|This article focuses on discrimination in sociology, not [[statistical discrimination]]. For other uses of the term, see the entry for [[wikt:discrimination|discrimination]] at Wiktionary. }}
+
+'''Discrimination''' is a [[sociological term]] referring to the [[prejudice|prejudicial]] treatment of an individual based solely on their membership (whether voluntary or involuntary) in a certain group or category. Discrimination is the ''actual behavior'' towards members of another group. It involves excluding or restricting members of one group from opportunities that are available to other groups.&lt;ref&gt;Introduction to sociology. 7th ed. New York: [[W. W. Norton &amp; Company]] Inc, 2009. page 324. Print.&lt;/ref&gt;
+The [[United Nations]] explains: "Discriminatory behaviors take many forms, but they all involve some form of exclusion or rejection."&lt;ref&gt;{{PDF|[http://cyberschoolbus.un.org/discrim/id_8_ud_print.asp United Nations CyberSchoolBus: What is discrimination?]}}&lt;/ref&gt;  Discriminatory laws such as [[redlining]] have existed in many countries. In some countries, controversial attempts such as [[racial quotas]] have been used to redress negative effects of discrimination.
+
+{{Discrimination sidebar}}
+
+==Racial and ethnic discrimination==
+{{Main|Racism}}
+
+Racial discrimination differentiates between individuals on the basis of real and perceived racial differences, and has been official government policy in several countries, such as [[South Africa]] in the [[apartheid]] era, and the USA.
+
+[[Image:Segregation 1938b.jpg|left|thumb|250px|An [[African-American]] child at a segregated drinking fountain on a courthouse lawn, [[North Carolina]], 1938.]]
+In the [[United States]], [[racial profiling]] of minorities by law enforcement officials has been called racial discrimination.&lt;ref&gt;
+{{cite news
+ |first=Gene
+ |last=Callahan
+ |coauthors=Anderson, William
+ |title=The Roots of Racial Profiling
+ |work=Reason Online 
+ |publisher=Reason Foundation
+ |date =2001 August-September
+ |accessdate=2006-07-27
+}}&lt;/ref&gt; As early as 1865, the [http://www.finduslaw.com/civil_rights_act_of_1866_civil_rights_act_of_1871_cra_42_u_s_code_21_1981_1981a_1983_1988 Civil Rights Act] provided a remedy for intentional race discrimination in employment by private employers and state and local public employers. The [http://www.finduslaw.com/civil_rights_act_of_1866_civil_rights_act_of_1871_cra_42_u_s_code_21_1981_1981a_1983_1988 Civil Rights Act of 1871] applies to public employment or employment involving state action prohibiting deprivation of rights secured by the federal constitution or federal laws through action under color of law.  Title VII is the principal federal statute with regard to employment discrimination prohibiting unlawful employment discrimination by public and private employers, labor organizations, training programs and employment agencies based on race or color, religion, gender, and national origin.
+
+Title VII also prohibits retaliation against any person for opposing any practice forbidden by statute, or for making a charge, testifying, assisting, or participating in a proceeding under the statute. The [http://www.finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21 Civil Rights Act of 1991] expanded the damages available in Title VII cases and granted Title VII plaintiffs the right to a jury trial.  Title VII also provides that race and color discrimination against every race and color is prohibited.
+
+In the UK the inquiry following the [[murder of Stephen Lawrence]] accused the police of [[institutional racism]].
+* [http://www.legalferret.net Weaver v NATFHE (now part of the UCU)] Race/sex discrimination case. An Industrial (Employment) Tribunal in the UK in 1987 decided that a trade union was justified in not assisting a black woman member complaining of racist/sexist harassment, regardless of the merits of the case, because the accused male would lose his job. The Employment Appeal Tribunal upheld the decision, which still stands today as the definitive [[legal precedent]] in this field. It is also known as the [[Bournville College]] Racial Harassment issue.
+
+Within the criminal justice system in some Western countries, minorities are convicted and imprisoned disproportionately when compared with whites.&lt;ref&gt;[http://www.publiceye.org/defendingjustice/pdfs/factsheets/10-Fact%20Sheet%20-%20System%20as%20Racist.pdf How is the Criminal Justice System Racist?]&lt;/ref&gt;&lt;ref&gt;[http://www.hrw.org/en/news/2008/06/05/us-prison-numbers-hit-new-high Blacks Hardest Hit by Incarceration Policy]. Human Rights Watch. June 5, 2008.&lt;/ref&gt; In 1998, nearly one out of three black men between the ages of 20-29 were in prison or jail, on probation or parole on any given day in the [[United States]].&lt;ref&gt;[http://www.eji.org/race%20crim%20just.pdf Race and the Criminal Justice System]&lt;/ref&gt; [[First Nations]] make up about 2% of [[Canada]]'s population, but account for 18% of the federal prison population as of 2000.&lt;ref&gt;{{cite web| url=http://www.csc-scc.gc.ca/text/rsrch/reports/r144/r144_e.shtml| title=A Profile of Visible Minority Offenders in the Federal Canadian Correctional System| author=Trevethan, Shelley| coauthors=Rastin, Christopher J.| publisher=Research Branch, Correctional Service of Canada| month=June| year=2004}}&lt;/ref&gt; According to the Australian government's June 2006 publication of prison statistics, [[Indigenous Australians|indigenous]] peoples make up 24% of the overall prison population in [[Australia]].&lt;ref&gt;{{cite web| url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4517.0Main+Features12006?OpenDocument| title=Prisoners in Australia, 2006| publisher=Australian Bureau of Statistics| date=2006-12-14| accessdate=2007-05-04}}&lt;/ref&gt; In 2004, [[Māori]] made up just 15% of the total population of [[New Zealand]] but 49.5% of prisoners. Māori were entering prison at 8 times the rate of non-Māori.&lt;ref&gt;[http://www.state.gov/g/drl/rls/hrrpt/2004/41654.htm New Zealand's Prison Population]&lt;/ref&gt; A quarter of the people in [[England]]'s prisons are from an ethnic minority. The [[Equality and Human Rights Commission]] found that five times more black people than white people per head of population in England and Wales are imprisoned. Experts and politicians said over-representation of black men was a result of decades of racial prejudice in the criminal justice system.&lt;ref&gt;"[http://www.guardian.co.uk/society/2010/oct/11/black-prison-population-increase-england More black people jailed in England and Wales proportionally than in US]". The Guardian. October 11, 2010&lt;/ref&gt; 
+
+==Age discrimination==
+{{Main|Ageism}}
+[[Ageism|Age discrimination]] is discrimination on the grounds of age. Although theoretically the word can refer to the discrimination against any age group, age discrimination usually comes in one of three forms: discrimination against [[youth]] (also called [[adultism]]), discrimination against those 40 years old or older,&lt;ref&gt;[http://www.finduslaw.com/age_discrimination_in_employment_act_of_1967_adea_29_u_s_code_chapter_14 Age Discrimination in Employment Act of 1967 - ADEA - 29 U.S. Code Chapter 14 | find US law&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;  and discrimination against elderly people.
+
+In the United States, the [[Age Discrimination in Employment Act]] prohibits employment discrimination nationwide based on age with respect to employees 40 years of age or older. The [http://www.finduslaw.com/age_discrimination_in_employment_act_of_1967_adea_29_u_s_code_chapter_14 Age Discrimination in Employment Act] also addresses the difficulty older workers face in obtaining new employment after being displaced from their jobs, arbitrary age limits.
+
+On the other hand, the UK [[Equality Act 2010]] protects young employees as well as old. Other countries go even further and make age discrimination a criminal offence.&lt;ref&gt;http://www.agediscrimination.info/ click on the international page&lt;/ref&gt; 
+
+In many countries, companies more or less openly refuse to hire people above a certain age despite the increasing lifespans and average age of the population. The reasons for this range from vague feelings younger people are more "dynamic" and create a positive image for the company, to more concrete concerns about regulations granting older employees higher salaries or other benefits without these expenses being fully justified by an older employees' greater experience. Unions cite age as the most common form of discrimination in the workplace.&lt;ref&gt;"[http://news.bbc.co.uk/2/hi/business/5378876.stm Quick guide: Age discrimination]". BBC News. September 25, 2006.&lt;/ref&gt; Workers ages 45 and over form a disproportionate share of the long-term [[unemployed]] – those who have been out of work for six months or longer, according to the U.S. Bureau of Labor Statistics.&lt;ref&gt;"[http://www.cbsnews.com/stories/2009/04/14/usnews/whispers/main4944750.shtml In Recession, Age Discrimination Is More Prominent Than Racism]". CBS News. April 13, 2009.&lt;/ref&gt;
+
+Some people consider that [[teenagers]] and [[youth]] (around 15–25 years old) are victims of [[adultism]], age discrimination framed as a paternalistic form of protection. In seeking social justice, they feel that it is necessary to remove the use of a false moral agenda in order to achieve agency and empowerment.
+
+This perspective is based on the grounds that youth should be treated more respectfully by adults and not as second-class citizens. Some suggest that [[social stratification]] in age groups causes outsiders to incorrectly [[stereotype]] and generalize the group, for instance that all adolescents are equally immature, violent or rebellious, listen to rock tunes, and do [[hard and soft drugs|drug]]s. Some have organized groups against age discrimination.
+
+Ageism is the causal effect of a continuum of fears related to age.{{Citation needed|date=July 2007}} This continuum includes:
+*[[Ephebiphobia]]: the fear of youth.
+*[[Gerontophobia]]: the fear of elderly people.
+*[[Pediaphobia]]: the fear of infants or small children.
+
+Related terms include:
+
+*[[Adultism]]: Also called adultarchy, adult privilege, and adultcentrism/adultocentrism, this is the wielding of authority over young people and the preference of adults before children and youth.
+*[[Jeunism]]: Also called "youthism" is the holding of beliefs or actions taken that preference 'younger' people before adults.
+
+==Sex and Gender discrimination==
+{{Main|Sexism}}
+[[Image:DurbanSign1989.jpg|left|thumb|A racist sign on a beach (1989)]]
+
+Though gender discrimination and sexism refers to beliefs and [[Attitude (psychology)|attitudes]] in relation to the [[gender]] of a person, such beliefs and attitudes are of a social nature and do not, normally, carry any legal consequences. '''Sex discrimination''', on the other hand, may have legal consequences.
+
+Though what constitutes sex discrimination varies between countries, the essence is that it is an adverse action taken by one person against another person that would not have occurred had the person been of another sex. Discrimination of that nature in certain enumerated circumstances is illegal in many countries.
+
+Currently, discrimination based on sex is defined as adverse action against another person, that would not have occurred had the person been of another sex. This is considered a form of [[prejudice]] and is illegal in certain enumerated circumstances in most countries.
+
+Sexual discrimination can arise in different contexts. For instance an employee may be discriminated against by being asked discriminatory questions during a job interview, or because an [[employer]] did not hire, promote or wrongfully terminated an employee based on his or her gender, or employers pay unequally based on gender.
+
+In an educational setting there could be claims that a student was excluded from an educational institution, program, opportunity, loan, student group, or scholarship due to his or her gender. In the housing setting there could be claims that a person was refused negotiations on seeking a house, contracting/leasing a house or getting a loan based on his or her gender. Another setting where there have been claims of gender discrimination is banking; for example if one is refused credit or is offered unequal loan terms based on one’s gender.&lt;ref&gt;Wilson, F. (2003) Organizational Behaviour and Gender (2nd Edition), Aldershot: Ashgate.&lt;/ref&gt;
+
+Another setting where there is usually gender discrimination is when one is refused to extend his or her credit, refused approval of credit/loan process, and if there is a burden of unequal loan terms based on one’s gender.
+
+Socially, sexual differences have been used to justify different roles for men and women, in some cases giving rise to claims of primary and secondary roles.&lt;ref&gt;[http://digitalcommons.shu.ac.uk/ciod_papers/54/ Ridley-Duff, R. J. (2008) "Gendering, Courtship and Pay Equity: Developing Attraction Theory to Understand Work-Life Balance and Entrepreneurial Behaviour", paper to the ''31st ISBE Conference'', 5th-7th November, Belfast]&lt;/ref&gt;
+
+While there are alleged non-physical differences between men and women, major reviews of the academic literature on gender difference find only a tiny minority of characteristics where there are consistent psychological differences between men and women, and these relate directly to experiences grounded in biological difference.&lt;ref&gt;Hyde, J. S. (2005) “The Gender Similarities Hypothesis”, ''American Psychologist'', 60(6): 581 592.&lt;/ref&gt; However, there are also some psychological differences in regard to how problems are dealt with and emotional perceptions and reactions which may relate to hormones and the successful characteristics of each gender during longstanding roles in past primitive lifestyles.
+
+Unfair discrimination usually follows the [[sexism|gender stereotyping]] held by a society.
+
+The [[United Nations]] had concluded that women often experience a "[[glass ceiling]]" and that there are no societies in which women enjoy the same opportunities as men. The term "glass ceiling" is used to describe a perceived barrier to advancement in employment based on discrimination, especially sex discrimination.
+
+In the [[United States]] in 1995, the Glass Ceiling Commission, a government-funded group, stated: "Over half of all Master’s degrees are now awarded to women, yet 95% of senior-level managers, of the top Fortune 1000 industrial and 500 service companies are men. Of them, 97% are white." In its report, it recommended [[affirmative action]], which is the consideration of an employee's gender and race in hiring and promotion decisions, as a means to end this form of discrimination.&lt;ref name="Glass Ceiling Commission"&gt;{{cite web
+|url=http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1117&amp;context=key_workplace
+|title=A Solid Investment: Making Full Use of the Nation's Human Capital
+|date=1995-11
+|accessdate=2008-05-23}}&lt;/ref&gt; In 2008, women accounted for 51% of all workers in the high-paying management, professional, and related occupations. They outnumbered men in such occupations as public relations managers; financial managers; and human resource managers.&lt;ref&gt;"[http://www.dol.gov/wb/stats/main.htm Quick Stats on Women Workers, 2008]". [[U.S. Department of Labor]], [[Bureau of Labor Statistics]], ''Employment and Earnings, 2008 Annual Averages and the Monthly Labor Review''.&lt;/ref&gt;
+
+The [[People's Republic of China|China]]'s leading headhunter, Chinahr.com, reported in 2007 that the average salary for white-collar men was 44,000 yuan ($6,441), compared with 28,700 yuan ($4,201) for women.&lt;ref&gt;"[http://www.newsweek.com/id/209954/page/1 A Great Leap Backward for China's Women]". [[Newsweek]]. August 1, 2009.&lt;/ref&gt;
+
+The PwC research found that among FTSE 350 companies in the [[United Kingdom]] in 2002 almost 40% of senior management posts were occupied by women. When that research was repeated in 2007, the number of senior management posts held by women had fallen to 22%.&lt;ref&gt;"[http://www.guardian.co.uk/money/2007/mar/08/business.workingparents Women quit before hitting glass ceiling]". Guardian.co.uk. March 8, 2007.&lt;/ref&gt;
+
+[[Transgender]] individuals, both male to female and female to male, often experience problems which often lead to dismissals, underachievement, difficulty in finding a job, social isolation, and, occasionally, violent attacks against them. Nevertheless, the problem of gender discrimination does not stop at trandgender individuals nor with women.  Men are often the victim in certain areas of employment as men begin to seek work in office and childcare settings traditionally perceived as "women's jobs".  One such situation seems to be evident in a recent case concerning alleged YMCA discrimination and a Federal Court Case in Texas.{{Citation needed|date=May 2010}}&lt;!-- could not find previously cited story:http://www.nowpublic.com/world/blacks-men-are-racial-gender-discrimination-not-dead-yet --&gt; The case actually involves alleged discrimination against both men and blacks in childcare, even when they pass the same strict background tests and other standards of employment.  It is currently being contended in federal court, as of fall 2009, and sheds light on how a workplace dominated by a majority (- women in this case) sometimes will seemingly "justify" whatever they wish to do, regardless of the law.  This may be done as an effort at self-protection, to uphold traditional societal roles, or some other faulty, unethical or illegal prejudicial reasoning.
+
+[[Affirmative action]] also leads to white men being discriminated against for entry level and blue collar positions. An employer cannot hire a white man with the same "on paper" qualifications over a woman or minority worker or the employer will face prosecution.
+
+===Legislation===
+{{Globalize|date=May 2010}}
+;{{flagicon|Australia}} [[Australia]]
+* [http://www.comlaw.gov.au/ComLaw/Legislation/Act1.nsf/all/search/B2C5A1C199716A18CA256F7200158AFD Sex Discrimination Act 1984]
+;{{flagicon|Canada}} [[Canada]]
+* {{flagicon|Ontario}} [[Ontario Human Rights Code]] 1962
+* [[Canadian Human Rights Act]] 1977
+;{{flagicon|Hong Kong}} [[Hong Kong]]
+* Sex Discrimination Ordinance (1996) [[Image:Flag of Hong Kong 1959.svg|22px|Flag of Hong Kong (before 1997)]]
+;{{flagicon|United Kingdom}} [[United Kingdom]]
+* [[Equal Pay Act 1970]] - provides for equal pay for comparable work
+* [[Sex Discrimination Act 1975]] - makes discrimination against women or men, including discrimination on the grounds of marital status, illegal in the workplace.
+* [[Human Rights Act 1998]] - provides more scope for redressing all forms of discriminatory imbalances
+;{{flagicon|United States}} [[United States]]
+* [[Equal Pay Act of 1963]]&lt;ref&gt;[http://www.finduslaw.com/equal_pay_act_of_1963_epa_29_u_s_code_chapter_8_206_d Finduslaw.com]&lt;/ref&gt; - (part of the [[Fair Labor Standards Act]]) - prohibits wage discrimination by employers and labor organizations based on sex
+* [[Title VII]] of the [[Civil Rights Act of 1964]]&lt;ref&gt;[http://www.finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21 Finduslaw.com]&lt;/ref&gt; - broadly prohibits discrimination in the workplace including hiring, firing, workforce reduction, benefits, and sexually harassing conduct
+* [[Pregnancy Discrimination Act]], which amended Title VII of the Civil Rights Act of 1964 - covers discrimination based upon pregnancy in the workplace&lt;ref&gt;{{cite web
+  |last=
+  |first=
+  |authorlink=omg
+  |coauthors=
+  |title=Pregnancy Discrimination Act
+  |work=
+  |publisher=
+  |date=
+  |url=http://employment.findlaw.com/employment/employment-employee-discrimination-harassment/employment-employee-pregnancy-discrimination-top/pregnancy-discrimination-act.html
+  |doi=
+  |accessdate=2008-05-14}}&lt;/ref&gt;
+
+==Caste discrimination==
+{{See also|Caste}}
+
+According to [[UNICEF]] and [[Human Rights Watch]], [[caste]] discrimination affects an estimated 250 million people worldwide.&lt;ref name="unicef 1"&gt;[http://www.unicef.org/protection/index_discrimination.html Discrimination], [[UNICEF]]&lt;/ref&gt;&lt;ref&gt;[http://hrw.org/english/docs/2001/08/29/global1815.htm Global Caste Discrimination]&lt;/ref&gt;&lt;ref&gt;[http://www.newint.org/issue380/facts.htm Caste - The Facts]&lt;/ref&gt; Discrimination based on caste, as perceived by [[UNICEF]], is prevalent mainly in parts of [[Asia]] (India, [[Sri Lanka]], [[Bangladesh]], [[Nepal]], [[Japan]]) and [[Africa]]&lt;ref name="unicef 1"/&gt;
+
+Currently, there are an estimated 160 million [[Dalit]]s or [[Scheduled Castes]] (formerly known as "untouchables") in India.&lt;ref&gt;"[http://www.npr.org/programs/specials/racism/010828.caste.html The Caste System]". NPR: National Public Radio.&lt;/ref&gt; Dalit people face severe problems, such as segregation and violence against them&lt;ref&gt;"[http://www.cbc.ca/world/story/2007/03/02/india-dalits.html UN report slams India for caste discrimination]". CBC News.  March 2, 2007.&lt;/ref&gt; An estimated 40 million people in [[India]], most of them Dalits, are [[Debt bondage|bonded]] workers, many working to pay off debts that were incurred generations ago.&lt;ref&gt;"[http://www.cbc.ca/ideas/features/untouchables/index.html The Untouchables]". CBC Radio.&lt;/ref&gt; 
+
+There have been substantial improvements in the position of Dalits in post-independence India, consequent to the strict implementation of the rights and privileges enshrined in the [[Constitution of India]], as implemented by the Protection of Civil rights Act, 1955.&lt;ref&gt;The Constitution of India by P.M. Bakshi, Universal Law Publishing Co, ISBN 81-7534-500-4.&lt;/ref&gt; India has had a Dalit [[President of India|president]], [[K.R. Narayanan]], and  the practise had disappeared in urban public life, though persist very strongly in rural areas, where modern ideas have not penetrated, and ancient ethnic divisions and hostilities against Dalits often dominate the discourse of inter-community relations, resulting in underrepresented Dalits facing discrimination and violence.&lt;ref name ="Mendelsohn"&gt;Mendelsohn, Oliver &amp; Vicziany, Maria, "The Untouchables, Subordination, Poverty and the State in Modern India", Cambridge University Press, 1998.&lt;/ref&gt;
+
+In modern times, Dalits, as well as tribal people and members of the lowest castes in India benefit from broad [[Reservation in India|affirmative action programmes]] and are enjoying greater political power."&lt;ref name="Reilley et al."&gt;Kevin Reilly, Stephen Kaufman, Angela Bodino, Racism: A Global Reader P21, M.E. Sharpe, 2003 ISBN 0-7656-1060-4.&lt;/ref&gt; The Constitution of India places special emphasis on outlawing caste discrimination, especially the practice of untouchability.&lt;ref&gt;[http://www.leftjustified.com/leftjust/lib/sc/ht/wtp/india.html Excerpts from The Constitution of India]&lt;/ref&gt; In addition, the Indian penal code inflicts severe punishments on those who discriminate on the basis of caste. Anti-Dalit prejudice and discrimination exists primarily in rural areas, where small societies can track the caste lineage of individuals and discriminate accordingly.
+
+==Employment discrimination==
+{{Main|Employment discrimination}}
+
+Employment discrimination refers to disabling certain people to apply and receive jobs based on their race, age, gender, religion, sexual orientation and disability. In relationship to sociology, employment discrimination usually relates to what events are happening in society at the time. For example, it would seem ludicrous to hire an African American male and absolutely unheard of to hire an African American woman over 50 years ago. However, in our society today, it is the absolute norm to hire any qualified person.
+
+Employment discrimination has decreased tremendously from previous years. This is due to laws that prohibit employment discrimination. In our society today, everyone is ordered to treat all different types of people equally and grant them the same opportunities. If a person hiring another breaks these rules, they can be sued for hate crimes.
+
+The American federal laws that protect against:
+* Race, color and national origin discrimination include the [http://www.finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21 Civil Rights Act of 1964], [http://www.finduslaw.com/executive_order_number_11478_equal_employment_opportunity_in_the_federal_government Executive Order Number 11478] among other numerous laws that protect people from [http://www.finduslaw.com/employment_discrimination/race_national_origin race, color and national origin discrimination].
+* [http://www.finduslaw.com/federal_employment_law/employment_discrimination/harassment_gender_sex_pregnancy Sex and gender discrimination] include the [[Civil Rights Act of 1964]] and [http://www.finduslaw.com/equal_pay_act_of_1963_epa_29_u_s_code_chapter_8_206_d Equal Pay Act of 1963].
+* [http://www.finduslaw.com/employment_discrimination/age age Discrimination] include the [http://www.finduslaw.com/age_discrimination_in_employment_act_of_1967_adea_29_u_s_code_chapter_14 Age Discrimination in Employment Act of 1967].
+* [http://www.finduslaw.com/employment_discrimination/disability Physical and mental disability discrimination] include the [http://www.finduslaw.com/americans_with_disabilities_act_of_1990_ada_42_u_s_code_chapter_126 Americans with Disabilities Act of 1990]
+* [http://www.finduslaw.com/employment_discrimination/religion Religious discrimination] include the [http://www.finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21 Civil Rights Act of 1964].
+* [http://www.finduslaw.com/employment_discrimination/military_status Military status discrimination] include the [http://www.finduslaw.com/vietnam_era_veterans_readjustment_assistance_act_of_1974_vevraa_38_us_code_chapter_42_4211_4215 Vietnam Era Veterans Readjustment Assistance Act of 1974]
+
+Most other western nations have similar laws protecting these groups.
+
+==Sexual orientation discrimination==
+[[File:Uganda Anti-Homosexuality Bill protest.jpg|thumb|right|Protests in New York City against Uganda's [[Anti-Homosexuality Bill]].]]
+''See:'' [[heterosexism]], [[heteronormativity]], and [[homophobia]]
+
+In 2009, [[ILGA]] published a report based on research carried out by Daniel Ottosson at Södertörn University College, Stockholm, Sweden. This research found that of the 80 countries around the world that continue to consider [[homosexuality]] illegal, five carry the [[Capital punishment|death penalty]] for homosexual activity, and two do in some regions of the country.&lt;ref&gt;"[http://abcnews.go.com/Politics/story?id=7883204&amp;page=1 New Benefits for Same-Sex Couples May Be Hard to Implement Abroad]". ABC News. June 22, 2009.&lt;/ref&gt; In the report, this is described as "State sponsored homophobia".&lt;ref&gt;[http://www.ilga.org/http://www.ilga.org/statehomophobia/ILGA_State_Sponsored_Homophobia_2009.pdf ILGA: 2009 Report on State Sponsored Homophobia (2009)]&lt;/ref&gt; This happens in [[Muslim|Islamic]] states, or in two cases regions under Islamic authority.&lt;ref&gt;[http://www.ilga.org/news_results.asp?LanguageID=1&amp;FileID=1111&amp;ZoneID=7&amp;FileCategory=50 ILGA:7 countries still put people to death for same-sex acts]&lt;/ref&gt;&lt;ref&gt;[http://www.religionfacts.com/homosexuality/islam.htm Homosexuality and Islam - ReligionFacts]&lt;/ref&gt;
+
+On February 5, 2005 the [[IRIN]] issued a reported titled "Iraq: Male homosexuality still a taboo."  The article stated, among other things that [[honor killings]] by Iraqis against a gay family member are common and given some legal protection.&lt;ref&gt;[http://www.irinnews.org/report.asp?ReportID=51540&amp;SelectRegion=Middle_East IRIN Middle East | Middle East | Iraq | IRAQ: Male homosexuality still a taboo | Human Rights |Feature]&lt;/ref&gt; In August 2009 Human Rights Watch published an extensive report detailing torture of men accused of being [[LGBT rights in Iraq|gay in Iraq]], including the blocking of men's anuses with glue and then giving the men laxatives.&lt;ref&gt;"[http://www.hrw.org/en/node/85049/section/3 They Want Us Exterminated]". Human Rights Watch. August 16, 2009.&lt;/ref&gt;
+
+[[South Africa]] has one of the world's most progressive constitutions, but same-sex unions are often decried as "un-African."&lt;ref&gt;"[http://www.reuters.com/article/worldNews/idUSTRE52C3MN20090313 South African gangs use rape to "cure" lesbians]". Reuters. March 13, 2009.&lt;/ref&gt; Research shows 86% of black lesbians from the [[Western Cape]] live in fear of sexual assault.&lt;ref&gt;"[http://www.guardian.co.uk/world/2009/mar/12/eudy-simelane-corrective-rape-south-africa Raped and killed for being a lesbian: South Africa ignores 'corrective' attacks]". The Guardian. March 12, 2009.&lt;/ref&gt;
+
+==Language discrimination==
+{{Main|Linguistic discrimination}}
+[[File:Protesto contra o sistema de cotas.jpg|thumb|right|160px|Students protesting against [[racial quota]]s in [[Brazil]]. The sign reads: "Want a vacancy? Pass the [[Vestibular]]!"]]
+Diversity of language is protected and respected by most nations who value cultural diversity. However, people are sometimes subjected to different treatment because their preferred language is associated with a particular group, class or category. Commonly, the preferred language is just another attribute of separate [[ethnic group]]s. Discrimination exists if there is prejudicial treatment against a person or a group of people who speak a particular language or dialect.
+Language discrimination is suggested to be labeled '''[[linguicism]]''' or '''logocism'''. Anti-discriminatory and inclusive efforts to accommodate persons who speak different languages or cannot have fluency in the country's predominant or "official" language, is [[bilingualism]] such as official documents in two languages, and [[multiculturalism]] in more than two languages.
+
+==Reverse discrimination==
+{{Main|Reverse discrimination}}
+
+Some attempts at antidiscrimination have been criticized as '''reverse discrimination'''. In particular, minority quotas (e.g. [[affirmative action]]) discriminate against members of a dominant or majority group. In its opposition to race preferences, the American Civil Rights Institute's [[Ward Connerly]] stated, "There is nothing positive, affirmative, or equal about 'affirmative action' programs that give preference to some groups based on race."&lt;ref&gt;[http://www.acri.org/pr_7_25_07.html American Civil Rights Institute | Press Release&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;  There are cases, however, such as the Noack v. YMCA case in U.S. Fifth Circuit Court, which include outright anti-male gender bias in a traditionally female work environment like childcare.  That former employee claims to have suffered even physical assaults, and was allegedly also told to not hire too many blacks or men.
+
+==Disability discrimination==
+{{Main|Disability discrimination}}
+
+Discrimination against people with disabilities in favor of people who are not is called [[ableism]] or [[disablism]]. Disability discrimination, which treats non-disabled individuals as the standard of ‘normal living’, results in public and private places and services, education, and social work that are built to serve 'standard' people, thereby excluding those with various disabilities.
+
+In the United States, the [[Americans with Disabilities Act]] provides guidelines for providing [[wheelchair]] access for public institutions.
+
+==Religious discrimination==
+{{Main|Religious discrimination}}
+
+==Theories==
+===Discrimination===
+[[Social theories]] such as [[Egalitarianism]] claim that [[social equality]] should prevail. In some societies, including most developed countries, each individual's civil rights include the right to be free from government sponsored social discrimination.&lt;ref&gt;{{cite web |url=http://www.weblocator.com/attorney/mn/law/concivrig.html#30 |title=Civil rights |accessdate=2006 }}
+&lt;/ref&gt;
+Due to a belief in the capacity to perceive pain and/or suffering shared by all animals, '[[abolitionist]]' or '[[vegan]]' egalitarianism maintains that the interests of every individual (regardless its species), warrant [[equal consideration of interests|equal consideration]] with the interests of humans, and that not doing so is "[[speciesism|speciesist]]".&lt;ref name="singerethics-sentience"&gt;{{cite book |title=[[Practical Ethics]] |last=Singer |first=Peter |authorlink=Peter Singer |origyear=1993 |year=1999 |publisher=[[Cambridge University Press]] |location=Cambridge |isbn=0-521-43971-X |edition=Second |pages=57&amp;ndash;58 |chapter=Equality for Animals? |quote=If a being suffers, there can be no moral justification for refusing to take that suffering into consideration. &amp;hellip; This is why the limit of sentience&amp;hellip;is the only defensible boundary of concern for the interests of others. &amp;hellip; Similarly those I would call 'speciesists' give greater weight to their own species when there is a clash between their interests and the interests of those of other species. }}&lt;/ref&gt;
+
+===Conservative and Anarcho-Capitalist===
+In contrast, [[conservatism|conservative]] writer and law professor [[Matthias Storme]] has claimed that the freedom of discrimination in human societies is a fundamental human right, or more precisely, the basis of all fundamental freedoms and therefore the most fundamental freedom. Author [[Hans-Hermann Hoppe]], in an essay&lt;ref&gt;[http://www.lewrockwell.com/hoppe/hoppe4.html Lewrockwell.com], {{cite web |last=Hoppe |first=Hans-Hermann |year=2001 |url=http://www.lewrockwell.com/hoppe/hoppe4.html |title=Democracy: The God That Failed |accessdate=2006 }}&lt;/ref&gt; about his book [[Democracy: The God That Failed]], asserts that a natural social order is characterized by increased discrimination.
+
+===Labeling theory===
+Discrimination, in [[labeling theory]], takes form as mental categorisation of minorities and the use of [[stereotype]]. This theory describes difference as deviance from the norm, which results in internal devaluation and social stigma&lt;ref&gt;{{Cite book| last=Slattery| first=M. | year=2002 | title=Key Ideas in Sociology | publisher=Nelson Thornes| isbn=978-0748765652 | p=134-137}}&lt;/ref&gt; that may be seen as discrimination. It is started by describing a 'natural' social order. It is distinguished between the fundamental principle of fascism and social democracy. The [[Nazis]] in 1930's-era Germany, the pre-1990 [[Apartheid]] government of South Africa used racial discriminatory agendas for their political ends. This practice continues with some present day governments.
+
+==Stereotypes and Scapegoats==
+'''Stereotyping''' is a type of '''discrimination'''. When a person is stereotyping they are thinking in terms of inflexible categories, and is linked to the psychological mechanism called displacement. Displacement is when one feels feelings of hostility or anger toward objects that are not the origin of those feelings. Many people blame scapegoats for problems that are not their fault. This is common when two deprived ethnic groups compete with one another for economic rewards. This is normally directed against groups that are relatively powerless, because they make an easy target. It frequently involves projection, which is the unconscious attribution to the others of ones own desires or characteristics.&lt;ref&gt;Introduction to sociology. 7th ed. New York: W.W. Norton &amp; Company Inc, 2009. Page 324. Print.&lt;/ref&gt;
+
+==See also==
+{{multicol}}
+* [[Ableism]]
+* [[Adultism]]
+* [[Affirmative action]]
+* [[Ageism]]
+* [[Allport's scale]]
+* [[Anti-discrimination law]]
+* [[Apartheid]]
+* [[Colorism]]
+{{multicol-break}}
+* [[Egalitarianism]]
+* [[Equal opportunity]]
+* [[Equal rights]]
+* [[Genetic discrimination]]
+* [[Genocide]]
+* [[Heightism]]
+* [[Homophobia]]
+* [[Institutionalized discrimination]]
+{{multicol-break}}
+* [[Microaggression]]
+* [[Persecution]]
+* [[California Proposition 8 (2008)]]
+* [[Racial segregation]]
+* [[Racism]]
+* [[Reverse discrimination]]
+* [[Second-class citizen]]
+* [[Sexism]]
+* [[State racism]]
+{{multicol-break}}
+{{Portal box|Discrimination|Sociology}}
+{{multicol-end}}
+
+==References==
+&lt;references /&gt;
+&lt;!--See Richey, Warren. "Affirmative Action's Evolution." The CS Monitor. Staff Writer of the Christian Science Montior, 2003. 3 May 2007 &lt;http://www.csmonitor.com/2003/0328/p01s01-usju.html&gt;. --&gt;
+* [http://topics.law.cornell.edu/wex/employment_discrimination Topics.law.cornell.edu]
+* [http://archive.eeoc.gov/stats/litigation.html Archive.eeoc.gov]
+* ''Introduction to Sociology.'' New York: W. W. Norton &amp; Company, 2009. Print.
+
+==External links==
+* Legal definitions
+** [http://www.hreoc.gov.au/legal/index.html Australia]
+** [http://www.chrc-ccdp.ca/legislation_policies/human_rights_act-en.asp Canada]
+** [http://www.departments.bucknell.edu/russian/const/ch2.html Russia]
+** [http://www.eeoc.gov/facts/qanda.html US]
+* [http://www.finduslaw.com/taxonomy_menu/12/23 Employment Discrimination Laws in the United States]
+* [http://eur-lex.europa.eu/en/dossier/dossier_23.htm Discrimination Laws in Europe ]
+* [http://ssrn.com/abstract=1594425 Behavioral Biology and Racism]
+* [http://www.antiracismandhate.com Anti-Racism and Hate]
+* http://www.agediscrimination.info - Resource on international and UK age discrimination law, news, cases and statistics
+
+{{Discrimination}}
+
+[[Category:Discrimination| ]]
+
+[[ar:تمييز]]
+[[bg:Дискриминация]]
+[[ca:Discriminació]]
+[[cs:Diskriminace]]
+[[da:Diskrimination]]
+[[de:Diskriminierung]]
+[[es:Discriminación]]
+[[eo:Diskriminacio]]
+[[fa:تبعیض]]
+[[fr:Discrimination]]
+[[ko:차별]]
+[[hr:Diskriminacija]]
+[[id:Diskriminasi]]
+[[it:Discriminazione]]
+[[he:אפליה]]
+[[ka:დისკრიმინაცია]]
+[[la:Discriminatio]]
+[[lv:Diskriminācija]]
+[[lt:Diskriminacija]]
+[[hu:Diszkrimináció]]
+[[mk:Дискриминација]]
+[[ms:Diskriminasi]]
+[[nl:Discriminatie]]
+[[ja:差別]]
+[[pl:Dyskryminacja (psychologia społeczna)]]
+[[pt:Discriminação]]
+[[ro:Discriminare]]
+[[rmy:Diskriminaciya]]
+[[ru:Дискриминация]]
+[[simple:Discrimination]]
+[[sk:Diskriminácia (znevýhodňovanie)]]
+[[sl:Diskriminacija]]
+[[sr:Дискриминација]]
+[[sh:Diskriminacija]]
+[[fi:Syrjintä]]
+[[sv:Diskriminering]]
+[[tr:Ayrımcılık]]
+[[uk:Дискримінація]]
+[[ur:امتیاز]]
+[[vi:Phân biệt đối xử]]
+[[vls:Discriminoatie]]
+[[yi:דיסקרימינאציע]]
+[[zh:歧視]]</rev></revisions></page></pages></query></api>

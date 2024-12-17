@@ -1,0 +1,11 @@
+<?xml version="1.0"?><api><continue rvcontinue="20021017142044|364462" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="66935" pageid="66935" ns="0" title="Queer"><revisions><rev timestamp="2002-10-17T15:56:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Queer''' is an inclusive term for people of an unorthodox sexual orientation or gender identity, such as [[gay]] men, [[lesbian]]s, [[bisexual]]s, and [[transgender]]ed people. In this usage, it is usually a synonym of such terms as LGBT or [[lesbigay]]. Often, it carries the connotatian of being oppressed merely for being who they are.
+
+The term is often uppercased when referring to an identity or community, rather than merely a sexual fact (compare the capitalized use of [[Deaf]]).
+
+Historically, the term was an epithet for gay men, bordering on [[profanity]]. Since the term originated as a [[homophobia|homophobic]] slur, many members of sexual minorities do not favour its use. On the other hand, many people identify primarily as Queer rather than gay, lesbian, bisexual, or transgendered.
+
+The term first attained common usage during the [[1980s]], when it was popularized by the activist group [[Queer Nation]].
+
+[[Queer studies]] as an academic discipline is now established at many universities. Like some branches of [[feminism]], scholars in Queer theory tend to view prostitition, pornography and [[BDSM]] as legitimate and valuable expressions of human sexuality; this places them in conflict with other branches of feminism that view them as mechanisms for the oppression of women.
+
+See also [[Queer culture]], [[taboo]], [[profanity]], [[hate speech]].</rev></revisions></page></pages></query></api>

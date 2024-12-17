@@ -1,0 +1,8 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030507233508|1215259" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="34141" pageid="34141" ns="0" title="Xenophobia"><revisions><rev timestamp="2003-07-29T21:18:52Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">[[nl:xenofobie]]
+# [[Fear]] ([[phobia]]) of strangers (xeno-) and of the unknown.  Both [[racism]] and [[homophobia]] are sometimes reduced to xenophobia
+# Dislike of foreigners. Often a dislike of representatives of a particular [[nation]].
+#The word '''Xenophobic''' is often used as a political insult against [[Racist]]s, [[Isolationist]]s, and [[Nationalist]]s.
+
+See also: [[anti-Semitism]]
+
+[[pl:Ksenofobia]]</rev></revisions></page></pages></query></api>

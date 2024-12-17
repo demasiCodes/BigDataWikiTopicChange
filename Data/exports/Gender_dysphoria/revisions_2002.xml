@@ -1,0 +1,15 @@
+<?xml version="1.0"?><api><continue rvcontinue="20021026043257|385563" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="43097" pageid="43097" ns="0" title="Gender dysphoria"><revisions><rev timestamp="2002-10-26T04:33:12Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Gender identity disorder''' as identified by some [[psychologist]]s and [[medical doctor]]s is a condition where a person who is one biological [[sex]] identifies herself/himself with the other sex - i.e. belongs to the other [[gender]]. This feeling can arise in adolescence or even early childhood, and can result in severe identity crises.
+
+A lot of [[transgender|transgendered people]] (i.e. people, who feel that they are "in the wrong body") as well as their political lobby organisations do not see this as a disorder. See there for more information about changing ones gender identity. The term [[transsexual]] often means that a person changed their physical appearance on a bodily level. The procedure for this is called [[genital reassignment surgery]] (commonly also known as "sex-change operation"). People who can't be identified as either male or female are known as [[intersexual]]s.
+
+Whereas lobby organisations see the occurrence of transgendering as evidence for [[deconstructionism|deconstructing]] gender, the official politics in many states still interprets this in terms of disorder, which has to be cured. This is true for children born with indefinite sexual organs as well as for legal and physical gender change.
+
+Some doctors recommend that children, particularly boys, with this disorder be given therapy to adjust to a so-called normal sex role, i.e., boys who feel like girls can be helped to adjust to so-called normal [[masculinity]]. George Rekers describes this treatment [http://www.leaderu.com/jhs/rekers.html here]. The question of the existence of a normal masculinity is examined and often rejected by modern [[gender studies]].
+
+See: 
+* [[transsexuality]]
+
+== External links ==
+* ''[http://www.leaderu.com/jhs/rekers.html Gender Identity Disorder]'' - by George A. Rekers, Ph.D.
+* ''[http://www.hbigda.org/soc.html Standards of Care for Gender Identity Disorders]'' - The Harry Benjamin International Gender Dysphoria Association
+* [http://transsexual.org/ transsexual.org - a page about all aspects of 'gender dysphoria']</rev></revisions></page></pages></query></api>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?><api><continue rvcontinue="20060906012720|74050650" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1840508" pageid="1840508" ns="0" title="Prisoner abuse"><revisions><rev timestamp="2006-09-29T13:26:33Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{CriminTheo}}{{abuse}}
+
+{{POV-check}}
+
+'''Prisoner abuse''' is the mistreatment of persons while they are under arrest or incarcerated.
+Abuse falling into this category includes:
+* Physical abuse: Needless beating, hitting, or other [[Corporal punishment]].
+* Psychological abuse: Taunting, sleep depravation, or other forms of [[Psychological abuse]].
+* Sexual abuse: Forced intercourse, genital mutilation, or other forms of [[Sexual abuse]].
+* Other abuse: Refusal of essential medication, humiliation, etc.
+* [[Torture]]: any act by which severe pain, whether physical or [[Psychology|psychological]], is intentionally inflicted
+
+==Allegations of prisoner abuse by the U.S. military==
+
+Abuse of prisoners is considered a crime in the [[United States]] [[Uniform Code of Military Justice]].
+
+Allegations have been made that U.S. or [[Multinational force in Iraq|Coalition]] guards routinely abused prisoners at the [[Abu Ghraib prison]] - even [[torture]]d them.
+
+Regarding prisoners held at the [[Guantanamo Bay detainment camp|Guantanamo Bay]], Rep. Duncan Hunter, chairman of the House Armed Services Committee, has shown food that is similar to what is served there, "purchased for them by American taxpayers" - in order to dispel allegations that the prisoners had been abused or tortured.
+
+According to Hunter, "They've never eaten better. They've never been treated better. We don't beat them. We don't touch them. We've been treating people well." [http://ap.washingtontimes.com/dynamic/stories/C/CONGRESS_GUANTANAMO?SITE=DCTMS&amp;SECTION=HOME]
+
+== External links ==
+* [http://tortureprotest.org/atrocities/guantanamo_bay Details of prisoner abuse] at [[Guantanamo Bay detainment camp|Guantanamo Bay]]
+* [http://tortureprotest.org/blog/?permalink=18 United States Military Redefines Torture]
+
+[[Category:Penology]]</rev></revisions></page></pages></query></api>

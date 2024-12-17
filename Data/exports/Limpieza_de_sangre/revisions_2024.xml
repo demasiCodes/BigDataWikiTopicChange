@@ -1,0 +1,170 @@
+<?xml version="1.0"?><api><continue rvcontinue="20241025103550|1253316145" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1530922" pageid="1530922" ns="0" title="Limpieza de sangre"><revisions><rev timestamp="2024-11-01T14:39:35Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Short description|Racially discriminatory term}}
+{{Italic title}}
+{{Use dmy dates|date=March 2020}}
+
+{{Expand Spanish}}
+{{Discrimination sidebar}}
+{{lang|es|'''Limpieza de sangre'''}} ({{IPA|es|limˈpjeθa ðe ˈsaŋɡɾe|lang}}), also known as {{lang|pt|'''limpeza de sangue'''}} ({{IPA|pt|lĩˈpezɐ ðɨ ˈsɐ̃ɡɨ|lang}}, {{IPA|gl|limˈpeθɐ ðɪ ˈsaŋɡɪ|lang}}) or {{lang|ca|'''neteja de sang'''}} ({{IPA|ca|nəˈtɛʒə ðə ˈsaŋ|lang}}), literally 'cleanliness of blood' and meaning 'blood purity', was a [[Racial discrimination|racially discriminatory]] term used in the [[Spanish Empire|Spanish]] and [[Portuguese Empire]]s during the [[early modern period]] to refer to those who were considered to be [[Old Christian]]s by virtue of not having [[Muslims|Muslim]], [[Jews|Jewish]], [[Gitanos|Romani]], or [[Cagot|Agote]] ancestors.&lt;ref&gt;{{cite thesis |last=Llinares |first=Lidia Montesinos |date=2013 |title=IRALIKU'K: La confrontación de los comunales: Etnografía e historia de las relaciones de propiedad en Goizueta |language=es |trans-title=IRALIKU'K: The confrontation of the communal: Ethnography and history of property relations in Goizueta |type=MA |page=81}}&lt;/ref&gt; In both empires, the term played a major role in discrimination against suspected [[Crypto-Judaism|crypto-Jews]] or [[Crypto-Islam|crypto-Muslims]]. Over the years it manifested into law which excluded [[New Christian]]s from almost every part of society.
+
+== After the ''Reconquista'' ==
+By the end of the [[Reconquista|Christian reconquest]] of Iberia and the forced conversion or expulsion of Muslim [[mudéjar]]s and [[Sephardi Jews]] in Spain, the populations of [[Portugal]] and [[Spain]] were all nominally Christian. Spain's population of 7 million included up to a million recent converts from Islam and 200,000 converts from Judaism, who were collectively referred to as "[[New Christian]]s". Converts from Judaism were referred to as {{lang|es|[[converso]]s}} or {{lang|es|[[Marranos]]}} and converts from Islam were known as [[Morisco]]s. A commonly leveled accusation was that the [[New Christians]] were false converts, secretly practicing their former religion as [[Crypto-Judaism|Crypto-Jews]] or [[Crypto-Islam|Crypto-Muslims]]. After the Expulsion of the Jews in March 1492, with the [[Alhambra Decree]], the charge of insincere conversion against Jews brought before the [[Spanish Inquisition]] only grew. 
+
+The concept of purity of blood came to be focused more on ancestry and "blood" (lineage), rather than on personal religion and beliefs.
+
+=== The ''Limpieza de Sangre'' statutes ===
+The first statute of purity of blood was enacted in [[Toledo, Spain]] in 1449 by Governor Pedro Sermiento following the [[Converso riots]].&lt;ref name="Chami"&gt;{{cite web |url=http://pachami.com/Inquisicion/LimpiezaSangre.html |title=Estatutos de Limpieza de Sangre |language=es |trans-title=Statutes of Cleanliness of Blood |first=Pablo A. |last=Chami |archive-url=https://web.archive.org/web/20230320155548/http://pachami.com/Inquisicion/LimpiezaSangre.html |archive-date=20 March 2023}}&lt;/ref&gt; This text stated that all Conversos or individuals whose parents or grandparents had converted to Christianity may not hold public or private office and cannot testify in a court of law. Although this was not an official law, many institutions in Toledo started to enforce the practice of blood purity tests and set the precedent on what it meant to be a true Christian. Initially, these statutes were condemned by the monarchy and the Church; however, in 1496, [[Pope Alexander VI]] approved a purity statute for the [[Hieronymites]].&lt;ref name="Chami"/&gt;
+
+This stratification meant that the Old Christian [[commoner]]s might assert a right to [[honor]] even if they were not in the [[nobility]]. The religious and [[Military order (monastic society)|military order]]s, [[guild]]s and other organizations incorporated in their [[by-law]]s clauses demanding proof of cleanliness of blood. Upwardly mobile New Christian families had to either contend with discrimination, or bribe officials and falsify documents attesting to generations of Christian ancestry.&lt;ref&gt;{{cite book |first=Maria Elena |last=Martínrez |title=Genealogical Fictions: Limpieza de sangre, religion, and gender in colonial Mexico |location=Stanford, California |publisher=[[Stanford University Press]] |date=2008}}&lt;/ref&gt;{{pn|date=November 2024}}
+
+The claim to universal {{lang|es|[[hidalgo (nobility)|hidalguía]]}} (lowest nobility) of the [[Basques]] was justified by intellectuals such as Manuel Larramendi (1690–1766).&lt;ref name="Larramendi"&gt;[[Manuel de Larramendi]], ''Corografía de la muy noble y muy leal provincia de Guipúzcoa'', Bilbao, 1986, facsimile edition of that from Editorial Ekin, Buenos Aires, 1950. (Also published by Tellechea Idígoras, San Sebastián, 1969.) Quoted in ''[http://www.uv.es/rseapv/Anales/97_98/A_117_139_La_idea_de_Espanya.pdf La idea de España entre los vascos de la Edad Moderna]'', by Jon Arrieta Alberdi, ''Anales 1997-1998'', Real Sociedad Económica Valenciana de Amigos del País.&lt;/ref&gt; Because the [[Muslim conquest of Spain|Umayyad conquest of Hispania]] had not reached the Basque territories, it was believed that Basques had maintained their original purity, while the rest of Spain was suspect of [[miscegenation]]. The universal hidalguía of Basques helped many of them to positions of power in the administration.&lt;ref name="Auñamendi"&gt;{{cite encyclopedia |url=http://www.euskomedia.org/aunamendi/100471 |title=Limpieza de sangre |language=es |encyclopaedia=[[Auñamendi Encyclopedia]] |archive-url=https://web.archive.org/web/20221014010431/https://aunamendi.eusko-ikaskuntza.eus/artikuluak/artikulua.php?id=eu&amp;ar=100471 |archive-date=14 October 2022}}&lt;/ref&gt; This idea was reinforced by the fact that, as a result of the Reconquista, numerous Spanish noble lineages were already of Basque origin.&lt;ref&gt;{{cite book |last=Aranzadi |first=Juan |url=https://books.google.com/books?id=D9C_ZQawvZkC&amp;pg=PT508 |title=Milenarismo vasco: Edad de Oro, etnia y nativismo |language=es |trans-title=Basque millenarianism: Golden Age, ethnicity and nativism |date=7 March 2012 |publisher=Penguin Random House Grupo Editorial España |isbn=978-84-306-1581-0 |pages=508–509}}&lt;/ref&gt;
+
+By the sixteenth century, the {{lang|es|limpieza de sangre}} statutes coalesced to become a systematic effort to exclude conversos from offices in Church and state. They multiplied rapidly due to strong support by cathedral chapters and the {{lang|es|colegios mayores}} (senior colleges), a type of fraternity which included scholarships, tutorial services, and in some cases even chairs within the university structure. This hyper-focus on the purity of blood among individuals with any level of power promoted the elite and exclusive nature of these positions, which were also imbued in and promoted by the letrado bureaucracy, professional civil servants usually with degrees in law as well as churchmen formed a large majority of the Spanish civil service in the sixteenth century. Access to these elite positions was then passed down from generation to generation of graduates from these universities, thus perpetuating an anti-converso mindset.&lt;ref name=":0"&gt;{{Cite journal |last=Poole |first=Stafford |date=January 1999 |title=The Politics of ''Limpieza de Sangre:'' Juan de Ovando and his Circle in the Reign of Philip II |url=http://dx.doi.org/10.2307/1007647 |journal=The Americas |volume=55 |issue=3 |pages=359–389 |doi=10.2307/1007647 |jstor=1007647 |pmid=19743565 |s2cid=30508838 |issn=0003-1615}}&lt;/ref&gt;
+
+One example of how {{lang|es|limpieza de sangre}} laws were applied is found in a legal brief composed on behalf of Pedro Francisco Molines concerning his betrothal to Maria Aguiló. This brief argues that he cannot, should not, and will not, marry Maria. It claims that Maria is not of "pure blood," and because of this Pedro has no legal obligation to marry her, and can refuse to do so as not to dirty his clean blood, "being that the aforementioned Aguiló has proven to be the descendant of Jews, and these being disgraced, by said infamy, even if they had been engaged, said Molines should not marry her; because he is of clean blood…"&lt;ref name=":1"&gt;{{Cite web |last=Mayeaux |first=Stephen |date=10 September 2021 |title=Limpieza de Sangre: Legal Applications of the Spanish Doctrine of "Blood Purity" {{!}} In Custodia Legis: Law Librarians of Congress |url=https://blogs.loc.gov/law/2021/09/limpieza-de-sangre-legal-applications-of-the-spanish-doctrine-of-blood-purity/ |access-date=1 October 2022 |website=blogs.loc.gov |archive-url=https://web.archive.org/web/20240601050537/https://blogs.loc.gov/law/2021/09/limpieza-de-sangre-legal-applications-of-the-spanish-doctrine-of-blood-purity/ |archive-date=1 June 2024}}&lt;/ref&gt; This insistence of the purity of blood not only squelched many familial lines that were established over centuries but also prevented many upward-moving Spaniards of "dirty lineage" from establishing themselves and their families in the socio-economic system of the times. These families were thus pushed to the sidelines of society due to a perceived impurity. This cultivated a connection between ancestry and impurity, values that would consolidate into racism as we understand it today, which was only beginning to form at this time. The last page of the brief also notes that the judge has the right even to imprison Pedro until he finds a more suitable woman of "pure blood" to marry. The brief then closes with the signatures of 15 men agreeing with the clauses and arguments found in it. Many of the signatories are either friars or scholars of canon law, which demonstrates the staunch religious support the {{lang|es|limpieza de sangre}} statutes found.&lt;ref name=":1" /&gt;
+
+These statutes were closely related to the [[Spanish Inquisition]]. Together they formed a system that bred fear and encouraged hostile witnesses and even perjury, a system under which the discovery of an ancestor with Jewish blood could result in a person's entire familial line losing everything. This practice set the foundations of "race"-based [[antisemitism]].&lt;ref&gt;{{Cite journal |last=Williams |first=Patrick |date=July 1990 |title=A Jewish Councillor of Inquisition? Luis de Mercado, the Statutes of limpieza de sangre and the Politics of Vendetta (1598–1601) |url=https://www.tandfonline.com/doi/full/10.1080/1475382902000367253 |journal=[[Bulletin of Hispanic Studies]] |language=en |volume=67 |issue=3 |pages=253–264 |doi=10.1080/1475382902000367253 |issn=0007-490X}}&lt;/ref&gt;
+
+The {{lang|es|limpieza de sangre}} statutes were not without their dissenters, however, as they potentially challenged the social status of every segment of the population, including {{lang|es|conversos}} and {{lang|es|moriscos}}, the aristocracy who stood to lose standing, the agricultural workers who farmed their lands, and Catholic reformers who saw it as a challenge to the efficacy of baptism and a perversion of Christ’s [[Millennialism]]. While these statutes were broadly supported by the highest echelons of power, some of the Spanish population was not in favor of legislated segregation by blood.&lt;ref&gt;{{Cite thesis |last=Burk |first=Rachel |date=22 December 2010 |title=Salus Erat in Sanguine: Limpieza De Sangre and Other Discourses of Blood in Early Modern Spain |url=https://repository.upenn.edu/edissertations/1550 |journal=Publicly Accessible Penn Dissertations |archive-url=https://web.archive.org/web/20230603104229/https://repository.upenn.edu/edissertations/1550/ |archive-date=3 June 2023}}&lt;/ref&gt; Many religious leaders condemned the laws, such as [[Pope Nicholas V]] in 1451, [[Lope de Barrientos|the Bishop of Cuenca]] after the initial laws in 1449, [[Alfonso Carrillo de Acuña|Archbishop Carrillo]] of Toledo, [[Pope Paul IV]] of Rome, and many others. However, there were just as many voices who supported the statutes.
+
+=== Testing and eventual decline ===
+By 1530, tribunals of the Inquisition were urged to make registers of genealogies for each town. Every married man had to submit their genealogies which registered them and their family as Old Christian or New Christian, as pure or impure. If one could not submit proof of a pure bloodline or there was suspicion that the individual was lying, investigations and trials would begin.
+
+Tests of {{lang|es|limpieza de sangre}} had begun to lose their utility by the 18th century; by then only rarely did persons have to endure the gruelling inquisitions into distant parentage through birth records. However, laws requiring {{lang|es|limpieza de sangre}} were sometimes maintained even into the 19th century. For example, an edict of 8 March 1804 by King [[Ferdinand VII of Spain|Ferdinand VII]] resolved that no knight of the military orders might wed without having a council vouch for the {{lang|es|limpieza de sangre}} of his spouse.&lt;ref&gt;Codigos Españoles Tome X. p. 225&lt;/ref&gt;
+
+Official suppression of such entry requirements for the Army was enacted into law on 16 May 1865,&lt;ref&gt;''Colección Legislativa de España'' (1870), p. 364&lt;/ref&gt; and extended to naval appointments on 31 August of the same year. On 5 November 1865, a decree allowed children born out of wedlock, for whom ancestry could not be verified, to be able to enter into religious higher education (canons).&lt;ref&gt;''Colección Legislativa de España'' (1870), p. 365&lt;/ref&gt; On 26 October 1866, the test of blood purity was outlawed for the purposes of determining who might be admitted to college education. On 20 March 1870, a decree suppressed all use of blood purity standards in determining eligibility for any government position or any licensed profession.&lt;ref&gt;''Colección Legislativa de España'' (1870), p. 366&lt;/ref&gt;
+
+The belief among Basque intellectuals of the 19th century that the "[[Basques|Basque race]]" was free of foreign miscegenation became one of the bases of the racism in [[Sabino Arana]]'s [[Basque nationalism]].&lt;ref name="Polo"&gt;{{cite journal |last1=Polo Blanco |first1=Jorge |title=Sabino Arana no partió de cero. Mitos, leyendas y fantasías en las fuentes ideológicas del nacionalismo vasco |journal=El Futuro del Pasado |date=30 March 2022 |volume=13 |pages=505–541 |doi=10.14201/fdp.27286 |url=https://dialnet.unirioja.es/descarga/articulo/8436522.pdf |access-date=8 October 2024 |trans-title=Sabino Arana did not start from scratch. Myths, legends and fantasies in the ideological sources of Basque nationalism |language=es |issn=1989-9289}}&lt;/ref&gt;
+
+The discrimination was still present into the 20th century in some places such as Majorca, where no [[Xueta]] (descendants of the Majorcan conversos) priests were allowed to say Mass in a cathedral until the 1960s.&lt;ref name="JPerez"&gt;{{cite book |title=Los judíos en España |language=es |trans-title=The Jews in Spain |first=Joseph |last=Pérez |author-link=Joseph Pérez |publisher=Marcial Pons |location=Madrid |date=2005 |page=}}&lt;/ref&gt;{{pn|date=July 2024}}
+During the [[Spanish Civil War]], [[Italian occupation of Majorca|Majorca was ruled by Fascist Italy]] in alliance with the Spanish [[Nationalist (Spanish Civil War)|Nationalist]] side.
+Nazi authorities requested lists of persons with Jewish ancestry, planning to deport them to camps as [[The Holocaust in France|in France]] and [[The Holocaust in Italy|Italy]] but the intervention of the [[bishop of Majorca]] [[Josep Miralles]] blocked their delivery.
+The mixing of German and [[Corpo Truppe Volontarie|Italian troops]] with locals led some Palma women intending to marry foreign soldiers to obtain from the mayor [[Mateo Zaforteza Musoles]] certificates of not having Jewish ancestry.&lt;ref name="Ballesteros"&gt;{{cite web |last1=Ballesteros |first1=Esther |title=Las mujeres españolas que certificaron su "pureza aria" para casarse con nazis |trans-title=Spanish women who certified their "Aryan purity" to marry Nazis |url=https://www.eldiario.es/illes-balears/sociedad/mujeres-espanolas-certificaron-pureza-aria-casarse-nazis_1_9591626.html |website=elDiario.es |access-date=25 October 2024 |language=es-ES |date=12 October 2022}}&lt;/ref&gt;
+Although all laws were suspended in end of the 19th century, the laws set a precedent which allowed for a new form of religious discrimination based on blood.
+
+==== Procedure to judge purity of blood ====
+The earliest known case judging {{lang|es|limpieza de sangre}} comes from the Church of Cordoba, that explained the procedure to judge the purity of blood of candidates as follows: kneeling, with right hand placed over the image of a crucifix on a Bible, the candidates confirmed themselves as being of neither Jewish or Moorish extraction. The process of investigation is as follows: commissioners and secretaries with notaries would be sent to the tribunals that the individual under investigation claimed to originated from. They would then gather eight to twelve elders from the tribunal as witnesses and have them testify. The information would then be sent back while the individual awaited trial.&lt;ref&gt;See {{cite book |last=Lea |first=Henry Charles |title=A History of the Inquisition of Spain |volume=II |location=London |publisher=Macmillan Company |date=1906 |chapter=8}}&lt;/ref&gt; Having collected all the reports, the secretary or the notary had to read them all to the council, and a simple majority vote would decide whether the candidate was approved; after approval the candidate had to promise to obey all the laws and customs of the Church. If they were identified by the court as of Jewish descent, the individual and their children would be socially outcast and labeled impure&lt;ref&gt;{{cite book |title=Los estatutos de Limpieza de Sangre |language=es |trans-title=The statutes of Purity of Blood |last=Sicroff |first=Albert A. |author-link=Albert A. Sicroff |translator-first=Mauro |translator-last=Armiño |page=121 |publisher=Tauros |date=1985}}&lt;/ref&gt; The man from the Church of Cordoba was able to prove his ancestry was free of Jewish or Muslim blood.
+
+==Spanish colonies==
+{{See also|Casta}}
+The concept of {{lang|es|limpieza de sangre}} was a significant barrier for many Spaniards to emigrate to the Americas, since some form of proof of not having recent Muslim or Jewish ancestors was required to emigrate to the [[Spanish Empire]]. However, within Spain's overseas territories the concept evolved to be linked with racial purity for both Spaniards and indigenous.{{sfn|Martinez|2008|p=270}} Proofs of racial purity were required in a variety of circumstances in both Spain and its overseas territories. Candidates for office and their spouses had to obtain a certificate of purity that proved that they had no Jewish or Muslim ancestors and in New Spain, proof of whiteness and absence of any in the lineage who had engaged in work with their hands.{{sfn|Martinez|2008|p=273}}
+
+Additionally, as early as the sixteenth century, shortly after the Spanish colonization of the Americas was initiated, several regulations were enacted in the [[Laws of the Indies]] to prevent Jews and Muslims and their descendants from emigrating to and settling in the overseas colonies.&lt;ref&gt;{{cite encyclopedia |first=Maria Elena |last=Martínez |title=Limpieza de Sangre |encyclopedia=Encyclopedia of Mexico |volume=1 |page=751 |location=Chicago |publisher=Fitzroy Dearborn |date=1997}}&lt;/ref&gt; There was a thriving business in creating false documentation to allow conversos to emigrate to Spain's overseas territories.&lt;ref&gt;{{cite encyclopedia |first=Alicia |last=Gojman de Backal |title=Conversos |encyclopedia=Encyclopedia of Mexico |location=Chicago |publisher=Fitzroy Dearborn |date=1997 |volume=1 |page=341}}&lt;/ref&gt; The provisions banning emigration were repeatedly stressed in later editions of the Laws, which provides an indication that the regulations were often ignored,&lt;ref&gt;{{cite book |title=Encyclopedia of the Jewish diaspora: origins, experiences, and culture |url=https://archive.org/details/encyclopediajewi00ehrl |url-access=limited |publisher=[[ABC-CLIO]] |last=Avrum Ehrlich |first=Mark |year=2009 |page=[https://archive.org/details/encyclopediajewi00ehrl/page/n721 689] |isbn=978-1-85109-873-6}}&lt;/ref&gt; most likely because colonial authorities at the time looked the other way as the skills of those immigrants were badly needed. During the period when Portugal and Spain were ruled by the [[Iberian Union|same monarch]] (1580{{endash}}1640), Portuguese merchants, many of whom were [[Crypto-Judaism|crypto-Jews]], passing as Christians, became important members of the merchant communities in the viceregal capitals of Mexico City and Lima. When Portugal successfully revolted in 1640 from Spain, the Holy Office of the [[Inquisition]] in both capitals initiated intensive investigations to identify and prosecute crypto-Jews, resulting in spectacular [[auto-da-fé|autos-da-fé]] in the mid-seventeenth century.&lt;ref&gt;{{Cite book |last=Israel |first=Jonathan I. |title=Race, Class, and Politics in Colonial Mexico, 1610-1670 |publisher=[[Oxford University Press]] |year=1975 |pages=210–216, 245–246 |isbn=978-0-19-821860-9 |url=https://archive.org/details/raceclasspolitic0000isra}}&lt;/ref&gt;
+
+==Society of Jesus==
+[[Ignatius of Loyola]], the founder of the [[Jesuits]], said that "he would take it as a special grace from our Lord to come from Jewish lineage".&lt;ref&gt;{{cite journal |last=Reites |first=James W. |year=1981 |title=St. Ignatius of Loyola and the Jews |url=https://ejournals.bc.edu/ojs/index.php/jesuit/article/viewFile/3714/3292 |journal=Studies in the Spirituality of Jesuits |volume=13 |issue=4 |location=St. Louis, Missouri |publisher=American Assistancy Seminar on Jesuit Spirituality |issn=2328-5575 |access-date=18 June 2017 |page=17}}&lt;/ref&gt; In the first 30 years of the Society of Jesus, many Jesuits were {{lang|es|conversos}}. However, an anti-{{lang|es|converso}} faction led to the {{lang|es|Decree de genere}} (1593), which proclaimed that either Jewish or Muslim ancestry, no matter how distant, was an insurmountable impediment for admission to the Society of Jesus - effectively applying the Spanish principle of {{lang|es|Limpieza de sangre}} to Jesuits Europe-wide and world-wide.&lt;ref&gt;{{cite journal |last1=Rosa |first1=De La |last2=Coello |first2=Alexandre |url=http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=24437295 |title=El Estatuto de Limpieza de Sangre de la Compañía de Jesús (1593) y su influencia en el Perú Colonial |language=es |trans-title=The Statute of Purity of Blood of the Society of Jesus (1593) and its influence in Colonial Peru |journal=Archivum Historicum Societatis Iesu |pages=45–93 |publisher=Institutum Societatis Iesu |year=1932 |issn=0037-8887 |access-date=7 December 2012 |archive-url=https://web.archive.org/web/20141026074808/http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=24437295 |archive-date=26 October 2014 |url-status=dead}}&lt;/ref&gt;
+
+Aleksander Maryks interprets the 1593 decree as preventing, despite Ignatius's desires, any Jewish or Muslim ''Conversos'' and, by extension, any person with Jewish or Muslim ancestry, no matter how distant, from admission to the Society of Jesus. Jesuit scholar John Padberg states that the restriction on Jewish/Muslim converts was only limited to the degree of parentage. Fourteen years later, this restriction was extended back to the fifth degree. This 16th-century ''Decree de genere'' remained in force among the Jesuits far longer than it remained in force in the Spanish state, but over time, the restriction which was related to Muslim ancestry was dropped&lt;ref name="padberg"&gt;{{cite book |last=Padberg |first=John W. |year=1994 |title=For Matters of Greater Moment: The First Thirty Jesuit General Congregations |location=St. Louis, Missouri |publisher=Institute of Jesuit Sources |isbn=978-1-880810-06-4 |page=204}}&lt;/ref&gt; only leaving people of Jewish ancestry to be excluded. In 1923, the 27th Jesuit General Congregation reiterated, "The impediment of origin extends to all who are descended from the Jewish race, unless it is clear that their father, grandfather, and great grandfather have belonged to the Catholic Church." Only in 1946, in the aftermath of [[World War II]], did the 29th General Congregation drop the requirement, but it still called for "cautions to be exercised before admitting a candidate about whom there is some doubt as to the character of his hereditary background.&lt;ref name="padberg"/&gt;
+
+==See also==
+{{columns-list|
+* [[Afrophobia]]
+* [[Anti-Arab racism]]
+* [[Anti–Middle Eastern sentiment]]
+* [[Anti-miscegenation laws]]
+* [[Antisemitism]]
+* [[Antisemitism in Christianity]]
+* [[Antisemitism in Europe]]
+* [[Antisemitism in 21st century Germany]]
+* [[Aryan certificate]]
+* [[Nobility|Blue blood]]
+* [[Cagot]]
+* [[Casta]]
+* [[Caste]]
+* [[Converso]]
+* [[Crypto-Islam]]
+* [[Crypto-Judaism]]
+* [[Discrimination based on skin color]]
+* [[Geography of antisemitism]]
+* [[Hispanic and Latino (ethnic categories)]]
+* [[Hispanic eugenics]]
+* [[Hispanophobia]]
+* [[History of antisemitism]]
+* [[History of European Jews in the Middle Ages#Spain]]
+* [[History of the Jews in Europe]]
+* [[History of the Jews in Germany]]
+* [[History of the Jews in Portugal]]
+* [[History of the Jews in Spain]]
+* [[The Holocaust]]
+* [[Index of racism-related articles]]
+* [[Inquisition]]
+* [[Islam in Portugal]]
+* [[Islam in Spain]]
+* [[Islamophobia]]
+* [[Jewish history]]
+* [[Judaizers]]
+* [[Khazar hypothesis of Ashkenazi ancestry]]
+* [[Malinchism]]
+* [[Marrano]]
+* [[Morisco]]
+* [[Nazi eugenics]]
+* [[Nazi racial theories]]
+* [[Negrophobia]]
+* [[One-drop rule]]
+* [[Persecution of Jews]]
+* [[Persecution of Muslims]]
+* [[Philosemitism]]
+* [[Racial antisemitism]]
+* [[Racial discrimination]]
+* [[Racial hierarchy]]
+* [[Racial policy of Nazi Germany]]
+* [[Racial segregation]]
+* [[Racism in Europe]]
+* [[Racism in Germany]]
+* [[Racism in Portugal]]
+* [[Racism in South America]]
+* [[Racism in Spain]]
+* [[Religious antisemitism]]
+* [[Vaqueiros de alzada]]
+}}
+
+==References==
+{{Reflist}}
+
+===Cited sources===
+{{refbegin}}
+* {{cite book |last=Martinez |first=Maria Elena |title=Genealogical Fictions: Limpieza de Sangre, Religion, and Gender in Colonial Mexico |location=Stanford |publisher=[[Stanford University Press]] |date=2008}}
+{{refend}}
+
+==Further reading==
+{{div col|colwidth=30em}}
+*Alberro, Solange. ''Inquisición y sociedad en México, 1571-1700''. Mexico City: Fondo de Cultura Económica 1993.
+*Beinart, Haim. ''Conversos ante la inquisición''. Jerusalem: Hebrew University 1965.
+*Gitlitz, David. Secrecy and Deceit: The Religion of the Crypto-Jews, Albuquerque, NM: [[University of New Mexico Press]], 2002. {{ISBN|082632813X}}
+*Gojman Goldberg, Alicia. ''Los conversos en la Nueva España''. Mexico City: Enep-Acatlan, UNAM 1984.
+*Greenleaf, Richard E. ''The Mexican Inquisition in the Sixteenth Century''. Albuquerque: University of New Mexico Press 1969.
+*Hering Torres, Max S., et al., eds. ''Race and Blood in the Iberian World''. Berlin: Lit, 2012.
+* {{Cite book |last=Kamen |first=Henry |url=https://archive.org/details/spanishinquisiti00henr |title=The Spanish Inquisition : A Historical Revision |date=1998 |isbn=0-300-07522-7 |location=New Haven}}
+* {{Cite book |last=Kaplan |first=Gregory B. |title=Marginal Voices |publisher=Brill |year=2012 |isbn=9789004222588 |pages=19–41 |chapter=The Inception of Limpieza de Sangre (Purity of Blood) and its Impact in Medieval and Golden Age Spain |doi=10.1163/9789004222588_003 |chapter-url=https://doi.org/10.1163/9789004222588_003}}
+*Lafaye, Jacques. ''Cruzadas y Utopias: El judeocristianismo en las sociedades Ibéricas''. Mexico City: Fondo de Cultura Económica 1984.
+*[[John Tate Lanning|Lanning, John Tate]]. "Legitimacy and ''Limpieza de Sangre'' in the Practice of Medicine in the Spanish Empire." ''Jahrbuch für Geschicte 4 (1967)
+*Liebman, Seymour. ''Los Judíos en México y en América Central''. Mexico city: Siglo XXI 1971.
+*Roth, Norman, ''Conversos, Inquisition, and the Expulsion of the Jews from Spain'', Madison, WI: [[University of Wisconsin Press]], 1995. {{ISBN|0299142302}}
+*Seed, Patricia. ''To Love, Honor, and Obey in Colonial Mexico: Conflicts over Marriage Choices, 1574-1821''. Stanford: [[Stanford University Press]] 1988.
+{{div col end|2}}
+
+==External links==
+* [https://translate.google.com/translate?js=n&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;layout=2&amp;eotf=1&amp;sl=es&amp;tl=en&amp;u=http%3A%2F%2Fpachami.com%2FInquisicion%2FLimpiezaSanMartin.html&amp;act=url Attestment of the purity of blood] of [[Justo Rufino de San Martín]] (brother of [[José de San Martín|José]]) in [[Paredes de Nava]], 1794. Note - Google translation from Spanish to English.
+* Douglass, William A. (2004) ''Sabino's sin: racism and the founding of Basque nationalism'' in [[Daniele Conversi]] (ed.), ''[https://web.archive.org/web/20061213222925/http://easyweb.easynet.co.uk/conversi/ethnonat Ethnonationalism in the Contemporary World]''. London: Routledge, pp.&amp;nbsp;95–112.
+* {{cite book |year=1850 |title=''Códigos Españoles Concordados y Anotados'' Tomo Décimo |publisher=[[M. Rivadeneyra]] |location=Madrid |via=[[Google Books]] |url=https://books.google.com/books?id=MrgCAAAAYAAJ&amp;q=limpieza+de+Sangre&amp;pg=PA225}}
+* {{cite book |year=1870 |title=''Colección legislativa de España: Continuación de la colección de decretos (Primer Semestre de 1870)'' (Tomo CIII) |publisher=Ministerio de Gracia y Justicia.
+ |location=Madrid |via=Google Books |url=https://books.google.com/books?id=kMs2AAAAIAAJ&amp;q=Primer+Semestre+de+1870&amp;pg=RA3-PA1237}}
+{{Segregation by type}}{{Discrimination}}
+{{Authority control}}
+
+{{DEFAULTSORT:Limpieza De Sangre}}
+[[Category:Antisemitism in Mexico]]
+[[Category:Antisemitism in Portugal]]
+[[Category:Antisemitism in Spain]]
+[[Category:Islamophobia in Europe]]
+[[Category:Spanish Inquisition]]
+[[Category:Portuguese Inquisition]]
+[[Category:Racial antisemitism]]
+[[Category:Basque history]]
+[[Category:Racism in Spain]]
+[[Category:Moriscos]]
+[[Category:History of the conversos]]
+[[Category:Latin American caste system]]
+[[Category:History of racism]]
+[[Category:History of antisemitism]]
+[[Category:Anti-Islam sentiment in Spain]]
+[[Category:Anti-Islam sentiment in Portugal]]</rev></revisions></page></pages></query></api>

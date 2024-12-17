@@ -1,0 +1,68 @@
+<?xml version="1.0"?><api><continue rvcontinue="20161122052108|750911483" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1125781" pageid="1125781" ns="0" title="Voter suppression"><revisions><rev timestamp="2016-11-22T05:24:22Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{update|date=November 2016}}
+[[File:Voters at the voting booths in 1945.jpg|thumb|[[Voting|Voters]] at [[voting booth]]s in the United States in 1945]]
+[[File:Iraqi voters in Baghdad2.jpg|right|thumb|300px|Voters lining up outside a [[Baghdad]] polling station during the [[Iraqi legislative election, January 2005|2005 Iraqi election]]. Voter turnout was considered high despite widespread concerns of violence.]]
+
+== What is '''Voter Suppression'''? ==
+'''Voter suppression''' is a strategy to influence the outcome of an [[election]] by discouraging or preventing people from [[voting]]. It is distinguished from [[political campaigning]] in that campaigning attempts to change likely voting behavior by changing the opinions of potential voters through persuasion and organization. Voter suppression, instead, attempts to reduce the number of voters who might vote against a candidate or proposition.
+
+The tactics of voter suppression range from minor changes to make voting less convenient,  to physically intimidating prospective voters, which is illegal. Voter suppression can be effective if a significant amount of voters are intimidated or disenfranchised.&lt;ref name="Powers"&gt;{{cite news | last = Powers | first = Scott |author2=David Damron | title =Analysis: 201,000 in Florida didn't vote because of long lines | newspaper = [[Orlando Sentinel]] | location = [[Orlando, Florida]] | date = January 29, 2013 | url =http://articles.orlandosentinel.com/2013-01-29/business/os-voter-lines-statewide-20130118_1_long-lines-sentinel-analysis-state-ken-detzner | accessdate = 2016-02-26}}&lt;/ref&gt;
+
+==Examples==
+
+===Australia===
+In Australia, it is mandatory for citizens to enroll to vote and it is their responsibility to update their enrollment when they change their address. Even so, it is estimated that about 6% of eligible Australian voters are not enrolled, or are enrolled incorrectly. These are disproportionately younger voters, many of whom might neglect to enroll when they attain [[voting age]].
+
+In 2006, the [[Howard Government]] legislated to close the electoral roll much earlier once an election was called. While previously, voters had been allowed seven days of grace after an election had been called to arrange or update their enrollment, new voters were now allowed only until 8:00 pm on the day that the electoral [[Writ of election|writ]] was issued to lodge their enrollment form, while those who needed to update their addresses were allowed three days. In Australia, the [[Prime Minister of Australia|Prime Minister]] effectively has the right to determine the date of the election, so long as constitutional rules regarding the maximum term of the parliament are adhered to. This measure was therefore likely to result in many newer voters being precluded from voting in the first election for which they were eligible because the time to arrange their enrollment once an election is called had been greatly reduced.
+
+The measure was widely seen as an attempt at voter suppression aimed at younger voters,&lt;ref&gt;Orr, Graeme [http://inside.org.au/court-by-surprise-the-high-court-upholds-voting-rights/ "Court by surprise: the High Court upholds voting rights"], 6 August 2010.&lt;/ref&gt; who surveys had shown are more likely than the general population to vote for the then opposition, the [[Australian Labor Party]], or the [[Australian Greens|Greens]].&lt;ref&gt;Brooker, Ron [http://resources.news.com.au/files/2011/07/22/1226099/942923-aus-file-young-voters.pdf "Youth Federal Election Voting Intentions: A Statistical and Graphical Analysis of Newspoll Quarterly Data 1996–2010"], The Whitlam Institute, June 2011&lt;/ref&gt; The Government denied that they were trying to suppress some voters, insisting that the purpose of the reform was to smooth the administration of elections and to reduce the possibility of electoral fraud. This was in spite of the fact that the [[Australian Electoral Commission]] had requested no such reform, there was no evidence of significant electoral fraud and that the [[Australian Electoral Commission]] had been dealing with hundreds of thousands of late enrollments without significant problems for decades.
+
+In July 2010, the [[Left-wing politics|left-leaning]] lobby group [[GetUp!]] launched a challenge to this law. The [[High Court of Australia]] expedited the hearing so that a ruling could be made in time for the [[Australian federal election, 2010|2010 Federal Election]]. The majority ruling struck down early closing of the roll, reinstating the old rule allowing voters seven days grace to arrange or update their enrollment.
+
+Australian citizens of the ages 16 or 17 can enroll online&lt;ref&gt;[http://www.aec.gov.au/enrol/ enroll online]&lt;/ref&gt; so that when they turn 18 they are able to vote.
+
+=== Canada ===
+Shortly before the [[Canadian federal election, 2011|Canadian 2011 Federal Election]], vote suppression tactics were [[2011 Canadian federal election voter suppression scandal|exercised by issuing robocalls and live calls to notify voters]] that their polling station had changed. The locations offered by these messages were intentionally false, often to lead voters several hours from the correct stations, and often identified themselves illegally as coming from [[Elections Canada]].&lt;ref name="canconrobocall"&gt;{{cite news
+  | title =Robocalls complaints came 3 days before 2011 election
+  | publisher = CBC News
+  | date =2012-11-19
+  | url =http://www.cbc.ca/news/politics/story/2012/11/19/pol-elections-canada-emails-show-complaints-robocalls.html
+  | accessdate = 2012-11-19 }}&lt;/ref&gt;
+
+In litigation brought by [[The Council of Canadians]], a federal court found that such fraud had occurred and had probably been perpetrated by someone with access to the [[Conservative Party of Canada|Conservative Party]]'s voter database, including its information about voter preferences.&lt;ref name="MacCharles"&gt;{{cite news | last = MacCharles| first = Tonda| title = Robocalls: Widespread but ‘thinly scattered’ vote suppression didn’t affect election, judge rules| newspaper = [[Toronto Star]] | date = May 23, 2013 | url = http://www.thestar.com/news/canada/2013/05/23/robocalls_widespread_but_thinly_scattered_vote_suppression_didnt_affect_election_judge_rules.html | accessdate = 2013-05-27}}&lt;/ref&gt;  The court stated that the evidence did not prove that the Conservative Party or its successful candidates were directly involved.&lt;ref name="MacCharles"/&gt;  It did, however, criticize the Conservative Party for making “little effort to assist with the investigation”.&lt;ref name="MacCharles"/&gt;  The court did not annul the result in any of six [[Electoral district (Canada)|riding]]s where the fraud had occurred, because it concluded that the number of votes affected had been too small to affect the outcome.&lt;ref name="MacCharles"/&gt;
+
+===United Kingdom===
+[[Lutfur Rahman (politician)|Lutfur Rahman]] was the [[directly elected mayor of Tower Hamlets]], in London until he was removed from office for breaching electoral rules.&lt;ref&gt;{{cite news|title=Tower Hamlets election fraud mayor Lutfur Rahman removed from office|work=[[BBC News]]|url=http://www.bbc.co.uk/news/uk-england-london-32428648|date=23 April 2015|accessdate=23 April 2015}}&lt;/ref&gt; His supporters allegedly intimidated voters at polling stations.&lt;ref&gt;http://www.theguardian.com/politics/2015/apr/23/tower-hamlets-mayor-lutfur-rahman-found-guilty-of-electoral&lt;/ref&gt;
+
+===United States===
+{{main article|Voter suppression in the United States}}
+Because elections are locally administered in the United States, voter suppression varies among jurisdictions. At the founding of the country, most states limited the right to vote to property-owning white males. Over time, the right to vote was formally granted to racial minorities, women, and youth. During the later 19th and early 20th centuries, Southern states passed [[Jim Crow laws]] to suppress poor and racial minority voters – such laws included [[Poll tax (United States)|poll taxes]], [[literacy test]]s, and [[grandfather clause]]s. Most of these voter suppression tactics were made illegal after the enactment of the [[Voting Rights Act of 1965]].{{citation needed|date=August 2016}}
+
+==See also==
+{{Portal|Human rights}}
+* [[Electoral fraud]]
+* [[Caging list]]
+* [[American Center for Voting Rights]]
+* [[Political corruption]]
+* [[Voter turnout]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{commons category|Voting}}
+* [http://blog.wired.com/27bstroke6/2008/10/had-problems-vo.html Problems Voting in the 2008 General Election? Report Your Issue Here]
+* [http://www.pbs.org/now/shows/348/index.html NOW on PBS interview reviewing the likelihood and forms of Voter Suppression liely in 2008]
+* [http://www.ac4vr.com/reports/072005/default.html Vote Fraud, Intimidation &amp; Suppression In The 2004 Presidential Election]
+* [http://www.ac4vr.com/ American Center For Voting Rights], August 2, 2005, report.
+* [http://blackprof.com/stealingd.html Stealing democracy] Spencer Overton, Stealing Democracy, June 5, 2006
+
+{{Corruption}}
+{{Discrimination}}
+
+{{DEFAULTSORT:Voter Suppression}}
+[[Category:Political campaign techniques]]
+[[Category:Political corruption]]
+[[Category:Electoral fraud]]
+[[Category:Voter suppression| ]]
+[[Category:Discrimination]]
+[[Category:Injustice]]</rev></revisions></page></pages></query></api>

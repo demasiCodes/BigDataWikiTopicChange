@@ -1,0 +1,65 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041111085033|7334023" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="765" pageid="765" ns="0" title="Abortion"><revisions><rev timestamp="2004-11-11T08:51:49Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Abortion''', in its most common usage, refers to the destruction and removal from the [[uterus]] of an [[embryo]]. Medically, the term also refers to the early termination of a pregnancy by natural causes ("spontaneous abortion" or [[miscarriage]], which ends 1 in 5 of all pregnancies, usually within the first 13 weeks) or to the cessation of normal growth of a body part or organ. What follows is a discussion of the issues related to deliberately '''induced abortion'''.
+
+Since 1972, the medical definition of [[pregnancy]] in the U.S. requires that implantation has already occurred so, technically, emergency contraceptives do not interfere with pregnancy. The controversy arises when one considers that conception occurs before implantation. Some believe the zygote is a human being with the same moral standing of an implanted embryo before pregnancy technically starts.
+
+[[morning-after_pill|"Morning after"]] or "emergency" contraceptive drugs that are taken within 72 hours of sex interfere with the release of eggs from the ovary or with fertilization, and so are not generally considered to be forms of abortion. However, in many cases conception does occur and the [[zygote]] reaches the [[uterus]]. In this case, a backup chemical found in these pills destroys the zygote before it can develop further. In addition, some groups (notably the [[Roman Catholic Church]]) consider them to be abortions, because they interfere with implantation of a zygote when taken later.  
+
+== Methods of abortion ==
+
+Depending on the stage of pregnancy, an abortion is performed by a number of different methods. [[Chemical abortion]] is the usual method when it is induced before the first nine weeks. The procedure consists of administering either [[methotrexate]] or [[mifepristone]] ([[RU-486]]) followed by administration of [[misoprostol]]. Approximately 8% of these abortions require surgical followup.
+
+In the first fifteen weeks, [[suction-aspiration abortion|suction-aspiration]] or vacuum abortion is one of the most common methods, replacing the more risky [[dilation and curettage]] (D &amp;amp; C). ''[[Manual vacuum aspiration]]'' or MVA abortion consists of removing the [[embryo]] by suction using a manual [[syringe]], while ''[[Electric vacuum aspiration]]'' or EVA abortion uses suction produced by an electric pump to remove the embryo. From the fifteenth week up until around the eighteenth week a surgical [[dilation and evacuation]] (D &amp;amp; E) is used. D &amp;amp; E consists of opening the [[cervix]] of the [[uterus]] and emptying it using surgical instruments and suction.
+
+''[[Dilation and suction curettage]]'' consists of emptying the [[uterus]] by suction using a special apparatus.  ''[[Curettage]]'' is cleaning the walls of [[uterus]] with a [[curette]].  ''[[Dilation and curettage]]'' (D &amp;amp; C) is a standard gynaecological procedure performed for a variety of reasons, such as examination.
+
+As the fetus size increases, other techniques must be used to secure abortion in the third [[trimester]]. Premature expulsion of the fetus can be induced with [[prostaglandin]]; this can be coupled with injecting the amniotic fluid with saline or urea solution. Very late abortions can be brought about by the controversial [[intact dilation and extraction]] (D &amp;amp; X) or a [[hysterotomy abortion]], similar to a [[caesarian section]], and requiring the surgical decompression of the fetus's head before evacuation. (This is the procedure controversially termed "[[partial-birth abortion]]").
+
+==Possible side effects==
+
+===Postabortion psychological issues===
+
+Abortion has been associated with increased risk of [[clinical depression|depression]]. According to a study of 1,884 women conducted by the National Longitudinal Survey of Youth, women who did not carry their first pregnancies to term are 65% more likely to be diagnosed with clinical depression around eight years later. However, other studies did not support that depression may be caused by abortion. For example, a study of 2,525 women revealed that women who had an abortion were more likely to report depression or lower satisfaction with their lives. However, they also often reported rape, childhood physical and sexual abuse, and violent partners. After controlling for the history of abuse, partner characteristics, and background variables, abortion was not related to poorer mental health (''Denious, J. &amp; Russo, N. F. (2000). The Socio-Political Context of Abortion and its Relationship to Women's Mental Health. In J. Ussher (Ed.).  Women's Health: Contemporary International Perspectives (pp. 431-439).  London: British Psychological Society.'').
+
+===Postabortion physical issues===
+
+* Physical complications: studies found that the risk of serious physical complications of an abortion is less than 1%. The exact risk and type of complications depend on the abortion method.
+
+* [[Breast cancer]]: a [[meta-analysis]] of 53 epidemological studies undertaken in 16 countries did not find evidence of a relationship between abortion and breast cancer (''Breast cancer and abortion. The Lancet, 2004;363;pg 1007''). This is a highly political issue with obvious implications for the abortion debate. An internet search will turn up many of the details. For an extended argument from the opposing perspective, see ''Breast Cancer : Its Link to Abortion and the Birth Control Pill'' by Chris Kahlenborn, MD (ISBN 0966977734).
+
+== Abortion Law ==
+
+''Main Article: [[Abortion Law]]''
+
+Abortion has long been a controversial subject throughout history due to its moral and ethical implications. It has been regularly banned and otherwise limited, though illegal abortions have continued to be commonplace in many areas regardless of the legal status. Almost 2/3 of the world&amp;#8217;s women currently reside in countries where abortion may be obtained on request or for a broad range of social, economic or personal reasons. Abortion laws vary widely by country, with some countries allowing nearly total liberalization, and others banning abortion under any circumstances. There are also countries that do not have any laws restricting abortion, such as Canada.
+
+== Related topics ==   
+ 
+*[[Fetal protection]]   
+*[[Morality and legality of abortion]]   
+*[[Religion and abortion]]   
+*[[Sex-selective abortion and infanticide]]   
+*[[Selective reduction]]   
+*[[Roe effect]]
+
+==External links==   
+{{wikiquote}}   
+* [http://montages.blogspot.com/2004/07/i-had-abortion.html "I Had an Abortion"]   
+* [http://www.thedoctorslounge.net/obslounge/articles/mifepruse/mifepruse.htm The Abortion Pill - Mifepristone]   
+* [http://samvak.tripod.com/abort.html The philosophical foundations of pro-choice arguments]   
+   
+[[Category:Abortion]]   
+[[Category:Abortion by country]]
+[[Category:Obstetrics]]   
+[[Category:Core issues in ethics]]   
+   
+[[da:Abort]]   
+[[de:Schwangerschaftsabbruch]]   
+[[es:Aborto]]   
+[[fi:Abortti]]   
+[[fr:Avortement]]   
+[[ia:Aborto]]   
+[[ja:&amp;#22922;&amp;#23072;&amp;#20013;&amp;#32118;]]   
+[[nl:Abortus]]   
+[[pl:Aborcja]]   
+[[sv:Abort]]   
+[[zh:&amp;#22549;&amp;#32974;]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?><api><continue rvcontinue="20180803172924|853285647" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="52182837" pageid="52182837" ns="0" title="Toxic masculinity"><revisions><rev timestamp="2018-08-03T18:34:05Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">#REDIRECT [[Hegemonic masculinity#Toxic masculinity]]
+
+{{Rcat shell|
+{{R to section}}
+}}</rev></revisions></page></pages></query></api>

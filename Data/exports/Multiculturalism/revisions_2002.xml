@@ -1,0 +1,13 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020511092220|146178" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="51885" pageid="51885" ns="0" title="Multiculturalism"><revisions><rev timestamp="2002-08-09T03:02:12Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Multiculturalism''' is a socio-political ideology popular among the political left and social liberals in developed countries.
+
+The primary focus of multiculturalism is centred around the interactions between different cultural groups resident within a political entity; namely a state.
+
+Exponents of multiculturalism often believe some, but not necessarily all of the following:
+:different [[ethnic]] groups possess unique attributes
+:differences and similarities between ethnic groups should be identified and celebrated
+:different ethnic groups should learn from each other, and the means to this is by living within the same country
+:[[ethnic homogeneity]] within a country leads to a bland and highly negative existence, and should be strongly discouraged
+:mass immigration is wholly positive
+:those of European cultural/racial descent are inherently prone to, and the primary perpetrators of [[racism]] and [[intolerance]], and must accept the foundation of numerically large ethnic minorities within their countries so that they may, in theory, learn from them how to not be racist and intolerant
+:Most human beings are inherently prone to, and the perpetrators of [[racism]] and [[intolerance]], and must accept the foundation of numerically large ethnic-minorities within their countries so that they may, in theory, learn from them how to be tolerant and unracist.
+:opposition to multiculturalism is fueled primarily by racism.</rev></revisions></page></pages></query></api>

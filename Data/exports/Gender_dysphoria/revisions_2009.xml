@@ -1,0 +1,120 @@
+<?xml version="1.0"?><api><continue rvcontinue="20091031210824|323166050" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="43097" pageid="43097" ns="0" title="Gender dysphoria"><revisions><rev timestamp="2009-11-14T08:46:53Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Infobox Disease
+ | Name           = Gender Identity Disorder
+ | Width          = 200
+ | ICD10          = {{ICD10|F|64.9||f|60}}, {{ICD10|F|64.8||f|60}}
+ | ICD9           = {{ICD9|302.85}}
+ | ICDO           =
+ | OMIM           =
+ | MedlinePlus    = 001527
+ | eMedicineSubj  =
+ | eMedicineTopic =
+ | MeshID         = D005783
+}}
+
+{{Transgender sidebar}}
+
+'''Gender identity disorder''' (GID) is the formal diagnosis used by [[psychologist]]s and [[physician]]s to describe persons who experience significant gender dysphoria (discontent with the biological sex they were born with).  It is a psychiatric classification and describes the attributes related to [[transsexualism|transsexuality]], [[transgender]] identity, and [[transvestism]]. 
+
+[[Gender identity disorder in children]] is usually reported as "having always been there" since childhood, and is considered clinically distinct from GID which appears in [[adolescence]] or [[adulthood]], which has been reported by some as intensifying over time.&lt;ref name="GenderTalk"&gt;{{cite web| last = Nangeroni | first = Nancy | authorlink = | coauthors = | title = Gender Identity Disorder: What To Do? | work = | publisher = GenderTalk| date = 1996-11| url = http://www.gendertalk.com/articles/oped/gid_tnt.shtmlDorlands Medical Dictionary| format = | doi = | accessdate = 2008-09-16}}&lt;/ref&gt; Since many cultures strongly disapprove of cross-gender behavior, it often results in significant problems for affected persons and those in close relationships with them. In many cases, discomfort is also reported as stemming from the feeling that one's body is "wrong" or meant to be different.
+
+== Diagnostic criteria ==
+{{globalize/North America}}
+
+In the United States, the [[American Psychiatric Association]] permits a diagnosis of ''gender identity disorder'' if four diagnostic criteria in the [[DSM-IV-TR|''Diagnostic and Statistical Manual of Mental Disorders, 4&lt;sup&gt;th&lt;/sup&gt;Edition, Text-Revised'' (DSM-IV-TR)]] are met. These criteria are:
+
+* Strong and persistent cross-gender identification [...]
+
+* Persistent discomfort about one's assigned sex or a sense of inappropriateness in the gender-role of that sex [...]
+
+* The diagnosis is ''not'' made if the individual has a concurrent physical intersex condition.
+
+* Clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+If the four criteria are met under the [[DSM-IV-TR]], a diagnosis is made under ICD-9 code {{ICD9|302.85}}. See the ''classification and external resources'' sidebar at right for other diagnostic codes for ''gender identity disorder''.
+
+The International Classification of Diseases (ICD-10) list three diagnostic criteria:
+
+Transsexualism (F64.0) has three criteria:&lt;ref name="Standards of Care" /&gt;
+
+# The desire to live and be accepted as a member of the opposite sex, usually accompanied by the wish to make his or her body as congruent as possible with the preferred sex through surgery and hormone treatment
+# The transsexual identity has been present persistently for at least two years
+# The disorder is not a symptom of another mental disorder or a chromosomal abnormality
+
+Uncertainty about gender identity which causes anxiety or stress is diagnosed as [[sexual maturation disorder]].
+
+== Treatment ==
+{{Main|Hormone replacement therapy (male-to-female)|Hormone replacement therapy (female-to-male)}}
+
+The [[World Professional Association for Transgender Health]] (WPATH, formerly HBIGDA) [[Standards of care for gender identity disorders|Standards of Care]] (Version 6 from 2001) are considered by some as definitive treatment guidelines for providers.  Other Standards exist (see those discussed in [[Standards of care for gender identity disorders]], including the guidelines outlines in Gianna Israel and Donald Tarver's classic 1997 book "Transgender Care".  Several health clinics in the United States (e.g. Tom Waddell in San Francisco, Callen Lorde in New York City, Mazzoni in Philadelphia) have developed “[[Guideline (medical)|protocols]]” for transgender hormone therapy following a “[[harm reduction]]” model which is coming to be embraced by increasing numbers of providers.  In their 2005 book ''Medical Therapy and Hormone Maintenance for Transgender Men'',  Dr. Nick Gorton et al. suggest a flexible approach based in harm reduction, “Willingness to provide hormonal therapy based on assessment of individual patients needs, history and situation with an overriding goal of achieving the best outcome for patients rather than rigidly adhering to arbitrary rules has been successful.” (See External Links below.)
+
+Formal gender clinics for individuals seeking medical sex reassignment began operating in the 1960s and 1970s, leading to long-term follow-up studies that began appearing in the research literature in the 1980s and 1990s. These studies have examined transsexuals who received clinical approval to undergo reassignment and proceeded to do so.&lt;ref&gt;Green, R., &amp; Fleming, D. T. (1990). Transsexual surgery follow-up: Status in the 1990s. ''Annual Review of Sex Research, 1,'' 163–174.&lt;/ref&gt;&lt;ref&gt;Gijs, L., &amp; Brewaeys, A. (2007). Surgical treatment of gender dysphoria in adults and adolescents: Recent developments, effectiveness, and challenges. ''Annual Review of Sex Research, 18,'' 178-224.&lt;/ref&gt; The great majority of patients who met clinics' screening criteria reported being satisfied in the long-term with the results.
+
+=== Prepubescent children ===
+{{Main|Gender identity disorder in children}}
+
+The question of whether to counsel young children to be happy with their biological sex, or to encourage them to continue to exhibit behaviors that do not conform to gender stereotypes&amp;nbsp;— or to explore a transsexual transition&amp;nbsp;— is controversial.  Some clinicians report a significant proportion of young children with gender identity disorder no longer have such symptoms later in life.&lt;ref name="NPR"&gt;{{cite web| last = Spiegel| first = Alix| authorlink = | coauthors = | title = Q&amp;A: Therapists on Gender Identity Issues in Kids| work = | publisher = NPR| date = 2008-05-08| url  =http://www.npr.org/templates/story/story.php?storyId=90229789 | format = | doi = | accessdate = 2008-09-16}}&lt;/ref&gt; There is an active and growing  movement among professionals who treat gender dysphoria in children to refer and prescribe hormones to delay the onset of puberty until a child is old enough to make an informed decision on whether hormonal gender reassignment leading to surgical gender reassignment will be in that person's best interest. &lt;ref&gt;The Transgendered Child: A handbook for Families and Professionals (Brill and Pepper, 2008)&lt;/ref&gt;
+
+== Controversy ==
+{{Refimprove|date=July 2009}}
+Many transgender people do not regard their own cross-gender feelings and behaviors as a [[mental illness|disorder]]. People within the transgender community often question what a "normal" [[gender identity]] or "normal" [[gender role]] is supposed to be. One argument is that gender characteristics are socially constructed{{Citation needed|date=July 2009}} and therefore naturally unrelated to biological sex.{{Citation needed|date=July 2009}} This perspective often notes that other cultures, particularly historical ones, valued gender roles that would presently suggest [[homosexuality]] or transsexuality as normal behavior.&lt;ref name="Islanders"&gt;{{cite web| last = Park| first = Pauline| authorlink = | coauthors = John Manzon-Santos| title = Issues of Transgendered Asian Americans and Pacific Islanders| work = | publisher = | date = 2000-10| url =http://www.apiwellness.org/article_tg_issues.html| doi = | accessdate = 2008-09-16}}&lt;/ref&gt; Some people see "transgendering" as a means for ''[[deconstruction|deconstructing]]'' gender. However, not all transgender people wish to deconstruct gender or feel that they are doing so.
+
+Other transgender people object to the classification of GID as a mental disorder on the grounds that there may be a physical cause, as suggested by recent studies about the brains of transsexual people. Many of them{{Who|date=December 2008}} also point out that the treatment for this disorder consists primarily of physical modifications to bring the body into harmony with one's perception of mental (psychological, emotional) gender identity, rather than vice versa.&lt;ref name="Standards of Care"&gt;{{cite web| last = | first = | authorlink = Harry Benjamin International Gender Dysphoria Association| coauthors = | title = HBIGDA Standards Of Care For Gender Identity Disorders, Sixth Version| work = Standards Of Care For Gender Identity Disorders| publisher = Harry Benjamin International Gender Dysphoria Association| date = 2001-02| url = http://www.wpath.org/Documents2/socv6.pdf| format = PDF| doi = | accessdate = }}&lt;/ref&gt;
+
+Although evidence suggests that transgender behavior has a neurological basis, critics of GID denomination say there is no scientific consensus on whether the cause of transgenderism is mental or physical.&lt;ref name="GID Reform"&gt;{{cite web| last = Winters | first = Kelley | authorlink = | coauthors = | title = Issues of GID Diagnosis for Transsexual Women and Men| work = GID Reform Advocates| publisher = | date = 2007-09-30| url =http://www.gidreform.org/GID30285a.pdf| format = PDF| doi = | accessdate = 2008-09-16}}&lt;/ref&gt;
+
+In a landmark publication in December 2002, the British Lord Chancellor's office published a ''Government Policy Concerning Transsexual People'' document that categorically states "What transsexualism is not...It is not a mental illness."&lt;ref&gt;{{cite web | url = http://www.dca.gov.uk/constitution/transsex/policy.htm | title = Government Policy concerning Transsexual People | work = People's rights / Transsexual people | publisher = U. K. Department for Constitutional Affairs | date = 2003}}&lt;/ref&gt; In May 2009 the government of France has also declared that a transsexual gender identity is not a  psychiatric condition ''in France''. &lt;ref&gt;{{cite news | title = La transsexualité ne sera plus classée comme affectation psychiatrique | url = http://www.lemonde.fr/societe/article/2009/05/16/la-transsexualite-ne-sera-plus-classee-comme-affectation-psychiatrique_1193860_3224.html | date = 16 May 2009 | publisher = Le Monde}}&lt;/ref&gt; 
+
+The Principle 3 of The [[Yogyakarta Principles]] on the appplication of international human rights law in relation to sexual orientation and gender identity states that "Person of diverse sexual orientation and gender identites shall enjoy legal capacity in all aspects of life. Each person's self-defined sexual orientation and gender identity is intergral to their personality and is one of the most basic aspects of self-determination, dignity and freedom" and the Principle 18 of this states that "Notwithstanding any classifications to the contrary, a person's sexual orientation and gender identity are not, in and of themselves, medical condition and are not to be treated, cured or suppressed." According to these Principles, any gender identity of a transsexual or transgendered person is neither "disorder" nor mental illness, thus the [[diagnosis]] "gender identity disorder" can be contradictoty and irreverent.      
+
+Some people&lt;ref&gt;{{cite book
+ | title = Transgender Emergence: Therapeutic Guidelines for Working with Gender-Variant People and Their Families
+ | author = Arlene Istar Lev
+ | publisher = Haworth Press
+ | year = 2004
+ | isbn = 9780789021175
+ | page = 172
+ | url = http://books.google.com/books?id=LwxvazLRmiEC&amp;pg=PA172&amp;dq=homosexuality+dsm-iii+transsexuality&amp;lr=&amp;as_brr=3&amp;as_pt=ALLTYPES&amp;ei=UYgTSpCcGZmalQSVhYTVCQ
+ }}&lt;/ref&gt; feel that the deletion of homosexuality as a mental disorder from the DSM-III and the ensuing creation of the GID diagnosis was merely sleight of hand by psychiatrists, who changed the focus of the diagnosis from the deviant desire (of the same sex) to the subversive identity (or the belief/desire for membership of the opposite sex/gender).&lt;ref name="Riddle"&gt;{{cite book |last=Rudacille |first=Deborah|title=The Riddle of Gender: Science, Activism, and Transgender Rights |publisher=Pantheon|date=February 2005) |isbn=978-0375421624}}&lt;/ref&gt; People who believe this tend to point out that the same idea is found in both diagnoses, that the patient is not a "normal" male or female. As Kelley Winters (pen-name Katharine Wilson), an advocate for GID reform put it, "Behaviors that would be ordinary or even exemplary for gender-conforming boys and girls are presented as symptomatic of mental disorder for gender nonconforming children."&lt;ref name="GID Reform" /&gt;  However, Zucker and Spitzer&lt;ref name="Historical Note"&gt;Zucker KJ, Spitzer RL, 2005, "Was the gender identity disorder of childhood diagnosis introduced into DSM-III as a backdoor maneuver to replace homosexuality? A historical note."''Journal of Sex and Marital Therapy'' 2005 Jan-Feb;31(1):31-42&lt;/ref&gt; argue that GID was included in the DSM-III (7 years after homosexuality was removed from the DSM-II) because it "met the generally accepted criteria used by the framers of DSM-III for inclusion".
+
+The GID controversy figured prominently at the 2009 meeting of the [[American Psychiatric Association]] in San Francisco, both in presentations in the meeting and in protests outside the meeting; protesters focused on the attitude of the psychiatric community and tried to make the point that GID is not a mental disorder, as well focusing on the role of [[Kenneth Zucker]] in leading the DSM-V Task Force on Sexual and Gender Identity Disorders.&lt;ref&gt;{{cite news | date = May 19, 2009 | title = Gender Identity Disorder: Has Accepted Practice Caused Harm? | author = Lois Wingerson | publisher = Psychiatric Times | url = http://www.psychiatrictimes.com/display/article/10168/1415037 }}&lt;/ref&gt;
+
+== See also ==
+
+* [[Gender identity disorder in children]]
+
+* [[List of transgender-related topics]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+
+* ''[http://www.wpath.org/Documents2/socv6.pdf Standards of Care for Gender Identity Disorders]'' - published by the Harry Benjamin International Gender Dysphoria Association, includes a description of ICD-10 criteria.
+
+* ''[http://www.transgendercare.com/guidance/resources/ictlep_soc.htm Health Law Standards of Care for Transsexualism]''  An alternative to the Benjamin Standards of Care proposed by the International Conference on Transgender Law and Employment Policy.
+* [http://www.lcd.gov.uk/constitution/transsex/policy.htm THE LORD CHANCELLOR'S DEPARTMENT Government Policy concerning Transsexual People]
+* [http://www.gires.org.uk/Web_Page_Assets/Etiology.htm Gender Identity Disorder &amp; Transsexualism - Synopsis of Etiology in Adults] provides an alternative to the current classifications of psychiatric disorder and mental illness.
+
+* Conway, Lynn: "[http://ai.eecs.umich.edu/people/conway/TSsuccesses/TSsuccesses.html Successful Transwomen]" and "[http://ai.eecs.umich.edu/people/conway/TSsuccesses/TransMen.html  Successful Transmen]" -Lynn Conway's "Success Pages".
+
+{{Sexual identities}}
+
+{{DEFAULTSORT:Gender Identity Disorder}}
+[[Category:Gender]]
+[[Category:Identity disorders]]
+[[Category:Sexual and gender identity disorders]]
+[[Category:Transgender and medicine]]
+
+&lt;!--{{Link FA|ja}}--&gt;
+
+[[ar:اضطراب الهوية الجنسية]]
+[[cy:Anhwylder hunaniaeth ryweddol]]
+[[de:Geschlechtsidentitätsstörung]]
+[[es:Disforia de género]]
+[[fr:Troubles de l'identité sexuelle]]
+[[it:Disturbo dell'identità di genere]]
+[[nl:Geslachtsidentiteitsstoornis]]
+[[ja:性同一性障害]]
+[[pt:Transtorno de identidade de gênero]]
+[[ru:Гендерная дисфория]]
+[[zh:性別認同障礙]]</rev></revisions></page></pages></query></api>

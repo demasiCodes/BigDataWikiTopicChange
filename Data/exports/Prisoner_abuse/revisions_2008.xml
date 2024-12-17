@@ -1,0 +1,20 @@
+<?xml version="1.0"?><api><continue rvcontinue="20080511104843|211637006" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1840508" pageid="1840508" ns="0" title="Prisoner abuse"><revisions><rev timestamp="2008-05-11T15:34:34Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{| style="float: right;"
+| {{CriminTheo}}
+|}
+{{POV|date=May 2008}}
+'''Prisoner abuse''' is the mistreatment of persons while they are under arrest or incarcerated.
+Abuse falling into this category includes:
+* Physical abuse: Needless beating, hitting, or other [[Corporal punishment]].
+* Psychological abuse: Taunting, [[sleep deprivation]], or other forms of [[psychological abuse]], occasionally [[white noise]]
+* Sexual abuse: Forced intercourse, genital mutilation, or other forms of [[Sexual abuse]].
+* Other abuse: Refusal of essential medication, humiliation, etc.
+* [[Enhanced interrogation]]: methods implemented in the [[War on Terror]] purportedly needed to extract information since other techniques would not yield results.
+* [[Torture]]: any act by which severe pain, whether physical or [[psychology|psychological]], is intentionally inflicted
+
+== Psychological abuse ==
+
+; [[White noise]] : The endless playing of random static (similar to that of unused TV frequencies) with no pattern; this can cause insanity and mental disorders.
+; [[Taunting]] : Needless insults and profanity to prisoners to gain a feeling of superiority by any figure of authority.
+; [[Enablement of Sexual Predators]] : Prisoner are sometimes purposefully housed with known rapists of other prisoners by prison guards-or protection from known rapists is purposefuly withheld. These practices create a very high incidence of rape in US prisons. This was the topic of the 2001 report [http://www.hrw.org/reports/2001/prison/  No Escape] from Human Right Watch.
+
+[[Category:Penology]]</rev></revisions></page></pages></query></api>

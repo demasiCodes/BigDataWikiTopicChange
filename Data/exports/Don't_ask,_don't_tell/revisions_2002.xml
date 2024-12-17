@@ -1,0 +1,10 @@
+<?xml version="1.0"?><api><continue rvcontinue="20021022010001|375811" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="8690" pageid="8690" ns="0" title="Don&#039;t ask, don&#039;t tell"><revisions><rev timestamp="2002-10-22T01:31:49Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Don't ask, don't tell''' is the common term for the current policy toward gays in the US military. It was introduced in [[1993]] by President [[Bill Clinton]], although crafted by [[Colin Powell]] and has been maintained by his successor, [[George W. Bush]]. The policy says that as long as homosexual men and women in the military don't volunteer their [[sexual orientation]], commanders won't try to find them out. 
+
+Statistics on the number of persons discharged from the military in the years since the policy was first introduced (1992?) show that more people are discharged now than were before. By this measure, the policy seems to have failed. However, more of these people are given honorable discharges than was the case before. (Hard numbers would be great if anyone has access to them.)
+
+Most other Western military forces have now removed bans on homosexuals (with
+strict policies on sexual harassment).
+
+=== External Resources ===
+
+[[http://www.california.com/~rathbone/links003.htm Chronology of Don't Ask, Don't Tell]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,72 @@
+<?xml version="1.0"?><api><continue rvcontinue="20151001002933|683552239" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="3455302" pageid="3455302" ns="0" title="Genetic discrimination"><revisions><rev timestamp="2015-11-12T23:46:45Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{multiple issues|
+{{globalize/US|date=October 2012}}
+{{essay-like|date=October 2011}}
+}}
+{{Discrimination sidebar}}
+
+'''Genetic discrimination''' occurs when people are treated differently, for example by their [[employer]] or [[insurance company]], because they have or are perceived to have a [[gene]] [[mutation]] that causes or increases the risk of an [[Genetic disorder|inherited disorder]]. It may also refer to any and all discrimination based on the [[genotype]] of a person rather than their individual merits. 
+
+Some legal scholars have argued for a more precise and broader definition of genetic discrimination: "Genetic
+discrimination should be defined as when an individual is subjected to
+negative treatment, not as a result of the individual’s physical manifestation of
+disease or disability, but solely because of the individual’s genetic
+composition."&lt;ref&gt;{{Cite journal|title = Genetic Testing Meets Big Data: Torts and Contract Law Issues|url = http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460891&amp;rec=1&amp;srcabs=2460897&amp;alg=1&amp;pos=1|date = 2014|location = Rochester, NY|first = Ifeoma|last = Ajunwa}}&lt;/ref&gt;
+
+Genetic Discrimination has its foundations in genetic determinism and genetic essentialism.&lt;ref name=":0"&gt;{{Cite journal|title = Genetic Data and Civil Rights|url = http://papers.ssrn.com/abstract=2460897|date = 2015|location = Harvard Civil Rights- Civil Liberties Law Review|first = Ifeoma|last = Ajunwa}}&lt;/ref&gt; 
+
+It is based on the concept of '''genism''', that distinctive human characteristics and capacities are [[genetic determinism|determined by genes]].&lt;ref name="Annas 2003"&gt;{{cite paper|    last = Annas | first = George | authorlink = George Annas | title = Genism, Racism, and the Prospect of Genetic Genocide | date = 2003 | url = http://www.gjga.org/inside.asp?a=1&amp;action=item&amp;source=documents&amp;id=19 | accessdate=2008-07-31}}&lt;/ref&gt;
+
+==United States Legal Status==
+Genetic discrimination is illegal in the U.S. after passage of the [[Genetic Information Nondiscrimination Act]] of May 21, 2008.&lt;ref name="Law"&gt;{{cite journal | title=Genetic sequencing: Assessing the health care system, policy, and Big-Data implications | author=Phillips, K| date=2014| accessdate=November 23, 2014}}&lt;/ref&gt; The legislation also bars employers from using individuals’ genetic information when making [[Recruitment|hiring]], [[firing]], job placement, or [[Promotion (rank)|promotion]] decisions.&lt;ref name="OMB support"&gt;[http://www.genome.gov/Pages/PolicyEthics/GeneticDiscrimination/SAPonHR493.pdf Statement of Administration policy], Executive Office of the President, Office of Management and Budget, 27 April 2007&lt;/ref&gt;  It was signed into law by President [[George W. Bush]] on May 21, 2008.&lt;ref name="Law"&gt;{{cite news | url=http://www.wired.com/wiredscience/2008/05/the-genetic-inf/ | title=Genetic Discrimination by Insurers, Employers Becomes a Crime | author=Keim, Brandon | work=Wired.com | date=May 21, 2008 | accessdate=2008-05-28}}&lt;/ref&gt;&lt;ref&gt;[http://www.kaiserhealthnews.org/daily-reports/2008/may/22/dr00052305.aspx "Administration News | President Bush Signs Genetic Nondiscrimination Legislation Into Law,"] Kaiser Daily Health Policy Report, [[Kaiser Family Foundation]], May 22, 2008&lt;/ref&gt;  The law does not cover life insurance nor long-term care insurance, which has already created problems for some patients who have undergone genetic testing.&lt;ref name="Law"&gt;{{cite journal | title=Genetic sequencing: Assessing the health care system, policy, and Big-Data implications | author=Phillips, K| date=2014| accessdate=November 23, 2014}}&lt;/ref&gt; 
+
+The Genetic Information Non-Discrimination Act (GINA) does not have a disparate impact theory provision although some legal experts have argued for the addition of such a provision.&lt;ref name=":0" /&gt;  A Genetics Study Commission is scheduled to be called by Congress to determine whether such a provision is necessary.  
+
+===Health Insurance Discrimination===
+Before the Affordable Care Act, private health insurers were allowed to discriminate patient based on preexisting health conditions. Before this law, it was legal to discriminate a patient actually having that condition under active treatment. In 2008, [[the New York Times]] reported that some individuals avoid genetic testing out of fear it will impede their ability to purchase insurance or find a job. They also reported that evidence of actual discrimination was rare.&lt;ref&gt;Amy Harmon, [http://www.nytimes.com/2008/02/24/health/24dna.html?_r=2&amp;scp=5&amp;sq=Genetic&amp;st=nyt&amp;oref=slogin&amp;oref=slogin "Insurance Fears Lead Many to Shun DNA Tests,"] [[The New York Times]], February 24, 2008&lt;/ref&gt;
+
+==Genetic testing in the workplace==
+
+Some people have genes that make them more susceptible to developing a disease as a result of an occupational exposure. For example, workers with beryllium sensitivity and chronic beryllium disease are more likely to carry the gene HLA-DPB1 than workers without these conditions.&lt;ref name="department2009"&gt;{{cite book|last=Department for Health and Human Services|title=Genetics in the Workplace: Implications for Occupational Safety and Health|year=2009|publisher=DHHS|location=Washington, D.C.}}&lt;/ref&gt; By offering optional genetic testing to workers and allowing only the workers to see their own results, employers could protect genetically susceptible individuals from certain occupational diseases. A beryllium manufacturing company initiated a pilot program to test prospective workers for the HLA-DPB1 gene at a university-based laboratory. The company paid for the testing and counseling but received results that did not identify which workers had the gene.&lt;ref name="department2009"/&gt;
+
+In 1991, the American Medical Association Council on Ethical and Judicial Affairs suggested that the following five conditions must be satisfied in order for genetic screening by an employer to be appropriate:&lt;ref name="department2009"/&gt;
+
+•	The disease must develop so rapidly that monitoring would be ineffective in preventing it.
+
+•	The genetic test is highly accurate.
+
+•	The genetic variation results in an unusually elevated susceptibility to occupational illness.
+
+•	Undue expense is needed to protect susceptible workers by lowering the level of the toxic substance in the workplace.
+
+•	The worker must provide informed consent prior to being tested.
+
+Several occupational health screening measures similar to genetic testing are already taking place. For example, in 1978, DuPont reported testing African American applicants for sickle cell trait and restricted these workers from exposure to nitro and amino compounds.&lt;ref name="brant139"&gt;{{cite journal|last=Brant-Rauf|first=P.W.|author2=Brant-Rauf, S.I.|title=Genetic testing in the workplace: Ethical, legal, and social implications|journal=Annual Review of Public Health|year=2004|volume=25|pages=139–153|doi=10.1146/annurev.publhealth.25.101802.123012|pmid=15015916}}&lt;/ref&gt; However, research indicates that workers or applicants would not take advantage of genetic testing due to fear of discrimination. A 1995 poll of the general public found that over 85% are concerned about access to use of genetic information by insurers and employers.&lt;ref&gt;{{cite journal|last=Miller|first=P.S.|title=Genetic discrimination in the workplace|journal=Journal of Law, Medicine, and Ethics|year=1998|volume=26|issue=3|pages=189–197|doi=10.1111/j.1748-720x.1998.tb01419.x}}&lt;/ref&gt; Likewise, in the case of the beryllium manufacturer described above, so few workers participated in the genetic testing that the company decided instead to pursue an “enhanced preventive model of workplace controls”.&lt;ref name="department2009"/&gt;
+
+==Popular culture==
+
+''Genoism'' is a [[neologism]] coined by [[Andrew Niccol]], director and writer of the 1997 film ''[[Gattaca]]'', used to describe unethical and illegal genetic discrimination. Predictions of physical and mental performance are computed via [[genetics]] from [[DNA]] collected from hair, fingernails, skin flakes, spit swabs, eyelashes, etc.  Upon birth, a number of genetically-induced characteristics are calculated: physical and intellectual capacity, life expectancy, probable successful diseases, and likely causes of death, all determined via [[blood sample]]s and [[genetic testing]]. Job interviews, health insurance purchasing, and even potential dates can be sized up according to the perceived quality of the person's DNA due to advancements in [[genome sequencing]].  This put an ironic twist to [[Charles Darwin|Darwin]]'s [[sexual selection]] for good [[genes]].  According to the movie, "We now have discrimination down to a [[science]]."
+
+{{quote|My father was right. It didn't matter how much I lied on my resume. My real resume was in my cells. Why should anybody invest all that money to train me when there were a thousand other applicants with a far cleaner profile? Of course, it's illegal to discriminate, 'genoism' it's called. But no one takes the law seriously. If you refuse to disclose, they can always take a sample from a door handle or a handshake, even the saliva on your application form. If in doubt, a legal [[drug test]] can just as easily become an illegal peek at your future in the company.|Vincent Freeman ([[Ethan Hawke]])|''[[Gattaca]]'', 1997}}
+
+==See also==
+*[[Dysgenics]]
+*''[[Gattaca]]'', the most notable film about genetic discrimination
+*[[Human Genome Project]]
+*[[Health Insurance Portability and Accountability Act]]
+*[[Genetic Information Nondiscrimination Act]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://www.genome.gov/10002328
+* {{cite news | title= US Blocks Genetic Discrimination | publisher= [[BBC News]] | authorlink=BBC News | date=25 April 2008 | url=http://news.bbc.co.uk/2/hi/americas/7366264.stm | accessdate=2010-01-04}}
+* [http://www.respondgeneticdiscrimination.com Respond Genetic Discrimination]
+
+{{Discrimination}}
+
+{{DEFAULTSORT:Genetic Discrimination}}
+[[Category:Discrimination]]
+[[Category:Genetics]]
+[[Category:Medical ethics]]
+[[Category:Science fiction themes]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,198 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041109002236|7240941" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="929970" pageid="929970" ns="0" title="Controversies in autism"><revisions><rev timestamp="2004-11-09T01:13:57Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">The very nature of '''[[autism]]''' is not well understood and there is considerable disagreement over the exact nature of [[autism]]. The medical community considers [[autism]] to be a severe disorder with life-long effects. Many autistic adults and [[neurotypical]] allies in the autistics rights movement do not consider autism to be a disorder at all but a unique way of being, and believe the difficulties associated with autism are the result of prejudice and lack of accommodation from society. 
+
+Scientists and practitioners who believe autism is a medical condition have not yet settled on the cause, prognosis, or correct treatment of [[autism]].  There is, on the other hand, consensus that early intervention makes a significant difference for an autistic person's long-term prospects.  The human mind and nervous system are more plastic at a younger age, and there is a prevailing sense of urgency around treating autistic children.
+
+With knowledge being so limited, nearly all aspects of dealing with autism are subject to heated debate.  Parents of autistic kids face a bewildering set of choices and attendant uncertainty.  Some of these controversies are described below.  
+
+These controversies do not only involve parents, but also autistic people and anyone who knows them.  Many autistic people (and some non-autistic supporters) believe that the emphasis on pediatric autism leaves little support for autistic adults. 
+
+==The usefulness and accuracy of autism as a diagnosis==
+
+The [[DSM-IV]] criteria for the diagnosis of autism is the result of several drastic revisions, and the psychiatric community differs on whether the condition should be "clumped" along a spectrum or "split" into multiple distinct disorders that have similar symptoms.  Research and clinical experience further suggests that autism is not a psychiatric but a neurological disorder.  [[Pervasive developmental disorder]] has emerged as a descriptive term for the cluster of disorders that includes autism.
+
+The issue is complicated by the fact that autism can not be ascertained with clinical tests; all physicians employ behavioral observations to guide their findings.  In addition, there is significant variation among children with autistic traits.  Those with [[Asperger syndrome]] may be highly functional and lacking in limited social skills, whereas others with "profound autism" may be non-verbal and deficient in the most elementary self-help skills.  Some autistic people are mentally retarded; others have average or above average intelligence and/or are [[autistic savant]]s.  A wide range of [[conditions comorbid to autism spectrum disorders]] strengthen the perspective that autism is a common set of symptoms for a wide range of underlying disorders.
+
+This is not just an academic issue.  Treatment strategies and choices are based on a conviction of what needs to be changed.  Different parents have had hugely divergent experience with different treatment approaches.  Some claim their children have recovered with only behavioral approaches; others claim to have cured their children with biomedical intervention; others report little progress with either.  
+
+Finally, there are also those who reject the premise that autism is a disorder that should be fixed.  In their view, a diagnosis amounts to a judgment of non-conformity that is followed by efforts to "fix" what essentially are personality traits.
+
+==[[Epidemiology]] of autism==
+
+There is uncertainty and controversy whether the incidence of autism is actually increasing, or if there simply is an increase in the number of ''reported'' cases.  If the actual incidence is rising, the implication is that environmental factors play a greater role; if it's being reported more often, genetics deserve more attention.  
+
+Anecdotal reports from school districts, physicians, and other practitioners strongly support the view that the incidence is rising, and some studies appear to support this as well.  Some believe the incidence has grown from about 1 in 5000 to 1 in 150 to 400 in the last few years and believe we are facing a major societal problem.
+
+Skeptics point out that several factors are likely to cause increased reporting.  
+
+First, the broadening definition of autism (discussed above) and the greater availability of services for autistic individuals creates an incentive to be inclusive in the diagnosis.
+
+Second, the last few decades have seen a greater awareness of autistic traits among pediatricians and other medical specialties.  It is surmised that some children who were previously diagnosed as retarded are now diagnosed as autistic, or with pervasive developmental delay.
+
+It will take time to arrive at a resolution to this issue.  As noted above, there is no definitive, standardized way to diagnose autism, and this problem applies both for purposes of measuring past, present and future incidence.  There are important implications from this controversy, because the answer will guide both the allocation and magnitude of research, legal action, and therapy.
+
+==Genetics and autism==
+
+There is evidence that autism has a genetic component, and ongoing research focuses on finding the markers that determine autistic phenotypes. But there is significant disagreement whether genetics are a contributing or a decisive factor. For example, recent studies on twins by Greenberg (2001) and Betancur (2002) do not support twinning as a substantial risk factor in the etiology of autism. 
+
+There is a trend toward viewing genetics as contributing factor, although the fact remains that most autistic children have [[neurotypical]] parents. This group of disorders is notable for its significant gender disparity, with the incidence of autism in males greatly exceeding the incidence in females. A 1994 study estimated the male-female ratio at 3:1 while a 1982 Japanese study indicated a ratio of 9:1.
+
+==Vaccines and autism==
+In the late 1990s, a controversial theory arose linking childhood vaccinations to autism.  The theory states that early childhood [[vaccination]]s cause a shock to a child's immunological, neurological, and gastrointestinal systems.  These claims are based on several factors, including the presence of [[thimerosal]] as well as the immunogens themselves.
+
+Until a few years ago, some formulations of [[vaccine]]s contained [[thimerosal]], a mercury-based compound for purposes of preserving multi-use vaccine containers.  In sufficient quantities, mercury is [[neurotoxic]], and thus it is tightly regulated by the [[Environmental Protection Agency|EPA]].  The vaccine for diptheria and pertussis (DTP) in particular is typically administered to children under the age of 2, and several formulations of this vaccine also contained [[thimerosal]].
+
+The purported immunological link of vaccines (particularly the MMR vaccine) to autism came to the forefront when in 1998, [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9500320 Wakefield and colleagues] reviewed reports of children with bowel disease and regressive developmental disorders, mostly autism, in a small sample of 12 children.  Although the study had weaknesses (such as small sample size, and no use of healthy controls), this study and similar studies garnered media attention and popular support from families with autistic children and sympathetic individuals.
+
+In response to this controversy, a number of subsequent studies with larger sample sizes were researched in many developed nations. The vast majority of those studies showed no statistical "link" correlating the use of vaccines with increased [[autism]].
+
+In 2004, 10 of the 13 authors of the original Wakefield study retracted the paper's interpretation, stating that the data were insufficient to establish a causal link between MMR vaccine and autism.
+
+Despite the lack of evidence that autism and [[thimerosal]]-containing vaccines are related, [[thimerosal]]-free formulations of the DTP vaccine are now standard.
+
+In spite of skepticism from the medical community, a number of advocates continue to support the claim that there is a causal link between early childhood vaccines and autism.  They contend that studies are flawed or inconclusive and that key information was withheld from the public.  Thus, the link between autism and vaccines still remains a controversial and debated topic, and probably will continue to remain a controversy until a definitive cause for autism is found.
+
+==Prognosis for autistic children==
+
+Children who are diagnosed with autism face a great range of outcomes.  Some are reported to have recovered on their own.  Others experience an apparently miraculous recovery from a few simple alterations in diet.  There are those who apparently become mainstreamed after years of hard work and constant training.  Some develop slowly, but never become typical.  And there are a few who never move beyond a low level of functioning.
+
+It seems paradoxical that while some people see early intervention as crucial for autism, the prognosis is also most uncertain the younger the child is.  An idiosyncratic development path may be confused with a more severe disorder, and the child may "catch up" on his/her own.  Research indicates that the human mind and nervous system remains plastic for longer than originally thought, and autistic persons have been known to develop all their lives.
+
+Everyone in the medical community agrees that autism is treatable through medical or educational intervention, though there is wide disagreement on what the right kinds of treatment are and what the appropriate objectives should be.
+
+==Treatment choices==
+
+It follows that there are a number of issues about the right way to deal with autism.  These issues complicate the choices that confront parents with children who have developmental delays and/or diagnosed as being on the "spectrum."  
+
+===Discredited approaches===
+
+The [[Bruno Bettelheim]] hypothesis that autistic children are the product of unsympathetic, emotionally distant "refrigerator mothers" has been discredited.  There is no evidence to support the idea that autistic children - as a group - have shut themselves in because their parents didn't give them enough love and attention.
+
+===Behavioral interventions===
+
+Several schools of thought exist about behavioral interventions to treat autism.  
+
+The most prominent is Lovaas/[[applied behavior analysis]] (ABA), which involves training autistic children through trials and reinforcement of limited tasks that grow more complex over time.  While this is a proven method for developing specific skills in children who do not respond to conventional reinforcement (e.g., parental approval), it is often criticized for being harsh, stringent, and not conducive to general skill-building.
+
+The Greenspan/DIR approach seeks to stabilize the child's environment and then taking his/her lead to create learning opportunities through "floor time" and related approaches.  While this has proven effective for children with strong sensory needs, the approach is often criticized for catering to the child's limitations rather than building strengths.
+
+Other approaches pioneered by Marion Blank, Barry Kaufman, Arnold Miller, and others are less popular and known but have similar supporters and detractors.
+
+===Drug therapy===
+
+The use of drugs for autistic patients is widely disputed.  While anti-seizure medication is indicated for some children with seizures, many parents are vehemently opposed to using psychopharmacology to treat their children.  They point out that autistic people are not psychotic, particularly anxious, or depressed.  Many autistic people themselves are against the overprescription of [[neuroleptic]] drugs in autistic people to control behavior.  They have formed an organization called [http://www.apana.org.uk/ Autistic People Against Neuroleptic Abuse] to counter this phenomenon.
+
+===Occupational, auditory, visual therapy===
+
+Developmental neurologists have noted that autistic children tend to be hyposensitive and/or hypersensitive to one or several sensory impressions, and that their gross and fine motor skills are usually impaired to varying degrees.  These are symptoms consistent with [[Sensory Integration Dysfunction]].
+
+Pediatric [[occupational therapy]] has proven successful in helping autistic children deal more effectively with sensory impressions, use their senses more productively, and become more aware of their bodies.
+
+Auditory therapies include the [[Tomatis]] and [[Berrard]] schools and focus on training the child to use his/her sense of hearing more effectively.
+
+Visual therapy, pioneered by Melvin Kaplan and others, employs prism lenses that distort the child's vision, forcing him/her to use his/her focal vision more productively.
+
+===Biomedical intervention===
+
+A small but growing number of parents and medical professionals claim to have successfully treated autistic children by pursuing restrictive diets, detoxification therapies, and a range of alternative medical treatments, collectively known as [[biomedical intervention for autism|biomedical intervention]].
+
+The premise for biomedical intervention is that certain neurological disorders are caused by environmental shocks that in turn compromise the children's gastrointestinal, immunological and neurological systems.  Based on this premise, what is often diagnosed as autism or PDD is a physiological syndrome that can and should be treated.  
+
+This point of view is consistent with studies on nutrition and children that show that healthy diets reduce behavioral problems with children and adolescents.  It also provides an etiology to the growing incidence of autism and other developmental disorders, including [[ADHD]].
+
+There is plenty of anecdotal evidence to support biomedical intervention - most parents who try one or several therapies report some progress, and there are stories of children who have returned to mainstream education.
+
+
+===Autism and Computing===
+Computers can be an ideal environment for promoting communication, sociabilility, creativity, and playfulness for individuals even at the extreme of the autistic spectrum. This is the opinion of the non-profit group Autism and Computing. They argue that the central feature of Autism is attention-tunnelling, monotropism. Computers would afford an easy way of joining attention tunnels with minimal mutual discomfort, so circumventing some of the most disabling features of autistic spectrum disorders. The potential for computers in Autism would not just be educational but therapeutic. The group presents both theory and practise on its website [http://www.autismandcomputing.org.uk/NAS/index.htm Autism and Computing].
+
+==The autistics' rights movement==
+Many autistics have at least some language skills (some have language skills all of the time, some language skills only some of the time) and have started to speak for themselves about their experience.  The use of the Internet has made it possible for autistics to present their perspective when they do not have the communication skills to do so offline. Even some mute autistics, such as [[Jasmine O'Neill]], still write very well and present a compelling case for societal acceptance of autism.  These autistics do not desire a cure, but rather to be given opportunities to use their unique skills and perceptions in useful ways. There are many different issues presented by the autism rights movement:
+
+===The anti-cure perspective===
+Many autistics believe [[autism]] is not a disorder at all, but simply a variation in neurological hardwiring. They believe that autism is a fundamental part of who they are and that autism is something that cannot be separated from the person. For this reason, they prefer the word "autistics" instead of "person with autism" because "person with autism" implies that autism is something that can be removed from the person. Autistics with this perspective oppose the idea of a cure for autism because they see it as destroying the original personality of the autistic individual, forcing them to imitate "normal" behavior (which is not normal to an autistic), simply to make mainstream society feel less threatened by the presence of people who are different. Anti-cure autistics believe quirks and uniqueness of autistic individuals should be tolerated as the differences of any minority group should be tolerated. When people talk about visions for a future where autism has been eradicated, anti-cure autistics usually see this as [[genocide]] of their [[Autistic culture|culture]] and way of being.
+
+It should be noted that the reason anti-cure autistics oppose a cure for autism is not because they are so high functioning that they do not need a cure. Autistics who oppose a cure experience extreme difficulties on a daily basis. They simply believe autism is more that just a disability but a fundamental part of who they are. Anti-cure autistics usually do wish they had less difficulties in life but don't want to have to sacrifice giving up their personality, values, and who they are in order to make life easier. Anti-cure autistics wish society would be more tolerant and accommodating instead of wanting a cure.
+
+The most quoted person with this perspective is [[Jim Sinclair]] who has written an article titled [http://www.autistics.org/library/dontmourn.html Don't Mourn for Us] which has been widely distributed over the Internet. Websites such as [http://autistics.org autistics.org], [http://www.graphictruth.com Graphic Truth] and [http://www.aspiesforfreedom.com Aspies for Freedom] also present this view.
+
+===Ethical issues in applied behavior analysis (ABA)===
+
+People have made ethical challenges to a popular treatment method known as Applied Behavioral Analysis. Critics of ABA argue that ABA does not actually improve the skills of autistic people, but instead only teaches them to mimic [[neurotypical]] behavior without really understanding the meaning of the social cues they are using. ABA critics also argue that ABA teaches the autistic person to suppress natural and harmless stimulatory behavior (which is called "stimming" for short). There have also been claims that ABA only "works" because of barbaric adversives that often causes [[posttraumatic stress disorder]] later in life.
+
+One critic of ABA is [[Michelle Dawson]], an autistic individual, autism researcher, and autistics' rights activist. Dawson published an article  [http://www.sentex.net/~nexus23/naa_aba.html The Misbehaviour of Behaviourists] in January 2004, challenging the ethical practices and claimed scientific effectiveness of ABA.
+
+Dawson's article sparked heated controversy in April 2004.  Two examples of Dawson's critics are [[Lenny Schafer]], who published a series of articles [http://health.groups.yahoo.com/group/-AuTeach/message/2332 In Defense of Behavioral Treatment for Autism] in the Schafer Autism Report, and Kit Weintraub, who published an article [http://asatonline.org/resources/library/moms_perspective.html A Mother's Perspective]. Many of Dawson's critics are parents of autistic children who feel her suggestions neglect the difficulties their children face and ruin their chances of a normal life. They also believe that Michelle Dawson and her supporters are too different from their children, who have no language skills at all, while Dawson and her supporters can write long articles about their own perspective.  However, some of them at the same time have their children writing articles and speeches (such as those depicted in the Schafer Autism Report) in support of their parents' positions, making the idea that language skills are the real difference between their children and autistic activists dubious.
+
+Autistics who support Michelle Dawson quickly published their own rebuttals to Schafer and Weintraub's articles. [http://www.autistics.org Autistics.org] published an article [http://www.autistics.org/library/dawson.html In Support of Michelle Dawson and Her Work], claiming that the articles from Dawson's critics do nothing more than attack Michelle Dawson personally and fail to address the points in her article. The article also claims, using examples from the personal lives of the authors, that those of Dawson's critics who claim that autistics who support Dawson's work are very different from their own autistic children are making false assumptions about the abilities of Dawson and her autistic supporters. Dawson's autistic supporters claim their critics are judging their functioning abilities purely on their writing abilities and point out that it is possible for autistics to have good written language skills, but poor oral language skills and difficulty with areas of social functioning and living skills that are not necessarily related to language skills. Dawson's supporters also say, that when parents of autistic children claim they are much higher functioning than their children, and describe their children's difficulties to demonstrate this, that the children are being described to have more skills than they have. 
+
+Critics of ABA and supporters of [[Michelle Dawson]] also believe ABA-proponents need to distinguish between problems that really are problems and harmless behaviors that are only different.
+
+===Adult inclusion===
+
+Many in the autistics' rights movement believe the status quo of autism issues focuses too much on children and parents, and tends to disclude autistic adults. This can be easily seen from various autism organizations that have a child as a logo and parents having more power than autistic adults in autism organizations. Autistic adults find this insulting because they feel autistics, not parents, should be the primary focus of autism organizations. They also believe there are a lot more services for autistic children and their parents than for autistic adults, and some advocates of adult inclusion believe that the services and resources that are claimed to be for autistic children are really just for the parents.
+
+===Against an insulting view of autism===
+
+[[Image:Autismawareness.jpg||right||frame|The puzzle piece ribbon is used by autism societies. Many autistic adults find this ribbon offensive and insulting.]]
+Many autistics rights activists believe autism societies present an insulting view of autism. In particular, many autistic adults find the puzzle piece ribbon offensive. Other things autistics rights activists find offensive is when autism is compared to a tragedy, such when people claim autism is worse than [[cancer]] and [[September_11,_2001_attacks|9/11]] combined.
+
+==Intelligence Tests and Autism==
+
+[[IQ]] tests are regularly used during the process of an autism diagnosis, however, this is controversial. Many people believe intelligence tests are designed to test the intellectual abilities in [[neurotypical]]s and are therefore inapprorpiate for autistics. Some people believe separate intelligence tests need to be designed, specifically with autistics in mind. In addition, there is controversy over IQ tests in general. Some people don't believe intelligence is testable at all, and others believe IQ only tests a person's ability to do well on IQ tests and doesn't test anything useful. 
+
+Some people believe too much emphasis is placed on IQ within autism and that divisions between those who are classified as having high IQ scores and those who are classified as having low IQ scores are wrongly made.
+
+==See Also==
+
+* [[Autism]]
+* [[Asperger Syndrome]]
+* [[Autistic culture]]
+* [[Neurodiversity]]
+
+==External links==
+
+===Autistics' Rights===
+
+* [http://www.aspiesforfreedom.com/wiki/index.php/Main_Page AspiesForFreedom Encyclopedia] - Wiki encyclopedia written by an autistic perspective.
+* [http://www.autcom.org/ Autism National Committee]
+* [http://www.autistics.org Autistics.org] - Resources by and for persons on the autistic spectrum
+* [http://home.att.net/~ascaris1/ Autistic Advocacy] - Frank Klein
+* [http://users.1st.net/cibra/ Children Injured by Restraints and Aversives]
+* [http://www.sentex.net/~nexus23/naa_03.html No Autistics Allowed:  Explorations in Discrimination Against Autistics] - Michelle Dawson
+* [http://staff.washington.edu/mjane Jane Meyerding]
+* [http://www.isn.net/~jypsy/AuSpin/ournames.htm Our Names are Autism, Too] - Janet Norman-Bain
+* [http://www.jimsinclair.org/ Jim Sinclair's Web Site]
+* [http://www.ani.ac/ Autism Network International]
+* [http://www.isn.net/~jypsy/ Oops.. Wrong Planet Syndrome]
+
+===Internet autistics' rights campaigns===
+
+In the early [[2000s]], activist campaigns started over the Internet.
+* In April 2000, [http://www.autistics.org Autistics.org] hosted an online counter-rally called [http://www.autistics.org/library/reply.html "Hear Our Voices"] to protest an autism rally in Washington D.C. called "Hear Their Silence" that they disagreed with.
+* In 2004, a [http://www.isn.net/~jypsy/AuSpin/a2p2.htm Autistic Adults Picture Project] was started in response to similar projects started by parents that only include pictures of children.
+* In September 2004, the [http://www.isn.net/~jypsy/AuSpin/ournames.htm "Our Names are Autism Too"] is a campaign that protested an article titled [http://www.asohalton.org/My%20Name%20is%20Autism.pdf "My Name is Autism"] that presented a view autistics' rights activists found insulting.
+* In October 2004, the [http://www.isn.net/~jypsy/AuSpin/sig.html Signatures of Intolerance] campaign was started over controversy surrounding ABA in Canada.
+
+===Groups for parents of autistic people===
+* [http://maapservices.org/ MAAO Services: The Autism and Asperger's Syndrome Source]
+
+===Research organizations on autism===
+* [http://info.med.yale.edu/chldstdy/autism/pddinfo.html/ Yale's Pervasive Developmental Delay Clinic]
+* [http://osiris.sunderland.ac.uk/autism/index.html The Autism Research Unit athe University of Sunderland, UK]
+
+===Behavioral therapies for autism===
+
+* [http://www.lovaas.com/ Lovaas Center for Early Intervention] - founder of ABA
+* [http://www.stanleygreenspan.com/ Stanley Greenspan] - founder of DIR/Greenspan
+* [http://www.millermethod.org/ Miller Method] - Arnold Miller
+* [http://www.son-rise.org/ Son Rise program] - Barry Kaufman
+
+===Biomedical intervention resources===
+* [http://www.autism.org/ Center for the Study of Autism]
+* [http://www.autismndi.com/ Autism Network for Dietary Intervention]
+* [http://www.autism.com/ari/ Autism Research Institute]
+* [http://www.canfoundation.org/ Cure Autism Now]
+
+===Sites on vaccination and autism===
+* [http://www.universityofhealth.net/UICHomePage.html Uninformed Consent]
+* [http://www.909shot.com/Diseases/autismsp.htm National Vaccine Information Center]</rev></revisions></page></pages></query></api>

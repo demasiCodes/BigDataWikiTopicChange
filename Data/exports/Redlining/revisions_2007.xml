@@ -1,0 +1,77 @@
+<?xml version="1.0"?><api><continue rvcontinue="20071114041242|171363564" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="60562" pageid="60562" ns="0" title="Redlining"><revisions><rev timestamp="2007-11-14T04:16:25Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">[[Image:Holc redlining map.jpeg|thumb|right|250px|[[Home Owners' Loan Corporation|HOLC]]'s 1936 security map of [[Philadelphia]] showing redlining of minority neighborhoods.&lt;ref&gt;The HOLC maps are part of the records of the FHLBB (RG195) at the [http://www.archives.gov/index.html National Archives II].&lt;/ref&gt; People who lived in the red zones could not get mortgages to buy or improve their homes.]]
+{{for|the [[automotive]] term|redline}}
+
+'''Redlining''' is the practice of denying or increasing the cost of services, such as [[banking]], [[insurance]], access to jobs,&lt;ref&gt;''[http://www.core.ucl.ac.be/services/psfiles/dp99/dp9913.pdf Racial Discrimination and Redlining in Cities]''&lt;/ref&gt; access to health care,&lt;ref&gt;See: [[Race and health]]&lt;/ref&gt;  or even [[supermarkets]]&lt;ref&gt;''[http://www.springerlink.com/content/ptc5hvexthe7wrye/ In poor health: Supermarket redlining and urban nutrition]'', Elizabeth Eisenhauer, [[GeoJournal]] 	Volume 53, Number 2 / February, 2001&lt;/ref&gt; to residents in certain, often racially determined,&lt;ref name="eastny"&gt;''[http://books.google.com/books?id=TWo8OFJpFtAC How East New York Became a Ghetto]'' by Walter Thabit. ISBN 0814782671. Page 42.&lt;/ref&gt; areas. The most devastating form of redlining, and the most common use of the term, refers to [[Mortgage Discrimination|mortgage discrimination]]. The term "redlining" was coined in the late 1960s by community activists in Chicago.  It describes the practice of marking a red line on a map to delineate the area where banks would not invest. During the heyday of redlining these areas were most frequently black [[inner city]] neighborhoods.
+
+== History of the practice ==
+Although in the [[United States]] informal discrimination and segregation have always existed, the practice called "redlining" began with the [[National Housing Act of 1934]], which established the [[Federal Housing Administration]] (FHA). In 1935, the [[Federal Home Loan Bank Board]] (FHLBB) asked [[Home Owners' Loan Corporation]] (HOLC) to look at 239 cities and create "residential security maps" to indicate the level of security for real-estate investments in each surveyed city. In these maps many minority neighborhoods in cities were not eligible to receive loans at all. Since blacks were unwelcome in white neighborhoods, which frequently instituted racial [[restrictive covenant]]s to keep them out, this effectively meant that blacks could not secure [[mortgage loan]]s at all, and it resulted in a large increase in the residential [[racial segregation]] and [[urban decay]] in the United States. Urban Planning historians theorize that the maps were used for years afterwards to deny loans to people in black communities by private and public entities.
+
+On the maps, the most-affluent areas—those considered desirable for lending purposes—were outlined in blue and known as "Type A". 
+"Type B" neighborhoods were less well off and outlined in yellow. 
+&lt;!--What about Type C?--&gt;
+"Type D" neighborhoods were outlined in red on the map. Most of the [[List of U.S. metropolitan areas with large African-American populations|black neighborhoods]] were characterized as "Type D" and were considered to be the worst for lending.
+
+Some redlined maps were also created by private organizations, such as J.M. Brewer's 1934 map of Philadelphia. The maps created by private organizations were designed to meet the requirements of the [[Federal Housing Administration]]'s underwriting manual. The lenders had to consider FHA standards if they wanted to receive FHA insurance for their loans. FHA appraisal manuals instructed banks to steer clear of areas with "''inharmonious racial groups''" and recommended that municipalities enact racially restrictive zoning ordinances, as well as [[restrictive covenant|covenants]] prohibiting black owners.&lt;ref&gt;''Principles to Guide Housing Policy at the Beginning of the Millennium'', Michael Schill &amp; Susan Wachter, [[Cityscape]]&lt;/ref&gt;&lt;ref&gt;[http://www.public.asu.edu/~wplotkin/DeedsWeb/fha38.html "Racial" Provisions of FHA Underwriting Manual, 1938] &lt;blockquote&gt;Recommended restrictions should include provision for the following:
+Prohibition of the occupancy of properties '''except by the race for which they are intended''' …Schools should be appropriate to the needs of the new community and they should not be attended in large numbers by '''inharmonious racial groups'''. [[Federal Housing Administration]], Underwriting Manual: Underwriting and Valuation Procedure Under Title II of the [[National Housing Act]] With Revisions to February, 1938 (Washington, D.C.), Part II, Section 9, Rating of Location.&lt;/ref&gt;
+
+== Challenges to redlining ==
+In the [[United States]], the practice was fought first through passage of the [[Fair Housing Act of 1968]] (which prevents redlining when the criteria for redlining are based on race, religion, gender, familial status, disability, or ethnic origin), and later through the [[Community Reinvestment Act]] of [[1977]], which requires banks to apply the same lending criteria in all communities.&lt;ref&gt;[http://books.google.com/books?vid=ISBN0813339529 Comeback Cities: A Blueprint for Urban Neighborhood Revival] By Paul S. Grogan, Tony Proscio. ISBN 0813339529. Published 2002. Page 114.&lt;blockquote&gt;The goal was not to relax lending restrictions but rather to get banks to apply the same criteria in the inner-city as in the [[suburbs]].&lt;/blockquote&gt;&lt;/ref&gt; 
+
+[[ShoreBank]], a community-development bank in [[Chicago]]'s [[South Shore]] neighborhood, was a part of the private-sector fight against redlining.&lt;ref name="shorebank"&gt;Douthwaite, Richard. "[http://www.feasta.org/documents/shortcircuit/index.html?sc4/shorebank.html HOW A BANK CAN TRANSFORM A NEIGHBOURHOOD]", "Short Circuit". Retrieved on [[January 8]], [[2007]]&lt;/ref&gt;  Founded in [[1973]], ShoreBank sought to combat racist lending practices in Chicago's [[African-American]] communities by providing financial services, especially mortgage loans, to local residents.&lt;ref&gt;Thomsen, Mark. "[http://www.socialfunds.com/news/article.cgi/673.html ShoreBank Surpasses $1 Billion in Community Development Investment]", "Social Funds", 2001-11-1.  Retrieved on [[January 8]], [[2007]].&lt;/ref&gt; Many sources characterize ShoreBank's efforts as overwhelmingly inspirational and successful.&lt;ref&gt;Wisniewski, Mary. "[http://www.findarticles.com/p/articles/mi_qn4155/is_20050216/ai_n11842188 Milton Davis, community banking pioneer]", "Chicago Sun-Times", 2005-16-2. Retrieved on [[January 9]], [[2007]].&lt;/ref&gt; In a 1992 speech, President [[Bill Clinton]] called ShoreBank “the most important bank in America.”&lt;ref name="shorebank"&gt;.&lt;/ref&gt;
+
+==Contemporary issues==
+Dan Immergluck writes that in 2002 small businesses in black neighborhoods still received fewer loans, even after accounting for business density, business size, industrial mix, neighborhood income, and the credit quality of local businesses.&lt;ref&gt;''Redlining Redux'' Urban Affairs Review, Vol. 38, No. 1, 22–41 (2002)&lt;/ref&gt; Gregory D. Squires wrote in 2003 that it is clear that race has long affected and continues to affect the policies and practices of the insurance industry.&lt;ref&gt;Racial Profiling, Insurance Style: Insurance Redlining and the Uneven Development of Metropolitan Areas Journal of Urban Affairs 25 (4), 391–410. &lt;/ref&gt; Workers living in American inner cities have a harder time finding jobs than suburban workers.&lt;ref&gt;''Racial Discrimination and Redlining in Cities'' Yves Zenou and Nicolas Boccard 1999&lt;/ref&gt; Redlining has helped preserve segregated living patterns for blacks and whites in the United States, because discrimination motivated by [[prejudice]] is often contingent on the racial composition of neighborhoods where the loan is sought and the race of the applicant. Lending institutions have been shown to treat black mortgage applicants differently when buying homes in white neighborhoods than when buying homes in black neighborhoods. &lt;ref&gt;Stephen R Holloway (1998) ''Exploring the Neighborhood Contingency of Race Discrimination in Mortgage Lending in Columbus, Ohio'' Annals of the Association of American Geographers 88 (2), 252–276.&lt;/ref&gt;
+
+===Retail redlining===
+[[Retail]] redlining is a spatially discriminatory practice among retailers, of not serving certain areas, based on their ethnic-minority composition, rather than on economic criteria, such as the potential profitability of operating in those areas. Consequently, consumers in these areas often find themselves "vulnerable" because no other retailers will serve them, or they are exploited by other, often smaller, retailers who charge them higher prices and/or offer them inferior goods.&lt;ref&gt;''Retail Redlining: Definition, Theory, Typology, and Measurement'' Denver D’Rozario Journal of Macromarketing, Vol. 25, No. 2, 175-186 (2005)&lt;/ref&gt;
+
+===Insurance redlining===
+[[Racial profiling]] or redlining has a long history in the property-[[insurance]] industry in the United States. From a review of industry underwriting and marketing materials, court documents, and research by government agencies, industry and community groups, and academics, it is clear that race has long affected and continues to affect the policies and practices of the insurance industry.&lt;ref&gt;''Gregory D. Squires (2003)
+Racial Profiling, Insurance Style: Insurance Redlining and the Uneven Development of Metropolitan Areas'' Journal of Urban Affairs Volume 25 Issue 4 Page 391-410, November 2003 &lt;/ref&gt; Home-insurance agents are generally able to detect the race of someone who contacts them by telephone, and that this information affects the services provided those who inquire about purchasing a home-insurance policy. This type of discrimination is called linguistic [[racial profiling|profiling]].&lt;ref&gt;''Linguistic Profiling: A Continuing Tradition of Discrimination in the Home Insurance Industry?'' Gregory D. Squires Urban Affairs Review, Vol. 41, No. 3, 400-415 (2006)&lt;/ref&gt; There have also been concerns raised about redlining in the [[car insurance|automotive insurance]] industry.&lt;ref&gt;''[http://www.itd.idaho.gov/transporter/2003/080803_Trans/080803_MIuninsured.html Michigan to crack down on uninsured drivers]'' By Karen Bouffard [[The Detroit News]]&lt;/ref&gt;
+
+===Environmental racism===
+{{main|environmental racism}}
+{{seealso|Race and health}}
+Policies related to redlining and [[urban decay]] can also acts as a form of [[environmental racism]], and in turn have an impact on public health. Urban minority communities may face environmental racism in the form of parks that are smaller, less accessible and of poorer quality than those in more affluent or white areas in some cities.&lt;ref name="parks"&gt;''[http://www.berkeleydaily.org/text/article.cfm?issue=11-13-07&amp;storyID=28458 Minority Communities Need More Parks, Report Says]'' by By Angela Rowen The Berkeley Daily Planet&lt;/ref&gt; This may have an indirect impact on health since young people have fewer places to play and adults have fewer opportunities for excercise.&lt;ref name="parks"&gt;''[http://www.berkeleydaily.org/text/article.cfm?issue=11-13-07&amp;storyID=28458 Minority Communities Need More Parks, Report Says]'' by By Angela Rowen The Berkeley Daily Planet&lt;/ref&gt;
+
+Robert Wallace writes that the pattern of the [[AIDS]] outbreak during the 80s was affected by the outcomes of a program of '[[planned shrinkage]]' directed in African-American and Hispanic communities, and implemented through systematic denial of municipal services, particularly fire extinguishment resources, essential for maintaining urban levels of population density and ensuring community stability.&lt;ref&gt;''Urban desertification, public health and public order: 'planned shrinkage', violent death, substance abuse and AIDS in the Bronx.'' Wallace R. Soc Sci Med, 1990 - ncbi.nlm.nih.gov&lt;/ref&gt; [[Institutionalized racism]] affects general health care as well as the quality of AIDS health intervention and services in minority communities. The overrepresentation of minorities in various disease categories, including AIDS, is partially related to environmental racism. The national response to the AIDS epidemic in minority communities was slow during the 80s and 90s showing an insensitivity to ethnic diversity in prevention efforts and AIDS health services.&lt;ref&gt;''AIDS and racism in America.'' Hutchinson J.,  Journal of the National Medical Association, 1992 Feb;&lt;/ref&gt;
+
+== See also ==
+* [[Black flight]]
+* [[Blockbusting]]
+* [[Computer-assisted reporting]]
+* [[Community Reinvestment Act]]
+* [[Inclusionary zoning]]
+* [[Mortgage Discrimination]]
+* [[Planned shrinkage]]
+* [[Racism]]
+* [[Racial steering]]
+* [[Urban renewal]]
+* [[Timeline of Racial Tension in Omaha, Nebraska]]
+* [[White flight]]
+
+== External links ==
+* [http://cml.upenn.edu/redlining/ Redlining in Philadelphia. Amy Hillier, PhD]
+* [http://cml.upenn.edu/redlining/C_intro.html  Redlining, and Neighborhood Appraisals in Philadelphia]
+* [http://www.nchousing.org/housing_issues_nc/housing_policy_history Housing Policy History, NC Housing Coalition]
+* [http://www.blackwell-synergy.com/links/doi/10.1111/1541-0064.00026/enhancedabs/?cookieSet=1 From 'black-balling' to 'marking': the suburban origin of redlining in Canada]
+* [http://powerreporting.com/color/ "The Color of Money": [[Bill Dedman]] received the Pulitzer Prize in investigative reporting in 1989 for this series of articles, which described racial discrimination in mortgage lending in the Atlanta area.]
+* [http://news.zdnet.com/2100-9595_22-502252.html/ Kozmo delivering consumer racism?  Investigative probe by MSNBC.com unearths first case of "cyber-redlining."]
+
+== References ==
+{{reflist}}
+
+{{Aafooter}}
+{{Segregationfooter}}
+{{discriminationfooter}}
+
+[[Category:Civil rights]]
+[[Category:Urban studies and planning]]
+[[Category:Urban decay]]
+[[Category:United States Department of Housing and Urban Development]]
+[[Category:History of racism in the United States]]
+[[Category:US mortgage industry]]
+[[Category:Racial segregation]]
+
+[[de:Redlining]]
+[[ja:特定警戒地区指定]]</rev></revisions></page></pages></query></api>

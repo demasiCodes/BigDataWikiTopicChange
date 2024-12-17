@@ -1,0 +1,41 @@
+<?xml version="1.0"?><api><continue rvcontinue="20240708175522|1233363223" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="56748271" pageid="56748271" ns="0" title="Aporophobia"><revisions><rev timestamp="2024-11-02T02:43:29Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{short description|Negative attitudes and feelings, or hostility towards, poverty and poor people}}
+{{Discrimination sidebar|expanded=Social}}
+
+'''Aporophobia''' (from the [[Spanish language|Spanish]] ''aporofobia'', and this from the [[Ancient Greek]] ἄπορος (''áporos''), 'without resources, indigent, poor,' and φόβος (''phobos''), 'hatred' or 'aversion')&lt;ref name="fundeu"&gt;{{cite news|url=http://www.fundeu.es/recomendacion/aporofobia/|title=Aporofobia, neologismo válido|access-date=5 July 2016|author=Fundéu BBVA|date=18 December 2014|website=fundeu.es}}&lt;/ref&gt;&lt;ref&gt;Guerrero, Gloria. [http://blogscvc.cervantes.es/martes-neologico/aporofobia/ «Aporofobia, f.»], ''Martes Neológico'', [[Instituto Cervantes]]. Retrieved 20 September 2016.&lt;/ref&gt; are negative attitudes and feelings towards [[poverty]] and poor people. It is the disgust and hostility toward poor people, those without resources or who are helpless.&lt;ref name="galicia"&gt;[http://www.lavozdegalicia.es/vigo/2008/08/31/0003_7100981.htm «El Imán pide a la RAE que acepte el término aporofobia.»] ''[[La Voz de Galicia]]''. 31 de agosto de 2008. Retrieved 21 December 2014.&lt;/ref&gt;
+
+The word povertyism is also used, in the field of international law, to denote this form of discrimination against people living in poverty. &lt;ref&gt;{{Cite web |date=2022-10-26 |title=Make poverty discrimination illegal like racism or sexism, official to tell UN |url=https://www.theguardian.com/global-development/2022/oct/26/make-poverty-discrimination-like-racism-or-sexism-official-to-tell-un |access-date=2022-10-26 |website=the Guardian |language=en}}&lt;/ref&gt;
+
+The concept of aporophobia was coined in the 1990s&lt;ref name="Navarro"&gt;Martínez Navarro, Emilio. [http://www.emiliomartinez.net/pdf/Aporofobia.pdf “Aporofobia”, en: Jesús Conill (coord.): ''Glosario para una sociedad intercultural'', Valencia, Bancaja, 2002, pp. 17-23.]&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Cortina|first=Adela|author-link=Adela Cortina|title=Aporofobia|url=http://elpais.com/diario/2000/03/07/opinion/952383603_850215.html|date=7 March 2000|access-date=11 April 2017|work=El País}}&lt;/ref&gt; by the philosopher [[Adela Cortina]], professor of Ethics and Political Philosophy at the [[University of Valencia]],&lt;ref&gt;Lascuráin, Javier (Fundéu BBVA). [http://www.fundeu.es/noticia/aporofobia-la-historia-de-una-palabra-nacida-para-cambiar-la-realidad/ «'Aporofobia': la historia de una palabra nacida para cambiar la realidad.»] [[Fundéu BBVA]]. Retrieved 29 December 2014.&lt;/ref&gt; to differentiate this attitude from [[xenophobia]], which only refers to the rejection of [[Alien (law)|foreigners]], and [[racism]], which is discrimination by [[ethnic group]]s. The difference between aporophobia and xenophobia or racism is that socially there is no discrimination or marginalization of immigrants or members of other ethnic groups when these people have assets, economic resources and/or social and media relevance.&lt;ref name="Navarro" /&gt;&lt;ref&gt;{{cite book|last=Cortina|first=Adela|author-link=Adela Cortina|title=Ética|year=1996|publisher=Santillana|location=Madrid}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Pérez Oliva|first=Milagros|title=Cortina: "Lo que molesta de los inmigrantes es que sean pobres"|url=http://cultura.elpais.com/cultura/2017/05/08/actualidad/1494264276_545094.html|date=10 May 2017|access-date=21 December 2017|work=El País}}&lt;/ref&gt;
+
+{{quote|The aporophobia consists, therefore, in a feeling of fear and in an attitude of rejection of the poor, the lack of means, the helpless. Such feeling and such attitude are acquired.&lt;ref name="Navarro" /&gt;}} Pursuant to a decision of the [[French Parliament]] of 24 June 2016, it was added to the list of forms of discrimination prohibited by the [[Constitution of France|constitution]] as "discrimination for social precarity".{{cn|date=May 2022}} However, fewer than 20 persons have instituted lawsuits on the grounds of such discrimination.
+
+== See also ==
+{{Columns-list|colwidth=30em|
+* [[Anti-Romanyism]]
+* [[Caste]]
+* [[Economic discrimination]]
+* [[Environmental racism]]
+* [[List of phobias]]
+* [[NIMBY]]
+* [[Social cleansing]]
+* [[Slum clearance]]
+* [[White flight]]
+* [[Hostile architecture]]}}
+
+== References ==
+{{Reflist|2}}
+
+== Bibliography ==
+{{Wiktionary}}
+* [[Adela Cortina|Cortina, Adela]] (2017). ''Aporofobia, el rechazo al pobre''. Barcelona: Paidós. {{in lang|es}}.
+
+{{Discrimination}}
+{{Portal bar|Society}}
+
+[[Category:Discrimination against the homeless]]
+[[Category:Poverty]]
+[[Category:Xenophobia]]
+[[Category:Concepts in social philosophy]]
+
+{{poverty-stub}}
+{{socio-stub}}</rev></revisions></page></pages></query></api>

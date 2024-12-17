@@ -1,0 +1,11 @@
+<?xml version="1.0"?><api batchcomplete=""><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1298951" pageid="1298951" ns="0" title="Internalized oppression"><revisions><rev timestamp="2006-11-08T12:01:11Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">In [[sociology]] and [[psychology]], '''internalized oppression''' is the manner in which an oppressed group comes to use against itself the methods of the oppressor. For example, sometimes members of marginalized groups hold an oppressive view toward their own group, or start to believe in negative stereotypes of themselves.
+
+==See also==
+
+* [[Self-hatred]]
+
+{{Uncategorized|November 2006}}
+
+
+{{Socio-stub}}
+{{Psych-stub}}</rev></revisions></page></pages></query></api>

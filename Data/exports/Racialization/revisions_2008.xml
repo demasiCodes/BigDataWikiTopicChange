@@ -1,0 +1,17 @@
+<?xml version="1.0"?><api><continue rvcontinue="20080822100135|233507358" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="4317712" pageid="4317712" ns="0" title="Racialization"><revisions><rev timestamp="2008-08-31T01:45:28Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{mergeto|Racial formation theory|Talk:Racialization#Merger proposal|date=May 2008}}
+
+'''Racialization''' refers to processes of the discursive production of [[Race (classification of human beings)|racial identities]]. It signifies the extension of racial meanings to a previously racially unclassified relationship, social practice, or group.&lt;ref name=Omi &amp; Winant 1986&gt;Omi &amp; Winant 1986.&lt;/ref&gt;
+* {{cite book
+|author =Omi, Michael &amp; Howard Winant
+|year =1986
+|title =Racial formation in the United States : from the 1960s to the 1980s
+|publisher =Routledge &amp; Kegan Paul
+|isbn =0710209703
+}}
+
+==References==
+{{Reflist}}
+
+[[Category:Race]]
+
+{{socio-stub}}</rev></revisions></page></pages></query></api>

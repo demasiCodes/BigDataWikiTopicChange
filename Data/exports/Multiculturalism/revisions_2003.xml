@@ -1,0 +1,12 @@
+<?xml version="1.0"?><api><continue rvcontinue="20031004000131|1521794" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="51885" pageid="51885" ns="0" title="Multiculturalism"><revisions><rev timestamp="2003-10-04T00:01:49Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">[[de:Multikulturalismus]]
+
+'''Multiculturalism''' emphasizes the unique characteristics of mulitplicity of cultures in the world, especially as the relate to one another in America. 
+
+[[Diane Ravitch]] identifies the two main currents of multiculturalism as ''pluralistic'' and ''particularist''. Pluralistic multiculturalism views each culture or subculture in a society as contributing unique and valuable cultural aspects to the whole culture ("melting pot"). Particularist multiculturalism is more concerned with preserving the distinctions between cultures. 
+
+Particularists often deride Western Christendom in general or specifically America as narrowly "Eurocentric". For example, [[Edward Said]]'s book ''[[Orientalism]]'' claims Westerners are inherently incapable of understanding [[Islam]].
+
+It is often difficult to distinguish the two currents Ravitch describes, as the celebration of a "diversity" can mask a hostility toward a mainstream which has ignored blacks, women, American Indians and so on in American history.
+
+==Links==
+*[http://college.hmco.com/currentconflict/students/multicultural/ravitch_article/intro.html Multiculturalism: E Pluribus Plures] - article by [[Diane Ravitch]] on pluralistic vs. particularistic multiculturalism</rev></revisions></page></pages></query></api>

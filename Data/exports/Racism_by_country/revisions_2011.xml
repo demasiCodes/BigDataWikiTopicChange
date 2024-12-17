@@ -1,0 +1,15 @@
+<?xml version="1.0"?><api><continue rvcontinue="20110829021102|447235646" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="5348421" pageid="5348421" ns="0" title="Racism by country"><revisions><rev timestamp="2011-08-29T02:11:22Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Cleanup|date=February 2008}}
+The article describes the state of '''[[race relations]] and [[racism]] in a number of countries'''.  Racism of various forms is found in every country on Earth.&lt;ref&gt;{{cite web|url = http://web.amnesty.org/library/index/engACT400202001|publisher = Amnesty International|title = Racism and the administration of justice}}&lt;/ref&gt;  Racism is widely condemned throughout the world, with 170 states signatories of the [[International Convention on the Elimination of All Forms of Racial Discrimination]] by August 8, 2006.&lt;ref&gt;{{cite web|url = http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/208ba1d9617d31d1c1257259003eed53?Opendocument|title = Report of the Committee on the Elimination of Racial Discrimination 68th and 69th session|publisher = United Nations Office of the High Commissioner for Human Rights}}&lt;/ref&gt;  In different countries, the forms that racism takes may be different for historic, cultural, religious, economic or demographic reasons.
+
+{{Africa topic|Racism in}}
+{{Americas topic|Racism in}}
+{{Asia topic|Racism in}}
+{{Europe topic|Racism in}}
+{{Oceania topic|Racism in}}
+
+==References==
+{{reflist}}
+
+{{Racism topics}}
+
+[[Category:Racism by country| ]]</rev></revisions></page></pages></query></api>

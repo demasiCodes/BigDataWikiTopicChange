@@ -1,0 +1,39 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030928030828|1494391" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="12987" pageid="12987" ns="0" title="Gerrymandering"><revisions><rev timestamp="2003-09-28T10:53:48Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">[[eo:Gerrymander]][[de:Gerrymandering]]
+
+'''Gerrymandering''' is the deliberate manipulation of [[political borders]] 
+(in many countries, specifically the "electoral district/constituency boundaries") for short-term electoral advantage, usually of incumbents.  The word '''gerrymander''' serves both as a verb meaning to perpetrate the abuse and as a noun describing the resulting electoral geography.
+
+&lt;div style="float:left;width:298px;padding:5px"&gt;[[Image:Gerrymander.jpeg]]&lt;/div&gt;
+
+==The origins of the term==
+
+The term is named for an early [[Massachusetts]] Governor, [[Elbridge Gerry]]. Two reporters were looking at the new election map and one commented that one of the new districts looked just like a [[salamander]].  The other retorted that it looked like a Gerrymander. The name stuck and is now used by [[political science|political scientists]] everywhere.
+
+It is an issue most often associated with single member [[voting system|electoral systems]] in which the district boundaries can have a crucial impact on the number of persons elected by a party to a legislature.  
+
+One form of gerrymandering occurs when the boundaries of a constituency are changed in order to eliminate some area with a high concentration of people who vote for a certain political party.  Another form occurs when an area with a high concentration of voters for a certain party is split among several districts, insuring that the party has a small majority in several districts rather than a large majority in one. Often, such gerrymandering is held to redress a long-overlooked imbalance, as when creating a black majority district.
+
+==The Dame Shirley Porter case== 
+
+Yet another method is to attempt to move the population within the existing boundaries. This occurred in [[Westminster]], in the [[United Kingdom]]. The local government was controlled by the [[UK Conservative party|Conservative party]], and the leader of the council, [[Dame Shirley Porter]], conspired with others to implement the policy of [[council house]] sales in such a way as to shore up the Conservative vote in marginal wards by selling the houses there to people thought likely to vote Conservative.  An inquiry by the district auditor found that these actions had resulted in financial loss to tax payers and Porter and three others were surcharged to cover the loss.  Those surcharged resisted this ruling with a legal challenge, but, in December [[2001]], the appeal court upheld the district auditor's ruling and Porter remains liable for the amount of the surcharge and legal costs.
+
+==Gerrymandering in Northern Ireland==
+
+A particularly famous case occured in [[Northern Ireland]], where the [[Ulster Unionist Party]] government created electoral boundaries which, coupled with restrictions on voting rights based on economic status, ensured the election of unionist candidates in electoral areas where nationalists were in the overwhelming majority. This policy, coupled with a policy that gave council houses to unionists at the expense of nationalists (in one famous case, giving a council house to an unmarried protestant woman rather than a large catholic family), to ensure unionist control of electoral wards, produced the ''Civil Rights Movement.'' The battle for civil rights in local government, and an end to gerrymandered discrimination, led to [[The Troubles]]. 
+
+==Gerrymandering in the United States== 
+
+Others realized that gerrymandering was cutting minority populations in half to keep all minorities in the minority, in as many districts as possible.  This led to a major civil rights conflict; Gerrymandering for the purpose of reducing the political influence of a minority group is illegal in the United States under the [[Voting Rights Act of 1965]]. 
+
+The possibility of gerrymandering makes the process of redistricting extremely politically contentious within the United States.  Under U.S. law, districts for members of the House of Representatives are redrawn every ten years following each [[census]] and it is common practice for state legislative boundaries to be redrawn at the same time.  What usually results is a contentious fight between the political parties to ensure that the districts most advantageous to them are adopted.  
+
+Many [[Electoral Reform]] packages advocate fixed or neutrally defined district borders to eliminate this manipulation. One such scheme of neutrally defined district borders is [[bioregional democracy]] which follows the borders of [[terrestrial ecoregions]] as defined by [[ecology]], in the hope that such scientific criteria would be immune to politically motivated manipulation.
+
+==Tullymandering== 
+
+In the [[Republic of Ireland]] in the mid 1970s, the Minister for Local Government, [[James Tully]], attempted to arrange constituencies to ensure that the governing [[National Coalition]] would win a parliamentary majority. This he did by ensuring as many as possible three-seat constituencies, in the expectation that the governing parties would each win a seat in many constituencies, relegating the opposition [[Fianna Fáil]] party to one out of three. In fact the process backfired spectacularly, with Fianna Fáil winning two out of three in many cases, relegating the National Coalition parties to fight for the last seat. His attempted gerrymander came to be called a '''Tullymander'''.
+
+===See also:===
+*[[Rotten Borough]]
+*[[Proportional Representation]]
+*[[Decentralisation]]</rev></revisions></page></pages></query></api>

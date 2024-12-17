@@ -1,0 +1,21 @@
+<?xml version="1.0"?><api><continue rvcontinue="20091026235619|322243126" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="4317712" pageid="4317712" ns="0" title="Racialization"><revisions><rev timestamp="2009-10-29T22:39:03Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Orphan|date=February 2009}}
+{{Race}}
+'''Racialization''' refers to processes of the discursive production of [[Race (classification of human beings)|racial identities]]. It signifies the extension of dehumanizing and racial meanings to a previously racially unclassified relationship, social practice, or group.&lt;ref name="Omi &amp; Winant 1986"&gt;Omi &amp; Winant 1986.&lt;/ref&gt;
+* {{cite book
+|author =Omi, Michael &amp; Howard Winant
+|year =1986
+|title =Racial formation in the United States : from the 1960s to the 1980s
+|publisher =Routledge &amp; Kegan Paul
+|isbn =0710209703
+}} To be put simply, a group of people is seen as a "race", when it was not before. 
+
+See also: 
+*[[Social interpretations of race]]
+
+==References==
+{{Reflist}}
+
+[[Category:Race]]
+
+
+{{socio-stub}}</rev></revisions></page></pages></query></api>

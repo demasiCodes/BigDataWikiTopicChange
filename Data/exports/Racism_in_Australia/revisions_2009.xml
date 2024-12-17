@@ -1,0 +1,122 @@
+<?xml version="1.0"?><api><continue rvcontinue="20091114003036|325716280" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="23011954" pageid="23011954" ns="0" title="Racism in Australia"><revisions><rev timestamp="2009-11-15T06:18:20Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Mergefrom|Racial Violence In Australia|date=July 2009}}
+{{Cleanup-rewrite|date=June 2009}}
+An 11-year study into '''Racism in Australia''' by a collaboration of Australian universities found that 85 per cent of Australians acknowledge racial prejudice occurs in the nation with one in five claiming to be a victim of racist verbal abuse or related incidents.&lt;ref&gt;[http://www.heraldsun.com.au/news/breaking-news/australians-struggling-with-multiculturalism/story-e6frf7jx-1225739712383 "Australians struggling with multiculturalism" ''Herald Sun'' 24 June 2009]&lt;/ref&gt;.
+
+==Indigenous Australians==
+At the time of first [[Europe]]an contact, it has been estimated the absolute minimum pre-1788 population was 315,000, while recent archaeological finds suggest that a population of 750,000 could have been sustained.&lt;ref name="pop_abs"&gt;[http://www.abs.gov.au/ausstats/abs@.nsf/94713ad445ff1425ca25682000192af2/bfc28642d31c215cca256b350010b3f4!OpenDocument 1301.0 - Year Book Australia, 2002] [[Australian Bureau of Statistics]] 25 January 2002&lt;/ref&gt; 
+
+With the establishment of European settlement and their subsequent expansion the indigenous populations were progressively forced into neighbouring territories. Conflict between [[Indigenous Australians]] and European settlers described as the [[Australian frontier wars]] arose out this expansion, by the mid-late 1800s, populations were forcibly relocated to land reserves and missions. The nature of many of these land reserves and missions enabled disease to spread quickly and many were closed as resident numbers dropped, with the remaining residents being moved to other land reserves and missions into the 20th century.&lt;ref&gt;{{cite book|last=Grey|first=Jeffrey|title=A Military History of Australia|publisher=Cambridge University Press|location=Port Melbourne|date=2008|edition=Third|isbn=9780521697910|pages=28–40}}&lt;/ref&gt;
+===Stolen Generations===
+{{Main|Stolen Generations}}
+The Stolen Generations is a term used to describe children of [[Australian Aborigines|Australian Aboriginal]] and [[Torres Strait Islander]] descent who were removed from their families by Australian Federal and State agencies and [[Mission (Christian)|church missions]], under [[act of parliament|acts]] of parliament.&lt;ref name="stolen62"&gt;''Bringing them Home'', 
+[http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen62.html Appendices listing and interpretation of state acts regarding 'Aborigines']: [http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen63.html Appendix 1.1 NSW]; [http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen64.html Appendix 1.2 ACT]; [http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen65.html Appendix 2 Victoria];
+[http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen66.html Appendix 3 Queensland]; [http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen67.html Tasmania]; [http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen68.html Appendix 5 Western Australia]; 
+[http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen69.html Appendix 6 South Australia]; 
+[http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen70.html Appendix 7 Northern Territory].&lt;/ref&gt;&lt;ref&gt;[http://www.humanrights.gov.au/education/bth/contents.html#resources Bringing them home education module]: the laws: [http://www.humanrights.gov.au/education/bth/resources/laws_act.html Australian Capital Territory]; [http://www.humanrights.gov.au/education/bth/resources/laws_nsw.html New South Wales]; [http://www.humanrights.gov.au/education/bth/resources/laws_nt.html Northern Territory]; [http://www.humanrights.gov.au/education/bth/resources/laws_qld.html Queensland Queensland]; [http://www.humanrights.gov.au/education/bth/resources/laws_sa.html South Australia]; [http://www.humanrights.gov.au/education/bth/resources/laws_sa.html Tasmania]; [http://www.humanrights.gov.au/education/bth/resources/laws_vic.html Victoria]; [http://www.humanrights.gov.au/education/bth/resources/laws_wa.html Western Australia].
+&lt;/ref&gt; The removals occurred in the period between approximately 1869&lt;ref&gt;Marten, J.A., (2002), ''Children and war'', NYU Press, New York, p. 229 ISBN 0814756670.&lt;/ref&gt; and 1969,&lt;ref&gt;{{cite web
+|url= http://www.dreamtime.net.au/indigenous/family.cfm#bi
+|title= Indigenous Australia: Family
+|accessdate= 28 March 2008
+|author= Australian Museum
+|authorlink= Australian Museum
+|year= 2004
+}}
+&lt;/ref&gt;&lt;ref name="read"&gt;
+{{cite book
+ | last = Read
+ | first = Peter
+ | title = The Stolen Generations: The Removal of Aboriginal children in New South Wales 1883 to 1969
+ | publisher = Department of Aboriginal Affairs (New South Wales government)
+ | year = 1981
+ | url = http://www.daa.nsw.gov.au/publications/StolenGenerations.pdf
+ | isbn = 0-646-46221-0|format=PDF}}&lt;/ref&gt; although in some places children were still being taken in the 1970s.&lt;ref&gt;In its submission to the ''Bringing Them Home'' report, the Victorian government stated that "despite the apparent recognition in government reports that the interests of Indigenous children were best served by keeping them in their own communities, the number of Aboriginal children forcibly removed continued to increase, rising from 220 in 1973 to 350 in 1976" ([http://www.austlii.edu.au/au/special/rsjproject/rsjlibrary/hreoc/stolen/stolen10.html ''Bringing Them Home'': "Victoria"]).&lt;/ref&gt;
+Historians such as [[Henry Reynolds (historian)|Henry Reynolds]] have argued that this constitutes genocide.&lt;ref&gt;{{cite web| url = http://www.aiatsis.gov.au/rsrch/rsrch_dp/genocide.htm| title = Genocide in Australia| accessdate = 13 September 2007| last = Tatz| first = Colin| year = 1999| work = AIATSIS Research Discussion Papers No 8| publisher = [[Australian Institute of Aboriginal and Torres Strait Islander Studies]]| archiveurl = http://web.archive.org/web/20050808002313/http://www.aiatsis.gov.au/rsrch/rsrch_dp/genocide.htm| archivedate = 8 August 2005}}&lt;/ref&gt;&lt;ref&gt; Bain Attwood, ''Telling the Truth about Aboriginal History.'' (2005) [http://www.questia.com/read/109251500?title=Telling%20the%20Truth%20about%20Aboriginal%20History online edition].&lt;/ref&gt;
+
+In April 2000, the Aboriginal Affairs Minister [[John Herron (Australian politician)|John Herron]], presented a report in the [[Australian Parliament]] that questioned whether there had been a "Stolen Generation", arguing that only 10% of Aboriginal children had been removed, and they did not constitute an entire "generation". The report received media attention and there were protests.&lt;ref name=730Report&gt;[http://www.abc.net.au/7.30/stories/s115691.htm No stolen generation: Australian Govt], [[7:30 Report]] ABC TV 3 April 2000, retrieved 19 February 2008.&lt;/ref&gt;
+
+On 13 February 2008 Prime Minister Kevin Rudd presented an apology for the "Stolen Generation" as a [[Motion (parliamentary procedure)|motion]] in Parliament.&lt;ref&gt;[http://www.abc.net.au/canberra/stories/s2160871.htm "The words Rudd will use to say 'sorry'"], ABC, 12 February 2008.&lt;/ref&gt;&lt;ref&gt;[http://www.smh.com.au/news/national/rudd-says-sorry/2008/02/13/1202760342960.html "Rudd says sorry"], Dylan Welch, ''Sydney Morning Herald'', 13 February 2008.&lt;/ref&gt;
+
+===Native Title===
+{{Main|Native Title|Mabo v Queensland (No 1)|Mabo v Queensland (No 2)}}
+[[Native title]] is a concept in the [[law of Australia]] that recognises in certain cases there was and is a continued beneficial legal interest in land held by local [[indigenous Australians]] which survived the acquisition of title to the land by the Crown at the time that the Crown acquired sovereignty of Australia.
+
+==Early Asian Immigration==
+The Australian colonies had passed restrictive legislation as early as the 1860s, directed specifically at Chinese immigrants. Objections to the Chinese originally arose because of their large numbers, their [[paganism]] and their habits of gambling and smoking opium. It was also felt they would lower living standards, threaten democracy and that their numbers could expand into a "yellow tide".&lt;ref name="waywewere"&gt;{{cite book |title=The way we were. Volume 3 |last=Munns |first=Cec F. |coauthors=A. McLay, J Sparkes, W. Logue, S. Paul and B. Short |year=1987 |edition=2 |publisher=Brooks Waterlook Publicaters |location=South Melbourne, Victoria |isbn=0855685077 |pages=250 }}&lt;/ref&gt; Later, a popular cry was raised against increasing numbers of Japanese (following Japan’s victory over China in the [[Sino-Japanese War]]), South Asians and Kanakas (South Pacific islanders). Popular support for White Australia, always strong, was bolstered at the Paris Peace Conference in 1919 when the Australian delegation led the fight to defeat a Japanese-sponsored racial-equality amendment to the League of Nations Covenant. &lt;ref name="white_britannica"&gt;{{cite book
+  | title="White Australia Policy"  
+  | publisher = Encyclopædia Britannica
+  | year =  2009}}&lt;/ref&gt;&lt;ref name = "northedge"&gt;{{cite book
+  | last = Northedge
+  | first = F. S. 
+  | title = The League of Nations: Its life and times, 1920-1946
+  | publisher = [[Leicester University]] Press
+  | year = 1986
+  | isbn = 0718511948}}&lt;/ref&gt;
+
+==Contemporary Australia==
+Public planning to counter [[Ethnocentrism|cultural racism]] was ahead of its time in [[Western Sydney]], a suburban region with a long history of industrial production and migrant settlement.&lt;ref&gt;{{cite journal|last=Dowling|first=Robyn|last2=Fagan|first2=Bob|title=Neoliberalism and Suburban Employment: Western Sydney in the 1990s|journal=Geographical Research|volume=43|issue=1|pages=71-81|date=March 2005|doi=10.1111/j.1745-5871.2005.00298.x}}&lt;/ref&gt; Many of its attempts to build an inclusive "cultural foundation" have been picked up by state governments, including council-funded social clubs for seniors, the provision of community services in major community languages, and the securing of places of worship through rezoning. All of these initiatives are aimed at public involvement rather than antiracist "integrating" strategies. 
+
+In 1996 the [[Howard Government]] was called out for permitting the views of [[Pauline Hanson]] to circulate without repudiation.  In her maiden parliamentary speech, Hanson said that "a multicultural country can never be a strong country" and supported this assertion with a number of widely publicised remarks about Asians' not assimilating and living in ghettos, and more recently, Africans bringing disease into Australia. &lt;ref&gt;SMH - [http://www.smh.com.au/news/national/hanson-turns-on-diseased-africans/2006/12/06/1165081010724.html Hanson turns on 'diseased' Africans]&lt;/ref&gt;
+
+[[Institutional racism]] is also seen in Australia within institutions, corporations, universities, etc. Government institutions are often cited racist with Indigenous people&lt;ref&gt;[http://www.austlii.edu.au/au/journals/ILB/2003/47.html]&lt;/ref&gt;&lt;ref&gt;http://www.mja.com.au/public/issues/180_10_170504/hen10112_fm.html&lt;/ref&gt;&lt;ref&gt;http://www.theaustralian.news.com.au/story/0,25197,25754251-5006787,00.html&lt;/ref&gt; Racial abuse and vilification is commonplace in Australian sport, according to a new report by the [[Human Rights and Equal Opportunity Commission]] (HREOC).The report, What's the Score? A survey of cultural diversity and racism in Australian sport, says Aboriginal and other ethnic groups are under-represented in Australian sport, and suggests they are turned off organised sport because they fear [[racial vilification]].&lt;ref&gt;[http://www.foxsports.com.au/story/0,8659,22596894-23209,00.html Foxsports]&lt;/ref&gt;&lt;ref&gt;[http://www.theaustralian.news.com.au/story/0,25197,22598366-5001505,00.html The Australian]&lt;/ref&gt;
+
+=== Cronulla riots ===
+{{Main|2005 Cronulla riots}}
+The [[2005 Cronulla riots|Cronulla riots of 2005]] &lt;ref&gt;[http://news.bbc.co.uk/2/hi/in_pictures/4520286.stm Racist violence in Cronulla beach, Sydney, Australia]&lt;/ref&gt; were a series of [[Racism|racially]] motivated mob confrontations which originated in and around [[Cronulla, New South Wales|Cronulla]], a beachfront suburb of [[Sydney]], [[New South Wales]], Australia. Soon after the riot, ethnically motivated violent incidents occurred in several other Sydney suburbs.
+
+On Sunday, 11 December 2005, approximately 5000 people gathered to protest against alleged incidents of assaults and intimidatory behaviour by groups of  [[Middle East]]ern looking youths from the suburbs of [[South-western Sydney|South Western Sydney]]. The crowd initially assembled without incident, but violence broke out after a large segment of the mostly [[White people|white]] &lt;ref&gt;The term ''white'' in this context typically refers to Australian people of West European ancestry whose first language is English, see [[White people]].&lt;/ref&gt; crowd chased a man of [[Middle East]]ern appearance into a [[public house|hotel]] and two other youths of Middle Eastern appearance were assaulted on a train. 
+
+The following nights saw several retaliatory violent assaults in the communities near Cronulla and Maroubra, large gatherings of protesters around south western Sydney, and an unprecedented police lock-down of [[Beaches in Sydney|Sydney beaches]] and surrounding areas, between [[Wollongong, New South Wales|Wollongong]] and [[Newcastle, New South Wales|Newcastle]].
+
+=== UN report===
+The [[UN]] [[Committee on the Elimination of Racial Discrimination]] in its report [http://www.smh.com.au/news/National/Damning-UN-verdict-on-race-relations/2005/03/21/1111253958535.html SMH] released in 2005 was complimentary on improvements in race-related issues since its previous report five years prior, namely:   
+* the criminalising of acts and incitement of racial hatred in most Australian States and Territories   
+* progress in the economic, social and cultural rights by indigenous peoples   
+* programmes and practices among the police and the judiciary, aimed at reducing the number of indigenous juveniles entering the criminal justice system   
+* the adoption of a Charter of Public Service in a Culturally Diverse Society to ensure that government services are provided in a way that is sensitive to the language and cultural needs of all Australians   
+*and the numerous human rights education programmes developed by the Human Rights and Equal Opportunity Commission (HREOC).   
+ 
+The committee expressed concern about the abolishment of [[ATSIC]]; proposed reforms to [[HREOC]] that may limit its independence; the practical barriers Indigenous peoples face in succeeding in claims for native title; a lack of legislation criminalising serious acts or incitement of racial hatred in the Commonwealth, the State of [[Tasmania]] and the [[Northern Territory]]; and the inequities between Indigenous peoples and others in the areas of employment, housing, longevity, education and income.&lt;ref&gt;[http://en.wikinews.org/wiki/Australia_silent_on_UN_racism_committee_condemnation Wikinews]&lt;/ref&gt;
+
+===Attacks against Indian students===
+{{Main|2009 attacks on Indians in Australia}}
+{{Quote box|I think that some of the attacks are racially motivated&lt;ref&gt;[http://www.brisbanetimes.com.au/national/the-unutterable-rword-20090605-byi5.html brisbanetimes.com.au]&lt;/ref&gt;|[[Simon Overland]], [[Victorian Police|Victorian Police Commissioner]]}}
+On 30 May 2009, Indian students protested against what they claimed were racist attacks, blocking streets in central [[Melbourne, Victoria|Melbourne]]. Thousands of students gathered outside the Royal Melbourne Hospital where one of the victims was admitted. The protest, however, was called off early on the next day morning after the protesters accused police of "ramrodding" them to break up their sit-in.&lt;ref&gt;[http://www.expressindia.com/latest-news/Indian-youths-detained-for-breaching-peace-march-in-Aus/469124/ expressindia.com]&lt;/ref&gt;
+On 4 June 2009, China expressed concern over the matter - Chinese are the largest foreign student population in Australia with approximately 130,000 students.&lt;ref&gt;[http://www.indianexpress.com/news/China-too-raises-concern-over-attacks-on-students/471165/ indianexpress.com]&lt;/ref&gt; In light of this event, the Australian Government started a Helpline for Indian students to report such incidents,&lt;ref&gt;[http://www.theage.com.au/national/helpline-thrown-to-indian-students-20090511-b0mt.html?page=-1 Helpline Thrown to Indian Students]: The Age&lt;/ref&gt;  Australian High Commissioner to India [[John McCarthy]] said that there was an element of racism involved in the attacks on Indians.&lt;ref&gt;[http://ibnlive.in.com/news/australian-envoy-admits-attacks-on-indians-racist/94175-3.html Australian envoy admits attacks on Indians racist]: IBN Live&lt;/ref&gt; The episode had an unintended side effect of bringing international attention towards ongoing [[caste-related violence in India]].&lt;ref&gt;{{cite web|url=http://www.hrw.org/legacy/englishwr2k8/docs/2008/01/31/india17605.htm|title=India Events of 2007|publisher=Human Rights Watch}}&lt;/ref&gt;&lt;ref&gt;http://www.indiatogether.org/dalit/articles/bidwai1002.htm&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/2/hi/south_asia/6050408.stm BBC NEWS | South Asia | Dalits in conversion ceremony&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+== Legislation relating to racism ==
+One of the first Acts after the federation of Australia in 1901 was the ''[[Immigration Restriction Act 1901]]'', to prescribe where migrants to Australia were accepted from. This in part became the basis for the [[White Australia Policy]]. This policy also stemmed from resentment of Chinese immigrants that had developed on the Australian gold fields from the 1850s.&lt;ref name="waywewere"/&gt; Fear of military invasion by Japan, the threat to the standard of living presented by the cheap but efficient Asian labourers, and white racism were the principal factors behind the White Australia movement. In 1901 the Immigration Restriction Act of Australia effectively ended all non-European immigration by providing for entrance examinations in European languages. Supplementary legislation in 1901 provided for the deportation by 1906 of the country’s Kanakas.&lt;ref name="white_britannica"/&gt;
+
+The Immigration Restriction Act was progressively dismantled post WWII until it was rescinded in 1973. The [[Racial Discrimination Act 1975|Racial Discrimination Act]] was introduced in 1975.
+
+The following Australian Federal and State legislation relates to racism and discrimination:
+*Commonwealth [[Racial Discrimination Act 1975]] 
+*Commonwealth [[Racial Hatred Act]] (1995) 
+*[[Human Rights and Equal Opportunity Commission Act]] (1986) 
+*[[New South Wales]]: [[Anti-Discrimination Act]] (1977) 
+*[[South Australia]]: Equal Opportunity Act (1984) and [[Racial Vilification Act]] (1996) 
+*[[Western Australia]]: Equal Opportunity Act (1984) and Criminal Code 
+*[[Australian Capital Territory]]: Discrimination Act (1991) 
+*[[Queensland]]: [[Anti-Discrimination Act]] (1991) 
+*[[Northern Territory]]: [[Anti-Discrimination Act]] (1992) 
+*[[Victoria (Australia)|Victoria]]: Equal Opportunity Act (1995) and [[Racial and Religious Tolerance Act 2001]]  
+*[[Tasmania]]: [[Anti-Discrimination Act]] (1998)
+
+==See also==
+{{portal|Australia}}
+* [[List of massacres of Indigenous Australians]]
+* [[Racism by country]]
+* [[Racial Violence In Australia]]
+
+==References==
+{{reflist|2}}
+
+== Further reading ==
+*Justin Healey:Racism in Australia,Published by Spinney Press, 2003 ISBN 1876811897 [http://catalogue.nla.gov.au/Record/717581]
+
+*[http://www.hawaii.edu/hivandaids/Racism%20In%20Australia%20%20%20%20Find%20Of%20A%20Sur%20On%20Racist%20Att%20And%20Exp%20Of%20Racism.pdf Racism in Australia: findings of a survey on racist attitudes and experiences of racism], [[University of Hawaii]]
+
+==External links==
+* [http://www.time.com/time/photogallery/0,29307,1713701,00.html Australia Says Sorry] [[TIME]].
+
+{{DEFAULTSORT:Racism In Australia}}
+[[Category:Racism in Australia]]</rev></revisions></page></pages></query></api>

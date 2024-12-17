@@ -1,0 +1,44 @@
+<?xml version="1.0"?><api><continue rvcontinue="20090318232119|278219312" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="8727347" pageid="8727347" ns="0" title="Mortgage discrimination"><revisions><rev timestamp="2009-07-28T01:11:12Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Mortgage discrimination''' or ''mortgage lending discrimination'' is the practice of banks, governments or other lending institutions denying [[loans]] to one or more groups of people primarily on the basis of race, ethnic origin, sex or religion. One of the most notable instances of wide-spread mortgage discrimination occurred in United States [[inner city]] neighborhoods from the 1930s up until the late 1970s. There is evidence that the practice still continues in the United States today.&lt;ref name="nytimes"&gt;''[http://www.nytimes.com/2007/10/15/nyregion/15subprime.html?ex=1350187200&amp;en=a9978e04a9864642&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss Study Finds Disparities in Mortgages by Race]'' [[The New York Times]] By MANNY FERNANDEZ Published: October 15, 2007&lt;/ref&gt;
+
+==Background==
+[[African Americans]] and other minorities found it nearly impossible to secure mortgages for property located in [[redlining|redlined]] zones.&lt;ref&gt;"Loans To White Renegades Who Back Negroes Cut Off," Harlem Home News, [[April 7]], [[1911]]&lt;/ref&gt; The systematic denial of loans was a major contributor to the [[urban decay]] that plagued many American cities during this time period. Minorities who tried to buy homes continued to face direct discrimination from lending institutions into the late 1990s. The disparities are not simply due to differences in creditworthiness.&lt;ref&gt;[http://www.huduser.org/publications/fairhsg/lending.html What We Know About Mortgage Lending Discrimination in America (September 1999)]&lt;/ref&gt; With other factors held constant, rejection rates for Black and Hispanic applicants was about 1.6 times that for Whites in 1995.&lt;ref&gt;[http://www.findarticles.com/p/articles/mi_qa3631/is_199507/ai_n8720778 Discrimination in mortgage lending Chicago Fed Letter,  Jul 1995  by Hunter, William C]&lt;/ref&gt; Fairness in lending was improved by the [[Home Mortgage Disclosure Act]], passed in 1975. It requires banks to disclose their lending practices in the communities they serve. In the 1970s, the private sector fight against mortgage discrimination began to be led by [[community development bank]]s, such as [[ShoreBank]] in [[Chicago]].&lt;ref name=""&gt;[http://www.spokesmanreview.com/business/story.asp?ID=194303 SR.com: 'Bank with a heart' thrives&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+==Contemporary mortgage discrimination==
+Several class action mortgage discrimination claims have been filed against lenders across the country, alleging that lenders disproportionately targeted minorities for high cost, high risk subprime lending, which has resulted in disproportionately higher rates of default and foreclosure for minority African American and Hispanic borrowers.&lt;ref&gt;Michael Aleo, Pablo Svirsky, Foreclosure Fallout: The Banking Industry's Attack on Disparate Impact Race Discrimination Claims Under the Fair Housing Act and Equal Credit Opportunity Act, Boston University Public Interest Law Journal 1 (Fall 2008).&lt;/ref&gt;
+
+Recently, the [[NAACP]] has submitted a lawsuit concerning alleged injustices in the lending industry.&lt;ref&gt;[http://www.blackenterprise.com/cms/exclusivesopen.aspx?id=3262 NAACP Fights Loan Discrimination]&lt;/ref&gt; An analysis, by N.Y.U.’s Furman Center for Real Estate and Urban Policy, illustrated stark racial differences between the [[New York City]] neighborhoods where subprime mortgages were common and those where they were rare. The 10 neighborhoods with the highest rates of mortgages from subprime lenders had black and Hispanic majorities, and the 10 areas with the lowest rates were mainly non-Hispanic white. The analysis showed that even when median income levels were comparable, home buyers in minority neighborhoods were more likely to get a loan from a subprime lender.&lt;ref name="nytimes"/&gt; Discrimination motivated by [[prejudice]] is contingent on the racial composition of neighborhoods where the loan is sought and the race of the applicant. Lending institutions have been shown to treat black and Latino mortgage applicants differently when buying homes in white neighborhoods than when buying homes in black neighborhoods.&lt;ref&gt;Stephen R Holloway (1998) ''Exploring the Neighborhood Contingency of Race Discrimination in Mortgage Lending in Columbus, Ohio'' Annals of the Association of American Geographers 88 (2), 252–276.&lt;/ref&gt; An example of this occurred in the 60's and 70's on the near northside of Chicago.Thousands of Black ,Latino and poor people were systematically dislocated and prevented from acquiring loans by realtors and lending institutions with the blessings of the city's urban renewal program. {{Fact|washburnmav|date=July 2008}}
+
+==Equal Credit Opportunity Act==
+Under the Equal Credit Opportunity Act (“ECOA”), a creditor may not discriminate against an applicant based on the applicant’s race, color, or national origin “with respect to any aspect of a credit transaction,” 15 U.S.C.A. § 1691.
+
+==Fair Housing Act==
+Under the Fair Housing Act (“FHA”) (Title VIII of the Civil Rights Act of 1968), it is “unlawful for any person or other entity whose business includes engaging in residential real estate-related transactions to discriminate against any person in making available such a transaction, or in the terms or conditions of such a transaction, because of race, color . . . or national origin.”  42 U.S.C.A. § 3605.  Section 3605, although not specifically naming foreclosures, discrimination in “the manner in which a lending institution forecloses a delinquent or defaulted mortgage note” falls under the realm of the “terms or conditions of such loan.”  Harper v. Union Sav. Ass’n,, 429 F.Supp. 1254, 1258-59 (N.D. Ohio 1977).
+
+==FDIC==
+Consistent with many jurisdictions throughout the country, the Federal Deposit Insurance Corporation (“FDIC”), based in part on a study conducted by the Federal Reserve Bank of Boston, issued a “Policy Statement On Discrimination In Lending” on April 29, 2004, emphasizing the breadth of prohibitions on discriminatory conduct in lending under the ECOA and the FHA.  The FDIC Policy Statement explained that “courts have recognized three methods of proof of lending discrimination under the ECOA and the FH Act,” including: “Overt evidence of discrimination,” when a lender blatantly discriminates on a prohibited basis; evidence of “disparate treatment,” when a lender treats applicants differently based on one of the prohibited factors; and evidence of "disparate impact," when a lender applies a practice uniformly to all applicants but the practice has a discriminatory effect on a prohibited basis and is not justified by business necessity.
+
+FDIC Policy Statement, p. 5399 (April 29, 2004).
+
+== Civil Rights Act of 1966 ==
+
+In addition to ECOA and FHA, the Civil Rights Act of 1966, as amended, provides that “[a]ll citizens of the United States shall have the same right, in every State and Territory, as is enjoyed by white citizens thereof to inherit, purchase, lease, sell, hold, and convey real and personal property.”  42 U.S.C.A. § 1982.
+
+== See also ==
+
+*[[Computer-assisted reporting]]
+*[[Redlining]]
+*[[Racial steering]]
+*[[Racial segregation|Segregation]]
+*[[White flight]]
+*[[Black flight]]
+*[[Home Mortgage Disclosure Act]]
+
+==Sources==
+
+&lt;!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the &lt;ref&gt; and &lt;/ref&gt; tags and the tag below --&gt;
+
+&lt;references/&gt;
+
+[[Category:Urban decay]]
+[[Category:Discrimination]]
+[[Category:Mortgage industry of the United States]]</rev></revisions></page></pages></query></api>

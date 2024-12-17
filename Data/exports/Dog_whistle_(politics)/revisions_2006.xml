@@ -1,0 +1,20 @@
+<?xml version="1.0"?><api><continue rvcontinue="20060928205749|78374407" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1853472" pageid="1853472" ns="0" title="Dog whistle (politics)"><revisions><rev timestamp="2006-11-05T18:43:44Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Dog-whistle politics''' is a term used to describe a type of political campaigning or speechmaking using coded language, which appears to mean one thing to the general population but which has different or more specific meaning for a targeted subgroup of the audience. It is usually used pejoratively by those that do not approve of the tactics. Ian Welsh [http://agonist.org/ian_welsh/20060925/just_a_comma_dog_whistle_politics wrote about it] as:
+
+&lt;blockquote&gt;When you speak in code(...), most of the time the only people who hear and understand what you just said are the intended group, who have an understanding of the world and a use of words that is not shared by the majority of the population.&lt;/blockquote&gt;
+
+The term is by analogy to [[dog whistle]]s, built in such a way that humans cannot hear them due to their high [[frequency]], but dogs can. It could be argued that the term is disparaging of those who can hear the dog whistle message.
+
+The term originated in [[Australian politics]] in the late 1990s, on occasion used to describe the [[John Howard|Howard Government's]] policy crack down on illegal immigration. The Australian Government took a strong stand against illegal immigration, which was highly popular amongst a segment of voters on both sides of the usual political divide, and which contributed to the [[Australian legislative election, 2001|winning of the 2001 Australian Federal Election]].  As a reaction to this political success, some commentators have argued that the stand was playing to 'racist' fears in the community, despite the Government never using ''overtly'' racist terminology.
+
+The term is thought to have been introduced to the [[United Kingdom]] by [[Lynton Crosby]], where it played a role in the [[UK general election, 2005|2005 general election]]; [[Michael Howard]] was often accused of practising "dog-whistle politics" on contentious subjects like [[immigration]], with a campaign slogan that asked "Are you thinking what we're thinking?".
+
+The term might also be seen as somewhat analogous to a term commonly employed in the [[United States]], [[wedge politics]]. There, President [[George W. Bush]] has been accused of using coded language in his speeches to send messages to his supporters among the [[religious right]] that are not clear to other parts of the U.S. population, and can occasionally make his speeches seem confusing or elliptical to those not attuned to the "dog whistle."
+
+===External links===
+* "[http://agonist.org/ian_welsh/20060925/just_a_comma_dog_whistle_politics Just a Comma]" by Ian Welsh at The Agonist, September 25, 2006
+* [http://www.doubletongued.org/index.php/dictionary/dog_whistle_politics/ Etymology] from the Double-Tongued Dictionary
+
+[[Category:Political terms]]
+
+
+{{poli-stub}}</rev></revisions></page></pages></query></api>

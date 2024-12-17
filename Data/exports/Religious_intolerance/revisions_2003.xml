@@ -1,0 +1,15 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030209134745|655154" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="54944" pageid="54944" ns="0" title="Religious intolerance"><revisions><rev timestamp="2003-02-09T13:48:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Religious intolerance''' and persecution have been common throughout history, and most faiths have been subject to it at one time or another. 
+
+See: 
+*[[Anti-Arab]]
+*[[Anti-Semitism]]
+*[[Crusades]]
+*[[Holocaust]]
+*[[Islamophobia]]
+*[[Jihad]] 
+*[[Persecution of Christians]] 
+*[[Terrorism]]
+
+The opposite of intolerance is [[religious pluralism]].
+
+See also:  [[Projects working for peace among Israelis and Arabs]]</rev></revisions></page></pages></query></api>

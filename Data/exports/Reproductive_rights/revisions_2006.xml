@@ -1,0 +1,26 @@
+<?xml version="1.0"?><api><continue rvcontinue="20061031230712|84930702" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="706186" pageid="706186" ns="0" title="Reproductive rights"><revisions><rev timestamp="2006-11-06T01:49:06Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Reproductive rights''' (also '''Procreative liberty''') refers to [[human rights]] in areas of [[sexual reproduction]], including the rights to reproduce (such as opposition to [[forced sterilization]]) as well as rights not to reproduce (such as support for access to [[birth control]] and [[abortion]]), the right to privacy, medical coverage, right to contraception, family planning and protection from discrimination and harassment.
+
+"Reproductive rights” is largely perceived as being synonymous with the “[[pro-choice]]” position, which states that abortion should be a legal option for any pregnant woman. Reproductive rights are understood as encompassing more than just abortion, however. Members of the reproductive rights movement also believe that reproductive rights are human rights, and as such men and women should be granted affordable access to contraception, as well as education about contraception and [[Sexually transmitted disease|sexually transmitted infections]], and freedom from coerced sterilization and contraception.
+
+Supporters of reproductive rights often take the position that such principles fall within the context of the [[right to privacy]], or freedom from governmental interference, supporting legalized contraception and abortion. Some advocates also favor the term because they embrace a basic [[human rights]] moral justification for their position. 
+
+In the [[United States Constitution]], the right to privacy has been interpreted to include reproductive rights, as seen in such [[United States Supreme Court|Supreme Court]] cases as ''[[Griswold v. Connecticut]]'' ([[1965]]), which legalized contraception for married people, and ''[[Roe v. Wade]]'' ([[1973]]), which legalized abortion on a federal level. 
+
+The term ''procreative liberty'' was coined by [[John A. Robertson]], a professor of [[law]] and [[bioethics]] at the [[University of Texas School of Law]].
+
+{{poli-stub}}
+==See also==
+*[[Procreative beneficence]] 
+*[[Parental leave]]
+*[[Bioethics]]
+*[[Reprogenetics]]
+
+==External links==
+*[http://www.lwv.org/AM/Template.cfm?Section=Reproductive_Choice&amp;Template=/TaggedPage/TaggedPageDisplay.cfm&amp;TPLID=23&amp;ContentID=991 The League of Women Voters on Reproductive Choice]
+
+*[http://www.unfpa.org/rh/index.htm UNFPA Population Issues: Reproductive Rights]
+*[http://www.naral.org NARAL Pro-Choice America]
+*[http://www.plannedparenthood.org Planned Parenthood]
+
+[[Category:Human rights]]
+[[Category:Pro-choice movement]]</rev></revisions></page></pages></query></api>

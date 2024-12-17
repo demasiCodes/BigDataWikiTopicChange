@@ -1,0 +1,13 @@
+<?xml version="1.0"?><api><continue rvcontinue="20161117155655|750051753" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="13952900" pageid="13952900" ns="0" title="African feminism"><revisions><rev timestamp="2016-11-18T05:56:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{one source|date=November 2016}}
+
+'''African feminism''' is an important strain of feminism that is innovated by African women about the conditions of continental African women. It includes such forms as motherism, femalism, snail-sense feminism, and so on.&lt;ref&gt;{{Cite journal|last=Nkealah|first=Naomi|title=(West) African Feminisms and Their Challenges|url=http://www.tandfonline.com/doi/pdf/10.1080/02564718.2016.1198156|journal=Journal of Literary Studies|volume=32|issue=2|pages=61–74|doi=10.1080/02564718.2016.1198156}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+
+
+{{Africa-stub}}
+{{feminism-stub}}
+
+[[Category:Feminism in Africa]]</rev></revisions></page></pages></query></api>

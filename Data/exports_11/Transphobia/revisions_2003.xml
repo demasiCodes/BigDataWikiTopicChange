@@ -1,0 +1,9 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030928182457|1668591" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="67084" pageid="67084" ns="0" title="Transphobia"><revisions><rev timestamp="2003-11-03T20:43:23Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">&lt;b&gt;Transphobia&lt;/b&gt;, by analogy with [[homophobia]], is an irrational fear or hatred, or in some cases just disapproval, of [[transgender]] and [[transsexual]] people.
+
+Transphobia can have consequences as severe as homophobia for the targeted person. Transgender people are often targets of [[harassment]], [[assault]], and [[murder]], ranging from random attacks to [[rescue worker]]s who discover a transgendered accident victim's [[birth gender]] and withhold service until the person dies.
+
+Although the word transphobia is widely used, the phenomenon is more of a [[paranoia]] than a [[phobia]].
+
+Two noted victims of transphobia were [[Brandon Teena]] and [[Gwen Araujo]].
+
+See [[gay-bashing]].</rev></revisions></page></pages></query></api>

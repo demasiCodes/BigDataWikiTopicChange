@@ -1,0 +1,19 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041015013747|6588191" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="22648231" pageid="22648231" ns="0" title="Ageism"><revisions><rev timestamp="2004-10-15T01:38:34Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Ageism''' is [[discrimination]] against a person or group on the grounds of [[aging|age]].
+
+Although theoretically the word can refer to the discrimination against any age group (e.g. prejudice specifically targeted at fortysomethings), ageism usually comes in one of two forms: discrimination against [[adolescence|youth]], and discrimination against the [[elderly]].
+
+In the early [[1970s]], [[Maggie Kuhn]] formed the ''[[Gray Panthers]]'', an [[organization]] with a goal of eliminating ageism in all forms.
+
+Many groups have been set up in various countries to combat age discrimination, including:
+*[[United Kingdom|UK]]
+**[[Age Concern]]
+**[[Help the Aged]]
+*[[United States|USA]]
+**[[ASFAR]]
+**[[Gray Panthers]]
+**[[National Youth Rights Association]]
+
+==Further reading==
+*[http://www.webster.edu/~woolflm/ageism.html An in-depth look at ageism by Linda M. Woolfe, Ph.D., of Webster University]
+
+{{stub}}</rev></revisions></page></pages></query></api>

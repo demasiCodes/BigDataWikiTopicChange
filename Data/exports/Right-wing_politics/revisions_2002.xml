@@ -1,0 +1,19 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020811050648|396274" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="56522" pageid="56522" ns="0" title="Right-wing politics"><revisions><rev timestamp="2002-10-31T17:57:45Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Right-wing''' is the opposite to left-wing, with both terms originating
+in the [[French Revolution]] as discussed in the article on [[leftism]].
+
+Traditionally the right-wing defends the traditional power of aristocrats, royalty, established religions and the wealthy, as opposed to movements
+promoting equal rights or wealth for all.
+The term has also come to be used for [[nationalist]] or [[racist]] movements which favour the interests of a majority in the population against
+minority groups, with [[fascism]] or [[nazism]] the canonical examples.
+
+Some usages of the term [[conservatism]] are also considered to be right-wing, by leftists. Liberals and other leftist often consider themselves "moderate".
+
+Support for [[free market]] [[economic]]s has at times been classed as both
+right and left-wing.  It was left-wing during the French Revolution, since
+the concept is opposed to the kind of economic favouritism practiced by the
+elite in that country at the time.  In theory anyone has an equal chance in
+a free market.  However in practice, a free market is likely (some say
+mathematically inevitable) to result in large variations in the relative
+prosperity of individuals, with almost all of the real power (wealth, in
+a free market) held by a small percentage of the population.  Hence, it
+can also be considered a doctrine of the right-wing.</rev></revisions></page></pages></query></api>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?><api><continue rvcontinue="20101110003415|395846302" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="77182" pageid="77182" ns="0" title="Prejudice"><revisions><rev timestamp="2010-11-10T09:21:09Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{About|a discrimination concept|legal procedure|Prejudice (law)}}
+{{Refimprove|date=March 2008}}
+[[Image:National Conveniences 1024.jpg|thumbnail|300px|Four-way 18th-century English prejudice]] 
+A '''''prejudice''''' is a prejudgment: i.e. an assumption made about someone or something before having adequate knowledge to be able to do so with guaranteed accuracy. The word ''prejudice'' is most commonly used to refer to a preconceived judgment toward a people or a person because of [[Race (classification of human beings)|race]], [[social class]], [[gender]], [[ethnicity]], [[Ageing|age]], [[disability]], political beliefs, [[religion]], sexual orientation or other personal characteristics. It also means beliefs without knowledge of the facts&lt;ref&gt; [[William James]] wrote, "A great many people think they are thinking when they are merely rearranging their prejudices."[http://www.freemaninstitute.com/quotes.htmQuotable Quotes -- Courtesy of The Freeman Institute]&lt;/ref&gt; and may include "any unreasonable attitude that is unusually resistant to rational influence."&lt;ref&gt;Rosnow, Ralph L.; ''Poultry and Prejudice.'' Psychologist Today, (March, 1972): p. 53.&lt;/ref&gt; 
+
+==Common misconceptions==
+
+At times, the terms prejudice and [[stereotype]] might be confusing:
+* Prejudices are abstract-general preconceptions or abstract-general attitudes towards any type of situation, object, or person.
+* [[Stereotype]]s are generalizations of existing characteristics that reduce complexity.
+
+==See also==
+{{wikt|prejudice|prejudgment}}
+*[[Idée fixe (psychology)]]
+
+==References==
+{{Reflist}}
+
+{{abuse}}
+
+[[Category:Abuse]]
+[[Category:Discrimination]]
+
+[[ar:تحامل]]
+[[ca:Prejudici]]
+[[co:Preghjudiziu]]
+[[cy:Rhagfarn]]
+[[da:Fordom]]
+[[de:Vorurteil]]
+[[et:Eelarvamus]]
+[[el:Προκατάληψη]]
+[[es:Prejuicio]]
+[[fr:Préjugé]]
+[[id:Prasangka]]
+[[it:Pregiudizio]]
+[[he:דעה קדומה]]
+[[lv:Aizspriedums]]
+[[lt:Išankstinis nusistatymas]]
+[[hu:Előítélet]]
+[[nl:Vooroordeel]]
+[[ja:偏見]]
+[[no:Fordom]]
+[[pl:Uprzedzenie]]
+[[pt:Preconceito]]
+[[ru:Предрассудок]]
+[[simple:Prejudice]]
+[[sl:Predsodek]]
+[[sr:Предрасуде]]
+[[fi:Ennakkoluulo]]
+[[sv:Fördom]]
+[[ta:முன்முடிவு]]
+[[uk:Упередження]]
+[[vec:Pregiudisio]]
+[[zh:偏見]]</rev></revisions></page></pages></query></api>

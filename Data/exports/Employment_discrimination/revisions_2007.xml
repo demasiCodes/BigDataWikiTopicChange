@@ -1,0 +1,46 @@
+<?xml version="1.0"?><api><continue rvcontinue="20070721184953|146169696" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="2811532" pageid="2811532" ns="0" title="Employment discrimination"><revisions><rev timestamp="2007-09-05T22:42:47Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Employment discrimination''' refers to discriminatory employment practices such as [[discrimination|bias]] in hiring, promotion, job assignment, termination, and compensation, and various types of [[harassment]].
+
+In many countries, laws prohibit employers from discriminating on the basis of [[race]], color, [[sex]], [[religion]], national origin, physical or mental [[disability]], or [[ageing|age]]. There is also a growing body of law preventing or occasionally justifying employment [[discrimination]] based on [[sexual orientation]] or [[gender identity]].  Some jurisdictions within countries implement their own non-discrimination laws.
+
+==Protected categories==
+Laws often prohibit discrimination on the basis of:
+* [[Race]] and [[color]]
+* [[Ethnicity]]/[[Nationality|National]] origin
+* [[Sex]]/[[gender]]
+* [[Pregnancy]]
+* [[Religion]]/[[creed]]
+* Political affiliation
+* [[Language]] abilities
+* [[Citizenship]]
+* [[Disability]] (physical, mental, emotional)
+* Medical conditions ([[AIDS]] and other diseases)
+* [[ageing|Age]]
+* [[Sexual Orientation]]
+* [[Gender Identity]]
+* [[Marital status]]
+* [[Military]] [[Veteran]] status
+* Military discharge status/anticipated military deployment
+
+Some jurisdictions prohibit employment discrimination against other social group that have legal protections. They include discrimination or harassment based on [[socioeconomic]] [[Social class|class]], [[height]] or [[weight]] if not relevant to employment, and [[provincial]]/[[regional]] origin.
+
+==Unintentional discrimination==
+Unintentional discrimination (often termed "statistical discrimination") occurs when neutral selection practices produce a substantial disparity of outcomes between one group and another. Such practices include the use of standardized tests (which may disadvantage minority groups) or height (which may disadvantage women and some ethnic groups) in the hiring process. If the requirements are job-related and a "business necessity", the disparity is irrelevant.
+
+Some laws prohibit unintentional discrimination as well as intentional discrimination, but may have different standards for deciding what is acceptable.  Substantial disparities in outcome are not necessarily illegal, if the practices that produce them are necessary.
+
+==Legal protection from employment discrimination==
+{{mergefrom|Anti-discrimination law|date=September 2007}}
+Many countries have laws prohibiting employment discrimination.
+
+===By location===
+* [[Employment discrimination law in the United States]]
+* [[Employment discrimination law in the United Kingdom]]
+
+==See also==
+* [[Labour and employment law]]
+* [[Economic discrimination]]
+
+[[Category:Discrimination law]]
+[[Category:Employment law]]
+
+[[he:אפליה בשוק העבודה]]</rev></revisions></page></pages></query></api>

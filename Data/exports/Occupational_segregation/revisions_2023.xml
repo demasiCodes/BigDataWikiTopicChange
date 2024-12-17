@@ -1,0 +1,317 @@
+<?xml version="1.0"?><api><continue rvcontinue="20230823205938|1171904614" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="16966680" pageid="16966680" ns="0" title="Occupational segregation"><revisions><rev timestamp="2023-10-17T08:48:44Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Short description|Distribution of workers across and within occupations}}
+{{Discrimination sidebar|state=collapsed}}
+'''Occupational segregation''' is the distribution of [[worker]]s across and within [[Job|occupation]]s, based upon [[demographic]] characteristics, most often [[gender]].{{sfn|Bergmann|1981}} Other types of occupational segregation include [[Racial segregation|racial]] and ethnicity segregation, and sexual orientation segregation. These demographic characteristics often intersect.&lt;ref name=":11"&gt;{{Cite journal|last1=Alonso‐Villar|first1=Olga|last2=Rio|first2=Coral Del|last3=Gradin|first3=Carlos|date=2012|title=The Extent of Occupational Segregation in the United States: Differences by Race, Ethnicity, and Gender|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-232X.2012.00674.x|journal=Industrial Relations: A Journal of Economy and Society|language=en|volume=51|issue=2|pages=179–212|doi=10.1111/j.1468-232X.2012.00674.x|s2cid=154675302|issn=1468-232X}}&lt;/ref&gt; While a job refers to an actual position in a firm or industry, an occupation represents a group of similar jobs that require similar skill requirements and duties. Many occupations are segregated within themselves because of the differing jobs, but this is difficult to detect in terms of occupational data.&lt;ref name=":10"&gt;{{Cite journal|last=MAUME|first=DAVID J.|date=November 1999|title=Glass Ceilings and Glass Escalators|url=http://dx.doi.org/10.1177/0730888499026004005|journal=Work and Occupations|volume=26|issue=4|pages=483–509|doi=10.1177/0730888499026004005|s2cid=145308055|issn=0730-8884}}&lt;/ref&gt; Occupational segregation compares different groups and their occupations within the context of the entire labor force.&lt;ref name=":24"&gt;{{Cite journal|last1=Von Lockette|first1=Niki Dickerson|last2=Spriggs|first2=William E.|date=January 2016|title=Wage Dynamics and Racial and Ethnic Occupational Segregation among Less-Educated Men in Metropolitan Labor Markets|url=http://dx.doi.org/10.1007/s12114-015-9222-5|journal=The Review of Black Political Economy|volume=43|issue=1|pages=35–56|doi=10.1007/s12114-015-9222-5|s2cid=153954367|issn=0034-6446}}&lt;/ref&gt; The value or prestige of the jobs are typically not factored into the measurements.&lt;ref name=":73"&gt;{{Cite journal|last=Gradín|first=Carlos|date=2012-09-06|title=Conditional occupational segregation of minorities in the US|url=http://dx.doi.org/10.1007/s10888-012-9229-0|journal=The Journal of Economic Inequality|volume=11|issue=4|pages=473–493|doi=10.1007/s10888-012-9229-0|s2cid=59583403|issn=1569-1721}}&lt;/ref&gt;
+
+Occupational segregation levels differ on a basis of perfect segregation and integration.  Perfect segregation occurs where any given occupation employs only one group.  Perfect integration, on the other hand, occurs where each group holds the same proportion of positions in an occupation as it holds in the labor force.{{sfn|Weeden|2007}}
+
+Many scholars, such as Biblarz et al., argue that occupational segregation often occurs in patterns, either horizontally (across occupations) or vertically (within the hierarchy of occupations) and is most likely caused by [[sexism|gender-based discrimination]].{{sfn|Biblarz|Bengtson|Bucur|1996}} However, in the past, occupational segregation with regards to race has not been well researched, with many studies choosing to compare two groups instead of multiple. Due to the fact that different genders of different racial/ethnic backgrounds experience different obstacles, measuring occupational segregation is more nuanced.&lt;ref name=":11" /&gt; Ultimately, occupational segregation results in wage gaps and the loss of opportunities for capable candidates who are overlooked because of their gender and race.&lt;ref name=":1" /&gt;&lt;ref name=":13"&gt;{{Cite journal|last=Pothier|first=David|date=2017-12-28|title=Occupational Segregation and the (Mis)allocation of Talent|url=http://dx.doi.org/10.1111/sjoe.12206|journal=The Scandinavian Journal of Economics|volume=120|issue=1|pages=242–267|doi=10.1111/sjoe.12206|s2cid=157046831|issn=0347-0520}}&lt;/ref&gt;
+
+== In the United States{{anchor|Occupational_segregation_in_the_United_States}} ==
+
+=== Gender trends ===
+Over the last century in the United States, there has been a surprising stability of segregation-index scores, which measure the level of occupational segregation of the labor market.{{sfn|Charles|2003}}  There were declines in occupational segregation in the 1970s and 1980s, as technologies that made the care work of the home quicker and easier allowed more women time to enter the workforce.{{sfn|Cohen|2004}}
+
+=== Racial trends ===
+Data for [[sex segregation]] after the 1990s is extensive but data for racial segregation is less comprehensive. Additionally, although it is easy to see national trends, it does not always reflect the trends within different sectors. Certain regions of the United States are more prone to occupational segregation. Due to the history of slavery, [[Jim Crow laws|Jim Crow]], and the slow transition into an industrial economy, the South’s workforce has been more racially segregated than the rest of the United States.&lt;ref name=":4"&gt;{{Cite journal|last1=Tomaskovic-Devey|first1=Donald|last2=Zimmer|first2=Catherine|last3=Stainback|first3=Kevin|last4=Robinson|first4=Corre|last5=Taylor|first5=Tiffany|last6=McTague|first6=Tricia|date=August 2006|title=Documenting Desegregation: Segregation in American Workplaces by Race, Ethnicity, and Sex, 1966–2003|url=http://dx.doi.org/10.1177/000312240607100403|journal=American Sociological Review|volume=71|issue=4|pages=565–588|doi=10.1177/000312240607100403|s2cid=55627674|issn=0003-1224}}&lt;/ref&gt;
+
+The [[Great Migration (African American)|Great Migration]] (1910 - 1970) represented a shift in the African American population from the South to the North, and from agricultural to industrial jobs.&lt;ref name=":33"&gt;{{Cite journal|last1=Perry|first1=Nancy|last2=Reybold|first2=L. Earle|last3=Waters|first3=Nigel|date=2014-03-06|title="Everybody Was Looking for a Good Government Job"|url=http://dx.doi.org/10.1177/0096144214524341|journal=Journal of Urban History|volume=40|issue=4|pages=719–741|doi=10.1177/0096144214524341|s2cid=144056804|issn=0096-1442}}&lt;/ref&gt; The [[Great Depression in the United States|Great Depression]] (1929 - 1933) caused many African Americans to be fired first compared to others in their companies, which caused them to turn towards self employment, with jobs such as housework or opening up their own businesses as dressmakers or shop owners.&lt;ref name=":33" /&gt; In the 1940s, the types of jobs available began to shift from industrial to service, while the agricultural portion switched to machines that did not require many workers. This shift both created new jobs and pushed other jobs out.&lt;ref name=":5"&gt;{{Cite journal|last1=Alonso-Villar|first1=Olga|last2=del Río|first2=Coral|date=2016-03-10|title=The Occupational Segregation of African American Women: Its Evolution from 1940 to 2010|url=http://dx.doi.org/10.1080/13545701.2016.1143959|journal=Feminist Economics|volume=23|issue=1|pages=108–134|doi=10.1080/13545701.2016.1143959|s2cid=155696086|issn=1354-5701}}&lt;/ref&gt; Racial segregation began to decline after the creation of Title VII of the [[Civil Rights Act of 1964]].&lt;ref name=":4" /&gt;
+
+Data has shown that black women at all education levels are placed into jobs with lower wages when their white female peers of similar skill and education levels are given higher paid jobs due solely to their racial advantage. Occupational segregation has not only affected what jobs African American women are given but their salary as well. Data from Equitable Growth states the wage gap between black women and white men is "often interpreted by economists as the closest approximation of real discrimination". Of the observed variables, however, racial and gender differences in industry and occupation—collectively referred to as workplace segregation—explain by far the largest portion of the gap (28 percent, or 10 cents for every dollar earned by a white man)". One of the main reasons occupational segregation is an issue for black women in the first place is the racial and ethnic discrepancy in access to high-quality educational and financial resources, which hurts children’s educational outcomes, and college access results in long-term labor market opportunities instead of higher-paying jobs.&lt;ref&gt;MAUME, DAVID J. (November 1999). "Glass Ceilings and Glass Escalators". Work and Occupations. 26 (4): 483–509. doi:10.1177/0730888499026004005. ISSN 0730-8884. S2CID 145308055&lt;/ref&gt;
+
+==Types==
+
+=== Gender ===
+{{See also|Sexual division of labour}}
+The gendered division of labor helps to explain the hierarchy of power across gender identity, class, race, ethnicity, and sexual orientation.&lt;ref&gt;{{Cite journal|last=Mills|first=Mary Beth|year=2003|title=Gender and Inequality in the Global Labor Force|journal=Annual Review of Anthropology|volume=32|pages=41–62|doi=10.1146/annurev.anthro.32.061002.093107}}&lt;/ref&gt; [[Socialist feminism|Socialist feminists]] contribute to this ideology through a Marxist frame of [[Marx's theory of alienation|alienated labor]] and the [[means of production]]. [[Heidi Hartmann]] emphasized the gendered division of labor as patriarchal control over women's labor. Wally Saccombe suggested the mode of production should become a unity of production and reproduction, in which women's reproductive abilities are viewed as a valuable source of labor or income.&lt;ref&gt;{{Cite journal|last=Burris|first=Val|title=The Dialectic of Women's Oppression: Notes of the Relation Between Capitalism and Patriarchy|journal=Berkeley Journal of Sociology|volume=27|pages=51–74}}&lt;/ref&gt; The "wages for housework" movement in the late 1970s showcased the importance of gender inequality in the workplace. Socialist feminists critiqued the exploitation of women's household and reproductive labor, since it was not viewed as a commodity that deserved payment in the market economy.&lt;ref&gt;{{Cite journal|last=Bergeron|first=Suzanne|title=Formal, Informal, and Care Economies|journal=Oxford Handbook of Feminist Theory}}&lt;/ref&gt; Women often experience working a "double day" or "second shift" when they go to a wage-earning job and then come home to take care of children and the home.&lt;ref&gt;{{Cite book|last=Bromley|first=Victoria|title=Feminisms Matter|publisher=University of Toronto Press|year=2012}}&lt;/ref&gt;
+
+====Horizontal====
+Horizontal segregation refers to differences in the number of people of each gender presents across occupations.{{sfn|Charles|2003}} Horizontal segregation is likely to be increased by post-industrial restructuring of the economy ([[post-industrial society]]), in which the expansion of service industries has called for many women to enter the workforce. The millions of [[housewife|housewives]] who entered the economy during post-industrial restructuring primarily entered into service-sector jobs where they could work part-time and have flexible hours. While these options are often appealing to mothers, who are often responsible for the [[care work]] of their children and their homes,{{sfn|Charles|2003}} they are also unfortunately most available in lower-paying and lower-status occupations. The idea that [[nurse]]s and teachers are often pictured as women whereas doctors and lawyers are often assumed to be men are examples of how highly ingrained horizontal segregation is in our society.
+
+====Vertical====
+The term ''vertical segregation'' describes men's domination of the highest status jobs in both traditionally male and traditionally female occupations.{{sfn|Charles|2003}} Colloquially, the existence of vertical segregation is referred to as allowing men to ride in a "glass escalator" through which women must watch as men surpass them on the way to the top positions.&lt;ref&gt;Snyder, Karrie Ann and Adam Isaiah Green. 2008. "'Revisiting the Glass Escalator: The Case of Gender Segregation in a Female Dominated Occupation." Social Problems 55(2): 271-299.&lt;/ref&gt; Generally, the less occupational segregation present in a country, the less vertical segregation there is because women have a better chance of obtaining the highest positions in a given occupation as their share of employment in that particular occupation increases.{{sfn|Watts|2005}}
+
+Vertical segregation can be somewhat difficult to measure across occupations because it refers to hierarchies within individual occupations. For example, the category of Education Professionals (a category in the Australian Standard Classification of Occupations, Second Edition) is broken down into "School Teachers," "University and Vocational Education Teachers," and "Miscellaneous Education Professionals." These categories are then further broken down into subcategories. While these categories aptly describe the divisions within education, they are not comparable to the hierarchical categories within other occupations, and thus make comparisons of levels of vertical segregation quite difficult.{{sfn|Watts|2005}}
+
+=== Race ===
+Different minorities have different factors influencing their segregation. In the United States, Alonso-Villar et al. concluded that Asians are the most segregated group based on data of the overall distribution of employment, while Hispanics are the most segregated in local markets. Asians tend to be concentrated in both low pay jobs, such as sewing machine operators or tailors, and high pay jobs like medical or computer engineering jobs. This range may be due to the fact that within the “Asian” category, data for different ethnicities differ, such as between Southeast Asians and East Asians. When the factors of [[human capital]] characteristics and geographic variables are removed, African and Native Americans are the most segregated.&lt;ref name=":03"&gt;{{Cite journal|last1=ALONSO-VILLAR|first1=OLGA|last2=DEL RIO|first2=CORAL|last3=GRADIN|first3=CARLOS|date=April 2012|title=The Extent of Occupational Segregation in the United States: Differences by Race, Ethnicity, and Gender|url=http://dx.doi.org/10.1111/j.1468-232x.2012.00674.x|journal=Industrial Relations: A Journal of Economy and Society|volume=51|issue=2|pages=179–212|doi=10.1111/j.1468-232x.2012.00674.x|s2cid=154675302|issn=0019-8676}}&lt;/ref&gt; While Asians and Hispanics tend to be segregated due to their individual skills and characteristics, black people and Native Americans tend to be unconditionally segregated against.&lt;ref name=":73"/&gt;
+
+Almost 90% of jobs in the United States either overrepresent or underrepresent black males, which demonstrates segregation. Overrepresentation occurs in lower paid jobs, while underrepresentation occurred in higher paid jobs. Jobs with overrepresentation of black and Latino males tend to decrease pay over time.&lt;ref name=":24"/&gt;
+
+=== Intersectionality ===
+The [[intersectionality]] of race/ethnicity and gender in occupational segregation means that the two factors build on one another in a complex way to create their own unique sets of issues. Between genders, there are preconceived notions; when gender is further split up by race and ethnicity, stereotypes differ even more.&lt;ref name=":8"&gt;{{Cite journal|last1=Mintz|first1=Beth|last2=Krymkowski|first2=Daniel H.|date=December 2010|title=The Intersection of Race/Ethnicity and Gender in Occupational Segregation|url=http://dx.doi.org/10.2753/ijs0020-7659400402|journal=International Journal of Sociology|volume=40|issue=4|pages=31–58|doi=10.2753/ijs0020-7659400402|s2cid=14946364|issn=0020-7659}}&lt;/ref&gt; Women are treated to more segregation than men; however, the comparison of different sexes shows that a higher racial/ethnic disparity exists within men in comparison to their female counterparts. Within the workplace, the distribution of Hispanic, Asian, African American, and Native American women is very similar. Nonetheless, within low paid jobs, Hispanic women represent the largest demographic.&lt;ref name=":03"/&gt;
+
+==Causes==
+
+===Individual preferences===
+According to Eli Ginzberg, self-selection starts at a young age, and has many different stages. As children begin thinking about jobs, they are open to all possibilities and are not limited by their gender, race, or social class. At the end of young adulthood, the final occupation choice depends on the person’s degree of education, the value they place on different occupations, their emotions in response to the world around them, and the environmental restrictions they have. Adults choose jobs that have a work environment that is familiar to them and that they believe has value.&lt;ref name=":3"&gt;{{Cite journal|last1=Perry|first1=Nancy|last2=Reybold|first2=L. Earle|last3=Waters|first3=Nigel|date=2014-03-06|title="Everybody Was Looking for a Good Government Job"|url=http://dx.doi.org/10.1177/0096144214524341|journal=Journal of Urban History|volume=40|issue=4|pages=719–741|doi=10.1177/0096144214524341|s2cid=144056804|issn=0096-1442}}&lt;/ref&gt; Although individuals have different preferences for the jobs they want, society and job inequality can influence these choices.&lt;ref name=":12"&gt;{{Cite journal|last=Penner|first=Andrew M.|date=August 2008|title=Race and Gender Differences in Wages: The Role of Occupational Sorting at the Point of Hire|url=http://dx.doi.org/10.1111/j.1533-8525.2008.00129.x|journal=The Sociological Quarterly|volume=49|issue=3|pages=597–614|doi=10.1111/j.1533-8525.2008.00129.x|s2cid=55394864|issn=0038-0253}}&lt;/ref&gt;
+
+Some women self-select out of higher status positions, choosing instead to have more time to spend at home and with their families. According to Sarah Damaske, this choice is often made because high status positions do not allow time for the heavy domestic workload that many women expect to take on due to the gendered division of labor in the home.{{sfn|Charles|2003}} Working-class women in particular also sometimes self-select out of more time-intensive or higher-status positions to maintain the traditional gender hierarchy and household accord.{{sfn|Damaske|2004}}
+
+Human capital explanations posit additionally that men are more likely than women to preference their work life over their family life. However, the General Social Survey found that men were only slightly less likely than women to value short hours, and that preferences for particular job characteristics depended mostly on age, education, race, and other characteristics rather than on gender.{{sfn|Haveman|Beresford|2012}} In addition, other research has shown that men and women likely hold endogenous job preferences, meaning that their preferences are due to the jobs they hold and those they have held in the past rather than related inherently to gender. After taking into consideration men and women's jobs, there is no difference in their job preferences. Men and women engaged in similar types of work have similar levels of commitment to work and display other similar preferences.{{sfn|Haveman|Beresford|2012}}
+
+===Educational disparities===
+Minorities are subjected to a language barrier. For some immigrants, despite having high levels of experience in the country they come from, they are unable to obtain an equally ranked job due to unfamiliarity with the language. Many immigrants who come to the United States are Asians or Hispanics who cannot speak English.&lt;ref name=":03"/&gt; Immigrants may experience over or under education. Those who do not have high proficiency in English are limited to low paying jobs that also have low expectations for skills not pertaining to language. Since minority workers tend to be younger (the median ages of Hispanic, Native American, black, and Asian workers being 35, 38, 39 and 39 respectively, compared to the median age of white people, which is 42), they have less experience, which makes them less competitive candidates.&lt;ref name=":73"/&gt;
+
+Low education accounts for a large percentage of why Native Americans and black people are more segregated in the workplace.&lt;ref name=":73" /&gt; However, although racial and ethnicity differences in education levels is said to be the primary explanation for the wage gap, when comparing the wages between races/ethnicities with the same educational level, there are still differences, suggesting that this is not the only reason why a wage gap exists. Black men who graduate from high school or drop out have an unemployment rate double the unemployment rate of their white peers. People who belong to a racial/ethnic minority will have a disadvantage in getting a job, regardless of their educational background.&lt;ref name=":24"/&gt;
+
+Human capital explanations are those that argue that an individual's and a group's occupational and economic success can be at least partially attributed to accumulated abilities developed through formal and informal education and experiences.{{sfn|Mincer|1891}} Human capital explanations for occupational segregation, then, posit that a difference in educational levels of men and women is responsible for persistent occupational segregation. Because of their alleged fewer educational merits, their lower salary is justified.&lt;ref&gt;{{cite book |last1=Loutfi |first1=Martha Fetherolf |title=Women, Gender, and Work: What is Equality and How Do We Get There? |date=2001 |publisher=International Labour Organization |isbn=92-2-111386-8 |url=https://archive.org/details/womengenderworkw0000unse |access-date=21 October 2019 |url-access=registration }}&lt;/ref&gt; Contrary to this theory, however, over past 40 years, women's educational attainment has outpaced that of men. One area of education that might play a substantial role in occupational segregation, however, is the dearth of women in science and mathematics.{{sfn|Haveman|Beresford|2012}} STEM fields tend to be pipelines to higher paying jobs. Therefore, the lack of women in higher paying jobs might be partially because they do not pursue science and mathematics in school. This can be seen in areas such as finance, which is very mathematics heavy and is also a very popular field for those who eventually rise to high status positions in the private sector. This choice, like others, is often a personal preference or made because of the cultural idea that women are not as good as men at mathematics.{{sfn|Haveman|Beresford|2012}}
+
+===Work disparities===
+Employers can influence the pay disparity for women and minorities in three ways. They may do this through sorting women and racial minorities into lower paying jobs while their counterparts receive higher paying jobs, selectively not choosing women and racial minorities for promotions, and cater their recruiting and advertising to people who are not women or racial minorities. At the same time, employers systematically undervalue the work of women and racial/ethnic minorities in a concept known as valuative discrimination. For many jobs, in between the point of contact and the completion of the application, one of the roles of human resources is to direct applicants to certain jobs. Human resource steering can occur when this role is used to turn women and racial minorities to jobs with lower salaries.&lt;ref name=":12"/&gt;
+
+Human capital explanations posit that men tend to rise to higher positions than women because of a disparity in work experience between the genders. The gap between men and women's tenure rises with age, and female college graduates are more likely than males to interrupt their careers to raise children.{{sfn|Haveman|Beresford|2012}} Such choices may also be attributed to the gendered division of labor which holds women primarily responsible for domestic duties.
+
+===Job search strategies===
+According to sociologists Hanson and Pratt, men and women employ different strategies in their job searches that play a role in occupational segregation. These differing strategies are influenced by power relations in the household, the gendered nature of social life, and women's domestic responsibilities. The last factor, in particular, leads women to prioritize the geographical proximity of paid employment when searching for a job. In addition, most people have been found to find their jobs through informal contacts. The gendered nature of social life leads women to have networks with smaller geographical reach than men. Thus, the location of women in female-dominated occupations which are lower-status and lower pay is the result of "severe day-to-day time constraints" rather than a conscious and long-term choice made that would be able to maximize pay and prestige.{{sfn|Hanson|Pratt|1991}}
+
+Residential communities consisting of a single racial minority in metropolitan areas tend to form job networks due to isolation from other races. Job networks are often used as a better way to find good employment opportunities, but it can be detrimental if it does not result in higher wages. Networks can lead to unequal access to job opportunities and for minorities, result in reduced competition for higher paid job markets and increased competition in lower ones. This results in a decrease in wage price for the labor markets. Black and Latino men who use networks mainly consisting of their own race have a lower rate of employment, while white men will have higher rates of employment.&lt;ref name=":24"/&gt; Additionally, for those who immigrate illegally, it is easier to get certain low paying jobs. Because they often network within their community, these jobs are further concentrated with certain racial/ethnic groups.&lt;ref name=":03"/&gt;
+
+== Effects ==
+
+===Wage gap===
+{{See also|Gender pay gap}}
+Women in female-dominated jobs pay two penalties: the average wage of their jobs is lower than that in comparable male-dominated jobs, and they earn less relative to men in the same jobs. Since 1980, occupational segregation is the single largest factor of the gender pay gap, accounting for over half of the wage gap.&lt;ref name="equitablegrowth.org"&gt;{{cite web|title=Fact Sheet: Occupational Segregation in the United States|url=https://equitablegrowth.org/fact-sheet-occupational-segregation-in-the-united-states/|website=Equitable Growth|date=3 October 2017}}&lt;/ref&gt; In addition, women's wages are negatively affected by the percentage of females in a job, but men's wages are essentially unaffected.{{sfn|Cohen|Bianchi|1999}}
+Wages decreases occur for all workers, regardless of race. The crowding hypothesis postulates that occupational segregation lowers all women's earnings as a result of women's exclusion from primarily male occupations and segregation into a number of predominantly female-dominated occupations.{{sfn|Cotter et al.|1997}} Given that feminine skills are traditionally rewarded less both in salary and prestige, the crowding of women into certain occupations makes these occupations valued less in both pay and prestige.
+
+Crowding is found to be alleviated through macro-changes in occupational segregation. Teaching, for example, at least in recent generations, is traditionally a female-dominated profession. However, when positions open up for women in business and other high-earning occupations, school boards must raise the salaries of potential teachers to attract candidates. This is an example of how even women in traditionally female-dominated professions still benefit salary-wise from the gendered integration of the market.{{sfn|Cotter et al.|1997}}
+
+Wage gaps begin at the point of hire. In Penner’s study on the role of occupational sorting for starting salary in a firm, he found that the average market salary rate for the women hired was 67 percent of that of men.&lt;ref&gt;Barone, C. (2011). Some things never change: gender segregation in higher education across eight nations and three decades. Sociol. Educ. 84, 157–176. doi: 10.1177/0038040711402099&lt;/ref&gt; Compared to that of white people, the average market salary rate for black, Hispanics, and Asians were 72, 84, and 90 percent, respectively. Since market salary rates are predetermined before the applicants are hired, the differences in market salaries between each group is the result of occupational sorting.&lt;ref name=":1"&gt;{{Cite journal|last=Penner|first=Andrew M.|date=August 2008|title=Race and Gender Differences in Wages: The Role of Occupational Sorting at the Point of Hire|url=http://dx.doi.org/10.1111/j.1533-8525.2008.00129.x|journal=The Sociological Quarterly|volume=49|issue=3|pages=597–614|doi=10.1111/j.1533-8525.2008.00129.x|s2cid=55394864|issn=0038-0253}}&lt;/ref&gt;
+
+Von Lockette found that in metropolitan areas with a high concentration of occupational segregation, less-educated black, Latino, and white males received less pay. In areas of [[residential segregation in the United States|residential segregation]], white men were able to receive better pay, while black and Latino men received less, which indicates the possibility that social/job networks have an effect on pay.&lt;ref name=":2"&gt;{{Cite journal|last1=Von Lockette|first1=Niki Dickerson|last2=Spriggs|first2=William E.|date=January 2016|title=Wage Dynamics and Racial and Ethnic Occupational Segregation among Less-Educated Men in Metropolitan Labor Markets|url=http://dx.doi.org/10.1007/s12114-015-9222-5|journal=The Review of Black Political Economy|volume=43|issue=1|pages=35–56|doi=10.1007/s12114-015-9222-5|s2cid=153954367|issn=0034-6446}}&lt;/ref&gt;
+
+=== Lost opportunities ===
+The abilities women and minorities can offer are wasted because they are allocated to inappropriate roles. Those who are highly skilled cannot contribute to the "constantly changing labor economy", resulting in a decrease in efficiency and diverse thinking.  &lt;ref&gt;MAUME, DAVID J. (November 1999). "Glass Ceilings and Glass Escalators". Work and Occupations. 26 (4): 483–509. doi:10.1177/0730888499026004005. ISSN 0730-8884. S2CID 145308055&lt;/ref&gt; To actively keep black people out of higher positions in the workforce, management often allocates black executives to positions that are more racialized, such as diversity positions or liaison jobs that connect them to the black community.
+
+==Measurement==
+Occupational segregation is measured using [[Duncan Segregation Index|Duncan's D]] (or the [[index of dissimilarity]]), which serves as a measure of dissimilarity between two distributions.  
+
+To calculate D:
+
+# Identify N different occupations.
+# Calculate the percentage of men (or other ascribed category) who work in each of the occupations and the percentage of women who work in each occupation.  Give each group a variable name (e.g. when comparing men and women, m&lt;sub&gt;1&lt;/sub&gt; equals the percentage of men, and w&lt;sub&gt;1&lt;/sub&gt; equals the percentage of women).
+# Duncan's D is calculated using this formula:&lt;ref name=":7" /&gt; &lt;math&gt;D = (1/2)  \sum_{i=1}^N (m_1 - w_1)&lt;/math&gt;
+#*It is important to note that Duncan's D uses percentages.  In a given occupation, the number of a certain demographic in that occupation should be divided by the total number of the same demographic in all of the occupations.  For example:  You may have 10 men who are nurses out of 600 total men.  The value for the occupation of male nurses should be 10/600, or .0166.
+Because it compares ratios of both groups, a score of 0 means that there is equal representation between the two groups, while a score of 1 demonstrates a high concentration of one group and unequal distribution between both groups.&lt;ref name=":32"&gt;{{Cite journal|last1=Perry|first1=Nancy|last2=Reybold|first2=L. Earle|last3=Waters|first3=Nigel|date=2014-03-06|title="Everybody Was Looking for a Good Government Job"|url=http://dx.doi.org/10.1177/0096144214524341|journal=Journal of Urban History|volume=40|issue=4|pages=719–741|doi=10.1177/0096144214524341|s2cid=144056804|issn=0096-1442}}&lt;/ref&gt; The number derived from this equation is equal to the proportional of one group that must change their position for equality to happen.&lt;ref name=":7"&gt;{{Cite journal|last1=Duncan|first1=Otis Dudley|last2=Duncan|first2=Beverly|date=April 1955|title=A Methodological Analysis of Segregation Indexes|url=http://dx.doi.org/10.2307/2088328|journal=American Sociological Review|volume=20|issue=2|pages=210|doi=10.2307/2088328|jstor=2088328|issn=0003-1224}}&lt;/ref&gt;
+
+==Solutions==
+
+=== Equal Employment Opportunity Commission ===
+Title VII of the Civil Rights Act of 1964 was designed to ensure fair treatment and legal protection to women and minority groups.&lt;ref&gt;{{Cite journal|last1=Pedriana|first1=Nicholas|last2=Stryker|first2=Robin|date=November 2004|title=The Strength of a Weak Agency: Enforcement of Title VII of the 1964 Civil Rights Act and the Expansion of State Capacity, 1965–1971|url=http://dx.doi.org/10.1086/422588|journal=American Journal of Sociology|volume=110|issue=3|pages=709–760|doi=10.1086/422588|s2cid=145447433|issn=0002-9602}}&lt;/ref&gt; Title VII states that it is illegal to “discriminate in employment based on a person’s race, color, religion, sex, or national origin,” and is enforced by the EEOC. Claims of discrimination are sent to the EEOC to be resolved. The EEOC also seeks out places where systemic discrimination occurs. It can have both direct and indirect effects in resolving discrimination: it can help the victim win cases against discrimination of their company, while simultaneously influencing companies around them to change their policies to avoid possible future transgressions. It also sets precedents in court under Title VII.&lt;ref name=":9"&gt;{{Cite journal|last=Wilhelm|first=Sarah A.|date=September 2002|title=The Impact of Equal Employment Opportunity Commission Enforcement on the Wages of Black and White Women, 1988–1996|url=http://dx.doi.org/10.1007/bf02717311|journal=The Review of Black Political Economy|volume=30|issue=2|pages=25–51|doi=10.1007/bf02717311|s2cid=154242679|issn=0034-6446}}&lt;/ref&gt;
+
+The [[Equal Employment Opportunity Commission]] receives a report covering the race, ethnicity, and gender of employees in nine different categories from each private employer that have “more than 100 employees and government contractors with more than 50 employees and contracts worth $50,000.” This was required by the [[Civil Rights Act of 1964]].&lt;ref name=":6"&gt;{{Cite journal|last1=Kalev|first1=Alexandra|last2=Dobbin|first2=Frank|last3=Kelly|first3=Erin|date=August 2006|title=Best Practices or Best Guesses? Assessing the Efficacy of Corporate Affirmative Action and Diversity Policies|url=http://dx.doi.org/10.1177/000312240607100404|journal=American Sociological Review|volume=71|issue=4|pages=589–617|doi=10.1177/000312240607100404|s2cid=10327121|issn=0003-1224}}&lt;/ref&gt;
+
+Wages increase as the EEOC charges against an industry increase. In the past few decades, wage increases as a response to filed court cases are larger for black women in comparison to white women. However, this could be due to more black women filing for discrimination. Wilhelm shows that filing for gender discrimination transgressions is working, but filing for racial discrimination transgressions is less likely to work.&lt;ref name=":9" /&gt;
+
+=== Diversity programs ===
+Common diversity practices include affirmative action plans, diversity committees and task forces, diversity managers, diversity training, diversity evaluations for managers, networking programs, and mentoring programs. Kalev found that diversity in the workplace does not occur as a result of programs like diversity training and diversity evaluations, which are intended to stop managerial stereotypes through education. When workplaces incorporated programs designed to help women and minorities increase their reach, like networking or mentoring, their diversity increased moderately. Programs that worked considerably were those that changed the structure of the workplace and held them responsible for change, such as affirmative action plans, diversity committees, and diversity staff positions. These programs acknowledge that segregation is systemic and more than just individual bias. White women benefit the most from affirmative action, and black women benefit more than black men. Implementation of these programs allow for the other programs to work better too.&lt;ref name=":6" /&gt;
+
+One drawback to initiatives such as affirmative action is that people may view women and minorities as undeserving of their positions. Other pushbacks to diversity training include white guilt and perceptions that minorities are trying to gain power over them.&lt;ref name=":6" /&gt;
+
+=== Changes in culture ===
+Gender egalitarian cultural principles, or changes in traditional gender norms, are one possible solution to occupational segregation in that they reduce discrimination, affect women's self-evaluations, and support structural changes. Horizontal segregation, however, is more resistant to change from simply modern egalitarian pressures.{{sfn|Charles|2003}} Changes in norms may reinforce the impact of occupational integration in that once people see women in traditionally male-dominated occupations, their expectations about women in the labor market might be changed.{{sfn|Cotter et al.|1997}}
+
+Some scholars, such as Haveman and Beresford, therefore argue that any policies aimed at reducing occupational inequality must focus on culture changes.{{sfn|Haveman|Beresford|2012}} According to Haveman and Beresford, people in the United States have historically tended to reject policies that only support one group (unless that group is them). Therefore, effective policies for limiting occupational segregation must aim to provide benefits across groups. Therefore, policies that aim at capping work hours for salaried workers or mandate on-site employer sponsored childcare might be most effective.{{sfn|Haveman|Beresford|2012}}
+
+In addition, the more occupational integration that occurs, the more women are in the positions to make powerful decisions affecting occupational segregation. If the overall market becomes less segregated, those who make personnel decisions in traditionally female-dominated occupations will have to make jobs, even higher status jobs, more attractive to women to retain them.  School boards, for example, will have to appoint more women to department head positions and other positions of authority in order to retain women workers, whereas those jobs might previously have gone to men.{{sfn|Cotter et al.|1997}}
+
+==See also==
+* [[Achievement gap in the United States]]
+* [[Division of labour]]
+* [[Gender equality]]
+* [[Glass ceiling]]
+* [[Mommy track]]
+* [[Occupational inequality]]
+* [[Occupational sexism]]
+* [[Online segregation]]
+* [[Shared earning/shared parenting marriage]]
+* [[Social stratification]]
+
+==References==
+{{reflist|30em}}
+
+===Bibliography===
+{{refbegin|40em}}
+*{{cite journal
+ |last1=Bergmann
+|first1= B.R.
+ |title=The Economic Risks of Being a Housewife
+ |journal=[[The American Economic Review]]
+ |issue=71
+ |year=1981
+ |pages=81–6}} 
+*{{Cite journal
+ | last1 = Biblarz
+ | first1 = T. J.
+ | last2 =Bengtson
+ | first2 = V. L.
+ | last3 =Bucur
+ | first3 =  A. 
+ | year = 1996
+ | title = Social mobility across three generations.
+ | journal = Journal of Marriage and the Family
+ | volume = 58
+ | number = 1
+ | pages = 188{{emdash}}200
+ | jstor = 353387
+ | doi = 10.2307/353387
+}}
+
+*{{cite journal
+ |last=Chafetz
+|first=J.S.
+ |title=The Gender Division of Labor and the Reproduction of Female Disadvantage: Toward an Integrated Theory
+ |journal=[[Journal of Family Issues]]
+ |volume=9
+ |year=1988
+ |issue=1
+ |pages=108–131
+ |doi=10.1177/019251388009001006|pmid=12281309
+ |s2cid=22304541
+ }} 
+*{{cite journal
+ |last=Charles
+|first=M.
+ |title=Deciphering Sex Segregation: Vertical and Horizontal Inequalities in Ten National Labor Markets
+ |journal=[[Acta Sociologica]]
+ |volume=46
+ |issue=4
+|year=2003
+ |pages=267–287
+ |doi=10.1177/0001699303464001|s2cid=220174984
+ }} &lt;!-- {{sfn|Charles, Maria|2003}} --&gt;
+*{{cite journal
+ |last=Cohen
+|first=P.
+ |title=The Gender Division of Labor: 'Keeping House' and Occupational Segregation in the United States
+ |journal=Gender and Society
+ |volume=18
+ |issue=2
+|year=2004
+ |pages=239–52
+ |doi=10.1177/0891243203262037|citeseerx=10.1.1.536.7134
+|s2cid=18231053
+ }} &lt;!-- {{sfn|Cohen, Philip|2004}} --&gt;
+*{{cite journal
+|last1=Cohen
+|first1=P.N.
+|last2=Bianchi
+|first2=S.M.
+|author-link2=Suzanne M. Bianchi
+ |title=Marriage, children, and women's employment: What do we know?
+ |journal=Monthly Labor Review
+ |issue=122
+ |year=1999
+ |pages=22–31}} 
+*{{cite journal
+ |ref={{harvid|Cotter et al.|1997}}
+ |last1=Cotter
+| first1=D.A.
+ |last2=DeFiore
+| first2=J.
+ |last3=Hermsen
+| first3=J.M.
+ |last4=Kowalewski
+| first4=B.M.
+ |last5=Vanneman
+| first5=R.
+ |title=All women benefit: The macro-level effect of occupational integration on gender earnings equality
+ |journal=[[American Sociological Review]]
+ |volume=62
+ |issue=5
+|year=1997
+ |pages=714–34
+ |doi=10.2307/2657356|jstor=2657356
+}} 
+*{{cite journal
+ |last=Damaske
+|first=S.
+ |title=A 'Major Career Woman'? How Women Develop Early Expectations About Work
+ |journal=Gender and Society
+ |issue=25
+ |year=2004
+ |pages=409–430}} 
+*{{cite journal
+|last1=Hanson
+|first1=S.
+|last2=Pratt
+|first2=G.
+ |title=Job Search and the Occupational Segregation of Women
+ |journal=Annals of the American Association of Geographers
+ |volume=81
+ |issue=2
+|year=1991
+ |pages=229–253
+ |doi=10.1111/j.1467-8306.1991.tb01688.x}} 
+*{{cite journal
+ |first1=H.A.
+|last1=Haveman
+|first2=L.S.
+|last2=Beresford
+ |title=If you're so smart, why aren't you the boss? Explaining the persistent vertical gender gap in management
+ |journal=[[The Annals of the American Academy of Political and Social Science]]
+ |volume=639
+ |year=2012
+ |pages=114–30
+ |doi=10.1177/0002716211418443
+|s2cid=145618752
+|url=https://escholarship.org/content/qt1xf2r797/qt1xf2r797.pdf?t=lqhnlt
+ }} 
+*{{cite journal
+ |last=Mincer
+|first=J.
+ |title=Human Capital and Economic Growth
+ |journal=NBER Working Paper
+ |issue=802
+ |year=1891}} 
+*{{cite journal
+ |last1=Tilcsik
+ |first1=A.
+ |last2=Anteby
+ |first2=M.
+ |last3=Knight
+ |first3=C.
+ |title=Concealable Stigma and Occupational Segregation: Toward a Theory of Gay and Lesbian Occupations
+ |journal=[[Administrative Science Quarterly]]
+ |volume=60
+ |issue=3
+ |year=2015
+ |pages=446–481
+| url=https://tspace.library.utoronto.ca/bitstream/1807/67780/1/asq2015.pdf|doi=10.1177/0001839215576401
+ |s2cid=197658682
+ }} 
+*{{cite journal
+ |last=Watts
+|first=M.J.
+ |title=On the Conceptualisation and Measurement of Horizontal and Vertical Occupational Gender Segregation
+ |journal=European Sociological Review
+ |volume=21
+ |issue=5
+|year=2005
+ |pages=481–488
+ |doi=10.1093/esr/jci034|doi-access=free
+ }} 
+*{{cite book
+ |last=Weeden
+|first=K.
+ |title=Occupational Segregation
+ |work=[[Blackwell Encyclopedia of Sociology]]
+ |editor=Ritzer, George
+ |publisher=[[Blackwell Publishing]]
+ |year=2007}} &lt;!-- {{sfn|Weeden, Kim|2007}} --&gt;
+**Online: {{cite web
+  |title=Blackwell Reference Online
+  |date=31 March 2008
+  |url=http://www.blackwellreference.com/subscriber/tocnode?id=g9781405124331_chunk_g978140512433121_ss1-4}}
+{{refend}}
+
+{{Aspects of occupations}}
+
+[[Category:Gendered occupations]]
+[[Category:Income in the United States]]
+[[Category:Sexism]]
+[[Category:Sociological terminology]]
+[[Category:Majority–minority relations]]
+[[Category:Feminist economics]]
+[[Category:Inequality]]
+[[Category:Feminism and society]]
+[[Category:Feminist terminology]]</rev></revisions></page></pages></query></api>

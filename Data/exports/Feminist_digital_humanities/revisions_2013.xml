@@ -1,0 +1,12 @@
+<?xml version="1.0"?><api><continue rvcontinue="20130315220757|544478587" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="38824009" pageid="38824009" ns="0" title="Feminist digital humanities"><revisions><rev timestamp="2013-06-14T02:08:36Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Feminist Digital Humanities''' is a more recent development in the field of [[Digital Humanities]] as a whole. Feminist Digital Humanities has risen partly due to recent criticism of the propensity of Digital Humanities to further patriarchal or hegemonic discourses in the Academy.&lt;ref&gt;{{cite book| publisher= U of Minnesota P| editor= Matthew K. Gold |last=Liu|first=Alan|chapter=Where is Cultural Criticism in the Digital Humanities?|title= Debates in the Digital Humanities|location= Minneapolis | year= 2012|url=http://dhdebates.gc.cuny.edu/debates/text/30}}&lt;/ref&gt; Some of the research in feminist digital humanities centres on the exclusion of women from histories of technology&lt;ref&gt;{{cite article| last=Chun|first=Wendy|title=On Software, or the Persistence of Visible Knowledge| journal= Grey Room| year= 2004}}&lt;/ref&gt; and the use of technology to promote feminist scholarship.
+
+Scholars Wendy Chun and [[Katherine Hayles|N. Katherine Hayles]] could be considered feminist digital humanities scholars.
+
+==References==
+{{Reflist}}
+
+[[Category:Digital humanities]]
+[[Category:Feminism]]
+
+
+{{Feminism-stub}}</rev></revisions></page></pages></query></api>

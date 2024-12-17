@@ -1,0 +1,19 @@
+<?xml version="1.0"?><api><continue rvcontinue="20211114193659|1055248705" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="69270395" pageid="69270395" ns="0" title="Diversity, equity, and inclusion"><revisions><rev timestamp="2021-11-14T20:36:33Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Diversity, equity, and inclusion''' (DEI) is a term used by organizations and [[Training and development|training programs]] that attempt to ensure all people, regardless of race, gender, or other demographic attribute, are able to succeed in an organization.&lt;ref&gt;{{cite web |title=Diversity, Equity, and Inclusion Definitions |url=https://www.washington.edu/research/or/office-of-research-diversity-equity-and-inclusion/dei-definitions/ |website=UW Research |access-date=14 November 2021 |language=en-us}}&lt;/ref&gt;
+
+==Objectives==
+{{empty section|date=November 2021}}
+
+==Criticism==
+
+DEI training has been criticized as ineffective, due to the short time-frame of the courses and a focus on legal compliance.&lt;ref&gt;{{cite news |last1=Nathoo |first1=Zulekha |title=Why ineffective diversity training won't go away |url=https://www.bbc.com/worklife/article/20210614-why-ineffective-diversity-training-wont-go-away |access-date=14 November 2021 |work=www.bbc.com |language=en}}&lt;/ref&gt;
+
+Conservative activists such as [[Christopher Rufo]] have criticized the ideological content of DEI programs, claiming they promote [[critical race theory]].&lt;ref&gt;{{cite news |title=White House directs federal agencies to cancel race-related training sessions it calls ‘un-American propaganda’ |url=https://www.washingtonpost.com/politics/2020/09/04/white-house-racial-sensitivity-training/ |access-date=14 November 2021 |work=Washington Post}}&lt;/ref&gt;
+
+==See also==
+* [[Diversity training]]
+
+==References==
+{{reflist}}
+
+[[Category:Multiculturalism]]
+[[Category:Workplace]]</rev></revisions></page></pages></query></api>

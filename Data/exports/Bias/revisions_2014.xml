@@ -1,0 +1,56 @@
+<?xml version="1.0"?><api><continue rvcontinue="20141120004501|634623405" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2014-11-20T02:49:02Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Two other uses|the term's general usage|statistical concept|Bias (statistics)}}
+
+{{Multiple issues|section=yes|{{refimprove|lead|date=August 2014}}{{original research|lead|date=June 2014}}
+{{refimprove|date=June 2014}}
+}}
+'''Bias''' is an inclination of temperament or outlook to present or hold a partial perspective, often accompanied by a refusal to even consider the possible merits of alternative points of view.  People may be biased toward or against an individual, a race, a religion, a social class, or a political party.  Biased means one-sided, lacking a neutral viewpoint, not having an open mind.  Bias can come in many forms and is often considered to be synonymous with [[prejudice]] or [[bigotry]].&lt;ref&gt;"bias ...; prejudice", The New Merriam-Webster Dictionary, ISBN 0877799008&lt;/ref&gt; 
+==In the media==
+{{main|Media bias}}
+
+Media bias is the bias of [[journalist]]s and [[news producer]]s within the [[mass media]], in the selection of which events and stories are reported and how they are covered.  The term "media bias" implies a pervasive or widespread bias contravening [[Journalism ethics and standards|the standards of journalism]], rather than the perspective of an individual journalist or article. The direction and degree of media bias in various countries is widely disputed.
+
+Practical limitations to media neutrality include the inability of journalists to report all available stories and facts, and the requirement that selected facts be linked into a coherent narrative.  Since it is impossible to report everything, selectivity is inevitable. [[Government]] influence, including overt and covert [[censorship]], biases the media in some countries. Market forces that result in a biased presentation include the [[ownership]] of the news source, [[concentration of media ownership]], the selection of [[Employment|staff]], the [[preference]]s of an intended [[audience]], and pressure from [[advertiser]]s.
+
+Political bias has been a feature of the mass media since its birth with the invention of the [[printing press]]. The expense of early printing equipment restricted media production to a limited number of people. Historians have found that publishers often served the interests of powerful social groups.&lt;ref&gt;Ann Heinrichs, ''The Printing Press (Inventions That Shaped the World)'', p. 53, Franklin Watts, 2005, ISBN 0-531-16722-4, ISBN 978-0-531-16722-9&lt;/ref&gt;
+
+==Other aspects==
+* Economic: when people/government interpret a law/contract in their favor for economic reasons.
+* [[Inductive bias]] in machine learning.
+* [[Cultural bias]]: Interpreting and judging phenomena in terms particular to one's own culture.
+* [[Racism]], [[regionalism (politics)|regionalism]] and [[tribalism]]: Judging people or phenomena associated with people based on the race/ethnicity, region of origin, or tribe of the people, rather than based on more objective criteria.
+* [[Sexism]]: Judging based on gender, rather than on more objective criteria.
+* [[Sensationalism]]: Favouring the exceptional over the ordinary. However this sentence structure makes is sound like an appeal to popularity or normalcy fallacy. This is actually a more complex problem, whereby, the proponent elevates the importance of the evidence to more subjects than it is relevant. This is accomplished by willful bias, assumption or, putting conclusion ahead of evidence. In practice, this includes emphasizing, distorting, or fabricating exceptional news stories to boost popularity.
+* [[Speciesism]]: Favouring one [[species]] over others.
+* [[Funding bias]] in scientific studies also known as the agent-principle dilemma ([[principal–agent problem]]).
+* [[Bias of an estimator]] is a type of error in statistics in which a measurement is consistently different from its expected value.
+* Medical bias is also known as a physician having a [[conflict of interest]].&lt;ref&gt;Cain, D.M. and Detsky, A.S. [http://jama.jamanetwork.com/article.aspx?articleid=182115  Everyone's a Little Bit Biased (Even Physicians)] ''JAMA'' 2008;299(24):2893-289.&lt;/ref&gt;
+
+==See also==
+{{Portal|Psychology}}
+* [[Bigotry]]
+* [[Color blindness (race) in the United States]]
+* [[Detection theory]]
+* [[Experimenter's bias]]
+* [[Bias of an estimator]]
+* [[Reporting bias]]
+* [[Publication bias]]
+* [[Impartiality]]
+* [[List of biases in judgment and decision making]]
+* [[Prejudice]]
+* [[Scholarly method]]
+* [[Social desirability bias]]
+* [[Source criticism]]
+* [[Weasel word]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+{{Wiktionary}}
+*Bias, unbiased, and both ; essay : http://biasunbiasedandboth.blogspot.com/
+
+{{Biases}}
+{{Philosophical logic}}
+
+[[Category:Bias| ]]</rev></revisions></page></pages></query></api>

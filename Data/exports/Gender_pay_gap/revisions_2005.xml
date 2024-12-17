@@ -1,0 +1,14 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051011171436|25288757" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="39426115" pageid="39426115" ns="0" title="Gender pay gap"><revisions><rev timestamp="2005-11-11T17:45:21Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Income disparity''' is an inequality in pay or salary for equal [[labor]].
+
+Income disparity is commonly used to describe the income differences between males and females for the same job or labor. The term can be used in any situation when wages are arbitrarily different between two or more groups.
+
+The term is also used by those people concerned with the low level of the [[minimum wage]], relative to the income of the wealthy. In this context, it is not equal money for equal work as it is for [[feminist]]s, but the sense that money should be a just reward, earned when deserved at the rate that is deserved. For example, many jobs the poor take on involve much harder labor than jobs the rich take, and some rich people never work. If that were the case, that would be income disparity, a man works all day and makes less money than a man that does not work.
+
+This can be disagreed with under the consideration of the economic backgroung of earnings.  It can be said that income equals the level of production or output of the worker.  Income disparity is the situation where the output level of two workers is equal but their incomes are not as a result of unassociated bias.  In the situation with high earnings for seemingly low levels of work, the income created as a result of the actions of the high earner may be very high.  This would explain the reason the rich person who seemingly never works earns more than the low level earner who works hard.  Earnings are related to output not necessarily how hard someone works.
+
+==See also==
+
+*[[Income inequality metrics]]
+
+[[Category:Labor]]
+{{econ-stub}}</rev></revisions></page></pages></query></api>

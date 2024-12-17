@@ -1,0 +1,25 @@
+<?xml version="1.0"?><api><continue rvcontinue="20031017105128|1579284" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="8690" pageid="8690" ns="0" title="Don&#039;t ask, don&#039;t tell"><revisions><rev timestamp="2003-10-17T10:53:15Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Don't ask, don't tell''' is the common term for the current policy toward [[gay]]s in the US military. It was introduced in [[1993]] by President [[Bill Clinton]], although crafted by [[Colin Powell]] and has been maintained by his successor, [[George W. Bush]]. The policy says that as long as homosexual men and women in the military don't volunteer their [[sexual orientation]], commanders won't try to find them out. 
+
+Statistics on the number of persons discharged from the military in the years since the policy was first introduced ([[1992]]) show that more people are discharged now than were before. By this measure, the policy seems to have failed. However, more of these people are given honorable discharges than was the case before.
+
+&lt;table border="1" width=50%&gt;
+&lt;caption&gt;''From SLDN - Annual Gay Discharges Under "Don't Ask, Don't Tell, Don't Pursue, Don't Harass"''&lt;/caption&gt;
+&lt;tr&gt;&lt;th&gt;Year&lt;/th&gt;&lt;th&gt;[[Coast Guard]]&lt;/th&gt;&lt;th&gt;[[Marines]]&lt;/th&gt;&lt;th&gt;[[Navy]]&lt;/th&gt;&lt;th&gt;[[Army]]&lt;/th&gt;&lt;th&gt;[[Air Force]]&lt;/th&gt;&lt;th&gt;Total&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;[[1994]]&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;36&lt;/td&gt;&lt;td&gt;258&lt;/td&gt;&lt;td&gt;136&lt;/td&gt;&lt;td&gt;187&lt;/td&gt;&lt;td&gt;617&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;[[1995]]&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;69&lt;/td&gt;&lt;td&gt;269&lt;/td&gt;&lt;td&gt;184&lt;/td&gt;&lt;td&gt;235&lt;/td&gt;&lt;td&gt;772&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;[[1996]]&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;315&lt;/td&gt;&lt;td&gt;199&lt;/td&gt;&lt;td&gt;284&lt;/td&gt;&lt;td&gt;870&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;[[1997]]&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;78&lt;/td&gt;&lt;td&gt;413&lt;/td&gt;&lt;td&gt;197&lt;/td&gt;&lt;td&gt;309&lt;/td&gt;&lt;td&gt;1007&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;[[1998]]&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;77&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;td&gt;312&lt;/td&gt;&lt;td&gt;415&lt;/td&gt;&lt;td&gt;1163&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;[[1999]]&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;97&lt;/td&gt;&lt;td&gt;314&lt;/td&gt;&lt;td&gt;271&lt;/td&gt;&lt;td&gt;352&lt;/td&gt;&lt;td&gt;1046&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;[[2000]]&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;104&lt;/td&gt;&lt;td&gt;358&lt;/td&gt;&lt;td&gt;573&lt;/td&gt;&lt;td&gt;177&lt;/td&gt;&lt;td&gt;1231&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+Most other Western military forces have now removed bans on homosexuals (with
+strict policies on [[sexual harassment]]).
+
+==External links==
+
+* [http://www.california.com/~rathbone/links003.htm Chronology of Don't Ask, Don't Tell]
+* [http://www.sldn.org Servicemembers Legal Defense Network]
+
+''To do: Confirm date 1992 of introduction of policy''</rev></revisions></page></pages></query></api>

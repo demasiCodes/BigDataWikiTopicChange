@@ -1,0 +1,53 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041031070911|7133459" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="315938" pageid="315938" ns="0" title="Numerus clausus"><revisions><rev timestamp="2004-11-05T19:16:34Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Numerus Clausus''' (''"closed number"'' in [[Latin language|Latin]]) 
+is one of many methods used to limit the number of students who may study at a 
+university.  It can be similar to a quota both in form and motivation.
+
+It is currently used in Germany to address overcrowding, as the number of
+students has doubled (to 2 million) since 1980 but the number of professors 
+has only increased by a quarter in the same time.  With successful completion 
+of an [[Abitur]], the diploma from a state-approved, academically-oriented secondary school called a [[Gymnasium]], a (prospective) student receives a "permit to study" at a university - which the German state in which the [[Abitur]] was granted must honor.  Unlike students in the U.S., students in Germany and much of Europe specialize by field when they begin university study.  Unfortunately for prospective students, fields such as medicine, biology, dentistry, pharmacology, psychology and business administration are particularly desirable and harder to gain admittance to study.
+
+The numerus clausus is a way to select among competing applicants in particularly popular fields at particular universities, by limiting the pool of qualifying applicants.  Currently, the selection depends primarily on the field of study, the respective German state, and the Abitur grade point average. As an illustration, if you wanted to study medicine in 2003, then the qualifying Abitur grade you would need would depend partially on the state in which you applied: If you wanted to secure a place at a university in Baden-Württemberg, you would need a score at least as good as 1.8 on a scale of 1 (best) to 5 (worst), but if you were in Mecklenburg-Vorpommern, 2.4 could be a qualifying score.  About a quarter of those admitted, however, come off of a waiting list of unsuccessful applicants from previous years.
+
+The numerus clausus is limited to particular universities for many fields, but for the most popular (such as medicine or biology), it is nationwide, with enrolment handled centrally by the ''[http://www.zvs.de Zentralstelle für die Vergabe von Studienplätzen (ZVS)]''.
+
+=='''Numerus clausus''' used according to a discriminatory rule.==
+
+Before the [[Second World War]] the limitations were usually based, in eastern [[Europe]], on the [[religion]] of the student, as the number of students of [[Jew]]ish origin was limited. After WW2, similar regulations, including positive discrimination based on racial or social criteria (e.g. [[peasants, Africans]]), were introduced in many countries, including Poland and United States.
+
+The limitation took the form of total prohibition of Jewish students, or of limiting the number of Jewish students so that their share in the students' population would not be larger than their share in the general population ([[Jewish quota]]). It was motivated by contemporary view of the balancing chances for education for ethnic groups.  The idea of achieving a racial and/or ethnic balance has been discredited in the USA, though the use of [[Affirmative Action]] programs.
+
+The numerus clausus policies affected a limited number of people, since the number of university students before WW2 was very small.
+
+=== Countries legislating limitations on the admission of Jewish students===
+''Main article: [[Jewish quota]].''
+
+At various times, '''Numerus Clausus''' was in action in [[Imperial Russia]], [[Hungary]], [[Poland]] (see chapter below), [[Romania]], [[United States]], [[Canada]].  
+
+In recent years several major American universities in the western states have been investigated for following a similar policy to restrict the number of Asian student admissions.
+
+Jews who wanted education used various ways to handle this obstacle: bribing the authorities, changing their religion, or traveling to countries without such limitations. In Hungary, for example, 5,000 Jewish youngsters (including [[Edward Teller]]) left the country after the introduction of '''Numerus Clausus'''.
+
+===Numerus clausus in Poland===
+
+[[Poland]] tried to introduce a formal '''Numerus Clausus''' law in 1923, but faced objections from the [[League of Nations]]. However '''Numerus Clausus''' was introduced unofficially in the 1937 by the universities and the share of Jewish students was limited to 10%, that was more or less the proportion of Jews in the population of Poland (compared to 20%-40% before regulation). &lt;br&gt;Paradoxically, the numerus clausus caused many Jewish students to emigrate from Poland, and therefore saved their lives during [[Germany|German]] [[Holocaust]] (see [[Alfred Tarski]]). It must be underlined, that the numerus clausus was introduced at the level of universities, which in those times didn't educate many students. However, the introduction of the policy must have had immense influence on the level of the average student.
+&lt;br&gt; The official reason of the policy was that during Russian Tsar's rule, Poles were discriminated in area of education. They were denied education in Polish, and the schools were badly funded in the countryside. The advocates of the solution pointed out that the limit would balance the chances of all nationalities, populated Poland to access education.
+The other official reason was that it was an attempt to equal the chances of children from countryside families, that had very limited access to education, with the access of Jewish families living in the towns and cities. Nevertheless, Polish intelligence of Jewish origins had at least 40-50% of the whole intelligence. The genocide of Jewish intelligentsia and genocide of Polish intelligentsia during WW2 (see [[Holocaust]], [[Katyn massacre]]) badly affected development of Polish economy and society after WW2.
+&lt;br&gt;Similar policies, but based on positive discrimination of peasant children, were introduced after WW2, but with little effect. 
+&lt;br&gt;Another form of positive discrimination in Poland was the law enforcing an equal number of Medicine students of both genders, despite the fact that female students usually performed better on exams. 
+All forms of discrimination were abolished in Poland after 1989.
+
+== External links ==
+
+* [http://rwa.bibks.uu.se/link33.html?Numerus_Clausus?Effects_of?Attitued_towards?Methods_of_Circumvent The Raoul Wallenberg archive] index on Numerus clausus (English)
+* [http://www.humboldt.edu/~rescuers/book/damski/dlinks/numclau.html NUMERUS CLAUSUS]
+* [http://www.remember.org/jean/Chap1/timeline_HUNGARY3.htm (timeline, English)]
+* [http://www.rubicon.hu/assign.php3?ID=1997010105 article (Hungarian)]
+
+[[de:Numerus Clausus]]
+[[he:&amp;#1504;&amp;#1493;&amp;#1502;&amp;#1512;&amp;#1493;&amp;#1505; &amp;#1511;&amp;#1500;&amp;#1488;&amp;#1493;&amp;#1494;&amp;#1493;&amp;#1505;]]
+[[pl:Numerus clausus]]
+
+
+[[Category:Education]]
+[[Category:Discrimination]]</rev></revisions></page></pages></query></api>

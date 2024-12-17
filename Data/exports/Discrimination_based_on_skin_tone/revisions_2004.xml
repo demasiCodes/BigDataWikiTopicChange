@@ -1,0 +1,9 @@
+<?xml version="1.0"?><api><continue rvcontinue="20031219203122|2001283" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="354224" pageid="354224" ns="0" title="Discrimination based on skin tone"><revisions><rev timestamp="2003-12-19T20:36:03Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Colorism''' is a form of black-on-black [[racism]], based on skin-tone, exemplified in terms such as "high yellow" (sometimes written and/or pronounced as "high yaller") as well as the "brown paper bag test". There seems to be an implicit calculus behind this belief that makes the goodness of the individual inversely related to the darkness of his/her skin.
+
+The '''brown paper bag test''' was a ritual once practiced by certain [[African-American]] [[sorority|sororities]] and [[fraternity|fraternities]] who discriminated against people who were "too black". That is, these groups would not let anyone into the sorority or fraternity whose skin tone was darker than a paper bag. [[Spike Lee]]'s film ''[[School Daze]]'' satirizes this practice.
+
+{{msg:stub}}
+
+== External link ==
+
+* [http://www.sptimes.com/2003/08/31/Columns/The_paper_bag_test.shtml The paper bag test], an editorial by Bill Maxwell about blacks discriminating against blacks, ''St. Petersburg Times'', August 31, 2003, discusses the history of the test.</rev></revisions></page></pages></query></api>

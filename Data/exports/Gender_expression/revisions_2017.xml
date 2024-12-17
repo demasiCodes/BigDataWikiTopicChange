@@ -1,0 +1,21 @@
+<?xml version="1.0"?><api><continue rvcontinue="20171029181707|807711332" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1703917" pageid="1703917" ns="0" title="Gender expression"><revisions><rev timestamp="2017-10-30T13:50:42Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Gender expression''' refers to the aspects of person's behaviour, mannerisms, interests, and appearance that are associated with [[gender]] in a particular cultural context, specifically with the categories of [[femininity]] or [[masculinity]]. This also includes [[gender role]]s. These categories rely on [[stereotype]]s about gender.
+
+Gender expression typically reflects a person's [[gender identity]] (their internal sense of their own gender), but this is not always the case.&lt;ref name="Summers"&gt;{{cite book|last1=Summers|first1=Randal W.|title=Social Psychology: How Other People Influence Our Thoughts and Actions [2 volumes]|date=2016|publisher=ABC-CLIO|isbn=9781610695923|page=232|url=https://books.google.com/books?id=5nF1DQAAQBAJ&amp;pg=PA232|language=en}}&lt;/ref&gt;&lt;ref name="APA2015"&gt;{{cite journal|author1=American Psychological Association|title=Guidelines for Psychological Practice With Transgender and Gender Nonconforming People|journal=American Psychologist|date=December 2015|volume=70|issue=9|page=861|url=http://www.apa.org/practice/guidelines/transgender.pdf}}&lt;/ref&gt; Gender expression is separate and independent both from [[sexual orientation]] and [[Sex assignment|gender assigned at birth]]. A type of gender expression that is considered atypical for a person's externally perceived gender may be described as [[Gender variance|gender non-conforming]].
+
+In men and boys, typical gender expression is often described as "manly", while atypical expression is known as [[Effeminacy|effeminate]]. In girls, atypical expression is called [[tomboy]]ish. In (especially queer) women, atypical and typical expression are known as [[butch and femme]] respectively. A mixture of typical and atypical expression may be described as [[Androgyny|androgynous]]. A type of expression that is perceived as neither typically feminine or masculine can be described as gender-neutral or undifferentiated.
+
+The [[Bem Sex-Role Inventory]] was designed to evaluate gender expression objectively (within a White American cultural context).
+
+== References ==
+{{reflist}}
+*Serano, Julia (2016). ''Whipping Girl: A transsexual woman on sexism and the scapegoating of femininity'' (2nd ed.), Berkeley, CA: Seal Press.
+
+== External links ==
+*[http://www.juliaserano.com/terminology.html "There Is No Perfect Word: A Transgender Glossary of Sorts"] by [[Julia Serano]]
+*[http://genderanalysis.net/2014/12/transition-as-gender-freedom-gender-analysis-03/ Gender Analysis: ''Transition as gender freedom''], by Zinnia Jones, December 1, 2014
+*[https://genderanalysis.net/2017/06/identifying-with-a-gender-vs-reaffirming-gender-stereotypes/ Gender Analysis: ''Identifying with a gender vs. reaffirming gender stereotypes''], by Zinnia Jones, June 1, 2017
+*[http://www.transstudent.org/gender/ The Gender Unicorn – Trans Student Educational Resources]
+
+
+
+[[Category:Gender studies]]</rev></revisions></page></pages></query></api>

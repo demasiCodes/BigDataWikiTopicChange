@@ -1,0 +1,124 @@
+<?xml version="1.0"?><api><continue rvcontinue="20161120204741|750611230" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1858124" pageid="1858124" ns="0" title="Height discrimination"><revisions><rev timestamp="2016-11-20T20:47:53Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{globalize|date=August 2011}}
+{{Discrimination sidebar}}
+'''Heightism''' is [[prejudice]] or [[discrimination]] against individuals based on [[Human height|height]]. In principle, it refers to discriminatory treatment against individuals whose height is not within the normal acceptable range of height in a population. Height discrimination is most common against shorter than average men and is generally accepted and ignored.&lt;ref name="judgecable"&gt;[http://www.timothy-judge.com/Height%20paper--JAP%20published.pdf] Judge, A. T. &amp; Cable D. M. (2004) The Effect of Physical Height on Workplace Success and Income: Preliminary Test of a Theoretical Model, 'Journal of Applied Psychology', vol 89 9, No. 3, 428–441&lt;/ref&gt;&lt;ref name="PPS"&gt;[http://economics.sas.upenn.edu/~apostlew/paper/pdf/short.pdf] Persico, Nicola; Postlewaite, Andrew; and Silverman, Dan. "The Effect of Adolescent Experience on Labor Market Outcomes: The Case of Height." Journal of Political Economy, October 2004, Vol. 112, No. 5, pp. 1,019-53.&lt;/ref&gt;
+
+==Origin of the term==
+
+The term ''heightism'' was coined by sociologist Saul Feldman in a paper titled "The presentation of shortness in everyday life—height and heightism in American society: Toward a sociology of stature", presented at the meeting of the [[American Sociological Association]] in 1971.&lt;ref&gt;Feldman, Saul. "The presentation of shortness in everyday life—height and heightism in American society: Toward a sociology of stature
+Paper". Presented at the meeting of the [[American Sociological Association]]. [[Chicago, Il]]. 1971.&lt;/ref&gt;&lt;ref&gt;heightism, n." [[OED Online]]. June 2003. [[Oxford University Press]]. September 2006.&lt;/ref&gt; ''Heightism'' was included in the ''[[Second Barnhart Dictionary of New English]]'' (1971)&lt;ref&gt;{{cite journal
+| last        = Shapiro
+| first       = Fred R.
+| authorlink  = Fred R. Shapiro
+| date        = Spring 1985
+| title       = Historical Notes on the Vocabulary of the Women's Movement
+| journal     = [[American Speech]]
+| volume      = 60
+| issue       = 1
+| pages       = 14
+| publisher   = Duke University Press
+| jstor         = 454643
+}}&lt;/ref&gt; and popularized{{citation needed|date=March 2016}} by ''[[Time (magazine)|Time]]'' magazine in a 1971 article on Feldman's paper.&lt;ref&gt;{{cite journal
+|date=4 October 1971
+|title= Heightism.(Behavior)
+|journal= [[Time (magazine)|Time]]
+|publisher= [[Time, Inc.]]
+|volume= 98
+|issue= 14
+|pages= 82
+}}&lt;/ref&gt;
+
+The word is an example of ''Time'' magazine's habit of supplying new words through "unusual use of affixes",&lt;ref&gt;{{cite journal
+|title=The Vocabulary of Time Magazine Revisited
+|jstor=454478
+|first=Norris
+|last=Yates
+|journal=American Speech
+|volume=56
+|issue=1
+|date=Spring 1981
+|publisher=[[Duke University Press]]
+|pages=55–60
+}}&lt;/ref&gt; although ''Time'' itself objected to the term's inclusion in the 1991 ''Random Webster's College Dictionary'', citing it as an example of the dictionary "straining ... to avoid giving offense, except to good usage" and "[lending] authority to scores of questionable usages, many of them tinged with [[politically correct]] views."&lt;ref&gt;{{cite journal
+|date=June 24, 1991
+|title= Defining womyn (and others): Random House's new dictionary is gender neutral, politically correct - and an English-lover's disappointment
+|journal= [[Time (magazine)|Time]]
+|publisher= [[Time, Inc.]]
+|volume= 137
+|issue= 25
+|pages= 51
+|last=Birnbaum
+|first=Jesse
+}}&lt;/ref&gt;
+
+Heightism is one of a proliferation of neologisms relating to prejudice and discrimination that are lexically patterned after ''[[sexism]].''&lt;ref&gt;{{cite journal
+| last        = Shapiro
+| first       = Fred R.
+| authorlink  = Fred R. Shapiro
+| date        = Spring 1985
+| title       = Historical Notes on the Vocabulary of the Women's Movement
+| journal     = [[American Speech]]
+| volume      = 60
+| issue       = 1
+| pages       = 8
+| publisher   = Duke University Press
+| jstor         = 454643
+}}&lt;/ref&gt;
+
+==Height and social discrimination==
+
+===Employment wage and social experience discrimination===
+
+A research paper published in the Journal of Applied Psychology showed that height is strongly related to success for men. It showed that increase in height for men corresponds to increase in income after controlling for other social psychological variables like age and weight.&lt;ref name="judgecable"/&gt; Economists Nicola Persico, Andrew Postlewaite and Dan Silverman explained the "height premium" and found that "a 1.8-percent increase in wages accompanies every additional inch of height". They also found that men's wages as adults could be linked to their height at age 16. The researchers found that on an average an increase in height by one inch at age 16 increased male adult wages by 2.6 percent. This is equal to increase of approximately $850 in 1996 annual earnings. In other words, the height and corresponding social experiences of taller male adolescent at age 16 would likely translate to higher wage in later adulthood as compared to shorter male adolescent.&lt;ref name="PPS"/&gt;
+
+As with all correlations, there may be other factors at work. For example, several epidemiological studies have shown a statistically significant positive correlation between [[height and intelligence]] in human populations. However, this correlation, though statistically significant, is generally weak and does not imply that variations in stature have a direct effect on cognitive ability. Though significant correlations have been found in early and late childhood in both developed and developing countries, in adults, changes in environment and [[social status]] reduce the strength of this correlation.&lt;ref name='Teasdale1989'&gt;{{cite journal |author1=Teasdale T. W. |author2=Srensen T. I. A. |author3=Owen D. R. | year = 1989 | title = Fall in association of height with intelligence and educational level | url = | journal = British Medical Journal | volume = 298 | issue = 6683| pages = 1292–1293 | doi = 10.1136/bmj.298.6683.1292 | pmid = 2500201 | pmc = 1836522 }}&lt;/ref&gt;
+
+===In business===
+Some jobs do require or at least favor tall people, including some [[manual labor]] jobs, law enforcement, most [[professional sports]], flight attendants, and fashion modeling. US Military pilots have to be 63 to 79 inches (160 to 200&amp;nbsp;cm) tall with a sitting height of {{convert|34|to|40|in|cm}}.&lt;ref name="AFROTC"&gt;[http://www.afrotc.com/admissions/medicalReq.php U.S. Air Force ROTC despite statistical and physical evidence to support the proposition that short people consistently have reduced reaction times.: Admissions requirements]&lt;/ref&gt;  These exceptions noted, in the great majority of cases a person’s height would not seem to have an effect on how well they are able to perform their job. Nevertheless, studies have shown that short people are paid less than taller people, with disparities similar in magnitude to the race and gender gaps.&lt;ref name="Why tall people make more money"&gt;[http://www.cnn.com/2007/US/Careers/02/02/cb.tall.people/index.html Why Tall People Make More Money]&lt;/ref&gt;
+
+Surveys have uncovered that less than 3% of [[Chief executive officer|CEOs]] were below {{height|ft=5|in=7}} in height. 90% of CEOs are of above average height.&lt;ref name="Jonathan Rauch"&gt;[http://www.jonathanrauch.com/jrauch_articles/height_discrimination_short_guys_finish_last/index.html "Short Guys Finish Last" The world's most enduring form of discrimination. The Economist, 23 December 1995].&lt;/ref&gt;
+
+===Dating and marriage===
+Heightism is also a factor in dating preferences. For some people, height is a [[Physical attractiveness#Height|noteworthy factor in sexual attractiveness]].
+
+The greater reproductive success of taller men is attested to by studies indicating that taller men are more likely to be married and to have more children, except in societies with severe sex imbalances caused by war.&lt;ref name="DontWant"&gt;[http://jrscience.wcp.muohio.edu/Research/HumanNatureProgArticles/dontwantnoshortshortmanFI.html Miami University of Ohio: “Don’t Want No Short, Short Man: The Study Of Height, Power, and Mate Selection”].&lt;/ref&gt; However, more recent research has drawn this theory into question, finding no correlation between height and offspring count.&lt;ref name="correlate"&gt;[http://www.epjournal.net/filestore/EP06369385.pdf "Physique Correlates with Reproductive Success in an Archival Sample of Delinquent Youth"].&lt;/ref&gt; Moreover, research on leg length and [[Physical attractiveness#Leg-to-body ratio|leg-to-body ratio]] conflicts with the notion that there is a distinct preference for taller mates. A 2008 study found that both extremes, tall and short, reduced attractiveness, and a 2006 study found that a lower leg-to-body ratio in men and higher leg-to-body ratio in women increased aesthetic appeal.&lt;ref name="legLength"&gt;[https://docs.google.com/viewer?a=v&amp;q=cache:Ez5uazVNELMJ:commonsenseatheism.com/wp-content/uploads/2011/05/Sorokowski-Adaptive-preferences-for-leg-length-in-a-potential-partner.pdf+height+and+occupational+success+evolutionary&amp;hl=en&amp;gl=us&amp;pid=bl&amp;srcid=ADGEESg6EYN1yttQPQbBwLLz8tPj-mBx6kZUVyHs6o1vPeHRQKqxaJyQI7mlfiw1SQ-gMO1OLj_DI5ldyCJCriyl2qef_gWiJm6OWjaO4s-gCR15YYTbHaigK5jHbzvAHGoqD474ceF-&amp;sig=AHIEtbSIDsqspZnNj5-F3bF5sqoWVnVeTQ&amp;pli=1: "Adaptive Preferences for Leg Length in a Potential Partner"].&lt;/ref&gt;&lt;ref name="aAppeal"&gt;[https://docs.google.com/viewer?a=v&amp;q=cache:Ez5uazVNELMJ:commonsenseatheism.com/wp-content/uploads/2011/05/Sorokowski-Adaptive-preferences-for-leg-length-in-a-potential-partner.pdf+height+and+occupational+success+evolutionary&amp;hl=en&amp;gl=us&amp;pid=bl&amp;srcid=ADGEESg6EYN1yttQPQbBwLLz8tPj-mBx6kZUVyHs6o1vPeHRQKqxaJyQI7mlfiw1SQ-gMO1OLj_DI5ldyCJCriyl2qef_gWiJm6OWjaO4s-gCR15YYTbHaigK5jHbzvAHGoqD474ceF-&amp;sig=AHIEtbSIDsqspZnNj5-F3bF5sqoWVnVeTQ&amp;pli=1: "The leg-to-body ratio as a human aesthetic criterion"].&lt;/ref&gt;  Biologically, from an evolutionary perspective, these findings are consistent with data relating [[Human height#Height and (physiological and psychological) health|height to human health]]. Therefore, a biological or, more specifically, an evolutionary argument for the preference of a taller mate is questionable, lacking definitive evidence.  Nonetheless, research by [[Dan Ariely]] found that American women exhibit a marked preference for dating taller men, and that for shorter men to be judged attractive by women, they must earn substantially more money than taller men.&lt;ref&gt;"Ariely found that a 5'4" man would need to make $229,000 more than a 6' man to have equal appeal; a 5'6" man would need $183,000 more; a 5'10" man would need $32,000 more." [[Lori Gottlieb]] (2010). ''Marry Him: The Case for Settling for Mr. Good Enough''. Penguin, ISBN 9781101185209 p. 239&lt;/ref&gt;
+
+Nonetheless, on a cultural level in [[Post-industrial society]], a sociological relationship between height and perceived attractiveness exists. This cultural characteristic, while applicable to the modernized world, is not a transcendental human quality.&lt;ref name="hadza"&gt;[http://eprints.lse.ac.uk/24375/1/How_universal_are_human_mate_choices_%28LSERO%29.pdf: "How universal are human mate choices? Size doesn’t matter when Hadza foragers are choosing a mate"].&lt;/ref&gt;  Quantitative studies of woman-for-men [[personal advertisement]]s have shown strong preference for tall men, with a large percentage indicating that a man significantly below average height was unacceptable.&lt;ref name="ShortSupport3"&gt;[http://www.shortsupport.org/Research/personals.html Short Persons Support: “Personals Analyzer”].&lt;/ref&gt; A study produced by the Universities of Groningen and Valencia, has found that men who felt most anxious about attractive, physically dominant, and socially powerful rivals, were less jealous, the taller they were themselves.&lt;ref name="Nature.com"&gt;[http://blogs.nature.com/news/thegreatbeyond/2008/03/short_men_are_the_jealous_type.html Short men are the jealous type - March 13, 2008”].&lt;/ref&gt; The study also found that women were most jealous of others' [[physical attractiveness]], but women of medium height were the least jealous.&lt;ref name="The New Scientist"&gt;[http://www.newscientist.com/article/mg19726475.200-your-height-dictates-how-jealousy-strikes.html Your height dictates how jealousy strikes”].&lt;/ref&gt; The report, produced by Dutch and Spanish researchers, stated that because average height women tend to be the most fertile and healthy, they would be less likely to feel threatened by women with those similar features.&lt;ref name="BBC"&gt;[http://news.bbc.co.uk/2/hi/health/7291366.stm Short men 'are the most jealous'”].&lt;/ref&gt;
+
+===In the media===
+{{Original research|date=April 2008}}
+In the [[Mass media|media]], heightism can take the form of making fun of people whose height is out of the normal range in ways that would be unseemly if directed at [[skin color]] or [[weight]]. The portrayal of short men in the media is in general negative. In general, short statured men are portrayed as unsuccessful in career, romance, etc. (e.g., [[Spence Olchin]], [[Bud Bundy]], and [[George Costanza]]) or they are unlikeable tyrants in need of compensating for "something" (e.g. Lord Farquaad from the first [[Shrek]] film or to a lesser degree [[Edward Elric]]). Notable exceptions are roles played by [[Michael J. Fox]] (especially [[Mike Flaherty]] from the TV series ''[[Spin City]]'', where a short man is portrayed as an attractive and likable person, who is successful both in romance and career), and [[Kevin Connolly (actor)|Kevin Connolly]]'s portrayal of Eric "E" Murphy in [[HBO]]'s television series [[Entourage (U.S. TV series)|Entourage]] (Connolly is {{convert|5|ft|5|in|abbr=on|disp=or}})&lt;ref&gt;[http://www.imdb.com/name/nm0175305/bio Kevin Connolly (I) - Biography&lt;!--Bot-generated title--&gt;].&lt;/ref&gt;
+
+Similarly, shorter men are often denied leading roles. Although some famous cinema actors such as [[Alan Ladd]] {{convert|5|ft|5|in|m|abbr=on}} have been short in real life, in their fictional depictions they have been presented as taller. There have also been cases of very tall actors encountering problems in Hollywood. [[Dolph Lundgren]] and [[Armie Hammer]], both standing about {{convert|6|ft|4+1/2|in|m|sigfig=3|abbr=on}}, stated that they had lost jobs or were about to do so because of being too tall.&lt;ref&gt;http://www.celebheights.com/s/Dolph-Lundgren-22.html&lt;/ref&gt;&lt;ref&gt;http://www.celebheights.com/s/Armie-Hammer-47501.html&lt;/ref&gt;
+
+When [[Daniel Craig]] was announced as [[James Bond]] in 2005, intense criticism of the casting decision (made by [[Eon Productions]]) included the notion that the actor was too short to play 007, even though at {{convert|5|ft|10|in|abbr=on}} Craig is average height for a white British male. There have also been complaints on [[Henry Cavill]] being chosen to play [[Man of Steel (film)|Superman]], arguing that he at a stature of {{convert|6|ft|1|in|m|abbr=on}} was too short for the role.
+
+In the [[Star Wars]] saga, [[Darth Vader]] is depicted as having longer artificial legs attached, making him massive and taller than his original form; He is portrayed by 6'5" [[David Prowse]]. Vader's spoof, [[Spaceballs#Spaceballs|Dark Helmet]] in the movie [[Spaceballs]] (1987), is depicted as being very short in stature; he is portrayed by [[Rick Moranis]] who is 5'0".
+
+In the [[Monty Python]] sketch [[Archaeology Today]], an interviewer ([[Michael Palin]]) demeans Professor Lucien Kastner ([[Terry Jones]]) for his {{convert|5|ft|10|in|abbr=on}} height, calling him a "five-foot ten-inch weed," and continually praises Sir Robert Eversley ([[John Cleese]]) for his {{convert|6|ft|5|in|abbr=on}} stature.
+
+In 1987 the [[BBC]] comedy series ''[[A Small Problem]]'' imagined a totalitarian society in which people under the height of {{convert|5|ft}} were systematically discriminated against. The program attracted considerable criticism and complaints which accused the writers of reinforcing prejudice and of using offensive terms; the writers responded that their intention had been to show all prejudice was stupid and that height was chosen randomly.&lt;ref name="BBC Comedy guide"&gt;[http://www.bbc.co.uk/comedy/guide/articles/s/smallproblema_1299002875.shtml A Small Problem] in BBC Comedy Guide.&lt;/ref&gt;
+
+In Jhonen Vasquez's [[Invader Zim]], the Irken hierarchy is based on height, with the tallest being the leader, and the shortest receiving no credit for conquering planets or given the worst assignments, such as Skoodge's case.
+
+The [[Law &amp; Order: Criminal Intent]] episode [[Jones (Law &amp; Order: Criminal Intent)|Jones]] features a serial killer who preys on shorter women. The detectives theorize that these women are targeted because "they made [the killer] feel powerful, [the killer] could dominate them." Eventually [[Alexandra Eames]] (played by [[Kathryn Erbe]], {{convert|5|ft|2|in|abbr=on|disp=or}}) baits herself for the suspect, who shows an attraction to her.
+
+In an episode of [[The Simpsons]] called [[Grampa vs. Sexual Inadequacy]], Homer criticizes his father for never saying anything nice to him. In response, Grampa says, "I was always proud that you weren't a short man."
+
+[[S&amp;M Short and Male]], a documentary aired in 2008, demonstrated the obstacles and bigotry that short statured men face every day in life, love and work.
+
+==Legislation==
+Currently, there is one state in the United States of America, [[Michigan]], that prohibits height discrimination.&lt;ref name="Michigah"&gt;[http://www.michigan.gov/documents/act_453_elliott_larsen_8772_7.pdf Text] of the Elliot Larsen Civil Rights Act of 1976.&lt;/ref&gt; There is pending legislation introduced by [[Massachusetts]] Representative [[Byron Rushing]] which would add Massachusetts to the list.&lt;ref name="Massachusetts"&gt;[http://www.mass.gov/legis/bills/house/ht03pdf/ht03752.pdf Text (PDF)] of Massachusetts House bill 3752, 2006.&lt;/ref&gt; Two municipalities currently prohibit height discrimination: [[Santa Cruz, California]]&lt;ref name="Advocates"&gt;[http://www.genderadvocates.org/policy/Ordinances/Laws/Santa%20Cruz%20Ordinance.htm Chapter 9.83] of the City of Santa Cruz code – “Prohibition against Discrimination”, 1992.&lt;/ref&gt; and [[San Francisco, California]].&lt;ref name="NAAFA"&gt;[http://www.naafa.org/fatf/sf_height_weight.html Text] of Compliance Guidelines To Prohibit Weight and Height Discrimination; San Francisco Administrative Code Chapters 12A, 12B and 12C and San Francisco Municipal/Police Code Article 33, 26 July 2001.&lt;/ref&gt; The [[District of Columbia]] prohibits discrimination based on personal appearance.&lt;ref name="DC"&gt;[http://ohr.dc.gov/ohr/cwp/view,a,3,q,491858,ohrNav,%7C30953%7C.asp Text] District of Columbia Human Rights Act.&lt;/ref&gt; [[Ontario]], [[Canada]] prohibits height discrimination under the human rights code.&lt;ref name="Ontario"&gt;[http://www.ohrc.on.ca/en/resources/Policies/PolicyHtWt/view Policy on height and weight requirements] Ontario, Canada Human Rights Code.&lt;/ref&gt; [[Victoria, Australia]] prohibits discrimination based on physical features under the Equal Opportunity Act of 1995.&lt;ref name="Victoria"&gt;[http://www.austlii.edu.au/au/legis/vic/consol_act/eoa1995250/index.html Text] Victoria, Australia Equal Opportunity Act of 1995.&lt;/ref&gt;
+
+Examples of successful legal battles pursued against height discrimination in the workplace include a 2002 case involving highly qualified applicants being turned down for jobs at a bank because they were considered too short;&lt;ref name="Chinese"&gt;[http://www.cnn.com/2004/LAW/05/31/dorf.height.discrimination/index.html Chinese Height Discrimination Case].&lt;/ref&gt; a 2005 Swedish case involving an unfair height requirement for employment implemented by [[Volvo]] car company;&lt;ref name="Volvo"&gt;[http://www.eiro.eurofound.eu.int/2005/11/inbrief/se0511102n.html Volvo Car Company Height requirement for employment].&lt;/ref&gt; and a 1999 case involving a [[Kohler Company]] informal practice not to consider women who applied for jobs unless they were at least {{convert|5|ft|4|in|abbr=on}} tall.&lt;ref name="Kohler"&gt;[http://www.dol.gov/opa/media/press/esa/archive/esa99268.htm Kohler Corp. Gender Discrimination Case].&lt;/ref&gt; Height requirements for employment which are not a [[Bona fide occupational requirement|''bona fide'' occupational requirement]] are becoming more and more uncommon.
+
+==See also==
+* [[Height and intelligence]]
+
+==References==
+{{Reflist|2}}
+
+{{Discrimination}}
+
+[[Category:Discrimination]]
+[[Category:Prejudices]]
+[[Category:Human height|Discrimination]]</rev></revisions></page></pages></query></api>

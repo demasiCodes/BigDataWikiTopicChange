@@ -1,0 +1,38 @@
+<?xml version="1.0"?><api><continue rvcontinue="20210913122506|1044073421" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="5348421" pageid="5348421" ns="0" title="Racism by country"><revisions><rev timestamp="2021-09-13T19:03:36Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Discrimination sidebar|state=collapsed}}
+The article describes{{clarify|date=October 2016}} the state of '''[[race relations]] and [[racism]] in a number of countries'''.
+
+Various forms of racism are practiced in most countries on Earth.&lt;ref&gt;{{cite web|url=http://web.amnesty.org/library/index/engACT400202001 |publisher=Amnesty International |title=Racism and the administration of justice |url-status=dead |archiveurl=https://web.archive.org/web/20041227005600/http://web.amnesty.org/library/index/engACT400202001 |archivedate=December 27, 2004 }}&lt;/ref&gt; In individual countries, the forms of racism which are practiced may be motivated by historic, cultural, religious, economic or demographic reasons. Wars created sentiments of ultra-nationalism, ethnic pride and racism.
+
+Racism is widely condemned throughout the world, with 88 states being signatories of the [[International Convention on the Elimination of All Forms of Racial Discrimination]] {{as of|2013|3|7|lc=on}}.&lt;ref&gt;{{cite web|url=http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&amp;mtdsg_no=IV-2&amp;chapter=4&amp;lang=en|title=STATUS AS AT : 07-03-2013 05:04:14 EDT : International Convention on the Elimination of All Forms of Racial Discrimination|publisher=[[Office of the United Nations High Commissioner for Human Rights]]}}&lt;/ref&gt;
+* [[Racism in Asia]]
+** [[Racism in the Middle East]]
+
+*[[Racism in Africa]]
+*[[Racism in Europe]]
+**[[Racism in the United Kingdom]]
+*[[Racism in North America]]
+**[[Racism in the United States]]
+*[[:Category:Racism in Oceania|Racism in Oceania]]
+**[[Racism in Australia]]
+*[[Racism in South America]]
+
+== See also ==
+
+*[[Committee on the Elimination of Racial Discrimination]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite web|url=http://www2.ohchr.org/english/bodies/cerd/|title=Committee on the Elimination of Racial Discrimination|publisher=[[Office of the United Nations High Commissioner for Human Rights]]}}
+
+{{Africa topic|Racism in}}
+{{Americas topic|Racism in}}
+{{Asia topic|Racism in}}
+{{Europe topic|Racism in}}
+{{Oceania topic|Racism in}}
+{{Discrimination}}
+{{Ethnicity}}
+{{Racism topics}}
+
+[[Category:Racism by country| ]]</rev></revisions></page></pages></query></api>

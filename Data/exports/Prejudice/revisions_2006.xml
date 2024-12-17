@@ -1,0 +1,66 @@
+<?xml version="1.0"?><api><continue rvcontinue="20061112181150|87369122" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="77182" pageid="77182" ns="0" title="Prejudice"><revisions><rev timestamp="2006-11-12T18:11:58Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{For|"with(out) prejudice" in [[law]]|Prejudice (law)}}  
+
+'''Prejudice''' is, as the name implies, the process of "pre-judging" something. It implies coming to a judgment on a subject before learning where the preponderance of [[evidence]] actually lies, or forming a judgment without direct [[experience]]. Holding a politically unpopular view is not in itself prejudice, and  politically popular views are not necessarily free of prejudice. When applied to social groups, prejudice generally refers to existing biases toward the members of such groups, often based on [[social stereotype]]s; and at its most extreme, results in groups being denied benefits and rights unjustly or, conversely, unfairly showing unwarranted favor towards others.
+
+This is different from viewpoints accumulated though direct life experience, which are neither prejudiced, conditioned or necessarily instinctive: they are not pre-judgments but post-judgments. Some argue that all politically based views stem from a lack of sufficient life experience; this, however, provokes the question of how much life experience is required before a [[perspective (cognitive)|point of view]] is no longer regarded as prejudiced. If no amount of experience entitles a person to a viewpoint - if every  is biased - then there can be no objectivity.  Judgements based on experience may, however, be coloured by prejudice.  One might imagine a continuum from "prejudiced" to "based on experience," with many, if not most, views coming somewhere between the two extremes. 
+
+Fallacious extension of one's own negative past experiences to the general case can be harmful; it can be termed [[bias]], or more [[slang|colloquially]], "lumping".  If a person has developed the concept that members of one group have certain characteristics because of a sour past acquaintance with a member of that group, s/he may presume that all members of the group have such characteristics, thus adopting the prejudice known as [[sexism]]. This is typical of all prejudice: [[racism]], [[linguicism]], [[ageism]], religious [[intolerance]], [[heterosexism]], prejudice based on differing [[politics|political]] stances, and [[classism]] or [[elitism]] based on ones' [[socioeconomic]] status. There are prejudices towards those with [[disabilities]], because a "handicapped" or disabled person may appear different from everyone else or unable to live the way an "abled" person can.
+
+In other cases, it may be a matter of early education:  people taught that certain attitudes are the "correct" ones may form opinions without weighing the evidence on both sides of a given question with no malice intended on the child's part. The prejudiced adult might even be shocked to hear a slew of [[racial slur]]s and their own half-cocked opinions on various groups echoed back at them from their children.
+       
+In [[Jane Austen]]'s novel ''[[Pride and Prejudice]]'', the heroine forms a strong opinion of a man's character before she hears his side of the story.  The balance of the facts, when finally made known to her, challenges and ultimately overturns this prejudice. Prejudice is also a theme in [[Prejudices in mockingbird|To Kill a Mockingbird]], in which a man is wrongly tried and convicted because of his race.
+
+Sociologists have termed prejudice an [[adaptation|adaptive]] behavior. Biased views are necessary at times for human survival: we don't always have time to form a legitimate view about a potential foe before adopting a defensive stance that could save our lives. Conversely, prejudice is non-adaptive when it interferes with survival or well-being (e.g., refusing to patronize the only doctor in a town who could save you because he or she is different from one self , or rejecting a potential friend/partner because of ethnicity).
+
+Differing opinions of what constitutes prejudice can prompt us to reconsider our views, with an emphasis on self-understanding.  Does, for example, criticizing another person as being prejudiced in itself sometimes involve pre-judging the very person being criticized?  Another interesting intellectual conundrum is to consider whether deeply-held spiritual or religious views are also prejudiced, since they are not necessarily based on direct experience. 
+
+There is some confusion between common and legal usages of the term "prejudice."  In law, the phrase "with prejudice" implies a judgment having been made after the presentation of evidence; it does not imply any form of bias. In [[western]] countries like the [[United States]], [[Canada]] and [[Great Britain]], prejudice has became socially unacceptable to most people as it violates individual rights and can interfere with the equality of social groups in a [[democratic]] country. 
+
+Often the terms prejudice and [[stereotype]] are confused:
+* Prejudices are either an abstract-general preconception or an [[attitude]] towards individuals.
+* [[Stereotypes]] are a generalization of existing characteristics (facts), they reduce complexity and offer also opportunities to identify oneself with others.
+
+== See also ==
+* [[Allport's scale]]
+* [[Allophilia]]
+* [[Civil Rights]]
+* [[Disability]]
+* [[Discrimination]]
+* [[Intercultural competence]]
+* [[Intolerance]]
+* [[Judging]]
+* [[Label (sociology)|Labeling]]
+* [[political correctness]]
+* [[Racism]]
+* [[Sexism]]
+* [[The Sneetches and Other Stories]] by [[Dr. Seuss]], an [[allegory]] of racism (some readers see parallels to [[anti-Semitism]]) 
+* [[Taboo]], prejudice is treated as unacceptable behavior or forbidden actions in western countries.
+* [[Tolerance]]
+
+== External links ==
+* [http://www.tolerance.org/hidden_bias/02.html Tolerance.org]
+* [http://www.understandingprejudice.org/ Understanding Prejudice.org]
+
+&lt;!--Categories--&gt;
+[[Category:Prejudices| ]]
+
+&lt;!--Other languages--&gt;
+[[bg:Предразсъдък]]
+[[da:Fordom]]
+[[de:Vorurteil]]
+[[et:Eelarvamus]]
+[[el:Προκατάληψη]]
+[[es:Prejuicio]]
+[[fr:Préjugé]]
+[[he:דעה קדומה]]
+[[lt:Prietaras]]
+[[hu:Előítélet]]
+[[nl:Vooroordeel]]
+[[ja:偏見]]
+[[no:Fordom]]
+[[pl:Uprzedzenie]]
+[[pt:Preconceito]]
+[[ru:Предрассудок]]
+[[simple:Prejudice]]
+[[fi:Ennakkoluulo]]
+[[sv:Fördom]]</rev></revisions></page></pages></query></api>

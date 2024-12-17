@@ -1,0 +1,1472 @@
+<?xml version="1.0"?><api><continue rvcontinue="20071109052211|170266635" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="26410" pageid="26410" ns="0" title="Conversion therapy"><revisions><rev timestamp="2007-11-09T05:23:48Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{LGBT}}
+'''Conversion therapy''' (also called '''reparative therapy''' or '''sexual reorientation therapy''') refers to methods aimed at changing [[gay]], [[lesbian]], and [[bisexual]] people's sexual orientations to [[heterosexual]], or at eliminating or diminishing [[Homosexuality|same-sex]] desires and behaviors.  Many techniques have been tried, including [[behavior modification]], [[aversion therapy]], [[psychoanalysis]], [[prayer]], and religious counseling.&lt;ref&gt;See [[Conversion therapy#History and doctrinal development]].&lt;/ref&gt;  Conversion therapy is closely associated with the "[[ex-gay]]" movement, which is more explicitly religious.&lt;ref name="yoshino" /&gt; Ex-gay groups tend to focus primarily on avoiding same-sex sexual activity, and secondarily (or sometimes not at all) on changing the underlying orientation.&lt;ref name="peebles" /&gt;
+
+The medical and mental health consensus in the United States is that there is little or no scientific evidence that conversion therapies are effective at changing sexual orientation and some evidence that these therapies are potentially harmful.&lt;ref name="apa" /&gt;&lt;ref name="PsychNews"&gt;
+{{cite news
+ |first= K.
+ |last= H.
+ |title= APA Maintains Reparative Therapy Not Effective
+ |url= http://www.psych.org/pnews/99-01-15/therapy.html
+ |publisher= Psychiatric News (news division of the American Psychiatric Association)
+ |date= [[1999-01-15]]
+ |accessdate=2007-08-28
+}}&lt;/ref&gt; No mainstream U.S. medical organization endorses conversion therapy and some have expressed concerns over some of the ethics and assumptions surrounding its practice.&lt;ref&gt;See [[Conversion therapy#Ethics guidelines]].&lt;/ref&gt;  The mainstream view is that sexual orientation cannot be changed by therapy,&lt;ref name="answers"&gt;
+{{cite web
+ |url = http://www.apa.org/topics/orientation.html
+ |title = Answers to Your Questions About Sexual Orientation and Homosexuality
+ |accessdate = 2007-08-28
+ |publisher = American Psychological Association
+ |quote = Although we can choose whether to act on our feelings, psychologists do not consider sexual orientation to be a conscious choice that can be voluntarily changed.... [homosexuality] does not require treatment and is not changeable.
+}}&lt;/ref&gt; that attempts to do so may be damaging to the person's well-being,&lt;ref name="apa" /&gt;&lt;ref name="ACA News" /&gt; and that "the positions espoused by [conversion therapy advocates] [[National Association for Research &amp; Therapy of Homosexuality|NARTH]] [National Association for Research and Therapy of Homosexuality] and [[Focus on the Family]] create an environment in which prejudice and discrimination can flourish."&lt;ref name="prejudice"&gt;
+{{cite news
+ | author = 365Gay.com Newscenter Staff
+ | title = APA Discredits 'Ex-Gay' Movement
+ | url = http://www.365gay.com/Newscon06/08/081106apa.htm
+ | publisher = 365Gay Newscenter
+ | date = 2006-08-11
+ | accessdate = 2007-04-14
+}}&lt;/ref&gt;  The label ''conversion'' is often preferred over ''reparative'', as the latter suggests that same-sex desire is something which can or should be "repaired."&lt;ref name="yoshino" /&gt;&lt;ref name="taskforce"&gt;{{cite web
+|url = http://www.thetaskforce.org/downloads/reports/reports/YouthInTheCrosshairs.pdf
+|title = Youth in the crosshairs: the third wave of ex-gay activism
+|accessdate = 2007-08-29
+|author = Cianciotto, J.; Cahill, S.
+|year = 2006
+|format = pdf
+|publisher = National Gay and Lesbian Task Force
+}}&lt;/ref&gt;  The [[American Psychological Association]] has issued several cautionary statements against sexual conversion therapy, but has never condemned it.&lt;ref&gt;{{cite news
+|url=http://psychologytoday.com/articles/index.php?term=pto-20030123-000001
+|title=Am I Anti-Gay? You Be The Judge
+|last=Epstein
+|first=Robert
+|publisher=[[Psychology Today]]
+|date=Jan/Feb 2003}}&lt;/ref&gt;  As a result of the medical view, conversion therapy is a largely marginalized practice.&lt;ref name="yoshino" /&gt; Today's conversion therapists characterize the movement as offering the possibility of a choice to gay men and women who are unhappy with their sexuality.&lt;ref name="EthicalIssues"&gt;See generally 
+{{cite journal
+ |last= Yarhouse
+ |first= Mark A.
+ |coauthors= Throckmorton, Warren
+ |year= 2002
+ |title= Ethical Issues in Attempts to Ban Reorientation Therapies
+ |journal= Psychotherapy: Theory/Research/Practice/Training
+ |volume= 39
+ |issue= 1
+ |pages= 66–75
+ |doi= 10.1037//0033-3204.39.1.66
+ |url= http://psych.umb.edu/faculty/perez/Psych215/Yarhouse%20sex%20conversion%20tx%202002.pdf
+ |accessdate= 2007-08-28
+ |quote= One of the most frequently cited arguments in support of a client's right to choose change therapy is the freedom and self-determination of the client...
+}}
+&lt;/ref&gt; 
+
+Changing sexual orientation has become highly politicized, and the ensuing debates "have obscured the scientific data by calling into question the motives and even the character of individuals on both sides of the issue."&lt;ref name="Psych" /&gt;  Some [[LGBT social movements|LGBT rights]] supporters have described the phenomenon as "the Christian Right repackag[ing] its anti-gay campaign in kinder, gentler terms. Instead of simply denouncing homosexuals as morally and socially corrupt, the Christian Right has now shifted to a strategy of emphasizing ... the ex-gay movement. Behind this mask of compassion, however, the goal remains the same: to roll back legal protections for lesbian, gay, bisexual and transgender people ..."&lt;ref name="challenge"&gt;{{cite web
+|url = http://www.thetaskforce.org/downloads/reports/reports/ChallengingExGay.pdf
+|title = Challenging the ex-gay myth: an information packet
+|accessdate = 2007-08-28 
+|year = 1998
+|publisher = [[Political Research Associates]], National Gay and Lesbian Task Force, Equal Partners in Faith
+}}&lt;/ref&gt;  In turn, homosexuals who feel conversion therapy has been helpful have felt oppressed by such activists.  Randy Thomas has said "As a former homosexual, when I was involved in the 1980s promoting the gay agenda, our only focus was to seek tolerance, whereas today's political activism has moved from true tolerance into political domination and power. It's an amazing thing to watch a group that said they were oppressed become oppressors."&lt;ref&gt;{{cite news
+|url=http://www.cnsnews.com/ViewCulture.asp?Page=/Culture/archive/200406/CUL20040621a.html
+|title=Documents Reveal San Francisco Mayor's Ties to Homosexual Activists
+|last=Bluely
+|first=Robert
+|date=[[2004-07-21]]
+|accessdate= 2007-11-01
+|publisher = [[Cybercast News Service]]}}&lt;/ref&gt;  
+
+== History and doctrinal development ==
+
+The development of conversion therapy can roughly be traced through three periods: an early Freudian period, a period of mainstream approval of conversion therapy during a time when the mental health establishment became the "primary superintendent" of sexuality, and a post-[[Stonewall riots|Stonewall]] period wherein the mainstream medical profession disavowed conversion therapy.&lt;ref name="yoshino" /&gt;
+[[Image:Sigmund Freud-loc.jpg|thumb|Freud (1856–1939) was skeptical of the possibility of therapeutic conversion.]]
+
+=== Freud and early sexologists (1886–1939) ===
+
+The first attempts to classify homosexuality as a disease were made by the fledgling European [[sexologist]] movement in the late nineteenth century. In 1886 noted sexologist [[Richard von Krafft-Ebing]] listed homosexuality along with 200 other case studies of deviant sexual practices in his definitive work, ''Psychopathia Sexualis''.  Krafft-Ebing proposed that homosexuality was caused by either "congenital [during birth] inversion" or an "acquired inversion".
+
+In [[1896 in science|1896]] [[Sigmund Freud]] published his ideas on [[psychoanalysis]].  Freud believed that all humans were [[innate bisexuality|innately bisexual]] and that whether a particular person manifests heterosexuality or homosexuality could result from environmental factors interacting with biological sexual drives.  Freud expressed serious doubts about the potential for therapeutic conversion.&lt;ref name="yoshino" /&gt;  In a famous letter to a mother who had asked Freud to treat her son, he wrote:
+
+&lt;blockquote&gt;By asking me if I can help [your son], you mean, I suppose, if I can abolish homosexuality and make normal heterosexuality take its place. The  answer is, in a general way, we cannot promise to achieve it.  In a certain number of cases we succeed in developing the blighted germs of heterosexual tendencies which are present in every homosexual, in the majority of cases it is no more possible. It is a question of the quality and the age of the individual. The result of treatment cannot be predicted.&lt;/blockquote&gt;
+
+In that letter, he also states that "homosexuality is assuredly no advantage but it is nothing to be ashamed of, no vice, no degradation, it cannot be classified as an illness....".
+
+From this period through the middle of the 20th century, medical attempts to "cure" homosexuality have included surgical treatments such as [[hysterectomy]],&lt;ref name="katz"&gt;{{cite book
+ | last = Katz
+ | first = Jonathan
+ | title = Gay American history: lesbians and gay men in the U.S.A.: a documentary anthology
+ | year = 1976
+ | publisher = Crowell
+ | location = New York
+ | isbn = 0690005105
+ | pages = 129
+ }}&lt;/ref&gt; [[ovariectomy]],&lt;ref&gt;{{cite journal
+ | last = Daniel
+ | first = F.E.
+ | year = 1893
+ | title = Castration of Sexual Perverts
+ | journal = Texas Medical Journal
+ | volume = 9
+ | pages = 255-71
+ }}&lt;/ref&gt;&lt;ref name="kronemeyer"&gt;{{cite book
+ | last = Kronemeyer
+ | first = Robert
+ | title = Overcoming Homosexuality
+ | year = 1980
+ | publisher = Macmillan
+ | location = New York
+ | isbn = 0025668501
+ | pages = 81, 87
+ | quote = In the 1950s and 1960s, lobotomies ... were administered promiscuously in the treatment of homosexuals.
+ }}&lt;/ref&gt; [[clitoridectomy]],&lt;ref name="katz" /&gt; [[castration]],&lt;ref&gt;{{cite journal
+ | last = Talbot
+ | first = E.S.
+ | coauthors = Ellis, Havelock
+ | year = 1896
+ | title = A Case of Developmental Degenerative Insanity, with Sexual Inversion, Melancholia, Following Removal of Testicles, Attempted Murder and Suicide
+ | journal = Journal of Mental Science
+ | volume = 42
+ | pages = 341-44
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal
+ | year = 1929
+ | title = Results of Castration in Sexual Abnormalities
+ | journal = Urologic &amp; Cutaneous Review
+ | volume = 33
+ | pages = 351
+ }}&lt;/ref&gt;&lt;ref name="kronemeyer" /&gt; [[vasectomy]],&lt;ref&gt;{{cite paper
+ | first = Harry Clay
+ | last = Sharp
+ | title = The Sterilization of Degenerates
+ | publisher = National Christian League for Promotion of Purity
+ | date = 1908
+}}&lt;/ref&gt;&lt;ref name="kronemeyer" /&gt; pudic nerve surgery,&lt;ref&gt;{{cite journal
+ | year = 1904
+ | title = The Gentleman Degenerate. A Homosexualist's Self-Description and Self-Applied Title. Pudic Nerve Section Fails Therapeutically
+ | journal = Alienist &amp; Neurologist
+ | volume = 25
+ | pages = 68–70
+ }}&lt;/ref&gt; and [[lobotomy]].&lt;ref&gt;{{cite journal
+ | last = Friedlander
+ | first = Joseph
+ | coauthors = Banay, Ralph S.
+ | year = 1948
+ | title = Psychosis Following Lobotomy in a Case of Sexual Psychopathology; Report of a Case
+ | journal = Archives of Neurology &amp; Psychiatry
+ | volume = 59
+ | pages = 303–11, 315, 321
+ }}&lt;/ref&gt;&lt;ref name="kronemeyer" /&gt;  Substance-based treatment attempts have included [[hormone]] treatment,&lt;ref&gt;{{cite journal
+ | last = Rosenzweig
+ | first = Saul
+ | coauthors = Hoskins, R.G.
+ | year = 1941
+ | title = A Note on the Ineffectualness of Sex-Hormone Medication in a Case of Pronounced Homosexuality
+ | journal = Psychosomatic Medicine
+ | volume = 3
+ | pages = 87–89
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite book
+ | last = LeVay
+ | first = Simon
+ | authorlink = Simon LeVay
+ | title =  Queer Science: The Use and Abuse of Research Into Homosexuality
+ | year = 1996
+ | publisher = MIT Press
+ | location = Cambridge, MA
+ | isbn = 0262121999
+ }}&lt;/ref&gt; pharmacologic shock treatment,&lt;ref&gt;{{cite journal
+ | last = Owensby
+ | first = Newdigate M.
+ | year = 1940
+ | title = Homosexuality and Lesbianism Treated with Metrazol
+ | journal = Journal of Nervous &amp; Mental Disease
+ | volume = 92
+ | pages = 65–66
+ }}&lt;/ref&gt; and treatment with sexual stimulants and sexual depressants.&lt;ref name="katz" /&gt;  Other attempts include aversion therapy,&lt;ref&gt;{{cite journal
+ | last = Cautela
+ | first = Joseph R.
+ | year = 1967
+ | title = Covert Sensitization
+ | journal = Psychology Report
+ | volume = 20
+ | pages = 464-65
+ }}&lt;/ref&gt;&lt;ref name="rutner"&gt;{{cite journal
+ | last = Rutner
+ | first = Ivan T.
+ | year = 1970
+ | title = A Double-Barrel Approach to Modification of Homosexual Behavior
+ | journal = Psychology Report
+ | volume = 26
+ | pages = 256-58
+ | pmid = 5486305
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal
+ | last = McConaghy
+ | first = Nathaniel
+ | coauthors = Armstrong, Michael S.; Blaszczynsky, Alex
+ | year = 1981
+ | title = Controlled Comparison of Aversive Therapy and Covert Sensitization in Compulsive Homosexuality
+ | journal = Behavior Response &amp; Therapy
+ | volume = 19
+ | pages = 425
+ | pmid = 7316919
+ }}&lt;/ref&gt; the attempted reduction of aversion to heterosexuality,&lt;ref name="rutner" /&gt; electroshock treatment,&lt;ref&gt;{{cite journal
+ | last = Max
+ | first = Louis William
+ | year = 1935
+ | title = Breaking Up a Homosexual Fixation by the Condition Reaction Technique: A Case Study
+ | journal = Psychology Bulletin
+ | volume = 32
+ | pages = 734
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal
+ | last = Liebman
+ | first = Samuel
+ | year = 1967
+ | title = Homosexuality, Transvestism, and Psychosis: Study of a Case Treated with Electroshock
+ | journal = Journal of Nervous &amp; Mental Disease
+ | volume = 99
+ | pages = 945-57
+ }}&lt;/ref&gt; group therapy,&lt;ref&gt;{{cite book
+ | last = Duberman
+ | first = Martin
+ | title = Cures: A Gay Man's Odyssey
+ | year = 1992
+ | publisher = Plume
+ | location = New York
+ | isbn = 0452267803
+ | pages = 93–115, 118-24
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal
+ | last = Harms
+ | first = Ernest
+ | year = 1953
+ | title = Homo-Anonymous
+ | journal = Diseases and the Nervous System
+ | volume = 14
+ | pages = 318-19
+ | pmid = 13095274
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal
+ | last = Hadden
+ | first = Samuel B.
+ | year = 1957
+ | title = Attitudes Toward and Approaches to the Problem of Homosexuality
+ | journal = Pennsylvania Medical Journal
+ | volume = 6
+ | pages = 1195–98
+ | pmid = 13465269
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal
+ | last = Smith
+ | first = Alexander B.
+ | coauthors = Bassin, Alexander
+ | year = 1959
+ | title = Group Therapy with Homosexuals
+ | journal = Journal of Social Therapy
+ | volume = 5
+ | pages = 227, 231-32
+ }}&lt;/ref&gt; hypnosis,&lt;ref&gt;{{cite journal
+ | last = Quackenbos
+ | first = John Duncan
+ | year = 1899
+ | title = Hypnotic Suggestion in the Treatment of Sexual Perversions and Moral Anaesthesia: A Personal Experience
+ | journal = Transactions of the New Hampshire Medical Society
+ | volume = 108
+ | pages = 69, 72, 75, 78–80
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal
+ | last = Miller
+ | first = Michael M.
+ | year = 1963
+ | title = Hypnotic-Aversion Treatment of Homosexuality
+ | journal = Journal of the National Medical Association
+ | volume = 55
+ | pages = 411–13, 415
+ | pmid = 14049556
+ }}&lt;/ref&gt; and psychoanalysis.&lt;ref&gt;{{cite journal
+ | last = Brill
+ | first = A.A.
+ | year = 1913
+ | title = The Conception of Homosexuality
+ | journal = JAMA
+ | volume = 61
+ | pages = 335-40
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal
+ | last = Stekel
+ | first = Wilhelm
+ | year = 1930
+ | title = Is Homosexuality Curable?
+ | journal = Psychoanalytic Review
+ | volume = 17
+ | pages = 443, 447-48
+ }}&lt;/ref&gt;&lt;ref name="yoshino"&gt;{{cite journal
+ | last = Yoshino
+ | first = Kenji
+ | date = 2002-01
+ | title = Covering
+ | journal = Yale Law Journal
+ | volume = 111
+ | issue = 4
+ | pages = 179 et seq.
+ }}&lt;/ref&gt;  While some of these, including the use of electric shock and nausea-inducing drugs, are still used,&lt;ref name="halpert" /&gt; even today's prominent conversion therapists who advocate psychoanalytic conversion denounce the other methods as "quackeries."&lt;ref&gt;{{cite book
+ | last = Socarides
+ | first = Charles
+ | title =  Homosexuality: A Freedom Too Far
+ | date = 1995-06-01
+ | publisher = Roberkai
+ | isbn = 0964664259
+ | pages = 103
+ }}&lt;/ref&gt;
+
+=== Entrenchment (1939–1969) ===
+
+[[Image:Charles Socarides.jpg|thumb|left|Charles Socarides (1922–2005), a conversion therapist.]]
+
+During the three decades between Freud's death (1939) and the Stonewall riots (1969), conversion therapy enjoyed a "gilded age" of aggressive treatment of homosexuals and approval from the psychiatric establishment.&lt;ref name="Drescher" /&gt; Prominent researchers arguing for therapeutic conversion included [[Edmund Bergler]], [[Irving Bieber]], [[Albert Ellis]], [[Abram Kardiner]], [[Sandor Rado]], and [[Charles Socarides]].&lt;ref name="yoshino" /&gt;  Rado rejected Freud's theory of innate bisexuality and argued instead that heterosexuality is nature's default setting and that homosexuality is caused by parental psychopathology.&lt;ref&gt;Rado, S. (1940), A critical examination of the concept of bisexuality.  Psychosomatic Medicine, 2:459–467.  Reprinted in:  Sexual Inversion:  The Multiple Roots of Homosexuality, ed. J. Marmor.  New York:  Basic Books, 1965, pp. 175–189.&lt;/ref&gt;  Socarides and Kardiner developed similar theories: Socarides interpreted same-sex desire as an illness arising from a conflict between the [[Id, ego, and super-ego|id and the ego]] usually arising from an early age in "a female-dominated environment wherein the father was absent, weak, detached or sadistic".&lt;ref name="Socarides"&gt;
+{{cite book
+ |last= Socarides
+ |first= Charles
+ |title= The Overt Homosexual
+ |year= 1968
+ |publisher= Grune &amp; Stratton
+ |location= New York
+ |isbn= 080890437X
+}}&lt;/ref&gt;
+
+The conversion therapists also rejected Freud's pessimism about therapy being able to change sexual orientation: Bieber published a 1962 study concluding that "although this change may be more easily accomplished by some than by others, in our judgment a heterosexual shift is a possibility for all homosexuals who are strongly motivated to change."  Homosexuality was assumed to be a [[psychopathology]]: Ellis found that "fixed homosexuals in our society are almost variably neurotic or psychotic ... therefore, no so-called normal group of homosexuals is to be found anywhere."&lt;ref name="yoshino" /&gt;  This view was endorsed by the 1952 first edition of the [[American Psychiatric Association|APA]]'s [[Diagnostic and Statistical Manual of Mental Disorders]] (DSM-I), which classified homosexuality as a mental disorder.
+
+[[Evelyn Hooker]] was a contrary voice when she published her  influential&lt;ref&gt;
+{{cite journal
+ |last= Kirby
+ |first= Michael
+ |year= 2003
+ |month= December
+ |title= The 1973 deletion of homosexuality as a psychiatric disorder: 30 years on
+ |journal= Australian &amp; New Zealand Journal of Psychiatry 
+ |volume= 37
+ |issue= 6
+ |pages= 674–677
+ |doi= 10.1111/j.1440-1614.2003.01269.x
+ |accessdate= 2007-08-28
+ |quote= On the basis of excellent sampling and statistical methods, [Hooker] published her influential paper 'The Adjustment of the Male Overt Homosexual'...
+}}, p. 675.
+&lt;/ref&gt; 1957 paper "The Adjustment of the Male Overt Homosexual," where she found that "homosexuals were not inherently abnormal and that there was no difference between homosexual and heterosexual men in terms of pathology."&lt;ref&gt;
+{{cite journal
+ |last= Hooker
+ |first= Evelyn
+ |year= 1957
+ |month= March
+ |title= The adjustment of the male overt homosexual
+ |journal= Journal of projective techniques
+ |volume= 21
+ |issue= 1
+ |pages= 18–31
+ |pmid= 13417147
+ |accessdate= 2007-08-28
+}}
+&lt;/ref&gt;
+
+Practitioners who view same-sex orientations as resulting from learned behavior may adopt behavioral modification techniques.&lt;ref name="haldeman"&gt;
+{{cite journal
+ |last= Haldeman
+ |first= Douglas C.
+ |year= 2002
+ |month= June
+ |title= Gay Rights, Patient Rights: The Implications of Sexual Orientation Conversion Therapy
+ |journal= Professional Psychology: Research and Practice
+ |volume= 33
+ |issue= 3
+ |pages= 260–264
+ |doi= 10.1037//0735-7028.33.3.260
+ |accessdate= 2007-08-28
+}}&lt;/ref&gt; These may include masturbatory reconditioning, visualization, and social skills training.&lt;ref name="haldeman" /&gt; The most radical involve [[aversion therapy]] such as [[electroconvulsive therapy]].&lt;ref&gt;
+{{cite journal
+ |last= Smith
+ |first= Glenn
+ |coauthors= Bartlett, Annie; King, Michael
+ |year= 2004
+ |month= January
+ |title= Treatments of homosexuality in Britain since the 1950s -- An oral history: the experience of patients
+ |journal= BMJ
+ |pmid = 14751921
+ |doi= 10.1136/bmj.37984.442419.EE
+ |accessdate= 2007-08-28
+}}&lt;/ref&gt;  Documented cases include electric shocks being administered to patients' genitalia, "sometimes paired with disturbing images, including a bowl of feces and pictures of [[Kaposi's Sarcoma]] lesions".  In another case [[plethysmography]], which uses electric sensors attached to a person's genitals to measure sexual arousal, was used in conjunction with shock therapy to electrically shock the patient's penis when he became sexually aroused by same-sex images.
+
+In 1966, psychologist [[Martin E.P. Seligman]] reported that using [[aversion therapy]] to change sexual orientation "worked surprisingly well," with up to 50% of men subjected to such therapy not acting on their homosexual urges.&lt;ref name="seligman"&gt;
+{{cite book
+ |last= Seligman
+ |first= Martin E.P.
+ |title= What You Can Change and What You Can't: The Complete Guide to Self Improvement
+ |year= 1994
+ |publisher= Knopf
+ |location= New York
+ |isbn= 0-679-41024-4
+ |pages= 156–157
+}}&lt;/ref&gt; These results produced what Seligman described as "a great burst of enthusiasm about changing homosexuality [that] swept over the therapeutic community" after the results were reported in 1966.&lt;ref name="seligman"/&gt; However, Seligman notes that the findings were later demonstrated to be flawed: most of the treated men who did stop having sex with men were actually [[bisexual]]. Among men who were primarily gay, aversion therapy was far less successful.&lt;ref name="seligman"/&gt;
+
+Governments have used these methods as well.  In 1952, the British government subjected [[Alan Turing]] to these techniques after he was arrested for having sex with a man.  In the 1970s and 1980s, the [[South African Defense Force]] administered it to people who were suspected of being gay.  As recently as 1992, the Phoenix Memorial Hospital was using these methods on children as young as 10.&lt;ref name="shidlo"&gt;
+{{cite book
+ |last= Shidlo
+ |first= Ariel
+ |coauthors= Schroeder, Michael; Drescher, Jack
+ |title= Sexual Conversion Therapy: Ethical, Clinical, and Research Perspectives
+ |year= 2001
+ |publisher= Haworth Medical Press
+ |location= New York
+ |isbn= 0789019108
+}}&lt;/ref&gt;  Aversion therapy is no longer sanctioned by the APA as an appropriate treatment for homosexuality.&lt;ref&gt;{{cite encyclopedia
+ |last = Chenier
+ |first = Elise
+ |editor = Summers, Claude J.
+ |encyclopedia = glbtq: An Encyclopedia of Gay, Lesbian, Bisexual, Transgender, and Queer Culture
+ |title = Aversion Therapy
+ |url = http://www.glbtq.com/social-sciences/aversion_therapy.html 
+ |accessdate = 2007-08-28
+ |year = 2004
+ |publisher = glbtq, Inc.
+ |location = Chicago
+}}&lt;/ref&gt;  In India, where [[Homosexuality laws of the world|homosexuality is illegal]], these methods are still used.&lt;ref&gt;{{cite web
+|url = http://www.infochangeindia.org/agenda4_24.jsp
+|title = Prayer, punishment or therapy? Being a homosexual in India
+|accessdate = 2007-08-28
+|last = Chandran
+|first = Vinay
+|year = 2006
+|month = February
+|publisher = InfoChange News &amp; Features
+|quote = While social attitudes are slowly changing [in India] and the anti-sodomy law is being challenged, mental health professionals in many places still offer therapy to homosexuals.
+}}&lt;/ref&gt;
+
+=== Post-Stonewall reaction against conversion therapy===
+
+[[Image:Stonewall.jpg|thumb|The [[Stonewall riots|1969 riots]] at the [[Stonewall Inn]] began a movement of LGBT visibility and policy reform.]]
+
+In 1969, the [[Stonewall riots]] gave birth to the [[LGBT social movements|gay rights movement]] and increased the visibility of LGBT people.  In [[1973 in science|1973]], after intense lobbying by homosexual groups, new scientific information from researchers like Evelyn Hooker and Kinsey, and dissension from the psychiatric ranks, the APA declassified homosexuality as a mental disorder&lt;ref&gt;{{cite news
+ |url = http://www.time.com/time/magazine/article/0,9171,904053,00.html
+ |title = An Instant Cure
+ |publisher = [[Time]]
+ |date = [[1974-04-01]]
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt; with a vote of 58% of the membership supporting the measure.&lt;ref&gt;{{cite news
+ |url = http://www.psych.org/pnews/98-07-17/dsm.html
+ |author = K.H.
+ |title = Panelists Recount Events Leading to Deleting Homosexuality As a Psychiatric Disorder From DSM
+ |publisher = Psychiatric News
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt; In 1974 the [[American Bar Association|ABA]] endorsed the [[Model Penal Code]], including its decriminalization of consensual adult homosexual acts, and in 1992 the [[World Health Organization|WHO]] removed homosexuality from its list of mental illnesses, replacing it with [[egodystonic sexual orientation]].  Today, American mainstream mental health organizations maintain that conversion therapy is potentially harmful and that there is little or no evidence of its effectiveness.
+
+Starting in 1976, [[Exodus International]] began referring people to religious ministries that attempted to change their subjects' sexual orientations.  The Exodus ministries begin from the Christian perspective that same-sex relations are a sin.&lt;ref name="exoduskids"&gt;{{cite web
+ |url = http://exodusyouth.net/youth/documents/Student_Guide_to_Homosexuality.pdf
+ |title = A Student's Guide to Understanding Homosexuality
+ |accessdate = 2007-08-28
+ |year = 2006
+ |format = pdf
+ |publisher = Exodus International
+}}, p. 2, p. 4&lt;/ref&gt;  They believe that same-sex attraction is not a choice and is caused by many factors, including environmental factors such as an absent or distant same-sex parent, over-involvement with an opposite-sex parent, sexual abuse, early exposure to pornography or sexual language, bad experiences with gender-specific activities, isolation from same-sex peers, or name-calling from a young age; they call subjects "strugglers".&lt;ref name="exoduskids" /&gt;  Today, Exodus is the most visible ex-gay organization, occasionally taking out full-page newspaper ads or renting billboards.
+
+===New psychoanalytic models and the "reparative" label===
+
+The label ''reparative'' originates from 1983 when research psychologist [[Elizabeth Moberly]] coined the term ''reparative drive'' to refer to male homosexuality itself, interpreting male–male desires as attempts to repair for a lacked connection between father and son during childhood.&lt;ref&gt;{{cite book
+ |last= Moberly
+ |first= Elizabeth R.
+ |title= Psychogenesis: The Early Development of Gender Identity
+ |year= 1983
+ |publisher= Routledge &amp; Kegan Paul Ltd.
+ |location= London
+ |isbn= 0710092717
+}}&lt;/ref&gt;&lt;ref name="Moberly"&gt;{{cite book
+ |last= Moberly
+ |first= Elizabeth R.
+ |title= Homosexuality: A new Christian ethic
+ |year= 1983
+ |publisher= James Clarke
+ |location= Cambridge
+ |isbn= 0227678508
+}}&lt;/ref&gt;  She encouraged same-sex bonding with both mentors and peer relationships as a way of stopping same-sex sexual attraction.&lt;ref name="Moberly" /&gt;  Sometimes ''reparative therapy'' is used synonymously with ''conversion therapy'', though historically it is only one type of conversion therapy.&lt;ref name="What is RT" /&gt;
+
+In a 1991 book [[Joseph Nicolosi]] argued that "[e]ach one of us, man and woman alike, is driven by the power of romantic love. These infatuations gain their power from the unconscious drive to become a complete human being. In heterosexuals, it is the drive to bring together the male-female polarity through the longing for the other-than me. But in homosexuals, it is the attempt to fulfill a deficit in wholeness of one’s original gender".&lt;ref&gt;{{cite book
+ |last= Nicolosi
+ |first= Joseph
+ |title= Reparative Therapy of Male Homosexuality: A New Clinical Approach
+ |year= 1991
+ |publisher= J. Aronson
+ |location= Northvale, NJ
+ |isbn= 0876685459
+}}&lt;/ref&gt;  This book has been criticized as "a religious treatise on homosexuality thinly disguised as a scientific document. In the new religious ''cum'' scientific paradigm, mental health is defined as conformity to traditional values and norms".&lt;ref name="Drescher" /&gt;
+
+The shadow of Freud and the psychoanalytic basis of Moberly's, Nicolosi's, and Socarides' theories have helped earn psychoanalysis "its present mythic status as an implacable foe of lesbian and gay identities".&lt;ref name="Drescher"&gt;
+{{cite journal
+ |last= Drescher
+ |first= Jack
+ |year= 1998
+ |month= June
+ |title= I'm Your Handyman: A History of Reparative Therapies
+ |journal= Journal of Homosexuality
+ |volume= 36
+ |issue= 1
+ |pages= 19–42
+ |doi= 10.1300/J082v36n01_02
+ |accessdate= 2007-08-28 
+}}&lt;/ref&gt; This status continues even though many psychoanalysts have repudiated the anti-gay bias within the field and both the [[American Psychoanalytic Association]] (APsaA) and the American Academy of Psychoanalysis have issued non-discrimination statements.&lt;ref name="Drescher" /&gt;  The APsaA has spoken against NARTH specifically, stating "that organization does not adhere to our policy of nondiscrimination and ... their activities are demeaning to our members who are gay and lesbian."&lt;ref&gt;
+{{cite news
+ | first = C.
+ | last = Crow
+ | title = Irate reader's expert on gays has drawn fire from his peers
+ | publisher = [[San Antonio Express-News]]
+ | date = 2004-11-20
+ }}&lt;/ref&gt;
+
+Most mental health professionals today view conversion therapy as discredited, but some professionals still attempt it.&lt;ref name="yoshino" /&gt;  Nicolosi, Socarides, and Benjamin Kaufman founded the [[National Association for Research &amp; Treatment of Homosexuality]] (NARTH) in 1992, currently a marginal mental health organization that is the most vocal advocate of conversion therapies.  Conversion therapists tends to characterize themselves as offering the possibility of a choice for gay men and women who are unsatisfied with their sexual orientation.  There is often an emphasis on minimizing and not acting on same-sex desires, rather than eliminating them outright.  Some religious conservatives support this movement, both ideologically and financially.  [[John Paulk]], formerly of [[Focus on the Family]], said "As the church, we must continue to speak out boldly against the radical homosexual agenda while we minister to those who are trapped in this lifestyle... it is compassionate to warn about the dangers of homosexuality in order to spare individuals the heartache and grief of that behavior. At the same time, we must always remember that many turn to homosexuality precisely because they have experienced rejection from the people closest to them. The church must not compound that rejection, but rather be an oasis of grace, healing and hope."&lt;ref&gt;
+{{cite web
+ |url = http://www.focusonthefamily.com/docstudy/newsletters/A000000791.cfm
+ |title = What Happened When Love Won Out
+ |accessdate = 
+ |last = Paulk
+ |first = John
+ |publisher = Focus on the Family
+}}&lt;/ref&gt;
+
+=== Outside the U.S. ===
+
+The development of theoretical models of sexual orientation in non-U.S. countries with established mental health professions often tracks the history within the U.S. (although often at a slower pace) as a shift from pathological to non-pathological conceptions of homosexuality.&lt;ref&gt;See generally {{cite journal
+ | year = 2003
+ | title = Special Issue on the Mental Health Professions and Homosexuality
+ | journal = Journal of Gay &amp; Lesbian Psychotherapy
+ | volume = 7
+ | issue = 1/2
+ | publisher = Haworth Medical Press
+}}, and see specific examples below.&lt;/ref&gt; Some countries (e.g., China) have never widely practiced conversion therapy, regardless of the theoretical model, while others have seen the practice decrease as views of homosexuality changed.
+
+* In [[China]], Western psychiatry and psychology were imported during a "Westernization Movement" in the late 19th century.  At that time, the West viewed homosexuality as a mental disorder, and that became the prevailing view in China as well.  During this period, same-sex sexual behavior was grounds for persecution, a marked change from the attitude of general (but not total) acceptance found in pre-19th-century China.  These views lasted throughout the 1970s, despite changed theoretical models of sexuality orientation in the West, during a period when the Chinese government held a "closed-door" policy on information about human sexuality.  After 1980, information became more available, and views began to change.  In 2000 and under pressure from both the APAs and the ACA, the [[Chinese Classification of Mental Disorders]] (CCMD-III) declassified homosexuality, but added a diagnosis resembling [[ego-dystonic sexual orientation]].&lt;ref&gt;{{cite journal
+ | last = Wu
+ | first = Jin
+ | year = 2003
+ | title = From ''Long Yang'' and ''Dui Shi'' to Tongzhi: Homosexuality in China
+ | journal = Journal of Gay &amp; Lesbian Psychotherapy
+ | volume = 7
+ | issue = 1/2
+ | pages = 117–143
+ | publisher = Haworth Medical Press
+ | doi = 10.1300/J236v07n01_08
+ | accessdate = 2007-10-12
+ }}&lt;/ref&gt;  Attempts at conversion therapy are rare in China.&lt;ref&gt;{{cite news
+ | title = Homosexuality Depathologized in China
+ | url = http://www.csssm.org/English/e7.htm
+ | publisher = Chinese Society for the Study of Sexual Minorities News Digest
+ | date = 2001-03-05
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;
+
+* In [[India]], psychiatry and psychology scholars have "preserved an almost complete silence on the subject of homosexuality".&lt;ref&gt;{{cite journal
+ | last = Parekh
+ | first = Suresh
+ | year = 2003
+ | title = Homosexuality in India: The Light at the End of the Tunnel
+ | journal = Journal of Gay &amp; Lesbian Psychotherapy
+ | volume = 7
+ | issue = 1/2
+ | pages = 153
+ | publisher = Haworth Medical Press
+ | doi = 10.1300/J236v07n01_09
+ | accessdate = 2007-10-12
+ }}&lt;/ref&gt;  One paper discusses behavior modification methods used to treat the sexual orientation of thirteen gay patients.&lt;ref&gt;{{cite journal
+ | last = Pradhan
+ | first = P.V.
+ | coauthors = Ayyar, K.S.; Bagadia, V.N.
+ | year = 1982
+ | title = Homosexuality: Treatment by behaviour modification
+ | journal = Indian Journal of Psychiatry
+ | volume = 24
+ | issue = 1
+ | pages = 80–83
+ }}&lt;/ref&gt;
+
+* In [[Italy]], little research has been conducted in the mental health community on homosexuality.  Early work tended to describe homosexuality as a pathology or a developmental arrest.  More recently, attitudes have begun to change: "with a lag of about ten years, Italy has followed ... the attitudes of American mental health professions toward homosexuality".&lt;ref&gt;{{cite journal
+ | last = Capozzi
+ | first = Paola
+ | coauthors = Lingiardi, Vittorio
+ | year = 2003
+ | title = Happy Italy?  The Mediterranean Experience of Homosexuality, Psychoanalysis, and the Mental Health Professions
+ | journal = Journal of Gay &amp; Lesbian Psychotherapy
+ | volume = 7
+ | issue = 1/2
+ | pages = 93–116
+ | publisher = Haworth Medical Press
+ | doi = 10.1300/J236v07n01_07
+ | accessdate = 2007-10-12
+ }}&lt;/ref&gt;
+
+* In [[Germany]], the psychiatry, psychology, and sexology establishment from the early 20th century viewed homosexuality as pathological.  However, following the increased visibility of the gay community during the [[AIDS epidemic]] of the late 1980s and the declassification of homosexuality as a mental disorder in the ICD-10, biological, rather than pathological, models of homosexuality became mainstream.&lt;ref&gt;{{cite journal
+ | last = Stakelbeck
+ | first = Falk
+ | coauthors = Udo, Frank
+ | year = 2003
+ | title = From Perversion to Sexual Identity: Concepts of Homosexuality and Its Treatment in Germany
+ | journal = Journal of Gay &amp; Lesbian Psychotherapy
+ | volume = 7
+ | issue = 1/2
+ | pages = 23–46
+ | publisher = Haworth Medical Press
+ | doi = 10.1300/J236v07n01_03
+ | accessdate = 2007-10-12
+ }}&lt;/ref&gt;
+
+* [[Japan]]'s psychiatric body removed homosexuality from its list of psychiatric disorders in 1995.&lt;ref&gt;{{cite news
+ | title = China More Tolerant Toward Gays: Psychiatric Association No Longer Views It As A Mental Illness
+ | url = http://www.cbsnews.com/stories/2001/03/07/world/main277027.shtml
+ | publisher = Associated Press
+ | date = 2001-03-07
+ | accessdate = 2008-08-28
+}}&lt;/ref&gt;
+
+* In [[Norway]], a country known for its strong LGBT rights legislation, the shift from a pathological to non-pathological understanding of homosexuality began in the 1970s, following the APA's declassification in 1973.  In 2000, the General Assembly of the Norwegian Psychiatric Association overwhelmingly voted for the following position statement on conversion therapy:
+&lt;blockquote&gt;
+Homosexuality is no disorder or illness, and can therefore not be subject to treatment. A ‘treatment’ with the only aim of changing sexual orientation from homosexual to heterosexual must be regarded as ethical malpractice, and has no place in the health system.&lt;ref&gt;{{cite journal
+ | last = Kjær
+ | first = Reider
+ | year = 2003
+ | title = Look to Norway?  Gay Issues and Mental Health Across the Atlantic Ocean
+ | journal = Journal of Gay &amp; Lesbian Psychotherapy
+ | volume = 7
+ | issue = 1/2
+ | pages = 55-73
+ | publisher = Haworth Medical Press
+ | doi = 10.1300/J236v07n01_05
+ | accessdate = 2007-10-13
+ }}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+* The [[World Health Organization]]'s [[ICD-10]], which along with the DSM-IV is widely used internationally, states that "sexual orientation by itself is not to be regarded as a disorder".&lt;ref name="icd" /&gt;  It lists [[ego-dystonic sexual orientation]] as a disorder instead, which it defines as occurring where "the gender identity or sexual preference (heterosexual, homosexual, bisexual, or prepubertal) is not in doubt, but the individual wishes it were different because of associated psychological and behavioural disorders, and may seek treatment in order to change it."&lt;ref name="icd"&gt;{{cite web
+ |url = http://www.who.int/classifications/apps/icd/icd10online/?gf60.htm+f661
+ |title = ICD-10, Chapter V: Mental and behavioural disorders: Disorders of adult personality and behaviour
+ |date = 2007
+ |accessdate = 2007-08-28
+ |publisher = World Health Organization
+}}&lt;/ref&gt;  The APA dropped ego-dystonic homosexuality from the [[DSM-IV]] in 1987 and opposes the diagnosis of either homosexuality or ego-dystonic homosexuality as any type of disorder.&lt;ref&gt;{{cite web
+ |url = http://www.apa.org/pi/lgbc/policy/diagnoses.html
+ |title = APA Policy Statement: Use of Diagnoses "Homosexuality" &amp; "Ego-Dystonic Homosexuality"
+ |accessdate = 2007-08-28
+ |author = APA Council of Representatives
+ |date = 1987-08-30
+ |publisher = American Psychological Association
+}}&lt;/ref&gt;
+
+== Contemporary theories and techniques ==
+=== Psychoanalytic theories ===
+
+{{wikinews|Dr. Joseph Merlino on sexuality, insanity, Freud, fetishes and apathy}}
+Nicolosi and Socarides are today's leading representatives of the view that same-sex desires are a form of arrested psychosexual development, resulting from "an incomplete bond and resultant identification with the same-sex parent, which is then symbolically repaired in psychotherapy".&lt;ref name="haldeman" /&gt;  Their corresponding [[psychoanalysis]]-based intervention plans involve conditioning a man to a traditional masculine gender role.  He should "(1) participate in sports activities, (2) avoid activities considered of interest to homosexuals, such art museums, opera, symphonies, (3) avoid women unless it is for romantic contact, (4) increase time spent with heterosexual men in order to learn to mimic heterosexual male ways of walking, talking, and interacting with other heterosexual men, (5) Attend church and join a men’s church group, (6) attend reparative therapy group to discuss progress, or slips back into homosexuality, (7) become more assertive with women through flirting and dating, (8) begin heterosexual dating, (9) engage in heterosexual intercourse, (10) enter into heterosexual marriage, and (11) father children".&lt;ref name="Bright"&gt;{{cite journal
+ |last= Bright
+ |first= Chuck
+ |year= 2004
+ |month= December
+ |title= Deconstructing Reparative Therapy: An Examination of the Processes Involved When Attempting to Change Sexual Orientation
+ |journal= Clinical Social Work Journal
+ |volume= 32
+ |issue= 4
+ |pages= 471–481
+ |doi= 10.1007/s10615-004-0543-2
+ |accessdate= 2007-08-28
+}}&lt;/ref&gt;  Nicolosi has stated that, in all cases, if a father and son have a normal relationship, the son will not be gay.&lt;ref&gt;
+{{cite web
+|url = http://transcripts.cnn.com/TRANSCRIPTS/0704/05/acd.01.html
+|title = Transcript from Anderson Cooper 360 Degrees
+|accessdate = 2007-08-28
+|date = 2007-04-05
+|publisher = CNN
+}}&lt;/ref&gt;  These anti-gay psychoanalytic approaches toward gay people have been repudiated by the psychoanalytic mainstream and the theories that underlie them countered by analysts offering more gay affirmative approaches.&lt;ref&gt;Isay, R.A. (1989), Being Homosexual:  Gay Men and Their Development.  New York:  Farrar, Straus and Giroux.&lt;/ref&gt;&lt;ref&gt;O'Connor, N. &amp; Ryan, J. (1993), Wild Desires and Mistaken Identities:  Lesbianism &amp; Psychoanalysis.  New York:  Columbia University.&lt;/ref&gt;&lt;ref&gt;Domenici, T. &amp; Lesser, R.C., eds. (1995), Disorienting Sexuality:  Psychoanalytic Reappraisals of Sexual Identities.  New York:  Routledge.&lt;/ref&gt;&lt;ref&gt;Magee, M. &amp; Miller, D. (1997), Lesbian Lives:  Psychoanalytic Narratives Old and New.  Hillsdale, NJ:  The Analytic Press.&lt;/ref&gt;&lt;ref&gt;Drescher, J. (1998), Psychoanalytic Therapy and the Gay Man.  Hillsdale, NJ:  The Analytic Press.&lt;/ref&gt;
+
+=== Gender-affirmative therapy===
+
+A. Dean Byrd, Vice-President of [[NARTH]] describes a technique called ''gender-affirmative therapy'' as follows: "The basic premise of gender-affirmative therapy is that social and emotional variables affect gender identity which, in turn, determines sexual orientation.  The work of the therapist is to help people understand their gender development. Subsequently, such individuals are able to make choices that are consistent with their value system. The focus of therapy is to help clients fully develop their masculine or feminine identity".&lt;ref&gt;{{cite journal
+ |url = http://www.regent.edu/acad/schlaw/academics/lawreview/articles/14_2Byrd.pdf
+ |title = Homosexuality: Innate and Immutable?
+ |first = A. Dean
+ |last = Byrd
+ |coauthors = Olsen, Stony
+ |year = 2002
+ |publisher = Regent University Law Review
+ |volume = 14
+ |issue = 513
+ |pages = 537
+ |accessdate= 2007-10-29
+}}&lt;/ref&gt;  These therapies do not work under the assumption that homosexuality is a mental illness and therefore are not considered reparative therapies.&lt;ref name=apa /&gt;&lt;ref name="What is RT" /&gt;&lt;ref name="regent"&gt;{{cite web
+ |url = http://www.sexualidentityinstitute.org/faq.php
+ |title = Frequently Asked Questions
+ |publisher = Regent University: Institute for the Study of Sexual Identity
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt;  There is no one set method to this therapy, and several psychologists have developed their own flavor of gender affirmative therapy:
+
+*'''Sexual Identity Therapy''' was designed by Throckmorton and Yarhouse, and is endorsed by [[Robert L. Spitzer]].&lt;ref name="New Ground"&gt;{{cite news
+ |url = http://wthrockmorton.com/2007/06/18/la-times-article-features-ex-gay-debate-and-sexual-identity-therapy
+ |title = New ground in debate on 'curing' gays
+ |last = Simon
+ |first = Stephanie
+ |publisher = [[Los Angeles Times]]
+ |date = [[2007-06-18]]
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt;  Its purpose is to help patients line up their sexual identity with their beliefs and values.  Therapy involves four phases: (1) assessment, (2) advanced or expanded informed consent, (3) psychotherapy, and (4) social integration of a valued sexual identity.&lt;ref name="regent" /&gt;
+
+*'''Gender Wholeness Therapy''' was designed by Dave Matheson.  "The emphasis in Mr. Matheson's counseling is on helping men — all his clients are male — develop 'gender wholeness' by addressing emotional issues and building healthy connections with other men.  He [says] he believe[s] that help[s] reduce homosexual desires.&lt;ref name="nytconversion" /&gt;
+
+*'''Context Specific Therapy''' was designed by Jeff Robinson. It does not work with any one theory of homosexuality, but uses several theoretical backgrounds according to the client's need,&lt;ref name="What is RT"&gt;{{cite web
+ |last = Throckmorton
+ |first = Warren
+ |url = http://www.drthrockmorton.com/article.asp?id=4
+ |title = What is reparative therapy?
+ |publisher = Self-published
+ |year = 2004
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt; and is based on phenomenological research.&lt;ref&gt;{{cite web
+ |url = http://www.narth.com/docs/2003conference.html
+ |title = NARTH 2003 Annual Conference schedule
+ |publisher = NARTH
+ |date = [[2004-04-14]]
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt; It does not seek to change the client's orientation, but instead focuses on diminishing homosexual thoughts and behaviors.  It works within the client's own view of God, noting that "individuals who are successful at overcoming homosexual problems are motivated by strong religious values".&lt;ref&gt;{{cite web
+|url = http://www.theguardrail.com/whatis.htm
+|title = What is Context Specific Therapy?
+|accessdate = 2007-10-29
+|last = Jeffrey
+|first = Robinson
+|publisher = Self-published
+}}&lt;/ref&gt;
+
+=== Other methods ===
+
+Some therapeutic methods are entirely outside the purview of professional health associations, and hence do not have to obey professional ethics guidelines.&lt;ref name="taskforce" /&gt; Some of these sources include coaches, religious organizations, and ex-gay groups.
+
+[[Image:Cohensholding.jpg|right|thumb|Richard Cohen demonstrating his "holding" technique to [[Paula Zahn]] on [[CNN]]]]
+
+One of the more well-known coaches is [[Richard Cohen (lecturer)|Richard Cohen]], whose television appearances have [[Richard Cohen (lecturer)#Disavowal of Cohen by other reparative therapists|sparked controversy]].  He holds male patients in his lap with the patient curled into the fetal position, and also advocates [[bioenergetic analysis|bioenergetic]] methods involving slamming a pillow with a tennis racket while shouting "Mom! Why did you do that to me?"&lt;ref&gt;{{cite web
+ |url = http://www.youtube.com/watch?v=jJXWFZz0Qjo
+ |title = Videoclip of Cohen's techniques
+ |accessdate = 2008-08-28
+ |publisher = CNN
+}}&lt;/ref&gt;
+
+Several organizations have started retreats lead by coaches aimed at helping participants diminish same-sex desires.  These retreats tend to use a variety of techniques.  Journey into Manhood, put on by [[People Can Change]] uses "a wide variety of large-group, small-group and individual exercises, from journaling to visualizations (or guided imagery) to group sharing and intensive emotional-release work."&lt;ref name= weekends&gt;{{cite web
+ |url = http://www.narth.com/docs/weekends.html
+ |title= Journey Into Manhood: A Healing Weekend Hosted by People Can Change
+ |accessdate= 2007-10-01
+ |date= [[2006-04-20]]
+ |publisher= NARTH
+}}&lt;/ref&gt;  Weekends put on by Adventure in Manhood support "healthy bonding with men, through masculine activity, teamwork, and socialization."&lt;ref&gt;{{cite web
+|url = http://www.adventureinmanhood.com
+|title = Adventure in Manhood homepage
+|accessdate = 2007-10-29
+|publisher = Self-published
+}}&lt;/ref&gt;  Though not specific to gay men, several gay men attended the New Warrior Training Adventure, which is weekend put on by [[Mankind Project]], which is a "process of initiation and self-examination  that is designed to catalyze the development of a healthy and mature masculine self."&lt;ref&gt;{{cite web
+|url = http://www.mkpnm.org/weekend.html
+|title = The New Warrior Weekend
+|accessdate = 2007-10-29
+|publisher = Self-published
+}}&lt;/ref&gt;
+
+==== Religious organizations ====
+{{Further|[[Religion and homosexuality]]}}
+Some gay people have turned to [[pastoral care]].  Some churches publish specific instructions to clergy on how to minister to gay and lesbian people.  These publications include ''[[Ministry to Persons with a Homosexual Inclination]]'', produced by the [[Roman Catholic Church]], and ''God Loveth His Children'',&lt;ref&gt;{{cite web
+ |url = http://lds.org/portal/site/LDSOrg/menuitem.b3bc55cbf541229058520974e44916a0/?vgnextoid=e1fa5f74db46c010VgnVCM1000004d82620aRCRD&amp;locale=0&amp;sourceId=3e05c8322e1b3110VgnVCM100000176f620a____&amp;hideNav=1&amp;contentLocale=0
+ |title = God Loveth His Children
+ |accessdate = 2007-10-29
+ |year = 2007
+ |publisher = The Church of Jesus Christ of Latter-Day Saints
+}}&lt;/ref&gt; produced by [[The Church of Jesus Christ of Latter-day Saints]].  In 1994, a church in the [[Presbyterian Church (USA)]] held a conference entitled “The Path to Freedom: Exploring healing for the Homosexual.”&lt;ref&gt;{{cite web
+ |url = http://oneby1.org/aboutus.html
+ |title = OneByOne: About Us
+ |accessdate = 2007-10-29
+ |year = 2006
+ |publisher = Self-published
+}}&lt;/ref&gt;  Common techniques  include [[worship]], [[meditation]], [[prayer]], [[fasting]], church attendance, [[scripture]] reading, [[Pastoral counseling|religious counseling]], [[willpower]], and (for Christians) dependence on [[divine grace]] through the [[atonement]] of [[Jesus]].  If the member had same-sex sex, the member may be asked to [[confession|confess]], seek [[forgiveness]], [[repentance|repent]], and [[Restitution (theology)|give restitution]].  The member may also be asked to observe or stop observing certain [[rituals]] or [[sacraments]], or the church may [[excommunication|excommunicate]] the individual.
+
+==== Ex-gay organizations ====
+{{main|ex-gay}}
+Some ex-gay organizations specialize in the tenets of a specific religion, while others try to encompass a more general spirituality.  Although most ex-gay organizations were started by American [[evangelical Christians]], there are now ex-gay organizations for [[Catholics]], [[Mormons]], [[Jews]] and [[Muslims]] and in other parts of the world. "[T]his modality is thought to be one of the most common for individuals seeking to change their sexual orientation."&lt;ref name="haldeman" /&gt;
+
+The conversion therapy movement is different from the ex-gay movement, but the two are closely linked and there is no consistent distinction drawn between them in the literature. Very roughly, conversion therapists may use either secular or religious approaches—or both—in trying to change sexual orientation while ex-gay organizations tend to focus on religious and spiritual approaches to help members avoid acting on their same-sex desires, or sometimes to diminish or eliminate those desires.&lt;ref name="apa" /&gt; Ex-gay organizations such as [[Exodus International]] often consider conversion therapy to be a useful tool, but not a necessary one.&lt;ref&gt;{{cite web
+ |url = http://exodus.to/content/view/34/117/
+ |title = Exodus International Policy Statements
+ |accessdate = 2007-08-28
+ |publisher = Exodus International
+}}&lt;/ref&gt;  [[Evergreen International]] does not advocate nor discourage any particular form of therapy&lt;ref&gt;{{cite web
+ |url = http://www.evergreeninternational.org/Myths.htm
+ |title = Myths
+ |publisher = Evergreen International
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt; and has taught that "therapy will likely not be a cure in the sense of erasing all homosexual feelings."&lt;ref name=therapy&gt;{{cite web
+ |url = http://www.evergreeninternational.org/therapy.htm
+ |title = Therapy
+ |publisher = Evergreen International
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt;
+
+For some ex-gay groups, merely choosing not to act on one's same-sex desires counts as a "success"&lt;ref name="regent" /&gt; whereas conversion therapists tend to understand success in terms of actually reducing or eliminating those desires, although some also count not acting on one's desires as a success.  For example, some ex-gays in opposite-sex marriages acknowledge that their sexual attractions remain primarily homosexual, but seek to make their marriages work regardless.&lt;ref&gt;{{cite news
+ | author = Anonymous
+ | title = No easy victory
+ | url = http://www.christianitytoday.com/ct/2002/003/2.50.html
+ | publisher = Christianity Today
+ | date = [[2002-03-11]]
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;  The mere act of adopting the label "ex-gay" is seen as a [[narrative]] device whereby "individuals us[e] language as the primary tool to not only express identity but also create and transform it."&lt;ref name="peebles"&gt;{{cite journal
+ |last= Peebles
+ |first= Amy E.
+ |year= 2003
+ |month= April
+ |title= It’s Not Coming Out, So Then What Is It? Sexual Identity and the Ex-Gay Narrative
+ |journal=Texas Linguistic Forum
+ |volume= 47
+ |pages= 155–164
+ |url= http://studentorgs.utexas.edu/salsa/proceedings/2003/peebles.pdf
+ |accessdate= 2007-08-28
+}}&lt;/ref&gt;  Ex-gay advocates sometimes analogize this to the [[coming out]] process.&lt;ref name="peebles" /&gt;
+
+There are several techniques used by ex-gay groups.  For instance, [[Love in Action]] hosts workshops on "child development, gender roles, and personal sexuality," one-on-one Biblical guidance, "a structured environment help[ing] establish new routines and healthy patterns of behavior", "challenging written assignments and interactive projects," "family involvement to improve communication... and to facilitate marital reconciliation," and "hiking, camping, canoeing, and rafting."&lt;ref&gt;{{cite web
+|url = http://www.loveinaction.org/default.aspx?pid=91
+|title = the source
+|accessdate = 2007-08-28
+|publisher = Love in Action
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url = http://www.loveinaction.org/default.aspx?pid=93
+|title = the journey
+|accessdate = 2007-08-28
+|publisher = Love in Action
+}}&lt;/ref&gt;
+
+Likewise, [[Exodus International]] members recommend, for example, that a subject who finds him or herself attracted to someone of the same sex should "immediately look around for someone of the opposite sex... and start searching for the beauty in that person"; a subject should disentangle sexual desire from the desire for affection or affirmation; and a subject should repent and confess his or her sins.&lt;ref&gt;{{cite web
+|url = http://exodus.to/content/view/51/55/
+|title = A Realistic Approach to Attractions
+|accessdate = 2007-08-28
+|last = Medinger
+|first = Alan
+|year = 2002
+|publisher = Exodus International
+}}&lt;/ref&gt;
+
+Some [[Christian right]] political and social lobbying groups such as [[Focus on the Family]], the [[Family Research Council]], and the [[American Family Association]] actively promote to their constituencies the claims of change of both conversion therapies and ex-gay groups.
+
+== Mainstream medical view in the U.S. ==
+
+{{See also|Conversion therapy#Outside the U.S.}}
+{{Further|[[Biology and sexual orientation]], [[sexual orientation and medicine]] and [[homosexuality and psychology]]}}
+
+The medical and scientific consensus is that conversion therapy is potentially harmful and that there is no evidence that it is effective.&lt;ref name="apa" /&gt;&lt;ref name="PsychNews" /&gt; No mainstream medical organization endorses conversion therapy and many have expressed concerns over some of the ethics and motivations surrounding its practice.&lt;ref name="apa" /&gt;  A survey of the [[American Psychological Association]] rated conversion therapy as "certainly discredited", along with topics like "crystal healing" and "dolphin-assisted therapy".&lt;ref&gt;{{cite journal
+ |last= Norcross
+ |first= John C.
+ |coauthors= Koocher, Gerald P.; Garofalo, Ariele
+ |year= 2006
+ |month= October
+ |title= Discredited Psychological Treatments and Tests: A Delphi Poll
+ |journal= Professional Psychology: Research and Practice
+ |volume= 37
+ |issue= 5
+ |pages= 512–522
+ |doi= 10.1037/0735-7028.37.5.515
+ |accessdate= 2007-08-28
+}}&lt;/ref&gt; 
+
+The ethics guidelines of the mental health establishment discourage, and sometimes prohibit, its practice.&lt;ref&gt;See [[Conversion therapy#Ethics guidelines]].&lt;/ref&gt;  The APA opposes any treatment that is "based upon the assumption that homosexuality per se is a mental disorder or based upon the a priori assumption that the patient should change his/her sexual homosexual orientation."&lt;ref name="Psych"&gt;{{cite web
+ |url = http://www.psych.org/psych_pract/copptherapyaddendum83100.cfm
+ |title = Position Statement on Therapies Focused on Attempts to Change Sexual Orientation (Reparative or Conversion Therapies)
+ |accessdate = 2007-08-28
+ |year = 2000
+ |month = May
+ |publisher = American Psychiatric Association
+}}&lt;/ref&gt;  Jack Drescher, former chair of the American Psychiatric Association's Committee on Gay, Lesbian and Bisexual Issues stated: "There's not a debate in the profession on this issue... This is like creationism. You create the impression to the public as if there was a debate in the profession, which there is not."&lt;ref name="nytconversion" /&gt;
+
+Mainstream health organizations critical of conversion therapy include the [[American Medical Association]],&lt;ref&gt;{{cite web
+ |url = http://www.ama-assn.org/ama/pub/category/14754.html
+ |title = American Medical Association policy regarding sexual orientation
+ |accessdate = 2007-07-30
+ |date = 2007-07-11
+ |publisher = American Medical Association
+}}&lt;/ref&gt; [[American Psychiatric Association]], the [[American Psychological Association]], the [[American Counseling Association]], the [[National Association of Social Workers]], the [[American Academy of Pediatrics]], the American Association of School Administrators, the [[American Federation of Teachers]], the [[National Association of School Psychologists]], the American Academy of Physician Assistants, and the [[National Education Association]].&lt;ref name="apa" /&gt;&lt;ref name="aap"&gt;{{cite journal
+ |first= Committee on Adolescence
+ |year= 1993
+ |title= Homosexuality and Adolesence
+ |journal= Pediatrics, Official Journal of the American Academy of Pediatrics
+ |volume= 92
+ |pages= 631–634
+ |url= http://pediatrics.aappublications.org/cgi/reprint/92/4/631.pdf
+ |accessdate= 2007-08-28
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url = http://www.spiritindia.com/health-care-news-articles-10085.html
+|title = Physician Assistants vote on retail clinics, reparative therapy
+|accessdate = 2007-08-28
+|publisher = SpiritIndia.com
+}}&lt;/ref&gt;  Mainstream gay rights organizations and some religious organizations opposing conversion therapies include the [[National Gay and Lesbian Task Force]],&lt;ref name="taskforce" /&gt; [[The Interfaith Alliance]], [[New Ways Ministries]] and [[People for the American Way]].&lt;ref&gt;{{cite web
+ |url = http://www.narth.com/docs/acaresolution.html
+ |title = American Counseling Association Passes Resolution to Oppose Reparative Therapy
+ |publisher = NARTH
+ |accessdate = 2007-10-29
+ |date = [[2007-07-23]]
+}}&lt;/ref&gt;
+
+=== Potential harms ===
+
+The [[American Psychiatric Association]] has stated that "anecdotal reports of 'cures' are counterbalanced by [[Anecdotal evidence|anecdotal claims]] of psychological harm."  It further states that there are no scientifically rigorous outcome studies to determine the actual harm of conversion treatments.&lt;ref name="Psych" /&gt;  However, they have also stated that the "potential risks of 'reparative therapy' are great, including depression, anxiety, and self-destructive behavior, since therapist alignment with societal prejudices against homosexuality may reinforce self-hatred already experienced by a patient."&lt;ref name="Psych" /&gt;&lt;ref name="PsychNews" /&gt; 
+
+Mainstream medical bodies state that conversion therapy can be harmful because it may exploit guilt and anxiety, thereby damaging self-esteem and leading to depression and even suicide.&lt;ref name="nytconversion"&gt;{{cite news
+ | first = Michael
+ | last = Luo
+ | title = Some Tormented by Homosexuality Look to a Controversial Therapy
+ | url = http://www.nytimes.com/2007/02/12/nyregion/12group.html?_r=2&amp;oref=slogin&amp;oref=slogin
+ | publisher = The New York Times
+ | page = 1
+ | date = 2007-02-12
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt; Participants are at increased risk for guilt, depression, anxiety, confusion, self-blame, suicidal gestures, unprotected anal intercourse with untested partners, and heavy substance abuse.&lt;ref name="shildo"&gt;{{cite journal
+ | last = Shidlo
+ | coauthors = Schroeder, Michael
+ | year = 2002
+ | title = Changing Sexual Orientation: A Consumers’ Report
+ | journal = Professional Psychology: Research and Practice
+ | volume = 33
+ | issue = 3
+ | pages = 249–259
+ | doi = 10.1037//0735-7028.33.3.249
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt; Michael Bussee, founder of Exodus International, reports that "One man slashed his genitals with a razor and poured Drano on his wounds," and that another man impulsively underwent an incomplete sex-change operation because he believed his sexual desires might receive divine approval were he biologically a woman.&lt;ref&gt;"Ex-Gay Ministry Founders Recant," "Keeping in Touch," The Universal Fellowship of Metropolitan Community Churches, May 1990.&lt;/ref&gt; ''[[Psychology Today]]'' states:
+
+&lt;blockquote&gt;
+The danger is that some individuals are going to end up feeling that in some important way their life is a lie and a sham," observes Christopher Wallis, M.D., a member of the American Psychoanalytic Association's committee on issues of homosexuality.  The consequences can be devastating. Terry Norman, [a professional counselor], says "orientational repression" sometimes leads to drug and alcohol abuse, workaholism and compulsive sex. There also have been reports of people killing themselves, or attempting to, after failing to convert. "After hearing the categorical promises that these programs work, what do people conclude when they do these things and it doesn't work for them?" asks Norman. "That God doesn't bless them, that they really are pieces of trash that pollute the Earth."&lt;ref name="Yeoman"&gt;{{cite news
+ | first = Barry
+ | last = Yeoman
+ | title = Gay No More
+ | url = http://psychologytoday.com/articles/pto-19990301-000030.html
+ | publisher = Psychology Today
+ | page = 5
+ | date = 1999-03/04
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Beyond harms caused to individual people, there is a broad concern in the mental health community that the advancement of conversion therapy itself causes social harm by disseminating inaccurate views about sexual orientation and the ability of LGB people to lead happy, healthy lives.&lt;ref name="apa" /&gt;  The APA warns that the conversion therapy and ex-gay movements "create an environment in which prejudice and discrimination can flourish."&lt;ref name="prejudice" /&gt; A commentator summarizes: "To attempt to 'cure' is to reinforce bigotry."&lt;ref name="halpert"&gt;{{cite journal
+ | last = Halpert
+ | first = Stephen C.
+ | year = 2000
+ | month = January
+ | title = "If It Ain't Broke, Don't Fix It": Ethical Considerations Regarding Conversion Therapies
+ | journal = International Journal of Sexuality and Gender Studies
+ | volume = 5
+ | issue = 1
+ | pages = 19–35
+ | doi = 	10.1023/A:1010133501054
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;  The APA encourages and supports research to determine risks versus benefits.&lt;ref name="Psych" /&gt;
+
+=== Ethics guidelines ===
+
+The ethics guidelines of the [[American Psychiatric Association]] and the [[American Counseling Association]] recommend that ethical practitioners avoid using conversion therapy or referring clients to people who do use it.&lt;ref name="ACA News"&gt;{{cite web
+|url = http://www.counseling.org/PressRoom/NewsReleases.aspx?AGuid=b68aba97-2f08-40c2-a400-0630765f72f4
+|title = Ethical issues related to conversion or reparative therapy
+|accessdate = 2007-08-28
+|last = Whitman
+|first = Joy S.
+|coauthors = Glosoff, Harriet L.; Kocet, Michael M.; Tarvydas, Vilia
+|date = 2006-05-22
+|publisher = American Counseling Association
+}}&lt;/ref&gt;&lt;ref name="Psych" /&gt;  The [[American Psychological Association]] opposes practicing conversion therapy, but its ethics guidelines do not explicitly prohibit it; rather, they caution that any psychologist attempting to change someone's sexual orientation must, among other things, eliminate the effects of biases about sexual orientation on one's practice and avoiding making deceptive claims about the scientific basis for conversion therapy.&lt;ref name="APA Techniques"&gt;{{cite web
+|url = http://www.apa.org/pi/sexual.html
+|title = Resolution on Appropriate Therapeutic Responses to Sexual Orientation
+|accessdate = 2007-08-28
+|date = 1997-8-14
+|publisher = American Psychological Association
+}}&lt;/ref&gt;  The President of the APA has said: "The APA has no conflict with psychologists who help those distressed by unwanted homosexual attraction."&lt;ref&gt;{{cite news
+|url=http://wthrockmorton.blogspot.com/2006_09_01_archive.html
+|title=APA denies any retreat on gay therapy
+|last=Price
+|first=Joyce
+|publisher=[[The Washington Times]]
+|date = 2006-9-3
+}}&lt;/ref&gt;  [[NARTH]], a conversion therapy organization, "advises its members to provide psychological care in a professional, ethical manner which is consistent with the codes of ethics of the national mental health organizations and state licensing boards."&lt;ref&gt;{{cite web
+|url = http://www.narth.com/docs/holding.html
+|title = "Holding Therapy" as a Therapeutic Approach
+|accessdate = 2007-08-28
+|last = Byrd
+|first = A. Dean
+|date = 2006-06-05
+|publisher = NARTH
+}}&lt;/ref&gt;
+
+Some commentators, recommending a hard stand against the practice, have found conversion therapy inconsistent with a psychologist's ethical duties because "it is more ethical to let a client continue to struggle honestly with her or his identity than to collude, even peripherally, with a practice that is discriminatory, oppressive, and ultimately ineffective in its own stated ends."&lt;ref name=PurpleMenace&gt;{{cite journal
+ | last = Tozer
+ | first = Erinn E.
+ | coauthors = McClanahan, Mary K.
+ | year = 1999
+ | title = Treating the Purple Menace: Ethical Considerations of Conversion Therapy and Affirmative Alternatives
+ | journal = The Counseling Psychologist
+ | volume = 27
+ | issue = 5
+ | pages = 722–742
+ | doi = 10.1177/0011000099275006
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;   They argue that clients who request it do so out of social pressure and internalized homophobia, pointing to evidence that rates of depression, anxiety, alcohol and drug abuse and suicidal feelings are roughly doubled in those who undergo conversion therapy.&lt;ref name="shildo" /&gt;
+
+With respect to ex-gay programs, "unlike many organizations and individuals who offer counseling and mental health treatment services, the majority of ex-gay programs market themselves as religious ministries and are therefore not governed or overseen by professional associations, licensing boards, state departments of health or other bureaucracies."&lt;ref name="taskforce" /&gt;
+
+==== Self-determination argument ====
+
+Conversion therapists focus on patient self-determination when discussing whether conversion therapy should be available.  Mark Yarhouse, of [[Pat Robertson]]'s [[Regent University]], wrote: "[p]sychologists have an ethical responsibility to allow individuals to pursue treatment aimed at curbing experiences of same-sex attraction or modifying same-sex behaviors, not only because it affirms the client's rights to dignity, autonomy, and agency, as persons presumed capable of freely choosing among treatment modalities and behavior, but also because it demonstrates regard for diversity."&lt;ref name=Right2Choose&gt;{{cite journal
+ | last = Yarhouse
+ | first = Mark
+ | year = 1998
+ | month = Summer
+ | title = When Clients Seek Treatment for Same-Sex Attractions: Ethical Issues in the "Right to Choose" Debate
+ | journal = Psychotherapy: Theory, Research, Practice, Training
+ | volume = 35
+ | issue = 2
+ | pages = 248–259
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;  Yarhouse and Throckmorton, of the private Christian school [[Grove City College]], argue that the procedure should be available out of respect for a patient’s values system and because they find evidence that it can be effective.&lt;ref name="EthicalIssues" /&gt;  Douglas Haldeman, who considers conversion therapy to be pseudoscientific,&lt;ref&gt;Haldeman (1999:3)&lt;/ref&gt; similarly argues for a client's right to access to conversion therapy if requested from a fully informed position: "we must respect the choices of all who seek to live life in accordance with their own identities; and if there are those who seek to resolve the conflict between sexual orientation and spirituality with conversion therapy, they must not be discouraged."&lt;ref name="haldeman" /&gt;
+
+The [[American Psychological Association]]'s code of conduct states: "Psychologists respect the dignity and worth of all people, and the rights of individuals to privacy, confidentiality, and self-determination," but also: "Psychologists are aware that special safeguards may be necessary to protect the rights and welfare of persons or communities whose vulnerabilities impair autonomous decision making."&lt;ref name="apacode"&gt;{{cite web
+|url = http://www.apa.org/ethics/code2002.html#principle_e
+|title = Ethical Principles of Psychologists and Code of Conduct
+|accessdate = 2007-08-28
+|date = 2003-06-01
+|publisher = American Psychological Association
+}}&lt;/ref&gt;  Gerald Koocher, president of the APA, stated: "In a full multifaceted therapeutic relationship, the therapist has every duty to respond to patient choice and to help patients achieve their goals.... BUT... [First,] therapists must determine whether patients understand that their motives may arise purely from the social pressures of a homophobic environment.... [and second,] patients must understand that [treatments to modify sexual orientation] lack a validated scientific foundation and may prove psychologically harmful."&lt;ref&gt;{{cite web
+ |url = http://wthrockmorton.blogspot.com/2006/08/apa-president-koochers-statement-about.html
+ |title = Statement by Dr. Gerald P. Koocher Concerning Therapeutic Interventions To Deal With Unwanted Same-Sex Attraction
+ |accessdate = 2007-08-28
+ |last = Koocher
+ |first = Gerald P.
+ |date = 2006-08-15
+}}&lt;/ref&gt;
+
+Jack Drescher, responding to Yarhouse's paper, argued that "any putative ethical obligation to refer a patient for reparative therapy is outweighed by a stronger ethical obligation to keep patients away from mental health practitioners who engage in questionable clinical practices."&lt;ref&gt;{{cite journal
+ | last = Drescher
+ | first = Jack
+ | year = 2001
+ | title = Ethical Concerns Raised When Patients Seek to Change Same-Sex Attractions
+ | journal = Journal of Gay &amp; Lesbian Psychotherapy
+ | volume = 5
+ | issue = 3/4
+ | pages = 183
+ | publisher = Haworth Press
+ | accessdate = 2007-10-14
+ }}&lt;/ref&gt; Chuck Bright wrote that refusing to endorse a procedure that "has been deemed unethical and potentially harmful by most medical and nearly every professional psychotherapy regulating body cannot be justifiably identified as prohibiting client self-determination."&lt;ref name="Bright" /&gt;
+
+=== Reasons why people seek to change sexual orientation ===
+
+Some people are unhappy with their sexuality for a variety reasons, including religious or personal beliefs, the desire for a traditional family, shame, rejection (actual or feared), or a general dissatisfaction with the contemporary gay lifestyle.&lt;ref&gt;{{cite news
+ | first = Natasha
+ | last = Courtenay-Smith
+ | title = The gay man who wants to go straight
+ | url = http://news.independent.co.uk/uk/this_britain/article304446.ece
+ | publisher = [[The Independent]] (Online Edition)
+ | date = 2005-08-08
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;
+
+''[[Psychology Today]]'' states: "Just who tries to change? Not the average gay man or woman. Would-be converts, say psychologists, typically come from deeply authoritarian backgrounds where homosexuality is branded immoral or a sin, while others are married and cannot reconcile their family commitments with their erotic desires."&lt;ref name="Yeoman" /&gt;
+
+The [[American Psychological Association]] states that harassment and abuse, as well as pressure from family, peers, and religious groups ignorant about and prejudiced against homosexuality, may cause high levels of emotional stress for [[lesbian]]s, [[gay]]s, and [[bisexuality|bisexuals]].  These pressures may lead people to feel forced into attempting to change their sexual orientation.&lt;ref name ="APA Techniques" /&gt; Other researchers have found that [[social pressure]] plays a key role in a person's desire to change his or her sexuality.&lt;ref name="shildo" /&gt;&lt;ref&gt;Beckstead, A. ''Gay is not me: Seeking Congruence Through Sexual Reorientation Therapy''. (Unpublished master's thesis, University of Utah, 1999).&lt;/ref&gt;
+
+=== Malleability of sexual orientation ===
+
+[[Surgeon General of the United States|United States Surgeon General]] [[David Satcher]] issued a [[2001 in science|2001]] report urging tolerance for gays and lesbians and maintaining that "there is no valid scientific evidence that sexual orientation can be changed."  Mainstream health organizations state that: "Sexual orientation develops across a person's lifetime - different people realize at different points in their lives that they are heterosexual, gay, lesbian, or bisexual."&lt;ref name=apa /&gt;  The [[American Psychological Association]] has stated that homosexuality "is not changeable."&lt;ref name=answers /&gt;
+
+In 1985, [[Fritz Klein]] presented his theory that sexual orientation is a "dynamic, multi-variable process" - dynamic in that it may change over time, and multi-variable in that it is composed of various elements, both sexual and non-sexual.&lt;ref&gt;{{cite book
+ | last = Klein
+ | first = Fritz
+ | coauthors = Sepekoff, Barry; Wolf, Timothy J.
+ | title = Two Lives to Lead: Bisexuality in Men and Women
+ | year = 1985
+ | publisher = Harrington Park Press
+ | location = New York
+ | isbn = 0918393221
+ | pages = 38
+ | chapter = Sexual Orientation: a Multi-Variable Dynamic Process
+ }}&lt;/ref&gt;  A report from the [[Centre for Addiction and Mental Health]] states: "For some people, sexual orientation is continuous and fixed throughout their lives. For others, sexual orientation may be fluid and change over time."&lt;ref&gt;{{cite web 
+ |url= http://www.camh.net/Publications/Resources_for_Professionals/ARQ2/arq2_question_a2.html 
+ |title= ARQ2: Question A2 - Sexual Orientation
+ |accessdate= 2007-08-28
+ |publisher= Centre for Addiction and Mental Health
+}}&lt;/ref&gt; 
+
+Conversion therapists do not believe sexual orientation can be changed instantly and completely, but instead believe that they can bring about a gradual change to heterosexuality.  Nicolosi explains that when a man changes orientation, he "doesn't immediately walk down a street and get a sexual charge from looking at a woman.  But he will begin to notice women. He will begin to feel a desire to get married and have a family."  Nicolosi admits a successful client may still have same-sex attractions, but adds "that sexual desire is greatly diminished."&lt;ref name="Yeoman" /&gt;  Some in the ex-gay community believe that sexual orientation cannot be completely changed,&lt;ref&gt;{{cite news
+ | first = Stephanie
+ | last = Simone
+ | title = New ground in debate on "curing" gays
+ | publisher = [[Los Angeles Times]]
+ | page = 
+ | date = 2007-06-18
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt; but others in the camp disagree.&lt;ref&gt;{{cite web 
+ |url= http://www.onenewsnow.com/2007/06/exodus_intl_president_stands_b.php
+ |title= Exodus Int'l president stands by criticism of term 'ex-gay'
+ |accessdate= 2007-08-28
+ |last= Brown
+ |first= Jim
+ |publisher= OneNewsNow.com
+}}&lt;/ref&gt;
+
+The director of the APA's LGBT Concerns Office said: "I don't think that anyone disagrees with the idea that people can change because we know that straight people become gays and lesbians.... the issue is whether therapy changes sexual orientation, which is what many of these people claim."&lt;ref&gt;{{cite web 
+ |url= http://www.cnsnews.com/Culture/Archive/200608/CUL20060815a.html
+ |title= Psychologists Disagree Over Therapy for Homosexuals
+ |last= Bansal
+ |first= Monisha
+ |publisher= Cybercast News Service
+ |accessdate= 2007-08-28
+}}&lt;/ref&gt;
+
+=== Evidence cited by conversion therapists ===
+
+Conversion therapists point to scientific studies that show anecdotal evidence of effectiveness.  Studies from the 1950s–1980s generally reported rates of positive outcomes at about 30%, with more recent survey research generally consistent with the extant data.&lt;ref name="EthicalIssues" /&gt;  They also point to non-peer-reviewed studies that show evidence of change, conducted either by NARTH or other professional therapists.  For example, many groups point "Ex-Gays? A Longitudinal Study of Religiously Mediated Change in Sexual Orientation", a book publisher by researchers Stanton Jones and Mark Yarhouse.&lt;ref&gt;{{cite news
+ |url = http://www.denverpost.com/popular/ci_6922237
+ |title = Focus on Family: Sexual orientation can change
+ |last = Draper
+ |first = Electra
+ |date = [[2007-09-18]]
+ |publisher = The Denver Post
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt; The study showed that out of a sample size of 98 people who sought a change in their sexual orientation, 15% reported a change in orientation over a three year period.&lt;ref&gt;{{cite news
+ |url = http://www.cnsnews.com/ViewCulture.asp?Page=/Culture/archive/200709/CUL20070917b.html
+ |title = Changing Sexual Orientation Is Possible, New Research Says
+ |last = Hall
+ |first = Randy
+ |date = [[2007-09-17]]
+ |publisher = CNS News
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt; They also point to several people who say they have either changed orientation or have diminished homosexual attractions, including:
+
+* [[Alan Chambers]] identified as being a homosexual as a youth, but after years of therapy, he says he has mostly conquered his homosexual feelings and now identifies as straight. &lt;ref name="New Ground" /&gt; He says he is happily married, and he and his wife have two children.
+
+* [[Andrew Comiskey]] said he left homosexuality after turning his life over to Christ.  He joined a church group for previous homosexuals, and under the advice of his pastor, started the group Desert Stream Ministries.  He is now married and has four children.&lt;ref&gt;{{cite news
+ |url = http://www.associatedcontent.com/article/246204/former_homosexual_now_offers_love_and.html
+ |title = Former Homosexual Now Offers Love and Christian Ministry to Those Bound by Any Sexual Addiction
+ |date = [[2007-05-18]]
+ |last = White
+ |first = Mike
+ |publisher = [[Associated Content]]
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt;
+
+* Mike Haley was living as a gay man for 12 years, and at one point was arrested for gay prostitution.    He left gayhood when he was 28.&lt;ref&gt;{{cite news
+ |url = http://www.denverpost.com/lifestyles/ci_4089806
+ |title = "Ex-gay" stood by to testify at Dobson vigil
+ |last = Rodríguez
+ |first = Cindy
+ |date = [[2006-07-24]]
+ |publisher = The Denver Post
+}}&lt;/ref&gt;  After what he calls a long and painful struggle, he made a switch to heterosexuality. Today, he's married with three children.&lt;ref&gt;{{cite news
+ |url = http://transcripts.cnn.com/TRANSCRIPTS/0704/05/acd.01.html
+ |title = Sex and Salvation
+ |author = [[Anderson Cooper|Cooper, Anderson]]
+ |date = [[2007-04-05]]
+ |publisher = [[Anderson Cooper 360°]]
+}}&lt;/ref&gt;
+
+* Randy Thomas was in gay relationships since he was a teenager, but stopped when he found Christianity in his mid-20s.&lt;ref&gt;{{cite news
+ |url = http://www.boston.com/news/local/articles/2005/10/28/ex_gay_ministry_reaches_out_to_hub/
+ |title = 'Ex-gay' ministry reaches out to Hub
+ |last = Wen
+ |first = Patricia
+ |publisher = [[The Boston Globe]]
+ |date = [[2005-10-28]]
+}}&lt;/ref&gt;  He now says "I am 15 years on the other side of identifying as gay. I have had a sexual orientation shift, and I'm not gay."&lt;ref&gt;{{cite news
+ |url = http://www.miaminewtimes.com/2007-07-12/news/scared-straight
+ |title = Scared Straight
+ |publisher = [[Miami New Times]]
+ |last = Green
+ |first = Joanne
+ |date = [[2007-07-12]]
+}}&lt;/ref&gt;
+
+* Melissa Fryrear lived as a lesbian for ten years before her Christian conversion and subsequent years of therapy, which she says made her life "fuller and happier."&lt;ref&gt;{{cite news
+ |url = http://abcnews.go.com/GMA/Health/story?id=983209
+ |title = 'Ex-Gay' Camps, Therapy Programs Attract Controversy
+ |last = Palazzolo
+ |first = Rose
+ |date = [[2005-07-28]]
+ |publisher = [[ABC News]]
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt;  She has now says  "I'm changed. I'm a heterosexual woman now. I'm not sexually attracted to women."&lt;ref&gt;{{cite news
+ |url = http://www.cnn.com/2007/LIVING/personal/06/29/poll.reaction/index.html
+ |title = Gay man, former lesbian on whether they can change
+ |last = Gandossy
+ |first = Taylor
+ |publisher = CNN
+ |date = [[2007-06-30]]
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt;
+
+The APA stated: "In the last four decades, 'reparative' therapists have not produced any rigorous scientific research to substantiate their claims of cure."  It called for more scientific research to determine the risks and benefits involved, and until such research is available, recommended that "ethical practitioners refrain from attempts to change individuals' sexual orientation."&lt;ref name="Psych" /&gt;  Major medical organizations and others do not accept the anecdotal evidence offered by conversion therapists and ex-gay groups for reasons including:&lt;ref name="ucdavis" /&gt;&lt;ref&gt;{{cite journal
+ | last = Haldeman
+ | first = Douglas
+ | year = 1999
+ | month = December
+ | title = The Pseudo-science of Sexual Orientation Conversion Therapy
+ | journal = The Policy Journal of the Institute for Gay and Lesbian Strategic Studies
+ | volume = 4
+ | issue = 1
+ | pages = 1–4
+ | url = http://www.iglss.org/media/files/Angles_41.pdf
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;
+
+* results are not published in peer-reviewed journals, but tend to be released to the [[mass media]] and the [[Internet]] (see [[Science by press conference]]);&lt;ref name="ucdavis" /&gt;
+
+* random samples of subjects are not used and results are reliant upon the subjects' own self-reported outcomes or on the therapist's own evaluations which may be subject to [[social desirability bias]];&lt;ref name="haldeman" /&gt;
+
+* evidence is gathered over short periods of time and there is little follow-up data to determine whether it was effective over the long-term;&lt;ref name="Bright" /&gt; 
+
+* the evidence does not demonstrate a change in sexual orientation, but merely a reduction in same-sex behavior;&lt;ref name="Bright" /&gt;
+
+* the evidence does not take into consideration that subjects may be bisexual and may have simply been convinced to restrict their sexual activity to the opposite sex;&lt;ref name="Bright" /&gt;
+
+* conversion therapists falsely assume that homosexuality is a mental disorder;&lt;ref name="apa"&gt;
+{{cite web
+ |url= http://www.apa.org/pi/lgbc/publications/justthefacts.html
+ |title= Just the Facts About Sexual Orientation &amp; Youth: A Primer for Principals, Educators and School Personnel
+ |accessdate= 2007-08-28
+ |year= 1999
+ |publisher= American Academy of Pediatrics, American Counseling Association, American Association of School Administrators, American Federation of Teachers, American Psychological Association, American School Health Association, The Interfaith Alliance, National Association of School Psychologists, National Association of Social Workers, National Education Association
+}}&lt;/ref&gt;
+
+* conversion therapists' research focuses on gay men almost exclusively and rarely includes lesbians.&lt;ref name="Bright" /&gt;
+
+With respect to the last point, one commentator argues that the reason for the focus on gay men is more political than medical.  He argues that conservative and rigidly defined gender roles are the core value system used by conversion therapists, and that male sexuality, with its emphasis on masculine and patriarchal hierarchies, is seen as more important and valuable than
+female sexuality.&lt;ref&gt;{{cite book
+ |last = Mondimore
+ |first = Francis Mark
+ |title = A natural history of homosexuality
+ |year = 1996
+ |publisher = Johns Hopkins University Press
+ |location = Baltimore
+ |isbn = 0801853494
+}}&lt;/ref&gt;
+
+=== Peer-reviewed research ===
+
+A 2002 peer-reviewed study found that 88% of participants failed to achieve a sustained change in their sexual behavior and 3% reported changing their orientation to heterosexual.  The remainder reported either losing all sexual drive or attempting to remain celibate, with no change in attraction.  Some of the participants who failed felt a sense of shame and had gone through conversion therapy programs for many years.  Others who failed believed that therapy was worthwhile and valuable.  Of the 8 respondents (out of a sample of 202) who reported a change in sexual orientation, 7 worked as ex-gay counselors or group leaders.&lt;ref name="shidlo" /&gt;
+
+In 2001, Dr. [[Robert Spitzer (psychiatrist)|Robert Spitzer]], who was involved in the APA's declassification of homosexuality as a mental disorder, presented a paper on conversion therapy at the APA annual convention.  He reported that 66% of the men and 44% of the women he sampled had achieved "good heterosexual functioning" through interventions.&lt;ref&gt;{{cite journal
+ | last = Spitzer
+ | first = Robert L.
+ | year = 2003
+ | month = October
+ | title = Can Some Gay Men and Lesbians Change Their Sexual Orientation? 200 Participants Reporting a Change from Homosexual to Heterosexual Orientation
+ | journal = Archives of Sexual Behavior
+ | volume = 32
+ | issue = 5
+ | pages = 403–417
+ | pmid = 14567650
+ | doi = 10.1023/A:1025647527010
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;  This paper was widely reported by proponents of conversion therapy as evidence of success of the therapy.
+
+The APA immediately issued an official disavowal of the paper, noting that it had not been peer-reviewed and stating that "There is no published scientific evidence supporting the efficacy of reparative therapy as a treatment to change one's sexual orientation."&lt;ref name="ucdavis" /&gt;  Two years later, Spitzer published the paper in the [[Archives of Sexual Behavior]].  The publication decision sparked controversy and one sponsoring member resigned in protest.  The paper has been criticized on various grounds, including using non-random sampling and poor criteria for "success". Critics argue that it relied upon samples selected by conversion therapists themselves (86 participants were handpicked by ex-gay organizations), that proper random samplings were not used, that small samplings were used, that the subjects appeared to be ex-gay advocates who may have been biased in favor of conversion therapies, that 60% of the subjects had previously reported being bisexual, and that no follow-up study had been carried out to ascertain long-term conversion.&lt;ref&gt;{{cite web
+ |url = http://www.religioustolerance.org/hom_spit.htm
+ |title = Analysis of Dr. Spitzer's Study of Reparative Therapy
+ |accessdate = 2007-08-28
+ |author = Robinson, B.A.
+ |date = 2006-06-04
+ |publisher = Ontario Consultants on Religious Tolerance
+}}&lt;/ref&gt;&lt;ref name="ucdavis"&gt;{{cite web
+ |url = http://psychology.ucdavis.edu/rainbow/html/facts_changing.html
+ |title = Attempts To Change Sexual Orientation
+ |accessdate = 2007-08-28
+ |publisher = [[University of California, Davis]] Department of Psychology
+}}&lt;/ref&gt;
+
+Spitzer himself played down the results of his own paper; upon being asked about the 200 patient sample after 16 months, and the percentage of people who might succeed, Spitzer said that it took almost a year and a half to only find 200 willing individuals, and therefore, the number of gay people who could successfully become heterosexual was likely to be "pretty low". He also conceded that the study's participants were "unusually religious."&lt;ref name="ucdavis" /&gt;
+
+=== Reaction by conversion therapists ===
+
+Conversion therapists generally respond to the mainstream medical view with three main points.  First, they argue that the mainstream medical view (from the 1973 declassification of homosexuality as a mental disorder to the current opposition to conversion therapy) is the result of political beliefs and lobbying.&lt;ref&gt;{{cite book
+ |last= Rogers H.
+ |first= Wright
+ |coauthors= Cummings, Nicolas A.
+ |title= Destructive Trends in Mental Health
+ |year= 2005
+ |publisher= Routledge
+ |location= New York
+ |isbn= 0415950864
+}}&lt;/ref&gt;  Second, they argue that there is evidence that conversion therapy does work.&lt;ref name="EthicalIssues" /&gt;  Third, they argue that people should be able to determine their own therapeutic goals (see [[Conversion therapy#Self-determination argument|self-determination argument, ''supra'']]).
+
+[[Robert Perloff]], former president of the [[American Psychological Association]], in 2001 at age 80 charged that APA is "too politically correct, too bureaucratic, too obeisant to special interests."  He stated that APA’s view of conversion therapy is "all wrong. First, the data are not fully in yet. Second, if the client wants a change, listen to the client. Third, you're barring research."&lt;ref&gt;{{cite news
+ | first = Bridget
+ | last = Murray
+ | title = Same office, different aspirations
+ | url = http://www.apa.org/monitor/dec01/aspirations.html
+ | publisher = Monitor on Psychology
+ | date = 2001-12
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;
+
+== Scandals ==
+
+=== Scandals involving minors ===
+
+One of the most controversial aspects of conversion therapy has been the focus on gay teenagers, including occasions where teenagers have been forcibly treated in ex-gay camps.  A 2006 report outlined evidence that ex-gay and conversion therapy groups are increasingly focusing on children.&lt;ref name="taskforce" /&gt; Several legal researchers have responded to these events by arguing that parents who force their children into aggressive conversion therapy programs are committing [[child abuse]] under various state statutes.&lt;ref&gt;Talbot, T. ''Reparative therapy for homosexual teens: the choice of the teen should be the only choice discussed'', 27 J. Juv. L. 33. 2006.&lt;/ref&gt;&lt;ref&gt;Cohan, J. ''Parental Duties and the Right of Homosexual Minors to Refuse "Reparative" Therapy'', 11 Buff. Women's L.J. 67, 2002.&lt;/ref&gt;
+
+* In 1991 14-year-old [[Lyn Duff]] [[Coming out|came out]] publicly as a [[lesbian]]. Reportedly concerned about her daughter's [[sexual orientation]], Lyn Duff's mother had her taken by force from her grandparents' home to Rivendell Psychiatric Center, a residential treatment center near [[Salt Lake City, Utah|Salt Lake City]].  Duff's placement was paid for by the State of California through special education funds on the basis of her diagnosis with "Gender Identity Disorder".  Her treatment reportedly included [[shock therapy]], [[aversion therapy]], [[psychotropic drugs]], [[hypnosis]], and behavioral counseling (for instance, being told to wear dresses and make up, etc). After 168 days in Rivendell, Duff escaped. In 1992, she initiated legal action against the facility and her mother.  In 1993, Duff's therapist at Rivendell, R. Mark Hinckley, left Rivendell to start Turnabout, a similar camp to treat gay youth in Salt Lake City.
+
+* In Tennessee in 1995, a 16-year-old gay male sought [[emancipation of minors|legal emancipation]] from his parents because they were forcing him to attend reorientation counseling with a Memphis psychologist, Dr. Duff Wright.  They intended to send him to either [[Love in Action]], or another similar program. The Memphis Circuit Court judge agreed that the boy would be harmed by this treatment and indicated that he would sign the emancipation order.  In a settlement agreement, the parents abandoned their plans to send the boy to treatment.&lt;ref&gt;{{cite news
+ | first = Eartha
+ | last = Melzer
+ | title = Tenn. opens new probe of ‘ex-gay’ facility: Experts say children should not be forced into counseling
+ | url = http://www.washblade.com/2005/7-1/news/national/tenopen.cfm
+ | publisher = Washington Blade
+ | date = 2005-07-01
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;  In April 2005, Wright lost his license to practice as a psychologist, due to a [[get-rich-quick scheme]] that resulted in a $81,000 loss to a client.&lt;ref&gt;{{cite web
+ |url = http://www2.state.tn.us/health/licensure/displaypdf.asp?profcode=1410&amp;licen=888&amp;thedate=4/13/05
+ |title = Consent Order (In the matter of Duff R. Wright, Ph.D., Respondant)
+ |accessdate = 2007-08-28
+ |date = 2005-04-13
+ |publisher = State of Tennessee, Department of Health
+}}&lt;/ref&gt;
+
+* In July 2005, the [[New York Times]] ran a feature story about 16-year-old Zachary Stark, whose parents forced him to attend an ex-gay camp run by Love in Action.&lt;ref&gt;{{cite news 
+ |first= Alex
+ |last= Williams
+ |title= Gay Teenager Stirs a Storm
+ |url=http://query.nytimes.com/gst/fullpage.html?res=9B00E4DA1E3DF934A25754C0A9639C8B63
+ |publisher= New York Times
+ |date= [[2005-07-17]]
+ |accessdate=2007-10-06
+}}&lt;/ref&gt;  In May 2005, Zachary posted on his [[blog]]:&lt;blockquote&gt;Well today, my mother, father, and I had a very long 'talk' in my room where they let me know I am to apply for a fundamentalist Christian program for gays.  They tell me that there is something psychologically wrong with me, and they "raised me wrong."  I'm a big screw up to them, who isn't on the path God wants me to be on.  So I'm sitting here in tears, joing [''[[sic]]''] the rest of those kids who complain about their parents on blogs - and I can't help it.&lt;ref name="towleroad_200507"&gt;[http://towleroad.typepad.com/towleroad/2005/07/zachs_release_i.html Zach's Release from "Love in Action" Imminent]&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+In July 2005, Stark was released from the ex-gay camp.&lt;ref name="towleroad_200507" /&gt;  Stark's blog prompted an investigation of the camp: the investigation did not uncover signs of child abuse, but in September 2005, the camp was shut down when Tennessee authorities discovered that unlicensed staff had been administering prescription drugs to the people attending the camp.&lt;ref&gt;[[n:Tennessee closes down Christian ex-gay camp for treating mental illness without a license|Tennessee closes down Christian ex-gay camp for treating mental illness without a license]], [[WikiNews]], 09-21-2005.  Retrieved on 2007-02-08.&lt;/ref&gt;
+
+* In October 2005, the father of 17-year old DJ Butler drove him to the camp in handcuffs.&lt;ref name="ben_20060210"&gt;{{cite news
+ | first = Ben
+ | last = Popper
+ | title = Love in Court: Gay-to-straight ministry and the state go to court
+ | url = http://memphisflyer.com/gyrobase/Content?oid=oid%3A12034
+ | publisher = [[Memphis Flyer]]
+ | date = 2006-02-10
+ | accessdate = 2007-08-28
+ }}&lt;/ref&gt;  In February 2006, Tennessee authorities, unwilling to pursue further actions against Love in Action, closed the case.&lt;ref name="ben_20060210" /&gt;
+
+=== "Relapses" and other scandals ===
+
+{{Further|[[Ex-gay#People who left the ex-gay movement]], [[Ex-ex-gay]]}}
+[[Image:00sep29Paulk.jpg|thumb|right|Controversy arose when ex-gay [[John Paulk]] was photographed leaving a gay bar.&lt;ref name="paulk"&gt;{{cite news
+ |last= Evangelical Press with additional reporting by Jody Veenker
+ |title= Ex-Gay Leader Disciplined for Gay Bar Visit
+ |url= http://www.ctlibrary.com/ct/2000/octoberweb-only/53.0.html
+ |work=
+ |publisher= Christianity Today
+ |date= [[2000-10-01]]
+ |accessdate= 2007-08-29
+}}&lt;/ref&gt; (Photograph by [[Wayne Besen]].)]]
+
+* [[Exodus International]]'s co-founder Michael Bussee and his partner, a fellow ex-gay counselor, Gary Cooper quit the group and in 1979, held a life commitment ceremony together.  Bussee went on to become an outspoken critic of Exodus and the ex-gay movement.&lt;ref&gt;Their story is one of the foci of the documentary ''One Nation Under God'' ([[1993 in film|1993]]), directed by [[Teodoro Maniaci]] and Francine Rzeznik.&lt;/ref&gt;  He flatly rejects therapies designed to change or "cure" gay people, but recently acknowledged potential for therapy that "does not promise change, but instead offers patients help in managing their desires and modifying their behavior to match their religious values -- even if that means a life of celibacy".&lt;ref&gt;{{cite news
+ | first = Stephanie
+ | last = Simon
+ | title = Approaching agreement in debate over homosexuality; More conservative Christians say being gay isn't a choice that can be changed by prayer
+ | publisher = [[Los Angeles Times]]
+ | date = [[2007-06-18]]
+ | accessdate = 2007-10-13
+ }}&lt;/ref&gt;
+
+* Colin Cook, founder of Homosexuals Anonymous, was in 1986 discovered to be engaging in sexual acts with his patients.  He claimed that the nude massages of other men should desensitize them against homosexual desires.  In 1987, he was expelled from Homosexuals Anonymous for sexual activity, and in 1995 a similar scandal happened with his newly founded group FaithQuest Colorado.  Cook had engaged in [[phone sex]], practiced long and grinding hugs, and asked patients to bring gay pornography to sessions so that he could help desensitize them against it.&lt;ref&gt;{{cite news
+ | first = V.
+ | last = Culver
+ | title = Sessions with gays criticized: Former minister's counseling methods brought reprimands
+ | publisher = [[Denver Post]]
+ | date = 10-27-1995
+}}&lt;/ref&gt;
+
+* [[John Paulk]], then leader of [[Focus on the Family]]'s ''Love Won Out'' conference and chairman of the board for [[Exodus International]] North America, was photographed in September of 2000 exiting a Washington, D.C. gay bar.&lt;ref name="paulk" /&gt;  This led to Paulk stepping down from the two organizations.&lt;ref name="besen"&gt;{{cite book
+ |last= Besen
+ |first= Wayne
+ |authorlink= Wayne Besen
+ |title= Anything but Straight: Unmasking the Scandals and Lies Behind the Ex-Gay Myth
+ |year= 2003
+ |publisher= Harrington Park Press
+ |isbn= 1560234458
+}}&lt;/ref&gt;
+
+* [[Michael Johnston]], an [[HIV]]-positive man who is featured in the film ''It's Not Gay'', promoted by the [[American Family Association]], had frequently been interviewed on U.S. television and radio regarding his claimed change in sexuality, and even featured in a national television advertising campaign in 1998 stating that Jesus Christ empowered him to leave his homosexual past.  In 2002, he was exposed as having recently resumed having sex with men, and he admitted to having had unprotected sex with multiple male partners without disclosing his [[HIV]]-positive status, despite knowing he that he was HIV-positive, for over a period of two years.&lt;ref&gt;{{cite news
+ | first = Laura
+ | last = Douglas-Brown
+ | title = Ex-gay leader Johnston allegedly had sex with men without disclosing he is HIV-positive 
+ | url = http://www.sovo.com/2003/8-8/news/national/exgay.cfm
+ | publisher = Southern Voice
+ | date = 2003-08-08
+ | accessdate = 2007-08-29
+}}&lt;/ref&gt;
+
+* Christopher Austin was an ex-gay counselor who was sentenced to 10 years in prison in 2007 for sexually assaulting a male client.  Austin was affiliated with and gave presentations at [[NARTH]] and [[Evergreen International]], which describes him as "a therapist specializing in homosexual and sexual addiction recovery [and] the creator of RENEW, a multi-dimensional treatment approach for men struggling with homosexuality".&lt;ref&gt;{{cite news
+ | first = Killan
+ | last = Melloy
+ | title = "Ex-Gay" Counselor Convicted of Sexual Assault on Man
+ | url = http://www.edgeboston.com/index.php?ch=news&amp;sc=glbt&amp;sc2=news&amp;sc3=&amp;id=23018
+ | publisher = EDGE Boston
+ | date = 2007-09-13
+ | accessdate = 2007-08-21
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url = http://www.evergreeninternational.org/Speakers.htm
+|title = Keynote Speakers and Frequent Presenters
+|accessdate = 2007-09-21
+|publisher = Evergreen International
+}}&lt;/ref&gt;
+
+== Cultural references ==
+
+Conversion therapy and the ex-gay phenomenon occasionally appear in popular culture, usually in a satirical or skeptical context. In [[1999 in film|1999]], [[Lions Gate Entertainment]] released ''[[But I'm a Cheerleader]]'', a [[black comedy]] about a high school cheerleader who is sent to an ex-gay camp after being [[outed]] by her worried friends and family. In [[2003]] the [[ex-ex-gay]] actor and playwright [[Peterson Toscano]] premiered his one-person comedy ''Doin' Time in the Homo No Mo Halfway House--How I Survived the Ex-Gay Movement'', which has has presented throughout the US and parts of Europe. In the [[2004 in film|2004]] comedy film ''[[Saved!]]'', one character is a gay high school student sent by his parents to a camp to turn him straight. A [[2007 in television|2007]] ''[[South Park]]'' episode "[[Cartman Sucks]]" satirized and criticized conversion therapy and ex-gay camps.
+
+Conversion therapy was derided on [[Penn and Teller]]'s television show ''[[Bullshit!]]''.&lt;ref&gt;{{cite web
+ |url = http://www.sho.com/site/ptbs/prevepisodes.do?episodeid=s3/fv
+ |title = Penn &amp; Teller: Bullshit! on Showtime
+ |publisher = [[Showtime]]
+ |accessdate = 2007-10-29
+}}&lt;/ref&gt; Conversion therapist [[Richard Cohen (lecturer)|Richard Cohen]] was satirically interviewed by [[Jason Jones (actor)|Jason Jones]] in a segment for the [[March 19]], [[2007]] episode of ''[[The Daily Show]].''  Albeit not in relation to homosexuality, aversion therapy and its moral implications were explored in the 1962 novels ''[[One Flew Over the Cuckoo's Nest]]'' and ''[[A Clockwork Orange]]''.
+
+In 2006, [[Ted Haggard]], former American [[Evangelism|evangelical]] [[preacher]] and leader of the [[National Association of Evangelicals]] resigned or was removed from all of his leadership positions after allegations of [[gay]] sex and [[Substance abuse|drug abuse]] were made by [[Mike Jones (personal trainer)|Mike Jones]], a former [[male prostitution|male prostitute]].  Initially Haggard denied even knowing Mike Jones, but as a media investigation proceeded he acknowledged that some allegations, such as his purchase of [[methamphetamine]], were true.  He later added "sexual immorality" to his list of confessions. After the scandal was publicized, Haggard entered three weeks of intensive counseling, overseen by four ministers.  On [[February 6]], [[2007]], one of those ministers stated that Haggard "is completely heterosexual".&lt;ref&gt;{{cite news
+ | title = Haggard Pronounced 'Completely Heterosexual'
+ | date = [[2007-02-06]]
+ | publisher = Associated Press
+}}&lt;/ref&gt;  The minister later said he meant to say that therapy "gave Ted the tools to help to embrace his heterosexual side."&lt;ref&gt;{{cite news
+ |title= More Haggard details emerge
+ |date= [[2007-02-21]]
+ |publisher= ''North Jersey Record and Herald News''
+ |url= http://www.northjersey.com/page.php?qstr=eXJpcnk3ZjczN2Y3dnFlZUVFeXkyNSZmZ2JlbDdmN3ZxZWVFRXl5NzA4MTA0NCZ5cmlyeTdmNzE3Zjd2cWVlRUV5eTI= 
+ |pages= 1
+ |accessdate= 2007-02-22
+}}&lt;/ref&gt;
+
+== References ==
+
+{{reflist|3}}
+
+== External links ==
+
+&lt;div class="references-small"&gt;
+
+=== Conversion therapy perspectives ===
+
+* [http://www.narth.com/ National Association for Research &amp; Therapy of Homosexuality]
+* [http://www.exodus.to/ Exodus International] a Christian ex-gay organization
+* [http://www.ewtn.com/library/humanity/homo.htm Christian Anthropology and Homosexuality]
+* [http://www.catholicculture.org/library/view.cfm?RecNum=3336 "Homosexuality &amp; Hope] Catholic Medical Association
+* [http://www.peoplecanchange.com/ "People Can Change"]
+* [http://www.ssaml.com/ "Same Sex Attraction Morality League"]
+* [http://couragerc.net/ "Courage"]
+* [http://www.evergreeninternational.org/organizations.htm "Evergreen International"]
+
+=== Mainstream scientific community perspectives ===
+
+* [http://www.apa.org/pubinfo/answers.html American Psychological Association] (sexual orientation is "does not require treatment and is not changeable.")
+
+* [http://www.counseling.org/PressRoom/NewsReleases.aspx?AGuid=b68aba97-2f08-40c2-a400-0630765f72f4 American Counseling Association] ("Research does not support conversion therapy as an effective treatment modality.... There is potential for harm when clients participate in conversion therapy.")
+
+* [http://www.psych.org/psych_pract/copptherapyaddendum83100.cfm American Psychiatric Association] ("In the last four decades, 'reparative' therapists have not produced any rigorous scientific research to substantiate their claims of cure.  Until there is such research available, APA recommends that ethical practitioners refrain from attempts to change individuals' sexual orientation, keeping in mind the medical dictum to first, do no harm.")
+
+* [http://www.clgs.org/5/5_6_1.html American Academy Of Paediatrics] ("Therapy directed specifically at changing sexual orientation is contraindicated, since it can provoke guilt and anxiety while having little or no potential for achieving changes in orientation.")
+
+* [http://www.apa.org/pi/lgbc/publications/justthefacts.html Joint coalition of health organizations] ("[H]ealth and mental health professional organizations do not support efforts to change young people's sexual orientation through "reparative therapy" and have raised serious concerns about its potential to do harm.)
+
+* [http://www.who.int/classifications/apps/icd/icd10online/?gf60.htm+f66 World Health Organization] (Those with an [[egodystonic sexual orientation]] "may seek treatment in order to change it.")
+
+* [http://www.iglss.org/media/files/Angles_41.pdf The Pseudo-science of Sexual Orientation Conversion Therapy] detailed summary of the case against conversion therapy.
+
+&lt;/div&gt;
+
+[[Category:Ex-gay movement]]
+[[Category:Pseudoscience]]
+[[Category:Sexual orientation and medicine]]
+
+[[bg:Репаративна терапия]]
+[[cs:Léčení homosexuality]]
+[[de:Reparative Therapie]]
+[[es:Terapia de reorientación sexual]]
+[[he:תרפיה רפראטיבית]]
+[[pl:Terapia reparatywna]]
+[[ru:Репаративная терапия]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081113114840|251540152" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="77182" pageid="77182" ns="0" title="Prejudice"><revisions><rev timestamp="2008-11-13T13:05:55Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Refimprove|date=March 2008}}
+{{about|a discrimination concept|legal procedure|Prejudice (law)}}
+[[Image:National Conveniences 1024.jpg|thumbnail|300px|Four-way 18th-century English prejudice]]
+{{Discrimination sidebar}}
+
+The word '''prejudice''' refers to prejudgment: making a decision before becoming aware of the relevant facts of a case or event. The word has commonly been used in certain restricted contexts, in the expression 'racial prejudice'. Initially this is referred to making a judgment about a person based on their race, religion, class, etc., before receiving information relevant to the particular issue on which a judgment was being made; it came, however, to be widely used to refer to any hostile attitude towards people based on their race or even by just judging someone without even knowing them. Subsequently the word has come to be widely so interpreted in this way in contexts other than those relating to race. The meaning now is frequently "any unreasonable attitude that is unusually resistant to rational influence".&lt;ref&gt;Rosnow, Ralph L.; ''Poultry and Prejudice.'' Psychologist Today, (March, 1972): p. 53.&lt;/ref&gt; Race, sex, ethnicity, sexual orientation, age, and religion have a history of inciting prejudicial behaviour.
+
+==Forms of prejudice==
+Bob Farley  classified prejudice into three categories.&lt;ref&gt;Farley, pp. 18-19&lt;/ref&gt; '''Cognitive Prejudice''' refers to what people believe is true. An example of cognitive prejudice might be found, for example, adherence to a particular [[metaphysical]] or [[methodology|methodological]] philosophy to the exclusion of other [[philosophy|philosophies]] that may offer a more complete theoretical explanation. '''Affective Prejudice''' refers to what people like and dislike. An example of affective prejudice might be found, for example, in attitudes toward members of particular [[Social class|classes]] such as [[Race (classification of human beings)|race]], [[Ethnic group|ethnicity]], national origin, or [[creed]]. '''Conative Prejudice''' refers to how people are inclined to behave. Conative prejudice is regarded as an attitude because people don't act on their feelings. An example of conative prejudice might be found in expressions of what should be done if the opportunity presented itself. These three types of prejudice are correlated, but all need not be present in a particular individual. Someone might believe a particular group possesses low levels of [[intelligence]], but harbour no ill feelings toward that group. A group might be disliked because of intense competition for jobs, but still recognize no differences between groups. 
+
+'[[Discrimination]]' is a behavior (an action), with reference to unequal treatment of people because they are members of a particular group. Farley also classified discrimination into three categories.&lt;ref&gt;Farley, p. 16&lt;/ref&gt; '''Personal / Individual Discrimination''' is directed toward a specific individual and refers to any act that leads to unequal treatment because of the individual's real or perceived group membership. '''Legal Discrimination''' refers to "unequal treatment, on the grounds of group membership, that is upheld by law."&lt;ref&gt;Robertson, p. 204&lt;/ref&gt; [[Apartheid]] is an example of legal discrimination, as are also various post-[[Civil war]] laws in the southern [[United States]] that legally disadvantaged [[negro]]s with respect to property rights, employment rights and the exercise of [[constitutional right]]s. '''Institutional Discrimination''' refers to unequal treatment that is entrenched in basic [[Social organisation|social institutions]] resulting in advantaging one group over another. The [[India]]n [[caste system]] is a historical example of institutional discrimination. As with prejudice generally, these three types of discrimination are correlated and may be found to varying degrees in individuals and [[society]] at large. Many forms of discrimination based upon prejudice are outwardly acceptable in most [[Society|societies]].
+
+==Reasons for prejudice==
+Prejudice has been researched extensively and psychologists generally come to a few approaches: arousal, personality, intergroup interaction, and by learning.
+
+===Arousal approach===
+Following the [[psychodynamic]] perspective, some traditional psychologists described prejudice a result of frustration. [[Psychodynamics]] theory assumed that human mind contains [[psychic energy]], which serve as a tool for psychological activities and can only be discharged through [[cathartic]] – the completion of the activities – to maintain equilibrium (Dollard, Doob, Miller, Mowrer, &amp; Sears, 1939). Impediment of dissipation results in frustration, which can only be corrected through aggression. Prejudice is an occasion in which a group of people is frustrated by a stronger group which is too powerful or remote to be aggressed against, thus they displaced the aggressive behaviour onto weaker groups, which serve as a scapegoat. For example, when a boy is scolded by his parent, he may choose to displace the frustration to his weaker sister since he is unable to fight back to his parent.
+Although empirical data generally confirmed a [[correlation]] between frustration and aggression (Hovland &amp; Sears, 1940; Miller &amp; Bugelski, 1948), researches showed neither necessary nor sufficient causal relationship between frustration and aggression. Therefore, critics argue that this theory can only explain limited factors of intergroup aggression. Moreover, this theory has also been criticized on its [[reductionism|reductionist]] approach that explains group behaviour in terms of individual states (Billig, 1976; Brown, 2000; Hogg &amp; Abrams, 1988).
+
+===Personality approach===
+Another classical explanation on prejudice concerns the [[personalities]] which create tendency on prejudice against minorities. Historically, psychologists suggested various personalities contributing to [[discrimination]], including [[authoritarianism]], [[dogmatism]], closed-mindedness, dominant orientation, etc (Adorno, Frenkel-Brunswik, Levinson, &amp; Sanford, 1950; Rokeach, 1948; Pratto, Sidanius, Stallworth, &amp; Malle, 1994). In general, people having these [[personalities]] tend to bias towards their own group and refuse to accept belief-contradicting information, thus remain their [[stereotype]] on the prejudiced group. Concerning the origin of the prejudice [[personalities]], psychologists following the [[psychodynamics]] perspective attribute the cause to excessive harsh and disciplinarian practices in childhood experience (Adorno et al., 1950). However, as the overemphasis on parental influence of [[psychodynamics]] theory has been strongly criticized in the previous century, modern psychologists adopted interracial contact as a more important determinant than childhood experience on shaping people’s prejudice [[traits theory|traits]] (Stephan &amp; Rosenfield, 1978). Personality theory has also been criticized on underemphasizing situational and socio-cultural factors such as the competition of resources between groups, and being unable to explain sudden change in attitude and behaviour.
+
+===Intergroup approach===
+Some social psychologists explain prejudice as the effect of group interaction. According to [[social identity theory]], when we are identified with a group, we show some general characteristics including [[ethnocentrism]], ingroup favoritism, intergroup differentiation and so on, which contribute to prejudice. Tajfel, Billig, Bundy, and Flament (1971) further devised the [[minimal groups paradigm]] to illustrate the necessary condition for group identification, stating that merely categorizing people into group is sufficient to induce the general characteristics. Besides, group interaction would almost inevitably induce intergroup competitions, the [[realistic conflict theory|realistic conflict]] between group could also accentuate the negative [[stereotypes]] on the out-group. 
+Some empirical data disconfirmed the [[minimal groups paradigm]] by showing that social categorization is not sufficient for intergroup behaviour (Grieve &amp; Hogg, 1999). Moreover, since many variables are operating in intergroup studies, this approach has also been criticized on being unable to identify causal relationship between group formation and prejudice due to potential [[confounding]] (Dion, 1979; Turner, 1981).
+
+===Learning approach===
+Learning theories provide a way of understanding how behaviour develops and propagate among generation. Dominant learning theories concerning learning and respond conditioning. &lt;br /&gt;
+Modeling, which is also known as learning by vicarious experience in [[social learning theory]] (Bandura, 1973), refers to learning a behaviour through observing another individual engaging in that behaviour. Since observation is already enough for learning the behaviour, the individual does not need to participate in the behaviour. According this theory, people can acquire prejudiced thinking by merely observing others discriminative behaviour. For example, children may acquire a gender [[stereotype]] by observing their parents treating male and female differently. This effect would be amplified especially when the model is rewarded for the behaviour.&lt;br /&gt;
+People can also learn to prejudice through association learning including [[classical conditioning|classical]] and [[operant conditioning]]. In [[classical conditioning]], instruct with flawed reasoning by presenting an attribute (e.g. greedy) with a specific group (e.g. merchants) repeatedly, people would link up the attribute to the group, resulting in prejudice. [[Operant conditioning]] refers to alteration of behaviour by regulating the consequences following it. [[Reinforcement]] in is a kind of consequence or a procedure that specifically leads to an increase in frequency of the behaviour immediately preceding it. When people gain acceptance from the individual’s [[reference group]] (Kelley, 1952) by discriminating towards another groups or individual, they would then be motivated to continue this [[discrimination]] due to the [[reinforcement]] following it.&lt;br /&gt;
+Although, empirical results often showed significant [[correlation]] between parents’ and child’s [[attitude]], the [[correlations]] were typically low (Connel, 1972), especially after the child grow up. This suggests that learning theory can only explain part of the reason behind prejudice. Moreover, learning theorists suggested prejudice to be learned from others and therefore unable to explain how prejudice emerges from the very beginning.
+
+== Contemporary theories ==
+Contemporary theories of intergroup bias (prejudice) tend to explain intergroup bias in terms of various social psychological motivations (Miles, Mark &amp; Hazel, 2002). They are [[social identity theory]], [[terror management]] and subjective uncertainty reduction theory.
+
+===Social identity theory===
+According to [[social identity theory]] (Tajfel &amp; Turner 1979), a core premise is that social categories (large group such as countries, intermediate groups such as companies, or small group such as departments) provide members with a [[social identity]] which define and evaluate who they are and describe what this entails. [[Social identity]] is that part of the [[self-concept]] that derives from group membership. It is associated with group and intergroup behaviours. For inter-group behaviours, prejudice among groups creates or preserves relatively high in-group status, providing a positive [[social identity]] for in-group members and satisfying their need for positive [[self-esteem]].
+
+Hogg and Abrams (1990) derived two conclusions from this [[self-esteem]] hypothesis: (1) successful intergroup bias enhances [[self-esteem]] and (2) [[Depression (mood)|depressed]] or threatened [[self-esteem]] motivates intergroup bias. [[Meta-analysis]] (Aberson et al. 2000) of over 50 experiments shows that the majority of evidence supports conclusion 1, but there is little evidence for conclusion 2. It needs further studies.
+
+===Terror management theory===
+Solomon, Greenberg and Pyszczynski (1999) in their [[terror management theory]] proposed that people have a need for [[self-preservation]] which is raised and frustrated by their awareness of the inevitability of their own death. To deal with their [[mortality]], people adopt a cultural [[world view]] that imbues subjective reality with stability and permanence and provides standards of value against which judgments of [[self-esteem]] can be made. According to [[Terror management theory]], people evaluate in-group members positively because similar others are assumed to support, and therefore validate, their own cultural world view; in contrast, they evaluate out-group members negatively because dissimilar others are assumed to threaten their world view. There is extensive evidence that people show greater intergroup bias when they are made aware of their own [[mortality]] (Florian &amp; Mikulincer, 1998).
+
+===Subjective uncertainty reduction theory===
+Moreover, Hogg (2000) in his subjective uncertainty reduction theory proposed that people are motivated to reduce subjective uncertainty by identifying with social groups, which provide clear [[Norm (sociology)|normative]] prescriptions for behaviours and thus imbues people with a positive valence. Some evidence shows that manipulations of subjective uncertainty influence levels of both in-group identification and intergroup bias. For example, a positive relationship has been found between the need for closure and both in-group identification and intergroup bias (Shah et al. 1998).
+
+For further interest, reader may refer to introduction to social psychology by Vaughan and Hogg (2005) or Annual Review of Psychology.
+
+==Examples of prejudice in fiction==
+In the book [[To Kill a Mockingbird]] , one of multiple themes  concerns a man wrongly tried and convicted because of his race. The 1997 [[science fiction|science-fiction]] movie ''[[Gattaca]]'' is about a future where genetically-enhanced people are the majority, while a non-genetically enhanced minority are socially and economically discriminated and [[Marginalization|marginalized]] for their "imperfections". A noteworthy example is the Mutant race in the X-Men, which are frequently subjected to prejudice.
+
+==Sociology==
+*[[List of sociologists|Sociologists]] termed prejudice an [[adaptation|adaptive]] behaviour. [[Bias]]ed views might be thought needed at times for survival. There is not always enough time to form a legitimate view about a potential foe before adopting a defensive stance that could save our lives. Prejudice is non-adaptive when it interferes with survival or well-being.
+
+==Common misconceptions==
+At times the terms prejudice and [[stereotype]] are confusing:
+* Prejudices are abstract-general preconceptions or abstract-general attitudes towards any type of situation object or person.
+* [[Stereotype]]s are generalizations of existing characteristics.  These reduce complexity.
+
+== See also ==
+{{Wiktionary}}
+{{wikiversity}}
+*[[Adultism]]
+*[[Allport's scale]]
+*[[Allophilia]]
+*[[Bias]]
+*[[Civil Rights]]
+*[[Discrimination]]
+*[[Heterosexism]]
+*[[Intercultural competence]]
+*[[Intolerance]]
+*[[Judging]]
+*[[Label (sociology)|Labelling]]
+*[[Multi-culturalism]] and [[Multiculturalism|diversity]]
+*[[Persecution]]
+*[[Police Brutality]]
+*[[Political correctness]]
+*[[Racism]]
+*[[Sexism]]
+*[[The Sneetches and Other Stories]] by [[Dr. Seuss]], an [[allegory]] of racism (some readers see parallels to [[anti-Semitism]]) 
+*[[Tolerance]]
+
+==References==
+* Aberson, C. L., Healy, M., &amp; Romero, V. (2000). Ingroup bias and self-esteem: A meta-analysis. Personality and Social Psychology Review, 4, 154-173.
+* Adorno, T. W., Frenkel-Brunswik, E., Levinson, D. J., &amp; Sanford, R. M. (1950). The authoritarian personality. Journal of Social and Personal Relationships, 11, 1177-1196.
+* Bandura, A. (1973). Aggression: Asocial learning analysis. Englewood Cliffs, NJ: Prentice Hall.
+* Billig, M. (1976). Social psychology and intergroup relations. London: Academic Press.
+* Brown, R. J. (2000). Group processes (2nd ed.). Oxford, UK: Blackwell.
+* Connell, R. W. (1972). Political socialization in the American family: The evidence reexamined. Public Opinion Quarterly, 36, 323-333.
+* [[Anthony Daniels (psychiatrist)|Dalrymple, Theodore]] (2007). ''In Praise of Prejudice: The Necessity of Preconceived Ideas'' / ISBN 1594032025
+* Dion, K. L. (1979). Intergroup conflict and intragroup cohesiveness. In W. G. Austin &amp; S. Worchel (Eds.), The social psychology of intergroup relations (pp. 211-224). Monterey, CA: Brooks/Cole.
+* Dollard, J., Doob, L. W., Miller, N. E., Mowrer, O. H. &amp; Sears, R. R. (1939). Frustration and aggression. New Haven, CT: Yale University Press.
+* Farley, John E., ''Majority - Minority Relations (4th Ed.)'', Upper Saddle River, New Jersey: Prentice Hall, ISBN 0-131-44412-3
+* Floriab, V, &amp; Mikulincer, M. (1998). Terror management in childhood: Does death conceptualization moderate the effects of mortality salience on acceptance of similar and different others? Personality and Social Psychology Bulletin, 24, 1104-1112.
+* Grieve, P., &amp; Hogg, M. A. (1999). Subjective uncertainty and intergroup discrimination in the minimal group situation. Personality and Social Psychology Bulletin, 25, 926-940.
+* Hogg, M. A. (2000). Subjective uncertainty reduction through self-categorization: A motivational theory of social identity processes. European Review of Social of Social Psychology, 11, 223-255.
+* Hogg, M. A., &amp; Abrams D. (1988). Social identifications: A social psychology of intergroup relations and group processes. London: Routledge.
+* Hogg, M. A., &amp; Abrams D. (1993). Towards a single-process uncertainty-reduction model of social motivation in groups. In M. A. Hogg &amp; D. Abrams (Eds.), Group motivation: Social Psychological Perspectives (pp. 173-190). London: Harvester Wheatsheaf. 
+* Hovland, C. I., &amp; Sears, R. R. (1940). Minor studies in aggression: VI. Correlation of lynchings with economic indices. Journal of Psychology, 9, 301-310.
+* Jack Levin and William Levin, ''The Functions Of Discrimination and Prejudice'' (2nd Ed.), Harper &amp; Row, Publishers, Inc., ISBN 0-060-43964-5
+* Kelley, H.H. (1952). Two functions of reference groups. In G.E. Swanson, T.M. Newcomb, &amp; E.L. * Hartley (Eds.), Readings in social psychology (2nd ed., pp.410-414). New York: Holt, Rinehart &amp; Winston.
+* Miles, H., Mark, R., &amp; Hazel, W. (2002). Intergroup bias. Annual Review Psychology. 53, 575-604.
+* Miller, N. E., &amp; Bugelski, R. (1948). Minor studies in aggression: The influence of frustrations imposed by the ingroup on attitudes toward outgroups. Journal of Psychology, 25, 437-442.
+* Pratto, F., Sidanius, J., Stallworth, L. M., &amp; Malle, B. F. (1994). Social dominance orientation: A personality variable predicting social and political attitudes. Journal of Personality and Social Psychology, 67, 741-763.
+* Robertson, Ian, ''Society: A Brief Introduction'', New York: Worth Publishing, 1989, ISBN 0-879-01415-6
+* Rokeach, M. (1948). Generalized mental rigidity as a factor in ethnocentrism. Journal of Cross-Cultural Psychology, 15, 111-138.
+* Shah, J. Y., Kruglanski, A. W., &amp; Thompson, E. P. (1998). Membership has its (epistemic) rewards: Need for closure effects on in-group bias. Journal of Personality and Social Psychology, 75, 383–393.
+* Solomon, S., Greenberg, J., &amp; Pyszczynski, T. (1991). A terror management theory of social behaviour: The psychological functions of self-esteem and cultural worldviews. In M. Zanna (Ed.), Advances in Experimental Social Psychology (Vol. 24, pp. 93-159). San Diego, CA: Academic Press.
+* Stephan, W. G., Rosenfield, D. (1978). Effects of desegregation on racial attitudes. Journal of Personality and Social Psychology, 36, 795-804.
+* Tajfel, H., Billig, M., Bundy, R. P., &amp; Flament, C. (1971). Social categorization and intergroup behaviour. European Journal of Social Psychology, 1, 149-177.
+* Tajfel, H., &amp; Turner, J. C. (1979). An integrative theory of intergroup conflict. In W. G. Austin &amp; S. Worchel (Eds.), The Social Psychology of Intergroup Relations (pp. 33-47). Monterey, CA: Brooks/Cole.
+* Turner, J. C. (1981). The experimental social psychology of intergroup behaviour. In J. C. Turner &amp; H. Giles (Eds.), Intergroup behaviour (pp. 66-101). Oxford: Blackwell.
+* Vaughan, G. M., &amp; Hogg, H. A. (2005). Introduction to social psychology (4th ed.). French Forest NSW, Australia: Pearson Education.
+
+{{reflist}}
+
+==External links==
+*[http://www.delmar.edu/socsci/rlong/race/far-02.htm Prejudice: Its Forms and Causes] from [http://www.delmar.edu/ Del Mar College], Corpus Christi, Texas
+*[http://psychology.ucdavis.edu/rainbow/HTML/sexual_prejudice.html Sexual Prejudice - Understanding Homophobia and Heterosexism] from [http://psychology.ucdavis.edu/ U.C. Davis Psychology Department]
+* [http://www.in-mind.org/issue-4/the-double-edged-passion.html Summary of social psychology research on prejudice, with references]
+* [http://www.in-mind.org/issue-5/are-stereotypes-true.html Are Stereotypes True?]
+* [http://greatergood.berkeley.edu/greatergood/2008summer/index.html Are We Born Racist? Essays on the psychological roots of bias and strategies for overcoming prejudice] from the [http://greatergood.berkeley.edu Greater Good Science Center at UC Berkeley]
+
+{{Discrimination}}
+
+[[Category:Discrimination]]
+[[Category:Prejudice]]
+
+[[ar:تحامل]]
+[[bg:Предразсъдък]]
+[[ca:Prejudici]]
+[[co:Preghjudiziu]]
+[[cy:Rhagfarn]]
+[[da:Fordom]]
+[[de:Vorurteil]]
+[[et:Eelarvamus]]
+[[el:Προκατάληψη]]
+[[es:Prejuicio]]
+[[fr:Préjugé]]
+[[id:Prasangka]]
+[[it:Pregiudizio]]
+[[he:דעה קדומה]]
+[[lv:Aizspriedums]]
+[[lt:Prietaras]]
+[[hu:Előítélet]]
+[[nl:Vooroordeel]]
+[[ja:偏見]]
+[[no:Fordom]]
+[[pl:Uprzedzenie]]
+[[pt:Preconceito]]
+[[ru:Предрассудок]]
+[[simple:Prejudice]]
+[[sr:Предрасуде]]
+[[fi:Ennakkoluulo]]
+[[sv:Fördom]]
+[[uk:Упередження]]
+[[vec:Pregiudisio]]</rev></revisions></page></pages></query></api>

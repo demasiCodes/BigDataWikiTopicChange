@@ -1,0 +1,23 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051026005128|26488809" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2005-10-26T01:16:36Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">:''For other senses of this word, see [[bias (disambiguation)]].''
+:''For Wikipedia's policy on avoiding bias, see [[Wikipedia:Neutral point of view]].''
+
+A '''bias''' is a [[prejudice]] in a general or specific sense, usually in the sense for having a predilection to one particular [[point of view]] or [[ideology]].  One is said to be ''biased'' if one is influenced by one's biases. A bias could, for example, lead one to accept or not-accept the [[truth]] of a [[claim]], not because of the strength of the claim itself, but because it does or does not correspond to one's own preconceived [[idea]]s. 
+
+For example, having an Americo-centric point of view (that is, the point of view of an [[The Americas|America]]n, in particular one from the [[United States|US]]) is a bias, as is having a particular point of view of any other country.
+
+In practice, accusations of bias can also result from unacknowledged bias on the part of the ''critic''. If a critic takes their own preexisting view as ''[[a priori]]'' balanced without acknowledging their own potential biases, any person or organization that disagrees with it is automatically viewed as biased ''regardless'' of that person or organization's actual efforts at balance. This is particularly common in discussion of media outlets such as [[CNN]], [[Fox News Channel]], ''[[The New York Times]]'', ''[[The Globe and Mail]]'', the ''[[National Post]]'', etc. (For example, [[Bill O'Reilly (commentator)|Bill O'Reilly]] has made accusations of [[liberal]] bias against the staunchly [[conservative]] ''Globe and Mail'', while people that disagree with O'Reilly accuse him of bias.) Note that this does ''not'' necessarily mean that these media outlets don't have identifiable biases, but only that when evaluating claims of bias, one should always take the political viewpoint of the critic into account as well. (See also [[objectivity (journalism)|objectivity]].)
+
+A [[systematic bias]] is a bias resulting from some [[system]].
+
+Everyone has bias. The important thing is whether one realizes it and tries to minimize its negative impact.
+
+==See also==
+*[[Neutral]]
+*[[Scholarly method]]
+
+[[Category:Prejudices]]
+
+[[da:Bias]]
+[[it:Pregiudizio]]
+[[simple:Bias]]
+[[sv:Bias]]</rev></revisions></page></pages></query></api>

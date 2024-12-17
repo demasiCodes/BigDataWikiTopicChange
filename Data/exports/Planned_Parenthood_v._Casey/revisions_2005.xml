@@ -1,0 +1,116 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051101185408|27092252" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="171811" pageid="171811" ns="0" title="Planned Parenthood v. Casey"><revisions><rev timestamp="2005-11-01T18:59:20Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{| cellpadding="2" cellspacing="0" border="1" align="right" style="margin-left: 0.5em" width=300px
+|- 
+! bgcolor="6699FF" | '''''Planned Parenthood v. Casey'''''
+|-
+| align="center" | [[Image:Seal of the United States Supreme Court.gif|100px]]&lt;br /&gt;
+'''Supreme Court of the United States'''
+|-
+! bgcolor="6699FF" | Argued April 22, 1992 &lt;br /&gt;
+Decided June 29, 1992
+|- 
+|
+{| align="center"
+|- 
+| valign="top"|&lt;small&gt;Full case name:
+| valign="top"|&lt;small&gt;Planned Parenthood of Southeastern Pennsylvania, et al. v. Robert P. Casey, et al.
+|- 
+| valign="top"|&lt;small&gt;Citations:
+| valign="top"|&lt;small&gt;505 U.S. 833; 112 S. Ct. 2791; 120 L. Ed. 2d 674; 1992 U.S. LEXIS 4751; 60 U.S.L.W. 4795; 92 Daily Journal DAR 8982; 6 Fla. L. Weekly Fed. S 663
+|- 
+| valign="top"|&lt;small&gt;Prior history:
+| valign="top"|&lt;small&gt;Judgment and injunction for plaintiffs, 686 F. Supp. 1089 (E.D. Pa. 1988); injunction clarified, 736 F.Supp. 633 (E.D. Pa. 1990); judgment and injunction granted for plaintiffs, 744 F.Supp. 1323 (E.D. Pa. 1990) (regarding 1988 amendments to 1982 Act); affirmed in part and reversed in part, 947 F. 2d 682 (3rd Cir. 1991); certiorari granted 502 U.S. 1056 (1992)
+|-
+| valign="top"|&lt;small&gt;Subsequent history:
+| valign="top"|&lt;small&gt;Remanded, 978 F.2d 74 (2nd Cir. 1992); motion to disqualify judge denied, 812 F. Supp. 541 (E.D. Pa. 1993); record reopened and injunctions continued, 822 F. Supp. 227 (E.D. Pa. 1993); reversed and remanded, 14 F.3d 848 (3rd Cir. 1994); stay denied, 510 U.S. 1309 (1994); attorney fees and costs awarded to plaintiffs, 869 F. Supp. 1190 (E.D. Pa. 1994); affirmed, 60 F.3d 816 (3rd Cir. 1995)
+|}
+|- 
+! bgcolor="6699FF" | '''Holding'''
+|-
+| A Pennsylvania law that required spousal notification prior to obtaining an abortion was invalid under the Fourteenth Amendment because it created an undue burden on married women seeking an abortion.  Parental notification, informed consent, and 24-hour waiting period were constitutionally valid regulations.  Judgment of Third Circuit affirmed in part and reversed in part.
+|- 
+! bgcolor="6699FF" | '''Court membership'''
+|- 
+|
+{| align="center"
+|- 
+| '''Chief Justice''' William Rehnquist
+|- 
+| '''Associate Justices''' Byron White, Harry Blackmun, John Paul Stevens, Sandra Day O'Connor, Antonin Scalia, Anthony Kennedy, David Souter, Clarence Thomas
+|}
+|-
+! bgcolor="6699FF" | '''Case opinions'''
+|- 
+|
+{| align="center"
+|- 
+| '''Plurality by:''' O'Connor, Kennedy, Souter (jointly)
+|-
+| '''Concurrence/dissent by:''' Stevens
+|-
+| '''Concurrence/dissent by:''' Blackmun
+|- 
+| '''Concurrence/dissent by:''' Rehnquist
+|- 
+| Joined by: White, Scalia, Thomas
+|-
+| '''Concurrence/dissent by:''' Scalia
+|- 
+| Joined by: Rehnquist, White, Thomas
+|}
+|-
+! bgcolor="6699FF" | '''Laws applied'''
+|-
+| U.S. Const. Amend. I, XIV; 18 Pa. Cons. Stat. §§ 3203, 3205-09, 3214 (Pennsylvania Abortion Control Act of 1982)
+|}
+'''''Planned Parenthood of Southeastern Pennsylvania v. Casey''''', [[Court citation|505 U.S. 833]] ([[1992]]) was a case decided by the [[Supreme Court of the United States]] in which the constitutionality of several [[Pennsylvania]] [[U.S. state|state]] regulations regarding [[abortion]] was challenged.  The Court's lead plurality opinion upheld the right to have an abortion but lowered the standard for analyzing restrictions of that right, invalidating one regulation but upholding the others.
+
+== Background of the case ==
+Four provisions of the Pennsylvania Abortion Control Act of 1982 were being challenged as unconstitutional under ''[[Roe v. Wade]]'', which first recognized a constitutional right to have an abortion in the liberty protected by the [[due process#Substantive Due Process|Due Process Clause]] of the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]].  The "informed consent" rule under the Act required doctors to provide women with information about the health risks and possible complications of having an abortion before one could be performed.  The "spousal notification" rule required women to give prior notice to their husbands, and the "parental notification" rule required the same of minors to their parents.  The fourth provision imposed a 24-hour waiting period before obtaining an abortion.  When the case came before the Court on review, Pennsylvania defended the Act in part by urging the Court to overturn ''Roe'' as having been wrongly decided.
+
+The case was a seminal one in the history of abortion rights in the United States, as it was the first direct challenge of ''Roe'' since the liberal [[Associate Justice of the Supreme Court of the United States|Justice]] [[William Brennan|Brennan]] was replaced in [[1990]] with the [[George Herbert Walker Bush|Bush]]-appointed and ostensibly conservative Justice [[David Souter|Souter]]. Furthermore, Justice [[Thurgood Marshall]] had recently been replaced on the Court with the appointment of [[Clarence Thomas]], leaving the Court with eight Republican-appointed justices - five of whom appointed by Presidents [[Ronald Reagan|Reagan]] and Bush, both of whom had campaigned as abortion opponents. Finally, the only remaining Democratic appointee - Justice [[Byron White]] - had been one of the two dissenters from the original ''Roe'' decision. At this point, only three of the Justices were obvious supporters of ''[[Roe v. Wade]]'': [[Harry Blackmun|Blackmun]], the author of ''Roe''; [[John Paul Stevens|Stevens]], who had long since established a liberal reputation; and [[O'Connor]], who had declared her support for ''Roe'' in her concurrence in ''[[Webster v. Reproductive Health Services]]''.
+
+Given these circumstances, even most pro choice advocates expected ''Roe'' to be overruled and were gearing up for a subsequent State-by-State campaign against particular laws.  However, Justices Kennedy and Souter defied expectations and voted to uphold the constitutional right to have an abortion, preserving the precarious 5-4 Court vote in favor (which became a wider 6-3 majority when Justice White retired and was replaced by staunch abortion rights advocate [[Ruth Bader Ginsburg]] in 1993), though still changing the Court's abortion rights [[jurisprudence]].
+
+===The District Court's ruling===
+The plaintiffs were five abortion clinics and a [[class action]] of physicians who provide abortion services, in addition to one physician representing himself independently.  They filed suit in the [[U.S. District Court for the Eastern District of Pennsylvania]] to [[injunction|enjoin]] the state from enforcing the four provisions and have them [[declaratory judgment|declared]] facially unconstitutional.  The District Court, after a three-day bench trial, held that all the provisions were unconstitutional and entered a permanent injunction against Pennsylvania's enforcement of them.  
+
+===The Third Circuit Court of Appeals decision===
+The Court of Appeals for the Third Circuit affirmed in part and reversed in part, upholding all of the regulations except for the husband notification requirement.  Future Supreme Court nominee, Judge [[Samuel Alito]], sat on that three-judge appellate panel and dissented from the court's invalidation of that requirement.
+
+===The Supreme Court's consideration===
+At conference on Casey, Justice [[Anthony Kennedy]] originally voted with Justices [[Clarence Thomas]], [[Antonin Scalia]], [[Byron White]] and Chief Justice [[William Rehnquist]] to uphold all of the Pennsylvania abortion regulations. However, Kennedy changed his vote at the last minute and joined with fellow Reagan-Bush justices [[Sandra Day O'Connor]] and [[David Souter]] to form a plurality that would uphold ''Roe''.
+
+== The Court's opinions ==
+
+''Casey'' is a divided judgment, in that none of the Justices' opinions was joined by a majority of justices.  However, the plurality decision jointly written by Justices Souter, [[Sandra Day O'Connor|O'Connor]], and [[Anthony Kennedy|Kennedy]] is recognized as the lead opinion with [[precedent]]ial weight because each of its parts were concurred in by at least two other Justices, albeit different ones for each part.
+
+Justices [[Harry Blackmun|Blackmun]] and [[John Paul Stevens|Stevens]] concurred with the parts of the Court's decision that upheld ''Roe'' and invalidated one of the Pennsylvania regulations.  On the other side, [[Chief Justice of the United States|Chief Justice]] [[William Rehnquist|Rehnquist]] and Justice [[Antonin Scalia|Scalia]] each wrote opinions concurring in the parts of the Court's decisions that weakened ''Roe'' and upheld abortion regulations and dissented from the rest.  Both Rehnquist and Scalia joined each other's concurrence/dissent, and Justices [[Byron White|White]] and [[Clarence Thomas|Thomas]] joined both.
+
+=== The O'Connor, Kennedy and Souter plurality opinion ===
+
+Though the plurality opinion stated that it was upholding what it called the "essential holding" of ''Roe'', it did not leave it intact.  The Court emphasized the right to abortion as "grounded in the general sense of liberty" under the Fourteenth Amendment, rather than recognizing a general [[right to privacy]] that had been implied in previous cases.
+
+However, the Court overturned the strict [[trimester]] formula used in ''Roe'' to weigh the woman's interest in obtaining an abortion against the State's interest in the life of the fetus.  Continuing advancements in medical technology meant that at the time ''Casey'' was decided, a fetus might be considered viable at 22 or 23 weeks rather than at the 28 weeks that was more common at the time of ''Roe''.  The Court recognized viability as the point at which the State interest in the life of the fetus outweighs the rights of the woman and abortion may be banned entirely.
+
+The Court also replaced the heightened scrutiny of abortion regulations under ''Roe'', which was standard for fundamental rights in the Court's case law, with a lesser "undue burden" standard previously unknown in the Court's case law.  A legal restriction posing an undue burden was defined as one having "the purpose or effect of placing a substantial obstacle in the path of a woman seeking an abortion of a nonviable fetus."
+
+Applying this new standard to the Pennsylvania Act under challenge, the Court struck the spousal notification requirement, stating that it gave too much power to husbands over their wives and would worsen situations of spousal abuse.  The Court upheld the State's 24 hour waiting period, informed consent, and parental notification requirements, holding that none constituted an undue burden.
+
+==See also==
+
+* ''[[Roe v. Wade]]'', [[Court citation|410 U.S. 113]] ([[1973]])
+* ''[[Griswold v. Connecticut]]'', [[Court citation|381 U.S. 479]] ([[1965]])
+* ''[[Doe v. Bolton]]'', [[Court citation|410 U.S. 179]] (1973)
+* ''[[Webster v. Reproductive Health Services]]'', [[Court citation|492 U.S. 490]] ([[1989]])
+* [[Sex-related court cases in the United States]]
+
+==External link==
+
+* [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&amp;vol=505&amp;invol=833 FindLaw: PLANNED PARENTHOOD OF SOUTHEASTERN PA. v. CASEY, 505 U.S. 833 (1992)]
+
+[[Category:United States Supreme Court cases]]
+[[Category:Substantive due process cases]]
+[[Category:United States abortion rights case law]]
+[[Category:1992 in law]]
+[[Category:United States First Amendment case law]]
+[[Category:United States Fourteenth Amendment case law]]</rev></revisions></page></pages></query></api>

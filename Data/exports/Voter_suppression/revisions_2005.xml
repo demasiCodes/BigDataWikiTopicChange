@@ -1,0 +1,35 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051013034351|25405447" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1125781" pageid="1125781" ns="0" title="Voter suppression"><revisions><rev timestamp="2005-11-02T01:56:19Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{PoliticalCampaigns}}
+
+'''Voter suppression''' refers to the devious use of governmental power, political campaign strategy, and resources aimed at suppressing (i.e. reducing) the total vote of opposition candidacies instead of attempting to change likely voting behavior by changing the opinions of potential voters. 
+
+==Voter suppression by governmental power==
+In the [[United States]], voter suppression was used extensively in some [[U.S. Southern states|Southern state]]s until the [[Voting Rights Act]] ([[1965]]) made most disenfranchisement and voting qualifications illegal.  Traditional voter suppression tactics included the institution of poll taxes and literacy tests, aimed at suppressing the votes of African Americans and working class white voters.  
+
+Measures in place in seven U.S. states ban released [[felony|felon]]s from voting; some allege that this is a tactic aimed at suppressing voter turnout.  Occasionally, as in [[Florida]] in the [[U.S. presidential election, 2000|2000 presidential election]], some non-felons are banned due to [[Florida Central Voter File|record-keeping errors]] and are not warned of their disqualification before they have the right to contest it.  
+
+In the [[U.S. presidential election, 2004|U.S. presidential election of 2004]], Ohio officials allegedly mis-allocated voting machines to reduce Democratic turnout. (With too few voting machines per registered voter, people in heavily Democratic districts had to wait in line for hours. Republican districts received many more voting machines per capita.) [http://copperas.com/machinery/|source]
+
+==Voter suppression by campaign organizations==
+
+In the [[2002 New Hampshire Senate election phone jamming scandal]], Republican officials attempted to reduce the number of Democratic voters by paying professional telemarketers in Idaho to make repeated hang-up calls to block Democrats' ride-to-the-polls phone lines on election day. [http://www.usdoj.gov/opa/pr/2004/December/04_crm_768.htm|source]
+
+In the [[U.S. presidential election, 2004|U.S. presidential election of 2004]], a wide range of voter-suppression tactics have been alleged. Republican-funded groups misrepresenting themselves as non-partisan voter registration drives worked to reduce registration by Democrats in several states [http://www.salon.com/news/feature/2004/10/21/sproul/index.html|source]. 
+
+==Voter suppression by unknown activists==
+
+In the [[U.S. presidential election, 2004|U.S. presidential election of 2004]], some voters got phone calls with false information intended to keep them from voting--saying that their voting place had been changed or that voting would take place on Wednesday as well as on Tuesday.
+
+==Voter suppression distinct from other campaign tactics==
+
+Unlike [[negative campaigning]], which ordinarily seeks reduce the likelihood of someone voting for a candidate through disparaging arguments directed at a candidate, voter suppression prevents people from voting altogether. Thus if as in the [[U.S. presidential election, 1964|U.S. presidential election of 1964]] in the United States the [[Lyndon Johnson]] campaign depicted [[Barry Goldwater]] as a right-wing extremist, such a depiction, however accurate, does not constitute voter suppression. Negative campaigning is a legitimate practice in politics against a candidate who has a questionable record, has little political experience, has undesirable or suspect affiliations, or takes unpopular stances; even if the smears of a negative campaign go so far as [[slander]] or [[libel]] they attempt to change opinions as they might be expressed in voting behavior. 
+
+Neither does it include dirty tricks against an opposition campaign such as those that the [[Richard Nixon]] campaign used against several Democratic opponents in the [[ U.S. presidential election of 1972|1972 presidential election]]. Such dirty tricks can change the course of a campaign, but they might not keep people from voting. Also excluded are such blatant forms of [[vote fraud]] as bribery or intimidation of electors, or manipulation of voting results by tampering with the voting devices, paraphernalia, or tabulating machines with the result of falsifying, undercounting, or otherwise misrepresenting the vote. '''Voter suppression''' implies an effort to keep persons who wish to vote from voting through discriminatory behavior for the purpose of ensuring that a preferred side wins an election. 
+
+
+
+==See also==
+*[[Electoral fraud]]
+*[[Political corruption]]
+*[[Voter turnout]]
+
+[[Category:Campaigning]]</rev></revisions></page></pages></query></api>

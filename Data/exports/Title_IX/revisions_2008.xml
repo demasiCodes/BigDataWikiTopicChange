@@ -1,0 +1,121 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081114193219|251823186" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="96908" pageid="96908" ns="0" title="Title IX"><revisions><rev timestamp="2008-11-14T19:34:56Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Title IX of the Education Amendments of 1972''', now known as the '''Patsy T. Mink Equal Opportunity in Education Act''' in honor of its principal author, but more commonly known simply as '''Title IX''', is a [[United States]] law enacted on [[June 23]], [[1972]] that states: "No person in the United States shall on the basis of sex, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance."&lt;ref&gt;{{UnitedStatesCode|20|1681}}&lt;/ref&gt; 
+Although the most prominent "public face" of Title IX is its impact on high school and collegiate athletics, the original statute made no reference to athletics.&lt;ref&gt;Carpenter, Linda Jean; &amp; Acosta, R. Vivian (2005). ''Title IX.'' Champaign, IL: Human Kinetics. ISBN 0-7360-4239-3.&lt;/ref&gt;
+
+==Applicability and compliance==
+The legislation covers all educational activities, and complaints under Title IX alleging discrimination in fields such as science or math education, or in other aspects of academic life such as access to health care and dormitory facilities, are not unheard of.  It also applies to non-sport activities such as school bands, cheerleaders, and clubs; however, [[fraternities and sororities|social fraternities and sororities]], gender-specific youth clubs such as [[Girl Scouts of the USA|Girl Scouts]] and [[Boy Scouts of America|Boy Scouts]], and [[Boys State|Girls State and Boys State]] are specifically exempt from Title IX requirements.
+Title IX is administered by the Office of Civil Rights in the U.S. Department of Education (OCR).&lt;ref&gt;http://www.ed.gov/about/offices/list/om/fs_po/ocr/dels.html Retrieved 2008-09-05.&lt;/ref&gt;  It applies to an entire school or institution if any part of that school receives federal funds.  (Hence, athletic programs are subject to Title IX, even though there are very little direct federal funding of school sports.)&lt;ref&gt;34 C.F.R. §106.2&lt;/ref&gt;  The regulations implementing Title IX require all institutions receiving federal funds to conduct self-evaluations of whether they offer equal opportunities based on gender&lt;ref&gt;34 C.F.R. §106.3&lt;/ref&gt; and to provide written assurances to the Dept. of Education that the institution is in compliance for the period that the federally funded equipment or facilities remain in use.&lt;ref&gt;34 C.F.R. §106.4&lt;/ref&gt;
+
+With respect to athletic programs, the Dept. of Education evaluates the following factors in determining whether equal treatment exists:&lt;ref&gt;34 C.F.R. §106.41(e)&lt;/ref&gt;
+&lt;blockquote&gt;
+(1) Whether the selection of sports and levels of competition effectively accommodate the interests and abilities of members of both sexes;
+
+(2) The provision of equipment and supplies;
+
+(3) Scheduling of games and practice time;
+
+(4) Travel and per diem allowance;
+
+(5) Opportunity to receive coaching and academic tutoring;
+
+(6) Assignment and compensation of coaches and tutors;
+
+(7) Provision of locker rooms, practice and competitive facilities;
+
+(8) Provision of medical and training facilities and services;
+
+(9) Provision of housing and dining facilities and services;
+
+(10) Publicity.
+
+Unequal aggregate expenditures for members of each sex or unequal expenditures for male and female teams if a recipient operates or sponsors separate teams will not constitute noncompliance with this section, but the Assistant Secretary [of Education for Civil Rights] may consider the failure to provide necessary funds for teams for one sex in assessing equality of opportunity for members of each sex.&lt;/blockquote&gt;
+
+On November 24, 2006, the Department of Education OCR regulations were amended to provide greater flexibility in the operation of single-sex classes or extracurricular activities at the primary or secondary school level.&lt;ref&gt;http://www.ed.gov/legislation/FedRegister/finrule/2006-4/102506a.html Retrieved 2008-09-05.&lt;/ref&gt;
+===Three-prong test of compliance===
+In 1979, the U.S. [[Department of Health, Education, and Welfare]] under Jimmy Carter's administration issued a policy interpretation for Title IX, including what has become known as the "three-prong test" of an institution's compliance.&lt;ref&gt;[http://www.ed.gov/about/offices/list/ocr/docs/t9interp.html Title IX 1979 Policy Interpretation on Intercollegiate Athletics]&lt;/ref&gt;&lt;ref&gt;IX:http://findarticles.com/p/articles/mi_m1568/is_10_31/ai_59580155&lt;/ref&gt;&lt;ref name = "cato3731"&gt;[http://www.cato.org/pub_display.php?pub_id=3731 What Women Want]&lt;/ref&gt;
+#Prong one - Providing athletic opportunities that are substantially proportionate to the student enrollment, OR
+#Prong two - Demonstrate a continual expansion of athletic opportunities for the underrepresented sex, OR
+#Prong three - Full and effective accommodation of the interest and ability of underrepresented sex.
+
+A recipient of federal funds can demonstrate compliance with Title IX by meeting any one of the three prongs. About two-thirds of the 132 cases before OCR involving this three prong test, have relied on the third prong to show compliance.&lt;ref name=OCRletter&gt;http://www.ed.gov/about/offices/list/ocr/docs/title9guidanceadditional.html Retrieved 2008-09-05.&lt;/ref&gt;
+
+[[Image:patsymink.jpg|thumb|200px|Congresswoman [[Patsy T. Mink]] wrote the law as an outgrowth of adversities she faced in obtaining her college degrees at the [[University of Hawaii|University of Hawai{{okina}}i]], [[University of Nebraska]] and [[University of Chicago]].]]
+
+Since its inception, this "three-prong test" of Title IX has been highly controversial in its interpretation and enforcement, and there is dissent over how best to analyze its effectiveness in achieving its intended purpose, which is to eliminate discrimination on the basis of sex in federally funded educational institutions.  Critics of the three-prong test contend that it operates as a "quota" in that it places undue emphasis on the first prong (known as the "proportionality" prong) and fails to take into account the sexs' differing levels of interest in participating in athletics, such that this interpretation of Title IX actually operates to discriminate against men.  Defenders of the three-prong test counter that the sexes' differing athletic interest levels is merely a product of past discrimination, and that Title IX should be interpreted to maximize female participation in athletics irrespective of any existing disparity in interest.  Thus while defenders argue that the three-prong test embodies the maxim that "opportunity drives interest," critics argue that the three-prong test goes beyond Title IX original purpose of preventing discrimination, and instead amounts to an exercise in governmentally-mandated social engineering whereby athletic opportunities are taken away from male students and given to female students, despite the comparatively lower interest levels of those female students.
+
+===Implementation and litigation===
+Since the advent of Title IX, schools have been increasingly threatened with discrimination lawsuits.&lt;ref name = "cato3731"/&gt; In 1992, the U.S. Supreme Court held in ''Franklin v Gwinnett County Public Schools''&lt;ref&gt;[http://www.law.cornell.edu/supct/html/historics/USSC_CR_0503_0060_ZS.html 503 U.S. 60 (1992)]&lt;/ref&gt;  that schools which failed to comply with Title IX could be sued for compensatory and punitive damages.
+
+Although not subject to Title IX, a few non-school-based sports leagues have opened competition to men and women in the same events, such as [[equestrianism|equestrian]] competitions, [[auto racing]], [[sailing]], a few [[golf]] tournaments, and [[inline skating]] under the so-called "[[Fabiola rule]]", named for [[Fabiola da Silva]].&lt;ref&gt;[http://espn.go.com/sexiestathletes/fabiola_desilva.html]&lt;/ref&gt;
+
+In one specific instance, Title IX was instrumental in a court case involving [[Louisiana State University]].  In 1996, a federal court referenced Title IX in ruling that LSU violated the civil rights of female athletes with "arrogant ignorance" of their needs.  Since this ruling, LSU has made changes in its athletic programs to achieve compliance.&lt;ref&gt;{{cite web |url=http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DA1039F930A25752C0A960958260 |title=SPORTS PEOPLE: COLLEGE SPORTS;Bias Found at L.S.U. In Title IX Ruling |work=New York Times |author=Associated Press |date=1996}}&lt;/ref&gt;
+
+In an "unusual" case, Title IX played a key role in a school's decision to upgrade its football program from Division I FCS (formerly I-AA) to Division I FBS (formerly I-A). The [[Western Kentucky University]] Board of Regents approved this move in November 2006, to take effect in 2009.&lt;ref&gt;{{cite web|url=http://wku.edu/news/releases06/november/football.html|publisher=Western Kentucky University|title=WKU Regents Approve Move To Division 1-A (''sic'') Football|date=2006-11-02|accessdate=2006-11-03}}&lt;/ref&gt; At the time of the vote, WKU was out of Title IX compliance because it offered approximately 20 too few scholarships for ''men''; moving its football program to the FBS level would add 22 men's scholarships.&lt;ref&gt;{{cite web|url=http://www.kentucky.com/mld/kentucky/sports/15682246.htm|author=Bailey, Rick|title=State College Notebook: Toppers' switch to I-A probable|publisher=''[[Lexington Herald-Leader]]''|date=2006-10-05|accessdate=2006-10-06}}&lt;/ref&gt;
+
+==Commission on Opportunity in Athletics==
+On June 27, 2002 Secretary of Education Rod Paige announced the creation of the Commission on Opportunity in Athletics (COA), a blue-ribbon panel to examine ways to strengthen enforcement and expand opportunities to ensure fairness for all college athletes.  The purpose of the Commission was to collect information, analyze issues, and obtain broad public input directed at improving the application of Federal standards for measuring equal opportunity for men and women and boys and girls to participate in athletics under Title IX. 
+
+Co-chairs for the COA were [[Cynthia Cooper (basketball)|Cynthia Cooper]] and Ted Leland.  Cynthia Cooper is a former [[WNBA]] MVP, as a player for the [[Houston Comets]], former head coach of the WNBA's [[Phoenix Mercury]], and a member of the 1988 and 1992 Olympic women's basketball teams.  Leland is the Athletic Director at Stanford University.  Other members were: [[Percy Bates]], [[University of Michigan]] professor and director of programs for educational opportunities; [[Bob Bowlsby]], [[University of Iowa]] athletic director; Gene DFilippo Jr.,[[Boston College]] athletic director; [[Donna de Varona]], [[Olympic gold medal]] swimmer; broadcaster; [[Julie Foudy]], president of the [[Women's Sports Foundation]]; U.S. national women's soccer team captain; [[Thomas Griffith]], [[Brigham Young University]] general counsel; [[Gary Groth]], [[Northern Illinois University]] athletic director; [[Lisa Graham Keegan]], chief executive officer of Education Leaders Council; [[Muffet McGraw]], [[University of Notre Dame]] women's basketball coach; Rita J. Simon], [[American University]] professor and founder and president of the Women's Freedom Network; [[Mike Slive]], [[Southeastern Conference]] commissioner; [[Graham Spanier]], [[Penn State University]] president; and Debbie Yow, [[University of Maryland, College Park|University of Maryland]] athletic director.
+
+Four town hall meetings were held in Atlanta, Chicago, Colorado Springs, and San Diego to allow the general public to comment on the past, present, and future of Title IX.  On February 26, 2003 the COA issued its final report.&lt;ref&gt;http://www.ed.gov/about/bdscomm/list/athletics/report.html COA Report Text&lt;/ref&gt;  The COA provided twenty-three recommendations to the Secretary of Education.  Although many of the recommendations were unanimous, some of the more controversial ones passed by an 8-5 vote.  These dealt with considering non-scholarship athletes in prong one of the three-part test for compliance and allowing interest surveys to determine compliance with prong three.  On the same day, Secretary of Education Rod Paige announced he would only consider the unanimous recommendations, which provided that the Department of Education (1) reaffirm its strong commitment to equal opportunity for girls and boys, women and men; (2) aggressively enforce Title IX in a uniform way across the nation; (3) give equal weight to all three prongs of the test governing Title IX compliance; and (4) encourage schools to understand that the Department of Education disapproves of cutting teams in order to comply with Title IX.&lt;ref&gt;http://www.ed.gov/news/pressreleases/2003/02/02262003a.html Retrieved 2008-09-05.&lt;/ref&gt;
+
+==Clarification of Prong Three==
+On March 17, 2005, OCR announced a clarification of prong three of the three-part test of Title IX compliance.  Prong three specifies the institution is in compliance if "the school is fully and effectively accommodating the interests and abilities of the underrepresented sex."  The clarification issued guidance on using web-based surveys to determine the level of interest in varsity athletics among the under-represented sex.&lt;ref&gt;http://www.ed.gov/about/offices/list/ocr/docs/title9guidanceadditional.html Retrieved 2008-09.05.&lt;/ref&gt; The clarification drew criticism.&lt;ref name = "cato3731"/&gt;
+
+==Impact==
+The enactment of Title IX has helped increase participation opportunities for girls and women in sports. Female high school athletic participation has increased by 904% and female collegiate athletic participation has increased by 456%.&lt;ref&gt;{{cite web |url=http://www.WomensSportsFoundation.org/Issues-And-Research/Title-IX.aspx |title=Title IX|work=Women's Sports Foundation |accessdate=2008-09-05}}&lt;/ref&gt;  An analysis of NCAA data shows that since the passage of Title IX, participation opportunites for collegiate female athletes of color have increased 955% (2,137 in 1971 to 22,541 participants in 2000).&lt;ref&gt;{{cite web |url=http://www.WomensSportsFoundation.org/Content/Research-Reports/Title-IX-and-Race-in-Intercollegiate-Sport.aspx |title=Title IX and Race in Intercollegiate Sport|work=Women's Sports Foundation |accessdate=2008-09-05}}&lt;/ref&gt; 
+
+A 2008 study of intercollegiate athletics showed that women's collegiate sports has grown to 9,101 teams, or 8.65 per school. The five most frequently offered college sports for women are, in order: (1) Basketball, 98.8% of schools have a team, (2) Volleyball, 95.7%, (3)Soccer, 92.0%, (4) Cross Country, 90.8%, and (5) Softball, 89.2%.&lt;ref&gt;{{cite web |url=http://webpages.charter.net/womeninsport/2008%20Summary%20Final.pdf |title=Women in Intercollegiate Sport, a Longitudinal National Study |date=2008}}&lt;/ref&gt;
+ 
+Because Title IX only addresses public and private schools which receive federal funding, several states have enacted similar laws to prohibit discrimination in athletic opportunities based on gender (regardless of federal funding.)  The states are:&lt;ref&gt;{{cite web |url=http://www.WomensSportsFoundation.org/Content/Articles/Issues/Title-IX/S/State-Title-IX-Laws.aspx |title=State Title IX Laws|work=Women's Sports Foundation |accessdate=2008-09-05}}&lt;/ref&gt;
+* Alaska
+* California
+* Florida
+* Georgia
+* Hawaii
+* Illinois
+* Iowa
+* Maine
+* Minnesota
+* Nebraska
+* New Jersey
+* New York
+* Rhode Island
+* South Dakota
+* Washington
+* Wisconsin
+
+Title IX has caused much controversy, with some groups claiming that it has caused some schools to spend less money on non-revenue-generating men's sports programs such as [[collegiate wrestling|wrestling]], [[cross country running|cross country]], [[swimming]], [[gymnastics]], [[fencing (sport)|fencing]] and [[volleyball]]. This means that at large, NCAA [[Division I]] schools, compliance with the first prong reduces opportunities for men to participate in non-revenue sports when the schools emphasize football and other money making male sports. 
+
+Supporters of Title IX point to statistics (from a [[General Accounting Office|GAO]] study)&lt;ref name=GAO&gt;[http://www.gao.gov/docdblite/summary.php?rptno=GAO-01-297&amp;accno=164560 ''Intercollegiate Athletics: Four-Year Colleges' Experiences Adding and Discontinuing Teams'', GAO-01-291], [[March 28]], [[2001]]&lt;/ref&gt; that indicate male collegiate sport participation has increased since the inception of Title IX, and that so-called "non-revenue" sports were being eliminated even before Title IX. 
+
+However, the same GAO study shows that, while male participation in sports rose 5% between 1981 and 1998, male enrollment during those years rose almost 19%.  The number of men's sports teams available per male student has declined 21% over that time.  Teams such as tennis, track and field, and swimming have decreased for men, while women's teams have increased. Although there are now more teams available to women than to men, the total number of male participants still significantly outnumbers the number of female participants; in 1998-99 there were 232,000 males participating in college athletics and 163,000 females.&lt;ref name=GAO/&gt;
+
+==Renaming==
+The law was renamed as the Patsy T. Mink Equal Opportunity in Education Act on [[October 29]], [[2002]], upon the death of the law's principal author, Congresswoman [[Patsy T. Mink]].  It was also written by [[Edith Green]].
+
+==See also==
+*[[Gender equality]]
+*''[[Gracie (film)]]'' (2007)
+*Title IX of the [[Civil Rights Act of 1964]]
+
+==Notes==
+{{Reflist}}
+
+==External links==
+* [http://www.aftau.org/site/News2?page=NewsArticle&amp;id=6859 Want boys to do better in school? Bring in the girls new study suggests]
+* [http://www.usdoj.gov/crt/cor/coord/titleixstat.htm Text of Title IX]
+* [http://www.titleix.info TitleIX.info], proponents of Title IX.
+* [http://www.ncwge.org/PDF/TitleIXat35.pdf ''Title IX at 35: Beyond the Headlines''], report by the National Coalition of Women and Girls in Education
+* [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=367840 "The Case for Requiring a Proportionality Test to Assess Compliance with Title IX in High School Athletics"], [http://law.niu.edu/law/organizations/law_review/index.shtml ''Northern Illinois University Law Review''], vol. 23, No. 1 (fall 2002)
+* [http://webpages.charter.net/womeninsport 29-year long longitudinal study], tracking the status of women and collegiate sport.
+* [http://www.nytimes.com/2007/01/14/nyregion/14title.html Equal Cheers for Boys and Girls Draws Some Boos]
+* [http://www.ed.gov/about/bdscomm/list/athletics/report.html Secretary of Educations Commission on Opportunity. Title IX is another word for title opportunity in Athletics final report]
+* [http://www.ed.gov/about/offices/list/ocr/docs/title9guidanceadditional.html Additional Clarification of Intercollegiate Athletics Policy: Three-Part Test ― Part Three]
+*[http://www.aauw.org/advocacy/laf/lafnetwork/library/athleticStatistics.cfm Title IX and Athletic Statistics]
+
+[[Category:Intercollegiate athletics in the United States]]
+[[Category:Sports law]]
+[[Category:United States federal civil rights legislation]]
+[[Category:United States federal education legislation]]
+
+[[id:Title IX]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,194 @@
+<?xml version="1.0"?><api><continue rvcontinue="20101102195857|394438640" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1125781" pageid="1125781" ns="0" title="Voter suppression"><revisions><rev timestamp="2010-11-04T17:18:22Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{POV|date=February 2009}}
+{{globalize/USA}}
+
+'''Voter suppression''' is a strategy to influence the outcome of an election by discouraging or preventing people from exercising their [[Suffrage|right to vote]]. It is distinguished from [[political campaigning]] in that campaigning attempts to change likely voting behavior by changing the opinions of potential voters through persuasion and organization. Voter suppression instead attempts to reduce the number of voters who might vote against the candidate or proposition advocated by the suppressors. 
+
+The tactics of voter suppression can range from minor "dirty tricks" that make voting inconvenient, up to blatantly illegal activities that physically intimidate prospective voters to prevent them from casting ballots. Voter suppression could be particularly effective if a significant amount of voters are intimidated individually because the voter might not consider his or her single vote important.{{Citation needed|date=July 2009}} 
+
+==Methods of voter suppression==
+===Photo ID laws===
+{{POV-section|date=July 2009}}
+
+Photo ID laws require voters to present a government-approved photo ID before they may cast their ballots. [[Belgium]]&lt;ref&gt; http://polsci.umass.edu/uploads/profiles/sites/schaffer_frederic_c/Files/Vol3_2-SchafferWang_HLPR.pdf &lt;/ref&gt;, [[Spain]]&lt;ref&gt; http://polsci.umass.edu/uploads/profiles/sites/schaffer_frederic_c/Files/Vol3_2-SchafferWang_HLPR.pdf &lt;/ref&gt;, [[Greece]]&lt;ref&gt;http://polsci.umass.edu/uploads/profiles/sites/schaffer_frederic_c/Files/Vol3_2-SchafferWang_HLPR.pdf &lt;/ref&gt;, [[Italy]]&lt;ref&gt;http://polsci.umass.edu/uploads/profiles/sites/schaffer_frederic_c/Files/Vol3_2-SchafferWang_HLPR.pdf&lt;/ref&gt;, [[Malta]]&lt;ref&gt;http://polsci.umass.edu/uploads/profiles/sites/schaffer_frederic_c/Files/Vol3_2-SchafferWang_HLPR.pdf&lt;/ref&gt;, and seven US states have such laws, including Indiana and Georgia.&lt;ref name="dallasnews.com"&gt;{{cite news|title=Texas Senate sharply debates voter ID bill|date=March 11, 2009|first=Terrence|last=Stutz|work= The Dallas Morning News |url=http://www.dallasnews.com/sharedcontent/dws/news/texassouthwest/stories/DN-voterid_11tex.ART0.State.Edition2.4ac6919.html}}&lt;/ref&gt;
+
+Supporters of photo ID laws contend that the photographic IDs (such as driver's licenses or student IDs from state schools) are nearly universal, and that presenting them is a minor inconvenience when weighed against the possibility of ineligible voters affecting elections. Opponents argue that photo ID requirements disproportionately affect minority and elderly voters who don't normally maintain driver's licenses, and therefore that requiring such groups to obtain and keep track of photo IDs that are otherwise unneeded is a suppression tactic aimed at those groups.
+
+Indiana's photo ID law barred twelve retired nuns in [[South Bend, Indiana]] from voting in that state's [[Democratic Party (United States) presidential primaries, 2008|2008 Democratic primary]] election. The women lacked the photo IDs required under a state law that was upheld by the U.S. Supreme Court in April 2008. John Borkowski, a South Bend lawyer volunteering as an election watchdog for the [[Lawyers' Committee for Civil Rights Under Law|Lawyers Committee for Civil Rights]] Under Law, said, "This law was passed supposedly to prevent and deter voter fraud, even though there was no real record of serious voter fraud in Indiana."&lt;ref&gt;{{cite news|title=Retired nuns barred from voting in Indiana|date=May 7, 2008|publisher=McClatchy Newspapers|url=http://www.guardian.co.uk/world/2008/may/07/uselections2008.usa | location=London | accessdate=May 27, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Voting Rights? Nun for You!|author=Editorial|work=New York Times|date=May 6, 2008|url=http://theboard.blogs.nytimes.com/2008/05/06/voting-rights-nun-for-you/}}&lt;/ref&gt;
+
+Proponents of a similar law proposed for Texas In March 2009 also argued that [[photo identification]] was necessary to prevent widespread voter fraud. Opponents claim there is no evidence of such voter fraud in Texas, so no remedy is required, especially if such a remedy would decrease voting by [[Old age|senior citizens]], the disabled, and lower-income residents. Opponents cited a study asserting that 1 million of the state's 13.5 million registered voters do not have a photo ID.&lt;ref name="dallasnews.com"/&gt;
+
+State Sen. Troy Fraser (R-Horseshoe Bay) said, "Voter fraud not only is alive and well in the U.S., but also alive and well in Texas. The danger of voter fraud threatens the integrity of the entire electoral process."  Democratic Caucus Chairwoman Leticia Van de Putte (D-San Antonio) said the proposed law "is not about voter fraud. There is no voter fraud. This is about voter suppression." Texas Attorney General [[Greg Abbott]] (R) spent $1.4 million investigating voter fraud but did not report any cases where a person tried to impersonate an eligible voter at a polling place—arguably the only kind of fraud that photo ID laws would prevent.&lt;ref name="dallasnews.com"/&gt;
+
+===Purging voter rolls===
+In 2008, more than 50,000 registered Georgia voters were removed from the roll of eligible voters because of a computer mismatch in their personal identification information, leading registrars to conclude that they were no longer eligible Georgia voters at their registered addresses. At least 4,500 of those people must prove their citizenship to regain their right to vote, but opponents say that could be an impossible burden to meet. For example, the [[Georgia (U.S. state)|state of Georgia]] gave college senior Kyla Berry one week to prove her citizenship in a letter dated October 2, 2008. Unfortunately, the letter was postmarked October 9, 2008. However, Berry is a U.S. citizen, born in Boston, Massachusetts with a passport and a birth certificate to prove it. Commenting on Berry's case and those like it, Wendy Weiser, an elections expert with New York University's Brennan Center for Justice, said, "What most people don't know is that every year, elections officials strike millions of names from the voter rolls using processes that are secret, prone to error and vulnerable to manipulation."&lt;ref&gt;{{cite news|title=Some voters 'purged' from voter rolls|first1=Abbie |last1=Boudreau |first2= Scott |last2=Bronstein|date=October 26, 2008|publisher=CNN|url=http://edition.cnn.com/2008/POLITICS/10/26/voter.suppression/index.html}}&lt;/ref&gt;
+
+===Jim Crow laws===
+{{Main|Jim Crow laws}}
+In the [[United States]], voter suppression was used extensively by conservatives in most [[U.S. Southern states|Southern state]]s until the [[Voting Rights Act]] ([[1965]]) made most disenfranchisement and voting qualifications illegal. Traditional voter suppression tactics included the institution of [[poll tax]]es and [[literacy test]]s, aimed at suppressing the votes of [[African American]]s and working class white voters.&lt;ref&gt;[http://www.umich.edu/~lawrace/disenfranchise1.htm Techniques of Direct Disenfranchisement, 1880-1965], [[University of Michigan]]&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://greely.msad51.org/Pages/MSAD51_GHSEnglish/Deborah_Pinkham/English9HSupplementaryMaterials/CreatingJimCrow.pdf|format=pdf|title=Creating Jim Crow: In-Depth Essay|first=Ronald L. F. |last=Davis|publisher=The History of Jim Crow}}&lt;/ref&gt;
+
+===Ex-Felon disenfranchisement===
+In 2004, 5.3 million Americans were denied the right to vote because of previous felony convictions. Thirteen states permanently disenfranchise convicted felons; eighteen states restore voting rights after completion of prison, parole, and probation; four states re-enfranchise felons after they have been released from prison and have completed parole; thirteen allow felons who have been released from prison to vote, and two states do not disenfranchise felons at all.&lt;ref&gt;{{cite web|url=http://www.sentencingproject.org/doc/publications/fd_bs_fdlawsinus.pdf |format=pdf| title=Felony Disenfranchisement Laws in the United States |publisher=[[Sentencing Project]]|date= July 2005}}&lt;/ref&gt; Some states require ex-felons to complete a process to restore voting rights, but offender advocates say such processes can be very difficult.
+
+The United States is the only democracy in the world that regularly bans large numbers of felons from voting after they have discharged their sentences. Many countries including Denmark, France, Germany, Israel, Japan, Kenya, Norway, Peru, Sweden, and Zimbabwe allow prisoners to vote (unless convicted of crimes against the electoral system).&lt;ref name="reform"&gt;
+[http://www.reformelections.org/feature.asp?menuid={2C21F24C-F920-4FAE-81E2-715512C100BA} Restoration of Voting Rights Q&amp;A], ReformElections.org&lt;/ref&gt;
+Some countries, notably the U.K., disfranchise people for only as long as they are in prison.
+
+In [[Florida]] during the [[U.S. presidential election, 2000|2000 presidential election]], some non-felons were banned due to [[Florida Central Voter File|record-keeping errors]] and not warned of their disqualification until the deadline for contesting it had passed.
+
+This form of vote suppression in the United States disproportionately affects minorities including African-Americans and Latinos.&lt;ref name="reform"/&gt; Disenfranchisement of felons and ex-felons may be considered a form of the medieval practice of [[civil death]].&lt;ref&gt;{{cite news| url=http://opinionator.blogs.nytimes.com/2010/07/29/voting-behind-bars/ | work=The New York Times | title=Voting Behind Bars | first=Linda | last=Greenhouse | date=July 29, 2010}}&lt;/ref&gt;
+
+===Partisan election administration===
+While the majority of the world's democracies use independent agents to manage elections, 33 of 50 state election directors in the United States are themselves elected partisans. Those party affiliations can create [[Conflict of interest|conflicts of interest]], or at least the appearance thereof, while directing elections. Florida Secretary of State [[Katherine Harris]] served as state co-chair of the Bush-Cheney campaign during the 2000 presidential election, and [[Ohio Secretary of State]] [[Ken Blackwell]] served as his state's Bush-Cheney co-chair during the [[2004 presidential election]].&lt;ref name="overton"&gt;{{cite book |title=Stealing Democracy |last=Overton |first=Spencer |year=2006 |publisher=W. W. Norton |isbn=0393061590 |url=http://www.stealingdemocracy.com |page=224 }}&lt;/ref&gt;
+
+===Inequality in Election Day resources===
+Elections in the United States are funded at the local level, often unequally. In the 2004 elections, Wyoming spent $2.15 per voter while California spent $3.99 per voter. In contrast, Canada spends $9.51 per voter. Underfunded election areas can result in long lines at polling places, requiring some voters either to wait hours to cast a ballot or to forgo their right to vote in that election. Voters who cannot wait the required amount of time are therefore disenfranchised, while voters in well-funded areas with sufficient voting capacity may face minimal or no waiting time.
+
+Delays at polling places are is widely regarded as being a greater problem in urban areas.&lt;ref name="overton"/&gt;&lt;ref&gt;{{cite news|url=http://www.washingtonpost.com/wp-dyn/articles/A64737-2004Dec14.html|title=Several Factors Contributed to 'Lost' Voters in Ohio|first1=Michael |last1=Powell |first2=Peter |last2=Slevin|work=Washington Post |date=December 15, 2004 |page =A01}} In 2004, the Franklin County board of elections (Columbus, Ohio) determined they needed 5,000 voting machines, but decided to move machines from urban areas to suburban areas and conduct the election using only 2,866 machines. On Election Day 2004, Tanya Thivener waited four hours in line to vote in Columbus, Ohio. Tanya's mother waited just 15 minutes to vote in a Columbus suburb.&lt;/ref&gt;
+
+===Caging lists===
+{{Main|caging list}}
+Caging lists have been used by political parties to eliminate potential voters registered with other political parties.  A political party sends [[registered mail]] to addresses of registered voters. If the mail is returned as undeliverable, the mailing organization uses that fact to challenge the registration, arguing that because the voter could not be reached at the address, the registration is fraudulent.&lt;ref name="mtstandard.com"&gt;{{cite news|title=Republicans crossed line with voter purge attempt|first= John |last=Bohlinger |work=The Montana Standard|date= October 5, 2008|url=http://www.mtstandard.com/articles/2008/10/05/opinion/hjjbijjejjigfj.txt}}&lt;/ref&gt;
+
+==Examples of voter suppression in the United States==
+===2002 New Hampshire Senate election phone jamming scandal===
+In the [[2002 New Hampshire Senate election phone jamming scandal]], Republican officials attempted to reduce the number of Democratic voters by paying professional telemarketers in Idaho to make repeated hang-up calls to the telephone numbers used by the Democratic Party's ride-to-the-polls phone lines on election day. By tying up the lines, voters seeking rides from the Democratic Party would have more difficulty reaching the party to ask for transportation to and from their polling places.&lt;ref name="dojjamming"&gt;{{cite press release
+  | title =Former RNC New England Regional Director Indicted in New Hampshire Phone Jamming Case
+  | publisher = US DOJ
+  | date =2004-12-01
+  | url =http://www.usdoj.gov/opa/pr/2004/December/04_crm_768.htm
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;&lt;ref name="jammerconvict"&gt;{{cite news
+  | title =Former GOP Official Gets Prison Term for Phone Plot
+  | publisher =AP
+  | date =2006-05-17
+  | url =http://www.foxnews.com/story/0,2933,195914,00.html
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;
+
+===2004 presidential election===
+In the [[U.S. presidential election, 2004|U.S. presidential election of 2004]], some voters got phone calls with false information intended to keep them from voting&amp;mdash;saying that their voting place had been changed or that voting would take place on Wednesday as well as on Tuesday. Voters who believed this misinformation would go to the wrong polling place, or worse, not attempt to vote until after the election had ended.&lt;ref name="acvr"&gt;{{cite news
+  | title =Ohio Election Activities and Observations
+  | date=March 21, 2005
+  | format=pdf
+  | page=22
+  | publisher =American Ctr for Voting Rights
+  | url =http://www.nytimes.com/packages/pdf/national/ohio_electionreport.1.pdf
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;
+
+Other allegations surfaced in several states that the group called [[Voters Outreach of America]] had collected and submitted Republican [[voter registration]] forms while inappropriately discarding voter registration forms where the new voter had chosen to register with the Democratic Party. Such people would believe they had registered to vote, and would only discover on election day that they were not registered and could not cast a ballot.&lt;ref&gt;{{cite news
+  |url=http://www.klas-tv.com/Global/story.asp?S=2421595&amp;nav=168XRvNe
+  |title=Investigation into Trashed Voter Registrations
+  |date=2004-10-13
+  |publisher=KLAS-TV
+  |first=George |last=Knapp
+}}&lt;/ref&gt;&lt;ref&gt;
+{{cite news
+  |url=http://edition.cnn.com/2004/ALLPOLITICS/10/14/nevada.registration/index.html
+  |title=Nevada investigates voter registration, Probe also under way in Oregon on fraud allegations
+  |date=2004-10-14
+  |publisher=[[CNN]]
+  |author=
+| accessdate=May 27, 2010
+}}&lt;/ref&gt;&lt;ref&gt;
+{{cite news
+  |url=http://www.cbsnews.com/stories/2004/10/14/politics/main649380.shtml
+  |title=Voter Fraud Charges Out West
+  |date=2004-10-14
+  |publisher=[[CBS News]]
+  |author=David Paul Kuhn 
+}}&lt;/ref&gt;&lt;ref&gt;
+{{cite news
+  |url=http://www.post-gazette.com/pg/04294/398767.stm
+  |title=Campaign 2004: Voter registration workers cry foul
+  |date=2004-10-20
+  |publisher=[[Pittsburgh Post-Gazette]]
+  |author=[[Dennis B. Roddy]]
+}}&lt;/ref&gt;.
+
+Michigan Republican state legislator John Pappageorge was quoted as saying, "If we do not suppress the Detroit vote, we're going to have a tough time in this election."&lt;ref&gt;
+{{cite news
+  |url=http://www.msnbc.msn.com/id/6242175/
+  |title=Voter suppression charges on the rise
+  |date=2004-10-13
+  |publisher=[[MSNBC]]
+  |author=Chip Reid
+}}&lt;/ref&gt;.
+
+In [[2006]], four employees of the [[John Kerry]] campaign were convicted of slashing the tires of 25 vans rented by the [[Wisconsin]] state [[Republican Party (United States)|Republican Party]] which were to be used for driving Republican monitors to the polls. At the campaign workers' sentencing, Judge Michael B. Brennan told the defendants, "Voter suppression has no place in our country. Your crime took away that right to vote for some citizens."&lt;ref name="slashcharged"&gt;{{cite news 
+  | last =Ehlke
+  | first =Gretchen
+  | title =Congresswoman's son, four others charged with slashing Republican van tires on Election Day
+  | publisher =AP
+  | date =2005-01-24
+  | url =http://web.archive.org/web/20050829020422/http://sfgate.com/cgi-bin/article.cgi?f=/news/a/2005/01/24/national1242EST0521.DTL
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;&lt;ref name="slashconvicted"&gt;{{cite news 
+  | last =Ehlke
+  | first =Gretchen
+  | title =Men Get Jail Time In Milwaukee Tire-Slashing Case
+  | publisher =AP
+  | date =2006-04-26
+  | url =http://web.archive.org/web/20060503003521/http://wfrv.com/topstories/local_story_116123954.html
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;
+
+===2006 Virginia Senate election===
+During the [[United States Senate election in Virginia, 2006]], Secretary of the Virginia State Board of Elections Jean Jensen concluded that incidents of voter suppression appeared widespread and deliberate. Documented incidents of voter suppression include:&lt;ref&gt;{{cite news 
+  | title =Sec. of Virginia State Board of Elections Finds Widespread Incidents of Voter Suppression
+  | publisher =American Chronicle
+  | date =2006-11-06
+  | url =http://www.americanchronicle.com/articles/16105
+  | accessdate = 2008-09-07 }}&lt;/ref&gt;
+*Democratic voters receiving calls incorrectly informing them voting will lead to arrest.
+*Widespread calls fraudulently claiming to be "[Democratic Senate candidate Jim] Webb Volunteers," falsely telling voters their voting location had changed.
+*Fliers paid for by the [[Republican Party (United States)|Republican Party]], stating "SKIP THIS ELECTION" that allegedly attempted to suppress African-American turnout.
+The FBI has since launched an investigation into the suppression attempts.&lt;ref&gt;{{cite news  | title = FBI launches probe of Virginia pre-election calls
+  | publisher =[[CNN]]
+  | date =2006-11-07
+  | url =http://www.cnn.com/2006/POLITICS/11/07/deceptivecalls.va/
+  | accessdate = 2008-09-07 }}&lt;/ref&gt;
+Despite the allegations, democrat [[Jim Webb]] narrowly defeated incumbent George Allen.
+
+===2008 presidential election===
+A review of states' records by [[The New York Times]] found unlawful actions leading to widespread voter purges.&lt;ref&gt;{{cite news|title=States’ Actions to Block Voters Appear Illegal |first=Ian|last=Urbina|url=http://www.nytimes.com/2008/10/09/us/politics/09voting.html|date=October 9, 2008|page=A01|work=New York Times}}&lt;/ref&gt;
+
+A dispute between the [[Social Security Administration]] commissioner and the [[National Association of Secretaries of State]] about the use of the [[Social Security (United States)|Social Security]] database to test the validity of voters led to the shutdown of the database over the [[Columbus Day]] holiday weekend.&lt;ref&gt;{{cite news|title=Voter Registrations Spark Testy Exchange|first=Brad|last=Haynes|work=Wall Street Journal|date=October 10, 2008|url=http://blogs.wsj.com/washwire/2008/10/10/voter-registrations-spark-testy-exchange/}}&lt;/ref&gt;
+
+====Georgia====
+Wait times of between 2 and 10 hours were reported during [[early voting]] at multiple Georgia locations&lt;ref name="politicalticker.blogs.cnn.com"&gt;{{cite news| url=http://politicalticker.blogs.cnn.com/category/voter-problems/ | work=CNN | title=Voter Problems &amp;ndash; CNN Political Ticker - CNN.com Blogs | accessdate=May 27, 2010}}&lt;/ref&gt;
+
+====Michigan====
+Prior to the [[2008 United States Presidential Election]], in September 16, 2008, Obama legal counsel announced that they would be seeking an injunction to stop an alleged caging scheme in Michigan wherein the state Republican party would use home foreclosure lists to challenge voters still using their foreclosed home as a primary address at the polls.&lt;ref&gt;{{cite web|date=September 16, 2008|title=Obama Camp, DNC File Lawsuit Against Michigan GOP|first= Kyle |last=Trygstad |publisher=Time|url=http://time-blog.com/real_clear_politics/2008/09/obama_dnc_file_lawsuit.html}}&lt;/ref&gt; Michigan GOP officials called the suit "desperate."&lt;ref&gt;{{cite news|title=Michigan GOP: Obama Camp Suit “Desperate”|first=Mark|last=Halperin|date=September 16, 2008|publisher=Time|url=http://thepage.time.com/2008/09/16/michigan-gop-obama-camp-suit-desperate/}}&lt;/ref&gt;
+A Federal Appeals court ordered the reinstatement of 5,500 voters wrongly purged from the voter rolls by the State:&lt;ref name="politicalticker.blogs.cnn.com"/&gt;
+
+====Minnesota====
+The conservative nonprofit Minnesota Majority has been reported as making phone calls claiming that the [[Minnesota Secretary of State]] had concerns about the validity of the voters registration. Their actions have been referred to the [[Ramsey County]] attorney's office and the [[United States Attorney|U.S. Attorney]] are looking into Johnson's complaint.
+&lt;ref&gt;{{cite news|title=Callers question registered Minnesota voters' eligibility|first=Kevin|last=Duchschere|date=October 29, 2008|work=Star Tribune|url=http://www.startribune.com/politics/33551514.html}}&lt;/ref&gt;
+
+====Montana====
+On October 5, 2008 the Republican Lt. Governor of Montana, [[John Bohlinger]], accused the Montana Republican Party of vote caging to purge 6,000 voters from three counties which trend Democratic.  These purges included decorated war veterans and [[active duty]] soldiers.&lt;ref name="mtstandard.com"/&gt;
+
+====Ohio====
+Wait times of six hours were reported for early voting in Franklin County leading to people leaving the line without voting.&lt;ref name="politicalticker.blogs.cnn.com"/&gt;
+ 
+====Wisconsin====
+The Republican Party attempted to have all 60,000 voters in the heavily Democratic city of Milwaukee who had registered since 1/1/2006 deleted from the voter rolls. The requests were rejected by the Milwaukee Election Commission with Republican commissioner Bob Spindell voting in favor of deletion."&lt;ref&gt;Associated Press reported in [[Green Bay Press-Gazette|Green Bay Press Gazette]] 10/10/2008&lt;/ref&gt;
+
+==See also==
+*[[Electoral fraud]]
+*[[Caging list]]
+*[[American Center for Voting Rights]]
+*[[Political corruption]]
+*[[Voter turnout]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://blog.wired.com/27bstroke6/2008/10/had-problems-vo.html Problems Voting in the 2008 General Election? Report Your Issue Here]
+* [http://www.votersuppression.net/ Voter Suppression Wiki]
+* [http://www.pbs.org/now/shows/348/index.html NOW on PBS interview reviewing the likelihood and forms of Voter Suppression liely in 2008]
+* [http://www.ac4vr.com/reports/072005/default.html Vote Fraud, Intimidation &amp; Suppression In The 2004 Presidential Election] 
+* [http://www.ac4vr.com/ American Center For Voting Rights], August 2, 2005, report.
+* [http://blackprof.com/stealingd.html Stealing democracy] Spencer Overton, Stealing Democracy, June 5, 2006
+
+{{DEFAULTSORT:Voter Suppression}}
+[[Category:Political campaign techniques]]
+[[Category:Political corruption]]
+[[Category:Election fraud]]</rev></revisions></page></pages></query></api>

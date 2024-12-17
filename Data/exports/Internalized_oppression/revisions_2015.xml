@@ -1,0 +1,8 @@
+<?xml version="1.0"?><api><continue rvcontinue="20151021124124|686804914" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1298951" pageid="1298951" ns="0" title="Internalized oppression"><revisions><rev timestamp="2015-10-22T16:23:34Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{unreferenced|date=October 2015}}
+In [[sociology]] and [[psychology]], '''internalized oppression''' is the manner in which an oppressed group comes to use against itself the methods of the oppressor. For example, sometimes members of marginalized groups hold an oppressive view toward their own group, or start to believe in negative stereotypes of themselves.
+
+For example, [[internalized racism]] is when blacks believe the stereotypes of blacks are true. Some blacks believe that they are less intelligent, less capable dancers, or academically inferior to whites. Any minority group can [[Internalisation (sociology)|internalize]] prejudice.
+
+{{psych-stub}}
+
+[[Category:Psychological abuse]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?><api><continue rvcontinue="20121109075559|522142533" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2012-11-13T16:32:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{about|different ways the term "bias" is used}}
+
+'''Bias''' is an inclination to present or hold a partial perspective at the expense of (possibly equally valid) alternatives.  Anything biased generally is one-sided, and therefore lacks a neutral point of view.  Bias can come in many forms and is often considered to be synonymous with [[prejudice]] or [[bigotry]].
+
+==In statistics==
+{{main|Bias (statistics)}}
+
+==In judgment and decision making==
+{{main|Cognitive bias}}
+
+A cognitive bias is the human tendency to make systematic decisions in certain circumstances based on [[cognitive]] factors rather than evidence. Bias arises from various processes that are sometimes difficult to distinguish. These processes include information-processing shortcuts, motivational factors, and social influence.&lt;ref&gt;Wilcox, C. W. (2011) Bias: The Unconscious Deceiver. Bloomington, IN: Xlibris Corporation.&lt;/ref&gt; Such biases can result from information-processing shortcuts called ''[[heuristics]]''. They include errors in judgment, [[social attribution]], and memory. Cognitive biases are a common outcome of human thought, and often drastically skew the reliability of [[Anecdotal evidence|anecdotal]] and [[Evidence (law)|legal evidence]]. It is a phenomenon studied in [[cognitive science]] and [[social psychology]]. A cognitive bias also has the tendency to make systematic decisions in certain situations.
+
+==In the media==
+{{main|Media bias}}
+
+Media bias is the bias of [[journalist]]s and [[news producer]]s within the [[mass media]], in the selection of which events and stories are reported and how they are covered.  The term "media bias" implies a pervasive or widespread bias contravening [[Journalism ethics and standards|the standards of journalism]], rather than the perspective of an individual journalist or article. The direction and degree of media bias in various countries is widely disputed.
+
+Practical limitations to media neutrality include the inability of journalists to report all available stories and facts, and the requirement that selected facts be linked into a coherent narrative (Newton 1989).  Since it is impossible to report everything, selectivity is inevitable. [[Government]] influence, including overt and covert [[censorship]], biases the media in some countries. Market forces that result in a biased presentation include the [[ownership]] of the news source, [[concentration of media ownership]], the selection of [[Employment|staff]], the [[preference]]s of an intended [[audience]], and pressure from [[advertiser]]s.
+
+Political bias has been a feature of the mass media since its birth with the invention of the [[printing press]]. The expense of early printing equipment restricted media production to a limited number of people. Historians have found that publishers often served the interests of powerful social groups.&lt;ref&gt;Ann Heinrichs, ''The Printing Press (Inventions That Shaped the World)'', p. 53, Franklin Watts, 2005, ISBN 0-531-16722-4, ISBN 978-0-531-16722-9&lt;/ref&gt; 
+
+==Other aspects==
+* Economic: when people/government interpret a law/contract in their favor for economic reasons.
+* [[Inductive bias]] in machine learning.
+* [[Cultural bias]]: Interpreting and judging phenomena in terms particular to one's own culture.
+* [[Racism]], [[regionalism (politics)|regionalism]] and [[tribalism]]: Judging people or phenomena associated with people based on the race/ethnicity, region of origin, or tribe of the people, rather than based on more objective criteria.
+* [[Sexism]]: Judging based on gender, rather than on more objective criteria.
+* [[Sensationalism|Sensationalist]]: Favouring the exceptional over the ordinary. However this sentence structure makes is sound like an appeal to popularity or normalcy fallacy. This is actually a more complex problem, whereby, the proponent elevates the importance of the evidence to more subjects than it is relevant. This is accomplished by willful bias, assumption or, putting conclusion ahead of evidence. In practice, this includes emphasizing, distorting, or fabricating exceptional news stories to boost popularity.
+* [[Funding bias]] in scientific studies also known as the [[agent-principle dilemma]].
+* [[Medical bias]] is also known as a physician having a [[conflict of interest]].&lt;ref&gt;Cain, D.M. and Detsky, A.S. [http://jama.ama-assn.org/cgi/content/extract/299/24/2893  Everyone's a Little Bit Biased (Even Physicians)] ''JAMA'' 2008;299(24):2893-289.&lt;/ref&gt;
+
+==See also==
+{{Portal|Psychology}}
+* [[Detection theory]]
+* [[Experimenter's bias]]
+* [[Impartiality]]
+* [[List of biases in judgment and decision making]]
+* [[Prejudice]]
+* [[Scholarly method]]
+* [[Social desirability bias]]
+* [[Source criticism]]
+* [[Weasel word]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+{{Wiktionary}}
+
+{{Biases}}
+
+[[Category:Bias| ]]
+
+[[ar:انحياز]]
+[[da:Bias (psykologi)]]
+[[es:Sesgo]]
+[[fa:سوگیری]]
+[[fr:Biais (distorsion)]]
+[[he:נטאי]]
+[[la:Propensio animi]]
+[[no:Bias]]
+[[km:ភាពលំអៀង]]
+[[pt:Viés]]
+[[simple:Bias]]
+[[sr:Биас]]
+[[sv:Metodfel]]
+[[ta:பக்கசார்பு]]
+[[zh:比阿 (洛特-加龙省)]]</rev></revisions></page></pages></query></api>

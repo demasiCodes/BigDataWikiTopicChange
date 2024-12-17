@@ -1,0 +1,72 @@
+<?xml version="1.0"?><api><continue rvcontinue="20031021150239|1601755" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2003-10-21T15:03:35Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">[[es:sesgo]]
+'''''Bias''''' has several different meanings, most relating to an offset of some sort.
+
+== Viewpoint ==
+
+A '''bias''' is a [[prejudice]] in a general or specific sense, usually in the sense for having a predilection to one particular view or ideology. One is said to be biased if one is influenced by one's biases. A bias could for example lead one to accept or non-accept the truth of a claim, not because of the strength of the claim itself, but because it does or does not correspond to one's own preconceived ideas.
+
+An example of bias is having an Americo-centric point of view (the point of view of an [[The Americas|America]]n, in particular one from the [[US]]), or similar for another country.
+
+Systematic bias is also possible in news coverage and may be detected through empirical analysis.  For an example, see the statistical findings reported in "Reporting a New Delhi Bias? A Content Analysis of AP Wire Stories on the Conflicts in Sri Lanka and Kashmir," by [[John Hickman]] and [[Sarah Bartlett]], in [[Jouvert]]: A Journal of Post-Colonial Studies, Volume 6, Number 3 (Spring 2002) at http://social.chass.ncsu.edu/jouvert/v613/sri.htm ).  
+
+A '''systematic bias''' is a bias resulting from some system. For example, a committee on [[evolution]] that meets in a [[Christian]] church and is primarilly advertised through fliers in [[Bible]]s may have a bias towards Christian views of evolution.
+
+Related: ''[[Bias (book)|Bias]]'' (book by Bernard Goldberg)
+
+''See also'': [[Neutral]].
+
+----
+
+== Statistics ==
+
+In [[statistics]], the word '''[[bias (statistics)|bias]]''' has at least two different senses, one referring to something considered very bad, the other referring to something that is occasionally desirable.  See [[bias (statistics)]].
+
+
+----
+
+== Science ==
+
+In [[philosophy of science]] and [[experiment design]], '''bias''' refers to psychological factors which affect scientific hypothesis testing. The variants [[culture bias]], [[cognitive bias]], [[confirmation bias]], [[infrastructure bias]], and [[notation bias]] are widely recognized.
+
+----
+
+== Electronics/Electrical Engineering ==
+
+In [[electrical engineering]], the term '''bias''' has the following meanings: 
+
+# A systematic deviation of a value from a reference value.  
+#  The amount by which the average of a [[set]] of values departs from a reference value.  
+# Electrical, mechanical, magnetic, or other force ([[vector field|field]]) applied to a device to establish a reference level to operate the device.  
+# In [[telegraph]] [[signaling]] systems, the development of a positive or negative [[direct current|DC]] [[voltage]] at a point on a [[line]] that should remain at a specified [[reference level]], such as zero. 
+
+:''Note:'' A bias may be applied or produced by (i) the electrical characteristics of the line, (ii) the [[terminal equipment]], and (iii) the signaling scheme. 
+
+:(Source: from [[Federal Standard 1037C]] and from [[MIL-STD-188]])
+
+Most often, bias simply refers to a fixed DC voltage applied to the same point in a [[circuit]] as an [[alternating current|AC]] signal, frequently to select the desired operating response of a semiconductor (forward or reverse bias). For example, a bias [[voltage]] is applied to a [[transistor]] in an [[electronic amplifier]] to allow the transistor to operate in a particular region of its [[transconductance]] curve.
+
+Bias is also a term used for a high-frequency AC signal added to the [[audio]] signal recorded onto [[magnetic tape]]. This signal is used to inaudibly correct for the non-linearity of the magnetic characteristics (see [[coercivity]]) of the tape, thus lowering the [[distortion]] of the recording. Different levels of bias are needed for different types of tape, hence most recorders offer a bias setting switch on the front panel, or switch automatically according to cutouts on the tape [[compact cassette|cassette]] shell.
+
+Bias is used in [[direct broadcast satellite]]s such as [[DirecTV]] and [[Dish Network]], the [[IRD]] box actually powers the [[feedhorn]] or [[LNB]] [[receiver]] mounted on the dish arm.  This bias is changed from a lower voltage to a higher voltage to select the [[polarization]] of the LNB, so that it receives signals that are polarized either [[clockwise]] or [[counterclockwise]], thereby allowing it to receive twice as many [[channel]]s.
+
+''This should also mention bias as the term defined here: http://www.dictionary.com/search?q=bias, def 2.''
+
+----
+
+== Commune ==
+
+'''[[Bias, France|Bias]]''' is a [[commune]] in the [[Landes]] [[département]], in [[France]].
+
+----
+
+== Textiles ==
+
+On a [[woven]] [[fabric]], the '''bias''' is the 45-[[degree]] [[diagonal]] line, along which it is most stretchable, and along which the fabric is often cut.
+
+See also: [[textile]]
+
+----
+
+== Sports ==
+
+In sports, '''bias''' is the [[irregular]] weight or shape of a ball, which may cause it to curve or swerve in an unexpected manner.  That result may also in itself be called bias.</rev></revisions></page></pages></query></api>

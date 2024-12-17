@@ -1,0 +1,796 @@
+<?xml version="1.0"?><api><continue rvcontinue="20211105180223|1053733611" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1239941" pageid="1239941" ns="0" title="Age of candidacy"><revisions><rev timestamp="2021-11-16T07:07:37Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{short description|Minimum age for person to be in elected in governmental office}}
+{{Youth rights sidebar}}{{Discrimination sidebar|state=collapsed}}
+'''Age of candidacy''' is the minimum age at which a person can legally hold certain elected government offices. In many cases, it also determines the age at which a person may be [[nomination rules|eligible to stand]] for an election or be granted [[ballot access]].
+
+The first known example of a law enforcing age of candidacy was the ''[[Lex Villia Annalis]]'', a Roman law enacted in 180 BCE which set the minimum ages for senatorial [[Roman Magistrates|magistrates]].&lt;ref&gt;{{cite book|title=The Magistrates of the Roman Republic|first=Thomas|last=Broughton|author2=Marcia Patterson|publisher=American Philological Association|year=1951|page=388}}&lt;/ref&gt;
+
+==Controversies==
+[[File:Jenness for President pin.jpg|thumb|right|In 1972, [[Linda Jenness]] ran for president of the United States, although she was 31 at the time.]]
+Many [[youth rights]] groups view current age of candidacy requirements as unjustified [[Ageism|age discrimination]].&lt;ref&gt;{{cite web|title=BYC Youth Manifesto |publisher=British Youth Council |year=2008 |url=http://www.byc.org.uk/asset_store/documents/amd5a_youth_manifesto_(annual_meeting_version).pdf |access-date=28 July 2008 |quote=Young people believe that the age to stand as candidates for local, regional, national and European elections should be 16, as should the age to become a trustee of a charity. Young people have significant responsibilities to society at the age of 16 and can have significant responsibilities in the private sector as company directors; this inconsistency should be rectified. Young people have lots to offer and the decision of their appointment to positions of political authority or governance of organisations should be in the hands of the electorate or membership respectfully. |url-status=dead |archive-url=https://web.archive.org/web/20090306185939/http://www.byc.org.uk/asset_store/documents/amd5a_youth_manifesto_%28annual_meeting_version%29.pdf |archive-date=6 March 2009 }}&lt;/ref&gt; Occasionally people who are younger than the minimum age will run for an office in protest of the requirement or because they do not know that the requirement exists. On extremely rare occasions, young people have been elected to offices they do not qualify for and have been deemed ineligible to assume the office.
+
+In 1934, [[Rush Holt Sr.|Rush Holt]] of West Virginia was elected to the [[Senate of the United States]] at the age of 29. Since the [[United States Constitution|U.S. Constitution]] requires senators to be at least 30, Holt was forced to wait until his 30th birthday, six months after the start of the session, before being sworn in.&lt;ref&gt;"[https://web.archive.org/web/20070310232816/http://www.time.com/time/magazine/article/0,9171,930751,00.html Unsworn Senators]". ''[[Time (magazine)|Time]]'' (14 January 1935).&lt;/ref&gt;
+
+In 1954, [[Richard Fulton]] won election to the [[Tennessee Senate]]. Shortly after being sworn in, Fulton was ousted from office because he was 27 years old at the time. The [[Tennessee State Constitution]] required that senators be at least 30.&lt;ref&gt;{{cite news|first=Dick|last=Battle|author2=Tom Flake|title=Senate Vote Ousts Fulton|work=Nashville Banner|date=5 January 1955}}&lt;/ref&gt; Rather than hold a new election, the previous incumbent, [[Clifford Allen]], was allowed to resume his office for another term. Fulton went on to win the next State Senate election in 1956 and was later elected to the [[United States House of Representatives|U.S. House of Representatives]] where he served for 10 years.
+
+In 1964 [[Jed Johnson Jr.|Congressman Jed Johnson Jr.]] of Oklahoma was elected to the 89th Congress in the 1964 election while still aged 24 years. However, he became eligible for the House after turning 25 on his birthday, 27 December 1964, seven days before his swearing in, making him the youngest ''legally'' elected and seated member of the United States Congress.&lt;ref&gt;{{Cite web|title=Biographical Directory of the U.S. Congress - Retro Member details|url=https://bioguideretro.congress.gov/Home/MemberDetails?memIndex=J000151|access-date=25 June 2020|website=bioguideretro.congress.gov}}&lt;/ref&gt;  
+                                                                                                                                                                    
+In South Carolina, two Senators aged 24 were elected, but were too young according to the State Constitution: Mike Laughlin in 1969 and [[William Jennings Bryan Dorn|Bryan Dorn]] (later a U.S. congressman) in 1941. They were seated anyway.&lt;ref&gt;{{cite news |last=O'Brian |first=Jack |title=Senate To Have Ineligible Man |newspaper=Spartanburg Herald |location=Spartanburg, SC |date=11 January 1969 |url=https://news.google.com/newspapers?nid=1876&amp;dat=19690111&amp;id=lHssAAAAIBAJ&amp;sjid=zswEAAAAIBAJ&amp;pg=5135,1580539 |access-date=15 January 2015 }}&lt;/ref&gt;
+
+On several occasions, the [[Socialist Workers Party (USA)]] has nominated candidates too young to qualify for the offices they were running for. In 1972, [[Linda Jenness]] ran as the SWP presidential candidate, although she was 31 at the time. Since the U.S. Constitution requires that the President and Vice President be at least 35 years old, Jenness was not able to receive [[ballot access]] in several states in which she otherwise qualified.&lt;ref&gt;{{cite book|first=Jo|last=Freeman|title=We Will Be Heard: Women's Struggles for Political Power in the United States|url=https://archive.org/details/wewillbeheardwom0000free|url-access=registration|publisher=Rowman &amp; Littlefield|year=2008|quote=Only 31, Linda Jenness did not meet the Constitutional age requirement to hold the office of President, but the SWP was on the ballot in 25 states — six more than in 1968.|page=[https://archive.org/details/wewillbeheardwom0000free/page/91 91]}}&lt;/ref&gt; Despite this handicap, Jenness still received 83,380 votes.&lt;ref&gt;{{cite web|title=1972 Presidential General Election Results|work=Dave Leip's Atlas of U.S. Presidential Elections|url=http://uselectionatlas.org/RESULTS/national.php?year=1972&amp;minper=0|access-date=28 July 2008}}&lt;/ref&gt; In 2004, the SWP nominated [[Arrin Hawkins]] as the party's vice-presidential candidate, although she was 28 at the time. Hawkins was also unable to receive ballot access in several states due to her age.&lt;ref&gt;{{cite web|title=Presidency 2004 |url=http://www.politics1.com/swp04.htm |work=Politics1.com |access-date=16 October 2007 |quote=Since they weren't going to be elected anyways, the Socialist Workers Party didn't care that they nominated a ticket entirely ineligible to be elected. Why? Because Róger Calero is both foreign born and also not a US citizen; and Arrin Hawkins is too young. To avoid [[ballot access]] problems for the SWP, as the constitutional ineligibility may also render them unable to be listed on the ballot in some states, the 2000 SWP ticket of James Harris for President and Margaret Trowe for Vice President are being used in states that will not permit the Calero-Hawkins slate to be listed. |archive-url=https://web.archive.org/web/20070730141140/http://www.politics1.com/swp04.htm |archive-date=30 July 2007 |url-status=dead }}&lt;/ref&gt;
+
+==Reform efforts==
+In the United States, many groups have attempted to lower age of candidacy requirements in various states. In 1994, [[South Dakota]] voters rejected a ballot measure that would have lowered the age requirements to serve as a State Senator or State Representative from 25 to 18. In 1998, however, they approved a similar ballot measure that reduced the age requirements for those offices from 25 to 21.&lt;ref&gt;{{cite web |title=South Dakota Age Qualifications for Elected Officials, Amendment H (1998) |url=https://ballotpedia.org/South_Dakota_Age_Qualifications_for_Elected_Officials,_Amendment_H_(1998) |website=Ballotpedia |access-date=24 June 2019 |language=en}}&lt;/ref&gt; In 2002, [[Oregon]] voters rejected a ballot measure that would have reduced the age requirement to serve as a State Representative from 21 to 18.
+
+During the early 2000s, the [[British Youth Council]] and other groups successfully campaigned to lower age of candidacy requirements in the United Kingdom.&lt;ref name="byc"&gt;{{cite press release|title=How old is old enough? |publisher=British Youth Council |date=October 2003 |url=http://www.byc.org.uk/downloads/Campaigns/HowOldIsOldEnough.pdf |access-date=16 July 2008 |quote=BYC believes that at the age of 18 a person may hold elected office. A candidate’s breadth of life experience is something that can be evaluated by the electorate... BYC strongly believes that the age of voting should be lowered to 16 and candidacy age should be lowered to 18... |url-status=dead |archive-url=https://web.archive.org/web/20071011083423/http://www.byc.org.uk/downloads/Campaigns/HowOldIsOldEnough.pdf |archive-date=11 October 2007 }}&lt;/ref&gt; The age of candidacy was reduced from 21 to 18 in [[England]], [[Wales]] and [[Scotland]] on 1 January 2007,&lt;ref&gt;[http://www.opsi.gov.uk/si/si2006/20063412.htm The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006], article 3 and Schedule 1(14)(d).&lt;/ref&gt; when section 17 of the [[Electoral Administration Act|Electoral Administration Act 2006]] entered into force.&lt;ref&gt;{{Cite web|url=http://www.opsi.gov.uk/acts/acts2006/ukpga_20060022_en_6#pt5-l1g17|archive-url=https://web.archive.org/web/20080702055124/http://www.opsi.gov.uk/acts/acts2006/ukpga_20060022_en_6#pt5-l1g17|title=Electoral Administration Act 2006|archive-date=2 July 2008}}&lt;/ref&gt;
+
+==International standards==
+International electoral standards which are defined in the International Public Human Rights Law, allow restricting candidacy on the basis of age. The interpretation of the International Covenant for Civil and Political Rights offered by the United Nations Human Rights Committee in the General Comment 25 states "Any conditions which apply to the exercise of the rights protected by article 25 (of the ICCPR) should be based on objective and reasonable criteria. For example, it may be reasonable to require a higher age for election or appointment to particular offices than for exercising the right to vote, which should be available to every adult citizen."&lt;ref&gt;[http://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=6QkG1d%2fPPRiCAqhKb7yhsjYoiCfMKoIRv2FVaVzRkMjTnjRO%2bfud3cPVrcM9YR0iue72QY8oFMq1RR28eUM15L6J1AOT2xcs2D4FgEfOt2liQW2PD1ZsA%2b80ZwK8QWtFzkUhNMfDhFSjgtoCvezhWA%3d%3d] OHCHR General Comment 25&lt;/ref&gt;
+
+==In various countries==
+
+===Australia===
+In [[Australia]] a person must be aged 18 or over to stand for election to public office at federal, state or local government level.
+
+The youngest ever member of the [[Australian House of Representatives|House of Representatives]] was 20-year-old [[Wyatt Roy]] elected in the 2010 federal election after the [[Commonwealth Electoral Act 1918|Electoral Act 1918]] was amended (in 1973) to reduce the age of candidacy for that office from 21 to 18.&lt;ref&gt;{{Cite web|url=https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1314/43rdParl|title=The 43rd Parliament: traits and trends|last=Lumb|first=Martin|date=2013|website=www.aph.gov.au|language=en-AU|access-date=28 December 2019}}&lt;/ref&gt;
+
+===Austria===
+In [[Austria]], a person must be 18 years of age or older to stand in elections to the [[European Parliament]] or [[National Council of Austria|National Council]].&lt;ref name=":0"/&gt;  The Diets of regional [[States of Austria|''Länder'']] are able to set a minimum age lower than 18 for to be in the polls in elections to the Diet itself as well as to municipal councils in the Land.&lt;ref&gt;[http://www.ris.bka.gv.at/erv/erv_1930_1.pdf Bundes-Verfassungsgesetz - Federal Constitutional Law 1920, 1929 version] {{webarchive |url=https://web.archive.org/web/20070213071748/http://www.ris.bka.gv.at/erv/erv_1930_1.pdf |date=13 February 2007 }}. Retrieved on 3 February 2007.&lt;/ref&gt;  In presidential elections the candidacy age is 35.
+
+===Belgium===
+Any Belgian who has reached the age of 18 years can stand for election for the [[Chamber of Representatives (Belgium)|Chamber of Representatives]], can become a member of the [[Senate (Belgium)|Senate]], or can be elected in one of the regional parliaments.&lt;ref&gt;{{Cite web|url=https://www.rug.nl/research/portal/files/33279516/02_c2.pdf|title=Individualism, nationalism, ethnocentrism, and authoritarianism: Evidence from Flanders by means of structural equation modeling.|last=Toharudin|first=Toni|date=2010|website=University of Groningen/UMCG research database|access-date=28 December 2019}}&lt;/ref&gt; This is regulated in the [[Constitution of Belgium|Constitution]] (Art. 64) and in the Special Law on the Reform of the Institutions.
+
+===Belize===
+According to the [[Constitution of Belize]], a person must be at least 18 years old to be elected as a member of the [[House of Representatives (Belize)|House of Representatives]] and must be at least 30 to be Speaker of the House. A person must be at least 18 years old to be appointed to the [[Senate (Belize)|Senate]] and must be at least 30 to be president or Vice-President of the Senate. As only members of the House of Representatives are eligible to be appointed Prime Minister, the [[List of Prime Ministers of Belize|Prime Minister]] must be at least 18 years old. A person must also be at least 18 years old to be elected to a village council.&lt;ref name=":1"/&gt;
+
+===Brazil===
+The [[Brazil]]ian Constitution (Article 14, Section 3 (VI)) defines 35 years as the minimum age for someone to be elected president, Vice-President or Senator; 30 years for state Governor or Vice-Governor; 21 for Federal or State Deputy, Mayor or Vice-Mayor; and 18 for city Councilman.&lt;ref name=":2"/&gt;
+
+===Canada===
+In [[Canada]], to be eligible to run for elected office (municipal, provincial, federal) one must be a minimum of 18 years or older on the day of the election.&lt;ref&gt;{{Cite web|url=https://www.elections.ca/content.aspx?section=pol&amp;dir=can/bck&amp;document=index&amp;lang=e|title=How to Become a Candidate|website=www.elections.ca|date=21 September 2021}}&lt;/ref&gt; Prior to 1970, the age requirement was 21 along with the voting age.
+
+However, to be appointed to the [[Senate of Canada|Senate]] (Upper House), one must be at least 30 years of age, must possess land worth at least $4,000 in the province for which they are appointed, and must own real and personal property worth at least $4,000, above their debts and liabilities.&lt;ref&gt;{{Cite web|last=Office|first=Privy Council|date=7 July 2016|title=Assessment Criteria|url=https://www.canada.ca/en/campaign/independent-advisory-board-for-senate-appointments/assessment-criteria.html|access-date=25 June 2020|website=aem}}&lt;/ref&gt;
+
+In the province of Ontario,  Sam Oosterhoff, a member of the Progressive Conservative Party of Ontario was first elected at the age of 19 in a November 2016 by-election, the youngest Ontario MPP to ever be elected. &lt;ref&gt;{{Cite web|url=https://globalnews.ca/news/4260867/pc-oosterhoff-wins-niagara-west-riding/|title = PC Sam Oosterhoff wins Niagara West riding which had average candidate age of 21 &amp;#124; Globalnews.ca}}&lt;/ref&gt; 
+
+Pierre-Luc Dusseault (born May 31, 1991) is a Canadian politician who was elected to the House of Commons of Canada in the 2011 federal election at the age of 19, becoming the youngest Member of Parliament in the country's history. He was sworn into office two days after his 20th birthday. He was re-elected in 2015 but lost his seat in the 2019 Canadian federal election.&lt;ref&gt;{{Cite news|url=https://www.theglobeandmail.com/news/politics/ottawa-notebook/meet-canadas-youngest-mp-in-history/article614110/|title = Meet Canada's youngest MP in history|newspaper = The Globe and Mail|date = 4 May 2011|last1 = Curry|first1 = Bill}}&lt;/ref&gt;
+
+===Central African Republic===
+Article 36 of the 2016 [[Constitution of the Central African Republic]] requires that candidates for [[President of the Central African Republic|President]] must "be aged  thirty-five (35) years at least [on] the day of the deposit of the dossier of the candidature".&lt;ref name="CARConstitution"&gt;[https://www.constituteproject.org/constitution/Central_African_Republic_2016.pdf?lang=en Central African Republic's Constitution of 2016], William S. Hein &amp; Co., English translation, translated by Maria del Carmen Gress, 2017.&lt;/ref&gt;
+
+===Chile===
+In [[Chile]] the minimum age required to be elected [[President of Chile|President of the Republic]] is 35 years on the day of the election. Before the 2005 reforms the requirement was 40 years, and from 1925 to 1981 it was 30 years. For [[Senate of Chile|senators]] it is 35 years (between 1981 and 2005 it was 40 years) and for [[Chamber of Deputies of Chile|deputies]] it is 21 years (between 1925 and 1970 it was 35 years).&lt;ref&gt;{{cite web|url=http://www.leychile.cl/ |title=Ley Chile - Biblioteca del Congreso Nacional |publisher=leychile.cl |access-date=14 January 2013}}&lt;/ref&gt;
+
+=== China ===
+In [[China]] the minimum age to be elected as president or vice-president is 45.&lt;ref&gt;[http://english.peopledaily.com.cn/constitution/constitution.html Constitution of the People's Republic of China], Section 2, Article 79.&lt;/ref&gt; All citizens who have reached the age of 18 have the right to vote and stand for election.&lt;ref&gt;{{Cite web|url=http://www.china.org.cn/english/27743.htm|title=National People's Congress|website=www.china.org.cn}}&lt;/ref&gt;
+
+===Cyprus===
+In [[Cyprus]] the minimum age to be elected president is 35 years. The minimum age to run for the [[House of Representatives (Cyprus)|House of Representatives]] was 25 years until the [[Constitution of Cyprus|Constitution]] was amended in 2019 to lower the limit to 21.&lt;ref&gt;{{cite news |title=Μειώθηκε το όριο ηλικίας για το αξίωμα του βουλευτή |url=https://www.philenews.com/eidiseis/politiki/article/833346/meiothike-to-orio-ilikias-ga-to-axioma-toy-boylefti |access-date=25 May 2020 |work=Philenews |date=6 December 2019 |language=el}}&lt;/ref&gt;
+
+===Czech Republic===
+In the [[Czech Republic]], a person must be at least 18 years old [[Elections in the Czech Republic|to be elected]] in [[local election]]s. A person must be at least 21 years old to be elected to the [[Chamber of Deputies of the Czech Republic|lower house]] of the [[Parliament of the Czech Republic|Czech Parliament]] or to the [[European Parliament]] and 40 years old to be a member of the upper house ([[Senate of the Czech Republic|Senate]]) of the Parliament&lt;ref name=":5"/&gt; or the [[President of the Czech Republic]].
+
+===Denmark===
+In [[Denmark]], any adult 18 years of age or older can become a candidate and be elected in any public election.
+
+===Estonia===
+In [[Estonia]], any citizen 18 years of age or older [[Elections in Estonia|can be elected]] in [[local election]]s, and 21 years or older in [[Riigikogu|parliamentary elections]]. The minimum age for the [[President of Estonia]] is 40.&lt;ref name=":6"&gt;{{Cite web|url=http://www.president.ee/en/estonia/constitution.php|archive-url=https://web.archive.org/web/20090413062925/http://www.president.ee/en/estonia/constitution.php|title=Constitution of the Republic of Estonia|archive-date=13 April 2009}}&lt;/ref&gt;
+
+===France===
+In [[France]], any citizen 18 years of age or older can be elected to the [[National Assembly (France)|lower house of Parliament]], and 24 years or older for the [[Senate (France)|Senate]]. The minimum age for the [[President of France]] is 18.
+
+===Germany===
+In [[Germany]] a citizen shall be over 18 [[Elections in Germany|to be elected]] in national, like the [[Chancellor of Germany|Chancellor]], regional or local elections and a person shall be over 40 years of age to be [[President of Germany|President]].
+
+===Greece===
+In [[Greece]], those aged 25 years old and over who hold Greek citizenship are eligible to stand and be elected to the [[Hellenic Parliament]].&lt;ref name="archive.ipu.org"&gt;[http://archive.ipu.org/parline-e/reports/2125_B.htm GREECE Vouli Ton Ellinon (Hellenic Parliament)]. ''INTER-PARLIAMENTARY UNION''. Retrieved 6 January 2019.&lt;/ref&gt;
+
+===Hong Kong===
+In Hong Kong a person must be at least 21 to be candidate in a district council or Legislative Council election.&lt;ref&gt;{{Cite Hong Kong ordinance|name=Legislative Council Ordinance|542|37|1|a}}&lt;/ref&gt;&lt;ref&gt;{{Cite Hong Kong ordinance|name=District Councils Ordinance|547|20|1|a}}&lt;/ref&gt; A person must be at least 40 to be candidate in the [[Chief Executive (Hong Kong)|Chief Executive]] election, and also at least 40 to be candidate in the election for the [[President of the Legislative Council of Hong Kong|President of the Legislative Council]] from among the members of the Legislative Council.&lt;ref&gt;Articles 44 and 71(2) of The Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China&lt;/ref&gt;
+
+=== Iceland ===
+For the office of [[President of Iceland|President]], any Icelandic citizen who has reached the age of 35 and fulfills the requirement necessary to vote in elections to the [[Althing]] is eligible to be elected president.&lt;ref&gt;{{Cite web|url=https://www.government.is/publications/legislation/lex/?newsid=89fc6038-fd28-11e7-9423-005056bc4d74|title=Constitution of the Republic of Iceland|website=www.government.is|language=en-US|access-date=19 June 2019}}&lt;/ref&gt;
+
+===India===
+In [[India]] a person must be at least:
+*35 to be the [[President of India|President]] or [[Vice President of India|Vice President]], [[Governors of states of India|Governor]] and [[Governors of states of India|Lieutenant-Governor]] of the [[States and territories of India|States]] as specified in the [[Constitution of India]]
+*30 to be a member of [[Rajya Sabha]] (the upper house of [[Parliament of India]]) and a [[Vidhan Parishad]] (the upper house of a [[State Legislature]], in those states where the legislature is bicameral.)
+*25 to be the [[Prime Minister of India|Prime Minister]], [[Speaker of the Lok Sabha|Lok Sabha Speaker]], [[Cabinet of India|Union Minister]], [[Chief Minister (India)|Chief Minister]], [[Vidhan Sabha|Vidhan Sabha Speaker]], Minister in the State Governments. Additionally, to be a member of [[Lok Sabha]] (the lower house of [[Parliament of India]]) and a [[Vidhan Sabha]] (the lower house a State Legislature in the States of India.)
+*21 to be the Mayor, Chairman, Head and a Member (Members are variously called Corporators/Councillors/Ward Members according to the type of their respective local bodies) of a [[Nagar Nigam]] (Municipal Corporation), [[Nagar Palika]] (Municipal Council), [[Nagar Panchayat]] (Town Committee), [[Gram Sabha]] (Village Council) and [[Gram Panchayat]] (Village Committee) respectively.
+
+Criticism has been on the rise to decrease the age of candidacy in India. [[Young India Foundation]] has been working on a campaign to decrease the age of candidacy in India for [[Member of parliament#India|MPs]] and [[Member of the Legislative Assembly (India)|MLAs]] to better reflect the large young demographic of India.&lt;ref&gt;{{Cite web |url=https://ageofcandidacy.in/ |title=Archived copy |access-date=10 June 2020 |archive-url=https://web.archive.org/web/20180718030912/https://ageofcandidacy.in/ |archive-date=18 July 2018 |url-status=dead }}&lt;/ref&gt;
+
+===Indonesia===
+In [[Indonesia]] a person must be at least:
+*35 to be [[President of Indonesia|President]] or [[Vice President of Indonesia|Vice President]] as specified in the [[Constitution of Indonesia]]
+*30 to be Governor or Lieutenant Governor, as specified in the 2004 Regional Government Act
+*25 to be Regent, Vice Regent, Mayor, or Deputy Mayor, as specified in the 2004 Regional Government Act
+*21 to be Senator or Representative in both national and local parliament, as specified in the 2008 Election Act
+
+===Israel===
+In [[Israel]] one must be at least 21 to become a member of the [[Knesset]] ([[Basic Law: The Knesset]] section 6(a)) or a [[Municipal elections in Israel|municipality]]. When the [[Prime Minister of Israel|Prime Minister]] was directly elected, one must have been a member of the Knesset who is at least 30 to be a candidate for Prime Minister. Every Israeli Citizen (including minors) can be appointed as a [[Government of Israel|Government]] Minister, or elected as [[President of Israel]], but the latter role is mostly ceremonial and elected by the Parliament.
+
+===Italy===
+In [[Italy]], a person must be at least 50 to be President of the Republic, 40 to be a [[Italian Senate|Senator]], and 25 to be a [[Italian Chamber of Deputies|Deputy]], as specified in the 1947 [[Constitution of Italy]]. 18 years of age is sufficient, however, to be elected member of the Council of Regions, Provinces, and Municipalities (Communes).
+
+===Iran===
+In [[Iran]] a person must be at least 21 years old to run for president.&lt;ref name=":8" /&gt;
+
+===Iraq===
+The Iraqi constitution states that a person must be at least 40 years old to run for president&lt;ref name=":9"/&gt; and 35 years old to be Prime Minister.&lt;ref name=":10"/&gt; Until 2019, the electoral law set the age limit at 30 years old for candidates to run for the Council of Representatives.&lt;ref&gt;Law No. 45 of 2013 on Election of the Council of Representatives, Article 8 (a)&lt;/ref&gt; However, the new Iraqi Council of Representatives Election Law (passed in 2019, yet to be enacted) lowered the age limit to 28.&lt;ref&gt;Law No.X of 2019 The Iraqi Council of Representatives Election Law, article 8(1)&lt;/ref&gt;
+
+===Ireland===
+The 1937 [[Constitution of Ireland]] requires the [[President of Ireland|President]] to be at least 35 and members of the [[Oireachtas]] (legislature) to be 21.&lt;ref name=":12"/&gt;&lt;ref name="citizensinformationie"&gt;{{cite web|url=http://www.citizensinformation.ie/en/birth_family_relationships/children_s_rights_and_policy/children_and_rights_in_ireland.html|title=Children and rights in Ireland|page=Elections|access-date=8 May 2015}}&lt;/ref&gt; [[Member of the European Parliament|Members of the European Parliament]] for Ireland must also be 21.&lt;ref name="citizensinformationie" /&gt;&lt;ref name=":13"&gt;{{cite web|url=http://www.irishstatutebook.ie/1997/en/act/pub/0002/sec0011.html|title=European Parliament Elections Act, 1997, Section 11|work=[[Irish Statute Book]]|access-date=8 May 2015}}&lt;/ref&gt; Members of [[Local government in the Republic of Ireland|local authorities]] must be 18, reduced from 21 in 1973.&lt;ref name="citizensinformationie" /&gt;&lt;ref name=":14"&gt;{{cite web|url=http://www.irishstatutebook.ie/1973/en/act/pub/0003/sec0004.html|title=Electoral (Amendment) Act, 1973, Section 4|work=[[Irish Statute Book]]|access-date=8 May 2015}}&lt;/ref&gt; The 1922–1937 [[Constitution of the Irish Free State]] required [[Teachta Dála|TDs]] (members of the [[Dáil Éireann (Irish Free State)|Dáil]], lower house) to be 21,&lt;ref&gt;{{cite web|url=http://www.irishstatutebook.ie/1922/en/act/pub/0001/sched1.html|title=Constitution of the Irish Free State (Saorstát Eireann) Act, 1922, Schedule 1|work=[[Irish Statute Book]]|pages=Article 14|access-date=8 May 2015}}&lt;/ref&gt; whereas [[Seanad Éireann (Irish Free State)|Senators]] had to be 35 (reduced to 30 in 1928).&lt;ref name=":15"&gt;Constitution of the Irish Free State, Article 31; {{cite web|url=http://www.irishstatutebook.ie/1928/en/act/pub/0027/sec0001.html|title=Constitution (Amendment No. 8) Act, 1928, Section 1|work=[[Irish Statute Book]]|access-date=8 May 2015}}&lt;/ref&gt; The [[Thirty-fifth Amendment of the Constitution Bill 2015]] proposed to lower the presidential age limit to 21.&lt;ref&gt;{{cite web|url=http://referendum.ie/statement-age.php|title=Referendum 2015: Home|year=2015|publisher=[[Referendum Commission]]|access-date=8 May 2015|location=Dublin|archive-url=https://web.archive.org/web/20150508093655/http://referendum.ie/statement-age.php|archive-date=8 May 2015}}&lt;/ref&gt; However, this proposal was rejected by 73% of the voters.
+
+===Japan===
+In [[Japan]] a person must be at least:&lt;ref name=":16"/&gt;
+*25 to be the [[Member of parliament]] of the [[House of Representatives (Japan)|House of Representatives]] with Japanese nationality, to be the Member of metropolitan, prefecture, city, town, or village with valid vote rights, or to be the [[Mayor#Japan|Mayor]]
+*30 to be the [[Governor (Japan)|Governor]], or to be the [[Member of parliament]] of the [[House of Councillors (Japan)|House of Councillors]] with Japanese nationality. See also [[House of Peers (Japan)]].
+
+===Malaysia===
+{{see also|Parliament of Malaysia}} In Malaysia a citizen shall be over 21 years of age to become a candidate and be elected to the [[Dewan Rakyat]] and [[Dewan Undagan Negeri]], and a person shall be over 30 to be the [[Dewan Negara|Senator]] by constitution.
+
+===Mexico===
+In [[Mexico]], a person must be at least 35 to be president, 25 to be a Senator, or 21 to be a Congressional Deputy, as specified in the [[1917 Constitution of Mexico]].
+
+===Netherlands===
+In the [[Netherlands]], any adult 18 years of age or older can become elected in any public election. To be a candidate the person has to reach this age during the time for which the elections are held. Therefore, the minimum age to be a candidate is 14 years (plus or minus a few days, depending on the date of the next elections).
+
+===New Zealand===
+In [[New Zealand]] the minimum age to be [[Prime Minister of New Zealand]] is 18 years old. Citizens and permanent residents who are enrolled as an elector are eligible to be a candidate for election as a [[Member of Parliament]].{{citation needed|date=April 2018}}
+
+===Nigeria===
+In [[Nigeria]], a person must be at least 35 years of age to be elected [[President of Nigeria|President]] or [[Vice President of Nigeria|Vice President]], 35 to be a Senator, 30 to be a State Governor, and 25 to be a Representative in parliament or Member of the States' House of Assembly.&lt;ref&gt;{{Cite web|url=https://www.loc.gov/law/help/nigeria-election-law/index.php|title=Nigeria: Election Laws {{!}} Law Library of Congress|last=Goitom|first=Hanibal|date=2012|website=www.loc.gov|access-date=28 December 2019}}&lt;/ref&gt;
+
+===North Korea===
+In [[North Korea]], any person eligible to vote in elections to the [[Supreme People's Assembly]] is also eligible to stand for candidacy. The age for both voting and candidacy is 17.&lt;ref&gt;{{cite book|last1=Nohlen|first1=Dieter|last2=Grotz|first2=Florian|last3=Hartmann|first3=Christof|year=2001|title=Elections in Asia: A Data Handbook|volume=2|pages=399–400|isbn=0-19-924959-8}}&lt;/ref&gt;
+
+===Norway===
+In [[Norway]], any adult can become a candidate and be elected in any public election, from the calendar year that he, she or they turn 18 years.
+
+===Palestine===
+Palestinian parliamentary candidates must be at least 28 years old, while the presidential candidates must be at least 40 years old.&lt;ref&gt;{{Cite web|title=General Election Laws|url=https://www.elections.ps/tabid/344/language/en-US/Default.aspx|access-date=2021-03-24|website=www.elections.ps}}&lt;/ref&gt;
+
+===Pakistan===
+In [[Pakistan]], a person must be at least 45 years old to be [[President of Pakistan|President]]. A person must be at least 25 years old to be a member of the provincial assembly or national assembly.&lt;ref&gt;{{Cite web|url=http://www.pakistani.org/pakistan/constitution/part3.ch2.html|title=Chapter 2: "Majlis-e-Shoora (Parliament)" of Part III: "The Federation of Pakistan"|website=www.pakistani.org|access-date=28 December 2019}}&lt;/ref&gt;
+
+===Philippines===
+{| class="wikitable sortable"
+|+Ages of candidacy in the [[Philippines]]
+!Type of candidate !! Minimum age
+|-
+|[[President of the Philippines|President]] and [[Vice President of the Philippines|Vice President]] || 40
+|-
+|[[Senate of the Philippines|Senator]] || 35
+|-
+|Regional governor || 35
+|-
+|Member of the [[House of Representatives of the Philippines|House of Representatives]] || 25
+|-
+|[[Province of the Philippines|Provincial-level]] elected official || 23
+|-
+|[[City of the Philippines|City-level]] elected official || 21
+|-
+|[[Municipality of the Philippines|Municipal-level]] elected official || 21
+|-
+|Member of the regional legislative assembly || 21
+|-
+|[[Barangay]]-level elected official || 18
+|-
+|Member of [[Sangguniang Kabataan|youth councils]] || 18–24
+|}
+
+===Poland===
+{| class="wikitable sortable"
+|+Ages of candidacy in [[Poland]]
+! Type of candidate !! Minimum age
+|-
+|[[President of Poland|President]] || 35
+|-
+|[[Senate of Poland|Senator]] || 30
+|-
+|[[Mayor]]/[[Vogt#Poland|Wójt]] || 25
+|-
+|[[Sejm|Member of the Parliament/Poseł]] || 21
+|-
+|[[Member of the European Parliament]] || 21
+|-
+|[[Councillor]] || 18
+|}
+
+===Portugal===
+{| class="wikitable sortable"
+|+Ages of candidacy in [[Portugal]]
+!Type of candidate
+!Minimum age
+!class="unsortable"|References
+|-
+|[[President of Portugal|President]]
+|35
+|&lt;ref&gt;{{Cite web|url=https://www.rtp.pt/noticias/pais/o-que-e-preciso-para-ser-candidato-a-presidente-da-republica_n21988 |title=O que é preciso para ser candidato a Presidente da República| access-date=31 January 2018}}&lt;/ref&gt;
+|-
+|[[Parliament of Portugal|Parliament]]
+|18
+|&lt;ref&gt;{{Cite web|url=http://www.cne.pt/faq2/96/3 |title=Perguntas Frequentes: Candidatura |author=Comissão Nacional de Eleições (Portugal) |access-date=31 January 2018}}&lt;/ref&gt;
+|}
+
+===Russia===
+In Russia a person must be at least 35 to run for president.&lt;ref name="ReferenceA"&gt;The Constitution of the Russian Federation: A Contextual Analysis, Henderson, Jane&lt;/ref&gt;
+
+===Singapore===
+In [[Singapore]] a person must be at least 45 years old to run for president.&lt;ref&gt;Constitution, Art. 19(2)(b).&lt;/ref&gt; 21 year-olds can stand in parliamentary elections.
+
+===South Africa===
+Section 47, Clause 1 of the 1996 Constitution of South Africa states that "Every citizen who is qualified to vote for the National Assembly is eligible to be a member of the Assembly", defaulting to Section 46 which "provides for a minimum voting age of 18 years" in National Assembly elections; Sections 106 and 105 provide the same for provincial legislatures.
+
+===South Korea===
+{| class="wikitable sortable"
+|+Ages of candidacy in [[South Korea]]
+!Type of candidate
+!Minimum age
+|-
+|[[President of South Korea|President]]
+|40
+|-
+|[[National Assembly (South Korea)|Member of Parliament]], [[Member of Legislative Assembly]], [[Councillor]]
+|25
+|-
+|[[Mayor]]
+|25
+|-
+|[[Governor]]
+|25
+|}
+&lt;ref name=":17"/&gt;
+
+===Spain===
+[[Spain]] has two legislative chambers of Parliament, a lower house and an upper house. These are the [[Congress of Deputies]] (lower house) and the [[Senate of Spain]] (upper house) respectively. The minimum age requirement to stand and to be elected to either house is 18 years of age.&lt;ref name="Spain"&gt;[http://www.youthpolicy.org/factsheets/country/spain/ Spain]. ''Youthpolicy.org''. Retrieved 6 January 2019.&lt;/ref&gt;
+
+===Sweden===
+In [[Sweden]], any citizen at least 18 years old, who resides, or who has resided in the realm can be elected to parliament.&lt;ref&gt;Instrument of Government, section 3, 4 §.&lt;/ref&gt; Citizens of Sweden, the European Union, Norway or Iceland aged 18 and over may be elected to county or municipal council. Citizens of other countries may also be elected to council, provided they have resided in the realm for at least three years.&lt;ref&gt;SFS (2017:725)&lt;/ref&gt;
+
+===Switzerland===
+In [[Switzerland]], any citizen aged 18 or over can become a candidate and be elected in any federal election.
+
+===Taiwan===
+In the [[Republic of China]] (commonly known as Taiwan) the minimum age to be elected as president or vice-president is 40.
+
+===Turkey===
+The [[Ottoman constitution of 1876|1876 constitution]] set the age for parliamentary elections as 30. This remained unchanged until 13 October 2006, when it was lowered to 25 through a constitutional amendment. In 2017, it was further lowered to 18, the same as the [[voting age]].&lt;ref&gt;{{cite web|title=18 maddelik anayasa değişikliği teklifinin tam metni|url=https://www.evrensel.net/haber/303483/18-maddelik-anayasa-degisikligi-teklifinin-tam-metni|website=Evrensel.net|language=tr-TR|date=10 January 2017}}&lt;/ref&gt;
+
+===United Kingdom===
+In the [[United Kingdom]], a person must be aged 18 or over to stand in [[Elections in the United Kingdom|elections]] to all parliaments, assemblies, and councils within the UK, [[devolution|devolved]], or local level. This age requirement also applies in elections to any individual elective public office; the main example is that of an [[Elected mayors in the United Kingdom|elected mayor]], whether of [[Mayor of London|London]] or a [[Local government in the United Kingdom|local authority]]. There are no higher age requirements for particular positions in public office. Candidates are required to be aged 18 on both the day of nomination and the day of the poll. This was reduced from 21 by the [[Electoral Administration Act 2006]].
+
+===United States===
+{{main article|Age of candidacy laws in the United States}}
+In the [[United States]], a person must be aged 35 or over to serve as president. To be a Senator, a person must be aged 30 or over. To be a Representative, a person must be aged 25 or older. This is specified in the [[Article Two of the United States Constitution#Clause 5: Qualifications for office|U.S. Constitution]]. Most states in the U.S. also have age requirements for the offices of Governor, State Senator, and State Representative.&lt;ref&gt;{{cite web| url= http://definitions.uslegal.com/a/age-of-candidacy/|title=Age of Candidacy Law &amp; Legal Definition|publisher=USLegal.com |access-date=7 November 2012}}&lt;/ref&gt; Some states have a minimum age requirement to hold any elected office (usually 21 or 18).
+
+===Venezuela===
+In [[Venezuela]], a person must be at least 30 to be [[President of Venezuela|President]] or [[Vice President of Venezuela|Vice President]],&lt;ref&gt;[http://www.psuv.org.ve/constitucion/titulo5-capitulo2/ Constitution of the Bolivarian Republic of Venezuela - Part 5, Chapter II, Article 227]&lt;/ref&gt; 21 to be a deputy for the [[National Assembly of Venezuela|National Assembly]]&lt;ref&gt;[http://www.psuv.org.ve/constitucion/titulo5-capitulo1/ Constitution of the Bolivarian Republic of Venezuela - Part 5, Chapter I, Article 188, Section 2]&lt;/ref&gt; and 25 to be the Governor of a [[States of Venezuela|state]].&lt;ref&gt;[http://www.psuv.org.ve/constitucion/titulo4-capitulo3/ Constitution of the Bolivarian Republic of Venezuela - Part 4, Chapter III, Article 160]&lt;/ref&gt;
+
+==Comparison chart==
+Dashes indicate that the position or house does not exist in that particular country, such as countries that are [[unicameralism|unicameral]].
+{| class="wikitable sortable"
+|+
+! Country
+! data-sort-type="number" | President
+! data-sort-type="number" | Vice President
+! data-sort-type="number" | Prime Minister
+! data-sort-type="number" | Upper house
+! data-sort-type="number" | Lower house
+! References
+|-
+|{{flag|Armenia}}
+|40
+| -
+|25
+| -
+|25
+|&lt;ref&gt;{{Cite web|url=http://www.parliament.am/parliament.php?id=constitution&amp;lang=eng|title=National Assembly of the Republic of Armenia {{!}} Official Web Site {{!}} parliament.am|website=www.parliament.am|access-date=15 May 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.parliament.am/legislation.php?sel=show&amp;ID=5479&amp;lang=arm&amp;enc=utf8|title=Election Code of Armenia|language=hy}}&lt;/ref&gt;
+|-
+|{{flag|Australia}}
+| -
+| -
+|18
+|18
+|18
+|
+|-
+|{{flag|Austria}}
+|35
+| -
+|
+|
+|18
+|&lt;ref name=":0"&gt;[https://archive.today/20070929125342/http://www.parlinkom.gv.at/pls/portal/docs/page/PG/DE/XXIII/I/I_00129/FNAMEORIG_079516.HTML 31/BNR (XXIII. GP) Bundes-Verfassungsgesetz], ss. 2 and 6, Republik Österreich Parlament (German).  Retrieved on 1 July 2007.&lt;/ref&gt; 
+|-
+|{{flag|Belgium}}
+| -
+| -
+|
+|18
+|18
+|&lt;ref&gt;[https://www.senate.be/doc/const_nl.html Grondwet van België] Articles 64 &amp; 69.&lt;/ref&gt;
+|-
+|{{flag|Belize}}
+| -
+| -
+|18
+|18
+|18
+|&lt;ref name=":1"&gt;[http://www.belizelaw.org/web/lawadmin/ Laws of Belize], Volume II, Title VIII, Chapter 88, Part III. "Any person shall be eligible to be elected as a member of a council who: is a citizen of Belize; and has ordinarily resided in the village for at least one year immediately preceding the election; and is at least eighteen years old."&lt;/ref&gt;
+|-
+|{{flag|Brazil}}
+|35
+|35
+| -
+|35
+|21
+|&lt;ref name=":2"&gt;[http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm Brazilian Constitution (in Portuguese)]&lt;/ref&gt;
+|-
+|{{flag|Canada}}
+| -
+| -
+|
+|30
+|18
+|
+|-
+|{{flag|Central African Republic}}
+|35
+| -
+| -
+| -
+| -
+|&lt;ref name="CARConstitution"/&gt;
+|-
+|{{flag|Chile}}
+|35
+|
+|
+|35
+|21
+|&lt;ref name=":3"&gt;{{cite web|url=http://www.leychile.cl/|title=Ley Chile - Biblioteca del Congreso Nacional|publisher=leychile.cl|access-date=14 January 2013}}&lt;/ref&gt;
+|-
+|{{flag|China}}
+|45
+|45
+|
+|
+|
+|
+|-
+|{{flag|Croatia}}
+|18
+|
+|
+| -
+|18
+|&lt;ref&gt;[https://hrcak.srce.hr/file/44055 The Law on the Election of the President of the Republic of Croatia]. Retrieved 7 January 2019.&lt;/ref&gt;&lt;ref&gt;[http://archive.ipu.org/parline/reports/2077_B.htm CROATIA Hrvatski Sabor (Croatian Parliament)]. ''INTER-PARLIAMENTARY UNION''. Retrieved 7 January 2019.&lt;/ref&gt;&lt;ref&gt;[https://www.expatincroatia.com/voting-in-croatia/ Voting in Croatia]. ''Expat in Croatia''. Retrieved 7 January 2019.&lt;/ref&gt;
+|-
+|{{flag|Cyprus}}
+|35
+|
+|
+|
+|
+|
+|-
+|{{flag|Czech Republic}}
+|40
+|
+|
+|40
+|21
+|&lt;ref name=":5"&gt;{{Cite web|url=https://www.psp.cz/docs/guide/|title=Průvodce Poslaneckou sněmovnou|website=www.psp.cz}}&lt;/ref&gt;
+|-
+|{{flag|Denmark}}
+| -
+| -
+|18
+| -
+|18
+|
+|-
+|{{flag|Estonia}}
+|40
+|
+|
+| -
+|21
+|&lt;ref name=":6"/&gt;
+|-
+|{{flag|Finland}}
+|18
+| -
+|18
+| -
+|18
+|&lt;ref&gt;{{cite web |url= http://www.youthpolicy.org/factsheets/country/finland/ |title= Finland |date= 24 October 2014 |website= Youthpolicy.org |access-date= 25 April 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= https://www.infofinland.fi/en/information-about-finland/finnish-society/elections-in-finland |title= Elections and voting in Finland |website= infoFinland.fi |access-date= 25 April 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last= Reidy |first= Theresa |date= 5 February 2015 |title= Yes: Why we should vote in favour of lowering the age of candidates eligible to become President |url= https://www.irishtimes.com/opinion/yes-why-we-should-vote-in-favour-of-lowering-the-age-of-candidates-eligible-to-become-president-1.2091000 |work= The Irish Times |access-date= 25 April 2019}}&lt;/ref&gt;
+|-
+|{{flag|France}}
+|18
+|
+|
+|24
+|18
+|
+|-
+|{{flag|Georgia}}
+|40
+|
+|18
+|
+|25
+|
+|-
+|{{flag|Germany}}
+|40
+|
+|
+|18
+|18
+|&lt;ref name=":7"&gt;[https://www.uni-marburg.de/administration/recht/wahlrecht/landtagswahlgesetz Landtagswahlgesetz - LWG] I. Allgemeines - § 4 Wählbarkeit. Retrieved 24 December 2014.&lt;/ref&gt;
+|-
+|{{flag|Greece}}
+|
+|
+|
+| -
+|25
+|&lt;ref&gt;[http://www.youthpolicy.org/factsheets/country/greece/ Greece]. ''Youthpolicy.org''. Retrieved 6 January 2019.&lt;/ref&gt;&lt;ref name="archive.ipu.org"/&gt;
+|-
+|{{flag|Hong Kong}}
+| -
+| -
+| -
+|
+|21
+|
+|-
+|{{flag|Iceland}}
+|35
+|
+|
+| -
+|18
+|
+|-
+|{{flag|India}}
+|35
+|35
+|25
+|30
+|25
+|
+|-
+|{{flag|Indonesia}}
+|35
+|35
+|
+|21
+|21
+|
+|-
+|{{flag|Israel}}
+|
+|
+|30
+| -
+|21
+|
+|-
+|{{flag|Italy}}
+|50
+|
+|
+|40
+|25
+|
+|-
+|{{flag|Iran}}
+|21
+|
+|
+|
+|
+|&lt;ref name=":8"&gt;{{cite web|url=http://www.aljazeera.com/indepth/interactive/2013/06/2013611135620419515.html|title=Infographic: Choosing Iran's next president|last=Piven|first=Ben|author2=Ben Willers|date=11 June 2013|work=Al Jazeera English|access-date=12 June 2013}}&lt;/ref&gt;
+|-
+|{{flag|Iraq}}
+|40
+|
+|35
+| -
+|28
+|&lt;ref name=":9"&gt;Constitution of Iraq, Article 68&lt;/ref&gt;&lt;ref name=":10"&gt;Constitution of Iraq, Article 77&lt;/ref&gt;&lt;ref name=":11"&gt;Iraqi Election Law 2019, Article 8(1)&lt;/ref&gt;
+|-
+|{{flag|Ireland}}
+|35
+|
+|
+|30
+|21
+|&lt;ref name=":12"&gt;Constitution of Ireland [http://www.irishstatutebook.ie/en/constitution/index.html#article12_4_1 Article 12.4.1°] (President) [http://www.irishstatutebook.ie/en/constitution/index.html#article16_1_1 Article 16.1.1°] ([[Dáil Éireann]]), [http://www.irishstatutebook.ie/en/constitution/index.html#article18_2 Article 18.2] ([[Seanad Éireann]])&lt;/ref&gt;&lt;ref name="citizensinformationie"/&gt;&lt;ref name=":13"/&gt;&lt;ref name=":14"/&gt;&lt;ref name=":15"/&gt; 
+|-
+|{{flag|Japan}}
+| -
+| -
+|
+|30
+|25
+|&lt;ref name=":16"&gt;{{cite web|url=http://law.e-gov.go.jp/htmldata/S25/S25HO100.html|title=公職選挙法|publisher=[[Ministry of Justice (Japan)]]|access-date=26 April 2016|archive-url=https://web.archive.org/web/20160729161838/http://law.e-gov.go.jp/htmldata/S25/S25HO100.html|archive-date=29 July 2016|url-status=dead}}&lt;/ref&gt;
+|-
+|[[Jordan]]
+| -
+| -
+|25
+|40
+|25
+|
+|-
+|{{flag|Kosovo}}
+|18
+|18
+|18
+| -
+|18
+|&lt;ref&gt;[http://www.youthpolicy.org/factsheets/country/kosovo/ Kosovo]. ''Youthpolicy.org''. Retrieved 25 November 2020.&lt;/ref&gt;
+|-
+|{{flag|Luxembourg}}
+| -
+| -
+|
+| -
+|18
+|&lt;ref&gt;{{cite web |url= http://www.youthpolicy.org/factsheets/country/luxembourg/ |title= Luxembourg |website= Youthpolicy.org |access-date= 5 April 2019}}&lt;/ref&gt;
+|-
+|{{flag|Malaysia}}
+| -
+| -
+|
+|30
+|21
+|
+|-
+|{{flag|Mexico}}
+|35
+|
+|
+|25
+|21
+|
+|-
+|{{flag|Moldova}}
+|40
+| 
+| 
+| 
+| 
+| 
+|-
+|{{flag|Netherlands}}
+| -
+| -
+|18
+|18
+|18
+|&lt;ref&gt;{{Cite web|url=https://wetten.overheid.nl/BWBR0004627/2019-02-22/#AfdelingII_HoofdstukH_ArtikelH7|title=Kieswet|first=Ministerie van Binnenlandse Zaken en|last=Koninkrijksrelaties|website=wetten.overheid.nl}}&lt;/ref&gt;
+|-
+|{{flag|New Zealand}}
+| -
+| -
+|18
+|
+|
+|
+|-
+|{{flag|Nigeria}}
+|35
+|35
+|
+|30
+|25
+|
+|-
+|{{flag|Norway}}
+| -
+| -
+|18
+| -
+|18
+|
+|-
+|{{flag|Palestine}}
+|40
+| -
+| -
+| -
+|28
+|
+|-
+|{{flag|Pakistan}}
+|40
+|
+|
+|25
+|25
+|
+|-
+|{{flag|Philippines}}
+|40
+|40
+|
+|35
+|25
+|
+|-
+|{{flag|Poland}}
+|35
+| -
+|
+|30
+|21
+|
+|-
+|{{flag|Portugal}}
+|35
+|
+|
+| -
+|18
+|&lt;ref name=":18"&gt;{{Cite web|url=https://www.rtp.pt/noticias/pais/o-que-e-preciso-para-ser-candidato-a-presidente-da-republica_n21988|title=O que é preciso para ser candidato a Presidente da República|access-date=31 January 2018}}&lt;/ref&gt;&lt;ref name=":19"&gt;{{Cite web|url=http://www.cne.pt/faq2/96/3|title=Perguntas Frequentes: Candidatura|author=Cmoissão Nacional de Eleições (Portugal)|access-date=31 January 2018}}&lt;/ref&gt;
+|-
+|{{flag|Romania}}
+| 40
+|
+|
+| 33
+| 23
+|&lt;ref&gt;{{cite web |url= https://www.osce.org/odihr/98757?download=true |title= Romania Parliamentary Elections 9 December 2012 OSCE/ODIHR Election Expert Team Final Report |date= 9 December 2012 |publisher= Office for Democratic Institutions and Human Rights |access-date= 23 April 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.youthpolicy.org/factsheets/country/romania/ |title= Romania |website= youthpolicy.org  |access-date= 23 April 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= https://fra.europa.eu/en/publication/2017/mapping-minimum-age-requirements/right-to-candidate |title= Standing as a candidate |website= European Union Agency for Fundamental Rights |access-date= 23 April 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite news |date= 5 February 2015 |title= Yes: Why we should vote in favour of lowering the age of candidates eligible to become President |url= https://www.irishtimes.com/opinion/yes-why-we-should-vote-in-favour-of-lowering-the-age-of-candidates-eligible-to-become-president-1.2091000 |work= The Irish Times |access-date= 23 April 2019}}&lt;/ref&gt;
+|-
+|{{flag|Russia}}
+| 35
+|
+|
+|
+|
+| &lt;ref name="ReferenceA"/&gt;
+|-
+|{{flag|Serbia}}
+|
+|
+|
+| -
+| 18
+|&lt;ref&gt;[http://www.youthpolicy.org/factsheets/country/serbia/ Serbia]. ''Youthpolicy.org''. Retrieved 7 January 2019.&lt;/ref&gt;
+|-
+|{{flag|Singapore}}
+|45
+| -
+|
+| -
+|21
+|
+|-
+|{{flag|South Africa}}
+|
+|
+|
+|
+|18
+|
+|-
+|{{flag|South Korea}}
+|40
+|
+|
+|
+|25
+|&lt;ref name=":17"&gt;{{Cite web|url=https://www.law.go.kr/LSW/lsSc.do?nwYn=1&amp;tabNo=&amp;p1=&amp;menuId=0&amp;query=%EA%B3%B5%EC%A7%81%EC%84%A0%EA%B1%B0%EB%B2%95&amp;subMenu=1&amp;section=|title=국가법령정보센터|website=www.law.go.kr}}&lt;/ref&gt;
+|-
+|{{flag|Spain}}
+| -
+| -
+|
+|18
+|18
+|&lt;ref name="Spain"/&gt;
+|-
+|{{flag|Sweden}}
+| -
+| -
+|18
+| -
+|18
+|&lt;ref&gt;[http://archive.ipu.org/parline/reports/2303.htm SWEDEN Riksdagen (Parliament)]. ''INTER-PARLIAMENTARY UNION''. Retrieved 7 January 2019.&lt;/ref&gt;
+|-
+|{{flag|Switzerland}}
+|
+|
+|
+|
+|18
+|
+|-
+|{{flag|Taiwan}}
+| 40
+| 40
+| -
+|
+|23
+|
+|-
+|{{flag|Thailand}}
+| -
+| -
+|35
+|40
+|25
+|
+|-
+|{{flag|Turkey}}
+|40
+|
+|18
+|
+|18
+|&lt;ref name=":20"&gt;{{cite web|url=https://www.evrensel.net/haber/303483/18-maddelik-anayasa-degisikligi-teklifinin-tam-metni|title=18 maddelik anayasa değişikliği teklifinin tam metni|date=10 January 2017|website=Evrensel.net|language=tr-TR}}&lt;/ref&gt;
+|-
+|{{flag|United Kingdom}}
+| -
+| -
+|18
+|21
+|18
+|&lt;ref&gt;{{cite web|url=https://www.parliament.uk/get-involved/elections/standing/|title=How can I stand in an election?|publisher=www.parliament.uk|access-date=23 January 2019}}&lt;/ref&gt;
+|-
+|{{flag|United States}}
+|35
+|35
+| -
+|30
+|25
+|&lt;ref name=":21"&gt;{{cite web|url=http://definitions.uslegal.com/a/age-of-candidacy/|title=Age of Candidacy Law &amp; Legal Definition|publisher=USLegal.com|access-date=7 November 2012}}&lt;/ref&gt;
+|-
+|{{flag|Uruguay}}
+|
+|
+| -
+|30
+|25
+|&lt;ref&gt;{{cite web |url= http://www.youthpolicy.org/factsheets/country/uruguay/ |title= Uruguay |website= Youthpolicy.org |access-date= 6 April 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://archive.ipu.org/parline/reports/2341.htm |title= URUGUAY Cámara de Representantes (House of Representatives) |website= INTER-PARLIAMENTARY UNION |access-date= 6 April 2019}}&lt;/ref&gt;
+|-
+|{{flag|Venezuela}}
+|30
+|30
+|
+| -
+|21
+|
+|-
+|{{flag|Vietnam}}
+|
+|
+|
+| -
+|21
+|&lt;ref&gt;{{Cite web|title=Luật Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân 2015|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-Bau-cu-dai-bieu-Quoc-hoi-va-dai-bieu-Hoi-dong-nhan-dan-2015-282376.aspx|access-date=2021-10-23|website=thuvienphapluat.vn}}&lt;/ref&gt;
+|}
+
+==See also==
+*[[Youth]]
+*[[Youth suffrage]]
+*[[Youth rights]]
+*[[Ageism]]
+*[[Ballot access]]
+*[[Electoral reform]]
+*[[Voting age]]
+
+==Notes and references==
+{{reflist}}
+
+{{Law country lists}}
+
+[[Category:Electoral restrictions]]
+[[Category:Legal terminology]]
+[[Category:Lists by country]]
+[[Category:Minimum ages|Candidacy]]</rev></revisions></page></pages></query></api>

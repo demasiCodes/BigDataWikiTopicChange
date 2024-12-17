@@ -1,0 +1,16 @@
+<?xml version="1.0"?><api><continue rvcontinue="20061019204221|82491894" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1890864" pageid="1890864" ns="0" title="Guttmacher Institute"><revisions><rev timestamp="2006-10-20T23:29:46Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">The '''Guttmacher Institute''' (formerly The Alan Guttmacher Institute) advances [[sexual]] and [[reproductive]] health in the [[United States]] and globally through an interrelated program of social science [[research]], public education and policy analysis. This multilayered program seeks to generate new ideas, enlighten public debate, promote sound policy and program development, and ultimately ensure that people everywhere have the information and services they need to make good sexual and reproductive health choices.
+
+The Guttmacher Institute has played a leading role in the movement for sexual and reproductive health and rights since the Institute's inception in 1968.  Guttmacher's nearly four decades of experience demonstrates that scientific evidence-when reliably collected and analyzed, compellingly presented and systematically disseminated-can make a difference in policies, programs and medical practice.
+
+The Institute is named after an Ob/Gyn and former president of [[Planned Parenthood]], Dr. [[Alan Guttmacher]]. The Institute has offices in both [[New York City]] and [[Washington, D.C.]]. As of 2005, it has an annual revenue of $7.9 million and expenses of $9.1 million, with an asset reserve of $15.6 million dollars. [http://www.guttmacher.org/about/2006/06/22/AnnualReport2005.pdf]
+
+==External link==
+* http://www.guttmacher.org/
+
+[[Category:Research institutes]]
+[[Category:Birth control]]
+[[Category:Pro-choice organizations]]
+{{abortion-stub}}
+{{sci-org-stub}}
+
+[[fr:Institut Guttmacher]]</rev></revisions></page></pages></query></api>

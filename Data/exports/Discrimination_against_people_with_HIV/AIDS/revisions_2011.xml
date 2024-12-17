@@ -1,0 +1,69 @@
+<?xml version="1.0"?><api><continue rvcontinue="20111102013553|458565267" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="30101125" pageid="30101125" ns="0" title="Discrimination against people with HIV/AIDS"><revisions><rev timestamp="2011-11-02T01:36:08Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">Discrimination against people with [[HIV]]/[[AIDS]] is when someone is discriminated against, oppressed or otherwise treated unfairly for their real or perceived diagnosis as HIV-positive.
+
+{{Discrimination sidebar}}
+
+AIDS stigma exists around the world in a variety of ways, including [[shunning|ostracism]], [[Social rejection|rejection]], [[discrimination]] and avoidance of HIV infected people; compulsory HIV testing without prior [[consent]] or protection of [[confidentiality]]; violence against HIV infected individuals or people who are perceived to be infected with HIV; and the [[quarantine]] of HIV infected individuals.&lt;ref name=UNAIDS2006Ch4&gt;{{Cite book
+| publisher =[[Joint United Nations Programme on HIV/AIDS|UNAIDS]]
+| year = 2006
+| title = 2006 Report on the global AIDS epidemic
+| chapter = The impact of AIDS on people and societies
+| chapterurl = http://data.unaids.org/pub/GlobalReport/2006/2006_GR_CH04_en.pdf
+| accessdate = 2006-06-14
+| format= PDF
+
+}}&lt;/ref&gt; Stigma-related violence or the fear of violence prevents many people from seeking HIV testing, returning for their results, or securing treatment, possibly turning what could be a manageable chronic illness into a death sentence and perpetuating the spread of HIV.&lt;ref name=Ogden&gt;{{Cite web
+| author =Ogden J, Nyblade L
+| publisher = [[International Center for Research on Women]] | year = 2005 | title = Common at its core: HIV-related stigma across contexts | url = http://www.icrw.org/docs/2005_report_stigma_synthesis.pdf | format = PDF | accessdate = 2007-02-15
+}}&lt;/ref&gt;
+
+AIDS stigma has been further divided into the following three categories:
+
+*''Instrumental AIDS stigma''&amp;mdash;a reflection of the fear and apprehension that are likely to be associated with any deadly and transmissible illness.&lt;ref name=Herek1999&gt;{{Cite journal
+| author=Herek GM, Capitanio JP | journal=American Behavioral Scientist | year=1999
+| url=http://psychology.ucdavis.edu/rainbow/html/abs99_sp.pdf
+| format= PDF
+| title=AIDS Stigma and sexual prejudice
+| accessdate = 2006-03-27
+| volume=42
+| issue=7
+| pages=1130–1147
+| doi=10.1177/0002764299042007006
+
+}}&lt;/ref&gt;
+*''Symbolic AIDS stigma''&amp;mdash;the use of HIV/AIDS to express attitudes toward the social groups or lifestyles perceived to be associated with the disease.&lt;ref name=Herek1999 /&gt;
+*''Courtesy AIDS stigma''&amp;mdash;stigmatization of people connected to the issue of HIV/AIDS or HIV- positive people.&lt;ref name=Snyder&gt;{{Cite journal|
+author=Snyder M, Omoto AM, Crain AL |
+title=Punished for their good deeds: stigmatization for AIDS volunteers |
+journal=American Behavioral Scientist | year=1999 | pages=1175&amp;ndash;1192 | volume=42 | issue=7 | doi=10.1177/0002764299042007009
+
+}}&lt;/ref&gt;
+
+Often, AIDS stigma is expressed in conjunction with one or more other stigmas, particularly those associated with [[homosexuality]], [[bisexuality]], [[promiscuity]], [[prostitution]], and [[Intravenous drug use (recreational)|intravenous drug use]].{{Fact|date=August 2011}}
+
+In many [[Developed country|developed countries]], there is an association between AIDS and homosexuality or bisexuality, and this association is correlated with higher levels of sexual prejudice such as [[homophobia|anti-homosexual]] attitudes.&lt;ref name=Herek2002&gt;{{Cite journal
+|author=Herek GM, Capitanio JP, Widaman KF
+|title=HIV-related stigma and knowledge in the United States: prevalence and trends, 1991-1999
+|journal=Am J Public Health
+|volume=92
+|issue=3
+|pages=371–7
+|year=2002
+|pmid=11867313
+|doi=10.2105/AJPH.92.3.371
+|url=http://psychology.ucdavis.edu/rainbow/html/ajph2002.pdf
+|accessdate=2008-03-10
+|format=PDF
+|pmc=1447082}}&lt;/ref&gt; There is also a perceived association between AIDS and all male-male sexual behavior, including sex between uninfected men.&lt;ref name=Herek1999/&gt;
+
+Some forms of serious discrimination can include: being expelled from school, being denied housing, having to pay extra rent, and taking away their jobs.
+
+==See also==
+* [[AIDS education and training centers]]
+* [[Misconceptions about HIV and AIDS]]
+
+==References==
+&lt;references/&gt;
+
+[[Category:Discrimination]]
+[[Category:Homophobia]]
+[[Category:HIV/AIDS]]</rev></revisions></page></pages></query></api>

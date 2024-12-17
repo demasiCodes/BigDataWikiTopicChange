@@ -1,0 +1,340 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081114020806|251687988" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="236331" pageid="236331" ns="0" title="Sexual harassment"><revisions><rev timestamp="2008-11-15T17:02:11Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{redirect|Catcall|the children's novel by [[Linda Newbery]]|Catcall (novel)}}
+{{Sex and the Law}}
+'''Sexual harassment''' is unwelcome attention of a [[sexual]] nature and is a form of legal and social [[harassment]].  It includes a range of behavior from seemingly mild transgressions and annoyances to actual [[sexual abuse]] or [[sexual assault]]. (Dziech et al 1990, Boland 2002) Sexual harassment is considered a form of [[Law|illegal]] [[discrimination]] in many countries, and is a form of [[abuse]] ([[sexual abuse|sexual]] and [[Psychological abuse|psychological]]) and [[bullying]].
+
+The term sexual harassment began comming to public attention in the 1970s, starting at a "Speak Out" in 1975 in Ithaca New York, USA.  For many businesses, preventing sexual harassment, and defending its managerial employees from sexual harassment charges, have become key goals of legal decision-making.  In contrast, many scholars complain that [[sexual harassment in education]] remains a "forgotten secret," with educators and administrators refusing to admit the problem exists in their schools, or accept their legal and ethical responsibilities to deal with it. (Dziech, 1990)
+
+==Statistics==
+===Sexual harassment in the workplace===
+In her book ''In Our Time: Memoir of a Revolution'' (1999), journalist Susan Brownmiller quotes the Cornell activists who in 1975 thought they had coined the term sexual harassment: "Eight of us were sitting in an office ... brainstorming about what we were going to write on posters for our speak-out.  We were referring to it as 'sexual intimidation,' 'sexual coercion,' 'sexual exploitation on the job.'  None of those names seemed quite right.  We wanted something that embraced a whole range of subtle and un-subtle persistent behaviors.  Somebody came up with 'harassment.'  'Sexual harassment!' Instantly we agreed.  That's what it was."  (p. 281). These activists went on to form Working Women's Institute which, along with the Alliance Against Sexual Coercion, founded in 1976 by  Freada Klein, Lynn Wehrli, and Elizabeth Cohn-Stuntz, were among the the pioneer organizations to bring sexual harassment to public attention in the late 1970s.
+
+The term sexual harassment was used in 1973 by Dr Mary Rowe in a report to the then President and Chancellor of MIT about various forms of gender issues. (See Saturn's Rings, 1973). Rowe has stated that she believes she was not the first to use the term, since sexual harassment was being discussed in womens groups in Massachusetts in the early 1970s, but that MIT may have been the first or one of the first large organizations to discuss the topic (in the MIT Academic Council), and to develop relevant policies and procedures. MIT at the time also recognized the injuries caused by racial harassment and the harassment of women of color which may be both racial and sexual. The President of MIT also stated that harassment (and favoritism) are antithetical to the mission of a university as well as intolerable for individuals. 
+
+Approximately 15,000 sexual harassment cases are brought to the U.S. [[Equal Employment Opportunity Commission]] (EEOC) each year.  [[Mass media|Media]] and [[government]] surveys estimate the percentage of women being sexually harassed in the U.S. workplace at 40 to 60%.{{Fact|date=July 2008}} &lt;!-- More than 25,000 to 37,500 women work in the United States. --&gt; The [[European women's lobby]]     reports that between 40 and 50% of female employees have experienced some form of sexual harassment or unwanted sexual behavior in the workplace.&lt;ref&gt;[http://www.womenlobby.org/site/1abstract.asp?DocID=404 Facts and Figures about gender equality in Europe]&lt;/ref&gt;  While the majority of sexual harassment complaints come from women, the number of complaints filed by men is rapidly increasing. In FY 2007, 16% of EEOC complaints were filed by men with 11% of claims involving men filing against female supervisors.&lt;ref&gt;[http://www.usatoday.com/money/workplace/2004-09-17-harass_x.htm More men say they are sexually harassed at work]&lt;/ref&gt;&lt;ref name="EEOC_SH"&gt;[http://www.eeoc.gov/types/sexual_harassment.html US EEOC: Sexual Harassment]&lt;/ref&gt;&lt;ref&gt;[http://www.eeoc.gov/stats/harass.html Sexual Harassment Charges&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; A 2006 government study in the [[United Kingdom]] revealed that 2 out of 5 sexual harassment victims are male, with 8% percent of all sexual harassment complaints to the [[Equal Opportunities Commission]] (Britain's EEOC), coming from men.&lt;ref name = "Guardian-take it like a man"&gt;[http://observer.guardian.co.uk/uk_news/story/0,,1805397,00.html Sexual harassment of men revealed]&lt;/ref&gt; A 2007 study in Hong Kong reported that one third of sexual harassment victims are males being targeted by female supervisors.&lt;ref&gt; [http://www.dailyindia.com/show/111291.php/One-third-of-Hong-Kong-sexual-harassment-victims-are-men Daily India Sexual Harassment]&lt;/ref&gt; 'It affects both women and men, causing stress, health problems and financial penalties when they leave their jobs to avoid it,' said Jenny Watson, chair of the EOC.&lt;ref name = "Guardian-take it like a man"/&gt;
+
+===Sexual harassment in education===
+{{Main|Sexual harassment in education}}
+A 2002 study of students in the 8th through the 11th grade by the American Association of University Women (AAUW) revealed that 83% of girls have been sexually harassed, and 78% of boys have been sexually harassed. The American Association of College Women states that sexual harassment starts as early as preschool.&lt;ref name="hostile"&gt;[http://www.aauw.org/research/girls_education/hostile.cfm Hostile Hallways: Bullying, Teasing, and Sexual Harassment in School] AAUW: 2001 &lt;/ref&gt; In their 2006 study on sexual harassment at colleges and universities, the AAUW reported that 62% of female college students and 61% of male college students report having been sexually harassed at their university, with 80% of the reported harassment being peer-to-peer.  51% of male college students admit to sexually harassing someone in college, with 22% admitting to harassing someone often or occasionally.  31% percent of female college students admitted to harassing someone in college.&lt;ref&gt;[http://www.aauw.org/research/dtl.cfm Drawing the Line: Sexual Harassment on Campus] AAUW 2002, 2006&lt;/ref&gt; In a 2000 national survey conducted for the AAUW, it was reported that roughly 290,000 students experienced some sort of physical [[Sexual harassment in education#Sexual harassment and abuse of students by teachers|sexual abuse or harassment  by a public school employee]], such as a teacher or coach, between 1991 and 2000. In a major 2004 study commissioned by the U.S. Department of Education, nearly 10 percent of U.S. public school students were shown to have been targeted with unwanted sexual attention by school employees.&lt;ref&gt;[http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=49389 What's behind today's epidemic of teacher-student sex?]&lt;/ref&gt;{{Verify credibility|date=July 2008}} In their 2002 study, the AAUW reported that 38% percent of the students were sexually harassed by teachers or school employees.
+
+However, it is important to acknowledge that statistics do not give a complete picture of the pervasiveness of the problem as most sexual harassment situations go unreported. (Boland 2002, Dzeich 1990)
+
+==Range of behavior and circumstances==
+===Varied circumstances===
+
+Sexual harassment can occur in a variety of circumstances.  Often, but not always, the harasser is in a position of power or authority over the victim (due to differences in age, or social, political, educational or employment relationships).  Forms of harassment relationships include:
+
+* The harasser can be anyone, such as  a client, a co-worker, a teacher or professor, a student, a friend, or a stranger.
+
+* The victim does not have to be the person directly harassed but can be anyone who finds the behavior offensive and is affected by it.
+
+* While adverse effects on the victim are common, this does not have to be the case for the behavior to be unlawful.
+
+* The victim can be male or female. The harasser can be male or female.
+
+* The harasser does not have to be of the opposite sex.
+
+* The harasser may be completely unaware that his or her behavior is offensive or constitutes sexual harassment or may be completely unaware that his or her actions could be unlawful.
+
+(Adapted from the U.S. Equal Employment Opportunity Commission)&lt;ref name="EEOC_SH" /&gt;
+
+===Varied behaviors===
+
+One of the difficulties in understanding sexual harassment is that it involves a range of behavior, and is often difficult for the recipient to describe to themselves, and to others, exactly what they are experiencing.  Moreover, behavior and motives vary between individual harassers. 
+
+====Behavioral classes====
+Dzeich 4 (Dzeich et al 1990) has divided harassers into two broad classes: public and private.  ''Public harassers'' are flagrant in their seductive or sexist attitudes towards colleagues, subordinates, students, etc.  ''Private'' harassers carefully cultivate a restrained and respectable image on the surface, but when alone with their target, their demeanor changes completely. 
+
+Langelan describes three different classes of harassers.  First there is the ''predatory harasser'' who gets sexual thrills from humiliating others.  This harasser may become involved in sexual extortion, and may frequently harass just to see how targets respond--those who don't resist may even become targets for rape. Next, there is the ''dominance harasser,'' the most common type, who engages in harassing behaviour as an ego boost. Third are ''strategic'' or ''territorial harassers,'' who seek to maintain privilege in jobs or physical locations, for example a man's harassing female employees in a predominantly male occupation. (Langelan, 1993) 
+
+Attorney Mary Jo McGrath describes "''The Winner''" as a common profile that confuses harassment victims and others in the community because they do not seem like the type who would ''need'' to abuse anyone.  An adult male harasser is often middle aged, married with children, a churchgoer, and someone who is highly respected in the community. A teacher who sexually harasses students may have been named "Teacher of the Year" or be Chair of their department.  A young harasser may be captain of the football team, an honor student sure to attend an Ivy League school, or some other young person who thinks he or she has everything going for him or her (and so does everyone else). McGrath writes that sexual harassment and abuse "are acts of violence and domination, not sensuality and flirtation. These acts are calculated to dominate and control, not enhance the enjoyment and safety of the targeted person ... The violator may be very high functioning in all other areas of his or her life, but is driven within this realm to act out needs inappropriately."&lt;ref&gt;[http://www.mcgrathinc.com/articles-035.html The Early Warning Signs of Sexual Harassment and Abuse In School]&lt;/ref&gt;
+
+Brian Martin, an Australian associate professor of Science, Technology and Society writes "Most harassers don't try to justify their behaviour; they don't think about it. If asked, they may say they are just having fun and don't cause any harm. A few, though, consciously seek to humiliate their victims."&lt;ref&gt;[http://www.uow.edu.au/arts/sts/bmartin/pubs/96BRnvt.html Sexual Harassment and Nonviolent Action]&lt;/ref&gt;
+
+====Types of harassment====
+The list below is based on categories defined by Dzeich (Dzeich et al,1990) and Truida Prekel, a South African management consultant.&lt;ref&gt;[http://www.capegateway.gov.za/eng/pubs/guides/S/63925 Sexual Harassment: Causes, Consequences and Cures]&lt;/ref&gt;  There is usually more than one type of harassing behavior present (Boland 2002), so a single harasser will often fit more than one category.  These are brief summations of each type.  For a more in-depth discussion on patterns and types of harassment, see [http://www.sexualharassmentsupport.org/TypesOfHarassers.html Sexual Harassers] (Please note, these are not "legal" definitions; burdens of proof must comply with the guidelines described by the government.)
+
+'''Power-player''' Legally termed "[[quid pro quo]]" harassment, these harassers insist on sexual favors in exchange for benefits they can dispense because of their positions in hierarchies: getting or keeping a job, favorable grades, recommendations, credentials, projects, promotion, orders, and other types of opportunities.  
+
+'''Mother/Father Figure (a.k.a. The Counselor-Helper)''' These harassers will try to create mentor-like relationships with their targets, all the while masking their sexual intentions with pretenses towards personal, professional, or academic attention.  This is a common method of [[Sexual harassment in education#Sexual harassment and abuse of students by teachers|teachers who sexually harass students]]. (For an example, see [[Naomi Wolf]]'s article, [http://newyorkmetro.com/nymetro/news/features/n_9932/ The Silent Treatment].)
+
+'''One-of-the-Gang''' Often motivated by bravado or competition, or because the harasser(s) think it is funny (AAUW 2006), One-of-the-gang harassment occurs when groups of men or women embarrass others with lewd comments, physical evaluations, or other unwanted sexual attention. Harassers may act individually in order to belong or impress the others, or groups may gang up on a particular target. An extreme example is [[Tailhook Association|Tailhook '91]] during which participants sexually abused seven men and 83 women as part of a three-day aviator convention.&lt;ref&gt;[http://www.pbs.org/wgbh/pages/frontline/shows/navy/tailhook/ PBS Frontline: the navy blues: Tailhook '91]&lt;/ref&gt;
+
+'''Third Party sexual harassment''' describes sexual harassment of employees or peers who are not themselves the target of the harassment; this includes groping. Third-party sexual harassment may be either quid pro quo or hostile environment.
+
+'''Serial Harasser''' Harassers of this type carefully build up an image so that people would find it hard to believe they would do anyone any harm. They plan their approaches carefully, and strike in private so that it is their word against that of their victims. 
+
+'''[[Groping|Groper]]''' Whenever the opportunity presents itself, these harassers' eyes and hands begin to wander--in the elevator, when working late, at the office or department party. They like to insist on (usually begrudged) kisses or hugs and sometimes grabs the buttocks or the woman's breasts or the man's penis.{{Fact|date=January 2008}} Called [[chikan (body contact)|chikan]] when perpetrated by a male and [[chijo]] when perpetrated by a female in [[Japan]], the problem is so pervasive there that men are increasingly being banned altogether from stores, restaurants, hotels, spas and even entertainment outlets, and [[women-only train car]]s have been created.&lt;ref&gt;[http://abcnews.go.com/GMA/International/story?id=803965&amp;CMP=OTC-RSSFeeds0312 Japan Tries Women-Only Train Cars to Stop Groping]&lt;/ref&gt;&lt;ref&gt;[http://thescotsman.scotsman.com/international.cfm?id=1047972006 'Women only' signs make Japan's men fume]&lt;/ref&gt;
+
+'''Opportunist''' Opportunist use physical settings and circumstances, or infrequently occurring opportunities, to mask premeditated or intentional sexual behavior towards targets. This will often involve changing the environment in order to minimize inhibitory effects of the workplace or school (e.g private meetings, one-on-one "instruction," field trips, conferences)
+
+'''Bully''' In this case, sexual harassment is used to punish the victim for some transgression, such as rejection of the harasser's interest or advances, or making the harasser feel insecure about himself or herself or his or her abilities.  The bully uses sexual harassment to put the victim in his or her "proper place." 
+
+'''Confidante''' Harassers of this type approach subordinates, or students, as equals or friends, sharing about their own life experiences and difficulties, sharing stories to win admiration and sympathy, and inviting subordinates to share theirs so as to make them feel valued and trusted. Soon these relationships move into an intimate domain.
+
+'''Situational Harasser''' Harassing behavior begins when the perpetrator endures a [[traumatic event (psychological)|traumatic event]], or begins to experience very stressful life situations, such as psychological or medical problems, marital problems, or divorce.  The harassment will usually stop if the situation changes or the pressures are removed.
+
+'''Pest'''  This is the stereotypical "won't take 'no' for an answer" harasser who persists in hounding a target for attention and dates even after persistent rejections. This behavior is usually misguided, with no malicious intent.
+
+'''Great Gallant''' This mostly verbal harassment involves excessive compliments and personal comments that focus on appearance and gender, and are out of place or embarrassing to the recipient. Such comments are sometimes accompanied by leering looks. The "wolf whistles" of a [[Street harassment|street harasser]] are one example of this.
+
+'''Intellectual Seducer''' Most often found in educational settings, these harassers will try to use their knowledge and skills as an avenue to gain access to students, or information about  students, for sexual purposes. They may require students participate in exercises or "studies" that reveal information about their sexual experiences, preferences, and habits. They may use their skills, knowledge, and course content to impress students as an avenue to [[Sexual harassment in education#Sexual harassment and abuse of students by teachers|harassing or seducing a student.]]
+
+'''Incompetent''' These are socially inept individuals who desire the attentions of their targets, who do not reciprocate these feelings.  They may display a sense of entitlement, believing their targets should feel flattered by their attentions.  When rejected, this type of harasser may use bullying methods as a form of revenge.
+
+'''Unintentional''' Acts or comments of a sexual nature, not intended to harass, but is perceived by the "harrasee" as such. Talking about sex when a person feels uncomfortable about it may be called sexual harassment.
+
+'''[[Stalking]]''' can also be a method of sexual harassment.
+
+====Sexualized environments (aka environmental harassment)====
+Sexualized environments are environments where [[obscenities]], sexual [[Joke|joking]], sexually explicit [[graffiti]], viewing [[Internet pornography]], sexually degrading [[posters]] and objects, etc., are common.  None of these behaviors or objects may necessarily be directed at anyone in particular.  However, they can create an offensive environment, and one that is consistent with "[[hostile environment sexual harassment]]."  For example, in the case of Morse v. Future Reality Ltd. in the United Kingdom(1996), the female complainant was awarded compensation after her superiors ignored her complaint that her office mates spent much time studying{{clarifyme}} sexually explicit images downloaded from the [[Internet]], and creating a "general atmosphere of obscenity" in the office. [http://www.eoc.org.uk/Default.aspx?page=15305 EOC: Sexual Harassment: case decisions] Sexualized environments have also been shown to create atmospheres that encourage more serious and direct sexual harassment.  For example, when obscenities are common in the workplace, women are three times more likely to be treated as sex objects, and be directly sexually harassed than in environments where profanity is not tolerated.  And when sexual joking is common, sexual harassment is three to seven times more likely. (Boland, 2002)
+
+====Rituals and initiations====
+Sexual harassment can also occur in group settings as part of [[rituals]] or [[ceremonies]], such as when members engage newcomers in abusive or sexually explicit [[Rite of passage|rites]] as part of [[hazing]] or [[initiation]]. While such ''[[traditions]]'' have historically remained in arenas of [[male bonding]] or [[female bonding]], such as [[team sports]], [[fraternities]], and [[sororities]], it is becoming increasingly common for girls/women's groups to engage in similar ceremonies.&lt;ref name="hazeprob"&gt;[http://www.stophazing.org/problem.htm Why is Hazing a Problem?]&lt;/ref&gt; For example, as [[Female sport|women's sports]] become more widespread, some have begun to mimic the hazing and other practices characteristic of traditional men's sports in order to try to be accepted by men in [[sport]].&lt;ref&gt;[http://www.sportsbiz.bz/womensportinternational/taskforces/wsi_position_statement.htm WomenSport International: Position Statement]&lt;/ref&gt; And stories of sexual abuse and harassment in sorority initiations are also appearing more and more frequently in the popular media. &lt;ref&gt;[http://www.deltasigmatheta.com/hazenews/haze15.htm 20/20's Report on Sorority Hazing] May 3, 1999&lt;/ref&gt; While some suggest such activities are just "a [[joke]]"; others consider it degrading, insulting and even threatening—especially for many young people who have experienced sexual harassment, [[sexual abuse]], [[stalking]] or [[rape]].  Young people who lack confidence, or who are confused about their identity, may fall victim to such practices more easily than those who are self-assured.&lt;ref name="hazeprob" /&gt;
+
+==Retaliation and backlash== 
+Retaliation and backlash against a victim are very common, particularly a complainant. Victims who speak out against sexual harassment are often labeled troublemakers who are on their own ''power trips,'' or who are looking for attention.  Similar to cases of [[rape]] or sexual assault, ''the victim'' often becomes ''the accused'', with their appearance, private life, and character likely to fall under intrusive scrutiny and attack. &lt;ref&gt;[http://www.apa.org/monitor/oct03/harass.html Sexual harassment too often leads to humiliation for victims]&lt;/ref&gt; They risk hostility and isolation from colleagues, supervisors, teachers, fellow students, and even friends. They may become the targets of [[mobbing]] or [[relational aggression]].&lt;ref name="SHSF_effects"&gt;[http://www.sexualharassmentsupport.org/effects.html Effects of Sexual Harassment]&lt;/ref&gt;
+
+Women are not necessarily sympathetic to female complainants who have been sexually harassed. If the harasser was male, internalized sexism, and/or jealousy over the sexual attention towards the victim, may encourage some women to react with as much hostility towards the complainant as some male colleagues.&lt;ref name="webcom"&gt;[http://www.webcom.com/wcs/harass.html Dealing With Sexual Harassment]&lt;/ref&gt; Fear of being targeted for harassment or retaliation themselves may also cause some women to respond with hostility.&lt;ref name="backlash"&gt;[http://www.sexualharassmentsupport.org/Backlash.html Sexual harassment retaliation, backlash, and victim blaming]&lt;/ref&gt; For example, when Lois Jenson filed her lawsuit against Eveleth Taconite Co., the women placed a hangman's noose above her workplace, and [[shunning|shunned]] her both at work and in the community--many of these women later joined her suit.(Bingham et al 2002) Women may even project hostility onto the victim in order to bond with their male coworkers and build trust.&lt;ref name="backlash" /&gt;
+
+Retaliation has occurred when a sexual harassment victim suffers a ''negative action'' as a result of the harassment. For example, a complainant be given poor evaluations or low grades, have their projects [[sabotage]]d, be denied work or academic opportunities, have their work hours cut back, and other actions against them which undermine their productivity, or their ability to advance at work or school. They may be suspended, asked to resign, or be [[fired]] from their jobs altogether.  Moreover, a professor or employer accused of sexual harassment, or who is the colleague of a perpetrator, can use their power to see that a victim is never hired again, or never accepted to another school. Retaliation can even involve further sexual harassment, and also [[stalking]] and [[cyberstalking]] of the victim. &lt;ref name="backlash" /&gt;&lt;ref name="webcom" /&gt;
+
+Of the women who have approached her to share their own experiences of being [[Sexual harassment in education|sexually harassed by their teachers]], feminist and writer [[Naomi Wolf]] writes, 
+
+&lt;blockquote&gt;"I am ashamed of what I tell them: that they should indeed worry about making an accusation because what they fear is likely to come true. Not one of the women I have heard from had an outcome that was not worse for her than silence. One, I recall, was drummed out of the school by peer pressure. Many faced bureaucratic stonewalling. Some women said they lost their academic status as golden girls overnight; grants dried up, letters of recommendation were no longer forthcoming. No one was met with a coherent process that was not weighted against them. Usually, the key decision-makers in the college or university—especially if it was a private university—joined forces to, in effect, collude with the faculty member accused; to protect not him necessarily but the reputation of the university, and to keep information from surfacing in a way that could protect other women. The goal seemed to be not to provide a balanced forum, but damage control."&lt;ref&gt;[http://newyorkmetro.com/nymetro/news/features/n_9932/index.html The Silent Treatment]&lt;/ref&gt;&lt;/blockquote&gt;
+
+Another woman who was interviewed by Helen Watson, a sociologist, reported that, "Facing up to the crime and having to deal with it in public is probably worse than suffering in silence. I found it to be a lot worse than the harassment itself." (Watson, 1994)
+
+==Effects of sexual harassment and the (often) accompanying retaliation:==
+
+Effects of sexual harassment can vary depending on the individual, and the severity and duration of the harassment.  Often, sexual harassment incidents fall into the category of the "merely annoying." However, many situations can, and do, have life-altering effects particularly when they involve severe/chronic abuses, and/or retaliation against a victim who does not submit to the harassment, or who complains about it openly.  Indeed, psychologists and social workers report that severe/chronic sexual harassment can have the same psychological effects as rape or sexual assault.  (Koss, 1987)  For example, in 1995, [[Judith Coflin]] committed suicide after chronic sexual harassment by her bosses and coworkers. (Her family was later awarded 6 million dollars in punitive and compensatory damages.) Backlash and victim-blaming can further aggravate the effects.  Moreover, every year, sexual harassment costs hundreds of millions of dollars in lost educational and professional opportunities, mostly for girls and women. (Boland, 2002){{Verify source|date=July 2008}}
+
+===Common effects on the victims===
+
+Common professional, academic, financial, and social effects of sexual harassment:
+
+*   Decreased work or school performance; increased absenteeism
+*   Loss of job or career, loss of income
+*   Having to drop courses, change academic plans, or leave school (loss of tuition)
+*   Having one's personal life offered up for public scrutiny -- the victim becomes the "accused," and his or her dress, lifestyle, and private life will often come under attack. (Note: this rarely occurs for the perpetrator.)
+*   Being objectified and humiliated by scrutiny and gossip
+*   Becoming publicly sexualized (i.e. groups of people "evaluate" the victim to establish if he or she is "worth" the sexual attention or the risk to the harasser's career)
+*   Defamation of character and reputation
+*   Loss of trust in environments similar to where the harassment occurred
+*   Loss of trust in the types of people that occupy similar positions as the harasser or his or her colleagues
+*   Extreme stress upon relationships with significant others, sometimes resulting in divorce; extreme stress on peer relationships, or relationships with colleagues
+*   Weakening of support network, or being ostracized from professional or academic circles (friends, colleagues, or family may distance themselves from the victim, or shun him or her altogether)
+*   Having to relocate to another city, another job, or another school
+*   Loss of references/recommendations
+
+Some of the psychological and health effects that can occur in someone who has been sexually harassed:
+[[clinical depression|depression]], [[anxiety]] and/or [[panic attack]]s, sleeplessness and/or [[nightmare]]s, [[shame]] and [[guilt]], difficulty concentrating, headaches, [[fatigue (physical)|fatigue]] or loss of motivation, stomach problems, [[eating disorder]]s (weight loss or gain), [[alcoholism]], feeling betrayed and/or violated, feeling angry or violent towards the perpetrator, feeling powerless or out of control, increased blood pressure, loss of confidence and self esteem, withdrawal and [[isolation]], overall loss of [[Trust (sociology)|trust]] in people, traumatic stress, [[post-traumatic stress disorder]] (PTSD), [[complex post-traumatic stress disorder]], suicidal thoughts or attempts, [[suicide]].&lt;ref name="SHSF_effects" /&gt;&lt;ref&gt;[http://www.webcom.com/wcs/harass.html#effects Common Effects of Sexual Harassment]&lt;/ref&gt;&lt;ref&gt;[http://www.uoregon.edu/~counsel/harass.htm Sexual Harassment: Myths and Realities]&lt;/ref&gt;&lt;ref name="VAW_effects"&gt;[http://www.stopvaw.org/Effects_of_Sexual_Harassment.html StopVAW: Effects of Sexual Harassment]&lt;/ref&gt;&lt;ref name="org_factor"&gt;[http://www.ilo.org/public/english/protection/safework/gender/encyclo/psy14ae.htm Psychosocial and Organizational Factors: Sexual Harassment]&lt;/ref&gt;
+
+===Effects of sexual harassment on organizations===
+
+* Decreased productivity and increased team conflict
+* Decrease in success at meeting financial goals (because of team conflict)
+* Decreased job satisfaction
+* Loss of staff and expertise from resignations to avoid harassment or resignations/firings of alleged harassers; loss of students who leave school to avoid harassment
+* Decreased productivity and/or increased absenteeism by staff or students experiencing harassment
+* Increased health care costs and sick pay costs because of the health consequences of harassment
+* The knowledge that harassment is permitted can undermine ethical standards and discipline in the organization in general, as staff and/or students lose respect for, and trust in, their seniors who indulge in, or turn a blind eye to, sexual harassment
+* If the problem is ignored, a company's or school's image can suffer 
+* Legal costs if the problem is ignored and complainants take the issue to court.(Boland 1990)&lt;ref&gt;[http://qnc.queensu.ca/story_loader.php?id=42b98262192e9 Sexual harassment bad for victims and for business] June 22, 2005&lt;/ref&gt;&lt;ref name="org_factor" /&gt;&lt;ref&gt;[http://www.ottawabusinessjournal.com/311209712945483.php Sexual harassment: Poisoning profit prospects] August 10, 2005&lt;/ref&gt;&lt;ref&gt;[http://www.capegateway.gov.za/eng/pubs/guides/S/63925/7 For Help with the Handling of Harassment]&lt;/ref&gt;&lt;ref name="VAW_effects" /&gt;
+
+==Evolution of sexual harassment law==
+===United States===
+====Workplace====
+In the US, the [[Civil Rights Act of 1964|Civil Rights Act of 1964 Title VII]] prohibits employment discrimination based on race, sex, color, national origin or religion. The prohibition of sex discrimination covers both females and males.  This discrimination occurs when the sex of the worker is made as a condition of employment (i.e. all female waitpersons or male carpenters) or where this is a job requirement that does not mention sex but ends up barring many more persons of one sex than the other from the job (such as height and weight limits).
+
+[[Barnes v. Train]] (1974) is commonly viewed as the first sexual harassment case in America, even though the term "sexual harassment" was not used.&lt;ref&gt;[http://www.wendymcelroy.com/ifeminists/2004/1027.html The Sad Evolution of Sexual Harassment] October 27, 2004&lt;/ref&gt; In 1976, [[Williams v. Saxbe]] established sexual harassment as a form of sex discrimination when sexual advances by a male supervisor towards a female employee, if proven, would be deemed an artificial barrier to employment placed before one gender and not another. In 1980 the [[Equal Employment Opportunity Commission]] (EEOC) issued regulations defining sexual harassment and stating it was a form of sex discrimination prohibited by the Civil Rights Act of 1964.  In the 1986 case of [[Meritor Savings Bank v. Vinson]], the Supreme Court first recognized "sexual harassment" as a violation of Title VII, established the standards for analyzing whether the conduct was welcome and levels of employer [[liability]], and that speech or conduct in itself can create a "[[hostile environment sexual harassment|hostile environment]]."   The [[Civil Rights Act of 1991]] added provisions to Title VII protections including expanding the rights of women to sue and collect compensatory and punitive [[damages]] for sexual discrimination or harassment, and the case of [http://shsf.invisionzone.com/index.php?showtopic=445 Ellison v. Brady] resulted in rejecting the [[reasonable person]] standard in favor of the "reasonable woman standard" which allowed for cases to be analyzed from the perspective of the complainant and not the defendant.  Also in 1991, [[Jenson v. Eveleth Taconite Co.]] became the first sexual harassment case to be given [[class action]] status, paving the way for others. Seven years later, in 1998, this case would establish new precedents for setting limits on the "[[Discovery (law)|discovery]]" process in sexual harassment cases, and allowing psychological injuries from the [[litigation]] process to be included in assessing damages awards.  In the same year, the courts concluded in [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&amp;vol=000&amp;invol=97-282 Faragher v. City of Boca Raton, Florida], and [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&amp;vol=000&amp;invol=97-569 Burlington v. Ellerth], that employers are liable for harassment by their employees.  Moreover, [[Oncale v. Sundowner Offshore Services]] set the precedent for same-sex harassment, and sexual harassment without motivation of "sexual desire", stating that any discrimination based on sex is actionable so long as it places the victim in an objectively disadvantageous working condition, regardless of the gender of either the victim, or the harasser. 
+
+In the 2006 case of [http://docket.medill.northwestern.edu/archives/003256.php Burlington Northern &amp; Santa Fe Railway Co. v. White], the standard for retaliation against a sexual harassment complainant was revised to include any adverse employment decision or treatment that would be likely to dissuade a "reasonable worker" from making or supporting a charge of discrimination.
+
+====Education==== 
+[[Title IX]] of the Education Amendments of 1972 (United States) states "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance."
+
+In [http://www.law.cornell.edu/supct/html/historics/USSC_CR_0503_0060_ZS.html Franklin v. Gwinnett County Public Schools] (1992), the U.S. Supreme Court held that private citizens could collect damage awards when teachers sexually harassed their students.  In [http://www.law.umkc.edu/faculty/projects/ftrials/firstamendment/bethel.html Bethel School District No. 403 v. Fraser] (1986) the courts ruled that schools have the power to discipline students if they use "obscene, profane language or gestures" which could be viewed as substantially interfering with the educational process, and inconsistent with the "fundamental values of public school education." Under regulations issued in 1997 by the U.S. [[United States Department of Education|Department of Education]], which administers [[Title IX]], school districts should be held responsible for harassment by educators if the harasser "was aided in carrying out the sexual harassment of students by his or her position of authority with the institution."&lt;ref&gt;[http://www.ed.gov/about/offices/list/ocr/docs/sexhar00.html Sexual Harassment Guidance]&lt;/ref&gt; In [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&amp;vol=000&amp;invol=97-843 Davis v. Monroe County Board of Education], and [http://www.kscourts.org/CA10/cases/1999/08/97-1055.htm Murrell v. School Dist. No. 1], 1999, schools were assigned liability for peer-to-peer sexual harassment if the plaintiff sufficiently demonstrated that the administration's response shows "deliberate indifference" to "actual knowledge" of discrimination.
+
+===Evolution of sexual harassment law in other jurisdictions===
+
+In India, the case of Vishaka Vs. State of Rajasthan in 1997 has been credited with establishing sexual harassment as illegal.&lt;ref name="india_rape"&gt;[http://www.legalserviceindia.com/articles/rape_laws.htm Sexual Harassment and Rape Laws in India]&lt;/ref&gt; In Israel, the 1988 Equal Employment Opportunity Law made it a crime for an employer to retaliate against an employee who had rejected sexual advances, but it wasn't until 1998 that the Israeli Sexual Harassment Law made such behavior illegal. (Kamir, 2005)
+  
+In May 2002, the [[Europe]]an Union Council and Parliament amended a 1976 Council Directive on the equal treatment of men and women in employment to prohibit sexual harassment in the workplace, naming it a form of sex discrimination and violation of dignity. This Directive required all Member States of the European Union to adopt laws on sexual harassment, or amend existing laws to comply with the Directive by October 2005. &lt;ref&gt;[http://www.stopvaw.org/Domestic_Legal_Framework.html?Type=B_BASIC&amp;SEC={D7FABC81-256E-41C1-BF3A-563AD89AA809} Domestic Legal Framework] November 1, 2003&lt;/ref&gt;
+
+In 2005, China added new provisions to the ''Law on Women's Right Protection'' to include sexual harassment.&lt;ref&gt;[http://news.bbc.co.uk/2/hi/business/4625913.stm China to outlaw sexual harassment]&lt;/ref&gt;  In 2006 "The Shanghai Supplement" was drafted to help further define sexual harassment in China. &lt;ref&gt; [http://www.chinadaily.com.cn/china/2006-10/27/content_718147.htm China Daily]&lt;/ref&gt;
+
+==Varied legal guidelines and definitions==
+'''[[The United Nations]] General Recommendation 19 to the Convention on the Elimination of all Forms of Discrimination Against Women''' defines sexual harassment of women to include: 
+&lt;blockquote&gt;"such unwelcome sexually determined behavior as physical contact and advances, sexually colored remarks, showing pornography and sexual demands, whether by words or actions. Such conduct can be humiliating and may constitute a health and safety problem; it is discriminatory when the woman has reasonable ground to believe that her objection would disadvantage her in connection with her employment, including recruitment or promotion, or when it creates a hostile working environment." &lt;/blockquote&gt;
+While such conduct can be harassment of women by men, many laws around the world which prohibit sexual harassment are more enlightened and recognize that both men and women may be harassers or victims of sexual harassment. It is important to note, most claims of sexual harassment are made by women.
+
+===United States===
+There are a number of legal options for a complainant in the U.S.: [[mediation]], filing with the EEOC or filing a claim under a [[U.S. state|state]] Fair Employment Practices (FEP) statute (both are for workplace sexual harassment), filing a common law [[tort]], etc.&lt;ref name="whattodo"&gt;[http://www.feminist.org/911/harasswhatdo.html What to Do if You or Someone You Know is Sexually Harassed]&lt;/ref&gt; Not all sexual harassment will be considered severe enough to form the basis for a legal claim.  However, most often there are several types of harassing behaviors present, and there is no minimum level for harassing conduct under the law.(Boland, 2002)  ''Many experienced sexual harassment than have a solid legal case against the accused.'' Because of this, and the common preference for settling, few cases ever make it to federal court.&lt;ref name="whattodo" /&gt; The section below describes the legal definitions that have been created for sexual harassment in the workplace.  Similar definitions have been created for academic environments in the [http://www.ed.gov/about/offices/list/ocr/docs/shguide.html U.S. Department of Education Sexual Harassment Guidance].
+
+====EEOC definition====
+In 1980 the [[Equal Employment Opportunity Commission]] produced a set of guidelines for defining and enforcing Title VII (in 1984 it was expanded to include educational institutions). The EEOC defines sexual harassment as: 
+
+Unwelcome sexual advances, requests for sexual favors, or other verbal or physical conduct of a sexual nature when: 
+
+1. Submission to such conduct was made either explicitly or implicitly a term or condition of an individual's employment,
+
+2. Submission to or rejection of such conduct by an individual was used as the basis for employment decisions affecting such individual, or
+
+3. Such conduct has the purpose or effect of unreasonably interfering with an individual's work performance or creating an intimidating, hostile, or offensive working environment.
+
+1. and 2. are called "[[quid pro quo]]" (Latin for "this for that" or "something for something"). They are essentially "sexual bribery", or promising of benefits, and "sexual coercion".
+
+Type 3. known as "hostile work environment," is by far the most common form. This form is less clear cut and is more subjective.&lt;ref name="webcom" /&gt;
+
+'''Note:''' a workplace harassment complainant ''must'' file with the EEOC and receive a "right to sue" clearance, before they can file a lawsuit against a company in federal court. (Boland, 2002)
+
+====''Quid pro quo'' sexual harassment====
+
+In the workplace, this occurs when a job benefit is directly tied to an employee submitting to unwelcome sexual advances. For example, a supervisor promises an employee a raise if he or she will go out on a date with him or her, or tells an employee he or she will be fired if he or she doesn't sleep with him or her.&lt;ref&gt;[http://www.abanet.org/publiced/practical/sexualharassment_quidproquo.html The Law &amp; Your Job: What is quid pro quo harassment?]&lt;/ref&gt; Quid pro quo harassment also occurs when an employee makes an evaluative decision, or provides or withholds professional opportunities based on another employee's submission to verbal, nonverbal or physical conduct of a sexual nature. &amp;nbsp;Quid pro quo harassment is equally unlawful whether the victim resists and suffers the threatened harm or submits and thus avoids the threatened harm.&lt;ref&gt;[http://www.sexualharassmentsupport.org/SHworkplace.html Sexual Harassment In The Workplace]&lt;/ref&gt;
+
+====''Hostile environment'' sexual harassment====
+
+This occurs when an employee is subjected to comments of a sexual nature, unwelcome physical contact, or offensive sexual materials as a regular part of the work environment. For the most part, a single isolated incident will not be enough to prove hostile environment harassment unless it involves extremely outrageous and egregious conduct. The courts will try to decide whether the conduct is both "serious" and "frequent."  Supervisors, managers, co-workers and even customers can be responsible for creating a hostile environment.&lt;ref&gt;[http://www.abanet.org/publiced/practical/sexualharassment_hostileenvironment.html The Law &amp; Your Job: What is hostile environment harassment?]&lt;/ref&gt; Probably the most famous hostile environment sexual harassment case to date is [[Jenson v. Eveleth Taconite Co.]] which inspired the movie ''[[North Country]]''.  (See [[Hostile environment sexual harassment]])
+
+The line between "quid pro quo" and "hostile environment" harassment is not always clear and the two forms of harassment often occur together. For example, an employee's job conditions are affected when a sexually hostile work environment results in a constructive discharge.  At the same time, a supervisor who makes sexual advances toward a subordinate employee may communicate an implicit threat to retaliate against her if she does not comply.&lt;ref&gt;[http://www.eeoc.gov/policy/docs/currentissues.html Policy Guidance on Current Issues of Sexual Harassment] 03/19/90 &lt;/ref&gt;
+
+&lt;blockquote&gt;"Hostile environment" harassment may acquire characteristics of "quid pro quo" harassment if the offending supervisor abuses his authority over employment decisions to force the victim to endure or participate in the sexual conduct. Sexual harassment may culminate in a retaliatory discharge if a victim tells the harasser or her employer she will no longer submit to the harassment, and is then fired in retaliation for this protest. Under these circumstances it would be appropriate to conclude that both harassment and retaliation in violation of section 704(a) of Title VII have occurred."&lt;/blockquote&gt;
+
+====Retaliation====
+
+Retaliation has occurred when an employee suffers a ''negative action'' after he or she has made a report of sexual harassment, file a grievance, assist someone else with a complaint, or participate in discrimination prevention activities.  Negative actions can include being fired, demotion, suspension, denial of promotion, poor evaluation, unfavorable job re-assignment--any adverse employment decision or treatment that would be likely to dissuade a "reasonable worker" from making or supporting a charge of discrimination. ([http://docket.medill.northwestern.edu/archives/003256.php See Burlington Northern &amp; Santa Fe Railway Co. v. White]) Retaliation is as illegal as the sexual harassment itself, but also as difficult to prove.  Also, retaliation is illegal even if the original charge of sexual harassment was not proven.
+
+===Other jurisdictions===
+Many jurisdictions outside the United States have adopted their own definitions of sexual harassment, intended to cover essentially the same forms of undesirable conduct. However, if a country has officially outlawed sexual harassment, most define the behavior similarly to that of the U.S., some examples below:
+
+*'''Czech Republic:''' Undesirable behavior of a sexual nature at the workplace if such conduct is unwelcome, unsuitable or insulting, or if it can be justifiably perceived by the party concerned as a condition for decisions affecting the exercise of rights and obligations ensuring from labor relations.&lt;ref name="each_law"&gt;[http://www.avrio.net/593.0.html Employment Law in Each Country]&lt;/ref&gt;
+
+*'''Denmark:''' Sexual harassment is defined as, when any verbal, non-verbal or physical action is used to change a victim's sexual status against the will of the victim and resulting in the victim feeling inferior or hurting the victim's dignity. Man and woman are looked upon as equal, and any action trying to change the balance in status with the differences in sex as a tool, is also sexual harassment. In the workplace, jokes, remarks, etc., are only deemed discriminatory if the employer has stated so in their written policy. Women are viewed as being responsible for confronting harassment themselves, such as by slapping the harasser in the face. Law number 1385 of December 21, 2005 regulates this area. &lt;ref name="Denmark law"&gt;[http://www.ku.dk/regel/2/2002.html#LOV%20nr%201385 Denmark Law]&lt;/ref&gt;
+
+*'''France:''' Article 222-33 of the French Criminal Code describes sexual harassment as, "The fact of harassing anyone using orders, threats or constraint, in order to obtain favors of a sexual nature, by a person abusing the authority that functions confer on him..." This means the harasser can only be someone with authority on the harassed (basically, there can't be sexual harassment between coworkers of the same rank). However, moral harassment occurs when an employee is subjected to repeated acts (one is not enough) the aim or effect of which may result in a degradation (deterioration) of his conditions of employment that might undermine his rights and his dignity, affect his physical or mental health or jeopardize his professional future.  Sexual as well as the moral harassment is recognized by the law.&lt;ref&gt;[http://www.nla.org/library/spring97/pg22.html Sexual Harassment in the Workplace in France and in the United States] Spring 1997 &lt;/ref&gt;
+
+*'''India:''' Sexual harassment in India (and [[Pakistan]])is termed "[[Eve teasing]]" and is described as: unwelcome sexual gesture or behaviour whether directly or indirectly as sexually coloured remarks; physical contact and advances;  showing pornography; a demand or request for sexual favours; any other unwelcome physical, verbal/non-verbal conduct being sexual in nature. The critical factor is the unwelcomeness of the behaviour, thereby making the impact of such actions on the recipient more relevant rather than intent of the perpetrator.&lt;ref name="india_rape" /&gt;
+
+*'''Israel: '''The 1998 Israeli Sexual Harassment Law interprets sexual harassment broadly, and prohibits the behavior as a discriminatory practice, a restriction of liberty, an offence to human dignity, a violation of every person's right to elementary respect, and an infringement of the right to privacy.  Additionally, the law prohibits intimidation or retaliation that accommodates sexual harassment. Intimidation or retaliation thus related to sexual harassment are defined by the law as "prejudicial treatment". (Kamir, 2005)
+
+*'''Pakistan:''' Pakistan has adopted a Code of Conduct for Gender Justice in the Workplace that will deal with cases of sexual harassment.  The Alliance Against Sexual Harassment (AASH) announced they would be working with the committee to establish guidelines for the proceedings.  AASH defines sexual harassment much the same as it is defined in the U.S. and other cultures.&lt;ref&gt;[http://www.aasha.org.pk/ AASHA - (Pakistan) Alliance Against Sexual Harassment]&lt;/ref&gt;
+
+*'''Philippines:'''  The Anti-Sexual Harassment Act of 1995 was enacted "primarily to protect and respect the dignity of workers, employees, and applicants for employment as well as students in educational institutions or training centers. This law, consisting of ten (10) sections, provides for a clear definition of work, education or training-related sexual harassment and specifies the acts constituting sexual harassment. It likewise provides for the duties and liabilities of the employer in cases of sexual harassment, and sets penalties for violations of its provisions. It is to be noted that a victim of sexual harassment is not barred from filing a separate and independent action for damages and other relief aside from filing the charge for sexual harassment." &lt;ref&gt;[http://filipiniana.net/read_content.jsp?filename=L00000000018 Full text of the Philippine Anti Sexual Harassment Law]&lt;/ref&gt;
+
+*'''Poland:''' There is no special provision in the employment law that provides for moral or sexual harassment; however it is commonly accepted by the jurisprudence, that sexual harassment occurs when the employee is subjected to acts of another person in order to obtain favours of a sexual nature.  Moral harassment occurs when en employee is subjected to acts which may result in a deterioration of his conditions of employment or undermine his rights and dignity as well as affect his physical or moral health. These definitions are not legal ones, but definitions accepted by the jurisprudence.&lt;ref name="each_law" /&gt;
+
+*'''Russia:''' In the Criminal Code, Russian Federation, (CC RF), there exists a law which prohibits utilization of an office position and material dependence for coercion of sexual interactions (Article 118, current CC RF). However, according to the Moscow Center for Gender Studies, in practice, the courts do not examine these issues.&lt;ref&gt;[http://shsf.invisionzone.com/index.php?s=a1f5e83af0f492d74310d4d1a073b792&amp;showtopic=279 Sexual Harassment in Russian Workplaces - Sexual Harassment Support Forum]&lt;/ref&gt;
+
+*'''United Kingdom:''' The Discrimination Act of 1975, was modified to establish sexual harassment as a form of discrimination in 1986. &lt;ref&gt;[http://www.eoc-law.org.uk/default.aspx?page=4666 Strathclyde Regional Council v Porcelli [1986] IRLR 134 Court of Session]&lt;/ref&gt;   It states that harassment occurs where there is unwanted conduct on the ground of a person's sex or unwanted conduct of a sexual nature and that conduct has the purpose or effect of violating a person's dignity, or of creating an intimidating, hostile, degrading, humiliating or offensive environment for them. If an employer treats someone less favourably because they have rejected, or submitted to, either form of harassment described above, this is also harassment.&lt;ref&gt;[http://www.eoc.org.uk/Default.aspx?page=15657 Sexual Harassment: what the law says]&lt;/ref&gt;
+
+* '''Australia:''' The Sex Discrimination Act 1984 defines sexual harassment as " ... unwanted conduct of a sexual nature, in circumstances in which a reasonable person, having regard to all the circumstances, would have anticipated that the person harassed would be offended, humiliated or intimidated."
+
+==Debates==
+Though the phrase "sexual harassment" is generally acknowledged to include clearly damaging and morally deplorable behavior, its boundaries can be broad and controversial. Accordingly, misunderstandings can abound.  Moreover, sexual harassment law has been highly criticized by experts, such as [[Alan Dershowitz]] and [[Eugene Volokh]], for imposing on the right to free speech.&lt;ref&gt;[http://www.law.ucla.edu/volokh/harass/ Freedom of Speech vs. Workplace Harassment Law]&lt;/ref&gt; Some feminist groups criticize sexual harassment policy as helping maintain archaic stereotypes of women as "delicate, asexual creatures" who require special protection.&lt;ref&gt;[http://www.ffeusa.org/html/statements/statements_harassment.html Feminism and Free Speech]&lt;/ref&gt; [[Camille Paglia]], for example says that young girls can end up acting in such ways as to make sexual harassment easier, such that for example, by acting "nice" they can become a target.  Paglia commented in an interview with Playboy, "Realize the degree to which your niceness may invoke people to say lewd and pornographic things to you--sometimes to violate your niceness. The more you blush, the more people want to do it."&lt;ref&gt;[http://privat.ub.uib.no/bubsy/playboy.htm Playboy interview, Camille Paglia] May 1995 &lt;/ref&gt;
+
+Sexual harassment policy and legislation have been criticized as attempts to "regulate romance" which goes against human urges.&lt;ref&gt;[http://www.abanet.org/genpractice/magazine/1996/winter/w96shi.html Sexual Harassment: The employer's role in prevention]&lt;/ref&gt; Other critics assert that sexual harassment is a very serious problem, but current views focus too heavily on sexuality rather than on the type of conduct that undermines the ability of women or men to work together effectively.  Viki Shultz, a law professor at [[Yale University]] comments, "Many of the most prevalent forms of harassment are designed to maintain work-particularly the more highly rewarded lines of work-as bastions of male competence and authority."&lt;ref&gt;[http://www.aaup.org/publications/Academe/1998/98so/SO98Alg.HTM Love, Lust, and the Law Sexual Harassment in the Academy]&lt;/ref&gt; Feminist [[Jane Gallop]] sees this evolution of the definition of sexual harassment as coming from a "split" between what she calls "power feminists" who are pro-sex (like herself) and what she calls "victim feminists," who are not.  She argues that the split has helped lead to a ''perversion'' of the definition of sexual harassment, which used to be about sexism but has come to be about anything that's sexual. (Gallop, 1997)
+
+There is also concern over abuses of sexual harassment policy, and employers and administrators using accusations as a way of expelling employees they want to eliminate for other reasons. (Westhues, 1998).
+
+There is also discussion of whether some recent trends towards more revealing clothing and permissive habits have created a more sexualized general environment, in which some forms of communication are unfairly labeled harassment, but are simply a reaction to greater sexualization in everyday environments. &lt;ref&gt; [http://www.nydailynews.com/lifestyle/2008/06/30/2008-06-30_save_the_males_ho_culture_lights_fuses_b.html 'Save the males': Ho culture lights fuses, but confuses], By KATHLEEN PARKER, NY Daily News, June 30th 2008.  Based on "Save the Males" by Kathleen Parker, Copyright  2008, Random House, an imprint of Random House Publishing Group. &lt;/ref&gt;
+
+There are many debates about how organizations should deal with sexual harassment. Some observers feel strongly that organizations should be held to a zero tolerance standard of "Must report - must investigate - must punish." 
+
+Others write that those who feel harassed should in most circumstances have a choice of options.  See "Workplace Justice, Zero Tolerance, and Zero Barriers," 2001, by Mary Rowe and Corinne Bendersky, in Negotiations and Change, From the Workplace to Society, Thomas Kochan and Richard Locke (editors), Cornell University Press, 2002; Mary Rowe in "Dealing with Harassment: A Systems Approach," in Sexual Harassment:  Perspectives, Frontiers, and Response Strategies, Women &amp; Work, Vol. 5, Margaret Stockdale, editor, Sage Publications, 1996, pp. 241-271; Mary Rowe, "People Who Feel Harassed Need a Complaint System with both Formal and Informal Options," in Negotiation Journal, April, 1990, Vol. 6, No. 2, pp. 161-172; Mary Rowe, "Dealing with Harassment: A Systems Approach," in Sexual Harassment:  Perspectives, Frontiers, and Response Strategies, Women &amp; Work, Vol. 5, Margaret Stockdale, editor, Sage Publications, 1996, pp. 241-271. Sexual harassment, by definition, is unwanted and not to be tolerated but there often are a number of effective ways for offended and injured people to deal with harassment.
+
+==References==
+
+*American Association of University Women. ''Hostile Hallways: Bullying, Teasing, and Sexual Harassment in School.'' AAUW, 2002.
+*American Association of University Women. ''Drawing the Line: Sexual Harassment on Campus.'' AAUW,2006.
+*Bingham, Clara, Gansler, Laura Leedy. ''Class Action: The Landmark Case that Changed Sexual Harassment Law''. New York, Anchor Books, 2002.
+*Boland, Mary L. ''Sexual Harassment: Your Guide to Legal Action''. Naperville, Illinois: Sphinx Publishing, 2002.
+*Dziech, Billie Wright, Weiner, Linda. ''The Lecherous Professor: Sexual Harassment on Campus''.  Chicago Illinois: University of Illinois Press, 1990.
+*Gallop, Jane. ''Feminist Accused of Sexual Harassment''. Duke University Press, 1997.
+*Harper, Colin. ''My Uncontrollable Urges''. Bridge Publications, 1998.
+*Harper, Colin. ''Why I can't take 'no' for an answer...'' Bridge Publications, 2001
+*Kamir, Orit. "Israel's 1998 Sexual Harassment Law: Prohibiting Sexual Harassment, Sexual Stalking, and Degradation Based on Sexual Orientation in the Workplace and in all Social Settings." ''International Journal of Discrimination and Law,'' 2005, 7 , 315-336.
+*Koss, Mary P. "Changed Lives: The Psychological Impact of Sexual Harassment." in Paludi, Michele A. ed. ''Ivory Power: Sexual Harassment On Campus.'' Albany, NY, State University of New York Press, 1987.
+*Langelan, Martha. ''Back Off: How to Confront and Stop Sexual Harassment and Harassers''.  Fireside, 1993
+*Patai, Daphne. ''Heterophobia: Sexual Harassment and the Future of Feminism''. Lanham: Rowman and Littlefield, 1999.
+*Watson, Helen. "Red herrings and mystifications: Conflicting perceptions of sexual harassment," in Brant, Clare, and Too, Yun Lee, eds., ''Rethinking Sexual Harassment''. Boulder, Colorado, Pluto Press, 1994.
+*Westhues, Kenneth. ''Eliminating Professors: A Guide to the Dismissal Process''. Lewiston, NY: The Edwin Mellen Press, 1998.
+
+==For further reading==
+*''Directions in Sexual Harassment Law''. R. B. Siegel, co-editor. MacKinnon, Catherine. New Haven, Conn.: Yale Univ. Press, 2004.
+*''Ivory Power: Sexual Harassment On Campus''. Paludi, Michele A. ed. Albany, NY, State University of New York Press, 1987.
+*''Sexual Harassment : A Practical Guide to the Law, Your Rights, and Your Options for Taking Action''. O'Shea, Tracy, and LaLonde, Jane.   St. Martin's Griffin, 1998.
+*''Sexual Harassment of Working Women : A Case of Sex Discrimination''. MacKinnon, Catherine. Yale University Press, 1979
+*''Sexual Harassment on the Job: What It Is and How to Stop it''. Petrocelli, William, and Repa, Barbara Kate.  NOLO, 1998
+*''The Updated and Expanded 9to5 Guide to Combating Sexual Harassment : Candid Advice from 9to5, the National Association of Working Women''. Bravo, Ellen, and Cassedy, Ellen. The 9to5 Fund, 1999.
+See also: [http://www.siecus.org/pubs/biblio/bibs0022.html SIECUS annotated bibliography of books on sexual harassment and sexual violence]
+
+==Sexual harassment in media and literature==
+
+*''[[The Ballad of Little Jo]]'': film based on the true story of a woman living in the [[American Old West|frontier west]] who disguises herself as a man to protect herself from the sexual harassment and abuse of women all too common in that environment.
+* ''[[Disclosure (film)|Disclosure]]'': a film starring [[Michael Douglas]] and [[Demi Moore]] in which a man is sexually harassed by his female superior, who tries to use the situation to destroy his career by claiming that he was the sexual harasser.
+* ''[[Disgrace]]'': a novel about a South African literature professor whose career is ruined after he has an affair with a student.
+*''[[Hostile Advances: The Kerry Ellison Story]]'': television movie about Ellison v. Brady, the case that set the "reasonable woman" precedent in sexual harassment law.
+*''[[In the Company of Men]]'': film about two male coworkers who, angry at women, plot to seduce and maliciously toy with the emotions of a deaf subordinate who works at the same company.
+*''[[Les Miserables]]'': a novel by [[Victor Hugo]], and later several film adaptations.  During the early stages of the story, Fantine is fired from her job after refusing to have sex with her boss.
+*''[[The Magdalene Sisters]]:'' film based on the true stories of young women imprisoned for "bringing shame upon their families" by being raped, sexually abused, flirting, or simply being pretty, and subsequently subjected to sexual harassment and abuse by the nuns and priests in the Magdalene asylums in Ireland.
+*''[[Nine to Five]]'': film comedy starring [[Jane Fonda]], [[Lily Tomlin]], and [[Dolly Parton]], about three women who are subjected to constant bullying and sexual harassment by their boss.
+* ''[[North Country (film)|North Country]]'': film depicting a fictionalized account of ''[[Jenson v. Eveleth Taconite Co.]]'', the first sexual harassment class action lawsuit in the U.S.
+*''[[Oleanna (play)|Oleanna]]'': an American play by [[David Mamet]], later a film starring [[William H. Macy]].  A college professor is accused of sexual harassment by a student.  The film deals with the moral controversy as it never becomes clear which character is correct.
+*''[[Pretty Persuasion]]'': film starring [[Evan Rachel Wood]] and [[James Woods]] in which students turn the tables on a lecherous and bigoted teacher. A scathingly satirical film of sexual harassment and discrimination in schools, and attitudes towards females in media and society.
+*''[[War Zone (film)|War Zone]]'': documentary about street harassment.
+*''[[Sexual Harassment Panda]]'', an episode of [[South Park]], parodies sexual harassment in schools and the lawsuits which result from lawyers and children using the vague definition of sexual harassment in order to win their lawsuits.
+* Sexual Harassment In The Workplace, an instrumental minor-key blues by [[Frank Zappa]], from the album [[Guitar (album)|Guitar]]
+
+==See also==	
+*[[Catharine MacKinnon]]
+*[[Hostile environment sexual harassment]] 
+* Micro-inequities
+*[[Sexual abuse]]
+*[[Sexual harassment in education]] 
+*[[Workplace bullying]]
+*[[Disciplinary counseling]]
+
+==Notes==
+&lt;references /&gt;
+
+== External links ==
+* [http://www.eeocoffice.com Directory of EEOC and state anti-discrimination agencies]
+* [http://shsf.invisionzone.com/index.php?s=957fdc28ecbfd7be0dbe863af19f3042&amp;showforum=21 Database of important sexual harassment cases and litigation]
+*[http://www.ed.gov/about/offices/list/ocr/sexharassresources.html U.S. Dept. Of Education Sexual Harassment Resources]
+*[http://shsf.invisionzone.com/index.php?s=e91418e623ebbe49d1d6a5a55ff7f38c&amp;showforum=69 Database of international articles focusing on the problem of sexual harassment] 
+* [http://www.personneldynamics.com/sh_non/115.htm Preventing Sexual Harassment in the Workplace - free online course]	
+*[http://www.cfchildren.org/articlef/walls1f Committee for Children: Bullying and sexual harassment in schools]
+*[http://school.discovery.com/lessonplans/programs/sexualharassment/ Popular lesson plan for teaching young people about sexual harassment]
+*[http://www.sesamenet.org/links.html SESAME - Stop Educator Sexual Abuse, Misconduct, and Exploitation ]
+*[http://www.sexualharassmentsupport.org/ Sexual Harassment Support - information, resources]
+
+{{Sex}}{{Sexual ethics}}{{Employment}}
+
+[[Category:Business ethics]]
+[[Category:Discrimination]]
+[[Category:Employment law]]
+[[Category:Grounds for termination of employment]]
+[[Category:Sexual harassment in the United States]]
+[[Category:Bullying]]
+[[Category:Sex crimes]]
+[[Category:Labour relations]]
+[[Category:Organizational studies and human resource management]]
+[[Category:Sexism]]
+[[Category:Sexuality and society]]
+[[Category:Sociology]]
+[[Category:Rude behavior]]
+[[Category:Feminism and social class]]
+
+[[ar:تحرش جنسي]]
+[[ca:Assetjament sexual]]
+[[de:Sexuelle Belästigung]]
+[[es:Acoso sexual]]
+[[fr:Harcèlement sexuel]]
+[[he:הטרדה מינית]]
+[[ja:セクシャルハラスメント]]
+[[pl:Molestowanie seksualne]]
+[[pt:Assédio sexual]]
+[[fi:Seksuaalinen häirintä]]
+[[sv:Sexuella trakasserier]]
+[[vi:Quấy rối tình dục]]
+[[zh:性骚扰]]</rev></revisions></page></pages></query></api>

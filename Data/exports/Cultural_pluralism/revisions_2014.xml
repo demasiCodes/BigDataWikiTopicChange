@@ -1,0 +1,23 @@
+<?xml version="1.0"?><api><continue rvcontinue="20140930202409|627725082" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="2189751" pageid="2189751" ns="0" title="Cultural pluralism"><revisions><rev timestamp="2014-09-30T20:24:11Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{About|the concept of cultural pluralism|other uses of the term|Pluralism (disambiguation)}}
+'''Cultural pluralism''' is a term used when smaller groups within a larger society maintain their unique cultural identities, and their values and practices are accepted by the wider culture provided they are consistent with the laws and values of the wider society.  Cultural pluralism is often confused with [[Multiculturalism]].  Multiculturalism lacks the requirement of a dominant culture.
+
+One example is the [[United States]] which has a relatively strong dominant culture which includes strong elements of nationalism, a sporting culture and an artistic culture. In a pluralist culture, unique groups not only co-exist side by side, but also consider qualities of other groups as traits worth having in the dominant culture.  A successful pluralistic society will place strong expectations of integration on its members rather than expectations of assimilation.  A society that lacks a strong dominant culture can easily pass practicing cultural pluralism to multiculturalism without any intentional steps being taken by that society. 
+
+The existence of such institutions and practices is possible if the cultural communities are accepted by the larger society in a pluralist culture and sometimes require the protection of the law.  Often the acceptance of a culture may require that the new or minority culture remove some aspects of their culture which is incompatible with the laws or values of the dominant culture.
+ 
+The idea of cultural pluralism in the United States has its roots in the [[transcendentalist]] movement and was developed by [[pragmatism|pragmatist]] philosophers such as [[William James]] and [[John Dewey]], and later thinkers such as [[Horace Kallen]] and [[Randolph Bourne]].  One of the most famous articulations of cultural pluralistic ideas can be found in Bourne's 1916 essay "Trans-National America" .&lt;ref&gt;Science Encyclopedia [http://science.jrank.org/pages/10750/Pluralism-Cultural-Pluralism.html Cultural Pluralism] Retrieved on May 31, 2007&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==See also==
+*[[Multiculturalism]]
+
+{{Culture}}
+
+[[Category:Pluralism (philosophy)|Pluralism]]
+[[Category:Social theories]]
+[[Category:Majority–minority relations]]
+
+{{Culture-stub}}
+{{Socio-stub}}</rev></revisions></page></pages></query></api>

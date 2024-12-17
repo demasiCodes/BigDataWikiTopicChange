@@ -1,0 +1,76 @@
+<?xml version="1.0"?><api><continue rvcontinue="20121105220551|521574268" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="30101125" pageid="30101125" ns="0" title="Discrimination against people with HIV/AIDS"><revisions><rev timestamp="2012-11-05T22:08:22Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">Discrimination against people living with [[HIV]]/[[AIDS]] ('PLHIV') is the experience of prejudice against PLHIV which falls within the purview of the law. Discrimination is one manifestation of [[Social stigma|stigma]]. Stigmatizing attitudes and behaviors may fall under the rubric of discrimination depending on the legislation of a particular country.
+
+{{Discrimination sidebar}}
+
+HIV/AIDS stigma exists around the world in a variety of ways, including [[shunning|ostracism]], [[Social rejection|rejection]], [[discrimination]] and avoidance of HIV infected people; compulsory HIV testing without prior [[consent]] or protection of [[confidentiality]]; violence against HIV infected individuals or people who are perceived to be infected with HIV; the [[quarantine]] of HIV infected individuals&lt;ref name=UNAIDS2006Ch4&gt;{{Cite book
+| publisher =[[Joint United Nations Programme on HIV/AIDS|UNAIDS]]
+| year = 2006
+| title = 2006 Report on the global AIDS epidemic
+| chapter = The impact of AIDS on people and societies
+| chapterurl = http://data.unaids.org/pub/GlobalReport/2006/2006_GR_CH04_en.pdf
+| accessdate = 2006-06-14
+| format= PDF}}&lt;/ref&gt; and, in some cases, the loss of property rights when a spouse dies&lt;ref&gt; Huairou Commission http://www.huairou.org/sites/default/files/Women%20HIV%20LAND%20working%20draft%207-15-10%20-%20black%20and%20white%20version.pdf &lt;/ref&gt;. Stigma-related violence or the fear of violence prevents many people from seeking HIV testing, returning for their results, or securing treatment, possibly turning what could be a manageable chronic illness into a death sentence and perpetuating the spread of HIV.&lt;ref name=Ogden&gt;{{Cite web
+| author =Ogden J, Nyblade L
+| publisher = [[International Center for Research on Women]] | year = 2005 | title = Common at its core: HIV-related stigma across contexts | url = http://www.icrw.org/docs/2005_report_stigma_synthesis.pdf | format = PDF | accessdate = 2007-02-15
+}}&lt;/ref&gt;
+
+HIV/AIDS stigma has been further divided into the following three categories:
+
+*''Instrumental AIDS stigma''—a reflection of the fear and apprehension that are likely to be associated with any deadly and transmissible illness.&lt;ref name=Herek1999&gt;{{Cite journal
+| author=Herek GM, Capitanio JP | journal=American Behavioral Scientist | year=1999
+| url=http://psychology.ucdavis.edu/rainbow/html/abs99_sp.pdf
+| format= PDF
+| title=AIDS Stigma and sexual prejudice
+| accessdate = 2006-03-27
+| volume=42
+| issue=7
+| pages=1130–1147
+| doi=10.1177/0002764299042007006
+
+}}&lt;/ref&gt;
+*''Symbolic AIDS stigma''—the use of HIV/AIDS to express attitudes toward the social groups or lifestyles perceived to be associated with the disease.&lt;ref name=Herek1999 /&gt;
+*''Courtesy AIDS stigma''—stigmatization of people connected to the issue of HIV/AIDS or HIV- positive people.&lt;ref name=Snyder&gt;{{Cite journal|
+author=Snyder M, Omoto AM, Crain AL |
+title=Punished for their good deeds: stigmatization for AIDS volunteers |
+journal=American Behavioral Scientist | year=1999 | pages=1175–1192 | volume=42 | issue=7 | doi=10.1177/0002764299042007009
+
+}}&lt;/ref&gt;
+
+Often, HIV/AIDS stigma or discrimination is expressed in conjunction with one or more other stigmas, particularly those associated with [[homosexuality]], [[bisexuality]], [[promiscuity]], [[sex workers]], and [[Intravenous drug use (recreational)|intravenous drug use]]&lt;ref&gt; Understanding HIV/AIDS Stigma and Discrimination http://www.socialworkers.org/practice/hiv_aids/AIDS_Day2012.pdf &lt;/ref&gt;.
+
+In many [[Developed country|developed countries]], there is an association between HIV/AIDS and homosexuality or bisexuality, and this association is correlated with higher levels of sexual prejudice such as [[homophobia|anti-homosexual]] attitudes.&lt;ref name=Herek2002&gt;{{Cite journal
+|author=Herek GM, Capitanio JP, Widaman KF
+|title=HIV-related stigma and knowledge in the United States: prevalence and trends, 1991-1999
+|journal=Am J Public Health
+|volume=92
+|issue=3
+|pages=371–7
+|year=2002
+|pmid=11867313
+|doi=10.2105/AJPH.92.3.371
+|url=http://psychology.ucdavis.edu/rainbow/html/ajph2002.pdf
+|accessdate=2008-03-10
+|format=PDF
+|pmc=1447082}}&lt;/ref&gt; There is also a perceived association between AIDS and [[men who have sex with men]] (MSM), including sex between uninfected men.&lt;ref name=Herek1999/&gt;
+
+Some forms of serious discrimination can include: being expelled from school, being denied housing, having to pay extra rent, and job loss.
+
+==See also==
+* [[AIDS education and training centers]]
+* [[Misconceptions about HIV/AIDS]]
+
+=== Structural violence ===
+''Main article:'' [[Structural violence|Structural Violence]]
+
+Structural violence is an important factor in the treatment of people living with AIDS. Paul Farmer argues that social determinants affecting the lives of certain cultural groups alter their risk of infections and their ability to access treatment. &lt;ref name="Farmer2006"&gt;{{cite article|last=Farmer|first=Paul|coauthors=Bruce Nizeye, Sara Stulac, Salmaan Keshavjee|title=Structural Violence and Clinical Medicine|year=2006}}&lt;/ref&gt; For example, access to prophylaxis, access to antiretroviral therapy, and susceptibility to illness and malnutrition are all factors which change people's over all risk of illness due to HIV/AIDS. This causes large difference in the rate of illness due to HIV/AIDS in various social/cultural groups. Farmer also argues that social intervention may be key in altering the gap in treatment between these groups of people. Educating doctors on the interactions between social life and healthcare would help level out the injustices in healthcare.
+
+==Research==
+Current research has found that discrimination against people living with HIV is a contributing factor for delayed initiation of HIV treatment.&lt;ref&gt;{{cite journal|last=Pharris|title=Community patterns of stigma towards persons living with HIV: A population based latent class analysis from rural Vietnam|journal=BMC Public Health|year=2011|volume=11|series=705|display-authors=1|author2=&lt;Please add first missing authors to populate metadata.&gt;}}&lt;/ref&gt;  As many as 20-40% of Americans who are HIV+ do not begin a care regimen within the first 6 months after diagnosis.&lt;ref&gt;{{cite journal|last=Mugavero|title=Improving engagement in HIV care: What can we do?|journal=Top HIV Med|year=2008|volume=16|pages=156–161|pmid=19106431|first1=MJ|issue=5}}&lt;/ref&gt;  When individuals begin treatment late in the progression of HIV (when CD4+ T cell counts are below 500 cells/µL), they have 1.94 times the risk of mortality compared to those whose treatment is initiated when CD4+ T cells are still about 500 cells/µL.&lt;ref&gt;{{cite news|last=Panel on Antiretroviral Guidelines for Adults and Adolescents|title=Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents|newspaper=Department of Health and Human Services|date=October 14, 2011}}&lt;/ref&gt;
+In a 2011 study published in AIDS Patient Care and STDs (sample size 215), most of the barriers to care described involve stigma and shame.&lt;ref name="Pollini2011"&gt;{{cite journal|last=Pollini|first=Robin A.|coauthors=Estela Blanco, Carol Crump, Maria Zuniga|title=A community-based study of barriers to HIV care initiation|journal=AIDS Patient Care and STDs|year=2011|series=601-09}}&lt;/ref&gt;  The most common reasons of not seeking treatment are “I didn’t want to tell anyone I was HIV-positive”, “I didn’t want to think about being HIV-positive”, and “I was too embarrassed/ashamed to go”.&lt;ref name="Pollini2011" /&gt;  The presence and perpetuation of HIV stigma prevents many who are able to obtain treatment from feeling comfortable with addressing their health status.&lt;ref name="Pollini2011" /&gt;
+
+==References==
+&lt;references/&gt;
+
+[[Category:Discrimination]]
+[[Category:Homophobia]]
+[[Category:HIV/AIDS]]</rev></revisions></page></pages></query></api>

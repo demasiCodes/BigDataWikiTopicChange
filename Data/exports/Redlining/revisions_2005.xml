@@ -1,0 +1,15 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050909204052|22931521" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="60562" pageid="60562" ns="0" title="Redlining"><revisions><rev timestamp="2005-09-12T19:07:23Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">:''Redlining also refers to operating an engine in the [[redline]].''
+:''In word processing, redlining refers to marking text that has been edited. The redlined text will then appear in bold or as a special color so that others can see the changes that have been made.''
+
+'''Redlining''' is the practice of denying or increasing the cost of services, such as [[banking]] or 
+[[insurance]], to residents of certain areas.  In the [[United States]], the practice is illegal when the
+criteria are based on race, religion, gender, familial status (if there are children in a family), disability, or ethnic origin. The US Government has imposed regulations that require all banks to provide a map to anyone who asks showing the locations of home loans they have made so that individuals can ensure that redlining is not taking place. The term "redlining" comes from the practice of marking red lines on a map, which banks would do in order to delineate areas they did not want to lend to.
+
+Redlining began with the [[Housing Act of 1934]] which established the [[Federal Housing Authority]] (FHA) to improve housing conditions and standards, and later led to the formation of the Department of [[Housing and Urban Development]] (HUD). While it was designed to develop housing for poor residents of urban areas, that act also required cities to target specific areas and neighborhoods for different racial groups, and certain areas of cities were not eligible to receive loans at all. This meant that [[minorities|ethnic minorities]] could only secure [[mortgage|mortgages]] in certain areas, and it resulted in a large increase in the residential [[segregation|racial segregation]] on the United States.
+
+==See also==
+*[[Racism]]
+*[[Urban renewal]]
+
+[[Category:Civil rights]]
+{{econ-stub}}</rev></revisions></page></pages></query></api>

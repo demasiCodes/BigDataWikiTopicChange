@@ -1,0 +1,616 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081115150909|251968152" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="92656" pageid="92656" ns="0" title="Same-sex marriage"><revisions><rev timestamp="2008-11-15T15:13:53Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{SSM}}
+'''Same-sex marriage''' is a term for a [[Law|legally]] or [[social]]ly recognized [[marriage]] between two people of the same sex.  "Same-sex marriage" and "gay marriage" are the most common terms used in news media and politics. Other terms used are included below.
+
+== Debates over terminology ==
+Some proponents of same-sex marriage use the term "equal marriage" to stress that they seek equality as opposed to special rights.&lt;ref&gt;{{cite web 
+   |url        = http://www.samesexmarriage.ca/
+   |title      = Equal Marriage for Same-Sex Couples
+   |publisher  = Kevin Bourassa and Joe Varnell
+    }}&lt;/ref&gt;  Opponents argue that equating same-sex and opposite-sex marriage changes the meaning of marriage and its traditions.&lt;ref&gt;{{cite web
+   |url        = http://atheism.about.com/od/gaymarriage/a/MarriageSacred.htm
+   |title      = Arguments Against Gay Marriage: Marriage is a Sacred Religious Sacrament
+   |publisher  = About.com
+   |author     = Austin Cline
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt; Furthermore they frequently use the term "homosexual marriage," and some surveys have suggested that the word "homosexual" is more stigmatizing than the word "gay."&lt;ref&gt;{{cite news
+   |url        = http://www.advocate.com/news_detail_ektid17177.asp
+   |title      = New Poll: Americans Ambivalent About Homosexuality
+   |publisher  = the Advocate
+   |date=      2005-05-24 
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt; 
+{{rquote|left|'''Marriage is a vocabulary, it’s a vehicle, an engine for a larger discussion that moves people’s understanding of who gay people are, why sex discrimination is wrong, why exclusion is wrong in America, that brings up discussion of the separation of church and state, that brings up discussion of whether there should be limitations or roles based on sex, or whether men and women should be treated equally.'''|[[Evan Wolfson]]&lt;ref name=Wolfson&gt;[http://en.wikinews.org/wiki/Interview_with_gay_marriage_movement_founder_Evan_Wolfson Interview with Evan Wolfson], David Shankbone, ''[[Wikinews]]'', September 30, 2007.&lt;/ref&gt;}}
+Some have suggested reserving the word "marriage" for religious contexts, and in civil and legal contexts using a uniform concept of [[civil unions]]. [[Harvard Law School|Harvard Law]] professor [[Alan Dershowitz]], for instance, writes that such an arrangement would "strengthen the wall of separation between church and state by placing a sacred institution entirely in the hands of the church while placing a secular institution under state control."&lt;ref&gt;{{cite news
+   |url        = http://www.rossde.com/editorials/Dershowitz_marriage.html
+   |title      = Government Should Quit the Marriage Business
+   |publisher  = Los Angeles Times
+   |author     = Dershowitz, Alan M.
+   |date=      2003-12-03
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;  Some proponents and opponents of same-sex marriage on both sides find such a suggestion impractical.  "Why do we suddenly have to throw out the entire system, invent some whole new thing, just because gay people want to get married?," asks [[Evan Wolfson]] of [[Freedom to Marry]] and a contributor to the landmark cases in Vermont and Massachusetts that led to the legalization of same-sex civil unions and marriages, respectively.  "I don’t actually see Alan Dershowitz doing anything about this, other than writing an article, because he probably rightly understands it would be an immense project to go around the country and convince 200 million plus people to trade in their marriage for something new and explain why we are doing this when we actually have a legal system that already clearly distinguishes between civil and religious marriage."&lt;ref&gt;[http://en.wikinews.org/wiki/Interview_with_gay_marriage_movement_founder_Evan_Wolfson Interview with Evan Wolfson], David Shankbone, September 30, 2007&lt;/ref&gt;  Conservative critics in the US like ''[[National Review]]'s'' [[Jennifer Morse]] contend that the conflation of marriage with contractual agreements is itself a threat to marriage that "has undermined more heterosexual marriages than anything, with the possible exception of adultery."&lt;ref&gt;{{cite news
+   |url        = http://www.nationalreview.com/comment/morse200405200926.asp
+   |title      = ''Not'' a Social Contract
+   |publisher  = National Review
+   |author     = Morse, Jennifer Roback
+   |date=      2004-05-20
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+
+===Use of scare quotes in print and online media===
+Some publications that oppose same-sex marriage adopt an editorial style policy of placing the word ''marriage'' in [[scare quotes]] ("marriage") when it is used in reference to same-sex couples. In the United States, the mainstream press has largely abandoned this practice. The last major U.S. print daily to employ this editorial style was ''[[The Washington Times]]'', which abandoned the policy in February 2008 at the behest of newly appointed editor [[John Solomon]]&lt;ref&gt;{{cite news | url = http://www.washingtoncitypaper.com/blogs/citydesk/2008/02/25/washington-times-scare-quotes-are-history/ | title = Washington Times Scare Quotes Are History | Publisher = Washington City Paper | author = Erik Wemple | date = 2008-02-25 | accessdate = 2008-07-28}}&lt;/ref&gt;. 
+
+Some online publications such as [[WorldNetDaily]] and [[Baptist Press]] still follow the practice. [[Cliff Kincaid]], editor of the conservative American media-watchdog group [[Accuracy in Media]] and president of an anti-[[United Nations]] group called America's Survival, agrees with this method, arguing that "marriage" is a legal status denied same-sex couples by most state governments.&lt;ref&gt;{{cite news
+   |url        = http://www.aim.org/media_monitor/A466_0_2_0_C/
+   |title      = Honest Versus Slanted Journalism
+   |publisher  = Accuracy In Media
+   |author     = Kincaid, Cliff
+   |date=      2004-02-26
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt; Same-sex marriage supporters argue that the use of [[scare quotes]] is an editorialization that implies inferiority, and point out that the quotes are even used when referring to same-sex marriages in states where such unions are legal.&lt;ref&gt;{{cite web
+   |url        = http://atheism.about.com/b/a/087136.htm
+   |title      = Washington Times Dismisses Gay “Marriages”
+   |publisher  = About.com
+   |author     = Austin Cline
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+
+[[AP Stylebook|Associated Press style]], which professional journalists in the United States generally adopt, recommends the usages ''marriage for gays and lesbians'' or in space-limited headlines ''gay marriage'' with no hyphen and no scare quotes.  It should be noted that the construct ''gay marriage'' can imply that marriage licenses offered to gay and lesbian couples are somehow legally different, as such it should be avoided as much as possible in favor of ''marriage for gays and lesbians''.
+
+== History ==
+[[Image:Weddinginholland.jpg|thumb|Two men marrying in [[Amsterdam]] within the first month that marriage was opened to [[Same-sex marriage in the Netherlands|same-sex couples]] in the [[Netherlands]] (2001)]]
+{{main|History of same-sex unions}}
+The first recorded use of the word "marriage" for same-sex couples occurs during the Roman Empire. A number of marriages are recorded to have taken place during this period. &lt;ref&gt; Suetonius ''Life of Nero'' 28-29; Martial ''Epigrams'' 1.24, 12.42; etc.&lt;/ref&gt; In the year 342, the Christian emperors [[Constantius II|Constantius]] and [[Constans]] declared same-sex marriage to be illegal.&lt;ref&gt; Theodosian Code 9.8.3: ''"When a man marries and is about to offer himself to men in womanly fashion {quum vir nubit in feminam viris porrecturam), what does he wish, when sex has lost all its significance; when the crime is one which it is not profitable to know; when Venus is changed to another form; when love is sought and not found? We order the statutes to arise, the laws to be armed with an avenging sword, that those infamous persons who are now, or who hereafter may be, guilty may be subjected to exquisite punishment.''&lt;/ref&gt;
+
+== Current status ==
+{{main|Status of same-sex marriage}}
+[[Image:Gay Rights.png|thumb|right|Status of Same Sex Recognition {{legend|#9933CC|Recognition Granted for Same Sex Unions}}
+{{legend|#0000FF|Recognition Debated for Same Sex Unions}}
+{{legend|#009933|Same Sex Marriage Recognition}}
+{{legend|#00FF00|Foreign Same Sex Marriage Recognition}}
+{{legend|#FF0033|Civil and/or Domestic Partnership}}
+{{legend|#FFFF00|Unregistered Cohabitation}}
+Note: Hawaii not shown on map. (Civil and/or Domestic Partnerships and Recognition Granted)]]
+
+[[Image:Same sex marriage map Europe detailed.svg|thumb|'''Status of same-sex partnerships in Europe.''' {{legend|#980098|Same sex marriage recognised}}
+{{legend|#0000FF|Civil unions recognised}}
+{{legend|#009800|Unregistered cohabitation recognised}}
+{{legend|#FFFF00|Issue under political consideration}}
+{{legend|#FF9800|Unrecognised or unknown}}
+{{legend|#FF0000|Same sex marriage banned}}]]
+
+[[Image:Samesex marriage in USA.svg|right|thumb|'''Status of same-sex partnerships in the United States'''
+{{legend|#a9218e|Same-sex marriages}}
+{{legend|#00a651|Unions granting rights similar to marriage}}
+{{legend|#605ca8|Unions granting limited/enumerated rights}}
+{{legend|#00b7f1|Foreign same-sex marriages recognized}}
+{{legend|#ffff00|Statute bans same-sex marriage}}
+{{legend|#ff7f00|Constitution bans same-sex marriage}}
+{{legend|#ed1e24|Constitution bans same-sex marriage ''and'' other kinds of same-sex unions}}]]
+
+Marriage, as defined by the civil law, is currently available to same-sex couples in six countries, and parts of a seventh (but not at the national level in that country). The [[Same-sex marriage in the Netherlands|Netherlands]] was the first country to allow same-sex marriage in 2001. Same-sex marriages are also legal in [[Same-sex marriage in Belgium|Belgium]], [[Same-sex marriage in Canada|Canada]], [[Recognition of same-sex unions in Norway|Norway]], [[Same-sex marriage in South Africa|South Africa]] and [[Same-sex marriage in Spain|Spain]], along with two states in the United States: [[Massachusetts]] and [[Connecticut]]&lt;ref&gt;Connecticut's ruling overturning its ban on same-sex marriage took effect on November 12, 2008.&lt;/ref&gt;. From May 2008, [[California]] allowed for same sex marriages, though [[California Proposition 8 (2008)|Proposition 8]] has overturned that right as of November 2008. In 2005, [[Same-sex marriage in Spain|Spain]] became the first country in the world to recognize same-sex marriage (including adoption rights) on equal terms and under the same law.
+
+In 1996, [[Congress of the United States|the United States Congress]] passed the [[Defense of Marriage Act]] (DOMA) defining marriage as a union between a man and a woman amongst other stipulations.&lt;ref&gt;[http://www4.law.cornell.edu/uscode/1/7.html US CODE: Title 1,7. Definition of “marriage” and “spouse”&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; As of November 2008, twenty-nine states have passed constitutional amendments explicitly barring the recognition of same-sex marriage.&lt;ref&gt;http://hrc.org/Template.cfm?Section=Center&amp;CONTENTID=28225&amp;TEMPLATE=/ContentManagement/ContentDisplay.cfm&lt;/ref&gt;, nineteen of which prohibit the legal recognition of ''any'' same-sex union. Nineteen additional states have legal statutes that define "marriage" as a union of two persons of the opposite-sex.&lt;ref&gt;See webpage of the National Conference of State Legislatures at http://www.ncsl.org/programs/cyf/samesex.htm.&lt;/ref&gt;
+The territory of Puerto Rico ratified a similar statute in 1998.  Nonetheless, some states are beginning to offer legal recognition to same-sex couples, whether in the form of marriage or as [[civil union]]s or [[domestic partnership]]s.  American constitutional scholars have debated whether DOMA violates the [[Full Faith and Credit Clause]] of the [[United States Constitution|U.S. Constitution]]&lt;ref&gt;[http://writ.news.findlaw.com/grossman/20040727.html The Proposed Marriage Protection Act: Why It May Be Unconstitutional]&lt;/ref&gt; and whether the federal government has the power to regulate marriage at all, since marriage law has been reserved to the states since the formation of the US.{{Fact|date=November 2008}}  President-elect [[Barack Obama]]'s [[political platform]] includes full repeal of the DOMA.&lt;ref&gt;[http://www.barackobama.com/pdf/lgbt.pdf Barack Obama on LBGT Rights]&lt;/ref&gt;
+
+The states of [[Civil unions in Vermont|Vermont]], [[Civil unions in New Jersey|New Jersey]] and [[Civil unions in New Hampshire|New Hampshire]] offer civil unions.  Also, [[Domestic partnership in Oregon|Oregon]] has domestic partnership laws that grant some of the rights and responsibilities of marriage. [[Domestic partnership in Maine|Maine]], [[Domestic partnership in Washington|Washington]], [[Same-sex marriage in Maryland#Domestic partnership legislation|Maryland]], and [[Domestic partnership in District of Columbia|the District of Columbia]] grant certain ''limited'' benefits through domestic partnerships, and [[Reciprocal Beneficiary Relationships in Hawaii|Hawaii]] has reciprocal beneficiary laws.
+
+At the federal level, Australia bans recognition of same-sex marriage, but the current federal [[Australian Labor Party]] government favours synchronised state and territory [[registered partnership]] legislation (as in [[Tasmania]]) although the [[Australian Capital Territory]] favours the introduction of [[civil unions]] with official ceremonies. By stark contrast, [[same-sex marriage in Canada]] was preserved when a proposed repeal bill failed at its first reading in 2006, while [[New Zealand]]'s Parliament similarly heavily defeated a private members bill that would have prohibited [[same-sex marriage in New Zealand]] in December 2005. However, as far as current [[jurisprudence]] goes, New Zealand's Marriage Act 1955 still recognises only opposite-sex couples as marriageable (although it has also included [[transsexuals]] who have undergone [[reassignment surgery]] as the 'opposite sex' for these purposes, since [[Family Court]] and [[High Court of New Zealand]] decisions in 1995.
+
+[[Same-sex marriage in Israel|Israel]]'s High Court of Justice ruled to recognize same-sex marriages performed in other countries, although it is still illegal to perform them within the country.  A bill was raised in [[Knesset]] to rescind the Israeli High Court's ruling, but the Knesset has not advanced the bill since December 2006. (This makes the practice of same-sex marriage, as far as Israel is concerned, like the performance of a Reform or Conservative Jewish wedding.) 
+
+A 30 member parliamentary commission of the [[Same-sex marriage in France|French]] National Assembly published a 453 page Report on the Family and the rights of Children, which rejected same-sex marriage. In the report, the commission says that “the child represents the future of society.” The commission asks legislators to make sure that “children, confronted with mutations in family models, be fully taken into account and not suffer from situations imposed upon them by adults.” It adds: “The interest of the child must take precedence over adults’ exercise of their freedom (…) including with regards to parents’ lifestyle choices.” &lt;ref&gt;{{cite web |url=http://www.lifesitenews.com/ldn/2006_docs/Francesummary.pdf |format=PDF|title=Executive summary of "Report on the Family and the Rights of Children" prepared by the French National Assembly, Paris, January 25, 2006 |date=2006-01-25 |accessdate=2008-10-24}}&lt;/ref&gt;
+
+[[Same-sex marriage in the Netherlands|The Netherlands]], [[Same-sex marriage in Belgium|Belgium]], [[Same-sex marriage in Canada|Canada]], [[Same-sex marriage in Spain|Spain]] and [[Same-sex marriage in Norway|Norway]] are the only countries where the legal status of same-sex marriage is exactly the same as that of opposite-sex marriage, though [[Same-sex marriage in South Africa|South Africa]] is due to fully harmonize its marriage laws. Other nations all have requirements or restrictions that apply to same-sex marriage that do not apply to opposite-sex marriage.
+
+=== Civil unions and partnerships ===
+{{main|Civil union}}
+
+The first same-sex union in modern history with government recognition was obtained in [[Denmark]] in 1989.
+
+[[Civil union]]s, [[civil partnership]], [[domestic partnership]], unregistered partnership/unregistered co-habitation or [[registered partnership]]s offer varying amounts of the benefits of marriage and are available in: [[Andorra]], [[Australia]] (except [[Government of Australia|Commonwealth]] law), [[Colombia]], [[Croatia]], [[Czech Republic]], [[Denmark]], [[Finland]], [[France]], [[Germany]], [[Hungary]] (unregistered co-habitation since 1996; registered partnership from 2009), [[Iceland]], [[Israel]], [[Luxembourg]], [[New Zealand]], [[Portugal]], [[Slovenia]], [[Sweden]], [[Switzerland]], the [[United Kingdom]] and [[Uruguay]]. They are also available in '''some parts''' of [[Argentina]], [[Brazil]] ([[Rio Grande do Sul]]), [[Mexico]] (Federal District and Coahuila), the [[United States|U.S.]] states of [[California]], [[Connecticut]], [[Hawaii]], [[Maine]], [[Maryland]], [[New Hampshire]], [[New Jersey]], [[Oregon]], [[Vermont]], [[Washington]], and the [[District of Columbia]] (Washington, D.C.).
+[[Image:New York City Proposition 8 Protest outside LDS temple 20.jpg|thumb|The notion of [[civil unions]] is rejected by some gays and lesbians, such as this protester at a large demonstration in New York City against [[California Proposition 8]].&lt;ref name=Towleroad&gt;[http://www.towleroad.com/2008/11/we-did-it.html NYC Protest and Civil Rights March Opposing Proposition 8], [[Andy Towle]], Towelroad.com, November 13, 2008; accessed November 14, 2008.&lt;/ref&gt;   Same-sex marriage movement founder [[Evan Wolfson]] does not feel civil unions are a replacement for full [[marriage equality]].&lt;ref name=Wolfson/&gt;]]
+In the United Kingdom, [[civil partnerships]] have identical legal status to a marriage, and partners gain all the same benefits and associated legal rights; ranging from tax exemptions and joint property rights, to [[next-of-kin]] status and shared parenting responsibilities. Partnership ceremonies are performed by a marriage registrar in exactly the same manner as a [[secular]] [[civil marriage]]. 
+[[Civil unions in New Zealand]] are identical to British civil partnerships in their association with equivalent spousal rights and responsibilities to full-fledged opposite-sex marriage.
+
+[[Australia]] provides under all states, territories and two council areas either a registry system provided in; - [[Sydney]], [[Melbourne]], [[Tasmania]] and [[Victoria (Australia)|Victoria]]; or Unregistered partnership provided in; [[Queensland]], [[South Australia]], [[Northern Territory]], [[Norfolk Island]], [[Western Australia]], [[Australian Capital Territory]] and [[New South Wales]]. However, Commonwealth law provisions and statutes prohibit the recognition of civil unions, civil partnerships and same-gender marriages; fifty-eight (58) Legislative Acts of the Commonwealth use the phrase 'member of the opposite sex'. However, Commonwealth law still recognises same-sex partner under "interdependency relationship" for anti-terrorism legislation, migration of same-sex partner, private superannuation schemes and Federal military and ADF services only.&lt;ref&gt;{{cite web |url=http://www.humanrights.gov.au/media_releases/2007/43_07.html |title=Simple changes could end discrimination for thousands of Australian couples |date=2007-06-21 |accessdate=}}&lt;/ref&gt; In 2007 Grace Abrams and Fiona Power became Australia's first legally recognised same sex married couple [http://www.abc.net.au/news/stories/2007/10/16/.htm] after Grace Abrams had gender modification surgery and was later officially granted a passport with female status. 
+
+A [[registered partnership]] in [[Scandinavia]] is nearly equal to marriage, including legal adoption rights in Sweden and, since June, in Iceland as well.  These partnership laws are short laws that state that wherever the word "marriage" appears in the country's law will now also be construed to mean "registered partnership" and wherever the word "spouse" appears will now also be construed to mean "registered partner" - thereby transferring the body of marriage laws onto same-sex couples in registered partnerships.
+
+In some countries with legal recognition the actual benefits are minimal.  Many people consider civil unions, even those which grant equal rights, inadequate, as they create a separate status, and think they should be replaced by gender-neutral marriage.&lt;ref&gt;{{cite web
+   |url        = http://www.huffingtonpost.com/john-bohrer/nj-civil-unions-nothing-_b_36351.html
+   |title      = NJ Civil Unions: Nothing to Celebrate 
+   |publisher  = The Huffington Post
+   |author     = John R. Bohrer
+   |date=      2006-12-14
+   |accessdate=
+    }}&lt;/ref&gt;
+
+=== International organizations ===
+The terms of employment of the staff of [[international organizations]] (not businesses) are not, in most cases, governed by the laws of the country in which their offices are located. Agreements with the host country safeguard these organizations' impartiality with regard to the host and member countries. [[Recruitment|Hiring]] and [[firing]] practices, [[working hours]] and environment, [[holiday]] time, [[pension]] plans, [[health insurance]] and [[life insurance]], [[salaries]], expatriation benefits and general conditions of employment are managed according to rules and regulations proper to each organization. The independence of these organizations gives them the freedom to implement human resource policies which are even contrary to the laws of their host and member countries. A person who is otherwise eligible for employment in Belgium may not become an employee of [[NATO]] unless he or she is a citizen of a NATO member state.&lt;ref&gt;{{cite web
+   |url        = http://www.nato.int/structur/recruit/info.htm
+   |title      = NATO Recruitment service
+   |publisher  = NATO 
+   |date=      2006-12-07
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt; The [[World Health Organization]] has recently banned the recruitment of cigarette smokers.&lt;ref&gt;{{cite web
+   |url        = http://www.who.int/employment/recruitment/en/
+   |title      = What are we looking for?
+   |publisher  = World Health Organization
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt; Agencies of the [[United Nations]] coordinate some human resource policies amongst themselves.
+
+Despite their relative independence, few organizations currently recognise same-sex partnerships without condition. The [[Organization for Economic Co-operation and Development]] (OECD) and the agencies of the [[United Nations]] voluntarily [[discriminate]] between opposite-sex marriages and same-sex marriages, as well as discriminating between employees on the basis of nationality. These organizations recognize same-sex marriages only if the country of citizenship of the employees in question recognizes the marriage. In some cases, these organizations do offer a limited selection of the benefits normally provided to opposite-sex married couples to de facto partners or [[domestic partner]]s of their staff, but even individuals who have entered into an opposite-sex [[civil union]] in their home country are not guaranteed full recognition of this union in all organizations. However, the [[World Bank]] does recognize domestic partners.&lt;ref&gt;{{cite web
+   |url        = http://web.worldbank.org/WBSITE/EXTERNAL/EXTHRJOBS/0,,contentMDK:20522360~menuPK:1353209~pagePK:64262408~piPK:64262191~theSitePK:1058433,00.html
+   |title      = Jobs - Compensation &amp; Benefits
+   |publisher  = The World Bank Group
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+
+=== Transgender and intersex persons ===
+{{main|Legal aspects of transsexualism}}
+
+When sex is defined legally, it may be defined by any one of several criteria: the [[XY sex-determination system]], the type of [[gonad]]s, or the type of external sexual features.  Consequently, both [[transsexual]]s and [[intersex]]ed individuals may be legally categorized into confusing gray areas, and could be prohibited from marrying partners of the "opposite" sex or permitted to marry partners of the "same" sex due to arbitrary legal distinctions. This could result in long-term marriages, as well as recent same-sex marriages, being overturned.
+
+An example of the problem with chromosomal definition would be a woman with [[Androgen insensitivity syndrome|Complete Androgen Insensitivity Syndrome]] (CAIS), who would have a 46,XY karyotype, which is typically male.  Although she may have been legally registered as female on her birth certificate, been raised as a female her entire life, have engaged in heterosexual female relationships, and may even have married before the status of her condition was known, using the chromosomal definition of sex could prevent or annul the marriage of a woman with this condition to a man, and similarly allow her to legally marry another woman.  These same issues were faced by the [[IOC]] to determine who qualified as a female for the women's competitions.&lt;ref&gt;{{cite paper
+   |url        = http://www.uksport.gov.uk/assets/File/Generic_Template_Documents/Standards_in_Sport/transsexuals.pdf
+   |title      = Transsexual people and sport
+   |publisher  = UK Department for Culture, Media and Sport
+   |format     = .PDF
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+
+The problems of defining gender by the existence/non-existence of gonads or certain sexual features is complicated by the existence of [[Gender Reassignment Surgery|surgical methods]] to alter these features.  Although it has not been exhaustively stated by a court, it is possible that a court could find that if a person has their gonads removed (not limited to a sex-change but also for medical disorder, such as [[testicular cancer]] or removing [[intersex|sexual ambiguity]]), they would enter a sexual limbo status and fail to meet either set of criteria, thus excluding them from any allowance to marriage.  This situation could easily occur through exclusionary findings by separate courts in a state that already does not recognize transsexual marriages to people of the same sex as their birth-sex, as in the case of Linda Kantaras vs. Michael Kantaras. Basing the distinction on genital appearance is complicated by available [[Sex reassignment surgery male-to-female|surgery]] converting typically male genitalia to typically female genitalia, which has advanced to the point where, even were a genital inspection necessary, many transgendered women would pass this inspection without question.
+
+Requiring a surgical reassignment for definition of gender for the purpose of declaring a marriage valid comes with further problems.  The [[Sex reassignment surgery female-to-male|female-to-male sex reassignment surgery]] is expensive and does not provide results as satisfactory as its counterpart; therefore many female-to-male transsexuals choose not to undergo this procedure.  In a situation where genitalia legally defines gender and same-sex marriage is not permitted, the transsexual man would therefore only be allowed to legally marry another man if he wished to marry.
+
+These complications are probably more likely than one would think at first glance; according to the highest estimates (Fausto-Sterling et al., 2000) perhaps 1 percent of live [[childbirth|birth]]s exhibit some degree of sexual ambiguity, and between 0.1% and 0.2% of live births are ambiguous enough to become the subject of specialist medical attention, including sometimes involuntary [[surgery]] to address their sexual ambiguity.&lt;ref&gt;{{cite web
+   |url        = http://www.isna.org/faq/frequency
+   |title      = How common is intersex?
+   |publisher  = Intersex Society of North America
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+
+In any legal jurisdiction where marriages are defined without distinction of a requirement of a male and female, these complications do not occur, and some legal jurisdictions may recognize a legal and official change of gender, which would allow one to satisfy the requirement of either "male" or "female" according to their gender-identity within their legal definition of marriage. Although some legal jurisdictions continue to only recognize the "immutable traits determined at birth." (Linda Kantaras vs. Michael Kantaras)
+
+In the United Kingdom, recent legislation (Gender Recognition Act 2004) allows a person who has lived in their chosen gender for at least two years to receive a gender recognition certificate officially recognizing their new gender. Because in the UK marriage is for mixed-sex couples and civil partnership is for same-sex couples, the person must dissolve their marriage or civil partnership before they can get their gender recognition certificate. They are then free to enter into a civil partnership or a marriage again with their former wife, husband, or civil partner.
+
+In countries with legal systems based on the [[Napoleonic code]]s, being legally recognized as one's transitioned gender may require conditions of infertility, where if a transsexual were ever found to have had a child, it would result in a reversal of a legal sex change and spontaneous annulment of the marriage if that country does not recognize same-sex marriages.
+
+In the United States, transsexual and intersexual marriages typically run into the complications detailed above.  As definitions and enforcement of marriage is defined by the state, these complications will vary from state to state.  In Massachusetts no problem should arise in seeking to get a marriage, or enforcing that marriage, however marriage in states that have more prohibitive definitions, ''any'' marriage with a transsexual could face challenge in a court based on any number of criteria.
+
+{{wikinews|Interview with gay marriage movement founder Evan Wolfson}}
+
+== Controversy ==
+{{POV}}
+{{Globalize}}
+{{Refimprovesect|date=September 2008}}
+[[Image:World homosexuality laws.svg|thumb|Map showing the status of homosexuality laws of the world.
+
+{{legend|#c0c0c0|No information}}
+'''Homosexuality legal'''
+{{legend|#57781f|Same sex marriages}}
+{{legend|#99b453|Same sex unions}}
+{{legend|#bed688|No same sex unions}}
+{{legend|#7fbcff|International marriage licenses recognized}}
+'''Homosexuality illegal'''
+{{legend|#f9dc36|Minimal penalty}}
+{{legend|#ec8028|Large penalty}}
+{{legend|#e73e21|Life in prison}}
+{{legend|#8c210f|Death penalty}}
+{{legend|#a9a9a9|No info on penalty}}]]
+
+While there are few instances of societies recognizing same-sex unions as marriage, the [[History of same-sex unions|historical and anthropological record]] reveals a remarkable variety of treatment of same-sex unions ranging from sympathetic toleration to indifference to prohibition.  Many organizations opposed to gay marriage, such as the [[Alliance Defense Fund]] have argued that same-sex marriages are not marriages,&lt;ref&gt;http://www.savemarriageny.org/The%20Case%20Against%20Same-Sex%20Marriage%20and%20Civil%20Unions.pdf&lt;/ref&gt; that legalization of same-sex marriage will open the door for the legalization of polygamy,&lt;ref&gt;http://www.nationformarriage.org/atf/cf/%7B39D8B5C1-F9FE-48C0-ABE6-1029BA77854C%7D/CatholicEnglish.pdf&lt;/ref&gt; that legalization of same-sex marriage would erode religious freedoms,&lt;ref&gt;[http://weeklystandard.com/Content/Public/Articles/000/000/012/191kgwgh.asp Banned in Boston&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; and that same-sex marriage deprives children of either a mother or a father.&lt;ref&gt;http://www.latimes.com/news/opinion/la-oe-blankenhorn19-2008sep19,0,2093869.story&lt;/ref&gt;  On the other hand, a 2004 Statement by the [[American Anthropological Association]] states that there is no evidence that society needs to maintain "marriage as an exclusively heterosexual institution", and, further, that same-sex unions can "contribute to stable and humane societies."&lt;ref&gt;[http://www.aaanet.org/press/ma_stmt_marriage.htm Statement on Marriage and the Family from the American Anthropological Association]&lt;/ref&gt;  Further, some supporters of same-sex marriage take the view that the government should have no role in regulating personal relationships,&lt;ref&gt;See discussion of prenuptial and postmarital agreements at Findlaw [http://family.findlaw.com/marriage/marriage-agreements/]&lt;/ref&gt; while others argue that same-sex marriage would provide social benefits to same-sex couples.&lt;ref&gt;Professor Dale Carpenter is a prominent spokesman for this view.  For a better understanding of this view, see Professor Carpenter's writings at http://www.indegayforum.org/staff/show/91.html.&lt;/ref&gt;
+
+The debate regarding same-sex marriage includes debate based upon social viewpoints as well as debate based on religious convictions, economic arguments, health-related concerns, and a variety of other issues.
+
+=== Marriage as an Institution Argument ===
+=== Religious arguments ===
+[[Image:Sergebac7thcentury.jpg|thumb|Historian [[John Boswell (historian)|John Boswell]] claims the 4th century Christian martyrs [[Saints Sergius and Bacchus|Saint Sergius and Saint Bacchus]] were united in the rite of [[adelphopoesis]], or brother-making, which he calls an early form of religious same-sex marriage]]
+
+====Christian opposition====
+Many objections to same-sex marriage are on [[homosexuality and religion|religious grounds]]. Opponents sometimes claim that extending marriage rights to same-sex couples could undercut the conventional purpose of marriage as interpreted by their personal religious understanding.&lt;ref&gt;See e.g., Southern Baptist Convention, ''On Same-Sex Marriage'' (adopted 2003) http://www.sbc.net/resolutions/amResolution.asp?ID=1128 (visited January 20, 2008).&lt;/ref&gt; Other opponents of same-sex marriage hold that same-sex marriage is contrary to God's will,&lt;ref&gt;{{cite web |url=http://www.hatecrime.org/subpages/hatespeech/robertson.html |title=The Religious Right and Anti-Gay Speech: Messengers of Love or Purveyors of Hate? |publisher=Matthew Shepard Online Resources}}&lt;/ref&gt;&lt;ref name=autogenerated1&gt;http://www.apacny.net/The%20Christian%20Case%20Against%20Same-Sex%20Marriage.pdf&lt;/ref&gt; that it is unnatural,&lt;ref&gt;{{cite web |url=http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DE1731F937A35753C1A964958260 |title=Anti-Gay Backlashes Are on 3 States' Ballots |date=1992-10-04 |accessdate=2008-06-06 |publisher=The New York Times}}&lt;/ref&gt; and that it encourages what they view as unhealthy behavior.&lt;ref&gt;[http://www.balancedpolitics.org/same_sex_marriages.htm BalancedPolitics.org - Same Sex Marriages (Pros &amp; Cons, Arguments For and Against)&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Still others argue that same-sex marriage would encourage individuals to act upon homosexual urges, when they desire that these individuals ought to instead seek help to overcome their orientation.&lt;ref name=autogenerated1 /&gt;  [[James Dobson]], in ''Marriage Under Fire'' and elsewhere, argues that legalization for or passive tolerance of same-sex marriage would widen the definition of families.
+ 
+The [[Roman Catholic Church]] argues from a theological perspective against recognizing same-sex unions.  In their view acts of sexual intimacy are only proper between a man and a woman within wedlock.  Secular government recognition of any other union within the definition of "marriage" would therefore reflect a belief in the moral equivalence of acts between a husband and wife and acts between two men or two women; this belief is contrary to Catholic doctrinal teaching.
+
+Catholic opponents also argue that inclusion of same-sex unions within the definition of marriage would also evidence rejection of the idea that, in general, it is best that children be raised by their biological mother and father, and that it is the community's interest in ensuring the well-being of children is the sole basis for the government's licensure and involvement in marriage.&lt;ref&gt;The Congregation for the Doctrine of the Faith, ''Considerations Regarding Proposals to Give Legal Recognition to Unions between Homosexual Persons'' (2003) [http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_en.html] (visited January 20, 2008) (statement by Vatican department charged with promoting and safeguarding the doctrine on the faith and morals throughout the Catholic world).&lt;/ref&gt;  
+
+[[Conservative Christianity|Conservatives]] and some moderate Christians argue that the book of Leviticus contains a prohibition against male-male sexuality.  Some Biblical scholars interpret Genesis 19:5 as indicating that homosexual behavior led to the destruction of the ancient cities of [[Sodom and Gomorrah]].&lt;ref&gt;{{cite book
+  | chapter    = Genesis 19 
+  | chapterurl = http://www.biblegateway.com/passage/?search=Genesis%2019%20;&amp;version=31;
+  | title      = New International Version
+  | publisher  = BibleGateway.com
+  |accessdate=2007-03-08
+}}&lt;/ref&gt; Other passages sometimes interpreted as condemning homosexuality are Leviticus 18:22, Leviticus 20:13, and in the New Testament of the Bible, I Corinthians 6:8-10 and Romans 1:24-27.&lt;ref&gt;{{cite book
+  | chapter    = Romans 1:24-27
+  | chapterurl = http://www.biblegateway.com/passage/?search=Romans%201:24-27%20&amp;version=31
+  | title      = New International Version 
+  | publisher  = BibleGateway.com
+  |accessdate=2007-03-08
+}}&lt;/ref&gt; While these passages do not define the institution of marriage, Genesis 2:22-24 reads as follows:  "Then the Lord God made a woman from the rib he had taken out of the man, and he brought her to the man. The man said, 'This is now bone of my bones and flesh of my flesh; she shall be called 'woman,' for she was taken out of man.' For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh."&lt;ref&gt;[http://www.biblegateway.com/passage/?search=genesis%202:22-24&amp;version=31 BibleGateway.com - Passage Lookup: Genesis 2:22-24&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; This passage is referred to by Jesus in the New Testament Gospel of Matthew.&lt;ref&gt;[http://www.biblegateway.com/passage/?search=matthew%2019:4-5;&amp;version=31; BibleGateway.com - Passage Lookup: Matthew 19:4-5&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Furthermore, many Christians hold the belief that Romans 1 proscribes all homosexual behavior, regardless of its relational context.&lt;ref&gt;[http://www.ovrlnd.com/FalseDoctrine/Gay_Christians.html A Response to the 'Gay Christian' Movement&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+====Christian support====
+
+Some moderate and [[Liberal Christianity|liberal Christians]] interpret the passage in Romans as relating more to specific instances of Graeco-Roman temple sex acts and idolatrous worship and it is not intended to address contemporary homosexuality.&lt;ref&gt;{{cite paper
+   |url        = http://members.cox.net/paulmcc/mcc/samegen.html
+   |title      = Same Gender Sexual Behavior and the Scriptures
+   |publisher  = Metropolitan Community Church of Topeka, authors and 
+   |author     = Loppnow, Rev. Jonathan; Evans, Rev. Paul C.
+   |format     = .HTML; .SIT
+   |date=      1998-01-17
+   |accessdate=2007-03-08
+    }}
+&lt;/ref&gt;
+
+Some Christians support religious and legal recognition of same-sex marriage based on a moral commitment to equality, or a belief that "human sexual orientations, whether heterosexual or homosexual, are a gift from God", as affirmed by the United Church of Canada's 37th General Council.&lt;ref&gt;{{cite web
+   |url        = http://www.united-church.ca/humanrights/equal/chronology
+   |title      = Equality Rights
+   |publisher  = United Church of Canada
+   |year=      2007
+   |accessdate=2008-11-09
+    }}&lt;/ref&gt;  
+
+Several Christian denominations support same-sex marriage and perform same-sex weddings. The three largest are [[Unitarian Universalism|Unitarian Universalists]], the [[United Church of Canada]] and the [[United Church of Christ]](UCC).
+
+At the 1996 UU [[General Assembly (Unitarian Universalist Association)|General Assembly]], delegates voted overwhelmingly that they would perform same-sex marriage ceremonies, and the church has been performing weddings with and without state sanction ever since.&lt;ref&gt;{{cite web
+   |url        = http://www.uua.org/news/freedomtomarry/index.html
+   |title      = Freedom to Marry, for All People
+   |publisher  = Unitarian Universalist Association
+   |year=      2006
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;&lt;ref&gt;{{cite web
+   |url        = http://en.wikipedia.org/w/index.php?title=Same-sex_marriage&amp;action=edit&amp;section=13/www.femdomale.com/samesex/marriage/index.html
+   |title      = Same-Sex "Marriage": Should America Allow "Gay Rights" Activists to Cross The Last Cultural Frontier?
+   |publisher  = Christian Leadership Ministries
+   |author     = Anton N. Marco
+   |year=      1999
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+The United Church of Christ's General Synod passed a resolution affirming "equal marriage rights for all people regardless of gender" in 2005. The church allows but does not require pastors to perform same-sex weddings.&lt;ref&gt;{{cite web
+   |url        = http://news.bbc.co.uk/2/hi/americas/4651803.stm
+   |title      = US Church backs same-sex marriage
+   |publisher  = BBC News
+   |year=      2005
+   |accessdate=2008-11-08
+    }}&lt;/ref&gt;
+
+The [[United Church of Canada]] was active in the campaign that led to legal recognition of same-sex marriages in Canada. The United Church now allows individual congregations to decide whether or not to perform these marriages.&lt;ref&gt;{{cite web
+   |url        = http://www.united-church.ca/humanrights/equal/recognition
+   |title      = Equal Marriage
+Civil Recognition of Same-Sex Partnerships
+   |publisher  = United Church of Canada
+   |year=      2007
+   |accessdate=2008-11-08
+    }}&lt;/ref&gt;
+Likewise, in the Protestant Church of the Netherlands, where same-sex marriages have been legal since 2001, individual congregations decide if they will perform them.&lt;ref&gt;{{cite web
+   |url        = http://pewforum.org/docs/?DocID=235
+   |title      = Same-Sex Marriage: Redefining Marriage Around the World
+   |publisher  = Pew Forum
+   |year=      2008
+   |accessdate=2008-11-10
+    }}&lt;/ref&gt;
+
+====Judaism====
+Judaism, like Christianity, reflects differing views between conservative and liberal adherents.  Orthodox Judaism maintains the traditional Jewish bans on both sexual acts and marriage amongst members of the same sex. The Orthodox Union in the United States supports a Constitutional amendment  banning same-sex marriage.&lt;ref&gt; Rabbi Tzvi Hersh Weinreb, Orthodox Response to Same-Sex Marriage, NY Jewish Week (Mar. 26, 2004) http://www.ou.org/public_affairs/article/ou_resp_same_sex_marriage/ (visited January 20, 2008) (Rabbi Weinreb is the Vice President of the Union of Orthodox Jewish Congregations of America, one of the oldest and largest organizations of Orthodox Jews in the United States); Rabbinical Council of America, Joining with Three Other Orthodox Organizations, RCA Opposes Redefinition of Marriage in New York State (June 21, 2007) http://www.rabbis.org/news/index.cfm?type=policies (visited January 20, 2008).&lt;/ref&gt; Some Conservative Jews reject recognition of same-sex unions as marriage, but permit celebration of commitment ceremonies, in part as an expression their belief that scripture requires monogamy of all sexually active couples.&lt;ref&gt;Committee on Jewish Law and Standards, Homosexuality, Human Dignity, &amp; Halakhah: A Combined Responsum for the Committee on Jewish Law and Standards (approved by a majority of the Committee on Dec. 6, 2006) at http://www.rabbinicalassembly.org/docs/Dorff_Nevins_Reisner_Final.pdf (visited January 20, 2008) (the Committee on Jewish Law and Standards of the Rabbinical Assembly is a committee of the international body of Conservative Rabbis).&lt;/ref&gt;  Members of Reform Judaism support the inclusion of same-sex unions within the definition of marriage.&lt;ref&gt;Union of American Hebrew Congregations, Civil Marriage for Gay and Lesbian Jewish Couples (adopted by the General Assembly 1997) http://urj.org/Articles/index.cfm?id=7214&amp;pge_prg_id=29601&amp;pge_id=4590 (visited January 20, 2008).&lt;/ref&gt; The Jewish Reconstructionist Federation leaves the choice up to the individual rabbi.&lt;ref&gt;{{cite web
+   |url        = http://www.jrf.org/showres&amp;rid=487
+   |title      = FAQ's on Reconstructionist Approaches to Jewish ideas and Practices
+   |publisher  = Jewish Reconstructionist Federation
+   |year=      2008
+   |accessdate=2008-05-17
+    }}&lt;/ref&gt;
+
+=== Arguments concerning children and the family ===
+{{main|LGBT parenting}}
+{{POV-section|date=September 2008}}
+Some opponents of same-sex marriage argue that a child should be raised by only a [[father]] and a [[mother]].&lt;ref&gt;[http://transcripts.cnn.com/TRANSCRIPTS/0203/07/lkl.00.html Transcript of ''Larry King Live''], interview with Dr. James Dobson, March 7, 2002.&lt;/ref&gt;&lt;ref&gt;[http://lds.org/ldsorg/v/index.jsp?vgnextoid=e1fa5f74db46c010VgnVCM1000004d82620aRCRD&amp;locale=0&amp;sourceId=1aba862384d20110VgnVCM100000176f620a ____ The Family: A Proclamation to the World]&lt;/ref&gt; [[The Church of Jesus Christ of Latter-day Saints]] argues for strict traditional gender roles in parenting, claiming they are foundational to parenting.&lt;ref&gt;[http://www.newsroom.lds.org/ldsnewsroom/eng/commentary/the-divine-institution-of-marriage The Divine Institution of Marriage]&lt;/ref&gt;  [[Focus on the Family]] points to academic studies which state that children raised with both parents, as opposed to children raised by single mothers, increase children's cognitive and verbal skills, academic performance, involvement in or avoidance of high-risk behaviors and crime, and emotional and psychological health.&lt;ref name="Focus on the Family"&gt;[http://www.family.org/socialissues/A000000464.cfm Same-Sex 'Marriage' and Civil Unions]&lt;/ref&gt;&lt;ref&gt;[http://www.sciencedaily.com/releases/2008/02/080212095450.htm Children Who Have An Active Father Figure Have Fewer Psychological And Behavioral Problems]&lt;/ref&gt;&lt;ref&gt;Pruett, K. "Fatherneed: Why father care is as essential as mother care for your child," New York: Free Press, 2000.&lt;/ref&gt;&lt;ref&gt;"The Effects of Father Involvement: A Summary of the Research Evidence," Father Involvement Initiative Ontario Network, Fall 2002 newsletter.&lt;/ref&gt;&lt;ref&gt;Anderson Moore, K. "Family Structure and Child Well-being" Washington, DC: Child Trends, 2003.&lt;/ref&gt;&lt;ref&gt;United States. National Center for Fathering, Kansas City, MO. Partnership for Family Involvement in Education. [http://www.ed.gov/pubs/parents/calltocommit/fathers.pdf A Call to Commitment: Fathers' Involvement in Children's Learning]. June, 2000&lt;/ref&gt;  Another study showed being without a resident father from infancy does not seem to have negative consequences for children.&lt;ref name="Fatherless Followup" /&gt;
+
+Research has found no major differences in parenting or child development between families headed by two mothers and other fatherless families.&lt;ref&gt;[http://www.ncbi.nlm.nih.gov/pubmed/6630329?dopt=Abstract Children in lesbian and single-parent households: psychosexual and psychiatric appraisal.]&lt;/ref&gt;&lt;ref name="Fatherless"&gt;[http://www.ncbi.nlm.nih.gov/pubmed/9363577?dopt=Abstract Children raised in fatherless families from infancy: family relationships and the socioemotional development of children of lesbian and single heterosexual mothers.]&lt;/ref&gt;&lt;ref name="Fatherless Followup"&gt;[http://www.ingentaconnect.com/content/bpl/jcpp/2004/00000045/00000008/art00009 Children raised in fatherless families from infancy: a follow-up of children of lesbian and single heterosexual mothers at early adolescence]&lt;/ref&gt; Like children raised by single mothers, children raised by two mothers perceived themselves to be less cognitively and physically competent than their peers from father-present families.&lt;ref name="Fatherless" /&gt; Children without fathers had more interactions, severe disputes and depended more on their mothers. Sons showed more feminine but no less masculine characteristics of gender role behavior.&lt;ref name="Fatherless Followup" /&gt;  Compared with young adults who had single mothers, men and women raised by two mothers were slightly more likely to consider the possibility of having a same-sex partner, and more of them had been involved in at least a brief [[same-sex relationship]], but there was no statistical difference in sexual identity of children compared to children of inter-sexed families.&lt;ref name="Fatherless" /&gt;  
+
+A number of health and child-welfare organizations "support the parenting of children by lesbians and gay men, and condemn attempts to restrict competent, caring adults from serving as foster and/or adoptive parents."  Such organizations include the Child Welfare League of America, North American Council on Adoptable Children, [[American Academy of Pediatrics]], [[American Psychiatric Association]], [[American Psychological Association]], and the [[National Association of Social Workers]].&lt;ref name="aclu1"&gt;{{cite web
+   |url        = http://www.aclu.org/lgbt/parenting/27496pub20061113.html
+   |title      = Too High A Price: The Case Against Restricting Gay Parenting
+   |publisher  = American Civil Liberties Union
+   |author     = 
+   |date       = 
+   |accessdate=2008-10-07
+    }}&lt;/ref&gt; On July 28, 2004, the American Psychological Association's Council of Representatives adopted a resolution supporting legalization of same-sex civil marriages and opposes discrimination against lesbian and gay parents.&lt;ref&gt;{{cite press release
+   |url        = http://www.apa.org/releases/gaymarriage.html
+   |title      = APS Supports Legalization of Same-sex Civil Marriages...
+   |publisher  = American Psychological Association
+   |date=      2004-07-24
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+Noted Harvard political philosopher and legal scholar [[John Rawls]] supports gay marriage and did not believe that it would undermine the welfare of children.&lt;ref&gt;[http://www.pbs.org/thinktank/transcript1158.html pbs.org]&lt;/ref&gt;
+
+==== Arguments concerning divorce rates ====
+{{limitedgeographicscope}}
+[[Image:Wedded couple on Taiwan Pride 2006.jpg|thumb|One of four newly wedded same-sex couples (in this case, a [[bride|bridal]] couple) in a public wedding at [[Taiwan Pride]] 2006.]]
+
+Internationally, the most comprehensive study to date on the effect of same-sex marriage / partnership on heterosexual marriage and divorce rates was conducted looking at over 15 years of data from the Scandinavian countries.  The study (later part of a book), by researcher [[Darren Spedale]], found that, 15 years after Denmark had granted same-sex couples the rights of marriage, rates of heterosexual marriage in those countries had gone up, and rates of heterosexual divorce had gone down - contradicting the concept that same-sex marriage would have a negative effect on traditional marriage.&lt;ref&gt;{{cite journal | last = Eskridge | first = William N. Jr. | coauthors = [[Darren Spedale|Spedale, Darren R.]]; and Ytterberg, Hans | title = Nordic Bliss? Scandinavian Registered Partnerships and the Same-Sex Marriage Debate | journal = Journals of Legal Scholarship: Issues in Legal Scholarship | issue = 5 | pages = article 4 | publisher = The Berkeley Electronic Press | month = January | year = 2004 | url = http://www.svgla.org/index.php?module=documents&amp;JAS_DocumentManager_op=downloadFile&amp;JAS_File_id=5&amp;2f8d38d14523aa8f4042065cde1a5216=964e204e9824d505541efa48eb2208b5 | format = PDF | accessdate = 2008-09-23}} (see pgs.29-31)&lt;/ref&gt;
+
+A study on short-term same-sex marriages in Norway and Sweden found that divorce risks are higher in same-sex marriages than in opposite-sex marriages, and that unions of lesbians are considerably less stable, or more dynamic, than unions of gay men.&lt;ref name="The Demographics of Same-Se"&gt;{{cite journal
+|title=The Demographics of Same-Sex „Marriages“ in Norway and Sweden
+|last=Andersson
+|first=Gunnar
+|url=http://www-same-sex.ined.fr/WWW/04Doc124Gunnar.pdf
+|publisher=Demography 
+|volume=43
+|number=1
+|month=February | year=2006
+|pages=79-98|format=PDF}} [http://209.85.173.104/search?q=cache:E_dDSKaxYhUJ:www.demogr.mpg.de/papers/working/wp-2004-018.pdf+Gunnar+%22The+Demographics+of+Same-Sex+Marriages%E2%80%9C+in+Norway+and+Sweden&amp;hl=en&amp;ct=clnk&amp;cd=2&amp;gl=us Text version].&lt;/ref&gt; The authors cited that this may be due to same-sex couples "non-
+involvement in joint parenthood", "lower exposure to normative pressure about the necessity of life-long unions" as well as differing motivations for getting married.&lt;ref name="The Demographics of Same-Se"/&gt;
+
+==== Reproduction ====
+{{seealso|Same-sex marriage and procreation}}
+Those who advocate that marriage should be defined exclusively as the union of one man and one woman argue that inter-sexed couples provide the procreative foundation that is the chief building block of civilization. Social conservatives and others may see marriage not as a legal construct of the state, but as a naturally occurring "pre-political institution" that the state must recognize as much as jobs. "Government does not create marriage any more than government creates jobs."&lt;ref&gt;{{cite web
+   |url        = http://www.policyreview.org/apr05/morse.html
+   |title      = Marriage and the Limits of Contract
+   |publisher  = the Hoover Institution
+   |author     = Jennifer Morse
+   |month=      May | year=      2005
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt; They argue that the definition proposed by same-sex marriage advocates changes the social importance of marriage from its natural function of reproduction into a mere legality or freedom to have sex.  Opponents of same-sex marriage quote [[Bertrand Russell]] who said "it is through children alone that sexual relations become important to society, and worthy to be taken cognizance of by a legal institution."&lt;ref name=Blankenhorn&gt;{{cite news
+|url=http://www.latimes.com/news/opinion/la-oe-blankenhorn19-2008sep19,0,2093869.story
+|title=Protecting marriage to protect children
+|first=David
+|last=Blankenhorn
+|date=2008-09-19 
+|publisher=LA Times}}&lt;/ref&gt;
+
+Based on research showing that, on average, children do best when raised by their biological parents in a low-conflict marriage,&lt;ref&gt;See e.g., Kristin Anderson Moore, et al., ''Marriage from a Child's Perspective: How Does Family Structure Affect Children and What Can We Do About It?,''Child Trends Research Brief (June 2002)[http://www.childtrends.org/files/MarriageRB602.pdf]&lt;/ref&gt; some argue that legal marriage is a way of encouraging monogamy and commitment by those who may create children through their sexual coupling.&lt;ref&gt;http://www.savemarriageny.org/UST_fall2004.pdf&lt;/ref&gt;&lt;ref&gt;Maggie Gallagher is a prominent spokeswoman for this view.  For an in-depth understanding of this view, see her blog at http://www.marriagedebate.com/.&lt;/ref&gt;  One prominent supporter of this viewpoint, syndicated columnist Maggie Gallagher, argues that "marriage as a universal social institution is grounded in certain universal features of human nature.  When men and women have sex, they make babies.  Reproduction may be optional for individuals, but it is not optional for societies.  Societies that fail to have “enough” babies fail to survive.  And babies are most likely to grow to functioning adulthood when they have the care and attention of both their mother and their father."&lt;ref&gt;http://www.savemarriageny.org/UST_fall2004.pdf&lt;/ref&gt;
+
+In opposing same-sex marriage in various state courts, a common key state's argument against allowing same-sex marriage has been the use of legal marriage to foster the state's interest in human reproduction.  In ''[[Anderson et al. v. King County]]'' in which several same-sex couples argued that the state of Washington's version of the [[Defense of Marriage Act]] (DOMA) was unconstitutional, the [[Washington Supreme Court]] ruled 5 to 4 that the law was constitutional.  Writing in the majority opinion, Justice Barbara Madsen wrote in 2006:&lt;ref&gt;[http://seattletimes.nwsource.com/html/localnews/2003152467_webdoma26.html State Supreme Court upholds gay marriage ban]&lt;/ref&gt;
+&lt;blockquote&gt;''The Legislature was entitled to believe that limiting marriage to opposite-sex couples furthers procreation, essential to the survival of the human race and furthers the well-being of children by encouraging families where children are brought up in homes headed by children's biological parents.''&lt;/blockquote&gt;
+
+Some proponents of same-sex marriage also argue that because the law does not prohibit marriage between sterile heterosexual couples or to women past [[menopause]], the procreation argument cannot reasonably be used against same-sex marriage.
+
+The Maryland Supreme Court ruled that "the fundamental right to marriage and its ensuing benefits are conferred on opposite-sex couples not because of a distinction between whether various opposite-sex couples actually procreate, but rather because of the
+possibility of procreation."&lt;ref name="MDCourtofAppealsOpinion" /&gt;
+
+=== Social arguments ===
+Another school of thought regarding social arguments against same-sex marriage holds that same-sex marriage is a red herring designed to create legal principles under which sexual orientation will be treated as an immutable characteristic like race, and that same-sex marriage advocates seek to use the law to "stigmatize, marginalize, and repress those who disagree with the government’s new views on marriage and sexual orientation."&lt;ref&gt;http://article.nationalreview.com/?q=ZGNmODNiMjI0MTQ1MTQwNGM4N2YyNmVhY2UyZTE0OWY= &lt;/ref&gt; 
+
+Advocates of same-sex marriage oppose these social arguments.  Advocates for recognition of same-sex unions argue that there is no difference in the ability of same-sex and opposite-sex couples to make commitments and care for each other, and therefore the law of marriage should apply to both.&lt;ref&gt;Professor Dale Carpenter is a prominent spokesman for this view.  For a better understanding of this view, see Professor Carpenter's writings at http://www.indegayforum.org/staff/show/91.html.&lt;/ref&gt;  
+
+Prenuptial and postnuptial agreements arise among those holding this view.&lt;ref&gt;See discussion of prenuptial and postmarital agreements at Findlaw [http://family.findlaw.com/marriage/marriage-agreements/]&lt;/ref&gt; 
+
+Dissidents to the same-sex marriage movement within the gay community argue that the pursuit of social recognition and legal benefits by means of marriage reinforces marriage as an institution of exclusion, because it extends rights and benefits to people on the basis of their relationship status.&lt;ref&gt;''The Trouble with Normal: Sex, Politics, and the Ethics of Queer Life,'' Michael Warner, Harvard University Press&lt;/ref&gt;
+
+=== Arguments about tradition ===
+[[Stanley Kurtz]] from the [[Hoover Institution]] said that same-sex marriage separates the ideas of marriage and parenthood, thereby accelerating marital decline.  He cites studies showing a substantial rise in the out-of-wedlock birthrates, for both firstborn and subsequent children in areas where same-sex unions are legal.&lt;ref&gt;{{cite web|
+url=http://www.boston.com/news/specials/gay_marriage/articles/2004/03/10/death_of_marriage_in_scandinavia/
+|title=Death of Marriage in Scandinavia
+|first=Stanley
+|last=Kurtz
+|date=2004-03-10
+|accessdate=2008-10-07
+|publisher=[[Boston Globe]]}}&lt;/ref&gt;  In Conaway v. Deane et al, the Maryland Supreme Court ruled that the State has a legitimate interest in encouraging the traditional family structure in which children are born.&lt;ref name="MDCourtofAppealsOpinion" /&gt;
+
+===Arguments concerning equality ===
+{{Refimprovesect|date=September 2008}}
+[[Image:San Francisco marriage protest.jpg|left|thumb|2004 San Francisco march in support of same-sex marriage]]
+Some opponents of same-sex marriage (including some so-called [[ex-gay]] organizations) argue that sexual behavior is not genetic or unchangeable, reasoning that if homosexuality is not genetic or unchangeable, it is not unjust for government to define marriage as the union of one woman and one man.&lt;ref&gt;http://www.family.org/socialissues/A000000778.cfm&lt;/ref&gt;&lt;ref&gt;http://www.family.org/socialissues/A000000780.cfm&lt;/ref&gt;&lt;ref&gt;http://www.massunitedfamilies.org/ufimass/aboutssm.cfm&lt;/ref&gt;&lt;ref&gt;http://www.apacny.net/The%20Christian%20Case%20Against%20Same-Sex%20Marriage.pdf&lt;/ref&gt;&lt;ref&gt;http://www.family.org.au/Journals/2003/challenge.htm&lt;/ref&gt;  Same-sex marriage opponents support this position with research as well as anecdotal evidence regarding efforts to overcome unwanted same-sex attractions.&lt;ref&gt;http://www.narth.com/docs/senatecommittee.html&lt;/ref&gt;  They point to the [[American Psychiatric Association]]'s statement which reads "some people believe that sexual orientation is innate and fixed; however, sexual orientation develops across a person’s lifetime."&lt;ref name="Psych"&gt;{{cite web
+|url=http://www.aglp.org/pages/cfactsheets.html#Anchor-Gay-14210
+|title=Gay, Lesbian and Bisexual Issues
+|author=[[American Psychiatric Association]]
+|publisher=Association of Gay and Lesbian Psychiatrics
+|month=May | year=2000}}&lt;/ref&gt;  
+
+In Deane &amp; Polyak v. Conaway, the Maryland Supreme Court ruled "There is no fundamental right to marry a person of your own sex".&lt;ref name="MDCourtofAppealsOpinion"&gt;{{cite web 
+|url= http://mdcourts.gov/opinions/coa/2007/44a06.pdf
+|title= Court of Appeals of Maryland Opinion on ''Frank Conaway, et al. v. Gitanjali Deane, et al., No. 44, Sept. Term 2006''
+|accessdate=2008-01-25 
+|last= Harrell
+|first= Raker
+|coauthors= 
+|date= 2007-09-18
+|work= 
+|format= 
+PDF|publisher=
+}}&lt;/ref&gt;  For instance, a heterosexual U.S. citizen who marries a foreign partner immediately qualifies to bring that person to the United States, while long-term gay and lesbian binational partners who have spent decades together are denied the same rights, forcing foreign gay partners to seek expensive temporary employer or school-sponsored visas or face separation.&lt;ref&gt;See [http://www.immigrationequality.org/familyunvalued.php Immigration Equality] and [http://hrw.org/reports/2006/us0506/ Human Rights Watch]&lt;/ref&gt;
+
+[[Image:Newlywed.jpg|right|thumb|Newlywed male same-sex couple at Gaypride 2006 in [[Reykjavik]].]]
+In a 2003 case titled ''[[Lawrence v. Texas]]'', the Supreme Court held that the [[rights|right]] to private consensual sexual conduct was protected under the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]].  The Maryland Supreme Court ruled that the case did not establish the right to same-sex marriage.&lt;ref name="MDCourtofAppealsOpinion" /&gt;
+
+Some opponents of extending marriage to same-sex couples claim that equality can be achieved with [[civil union]]s or other forms of legal recognition that don't go as far as to use the word "marriage" that's used for opposite-sex couples. An opposing argument, used by the [[Massachusetts Supreme Judicial Court]] in ''[[Goodridge v. Department of Public Health]]'', is the following: ''"the dissimilitude between the terms "civil marriage" and "civil union" is not innocuous; it is a considered choice of language that reflects a demonstrable assigning of same-sex, largely homosexual, couples to second-class status"'' and also that ''"The history of our nation has demonstrated that separate is seldom, if ever, equal."'' There is, however, a bill pending in the [[United States Congress]] since 2000, called [[Uniting American Families Act]] pertaining to this alleged discrimination.
+
+Of all of the state supreme courts that have considered cases alleging that an opposite-sex definition of marriage is unconstitutional and discriminatory, only five -- the high courts of Hawaii (later reversed by constitutional amendment), Vermont, Massachusetts, New Jersey, and California -- have found such a definition to be unconstitutional and discriminatory (see [[Same-sex marriage in the United States]], [[Same-sex marriage status in the United States by state]], and [[Hawaii Constitutional Amendment 2 (1998)]]).&lt;ref&gt;http://www.usnews.com/articles/news/national/2008/05/15/california-court-legalizes-same-sex-marriage.html&lt;/ref&gt;
+
+Some opponents of same-sex marriage argue that a state’s decision to
+define marriage as a relationship between one woman and one man does not discriminate against anyone. Courts in Maryland, for example, ruled that discrimination does not take place nor are constitutional rights denied in their laws that prohibit same-gender marriage, but rather protect the state's interest to have and protect children.&lt;ref&gt;Md. Ban On Gay Marriage Is Upheld; Law Does Not Deny Basic Rights, Is Not Biased, Court Rules;The Washington Post; By Lisa Rein and Mary Otto - Washington Post Staff Writers; Wednesday, September 19, 2007; Page A01&lt;/ref&gt;
+According to this view, the 47 states in the United States that do not allow same-sex marriage&lt;ref&gt;http://www.cbsnews.com/stories/2008/08/26/business/main4383948.shtml?source=RSSattr=Business_4383948&lt;/ref&gt; confer identical rights upon adult, unmarried persons:  the right to marry any consenting, unrelated, unmarried adult of the opposite sex.&lt;ref&gt;http://www.apacny.net/MarriageTalkingPoints.pdf&lt;/ref&gt;
+
+=== Parallels to interracial marriage ===
+Opponents of same-sex marriage argue that men and women are fundamentally different from one another, whereas interracial couples still fit within the "one man and one woman" definition of marriage.&lt;ref name="mmarriage"&gt;{{cite video
+   |url        = http://www.secureminnesotaformarriage.org/ss/live/index.php?action=viewprod&amp;sid=64&amp;pid=149&amp;pageid=258 
+   | title      = The Battle for Marriage in Minnesota
+   | publisher  = Minnesota for Marriage
+   | medium     = Video
+   | format     = MPEG-4; WM9
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt; Louisiana State University law professor Katherine Spaht has characterized the debate as follows: “the fundamental understanding of marriage has always been, by definition, a man and a woman. Never did Webster’s dictionary define the term marriage in terms of the races. There is an inherent difference between interracial marriage and same-sex “marriage” because homosexuals cannot procreate." {{rquote|right|'''Knocking down bans on interracial marriage did not redefine marriage, it affirmed marriage by saying that any man has a right to marry any woman under the law. But what same-sex ‘marriage’ proponents seek to do is to radically redefine the very definition of marriage to say it’s not about gender.  Marriage is about bringing the genders together, not keeping the races apart.”|-[[Focus on the Family (United States)|Focus on the Family]]’s Glenn Stanton&lt;ref&gt;{{cite news
+   |url        = http://www.bpnews.net/bpnews.asp?ID=17988
+   |title      = Bans on interracial marriage, same-sex ‘marriage’ -- parallels?
+   |publisher  = Baptist Press
+   |author     = Michael Foust
+   |date=      2004-04-02
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;}} Proponents of same-sex marriage make a comparison between [[racial segregation]] and segregation of homosexual and heterosexual marriage classifications in civil law.&lt;ref&gt;{{cite news
+   |url        = http://hnn.us/articles/4708.html
+   |title      = Why the Ugly Rhetoric Against Gay Marriage Is Familiar to this Historian of Miscegenation
+   |publisher  = History News Network of George Mason University
+   |author     = Peggy Pascoe
+   |date=      2004-04-19
+   |accessdate=2007-03-08
+    }} &lt;/ref&gt; They argue that dividing the concept of same-sex marriage and different-sex marriage is tantamount to "[[separate but equal]]" policies (like that overturned in the U.S. Supreme Court case [[Brown v. Board of Education]]), or [[anti-miscegenation laws]] that were also overturned by the Supreme Court in 1967 in ''[[Loving v. Virginia]]''. 
+
+In 1972, after the Minnesota Supreme Court's ruling in ''[[Baker v. Nelson]]'' specifically distinguished ''Loving'' as not being applicable to the same-sex marriage debate, the United States Supreme Court dismissed the appeal "for want of a substantial federal question." This type of dismissal usually constitutes a decision [[on the merits]] of the case; as such, Baker appeared &amp;mdash; at least for a time &amp;mdash; to be binding precedent on all lower federal courts.
+
+It is unclear whether ''Baker v. Nelson'' remains as a potential bar to the federal courts from hearing cases regarding same-sex marriage.  The federal [[Defense of Marriage Act]] of 1996 (DOMA) simultaneously created (1) a federal definition of marriage, {{UnitedStatesCode|1|7}}, and (2) a new rule under the [[Full Faith and Credit Act]] (passed pursuant to Congress's authority under the federal Constitution's [[Full Faith and Credit Clause]]), {{UnitedStatesCode|28|1738C}}, purporting to limit mandatory interstate recognition of same-sex marriages.  By "federalizing" marriage with statutes that are susceptible to judicial scrutiny, Congress effectively — albeit perhaps unintentionally — expanded the subject-matter jurisdiction of the federal courts, seemingly superseding Baker's dismissal "for want of a substantial federal question."
+
+This loophole in jurisdiction recently came to light when a same-sex couple was granted standing to sue in federal district court on a claim that DOMA is unconstitutional under the federal Constitution.  See ''Smelt v. County of Orange'', 374 F. Supp. 2d 861 ([[United States District Court for the Central District of California|C.D. Cal.]], 2005), aff'd in part and rev'd in part, 447 F.3d 673 (9th Cir. 2006), cert. denied, 127 S. Ct. 396 (2006).  In ''Smelt'', the district court applied Pullman abstention to one part of the claim, but it proceeded to the merits on another part, finding DOMA to be constitutional.  The [[United States Court of Appeals for the Ninth Circuit]] affirmed the district court on the abstention question, but it reversed the district court on the merits, holding that the couple lacked standing to sue.  The Ninth Circuit raised the standing question ''[[sua sponte]]'', but only because the couple had not demonstrated the requisite injury.  The Ninth Circuit left open the possibility that another couple with a demonstrable injury could bring the same suit in the future.  Importantly, ''Baker v. Nelson'' is mentioned nowhere in the Ninth Circuit's opinion; its continuing relevance is therefore highly suspect.
+
+Beginning in 2003, members of Congress have annually introduced a "[[Jurisdiction stripping|court-stripping]]" provision that would prevent all federal courts from hearing claims challenging the constitutionality of DOMA.  See, e.g., Marriage Protection Act of 2003, H.R. 3313 (108th Cong., 1st Sess.).  This proposed court-stripping provision has itself been challenged as being of dubious constitutionality.  See Jason J. Salvo, Comment, Naked Came I: Jurisdiction-Stripping and the Constitutionality of House Bill 3313, 29 Seattle U. L. Rev. 963 (Summer 2006); Maxim O. Mayer-Cesiano, On Jurisdiction-Stripping: The Proper Scope of Inferior Federal Courts' Independence from Congress, 8 U. Pa. J. Const. L. 559 (May 2006); J. Spencer Jenkins, Note, 'Til Congress Do Us Part: The Marriage Protection Act, Federal Court-Stripping, and Same-Sex Marriage, 40 New Eng. L. Rev. 619 (Winter 2006); Sarah Kroll-Rosenbaum, Note, The Marriage Protection Act: A Lesson in Congressional Over-Reaching, 50 N.Y. L. Sch. L. Rev. 809 (2005-2006); Michael J. Gerhardt, The Constitutional Limits to Court-Stripping, 9 Lewis &amp; Clark L. Rev. 347 (Summer 2005); Theodore J. Weiman, Comment, Jurisdiction Stripping, Constitutional Supremacy, and the Implications of Ex Parte Young, 153 U. Pa. L. Rev. 1677 (2005).
+
+=== Economic arguments ===
+Dr. M. V. Lee Badgett, an economist and associate professor at the [[University of Massachusetts Amherst]], has studied the impact of same-sex legal marriage on four groups. 
+
+'''Impact on same-sex couples:'''  Badgett finds that exclusion from legal marriage has an economic impact on same-sex couples.  According to a 1997 General Accounting Office study requested by Rep. [[Henry Hyde]] (R), at least 1,049 U.S. Federal laws and regulations include reference to marital status.  A later 2004 study by the Congressional Budget Office finds 1,138 statutory provisions "in which marital status is a factor in determining or receiving 'benefits, rights, and privileges.'"&lt;ref name=cbo1&gt;{{cite paper
+   |url        = http://www.cbo.gov/showdoc.cfm?index=5559&amp;sequence=0
+   |title      = The Potential Budgetary Impact of Recognizing Same-Sex Marriages
+   |publisher  = Congressional Budget Office
+   |format     = .HTML; .PDF
+   |date=      2004-06-21
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt; Many of these laws govern property rights, benefits, and taxation.  Same-sex couples are ineligible for spousal and survivor Social Security benefits.  Badgett's research finds the resulting difference in Social Security income for same-sex couples compared to opposite-sex married couples is US$5,588 per year.  The federal ban on same-sex marriage and benefits through the 1996 Defense of Marriage Act (DOMA) extends to federal government employee benefits.  For example, after the 2006 death of former Massachusetts Congressman [[Gerry Studds]] (D), the first openly gay member of Congress, his legal spouse Dean Hara was denied the estimated $114,337 annual pension to which Hara would have been eligible if their Massachusetts marriage was recognized on the federal level.  According to Badgett's work, same-sex couples face other financial challenges against which legal marriage at least partially shields opposite-sex couples:
+
+* potential loss of couple's home from medical expenses of one partner caring for another gravely ill one
+
+* costs of supporting two households, travel, or emigration out of the U.S. for an American citizen unable to legally marry a non-US citizen
+
+* higher cost of purchasing private insurance for partner and children if company is not one of 18% that offer domestic partner benefits
+
+* higher taxes:  unlike a company's contribution to an employee's spouse's health insurance, domestic partner benefits are taxed as additional compensation
+
+* legal costs associated with obtaining domestic partner documents to gain some of the power of attorney, health care decision-making, and inheritance rights granted through legal marriage
+
+* higher health costs associated with lack of insurance and preventative care:  20% of same-sex couples have a member who is uninsured compared to 10% of married opposite-sex couples
+
+* current tax law allows a spouse to inherit an unlimited amount from the deceased without incurring an estate tax but an unmarried partner would have to pay the estate tax on the inheritance from her/his partner
+
+* same-sex couples are not eligible to file jointly or separately as a married couple and thus cannot take the advantages of lower tax rates when the individual income of the partners differs significantly
+
+While state laws grant full marriage rights (Massachusetts) or some or all of the  benefits under another name (Vermont, New Jersey, California, etc.), these state laws do not extend the benefits of marriage on the Federal level, and most states do not currently recognize same-sex marriages or civil unions from other states.
+
+One often overlooked aspect of same-sex marriage are the potential ''negative'' effects on same-sex couples.  While the legal benefits of marriage are numerous, same-sex couples would face the same financial constraints of legal marriage as opposite-sex married couples.  Such potential effects include the [[marriage penalty]] in taxation.  Similarly, while social service providers usually do not count one partner's assets toward the income means test for welfare and disability assistance for the other partner, a legally married couple's joint assets are normally used in calculating whether a married individual qualifies for assistance.
+
+'''Impact on businesses:''' Dr. M. V. Lee Badgett's research estimates the potential impact on businesses of same-sex marriage legalization to be $2 billion to the wedding industry alone.  Badgett derives this estimate by calculating the amount spent on weddings if a) half of same-sex couples marry and b) each couple spends 1/4 the average amount spent on an opposite-sex wedding (US$27,600 average wedding cost / 4 = US$6,900 per same-sex couple).
+
+'''Impact on employers''': In terms of employers where marriage opponents fear higher benefit costs, Badgett and Mercer Human Resources Consulting  separately find less than 1% of employees with a same-sex partner sign up for domestic partner benefits when a company offers them.  Badgett finds less than 0.3% of Massachusetts firms' employees signed up for spousal benefits when that state legalized same-sex marriage.  
+
+'''Impact on governments''': A 2004 Congressional Budget Office (CBO) report examines the impact of allowing the 1.2 million Americans in same-sex domestic partnerships in the 2000 Census to marry and finds the impact to be comparatively small in terms of the huge Federal budget. While some spending on Federal programs would increase, these outlays would be offset by more savings in other spending areas.  The report predicts that if same-sex marriage was legalized in all 50 states and on the Federal level, the U.S. government would bring in a net surplus of US$1 billion per year over the next 10 years.&lt;ref name=cbo1/&gt; In terms of specific programs' spending the report states:  
+
+&lt;blockquote&gt;''Recognizing same-sex marriages would increase outlays for Social Security and for the Federal Employees Health Benefits (FEHB) program, CBO estimates, but would reduce spending for Supplemental Security Income (SSI), Medicaid, and Medicare. Effects on other programs would be negligible. Altogether, CBO concludes, recognizing same-sex marriages would affect outlays by less than $50 million a year in either direction through 2009 and reduce them by about $100 million to $200 million annually from 2010 through 2014.''&lt;ref name=cbo1/&gt;&lt;/blockquote&gt;
+
+The CBO study counters the economic argument by some U.S. critics of same-sex marriage against governmental recognition on the grounds that the public should not have to shoulder the burden of increased taxes and insurance premiums to cover the associated costs.&lt;ref&gt;{{cite news
+   |url        = http://www.opinionjournal.com/editorial/feature.html?id=110004735
+   |title      = For Better or for Worse? 
+   |publisher  = WSJ OpinionJournal
+   |author     = Mary Ann Glendon
+   |date=      2004-02-25
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+
+=== Other arguments opposing same-sex marriage ===
+Some same-sex marriage opponents take the view that legalization of same-sex marriage will open the door to the redefinition of marriage to include other family forms such as polygamy; some are concerned that the same arguments used to advocate for same-sex marriage legislation could be used to advocate for other legally recognized arrangements that would have unknown (and possibly detrimental) effects on children.&lt;ref&gt;http://www.savemarriageny.org/The%20Case%20Against%20Same-Sex%20Marriage%20and%20Civil%20Unions.pdf&lt;/ref&gt;&lt;ref&gt;http://www.weeklystandard.com/Content/Public/Articles/000/000/002/938xpsxy.asp&lt;/ref&gt;''[[The Weekly Standard]]'' commentator Stanley Kurtz argues allowing same-sex marriage blurs other common law precedents and will lead to the legalization of a variety of non-traditional relationships (see [[Slippery-slope argument]]).&lt;ref&gt;{{cite news
+   |url        = http://www.weeklystandard.com/Content/Public/Articles/000/000/002/938xpsxy.asp
+   |title      = Beyond Gay Marriage
+   |publisher  = Weekly Standard
+   |author     = Stanley Kurtz
+   |date=      2003-08-04
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+
+* [[Polyamory]]. Defined as the practice whereby a person has more than one long term [[love|loving relationship]] in their life, with the knowledge and acceptance of others they are involved with, in whatever form is chosen by those involved. This can include long term stable [[group marriage]]s, or stable couples who have external partners as well as their 'primary' partner. A polyamorous civil union in the Netherlands in 2005 sparked many comparisons with gay marriage on American conservative blogs.&lt;ref&gt;{{cite news
+   |url        = http://www.weeklystandard.com/Content/Public/Articles/000/000/006/494pqobc.asp 
+   |title      = Here Come the Brides
+   |publisher  = The Weekly Standard
+   |author     = Stanley Kurtz
+   |date=      2005-12-26
+   |accessdate=2007-03-08
+    }}&lt;/ref&gt;
+* [[Marriage of convenience|Marriages of convenience]] for tax or other reasons.
+
+==See also==
+{{Col-begin}}
+{{Col-2}}
+* [[Adelphopoiesis]] (''"brother-making"'')
+* [[Adoption by same-sex couples]]
+* [[Blessing of same-sex unions in Christian churches]]
+* [[Defense of Marriage Act]]
+* [[Heterosexism]]
+* [[List of LGBT couples]]
+* [[Marriage gap]]
+* [[Marriage#Rights and obligations relating to marriage|Marriage rights and obligations]]
+* [[:Category:Marriage, unions and partnerships by country|Marriage, unions and partnerships by country]]
+{{Col-2}}
+{{Portal|LGBT|Portal LGBT.svg}}
+* [[Mixed-orientation marriage]]
+* [[Religion and sexuality]]
+* [[United States Census, 2000#Gay and lesbian controversy|Same-sex controversy in the U.S. Census 2000]]
+* [[Same-sex marriage and procreation]]
+* [[Status of same-sex marriage]]
+* [[Timeline of same-sex marriage]]
+* [[Traditional marriage movement]]
+* [[Uniting American Families Act]]
+* [[LGBT retirement issues]]
+{{Col-end}}
+===Documentaries and literature===
+* ''[[A Union in Wait]]''
+* ''[[Pursuit of Equality]]''
+* MTV's True Life: ''[[I'm Gay and I'm Getting Married]]''
+
+==Footnotes==
+{{Reflist|2}}
+==References==
+{{refbegin|1}}
+* [http://www.breakinglegalnews.com/entry/Mass-governor-orders-26-gay-marriages-registered Mass. governor orders 26 gay marriages registered], Breaking Legal News, April 3, 2007
+{{refend}}
+
+==External links==
+{{commonscat|Same-sex marriage}}
+*[http://www.newsweek.com/id/142307 Where Can Gays Wed? Newsweek's Interactive Map on same-sex marriage legislation in the United States by Marc Bain, Alicia Parlapiano and Xaquín G.V.]
+*[http://www.laweekly.com/news/news/california-supreme-court-set-to-consider-gay-marriage/18429/ ''LA Weekly''  feature, "California Supreme Court Set to Consider Gay Marriage," Feb. 2008 by Matthew Fleischer]
+*[http://www.huffingtonpost.com/evan-wolfson/today-is-freedom-to-marry_b_86282.html Today is Freedom to Marry Day - Just Don't Say "Gay Marriage"!], Evan Wolfson, ''[[Huffington Post]]'', February 12, 2008.
+*[http://www.courtinfo.ca.gov/opinions/documents/S147999.PDF ''Lockyer v. City and County of San Francisco''] California Supreme Court Opinion overturning ban on same-sex unions, May 15, 2008 
+*[http://www.marriagedebate.com/pdf/iMAPP.May2008.pdf American Courts on Marriage: Is Marriage Discriminatory? 1998-2008], Joshua Baker, [[Institute for Marriage and Public Policy]], May 2008.
+*[http://blogs.myspace.com/index.cfm?fuseaction=blog.view&amp;friendID=2096711&amp;blogID=447044409 Address by Prime Minister Paul Martin on [[Bill C-38]] (The Civil Marriage Act) ], Prime Minister [[Paul Martin]], [[Canadian House of Commons]], [[Canada]], February 2005. (On [[Tegan and Sara]]s MySpace-Blog)
+
+== Bibliography ==
+&lt;div class="references-small"&gt;
+* {{cite book |last=Boswell |first=John |authorlink=John Boswell (historian)|year=1995 |title=The Marriage of Likeness: Same-sex Unions in Pre-modern Europe |publisher=Simon Harper and Collins |location=New York |id=ISBN 0-00-255508-5}}
+* {{cite book |last=Wolfson |first=Evan |authorlink=Evan Wolfson |year=2004 |title=Why Marriage Matters: America, Equality, and Gay People's Right to Marry |publisher=Simon &amp; Schuster |location=New York |id=ISBN 0-7432-6459-2}}
+* {{cite book |last=Boswell |first=John |authorlink=John Boswell |year=1994 |title=Same-sex Unions in Premodern Europe |publisher=Villard Books |location=New York |id=ISBN 0-679-43228-0}}
+* {{cite book  |last=Farrow |first=Douglas|last=Cere |first=Daniel |authorlink=Daniel Cere |year=2004 |title=Divorcing Marriage: Unveiling the Dangers in Canada's New Social Experiment |publisher=McGill-Queen's University Press|location=Montreal |id=ISBN 0-7735-2895-4}}
+* {{cite book |last=Chauncey |first=George |authorlink=George Chauncey |year=2004 |title=Why Marriage?: The History Shaping Today's Debate over Gay Equality |publisher=Basic Books |location=New York |id=ISBN 0-465-00957-3}}
+* {{cite book |last=Dobson |first=James C. |authorlink=James Dobson |year=2004 |title=Marriage Under Fire|Marriage under Fire: Why We Must Win This War |publisher=Multnomah |location=Sisters, Or. |id=ISBN 1-59052-431-4}}
+* {{cite book |last=Larocque |first=Sylvain |authorlink=Sylvain Larocque |year=2006 |title=[[Gay Marriage|Gay Marriage: The Story of a Canadian Social Revolution]] |publisher=James Lorimer &amp; Company |location=Toronto |id=ISBN 1-55028-927-6}}
+* {{cite book |last=Spedale |first=Darren |authorlink=Darren Spedale |year=2006 |title=Gay Marriage: For Better or For Worse? What We've Learned From the Evidence |publisher=Oxford University Press |location=New York |id=ISBN 0-19-518751-2}}
+* {{cite book |editor=Robert P. George, [[Jean Bethke Elshtain]] (Eds.) |year=2006 |title=The Meaning of Marriage: Family, State, Market, And Morals |publisher=Spence Publishing Company |location=Dallas |id=ISBN 1-890626-64-3}}
+*Caramagno, Thomas C.  "Irreconcilable Differences? Intellectual Stalemate in the Gay Rights Debate."  Westport, CT: Praeger, 2002.  ISBN 0-275-97721-8
+&lt;/div&gt;
+
+{{Same-sex marriage}}
+{{LGBT|history=yes|culture=yes|rights=yes}}
+
+[[Category:Marriage]]
+[[Category:LGBT civil rights]]
+[[Category:Same-sex marriage]]
+
+[[af:Burgerlike verbintenis]]
+[[ar:زواج مثلي]]
+[[br:Dimezioù etre paotred pe etre maouezed]]
+[[bg:Еднополов брак]]
+[[ca:Matrimoni homosexual]]
+[[de:Gleichgeschlechtliche Ehe]]
+[[es:Matrimonio entre personas del mismo sexo]]
+[[eo:Samedzeco]]
+[[fr:Mariage homosexuel]]
+[[gl:Matrimonio entre persoas do mesmo sexo]]
+[[ko:동성 결혼]]
+[[it:Matrimonio omosessuale]]
+[[he:נישואים חד-מיניים]]
+[[mk:Брак меѓу исти полови]]
+[[nl:Homohuwelijk]]
+[[ja:同性結婚]]
+[[no:Likekjønnet ekteskap]]
+[[pl:Małżeństwo osób tej samej płci]]
+[[pt:Casamento entre pessoas do mesmo sexo]]
+[[ro:Căsătorie între persoane de acelaşi sex]]
+[[sl:Istospolna partnerska zveza]]
+[[sh:Istopolni brak]]
+[[fi:Samaa sukupuolta olevien avioliitto]]
+[[sv:Samkönat äktenskap]]
+[[vi:Hô nhân đồng tính]]
+[[tr:Eşcinsel evlilik]]
+[[wuu:同性婚姻]]
+[[zh:同性婚姻]]</rev></revisions></page></pages></query></api>

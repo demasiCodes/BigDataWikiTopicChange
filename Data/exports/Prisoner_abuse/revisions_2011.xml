@@ -1,0 +1,33 @@
+<?xml version="1.0"?><api><continue rvcontinue="20111110225736|460044062" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1840508" pageid="1840508" ns="0" title="Prisoner abuse"><revisions><rev timestamp="2011-11-17T22:50:04Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{| style="float: right;"
+| {{CriminTheo}}
+|}
+'''Prisoner abuse''' is the mistreatment of persons while they are under arrest or incarcerated.
+Abuse falling into this category includes:
+* '''[[Physical abuse]]:''' Needless beating, hitting, or other [[corporal punishment]].
+* '''[[Psychological abuse]]:''' Taunting, [[sleep deprivation]], or other forms of psychological abuse, occasionally [[white noise]]
+* '''[[Sexual abuse]]:''' Forced intercourse, genital mutilation, or other forms of sexual abuse.
+* '''Other abuse:''' Refusal of essential medication, [[humiliation]], etc.
+* '''[[Enhanced interrogation]]:''' methods implemented in the [[War on Terror]] purportedly needed to extract information since other techniques would not yield results.
+* '''[[Torture]]:''' any act by which severe [[suffering|pain]], whether physical or psychological, is intentionally inflicted
+
+== Psychological abuse ==
+===White noise===
+The endless playing of random static (similar to that of unused TV frequencies) with no pattern; this can cause extreme discomfort and disorientation.
+
+===Verbal abuse===
+Prisoners may be subject to taunting, heckling, profanity, and malicious lies by prison authorities.  Guards and other authorities may use verbal abuse as a means of frightening or demoralizing prisoners to make them more compliant, or simply out of sadism.
+
+===Enablement of Sexual Violence===
+Prisoners are sometimes intentionally housed with inmates known to have raped other prisoners, or protection from known rapists may be purposely withheld from the prisoners. These practices create a very high incidence of rape in US prisons, which was the topic of the 2001 report [http://www.hrw.org/reports/2001/prison/  No Escape] from Human Rights Watch.
+
+==See also==
+*[[Prisoner rape]]
+
+{{abuse}}
+{{Psychological manipulation}}
+{{Incarceration}}
+
+
+{{DEFAULTSORT:Prisoner Abuse}}
+[[Category:Penology]]
+[[Category:Abuse]]</rev></revisions></page></pages></query></api>

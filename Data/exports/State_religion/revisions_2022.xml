@@ -1,0 +1,722 @@
+<?xml version="1.0"?><api><continue rvcontinue="20221124055540|1123523728" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="292285" pageid="292285" ns="0" title="State religion"><revisions><rev timestamp="2022-11-24T18:46:27Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Short description|Religious body or creed officially endorsed by the state}}
+{{More citations needed|date=November 2021}}
+{{Use dmy dates|date=September 2020}}
+[[File:State Religions.svg|thumb|upright=1.6|Confessional states{{#tag:ref|[[Bhutan]],&lt;ref&gt;{{Cite book|url=https://www.academia.edu/4109874|title = THE INSCRUTABLE GUARDIAN OF THUNDER AND SILENCE the Dragon (Druk) in Himalayan Symbology}}&lt;/ref&gt; [[Mauritania]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/mauritania/|title=Mauritania|work=CIA World Factbook|date=22 November 2021}}&lt;/ref&gt; [[Western Sahara]] (via [[Sahrawi Arab Democratic Republic]]&lt;ref name="books.google.com"&gt;Toby Shelley. ''[https://books.google.com/books?id=tXFo3b-07NgC Endgame in the Western Sahara: What Future for Africa's Last Colony?]''. Zed Books; 2004. {{ISBN|978-1-84277-341-3}}. p. [https://books.google.com.ph/books?id=tXFo3b–07NgC&amp;pg=PA174 174].&lt;/ref&gt;  and Morocco,&lt;ref name=morocco /&gt; which divide control), [[Morocco]],&lt;ref name=morocco&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/morocco/|title=Morocco|work=CIA World Factbook|date=23 November 2021}}&lt;/ref&gt; [[Norway]],&lt;ref&gt;{{cite web|url= https://www.cia.gov/the-world-factbook/countries/norway/ |title=Norway|work=CIA World Factbook|date=25 October 2022}}&lt;/ref&gt; [[Tunisia]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/tunisia/|title=Tunisia|work=CIA World Factbook|date=24 November 2021}}&lt;/ref&gt; [[Egypt]],&lt;ref&gt;[http://niviensaleh.info/constitution-egypt-2012-translation/ The 2012 Constitution of Egypt, Translated by Nivien Saleh, with Index] (Article 2)&lt;/ref&gt; [[England]],&lt;ref&gt;[https://www.constituteproject.org/constitution/United_Kingdom_2013.pdf?lang=en United Kingdom’s Constitution of 1215 with Amandments through 2013]&lt;/ref&gt; [[Jordan]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/jordan/|title=Jordan|work=CIA World Factbook|date=24 November 2021}}&lt;/ref&gt; [[Iraq]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/iraq/|title=Iraq|work=CIA World Factbook|date=22 November 2021}}&lt;/ref&gt; [[Pakistan]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/pakistan/|title=Pakistan|work=CIA World Factbook|date=30 November 2021}}&lt;/ref&gt; [[Bangladesh]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/bermuda/|title=Bangladesh|work=CIA World Factbook|date=16 November 2021}}&lt;/ref&gt; [[United Arab Emirates]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/united-arab-emirates/|title=United Arab Emirates|work=CIA World Factbook|date=23 November 2021}}&lt;/ref&gt; [[Oman]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/oman/|title=Oman|work=CIA World Factbook|date=30 November 2021}}&lt;/ref&gt; [[Yemen]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/yemen/|title=Yemen|work=CIA World Factbook|date=24 November 2021}}&lt;/ref&gt; [[Maldives]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/maldives/|title=Maldives|work=CIA World Factbook|date=23 November 2021}}&lt;/ref&gt; [[Iran]],&lt;ref&gt;[http://www.servat.unibe.ch/icl/ir00000_.html Iran - Constitution] (Article 12), [http://www.servat.unibe.ch unibe.ch], "The official religion of Iran is Islam and the Twelver Ja'fari school, ..."&lt;/ref&gt; [[Algeria]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/algeria/|title=Algeria|work=CIA World Factbook|date=18 November 2021}}&lt;/ref&gt; [[Saudi Arabia]],&lt;ref&gt;[http://www.saudiembassy.net/about/country-information/laws/The_Basic_Law_Of_Governance.aspx The Basic Law of Governance] (Chapter one, Article one), [http://www.saudiembassy.net saudiembassy.net], "The Kingdom of Saudi Arabia is a sovereign Arab Islamic State. Its religion is Islam. Its constitution is Almighty God's Book, The Holy Qur'an, and the Sunna (Traditions) of the Prophet (PBUH). Arabic is the language of the Kingdom. The City of Riyadh is the capital."&lt;/ref&gt; [[Sri Lanka]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/sri-lanka/|title=Sri Lanka|work=CIA World Factbook|date=3 October 2022}}&lt;/ref&gt; [[Afghanistan]],&lt;ref&gt;[http://www.afghan-web.com/politics/current_constitution.html The Constitution of Afghanistan] (Chapter one, Article two), [http://www.afghan-web.com afghan-web.com]&lt;/ref&gt;   [[Somalia]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/somalia/|title=Somalia|work=CIA World Factbook|date=19 November 2021}}&lt;/ref&gt; [[Malaysia]],&lt;ref&gt;[http://www.agc.gov.my/images/Personalisation/Buss/pdf/Federal%20Consti%20(BI%20text).pdf Federal Constitution], [http://www.agc.gov.my agc.gov.my]&lt;/ref&gt; [[Brunei]],&lt;ref&gt;{{cite book|author1=Ibp Usa|author2=International Business Publications, USA|title=Brunei Sultan Haji Hassanal Bolkiah Mu'Izzaddin Waddaulah Handbook|url=https://books.google.com/books?id=9q0_LcWREVMC|year=2007|publisher=Int'l Business Publications|isbn=978-1-4330-0444-5|pages=[https://books.google.com.ph/books?id=9q0_LcWREVMC&amp;pg=PA133 133]}}&lt;/ref&gt; [[Greece]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/greece/|title=Greece|work=CIA World Factbook|date=29 November 2021}}&lt;/ref&gt; [[Denmark]],&lt;ref&gt;{{cite web|url=https://www.cia.gov/the-world-factbook/countries/denmark/|title=Denmark|work=CIA World Factbook|date=30 November 2021}}&lt;/ref&gt; [[Costa Rica]],&lt;ref&gt;[http://www.costaricalaw.com/legalnet/constitutional_law/engtit6.html Title VI, Article 75] of [http://www.costaricalaw.com/legalnet/constitutional_law/constitenglish.html The Constitution of Costa Rica], [http://www.costaricalaw.com costaricalaw.com].&lt;/ref&gt; [[Zambia]].&lt;ref&gt;{{cite web|url=https://www.constituteproject.org/constitution/Zambia_2009.pdf?lang=en|title=Zambia's Constitution of 1991 with Amendments through 2009|work=CIA World Factbook}}&lt;/ref&gt; See also [[:File:State Religions.svg#Notes|here]].|group=note}}
+{| width="100%"
+|-
+| valign="top" |
+{{legend|#1600FF|[[Christianity]] (unspecified)}}
+{{legend|#062A87|[[Protestantism]]}}
+{{legend|#0774F1|[[Eastern Orthodoxy]]}}
+{{legend|#04E3F1|[[Catholicism]]}}
+| valign="top" |
+{{legend|#158706|[[Islam]] (unspecified)}}
+{{legend|#0F5D05|[[Sunni Islam]]}}
+{{legend|#2FEB16|[[Shi'a Islam]]}}
+{{legend|#EBCF16|[[Buddhism]]}}
+|}
+]]
+A '''state religion''' (also called '''religious state''' or '''official religion''') is a [[religion]] or [[creed]] officially endorsed by a [[sovereign state]]. A state with an official religion (also known as '''[[confessional state]]'''), while not [[secular state|secular]], is not necessarily a [[theocracy]]. State religions are official or government-sanctioned establishments of a religion, but the state does not need to be under the control of the religion (as in a theocracy) nor is the state-sanctioned religion necessarily under the control of the state.
+
+Official religions have been known throughout [[human history]] in almost all types of cultures, reaching into the [[Ancient Near East]] and [[prehistory]]. The relation of [[Cult|religious cult]] and the state was discussed by the [[Ancient Rome|ancient Latin]] scholar [[Marcus Terentius Varro]], under the term of ''[[theologia civilis]]'' ({{Literal translation|civic theology}}). The first state-sponsored [[Church (congregation)|Christian church]] was the [[Armenian Apostolic Church]], established in 301 CE.&lt;ref&gt;''The Journal of Ecclesiastical History''. p. 268 by Cambridge University Press, Gale Group, C.W. Dugmore&lt;/ref&gt; In [[Christianity]], as the term ''church'' is typically applied to a place of worship for [[Christians]] or organizations incorporating such ones, the term ''state church'' is associated with Christianity as sanctioned by the government, historically the [[state church of the Roman Empire]] in the last centuries of the Empire's existence, and is sometimes used to denote a specific modern national branch of Christianity. Closely related to state churches are [[ecclesia (sociology of religion)|ecclesiae]], which are similar but carry a more minor connotation.
+
+In the [[Middle East]], the majority of states with a predominantly [[Muslims|Muslim]] population have [[Islam]] as their official religion, though the degree of religious restrictions on citizens' everyday lives varies by country. Rulers of [[Saudi Arabia]] use both secular and religious power, while [[Iran]]'s secular presidents are supposed to follow the decisions of religious authorities since the [[Iranian Revolution|1979 Islamic Revolution]]. [[Turkey]], which also has Muslim-majority population, became a secular country after [[Atatürk's reforms|Atatürk's Reforms]], although unlike the [[Russian Revolution]] of the same time period, it did not result in the adoption of [[state atheism]].
+
+The degree to which an official national religion is imposed upon citizens by the state in contemporary society varies considerably; from high as in [[Religion in Saudi Arabia|Saudi Arabia]] and [[Religion in Iran|Iran]] to minimal or none at all as [[Religion in Denmark|Denmark]], [[Religion in England|England]], [[Religion in Iceland|Iceland]], and [[Religion in Greece|Greece]].
+
+==Types==
+The degree and nature of state backing for denomination or creed designated as a state religion can vary. It can range from mere endorsement (with or without financial support) with freedom for other faiths to practice, to prohibiting any competing religious body from operating and to persecuting the followers of other sects. In Europe, competition between [[Catholic Church|Catholic]] and [[Protestantism|Protestant]] denominations for state sponsorship in the 16th century evolved the principle ''[[Cuius regio, eius religio]]'' (states follow the religion of the ruler) embodied in the text of the treaty that marked the [[Peace of Augsburg]], 1555. In [[England]], [[Henry VIII of England|Henry VIII]] broke with Rome in 1534, being declared the [[Supreme Head of the Church of England]],&lt;ref&gt;The headship was administrative and jurisdictional but did not include the ''potestas ordinis'' (the right to preach, ordain, administer the sacraments and rites of the Church which were reserved to the clergy). Bray, Gerald. ''Documents of the English Reformation'' James Clarke &amp; Cº (1994), p. 114&lt;/ref&gt; the official religion of England continued to be "Catholicism without the Pope" until after his death in 1547,&lt;ref&gt;Neill, Stephen. ''Anglicanism'' Penguin (1960), p. 61&lt;/ref&gt; while in [[Scotland]] the [[Church of Scotland]] assested spiritual independence from the state.
+
+In some cases, an administrative region may sponsor and fund a set of religious denominations; such is the case in [[Alsace-Moselle]] in [[France]] under its [[Local law in Alsace-Moselle|local law]], following the pre-1905 French concordatory legal system and patterns in [[Germany]].&lt;ref&gt;The concerned religious communities are the [[Diocese of Metz|dioceses of Metz]] and [[Archdiocese of Strasbourg|of Strasbourg]], the Lutheran [[EPCAAL]] and the Reformed [[EPRAL]] and the three [[Consistory (Judaism)|Israelite consistories]] in Colmar, Metz and Strasbourg.&lt;/ref&gt;
+
+In some [[communist state]]s, notably in [[Religion in North Korea|North Korea]] and [[Religion in Cuba|Cuba]], the state sponsors religious organizations, and activities outside those state-sponsored religious organizations are met with various degrees of official disapproval. In these cases, state religions are widely seen as efforts by the state to prevent alternate sources of authority.{{Citation needed|date=February 2012}}
+
+===State churches===
+{{Unreferenced section|date=November 2021}}
+There is also a difference between a "state church" and the broader term of "state religion". A "state church" is a state religion created by a state for use exclusively by that state. An example of a "state religion" that is not also a "state church" is [[Catholic Church|Roman Catholicism]] in Costa Rica, which was accepted as the state religion in the 1949 Constitution, despite the lack of a [[national church]]. In the case of a "state church", the state has absolute control over the church, but in the case of a "state religion", the church is ruled by an exterior body; in the case of Catholicism, the [[Holy See|Vatican]] has control over the church. In either case, the official state religion has some influence over the ruling of the state. As of 2012, there are only five state churches left. 
+
+===Disestablishment===
+&lt;!--This section is linked from [[Liberal Party (UK)]]--&gt;
+{{Further|Secular state}}
+Disestablishment is the process of repealing a church's status as an organ of the state. In a state where an established church is in place, those opposed to such a move may be described as [[Antidisestablishmentarianism|antidisestablishmentarians]]. This word is, however, most usually associated with the debate on the position of the Anglican churches in the [[British Isles]]: the [[Church of Ireland]] (disestablished in [[Irish Church Act 1869|1871]]), the [[Church of England]] in [[Wales]] (disestablished in [[Welsh Church Act 1914|1920]]), and the Church of England itself (which remains established in England).
+
+==Current state recognized religions==
+
+===Buddhism===
+Governments where [[Buddhism]], either a specific form of it, or Buddhism as a whole, has been established as an official religion:
+* {{flagicon|Bhutan}} [[Buddhism in Bhutan|Bhutan]]: The [[Constitution of Bhutan|Constitution]] defines Buddhism as the "spiritual heritage of Bhutan". [[Constitution of Bhutan|The Constitution of Bhutan]] is based on [[Buddhist philosophy]].&lt;ref&gt;{{Cite web|date=2010-07-15|title=Background|url=http://www.constitution.bt/html/sources/background.htm|access-date=2021-01-28|archive-url=https://web.archive.org/web/20100715193437/http://www.constitution.bt/html/sources/background.htm|archive-date=15 July 2010}}&lt;/ref&gt; It also mandates that the [[Druk Gyalpo]] (King) should appoint the [[Je Khenpo]] and [[Dratshang Lhentshog]] (The Commission for Monastic Affairs).&lt;ref&gt;{{cite web |url=http://www.constitution.bt/draft_constitution_3rd_en.pdf |title=Draft of Tsa Thrim Chhenmo |date=1 August 2007 |publisher=constitution.bt |access-date=2007-10-18 |url-status=dead |archive-url=https://web.archive.org/web/20071127125443/http://www.constitution.bt/draft_constitution_3rd_en.pdf |archive-date=27 November 2007}}
+
+:Article 3, Spiritual Heritage
+:#Buddhism is the spiritual heritage of Bhutan, which promotes the principles and values of peace, non-violence, compassion and tolerance.
+:#The ''[[Druk Gyalpo]]'' is the protector of all religions in Bhutan.
+:#It shall be the responsibility of religious institutions and personalities to promote the spiritual heritage of the country while also ensuring that religion remains separate from politics in Bhutan. Religious institutions and personalities shall remain above politics.
+:#The ''Druk Gyalpo'' shall, on the recommendation of the Five ''Lopon''s, appoint a learned and respected monk ordained in accordance with the ''Druk-lu'', blessed with the nine qualities of a spiritual master and accomplished in ''ked-dzog'', as the ''[[Je Khenpo]]''.
+:#His Holiness the ''Je Khenpo'' shall, on the recommendation of the ''[[Dratshang Lhentshog]]'', appoint monks blessed with the nine qualities of a spiritual master and accomplished in ''ked-dzog'' as the Five ''Lopon''s.
+:#The members of the ''Dratshang Lhentshog'' shall comprise:&lt;br /&gt;{{pad|2em}}(a) The ''Je Khenpo'' as Chairman;&lt;br /&gt;{{pad|2em}}(b) The Five ''Lopon''s of the ''Zhung Dratshang''; and&lt;br /&gt;{{pad|2em}}(c) The Secretary of the ''Dratshang Lhentshog'' who is a civil servant.
+:#The ''Zhung Dratshang'' and ''Rabdeys'' shall continue to receive adequate funds and other facilities from the State.{{cite web|title=Bhutan's Constitution of 2008|url=https://constituteproject.org/constitution/Bhutan_2008.pdf?lang=en|website=constituteproject.org/|access-date=29 October 2017}}
+&lt;/ref&gt;
+* {{flagicon|Cambodia}} [[Buddhism in Cambodia|Cambodia]]: The [[Constitution of Cambodia|Constitution]] declared Buddhism as the official religion of the country.&lt;ref&gt;{{cite web |url=http://www.cambodia.org/facts/?government=The+Constitution+of+Cambodia |title=Constitution of Cambodia |publisher=cambodia.org |access-date=2011-04-13 }} (Article 43).&lt;/ref&gt; About 98% of Cambodia's population is Buddhist.&lt;ref&gt;{{Cite web|url=https://www.cia.gov/the-world-factbook/countries/cambodia/|title=East Asia/Southeast Asia :: Cambodia — The World Factbook – Central Intelligence Agency|website=cia.gov|date=24 November 2021}}&lt;/ref&gt;
+* {{flagicon|Myanmar}} [[Buddhism in Myanmar|Myanmar]]: Section 361 of the [[Constitution of Myanmar|Constitution]] states that "The Union recognizes special position of Buddhism as the faith professed by the great majority of the citizens of the Union."&lt;ref&gt;{{cite web |title=Constitution of the Republic of the Union of Myanmar (2008) |url=https://www.constitutionaltribunal.gov.mm/lawdatabase/my/download/file/fid/137 |website=Constitutional Tribunal of the Union |access-date=}}&lt;/ref&gt; The 1961 State Religion Promotion and Support Act requires : to teach Buddhist lessons in schools, to give priority to Buddhist [[kyaung|monestries]] in founding of primary schools, to make [[Uposatha]] days holidays during [[Vassa]] months, to broadcast Buddhist sermons by State media on Uposatha days, and other promotion and supports for Buddhism as State Religion.&lt;ref&gt;{{cite web |title=၁၉၆၁ ခုနှစ်၊ နိုင်ငံတော်ဘာသာသာသနာချီးမြှောက်ထောက်ပံ့ရေးအက်ဥပဒေ|trans-title=1961 year, State Religion Promotion and Support Act|url=https://www.constitutionaltribunal.gov.mm/lawdatabase/my/law/764|website=Constitutional Tribunal of the Union, Law Library|quote=}}&lt;/ref&gt;
+* {{flagicon|Sri Lanka}} [[Buddhism in Sri Lanka|Sri Lanka]]: The constitution of Sri Lanka states under Chapter II, Article 9, "The Republic of Sri Lanka declares Buddhism as the state religion and accordingly it shall be the duty of the Head of State and Head of Government to protect and foster the Buddha Sasana".&lt;ref&gt;{{Cite web|url=https://www.state.gov/reports/2018-report-on-international-religious-freedom/sri-lanka/|title=Sri Lanka}}&lt;/ref&gt;
+* {{flagicon|Thailand}} [[Buddhism in Thailand|Thailand]]: Article 67 of the [[Thai constitution]]: "The State should support and protect Buddhism. In supporting and protecting Buddhism, the State should promote and support education and dissemination of dharmic principles of Theravada Buddhism, and shall have measures and mechanisms to prevent Buddhism from being undermined in any form. The State should also encourage Buddhists to participate in implementing such measures or mechanisms.&lt;ref&gt;Article 67:&lt;br /&gt;"The State should support and protect Buddhism.
+In supporting and protecting Buddhism, [...] the State should promote and support education and dissemination of dharmic principles of Theravada Buddhism [...], and shall have measures and mechanisms to prevent Buddhism from being undermined in any form. The State should also encourage Buddhists to participate in implementing such measures or mechanisms."{{cite web|title=Constitution of the Kingdom of Thailand|url=http://www.constitutionnet.org/sites/default/files/2017-05/CONSTITUTION%2BOF%2BTHE%2BKINGDOM%2BOF%2BTHAILAND%2B%28B.E.%2B2560%2B%282017%29%29.pdf|website=constitutionnet.org|access-date=29 October 2017}}&lt;/ref&gt;
+
+In some countries, Buddhism is not recognized as a state religion, but holds special status:
+
+* {{flagicon|Laos}} [[Buddhism in Laos|Laos]]: According to the Lao Constitution, Buddhism is given special privilege in the country. The state respects and protects all the lawful activities of Buddhism.&lt;ref&gt;{{cite web|title=Lao People's Democratic Republic's Constitution of 1991 with Amendments through 2003|url=https://constituteproject.org/constitution/Laos_2003.pdf?lang=en|website=constituteproject.org|access-date=29 October 2017|quote=Article 9: The State respects and protects all lawful activities of Buddhists and of followers of other religions, [and] mobilises and encourages Buddhist monks and novices as well as the priests of other religions to participate in activities that are beneficial to the country and people.}}&lt;/ref&gt;
+* {{flagicon|Kalmykia}} [[Kalmykia]]: The Government supports Buddhism and also encourages Buddhist teachings and traditions. It also builds various Buddhist temples and sites. Various efforts are taken by the Government for the revival of Buddhism in the republic.&lt;ref&gt;{{Cite journal|last=SINCLAIR|first=TARA|date=2008|title=Tibetan Reform and the Kalmyk Revival of Buddhism|url=https://www.jstor.org/stable/23615096|journal=Inner Asia|volume=10|issue=2|pages=241–259|doi=10.1163/000000008793066713|jstor=23615096|issn=1464-8172}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=Buddhism in Russia: challenges and choices in the post-Soviet period|url=https://www.researchgate.net/publication/273961382|access-date=2021-02-03|website=ResearchGate|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=Kalmykia: few complaints over Kalmykia's state support for Buddhism|url=https://english.religion.info/2003/04/15/kalmykia-few-complaints-over-kalmykias-state-support-for-buddhism/|access-date=2021-02-03|website=english.religion.info}}&lt;/ref&gt;
+
+===Christianity===
+{{Main|Christian state|Christian republic|Christianity and politics|Christian democracy|Christian nationalism|Christendom}}
+The following states recognize some form of [[Christianity]] as their state or official religion or recognize a special status for it (by denomination):
+
+====Non-denominational Christianity====
+
+* {{flag|Samoa}}: In June 2017, Parliament voted to amend the wording of Article{{nbsp}}1 of the constitution, thereby making Christianity the state religion. Part 1, Section (1)(3) reads "Samoa is a Christian nation founded on God the Father, the Son and the Holy Spirit." The status of the religion had previously only been mentioned in the preamble, which Prime Minister [[Tuilaepa Aiono Sailele Malielegaoi]] considered legally inadequate.&lt;ref&gt;{{cite news|last1=Wyeth|first1=Grant|title=Samoa Officially Becomes a Christian State|url=https://thediplomat.com/2017/06/samoa-officially-becomes-a-christian-state/|work=The Diplomat|date=16 June 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Feagaimaali’i-Luamanu|first1=Joyetter|title=Constitutional Amendment Passes; Samoa Officially Becomes 'Christian State'|url=http://www.pireport.org/articles/2017/06/08/constitutional-amendment-passes-samoa-officially-becomes-christian-state|publisher=Pacific Islands Report|date=8 June 2017}}&lt;/ref&gt;
+* {{flag|Zambia}}: The preamble to the [[Constitution of Zambia|Zambian Constitution of 1991]] declares Zambia to be "a Christian nation", while also guaranteeing freedom of religion.&lt;ref&gt;[https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/26620/90492/F735047973/ZMB26620.pdf Constitution of Zambia]. Retrieved 19 October 2016.&lt;/ref&gt;
+
+====Catholicism====
+Jurisdictions where [[Catholic Church|Catholicism]] has been established as a state or official religion:
+* {{Flag|Costa Rica}}: [[Article 75 of the Constitution of Costa Rica]] confirms that "The Catholic and Apostolic Religion is the religion of the State, which contributes to its maintenance, without preventing the free exercise in the Republic of other forms of worship that are not opposed to universal morality or good customs."&lt;ref&gt;{{cite web|url=http://www.costaricalaw.com/Constitutional-Law/costa-rica-constitution-in-english.html|title=Costa Rica Constitution in English – Constitutional Law – Costa Rica Legal Topics|work=costaricalaw.com|url-status=dead|archive-url=https://web.archive.org/web/20150906224713/http://costaricalaw.com/Constitutional-Law/costa-rica-constitution-in-english.html|archive-date=6 September 2015}}&lt;/ref&gt;
+* {{Flag|Liechtenstein}}: The [[Constitution of Liechtenstein]] describes the Catholic Church as the state religion and enjoying "the full protection of the State". The constitution does however ensure that people of other faiths "shall be entitled to practice their creeds and to hold religious services to the extent consistent with morality and public order".&lt;ref name="LiechtensteinConstitution"&gt;{{webarchive |url=https://web.archive.org/web/20090326162534/http://www.liechtenstein.li/en/pdf-fl-staat-verfassung-sept2003.pdf |date=26 March 2009 |title=Constitution Religion }} (archived from [http://www.liechtenstein.li/en/pdf-fl-staat-verfassung-sept2003.pdf the original] on 2009-03-26).&lt;/ref&gt;
+* {{Flag|Malta}}: Article 2 of the [[Constitution of Malta]] declares that "the religion of Malta is the Catholic and Apostolic Religion".&lt;ref&gt;{{cite web|url=http://www.mjha.gov.mt/DownloadDocument.aspx?app=lom&amp;itemid=8566|title=Constitution of Malta (Article 2)|publisher= mjha.gov.mt }}&lt;/ref&gt;
+* {{Flag|Monaco}}: Article 9 of the [[Constitution of Monaco]] describes the "Catholic, and [[apostolic succession|apostolic]] religion" as the religion of the state.&lt;ref name="MonacoReligion"&gt;{{webarchive |url=https://web.archive.org/web/20110927091747/http://www.gouv.mc/devwww/wwwnew.nsf/1909$/036c62fe5f92f2efc1256f5b0054fa42gb?OpenDocument&amp;3Gb |date=27 September 2011 |title=Constitution de la Principaute}} (French): Art. 9., Principaute De Monaco: Ministère d'Etat (archived from [http://www.gouv.mc/devwww/wwwnew.nsf/1909$/036c62fe5f92f2efc1256f5b0054fa42gb?OpenDocument&amp;3Gb the original] on 2011-09-27).&lt;/ref&gt;
+* {{Flag|Vatican City}}: It is an [[Elective monarchy|elective]], [[Theocracy|theocratic]] (or [[Sacerdotal state|sacerdotal]]), [[absolute monarchy]] ruled by the [[Pope]], who is also the [[Vicar of Christ]].&lt;ref name="pages"&gt;{{cite web|url=http://www.catholic-pages.com/vatican/vatican_city.asp |title=Vatican City |publisher=Catholic-Pages.com |access-date=12 August 2013}}&lt;/ref&gt; The highest state functionaries are all [[Catholic Church|Catholic]] clergy of various national origins. It is the sovereign territory of the [[Holy See]] ({{lang-la|Sancta Sedes}}) and the location of the Pope's official residence, referred to as the [[Apostolic Palace]].
+
+Jurisdictions that give various degrees of recognition in their constitutions to Roman Catholicism without establishing it as the State religion:
+* {{flag|Andorra}}.&lt;ref&gt;{{cite book|first1=Jeroen|last1= Temperman|title=State–Religion Relationships and Human Rights Law: Towards a Right to Religiously Neutral Governance|publisher=BRILL|year=2010|isbn=9789004181496|quote=... guarantees the Roman Catholic Church free and public exercise of its activities and the preservation of the relations of special co-operation with the state in accordance with the Andorran tradition. The Constitution recognizes the full legal capacity of the bodies of the Roman Catholic Church which have legal status in accordance with their own rules.}}&lt;/ref&gt;
+* {{flag|Argentina}}: Article 2 of the [[Constitution of Argentina]] explicitly states that the government supports the Roman Catholic Apostolic Faith, but the constitution does not establish a state religion.&lt;ref&gt;
+* {{cite web|url=https://www.constituteproject.org/constitution/Argentina_1994.pdf?lang=en|title=Argentina's Constitution of 1853, Reinstated in 1983, with Amendments through 1994|work=constituteproject.org}}
+* {{cite web|url=http://www.argentina.gob.ar/pais/56-religion.php|title=Argentina – Religión|work=argentina.gob.ar|url-status=dead|archive-url=https://web.archive.org/web/20141008102111/http://www.argentina.gob.ar/pais/56-religion.php|archive-date=8 October 2014}}&lt;/ref&gt; Before its 1994 amendment, the Constitution stated that the President of the Republic must be a Roman Catholic.
+* {{flag|East Timor}}: While the [[Constitution of East Timor]] enshrines the principles of [[freedom of religion]] and [[separation of church and state]] in Section 45 Comma 1, it also acknowledges "the participation of the Catholic Church in the process of national liberation" in its preamble (although this has no legal value).&lt;ref name="constitution"&gt;{{cite web|title=Constitution of the Democratic Republic of Timor-Leste|url=http://timor-leste.gov.tl/wp-content/uploads/2010/03/Constitution_RDTL_ENG.pdf|publisher=Governo de Timor-Leste}}&lt;/ref&gt;
+* {{flag|El Salvador}}: Although Article 3 of the [[Constitution of El Salvador]] states that "no restrictions shall be established that are based on differences of nationality, race, sex or religion", Article 26 states that the state recognizes the [[Catholic Church]] and gives it legal preference.&lt;ref&gt;{{cite web|url=https://translate.google.com/translate?sl=es&amp;tl=en&amp;js=y&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;u=http%3A%2F%2Fwww.constitution.org%2Fcons%2Felsalvad.htm&amp;edit-text=&amp;act=url|title=Google Translate|access-date=18 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://confinder.richmond.edu/admin/docs/ElSalvador1983English.pdf|archive-url=https://web.archive.org/web/20150103200933/http://confinder.richmond.edu/admin/docs/ElSalvador1983English.pdf|url-status=dead|archive-date=3 January 2015|date=3 January 2015}}&lt;/ref&gt;
+* {{Flag|Guatemala}}: The [[Constitution of Guatemala]] recognises the juridical personality of the [[Catholic Church]]. Other churches, cults, entities, and associations of religious character will obtain the recognition of their juridical personality in accordance with the rules of their institution.&lt;ref&gt;{{cite web|url=https://www.constituteproject.org/constitution/Guatemala_1993.pdf|quote=The juridical personality of the Catholic Church is recognized. The other churches, cults, entities, and associations of religious character will obtain the recognition of their juridical personality in accordance with the rules of their institution[,] and the Government may not deny it[,] aside from reasons of public order. The State will extend to the Catholic Church, without any cost, [the] titles of ownership of the real assets which it holds peacefully for its own purposes, as long as they have formed part of the patrimony of the Catholic Church in the past. The property assigned to third parties or those|title=Guatemala's Constitution of 1985 with Amendments through 1993|publisher=[[Constitution Project]]}}&lt;/ref&gt;
+* {{Flag|Italy}}: The [[Constitution of Italy]] does not establish a state religion, but recognizes the state and the Catholic Church as "independent and sovereign, each within its own sphere".&lt;ref&gt;{{cite web|url=https://www.senato.it/documenti/repository/istituzione/costituzione_inglese.pdf|quote=The State and the Catholic Church are independent and sovereign, each within its own sphere. Their relations are regulated by the Lateran pacts. Amendments to such Pacts which are accepted by both parties shall not require the procedure of constitutional amendments.|title=Constitution of the Italian Republic |publisher=Senato.it|access-date=6 June 2021}}&lt;/ref&gt; The Constitution additionally reserves to the Catholic faith singular position in regard to the organization of worship, as opposed to all other confessions.&lt;ref&gt;{{cite web|url=https://www.senato.it/documenti/repository/istituzione/costituzione_inglese.pdf|quote=All religious denominations are equally free before the law. Denominations other than Catholicism have the right to self-organisation according to their own statutes, provided these do not conflict with Italian law. Their relations with the State are regulated by law, based on agreements with their respective representatives.|title=Constitution of the Italian Republic |publisher=Senato.it|access-date=6 June 2021}}&lt;/ref&gt;
+* {{Flag|Panama}}: The [[Constitution of Panama]] recognizes Catholicism as "the religion of the majority" of citizens but does not designate it as the official state religion.&lt;ref&gt;[https://2009-2017.state.gov/documents/organization/222609.pdf Executive Summary – Panama], 2013 [[Report on International Religious Freedom]], United States Department of State.&lt;/ref&gt; 
+* {{Flag|Paraguay}}: The [[Constitution of Paraguay]] recognizes the Catholic Church's role in the nation's [[History of Paraguay|historical]] and [[Culture of Paraguay|cultural]] formation.&lt;ref&gt;{{cite web|title=Constitution of the Republic of Paraguay|url=http://www.servat.unibe.ch/icl/pa00000_.html|quote=The role played by the Catholic Church in the historical and cultural formation of the Republic is hereby recognized.}}&lt;/ref&gt;
+* {{Flag|Peru}}: The [[Constitution of Peru]] recognizes the Catholic Church as an important element in the [[History of Peru|historical]], [[Culture of Peru|cultural]], and moral formation of Peru and lends it its cooperation.&lt;ref&gt;{{cite web|title=Constitution of the Republic of Peru|url=http://www.congreso.gob.pe/_ingles/CONSTITUTION_29_08_08.pdf|quote=Within an independent and autonomous system, the State recognizes the Catholic Church as an important element in the historical, cultural, and moral formation of Peru and lends it its cooperation. The State respects other denominations and may establish forms of collaboration with them.}}&lt;/ref&gt;
+* {{flag|Poland}}.&lt;ref&gt;{{cite web|title=The Constitution of the Republic of Poland|date=1997-04-02|url=http://sejm.gov.pl/prawo/konst/angielski/kon1.htm|quote=The relations between the Republic of Poland and the Roman Catholic Church shall be determined by international treaty concluded with the Holy See, and by statute. The relations between the Republic of Poland and other churches and religious organizations shall be determined by statutes adopted pursuant to agreements concluded between their appropriate representatives and the Council of Ministers.}}&lt;/ref&gt;
+* {{flag|Spain}}: The [[Constitution of Spain]] of 1978 abolished [[Catholic Church|Catholicism]] as the official state religion, while recognizing the role it plays in Spanish society.&lt;ref name=es_CONSTITUTION&gt;{{cite act |title=[[Constitution of Spain|Spanish Constitution]] |type=Constitution |number= |date=29 December 1978 |article=14, 16 &amp; 27.3 |articletype=Sections |url=http://www.congreso.es/portal/page/portal/Congreso/Congreso/Hist_Normas/Norm/const_espa_texto_ingles_0.pdf |quote=No religion shall have a state character. The public authorities shall take into account the religious beliefs of Spanish society and shall consequently maintain appropriate cooperation relations with the Catholic Church and other confessions. |access-date=5 March 2018 }}&lt;/ref&gt;
+
+====Eastern Orthodoxy====
+* {{flag|Greece}}: The [[Church of Greece]] is recognized by the Greek Constitution as the prevailing religion in Greece&lt;ref name="GreeceConstitution"&gt;[http://www.hri.org/docs/syntagma/artcl25.html#A3] The Constitution of Greece: Section II Relations of Church and State: Article 3, [http://www.hri.org/ Hellenic Resources network].&lt;/ref&gt; and is the only country in the world where Eastern Orthodoxy is clearly recognized as a state religion.&lt;ref name="EnyediMadeley2004"&gt;{{cite book|last1=Enyedi|first1=Zsolt|last2=Madeley|first2=John T.S.|title=Church and State in Contemporary Europe|date=2 August 2004|publisher=Routledge|isbn=9781135761417|page=228|quote=Both as a state church and as a national church, the Orthodox Church of Greece has a lot in common with Protestant state churches, and even with Catholicism in some countries.}}&lt;/ref&gt;&lt;ref name="Meyendorff1981"&gt;{{cite book|last=Meyendorff|first=John|title=The Orthodox Church: Its Past and Its Role in the World Today|year=1981|publisher=St Vladimir's Seminary Press|isbn=9780913836811|page=155|quote=Greece therefore is today the only country where the Orthodox Church remains a state church and plays a dominant role in the life of the country.}}&lt;!--|access-date=18 October 2015--&gt;&lt;/ref&gt; However, this provision does not give exclusivity of worship to the Church of Greece, while all other religions are recognized as equal and may be practiced freely.&lt;ref name="GreeceConstitution2"&gt;[http://www.hri.org/docs/syntagma/artcl25.html#A13] The Constitution of Greece: Part Two Individual and Social Rights: Article 13&lt;/ref&gt;
+
+The jurisdictions below give various degrees of recognition in their constitutions to [[Eastern Orthodoxy]], but without establishing it as the state religion:
+* {{flag|Bulgaria}}: In the Bulgarian Constitution, the [[Bulgarian Orthodox Church]] is recognized as '''''the traditional religion''''' of the Bulgarian people, but the state itself remains secular.&lt;ref&gt;{{cite web |url=http://www.parliament.bg/en/const|title=The Bulgarian Constitution|publisher=Parliament of Bulgaria |access-date=20 December 2011}}&lt;/ref&gt;
+* {{flag|Cyprus}}: The [[Constitution of Cyprus]] states: "The Autocephalous [[Greek Orthodoxy|Greek-Orthodox]] [[Church of Cyprus]] shall continue to have the exclusive right of regulating and administering its own internal affairs and property in accordance with the Holy Canons and its Charter in force for the time being and the Greek Communal Chamber shall not act inconsistently with such right."&lt;ref name="CyprusConstitution"&gt;{{cite web|url=https://www.constituteproject.org/constitution/Cyprus_2013.pdf?lang=en|title=Cyprus's Constitution of 1960 with Amendments through 2013|publisher=[[Constitution Project]]}}&lt;/ref&gt;{{refn|group= note|The Constitution also states that "Any matter relating to divorce, judicial separation or restitution of conjugal rights or to family relations of the members of the Greek-Orthodox Church, shall be cognizable by family courts each of which is composed: For a divorce trial, of three judges, one of which is a lawyer ecclesiastical officer appointed by the Greek Orthodox Church and presides over the Court and the other two of high professional and moral standard belonging to the Greek Orthodox Church are appointed by the Supreme Court among lawyers. If no ecclesiastical officer is appointed as above, the Supreme Court appoints the President of the Court as well."&lt;ref name="CyprusConstitution"/&gt;}}
+* {{flag|Finland}}: Both the [[Finnish Orthodox Church]] and the [[Evangelical Lutheran Church of Finland]] are "national churches".&lt;ref name="FinlandConstitution"&gt;[http://servat.unibe.ch/icl/fi00000_.html Finland – Constitution], Section 76 The Church Act, http://servat.unibe.ch/icl/fi00000_.html.&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://finland.fi/Public/default.aspx?contentid=160099&amp;nodeid=41800&amp;culture=en-US |title=The Church in Finland today |author=Salla Korpela |date=May 2005|publisher=Finland Promotion Board; Produced by the Ministry for Foreign Affairs, Department for Communications and Culture}}&lt;/ref&gt;
+* {{flag|Georgia}}: The [[Georgian Orthodox Church]] has a constitutional agreement with the state, the constitution recognizing "the special role of the Apostolic Autocephalous Orthodox Church of Georgia in the history of Georgia and its independence from the state".&lt;ref&gt;[http://www.parliament.ge/en/kanonmdebloba/constitution-of-georgia-68 Constitution of Georgia] Article 9(1&amp;2) and 73(1a{{sup|1}})&lt;/ref&gt; (See also [[Concordat of 2002]])
+* {{Flag|Donetsk People's Republic}}: The state religion in the partially-recognized [[Donetsk People's Republic]] is [[Eastern Orthodoxy]],&lt;ref&gt;{{cite web | url=https://ecfr.eu/article/commentary_orthodox_redox_russia_ukraine_and_the_battle_for_religion/#:~:text=In%20the%20%27Donetsk%20People%27s%20Republic,out%20its%20smaller%20Orthodox%20rivals. | title=Russia, Ukraine, and the battle for religion – European Council on Foreign Relations | date=11 October 2018 }}&lt;/ref&gt; more specifically [[Russian Orthodoxy]].
+
+====Protestantism====
+The following states recognize some form of [[Protestantism]] as their state or official religion:
+
+=====Anglicanism=====
+The Anglican [[Church of England]] is the established church in England as well as all three of the [[Crown Dependencies]]:
+
+* {{flag|England}}: The [[Church of England]] is the established church in England, but not in the [[United Kingdom]] as a whole.&lt;ref&gt;{{cite web|url=http://www.cofe.anglican.org/about/history/ |title=The History of the Church of England |publisher=The Archbishops' Council of the Church of England|access-date=2006-05-24}}&lt;/ref&gt; It is the only established Anglican church worldwide. The Anglican [[Church in Wales]], the [[Scottish Episcopal Church]] and the [[Church of Ireland]] are not established churches and they are independent of the Church of England. The [[British monarchy|British monarch]] is the titular [[Supreme Governor of the Church of England]]. The 26 most senior bishops in the Church of England are [[Lords Spiritual]] and have seats in the [[House of Lords]] of the [[Parliament of the United Kingdom]].
+* {{flag|Bailiwick of Guernsey|name=Guernsey}}: The [[Church of England]] is the established church in the [[Bailiwick of Guernsey]], and the leader of the Church of England in the territory is the [[Dean of Guernsey]].&lt;ref&gt;{{cite web|title=About|url=http://www.churchofengland.org.gg/about|website=Guernsey Deanery|publisher=Church of England}}&lt;/ref&gt;
+* {{flag|Isle of Man}}: The [[Church of England]] is the established church on the Isle of Man. The [[Bishop of Sodor and Man]] is an ex officio member of the [[Legislative Council of the Isle of Man|Legislative Council]] (the upper house of [[Tynwald]]).&lt;ref&gt;{{cite web|last1=Gell|first1=Sir James|title=Gell on Manx Church|url=http://www.isle-of-man.com/manxnotebook/manxsoc/msvol31/gell.htm|website=Isle of Man Online|publisher=IOM Online|access-date=7 February 2017}}&lt;/ref&gt;
+* {{flag|Jersey}}: The [[Church of England]] is the established church in [[Bailiwick of Jersey|Jersey]], and the leader of the church on the island is the [[Dean of Jersey]], a non-voting member of the [[States of Jersey]].
+
+=====Reformed Tradition=====
+* {{flag|Scotland}}: The [[Church of Scotland]] is the [[national church]], but not the United Kingdom as a whole.&lt;ref name="Scotland"&gt;{{Cite web|last=Scotland|first=The Church of|date=2010-02-22|title=Our structure|url=https://www.churchofscotland.org.uk/about-us/our-structure|access-date=2021-04-07|website=The Church of Scotland|language=en}}&lt;/ref&gt;  Whilst it is the national church, it 'is not State controlled' and the monarch is not the 'supreme governor' as in the Church of England.&lt;ref name="Scotland"/&gt;
+* {{flag|Tuvalu}}: The [[Church of Tuvalu]] is the state religion, although in practice this merely entitles it to "the privilege of performing special services on major national events".&lt;ref&gt;{{cite web|url=http://www.refworld.org/docid/4cf2d05cc.html|title=Refworld – 2010 Report on International Religious Freedom – Tuvalu|first=United Nations High Commissioner for|last=Refugees|access-date=23 February 2017}}&lt;/ref&gt; The [[Constitution of Tuvalu]] guarantees freedom of religion, including the freedom to practice, the freedom to change religion, the right not to receive religious instruction at school or to attend religious ceremonies at school, and the right not to "take an oath or make an affirmation that is contrary to his religion or belief".&lt;ref&gt;Constitution of Tuvalu, article 23.&lt;/ref&gt;
+
+====[[Nordic Countries]]====
+=====Lutheranism=====
+Jurisdictions where a [[Lutheranism|Lutheran]] church has been fully or partially established as a state recognized religion include the [[Nordic States]].
+* {{flag|Denmark}}: Section 4 of the [[Constitution of Denmark]] confirms the [[Church of Denmark]] as the established church.&lt;ref name="DenmarkConstitution"&gt;[http://www.servat.unibe.ch/icl/da00000_.html Denmark – Constitution]: Section 4 State Church, [http://www.servat.unibe.ch/icl/ International Constitutional Law].&lt;/ref&gt;
+** {{flag|Faroe Islands}}: The [[Church of the Faroe Islands]] is the state church of the [[Faroe Islands]], an [[autonomous administrative division]] within the [[The unity of the Realm|Danish Realm]].&lt;ref&gt;Referenced at the Encyclopedia of Global Religion, edited by Mark Juergensmeyer, published 2012 by Sage publications, {{ISBN|978-0-7619-2729-7}}, page 390. (Page available on-line [https://books.google.co.uk/books?id=WwJzAwAAQBAJ&amp;pg=PA390&amp;lpg=PA390&amp;dq=faroe+islands+state+church&amp;source=bl&amp;ots=WqblMGRHqp&amp;sig=BC0o4LtuKwp89TZnv91btuvgMsY&amp;hl=en&amp;sa=X&amp;ei=1lnyVK21B8atU5CkgJgL&amp;ved=0CD4Q6AEwBA#v=onepage&amp;q=faroe%20islands%20state%20church&amp;f=false here]).&lt;/ref&gt;
+**{{flag|Greenland}}: The Church of Denmark is the state church of [[Greenland]], an autonomous administrative division within the Danish Realm.&lt;ref&gt;{{cite web|url=http://www.parliament.am/library/sahmanadrutyunner/dania.pdf|title=Constitution of Denmark – Section IV|quote=The Evangelical Lutheran Church shall be the Established Church of Denmark, and, as such, it shall be supported by the State.|access-date=22 September 2016|archive-url=https://web.archive.org/web/20160301205429/http://www.parliament.am/library/sahmanadrutyunner/dania.pdf|archive-date=1 March 2016|url-status=live}}&lt;/ref&gt;
+* {{flag|Iceland}}: The [[Constitution of Iceland]] confirms the [[Church of Iceland]] as the state church of Iceland.&lt;ref name="IcelandConstitution"&gt;[http://www.government.is/constitution/ Constitution of the Republic of Iceland]: Article 62, [http://www.government.is/ Government of Iceland].&lt;/ref&gt;
+*{{flag|Norway|size=23px}}: Until 2017, the [[Church of Norway]] was not a separate legal entity from the government. In 2017, it was disestablished and became a [[national church]], a legally distinct entity from the state with special constitutional status. The King of Norway is required by the Constitution to be a member of the Church of Norway, and the church is regulated by special canon law, unlike other religions.&lt;ref&gt;{{cite web|url=http://www.iheu.org/state-and-church-move-towards-greater-separation-norway|title=International Humanist and Ethical Union - State and Church move towards greater separation in Norway|access-date=18 March 2015|date=26 June 2012}}&lt;/ref&gt;
+Jurisdictions that give various degrees of recognition in their constitutions to Lutheranism without establishing it as the state religion:
+*{{flag|Finland}}: The [[Evangelical Lutheran Church of Finland]] has a special relationship with the Finnish state, its internal structure being described in a special law, the Church Act.&lt;ref name="LL.M"&gt;{{Cite web|last=LL.M.|first=Prof. Dr. Axel Tschentscher|title=ICL &gt; Finland &gt; Constitution|url=http://servat.unibe.ch/icl/fi00000_.html|access-date=2021-06-23|website=servat.unibe.ch|language=en}}&lt;/ref&gt; The Church Act can be amended only by a decision of the synod of the Evangelical Lutheran Church and subsequent ratification by the Parliament of Finland. The Church Act is protected by the Constitution of Finland and the state cannot change the Church Act without changing the constitution. The church has the power to tax its members. The state collects these taxes for the church, for a fee. On the other hand, the church is required to give a burial place for everyone in its graveyards.&lt;ref name="LL.M"/&gt; The President of Finland also decides the themes for intercession days. The church does not consider itself a state church, as the Finnish state does not have the power to influence its internal workings or its theology, although it has a veto in those changes of the internal structure which require changing the Church Act. Neither does the Finnish state accord any precedence to Lutherans or the Lutheran faith in its own acts.
+
+*{{flag|Sweden}}: The [[Church of Sweden]] was the state church of Sweden between 1527 when King Gustav Vasa broke all ties with Rome and 2000 when the state officially became secular. Much like in Finland, it does have a special relation to the Swedish state unlike any other religious organizations. For example, there is a special law that regulates certain aspects of the church&lt;ref&gt;{{Cite web|last=Riksdagsförvaltningen|title=Lag (1998:1591) om Svenska kyrkan Svensk författningssamling 1998:1998:1591 t.o.m. SFS 2009:1234 - Riksdagen|url=https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-19981591-om-svenska-kyrkan_sfs-1998-1591|access-date=2021-06-23|website=www.riksdagen.se|language=sv}}&lt;/ref&gt; and the members of the royal family are required to belong to it in order to have a claim to the line of succession. A majority of the population still belongs to the Church of Sweden.&lt;ref&gt;{{Cite web|last=Riksdagsförvaltningen|title=Successionsordning (1810:0926); Svensk författningssamling 1810:1810:0926 - Riksdagen|url=https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/successionsordning-18100926_sfs-1810-0926|access-date=2021-06-23|website=www.riksdagen.se|language=sv}}&lt;/ref&gt;
+
+====Other/mixed====
+* {{flag|Armenia}}: The [[Armenian Apostolic Church]] has a constitutional agreement with the [[Armenia|State]]: "The Republic of Armenia shall recognise the exclusive mission of the Armenian Apostolic Holy Church, as a national church, in the spiritual life of the Armenian people, in the development of their national culture and preservation of their national identity."&lt;ref&gt;{{Cite web|url=http://www.parliament.am/parliament.php?id=constitution&amp;lang=eng|title=National Assembly of the Republic of Armenia|website=parliament.am}}&lt;/ref&gt;
+* {{flag|Dominican Republic}}: The constitution of the Dominican Republic specifies that there is no state church and provides for freedom of religion and belief. A [[concordat]] with the [[Holy See]] designates Catholicism as the official religion and extends special privileges to the Catholic Church not granted to other religious groups. These include the legal recognition of church law, use of public funds to underwrite some church expenses, and complete exoneration from customs duties.&lt;ref&gt;United States Department of State, 2011 Report on International Religious Freedom—Dominican Republic, 30 July 2012, available at: http://www.refworld.org/docid/502105c67d.html {{PD-notice}}&lt;/ref&gt;
+* {{flag|France}}: The [[local law in Alsace-Moselle]] accords official status to four religions in this specific region of France: [[Judaism]], [[Roman Catholicism]], [[Lutheranism]] and [[Calvinism]]. The law is a remnant of the Napoleonic [[Concordat of 1801]], which was abrogated in the rest of France by the [[1905 French law on the separation of Church and State|law of 1905]] on the [[separation of church and state]]. However, at the time, Alsace-Moselle had been [[Alsace-Lorraine|annexed by Germany]]. The Concordat, therefore, remained in force in these areas, and it was not abrogated when France regained control of the region in 1918. Therefore, the separation of church and state, part of the French concept of [[Laïcité]], does not apply in this region.&lt;ref&gt;{{cite news|title= Church-state tie opens door for mosque
+|work=The New York Times
+|date=2008-10-07
+|url=https://www.nytimes.com/2008/10/07/world/europe/07iht-alsace.1.16744303.html?pagewanted=all&amp;_r=0
+|access-date=2013-11-02}}&lt;/ref&gt;
+* {{flag|Haiti}}: While Catholicism has not been the state religion since 1987, a 19th-century [[concordat]] with the [[Holy See]] continues to confer preferential treatment to the [[Catholic Church]], in the form of stipends for clergy and financial support to churches and religious schools. The Catholic Church also retains the right to appoint certain amounts of clergy in Haiti without the government's consent.&lt;ref name="Haiti"&gt;{{cite web|url=https://2001-2009.state.gov/g/drl/rls/irf/2007/90257.htm |title=Haiti |publisher=State.gov |date=2007-09-14 |access-date=2014-01-04}}&lt;/ref&gt;&lt;ref name=":usirf17"&gt;''[https://2009-2017.state.gov/j/drl/rls/irf/religiousfreedom/index.htm?year=2017&amp;dlid=281080 International Religious Freedom Report 2017 Haiti]'', US State Department, Bureau of Democracy, Human Rights, and Labor.&lt;/ref&gt;
+* {{flag|Hungary}}: The preamble to the [[Constitution of Hungary|Hungarian Constitution of 2011]] describes Hungary as "part of Christian Europe" and acknowledges "the role of Christianity in preserving nationhood", while Article VII provides that "the State shall cooperate with the Churches for community goals." However, the constitution also guarantees freedom of religion and separation of church and state.&lt;ref&gt;[https://www.constituteproject.org/constitution/Hungary_2011.pdf Hungary's Constitution of 2011]. Retrieved 9 February 2016.&lt;/ref&gt;
+* {{flag|Nicaragua}}: The [[Constitution of Nicaragua|Nicaraguan Constitution of 1987]] states that the country has no official religion, but defines "Christian values" as one of the "principles of the Nicaraguan nation".&lt;ref&gt;{{cite news|url=https://www.constituteproject.org/constitution/Nicaragua_2014.pdf?lang=en|title=Nicaragua's Constitution of 1987 with Amendments through 2014|publisher=Constitute Project|accessdate=21 July 2022}}&lt;/ref&gt;
+* {{flag|Portugal}}: Although Church and State are formally separate, the [[Catholic Church in Portugal]] still receives certain privileges.&lt;ref&gt;{{Cite web|url=http://www.concordatwatch.eu/showtopic.php?org_id=1361&amp;kb_header_id=4131|title=Concordat Watch – Portugal &amp;#124; Concordat (2004) : text|website=concordatwatch.eu}}&lt;/ref&gt;
+
+===Islam===
+Many [[List of Muslim-majority countries|Muslim-majority countries]] have constitutionally established Islam, or a specific form of it, as a state religion. [[Proselytism]] (converting people away from Islam) is often illegal in such states.&lt;ref name="dpn"&gt;{{cite web|title=Saudi Arabia imposes death sentence for Bible smuggling|url=http://deathpenaltynews.blogspot.com/2014/11/saudi-arabia-imposes-death-sentence-for.html|website=deathpenaltynews|date=30 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.christianpost.com/news/saudi-arabias-new-law-imposes-death-sentence-for-bible-smugglers-131352/#!|title=Saudi Arabia's New Law Imposes Death Sentence for Bible Smugglers?|work=The Christian Post|date=18 December 2014 |access-date=5 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.handsoffcain.info/news/index.php?iddocumento=18309927|title=SAUDI ARABIA IMPOSES DEATH SENTENCE FOR BIBLE SMUGGLING|access-date=5 March 2015|url-status=dead|archive-url=https://web.archive.org/web/20160408000107/http://www.handsoffcain.info/news/index.php?iddocumento=18309927|archive-date=8 April 2016}}&lt;/ref&gt;&lt;ref&gt;Sheen J. ''Freedom of Religion and Belief: A World Report.'' (Routledge, 1997) p.452.&lt;/ref&gt;
+* {{flagicon|Afghanistan}} [[Islam in Afghanistan|Afghanistan]]: Officially, Afghanistan has continuously been an Islamic state under various constitutions since at least 1987.&lt;ref&gt;{{Cite web|url=http://www.aisa.org.af/laws/I.1%20Constitutions,Constituent%20%20docs/1357-%201380%20Republics/660%20E%201987%20Constitution%20(Najibullah).pdf|archive-url=https://web.archive.org/web/20090703074851/http://www.aisa.org.af/laws/I.1%20Constitutions,Constituent%20%20docs/1357-%201380%20Republics/660%20E%201987%20Constitution%20(Najibullah).pdf|url-status=dead|archive-date=2009-07-03|year=1987|title=The Constitution of Afghanistan|access-date=30 July 2009|location=Afghanistan}}&lt;/ref&gt;
+* {{flagicon|Algeria}} [[Islam in Algeria|Algeria]]: "Islam shall be the religion of the State."&lt;ref&gt;Article 2 of the [[Algerian Constitution of 2016]]&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Avant Projet de Revision de la Constitution |url=http://www.constitutionnet.org/sites/default/files/algeria_french.pdf|website=constitutionnet.org|language=fr|date=28 December 2015}}&lt;/ref&gt;
+* {{flagicon|Bahrain}} [[Islam in Bahrain|Bahrain]]: "The religion of the State is Islam."&lt;ref&gt;Article 2 of the [[Constitution of Bahrain]]:&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Bahrain's Constitution of 2002 with Amendments through 2012|url=https://constituteproject.org/constitution/Bahrain_2012.pdf?lang=en|website=constituteproject.org|access-date=29 October 2017}}&lt;/ref&gt;
+* {{flagicon|Bangladesh}} [[Islam in Bangladesh|Bangladesh]]: Article (2A) of the [[Constitution of Bangladesh]] declares: "Islam is the state religion of the republic".&lt;ref name="bdlaws.minlaw.gov.bd"&gt;{{Cite web|url=http://bdlaws.minlaw.gov.bd/act-367/section-24549.html|title=The Constitution of the People's Republic of Bangladesh &amp;#124; 2A. The state religion|website=bdlaws.minlaw.gov.bd}}&lt;/ref&gt; 
+* {{flagicon|Brunei}} [[Islam in Brunei|Brunei]]: Article 3 of the [[Constitution of Brunei]]: "The official religion of Brunei Darussalam shall be the Islamic Religion{{nbsp}}..."&lt;ref&gt;{{cite web|url=https://www.constituteproject.org/constitution/Brunei_2006.pdf?lang=en|title=Brunei Darussalam's Constitution of 1959 with Amendments through 2006|date=6 June 2017|website=constituteproject.org}}&lt;/ref&gt;
+* {{flagicon|Comoros}} [[Islam in Comoros|Comoros]]: Preamble to the 2001 [[Constitution of the Comoros]]: "...{{nbsp}}to draw from Islam, the religion of the state{{nbsp}}..."&lt;ref&gt;{{cite web|url=https://www.constituteproject.org/constitution/Comoros_2009.pdf?lang=en|title=Comoros's Constitution of 2001 with Amendments through 2009|date=6 June 2017|website=constituteproject.org}}&lt;/ref&gt;
+* {{flagicon|Djibouti}} [[Islam in Djibouti|Djibouti]]: Article 1 of the [[Constitution of Djibouti]]: "Islam is the Religion of the State."&lt;ref&gt;{{cite web|title=Djibouti's Constitution of 1992 with Amendments through 2010|url=https://www.constituteproject.org/constitution/Djibouti_2010.pdf?lang=en|website=constituteproject.org|date=6 June 2017}}&lt;/ref&gt;
+* {{flagicon|Egypt}} [[Islam in Egypt|Egypt]]: Article 2 of the [[Egyptian Constitution of 2014]]: "Islam is the religion of the State".&lt;ref&gt;[http://www.sis.gov.eg/Newvr/Dustor-en001.pdf Unofficial translation of the 2014 constitution]&lt;/ref&gt;
+* {{flagicon|Iran}} [[Islam in Iran|Iran]]: Article 12 of the [[Constitution of the Islamic Republic of Iran|Constitution of Iran]]: "The official religion of Iran is Islam and the [[Twelver]] [[Ja'fari jurisprudence|Ja'farî school]] [in usul al-Dîn and fiqh], and this principle will remain eternally immutable."&lt;ref&gt;{{cite web|title=Iran (Islamic Republic of)'s Constitution of 1979 with Amendments through 1989|url=https://constituteproject.org/constitution/Iran_1989.pdf?lang=en|website=constituteproject.org|access-date=29 October 2017}}&lt;/ref&gt; Islam has been Iran's state religion since 1501 dating back to the [[Safavid dynasty]] and has continued ever since, excluding the period of breaks in the [[Pahlavi dynasty]].
+* {{flagicon|Iraq}} [[Islam in Iraq|Iraq]]: Article 2 of the [[Constitution of Iraq]]: "Islam is the official religion of the State and is a foundation source of legislation{{nbsp}}..."&lt;ref&gt;{{cite web|title=Iraqi Constitution |url=http://www.iraqinationality.gov.iq/attach/iraqi_constitution.pdf |archive-url=https://web.archive.org/web/20161128152712/http://www.iraqinationality.gov.iq/attach/iraqi_constitution.pdf |url-status=dead |archive-date=2016-11-28 }}&lt;/ref&gt;
+* {{flagicon|Jordan}} [[Islam in Jordan|Jordan]]: Article 2 of the [[Constitution of Jordan]]: "Islam is the religion of the State and Arabic is its official language."&lt;ref&gt;{{cite web|title=The Constitution of The Hashemite Kingdom of Jordan|url=http://www.kinghussein.gov.jo/constitution_jo.html|access-date=29 October 2017|archive-url=https://web.archive.org/web/20130426230052/http://www.kinghussein.gov.jo/constitution_jo.html|archive-date=26 April 2013|date=1 January 1952}}&lt;/ref&gt;
+* {{flagicon|Kuwait}} [[Islam in Kuwait|Kuwait]]: Article 2 of the [[Constitution of Kuwait]]: "The religion of the State is Islam and Islamic Law shall be a main source of legislation."&lt;ref&gt;{{cite web|title=Kuwait's Constitution of 1962, Reinstated in 1992|url=https://constituteproject.org/constitution/Kuwait_1992.pdf?lang=en|website=constituteproject.org|access-date=29 October 2017}}&lt;/ref&gt;
+* {{flagicon|Libya}} [[Islam in Libya|Libya]]: Article 1 of the [[Libyan interim Constitutional Declaration]]: "Islam is the Religion of the State and the principal source of legislation is Islamic Jurisprudence (Shari'a)."&lt;ref&gt;{{cite web|title=Draft Constitutional Charter For the Transitional Stage|url=http://portal.clinecenter.illinois.edu/REPOSITORYCACHE/114/w1R3bTIKElG95H3MH5nvrSxchm9QLb8T6EK87RZQ9pfnC4py47DaBn9jLA742IFN3d70VnOYueW7t67gWXEs3XiVJJxM8n18U9Wi8vAoO7_24166.pdf|access-date=29 October 2017}}&lt;/ref&gt;
+* {{flagicon|Malaysia}} [[Islam in Malaysia|Malaysia]]: Article 11 of the [[Constitution of Malaysia]]: "Islam is the religion of the Federation; but other religions may be practised in peace and harmony in any part of the Federation."&lt;ref&gt;{{cite web|title=Federal Constitution Incorporating all amendments up to P.U.(A) 164/2009|url=http://www.jac.gov.my/images/stories/akta/federalconstitution.pdf|publisher=Laws of Malaysia|access-date=29 October 2017}}&lt;/ref&gt;
+* {{flagicon|Maldives}} [[Islam in the Maldives|Maldives]]: Article 10 of the [[Constitution of the Maldives|Maldives's Constitution of 2008]]: "The religion of the State of the Maldives is Islam. Islam shall be the one of the bases of all the laws of the Maldives."&lt;ref&gt;{{cite web|title=Maldives's Constitution of 2008|url=https://www.constituteproject.org/constitution/Maldives_2008.pdf?lang=en|website=constituteproject.org|access-date=29 October 2017}}&lt;/ref&gt;
+* {{flagicon|Mauritania}} [[Islam in Mauritania|Mauritania]]: Article 5 of the [[Constitution of Mauritania]]: "Islam is the religion of the people and of the State."&lt;ref&gt;{{cite web|title=Mauritania's Constitution of 1991 with Amendments through 2012|url=https://www.constituteproject.org/constitution/Mauritania_2012.pdf|website=constituteproject.org|access-date=29 October 2017}}&lt;/ref&gt;
+* {{flagicon|Morocco}} [[Islam in Morocco|Morocco]]: Article 3 of the [[Constitution of Morocco]]: "Islam is the religion of the State, which guarantees to all the free exercise of beliefs [cultes]."&lt;ref&gt;{{cite web|title=Morocco Draft Text of the Constitution Adopted at the Referendum of 1 July 2011|url=http://www.constitutionnet.org/sites/default/files/morocco_eng.pdf|website=constitutionnet.org|publisher=William S. Hein &amp; Co., Inc.|location=Buffalo, New York|year=2011}}&lt;/ref&gt;
+* {{flagicon|Oman}} [[Islam in Oman|Oman]]: Article 2 of the [[Constitution of Oman]]: "The religion of the State is Islam and Islamic Sharia is the basis for legislation."&lt;ref&gt;{{cite web|title=Oman's Constitution of 1996 with Amendments through 2011|url=https://constituteproject.org/constitution/Oman_2011.pdf?lang=en|website=constituteproject.org|access-date=29 October 2017}}&lt;/ref&gt;
+* {{flagicon|Pakistan}} [[Islam in Pakistan|Pakistan]]: Article 2 of the [[Constitution of Pakistan]]: "Islam shall be the State religion of Pakistan."&lt;ref&gt;{{cite web|url=http://www.pakistani.org/pakistan/constitution/part1.html |title=Part I: "Introductory" |publisher=Pakistani.org |access-date=4 June 2013}}&lt;/ref&gt;
+* {{flagicon|Palestine}} [[Islam in Palestine|Palestine]]: Article 4 of the [[Palestine Basic Law|Basic Law of the State of Palestine]]: "Islam is the official religion in Palestine. Respect and sanctity of all other heavenly religions shall be maintained."&lt;ref name="mideast"&gt;[http://www.mideastweb.org/basiclaw.htm Mideastweb website].&lt;/ref&gt;
+* {{flagicon|Qatar}} [[Islam in Qatar|Qatar]]: Article 1 of the [[Constitution of Qatar]]: "Qatar is an independent sovereign Arab State. Its religion is Islam and Shari'a law shall be a main source of its legislations."&lt;ref&gt;{{cite web|title=The Constitution|url=http://english.mofa.gov.qa/details.cfm?id=80|access-date=29 October 2017|archive-url=https://web.archive.org/web/20041024231923/http://english.mofa.gov.qa/details.cfm?id=80|archive-date=24 October 2004}}&lt;/ref&gt;
+* {{flagicon|Saudi Arabia}} [[Islam in Saudi Arabia|Saudi Arabia]]: Article 1 of the [[Basic Law of Saudi Arabia]]: "The Kingdom of Saudi Arabia is a sovereign Arab Islamic State. Its religion is Islam."&lt;ref&gt;{{cite web|title=The Basic Law of Governance|url=http://www.saudiembassy.net/about/country-information/laws/The_Basic_Law_Of_Governance.aspx|access-date=29 October 2017|archive-url=https://web.archive.org/web/20140323165604/http://www.saudiembassy.net/about/country-information/laws/The_Basic_Law_Of_Governance.aspx|archive-date=23 March 2014}}&lt;/ref&gt;
+* {{flag|Sahrawi Republic}}: Article 2 of Sahrawi Arab Democratic Republic declares that Islam is the state religion and law origin.&lt;ref name="books.google.com"/&gt;
+* {{flagicon|Somalia}} [[Islam in Somalia|Somalia]]: Article 2 of the [[Constitution of Somalia|Provisional Constitution of the Federal Republic of Somalia]]: "Islam is the religion of the State."&lt;ref&gt;{{cite web|title=The Federal Republic of Somalia Provisional Constitution|url=http://www.somaliweyn.com/pages/news/Aug_12/Somalia_Constitution_English_FOR_WEB.pdf|access-date=29 October 2017|archive-url=https://web.archive.org/web/20130124010543/http://www.somaliweyn.com/pages/news/Aug_12/Somalia_Constitution_English_FOR_WEB.pdf|archive-date=24 January 2013}}&lt;/ref&gt;
+* {{flagicon|United Arab Emirates}} [[Islam in the United Arab Emirates|United Arab Emirates]]: Article 7 of the [[Constitution of the United Arab Emirates]]: "Islam shall be the official religion of the Union."&lt;ref&gt;{{cite web|title=United Arab Emirates's Constitution of 1971 with Amendments through 2004|url=https://www.constituteproject.org/constitution/United_Arab_Emirates_2004.pdf|website=constituteproject.org|access-date=29 October 2017}}&lt;/ref&gt;
+* {{flagicon|Yemen}} [[Islam in Yemen|Yemen]]: Article 2 of the [[Constitution of Yemen]]: "Islam is the religion of the state, and Arabic is its official language."&lt;ref&gt;{{cite web|title=The Constitution of the Republic of Yemen As amended on 20 February 2001|url=http://www.constitutionnet.org/sites/default/files/2001_constitution_of_the_republic_of_yemen.pdf|website=constitutionnet.org|access-date=29 October 2017}}&lt;/ref&gt;
+
+In some countries, Islam is not recognized as a state religion, but holds special status:
+* {{flagicon|Tajikistan}} [[Islam in Tajikistan|Tajikistan]]: Although there is a separation of religion from politics, certain aspects of law also privilege Islam. One such law declares "Islam to be a traditional religion of Tajikistan, with more rights and privileges given to Islamic organizations than to religious groups of non-Muslim origin".&lt;ref&gt;{{Cite web|url=https://www.loc.gov/item/global-legal-monitor/2009-04-03/tajikistan-new-law-on-religious-organizations/|title=Tajikistan: New Law on Religious Organizations|website=Library of Congress}}&lt;/ref&gt;
+* {{flagicon|Turkey}} [[Islam in Turkey|Turkey]]: The Republic of Turkey is officially a [[Secularism in Turkey|secular country]]. Although the [[Justice and Development Party (Turkey)|current governing party]] has a close affinity with [[Sunni Islam]], the latest [[Constitution of Turkey|Constitution of 1982]] neither recognizes an [[official religion]] nor promotes any.&lt;ref&gt;{{Cite web|url=https://www.anayasa.gov.tr/en/legislation/turkish-constiution/|title=Turkish Constitution &amp;#124; Anayasa Mahkemesi|website=www.anayasa.gov.tr}}&lt;/ref&gt; However, [[Islam]] has been referred as country's main religion, and it plays a major dominant role in the life of the [[Turkish people]].&lt;ref&gt;{{cite web | url=https://yfu-turkey.org/welcome-to-turkey/religion/ | title=Religion – Youth for Understanding Türkiye }}&lt;/ref&gt; The [[Directorate of Religious Affairs]], an official state institution established by [[Mustafa Kemal Atatürk]] in 1924,&lt;ref&gt;{{Cite web|url=https://www.diyanet.gov.tr/tr-TR/Kurumsal/Detay/1#|title=Kurumsal}}&lt;/ref&gt; expresses opinions on religious matters and is responsible for all administration of the [[Sunni Islam|Sunni]] institutions.&lt;ref&gt;{{Cite web|date=2020-07-30|title=Turkey may have reclaimed the leadership of Sunni Islam from Saudi Arabia|url=https://www.middleeastmonitor.com/20200730-turkey-may-have-reclaimed-the-leadership-of-sunni-islam-from-saudi-arabia/|access-date=2021-06-02|website=Middle East Monitor|language=en-GB}}&lt;/ref&gt; The Turkish government oversees Muslim religious facilities and education through its [[Diyanet İşleri Başkanlığı|Directorate of Religious Affairs]], under the authority of the Prime Minister. The directorate regulates the operation of the country's 77,777 registered mosques and employs local and provincial imams (who are civil servants). Sunni imams are appointed and paid by the state.&lt;ref name="US2008"&gt;{{cite web
+  | title = 2008 Report on International Religious Freedom – Afghanistan
+  | publisher = United States Department of State
+  | date = 19 September 2008
+  | url = http://www.unhcr.org/refworld/docid/48d5cbf4c.html
+  | access-date = 2 July 2009}}&lt;/ref&gt;
+* {{flagicon|Turkmenistan}} [[Islam in Turkmenistan|Turkmenistan]]: The Constitution claims to uphold a secular system in which religious and state institutions are separate. However, in Turkmenistan, the state actively privileges a form of traditional Islam. The culture, including Islam, is a key facet, contributes to the Turkmen national identity. The state encourages the conceptualization of "Turkmen Islam".&lt;ref&gt;{{Cite web|url=https://isdp.eu/publication/religion-and-the-secular-state-in-turkmenistan/|title=Religion and the Secular State in Turkmenistan - Silk Road Paper|website=Institute for Security and Development Policy}}&lt;/ref&gt;
+* {{flagicon|Uzbekistan}} [[Islam in Uzbekistan|Uzbekistan]]: Since independence, Islam has taken on an altogether new role in the nation-building process in Uzbekistan. The government affords Islam in special status and declared it as a national heritage and a moral guideline.&lt;ref&gt;{{Cite journal|url=https://journals.openedition.org/asiecentrale/1527|title=Islam and Secular State in Uzbekistan: State Control of Religion and its Implications for the Understanding of Secularity|first=Henrik|last=Ohlsson|date=12 December 2011|journal=Cahiers d'Asie centrale|issue=19–20|pages=485–493|via=journals.openedition.org}}&lt;/ref&gt;
+
+===Status of religion in Israel===
+{{See also|Jewish state}}
+* {{flag|Israel}} is defined in several of its laws as a "[[Jewish and democratic state]]" (''medina yehudit ve-demokratit''). However, the term "[[Jew]]ish" is a [[Polysemy|polyseme]] that can describe the Jewish people [[Who is a Jew?|as either an ethnic or a religious group]]. The debate about the meaning of the term "Jewish" and its legal and social applications is one of the most profound issues with which Israeli society deals. The problem of the status of religion in Israel, even though it is relevant to all religions, usually refers to the status of [[Judaism]] in Israeli society. Thus, even though from a constitutional point of view Judaism is not the state religion in Israel, its status nevertheless determines relations between religion and state and the extent to which religion influences the political center.&lt;ref&gt;''Trouble in Utopia: The Overburdened Polity of Israel'', by Dan Horowitz and Moshe Lissak, pp. 51–52&lt;/ref&gt;
+
+The State of Israel supports religious institutions, particularly [[Orthodox Judaism|Orthodox Jewish]] ones, and recognizes the "religious communities" as carried over from those recognized under the British Mandate—in turn derived from the pre-1917 Ottoman system of ''[[Millet (Ottoman Empire)|millets]]''. These are Jewish and Christian ([[Eastern Orthodox Church|Eastern Orthodox]], [[Latin Catholic]], [[Gregorian-Armenian]], [[Armenian Catholic Church|Armenian-Catholic]], [[Syriac Catholic Church|Syriac Catholic]], [[Chaldean Catholic Church|Chaldean]], [[Melkite Greek Catholic Church|Melkite Catholic]], [[Maronites|Maronite Catholic]], and [[Syriac Orthodox Church|Syriac Orthodox]]). The fact that the Muslim population was not defined as a religious community does not affect the rights of the Muslim community to practice their faith. At the end of the period covered by the 2009 U.S. International Religious Freedom Report, several of these denominations were pending official government recognition; however, the Government has allowed adherents of not officially recognized groups the freedom to practice. In 1961, legislation gave Muslim Shari'a courts exclusive jurisdiction in matters of personal status. Three additional religious communities have subsequently been recognized by Israeli law: the [[Druze]] (prior under Islamic jurisdiction), the Evangelical Episcopal Church, and followers of the [[Baháʼí Faith]].&lt;ref&gt;[https://web.archive.org/web/20091029164133/http://www.state.gov/g/drl/rls/irf/2009/127349.htm International Religious Freedom Report 2009: Israel and the occupied territories], U.S. Department of State, Bureau of Democracy, Human Rights, and Labor.&lt;/ref&gt; These groups have their own religious courts as official state courts for personal status matters (see [[Millet (Ottoman Empire)|millet system]]).
+
+The structure and goals of the [[Chief Rabbinate of Israel]] are governed by Israeli law, but the law does not say explicitly that it is a state Rabbinate. However, outspoken Israeli secularists such as [[Shulamit Aloni]] and [[Uri Avnery]] have long maintained that it is that in practice. Non-recognition of other streams of Judaism such as [[Reform Judaism]] and [[Conservative Judaism]] is the cause of some controversy; rabbis belonging to these currents are not recognized as such by state institutions and marriages performed by them are not recognized as valid. As pointed out by Avnery and Aloni, the essential problem is that Israel carries on the top-down Ottoman ''millet'' system, under which the government reserves the complete discretion of recognizing some religious groups and not recognizing others. {{As of|2015}} [[marriage in Israel]] provides no provision for [[civil marriage]], marriage between people of different religions, marriages by people who do not belong to one of nine recognized religious communities, or [[same-sex marriage]]s, although there is recognition of marriages performed abroad.
+
+===Political religions===
+In some countries, there is a [[List of political ideologies|political ideology]] sponsored by the government that may be called [[political religion]].&lt;ref&gt;{{cite book |last=Gentile |first=Emilio |year=2006 |orig-year=2001 |title=Le religioni della politica. Fra democrazie e totalitarismi |trans-title=Politics as Religion |publisher=Princeton University Press }}&lt;/ref&gt;
+
+===Additional notes===
+* {{Flag|China}}: The government of China officially espouses [[state atheism]],&lt;ref name="Dillon2001"&gt;{{cite book |last1=Dillon |first1=Michael |title=Religious Minorities and China |date=2001 |publisher=Minority Rights Group International |language=en}}&lt;/ref&gt; and officially recognizes only five religions: [[Chinese Buddhism|Buddhism]], [[Taoism in China|Taoism]], [[Islam in China|Islam]], [[Catholic Church in China|Catholicism]], and [[Protestantism in China|Protestantism]].&lt;ref&gt;Rowan Callick. ''Party Time: Who Runs China and How''. Black Inc, 2013. p. 112&lt;/ref&gt; Despite limitations on certain forms of religious expression and assembly, religion is not banned, and religious freedom is nominally protected under the Chinese constitution. Among the general Chinese population, there are a wide variety of religious practices.&lt;ref name="French"&gt;{{cite news|url= https://www.nytimes.com/2007/03/04/world/asia/04iht-web0304.china.4786768.html |title= Religious surge in once-atheist China surprises leaders |newspaper= [[The New York Times]] |date= 2007-03-03|access-date=2013-11-25 |first=Howard |last=French}}&lt;/ref&gt; The Chinese government's attitude to religion is one of skepticism and non-promotion.&lt;ref name="French"/&gt;&lt;ref&gt;{{cite news|url= https://www.washingtonpost.com/blogs/worldviews/wp/2013/05/23/a-surprising-map-of-where-the-worlds-atheists-live/ |title= A surprising map of where the world's atheists live |newspaper= [[The Washington Post]] |access-date=2013-11-25}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url= http://www.asianews.it/news-en/Party's-secret-directives-on-how-to-eradicate-religion-and-ensure-the-victory-of-atheism-2029.html
+|title= Party's secret directives on how to eradicate religion and ensure the victory of atheism |publisher= Asian News|access-date=2013-11-25}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url= http://news.bbc.co.uk/1/hi/world/monitoring/253345.stm|title= China announces "civilizing" atheism drive in Tibet  |publisher= [[BBC]] |date= 1999-01-12|access-date=2013-11-25}}&lt;/ref&gt;
+* {{flag|Indonesia}} is officially a [[presidential republic]] and a [[unitary state]] that does not declare or designate a state religion. Officially, [[Government of Indonesia|the government]] only recognizes six religions: [[Islam in Indonesia|Islam]], [[Protestantism in Indonesia|Protestantism]], [[Catholic Church in Indonesia|Catholicism]], [[Buddhism in Indonesia|Buddhism]], [[Hinduism in Indonesia|Hinduism]], [[Confucianism in Indonesia|Confucianism]] and Traditional beliefs (''Aliran Kepercayaan''). [[Pancasila (politics)|Pancasila]] comes from the [[Jakarta Charter]] whose first article was changed from "Divinity, with the obligation to carry out Islamic law for its adherents" to "the One Divinity", to respect other religions. The [[Constitution of Indonesia]] guarantees freedom of religion and the practice of other religions and beliefs, including traditional animistic beliefs. Indonesians who are practicing other unrecognized religions such as [[Sikhism|Sikhs]] and [[Jainism|Jains]] are often counted as "Hindu" while Indonesians practicing [[Eastern Orthodox Church|Orthodoxy]] are often counted as "Christian" for governmental purposes.{{citation needed|date=October 2014}} [[Atheism in Indonesia|Atheism]], although not prosecuted, is discouraged by the state ideology of ''[[Pancasila (politics)|Pancasila]]''. In addition, the province of [[Aceh]] receives a special status and a higher degree of autonomy, in which it may enact laws (''[[Qanun (law)|qanuns]]'') based on the [[Sharia]] and enforce it, especially to its Muslim residents. 
+* {{flag|Lebanon}}: There are 18 officially recognized religious groups in Lebanon, each with its own family law legislation and set of religious courts.&lt;ref&gt;"Women in Personal Status Laws". Retrieved 26 March 2013.&lt;/ref&gt; Under the terms of an agreement known as the [[National Pact]] between the various political and religious leaders of Lebanon, the [[List of Presidents of Lebanon|president of the country]] must be a [[Maronite Christianity in Lebanon|Maronite]], the [[Prime Minister of Lebanon|Prime Minister]] must be a [[Lebanese Sunni Muslims|Sunni]], and the [[List of Speakers of the Parliament of Lebanon|Speaker of Parliament]] must be a [[Lebanese Shia Muslims|Shia]].&lt;ref&gt;{{cite book|author=R. Rabil|title=Religion, National Identity, and Confessional Politics in Lebanon: The Challenge of Islamism|url=https://books.google.com/books?id=3fHMCwAAQBAJ|date=12 September 2011|publisher=Palgrave Macmillan US|isbn=978-0-230-33925-5}}&lt;/ref&gt;
+* {{flag|Luxembourg}} is a secular state, but the Grand Duchy recognizes and supports several denominations, including the [[Catholic Church in Luxembourg|Catholic Church]], [[Greek Orthodox]], [[Russian Orthodox]], [[Romanian Orthodox]], [[Serbian Orthodox]], [[Anglican]] and some [[Protestantism in Luxembourg|Protestantism]] denominations as well as to [[Judaism|Jewish]] congregations.&lt;ref&gt;{{cite book|title=State-Religion Relationships and Human Rights Law: Towards a Right to Religiously Neutral Governance|url=https://books.google.com/books?id=Khag6tbsIn4C&amp;pg=PA226 |author=Jeroen Temperman|publisher=BRILL|isbn= 9789004181489|year = 2010}}&lt;/ref&gt;
+* {{flag|Russia}}: Though a [[secular state]] under the constitution, Russia is often said to have [[Russian Orthodox Church|Russian Orthodoxy]] as the ''[[de facto]]'' national religion, despite other minorities: "The Russian Orthodox Church is de facto privileged religion of the state, claiming the right to decide which other religions or denominations are to be granted the right of registration".&lt;ref&gt;{{cite book|last=Bourdeaux|first=Michael|chapter=Trends in Religious Policy|chapter-url=https://books.google.com/books?id=EPP3ti4hysUC&amp;pg=PA46|title=Eastern Europe, Russia and Central Asia|publisher=Taylor and Francis|year=2003|isbn=9781857431377|pages=46–52}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.christianpost.com/news/russia-s-de-facto-state-religion.html|title=Russia's De-Facto State Religion|date=24 April 2008|work=[[The Christian Post]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://jewishjournal.com/uncategorized/18128/|title=Russian Orthodoxy now de facto state religion|publisher=[[The Jewish Journal of Greater Los Angeles]]|date=24 April 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.opendemocracy.net/en/odr/russian-orthodox-church-from-farce-to-tragedy/|title=The Russian Orthodox Church: from farce to tragedy?|publisher=[[openDemocracy]]|date=3 May 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=gHmsAgAAQBAJ&amp;q=russian+orthodox+church+de+facto+state+religion&amp;pg=PA24|quote=the Russian Orthodox Church has become ''de facto'' state Church|title=Religion and Language in Post-Soviet Russia|first1=Brian P.|last1=Bennett|publisher=[[Routledge]]|isbn=9781136736131|year=2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.theguardian.com/world/2001/jan/07/russia.ameliagentleman|title=Backlash of faith shakes atheists|quote='It is only natural there has been a surge in interest in religion over the past decade, given the repression that went before,' Levinson said. 'But we are particularly concerned about the growing influence of the Russian Orthodox Church—which has become the de facto state religion—to the exclusion of all other convictions.'|work=[[The Guardian]]|date=7 January 2001}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.nytimes.com/2008/04/24/world/europe/24church.html|title=At Expense of All Others, Putin Picks a Church|quote=Just as the government has tightened control over political life, so, too, has it intruded in matters of faith. The Kremlin’s surrogates in many areas have turned the Russian Orthodox Church into a de facto official religion|work=[[The New York Times]]|date=24 April 2008}}&lt;/ref&gt;
+* {{flag|Singapore}} is officially a secular country and does not have a state religion, and has been named in one study as the "most religiously diverse nation in the world", with no religious group forming a majority.&lt;ref&gt;{{cite web|url=https://www.vox.com/2014/4/15/5617068/a-surprising-map-of-the-worlds-most-and-least-religiously-diverse|title=This map of the world's most religiously diverse countries may surprise you|date=15 April 2014}}&lt;/ref&gt; However, the government gives official recognition to ten different religions, namely [[Buddhism in Singapore|Buddhism]], [[Christianity in Singapore|Christianity]], [[Islam in Singapore|Islam]], [[Hinduism in Singapore|Hinduism]], [[Taoism in Singapore|Taoism]], [[Sikhism in Singapore|Sikhism]], [[History of the Jews in Singapore|Judaism]], [[Zoroastrianism]], [[Jainism in Singapore|Jainism]], and the [[Baháʼí Faith]],&lt;ref&gt;{{cite web|url=http://iro.sg/|title=Inter-Religious Organisation, Singapore (IRO)|website=iro.sg}}&lt;/ref&gt; and Singapore's penal code explicitly prohibits "wounding religious feelings". The [[Jehovah's Witnesses]] and [[Unification Church]] are also banned in Singapore, as the government deems them to be a threat to national security.
+* {{flag|Switzerland}} is officially secular at the federal level but 24 of the 26 cantons support both the [[Swiss Reformed Church]] and the [[Roman Catholic Church]] in various ways.
+* {{flag|Vietnam}} is officially atheist&lt;ref&gt;{{Citation|title=9. Marxist-Leninist 'Scientific Atheism' as the Science of Religion|date=1983-12-31|url=http://dx.doi.org/10.1515/9783110838589.359|work=Marxist-Leninist 'Scientific Atheism' and the Study of Religion and Atheism in the USSR|pages=359–384|publisher=De Gruyter|doi=10.1515/9783110838589.359|isbn=978-3-11-083858-9|access-date=2021-01-29}}&lt;/ref&gt; (although sometimes also referred as atheist-Buddhist),&lt;ref&gt;{{Cite web|date=23 July 2015|title=Buddhism in Vietnam: An Education in Enlightenment|url=https://www.butterfield.com/blog/2015/07/23/buddhism-in-vietnam-an-education-in-enlightenment/|url-status=live|archive-url=|archive-date=|access-date=|website=}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=404: This page could not be found|url=https://www.anywhere.com/vietnam/travel-guide/religion%3famp=1|url-status=live|archive-url=|archive-date=|access-date=|website=}}&lt;/ref&gt; but recognizes only 38 religious organizations and one ''dharma'' practice.&lt;ref&gt;{{Cite web|title=Vietnam|url=https://www.state.gov/reports/2018-report-on-international-religious-freedom/vietnam/|access-date=2021-01-27|website=United States Department of State|language=en-US}}&lt;/ref&gt;
+
+==Former state religions==
+{{original research|date=April 2022}}
+
+===Pre-modern era===
+
+====Egypt and Sumer====
+{{See also|History of religion}}
+The concept of state religions{{dubious|date=April 2022}} was known as long ago as the empires of Egypt and [[Sumer]], when every city state or people had its own god or gods. Many of the early Sumerian rulers were priests of their patron city god. Some of the earliest semi-mythological kings may have passed into the pantheon, like [[Dumuzid the Shepherd|Dumuzid]], and some later kings came to be viewed as divine soon after their reigns, like [[Sargon the Great]] of [[Akkadian Empire|Akkad]]. One of the first rulers to be proclaimed a god during his actual reign was [[Gudea]] of [[Lagash]], followed by some later kings of [[Ur]], such as [[Shulgi]]. Often, the state religion was integral to the power base of the reigning government, such as in Egypt, where Pharaohs were often thought of as embodiments of the god Horus.
+
+====Sassanid Empire====
+[[Zoroastrianism]] was the state religion of the [[Sassanid dynasty]] which lasted until 651, when Persia was conquered by the [[Rashidun Caliphate]].
+
+====Greek city-states====
+Many of the Greek city-states also had a favored [[national god]]{{dubious|date=April 2022}} or goddess associated with that city. This would not be its only god or goddess, but the one that received special honors. In ancient Greece, the cities of 
+*[[Athens]] had [[Athena]], 
+*[[Sparta]] had [[Ares]], 
+*[[Delphi]] had [[Apollo]] and [[Artemis]], 
+*[[Olympia, Greece|Olympia]] had [[Zeus]], 
+*[[Corinth]] had [[Poseidon]],
+*[[Thebes, Greece|Thebes]] had [[Demeter]],
+*[[Troy]] had [[Aphrodite]] and [[Apollo]].
+
+====Roman religion and Christianity====
+In Rome, the office of ''[[Pontifex Maximus]]'' came to be reserved for the Emperor, who was occasionally [[Apotheosis|declared a god]] posthumously, or sometimes during his reign. Failure to worship the Emperor as a god was at times punishable by death, as the Roman government sought to link emperor worship with loyalty to the Empire. Many Christians and Jews were subject to persecution, torture and death in the Roman Empire because it was against their beliefs to worship the Emperor.
+
+In 311, Emperor [[Galerius]], on his deathbed, declared a religious indulgence to Christians throughout the Roman Empire, focusing on the ending of anti-Christian persecution. [[Constantine I]] and [[Licinius]], the two ''[[Augustus (title)|Augusti]]'', by the [[Edict of Milan]] of 313, enacted a law allowing religious freedom to everyone within the Roman Empire. Furthermore, the Edict of Milan cited that Christians may openly practice their religion unmolested and unrestricted, and provided that properties taken from Christians be returned to them unconditionally. Although the Edict of Milan allowed religious freedom throughout the Empire, it did not abolish nor disestablish the Roman state cult (Roman polytheistic paganism). The Edict of Milan was written in such a way as to implore the blessings of the deity.
+
+Constantine called up the [[First Council of Nicaea]] in 325, although he was not a baptized Christian until years later. Despite enjoying considerable popular support, Christianity was still not the official state religion in Rome, although it was in some neighboring states such as [[Kingdom of Armenia (antiquity)|Armenia]], [[Kingdom of Iberia (antiquity)|Iberia]], and [[Kingdom of Aksum|Aksum]].
+
+[[Religion in ancient Rome|Roman Religion]] ([[Neoplatonic]] [[Religion in ancient Greece|Hellenism]]) was restored for a time by the Emperor [[Julian (emperor)|Julian]] from 361 to 363. Julian does not appear to have reinstated the persecutions of the earlier [[Roman emperors]].
+
+[[Catholic]] Christianity, as opposed to Arianism and other ideologies deemed [[heresy|heretical]], was declared to be the [[State church of the Roman Empire|state religion of the Roman Empire]] on 27 February 380&lt;ref&gt;{{cite web |title=The Theodosian Code |url=http://www.ancienttexts.org/library/latinlibrary/theod.html |work=The Latin Library at Ad Fontes Academy|publisher=Ad Fontes Academy |access-date=2006-11-23}}&lt;/ref&gt; by the decree ''[[Edict of Thessalonica|De fide catolica]]'' of Emperor [[Theodosius I]].&lt;ref&gt;{{cite web|title=Theodosian Code XVI.i.2 |url=http://www.fordham.edu/halsall/source/theodcodeXVI.html |work=Medieval Sourcebook: Banning of Other Religions |first=Paul |last=Halsall |date=June 1997 |publisher=Fordham University |access-date=2006-11-23}}&lt;/ref&gt;
+
+====Han dynasty Confucianism====
+In China, the [[Han dynasty]] (206 BCE – 220 CE) advocated [[Confucianism]] as the ''de facto'' state religion, establishing tests based on Confucian texts as an entrance requirement into government service—although, in fact, the "Confucianism" advocated by the Han emperors may be more properly termed a sort of Confucian [[Legalism (Chinese philosophy)|Legalism]] or "State Confucianism". This sort of Confucianism continued to be regarded by the emperors, with a few notable exceptions, as a form of state religion from this time until the [[1911 Revolution|collapse]] of the [[Monarchy of China|Chinese monarchy]] in 1912. Note, however, there is a debate over whether Confucianism (including [[Neo-Confucianism]]) is a religion or purely a philosophical system.&lt;ref&gt;{{Cite web|url=http://www2.kenyon.edu/Depts/Religion/Fac/Adler/Reln471/Confucian%20religiosity%20bib.htm|title=Sources on Confucian religiosity}}&lt;/ref&gt;
+
+====Yuan dynasty Buddhism====
+During the Mongol-led [[Yuan dynasty]] of China (1271–1368 CE), [[Tibetan Buddhism]] was established as the ''de facto'' state religion by the [[Kublai Khan]], the founder of the Yuan dynasty. The top-level department and government agency known as the [[Bureau of Buddhist and Tibetan Affairs]] (Xuanzheng Yuan) was set up in [[Khanbaliq]] (modern [[Beijing]]) to supervise [[Buddhist monk]]s throughout the empire. Since Kublai Khan only esteemed the [[Sakya (Tibetan Buddhist school)|Sakya]] sect of Tibetan Buddhism, other religions became less important. Before the end of the Yuan dynasty, 14 leaders of the Sakya sect had held the post of [[Imperial Preceptor]] (Dishi), thereby enjoying special power.&lt;ref&gt;''History of civilizations of Central Asia.: A.D. 750 to the end of the fifteenth century''. Part two: The achievements, p. 59&lt;/ref&gt;
+
+====Golden Horde and Ilkhanate====
+[[Shamanism]] and [[Buddhism]] were once the dominant religions among the ruling class of the Mongol khanates of [[Golden Horde]] and [[Ilkhanate]], the two western khanates of the [[Mongol Empire]]. In the early days, the rulers of both khanates increasingly adopted [[Tibetan Buddhism]], similar to the [[Yuan dynasty]] at that time. However, the Mongol rulers [[Ghazan]] of Ilkhanate and [[Öz Beg Khan|Uzbeg]] of Golden Horde converted to [[Islam]] in 1295 CE because of the Muslim Mongol emir [[Nawrūz (Mongol emir)|Nawruz]] and in 1313 CE because of [[Sufi]] [[Bukhara]]n [[sayyid]] and [[sheikh]] [[Ibn Abdul Hamid]] respectively. Their official favoring of Islam as the state religion coincided with a marked attempt to bring the regime closer to the non-Mongol majority of the regions they ruled. In Ilkhanate, [[Christians|Christian]] and [[Jewish]] subjects lost their equal status with Muslims and again had to pay the poll tax; Buddhists had the starker choice of conversion or expulsion.&lt;ref&gt;''Medieval Persia 1040–1797'', [[David Morgan (historian)|David Morgan]] p. 72&lt;/ref&gt; In Golden Horde, Buddhism and Shamanism among the Mongols were proscribed, and by 1315, Uzbeg had successfully Islamicized the Horde, killing Jochid princes and Buddhist [[lama]]s who opposed his religious policy and succession of the throne.
+
+===Modern era===
+{{Globalize|article|North America|date=August 2015}}
+* {{flag|Kingdom of Hawaii}}: From 1862 to 1893 the [[Church of Hawaii]], an Anglican body, was the official state and national church of the [[Kingdom of Hawaii]].
+* {{Flag|Netherlands}}: Article 133 of the 1814 [[Constitution of the Netherlands|Constitution]] stipulated the [[King of the Netherlands|Sovereign Prince]] should be a member of the [[Dutch Reformed Church|Reformed Church]]; this provision was dropped in the 1815 Constitution.&lt;ref&gt;{{cite web|url=https://www.denederlandsegrondwet.nl/9353000/1/j9vvihlf299q0sr/vi6ei64fdgg2|title=Artikel 133: Vorst belijdt de christelijke hervormde Godsdienst – Nederlandse grondwet|access-date=23 February 2017}}&lt;/ref&gt; The 1815 Constitution also provided for a state salary and pension for the priesthood of established religions at the time (Protestantism, Catholicism and Judaism). This settlement, nicknamed ''de zilveren koorde'' (the silver cord), was abolished in 1983.&lt;ref&gt;{{cite web|url=https://www.denederlandsegrondwet.nl/9353000/1/j9vvihlf299q0sr/vi6jejckwezy|title=Artikel 194: Traktementen, pensioenen en andere inkomsten – Nederlandse grondwet|access-date=23 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rug.nl/research/portal/files/14622151/Deontknopingvandezilverenkoorde21.pdf!null |title=Info |website=rug.nl}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://wetten.overheid.nl/BWBR0003640/1994-01-01|title=wetten.nl – Regeling – Wet beëindiging financiële verhouding tussen Staat en Kerk – BWBR0003640|access-date=23 February 2017}}&lt;/ref&gt;
+* {{flag|Nepal}} was the world's only [[Hindu]] state until 2015, when the new constitution declared it a [[secular state]]. [[Proselytizing]] remains illegal.&lt;ref&gt;{{cite news|url=https://www.ndtv.com/world-news/nepal-adopts-first-full-democratic-charter-today-1219574|title=Nepal Adopts New Constitution, Becomes a Secular State: 5 Facts|date=20 September 2015|publisher=[[NDTV]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.wipo.int/edocs/lexdocs/laws/en/np/np029en.pdf|title=The Constitution of Nepal|date=20 September 2015|website=wipo.int}}&lt;/ref&gt;
+* {{flag|Japanese Empire|1870}}: see details in the [[State Shintō]] article.
+* {{flag|Sudan}} had [[Islam in Sudan|Islam]] as the official religion during the rule of [[Omar al-Bashir]] according to the [[Constitution of Sudan]] of 2005.&lt;ref&gt;[[Constitution of Sudan]], [https://www.constituteproject.org/constitution/Sudan_2005.pdf?lang=en Article 5, paragraph 1].&lt;/ref&gt; It was declared a secular state in September 2020.&lt;ref&gt;{{Cite web|url=https://gulfnews.com/world/africa/sudan-ends-30-years-of-islamic-law-by-separating-religion-state-1.1599359147751|title=Sudan ends 30 years of Islamic law by separating religion, state|website=gulfnews.com}}&lt;/ref&gt;
+
+====Former state churches in British North America====
+{{Unreferenced section|date=November 2021}}
+
+=====Protestant colonies=====
+* The colonies of [[Plymouth Colony|Plymouth]], [[Massachusetts Bay Colony|Massachusetts Bay]], [[Connecticut Colony|Connecticut]], [[New Haven Colony|New Haven]], and [[Province of New Hampshire|New Hampshire]] were founded by [[Puritan]] Calvinist Protestants, and had [[Congregational church|Congregational]] established churches.
+* The colonies of [[Province of New York|New York]], [[Colony of Virginia|Virginia]], [[Province of North Carolina|North Carolina]], [[Province of South Carolina|South Carolina]], and [[Province of Georgia|Georgia]] maintained the [[Church of England]] as the established church.
+* The [[Colony of Maryland]] was founded by a charter granted in 1632 to George Calvert, secretary of state to Charles I, and his son Cecil, both recent converts to Roman Catholicism. Under their leadership, many English Catholic gentry families settled in Maryland. However, the colonial government was officially neutral in religious affairs, granting toleration to all Christian groups and enjoining them to avoid actions which antagonized the others. On several occasions, low-church dissenters led insurrections which temporarily overthrew the Calvert rule. In 1689, when William and Mary [[Glorious Revolution|came to the English throne]], they acceded to demands to revoke the original royal charter. In 1701, the Church of England was proclaimed, and in the course of the 18th century Maryland Catholics were first barred from public office, then disenfranchised, although not all of the laws passed against them (notably laws restricting property rights and imposing penalties for sending children to be educated in foreign Catholic institutions) were enforced, and some Catholics even continued to hold public office.
+* When [[Spanish Florida]] was ceded to Great Britain in 1763, the British divided Florida into two colonies, East and West Florida, which both continued a policy of toleration for the Catholic residents, but established the [[Church of England]] as the state church.
+
+=====Colonies with no established church=====
+* The [[Province of Pennsylvania]] was founded by [[Religious Society of Friends|Quakers]], but the colony never had an established church.
+* The [[Province of New Jersey]], without official religion, had a significant [[Quaker]] lobby, but Calvinists of all types also had a presence.
+* [[Delaware Colony]] had no established church, but was contested between Catholics and Quakers.
+* The [[Colony of Rhode Island and Providence Plantations]], founded by religious dissenters forced to flee the Massachusetts Bay colony, is widely regarded as the first polity to grant religious freedom to all its citizens, although Catholics were barred intermittently. Baptists, Seekers/Quakers and Jews made this colony their home. The [[Rhode Island Royal Charter|King Charles Charter]] of 1663 guaranteed "full liberty in religious concernments".
+
+=====Tabular summary=====
+{| class="sortable wikitable"
+! Colony || Denomination || Disestablished{{#tag:ref|In several colonies, the establishment ceased to exist in practice at the [[American Revolution|Revolution]], about 1776;&lt;ref&gt;{{cite web|title=The Roots of Religious Liberty|work=Rights of the People: Individual freedom and the Bill of Rights |url=http://usinfo.state.gov/products/pubs/rightsof/roots.htm |archive-url=https://web.archive.org/web/20040603161945/http://usinfo.state.gov/products/pubs/rightsof/roots.htm|archive-date=2004-06-03 |date=December 2003 |publisher=US State Department |access-date=2007-04-06}}&lt;/ref&gt; this is the date of permanent legal abolition.|group=n}}
+|-
+| [[Connecticut Colony|Connecticut]] || [[Congregational church|Congregational]] || 1818&lt;ref&gt;See [[History of the Connecticut Constitution]].&lt;/ref&gt;
+|-
+| [[Province of Georgia|Georgia]] || [[Church of England]] || 1789&lt;ref group="n"&gt;In 1789 the Georgia Constitution was amended as follows:
+"Article IV. Section 10. No person within this state shall, upon any pretence, be deprived of the inestimable privilege of worshipping God in any manner agreeable to his own conscience, nor be compelled to attend any place of worship contrary to his own faith and judgment; nor shall he ever be obliged to pay tithes, taxes, or any other rate, for the building or repairing any place of worship, or for the maintenance of any minister or ministry, contrary to what he believes to be right, or hath voluntarily engaged. To do. No one religious society shall ever be established in this state, in preference to another; nor shall any person be denied the enjoyment of any civil right merely on account of his religious principles."&lt;/ref&gt;
+|-
+| [[Province of Maryland|Maryland]] || [[Church of England]] || 1776
+|-
+| [[Province of Massachusetts Bay|Massachusetts]] || [[Congregational church|Congregational]] || 1834 (parish church system)&lt;ref group="n"&gt;From 1780 to 1824, Massachusetts residents were all required to attend a [[parish church]], the denomination of which was chosen by majority vote of town residents, but in effect this de facto established Congregationalism as the state religion. For details see [[Constitution of Massachusetts#Declaration of Rights|Constitution of Massachusetts]].&lt;/ref&gt;
+|-
+| [[Province of New Hampshire|New Hampshire]] || [[Congregational church|Congregational]] || 1877&lt;ref group="n"&gt;Until 1877 the New Hampshire Constitution required members of the State legislature to be of the Protestant religion. Until 1968 the Constitution allowed for state funding of Protestant classrooms but not Catholic classrooms.&lt;/ref&gt;
+|-
+| [[Province of North Carolina|North Carolina]] || [[Church of England]] || 1776&lt;ref group="n"&gt;The North Carolina Constitution of 1776 disestablished the Anglican church, but until 1835 the NC Constitution allowed only Protestants to hold public office. From 1835 to 1876 it allowed only Christians (including Catholics) to hold public office. Article VI, Section{{nbsp}}8 of the current NC Constitution forbids "any person who shall deny the being of Almighty God" from holding public office. Such clauses were held by the [[Supreme Court of the United States|United States Supreme Court]] to be unenforceable in the 1961 case of ''[[Torcaso v. Watkins]]'', when the court ruled unanimously that the [[First Amendment to the United States Constitution|First]] and [[Fourteenth Amendment to the United States Constitution|Fourteenth]] Amendment protections prohibiting federal religious tests also applied to the states under the doctrine of [[Incorporation of the Bill of Rights|incorporation]].&lt;/ref&gt;
+|-
+| [[Province of South Carolina|South Carolina]] || [[Church of England]] || 1790
+|-
+| [[West Florida]] || [[Church of England]]&lt;ref name="WEFL" group="n"&gt;
+Religious tolerance for Catholics with an established Church of England was the policy in the former Spanish Colonies of East and West Florida while under British rule.&lt;/ref&gt;|| 1783&lt;ref name="EWFL" group="n"&gt;In [[Peace of Paris (1783)#Treaty with Spain|1783 Peace of Paris]], which ended the [[American Revolutionary War]], the British ceded both East and West Florida back to Spain (see [[Spanish Florida]]).&lt;/ref&gt;
+|-|
+| [[East Florida]] || [[Church of England]]&lt;ref name=WEFL group=n/&gt; || 1783&lt;ref name=EWFL group=n/&gt;
+|-
+| [[Virginia Colony|Virginia]] || [[Church of England]] || 1786&lt;ref group="n"&gt;Tithes for the support of the Anglican Church in Virginia were suspended in 1776, and never restored. 1786 is the date of the [[Virginia Statute of Religious Freedom]], which prohibited any coercion to support any religious body.&lt;/ref&gt;
+|-
+| [[West Indies]] || [[Church of England]] || 1868 (Barbados, not until 1969)
+|}
+
+{{Reflist|group=n|close}}
+
+====Non-British colonies====
+These areas were disestablished and dissolved, yet their presences were tolerated by the English and later British colonial governments, as [[Foreign Protestants]], whose communities were expected to observe their own ways without causing controversy or conflict for the prevalent colonists. After the Revolution, their ethno-religious backgrounds were chiefly sought as the most compatible non-British Isles immigrants.
+* [[New Netherland]] was founded by [[Dutch Reformed]] Calvinists.
+* [[New Sweden]] was founded by [[Church of Sweden]] Lutherans.
+
+====State of Deseret====
+The [[State of Deseret]] was a provisional [[U.S. state|state]] of the United States, proposed in 1849, by [[Mormon]] settlers in [[Salt Lake City]]. The provisional state existed for slightly over two years, but attempts to gain recognition by the United States government floundered for various reasons. The [[Utah Territory]] which was then founded was under Mormon control, and repeated attempts to gain statehood met resistance, in part due to concerns that the principle of separation of church and state conflicted with the practice of members of [[The Church of Jesus Christ of Latter-day Saints]] placing their highest value on "following counsel" in virtually all matters relating to their church-centered lives. The state of [[Utah]] was eventually admitted to the union on 4{{nbsp}}January 1896, after the various issues had been resolved.&lt;ref&gt;[http://historytogo.utah.gov/utah_chapters/statehood_and_the_progressive_era/struggleforstatehood.html Struggle For Statehood] [[Edward Leo Lyman]], ''Utah History Encyclopedia''&lt;/ref&gt;
+
+==Established churches and former state churches==
+{| class="sortable wikitable"
+|-
+! Country || Church || Denomination || Disestablished
+|-
+| [[Duchy of Anhalt|Anhalt]] || [[Evangelical State Church of Anhalt]] || [[united and uniting churches|united Protestant]] || [[German Revolution of 1918-1919|1918]]
+|-
+| [[Armenia]] || [[Armenian Apostolic Church]] || [[Oriental Orthodox]] || 1921
+|-
+| [[Austria]] || [[Roman Catholic Church]] || [[Catholic]] || [[Federal Constitutional Law (Austrian act)|1918]]
+|-
+|rowspan="2"| [[Grand Duchy of Baden|Baden]] || [[Roman Catholic Church]] || [[Catholic]] || [[German Revolution of 1918-1919|1918]]
+|-
+| [[Evangelical Church of Baden|United Evangelical Protestant State Church of Baden]] || [[united and uniting churches|united Protestant]] || [[German Revolution of 1918-1919|1918]]
+|-
+|rowspan="3"| [[Kingdom of Bavaria|Bavaria]] || [[Roman Catholic Church]] || [[Catholic]] || [[German Revolution of 1918-1919|1918]]
+|-
+| [[Evangelical Lutheran Church in Bavaria|Protestant State Church in the Kingdom of Bavaria right of the Rhine]] || [[Lutheran]] and [[Reformed churches|Reformed]] || [[German Revolution of 1918-1919|1918]]
+|-
+| [[Evangelical Church of the Palatinate|United Protestant Evangelical Christian Church of the Palatinate]] || [[united and uniting churches|united Protestant]] || [[German Revolution of 1918-1919|1918]]
+|-
+| [[Barbados]] || [[Church of England]] || [[Anglican]] || 1968
+|-
+| Bolivia || [[Roman Catholic Church]] || [[Catholic]] || [[Constitution of Bolivia|2009]]
+|-
+| Brazil{{#tag:ref|[http://www.v-brazil.com/government/laws/titleIII.html Brazilian Laws – the Federal Constitution – The Organization of State]. V-brazil.com. Retrieved 5 May 2012. Brazil had [[Roman Catholicism]] as the state religion from the country's [[Independence of Brazil|independence]], in 1822, until the fall of the [[Brazilian Empire]]. The [[República Velha|new Republican government]] passed, in 1890, Decree 119-A {{cite web|title=Decreto 119-A|url=http://www.planalto.gov.br/ccivil_03/decreto/1851-1899/d119-a.htm|quote=Prohibits federal and state authorities to intervene on religion, granting freedom of religion.}} (still in force), instituting the separation of church and state for the first time in Brazilian law. [[Positivist]] thinker [[Demétrio Nunes Ribeiro]] urged the new government to adopt this stance. The 1891 Constitution, the first under the Republican system of government, abolished privileges for any specific religion, reaffirming the separation of church and state. This has been the case ever since the 1988 [[Constitution of Brazil]], currently in force, does so in its Nineteenth Article. The Preamble to the Constitution does refer to "God's protection" over the document's [[promulgation]], but this is not legally taken as endorsement of belief in any deity.|group=note}} || [[Roman Catholic Church]] || [[Catholic]] ||[[History of the Constitution of Brazil#Old Republic|1890]]
+|-
+| [[Duchy of Brunswick|Brunswick]] || [[Protestant Lutheran State Church of Brunswick|Evangelical Lutheran State Church in Brunswick]] || [[Lutheran]] || [[German Revolution of 1918-1919|1918]]
+|-
+| Bulgaria || [[Bulgarian Orthodox Church]] || [[Eastern Orthodox]] || 1946
+|-
+| [[Central African Empire]] || [[Roman Catholic Church]] || [[Catholic]] || [[Operation Caban|1979]]
+|-
+| Chile || [[Roman Catholic Church]] || [[Catholic]] || [[Chilean Constitution of 1925|1925]]
+|-
+| Colombia || [[Roman Catholic Church]] || [[Catholic]] || 1936&lt;ref&gt;John Gunter, ''Inside Latin America'' (1941), p. 166&lt;/ref&gt;
+|-
+| Cuba || [[Roman Catholic Church]] || [[Catholic]] || 1902
+|-
+| Cyprus || [[Cypriot Orthodox Church]] || [[Eastern Orthodox]] || 1977, following the death of the Ethnarch [[Makarios III]]
+|-
+| Czechoslovakia || [[Roman Catholic Church]] || [[Catholic]] || [[Czechoslovak Constitution of 1920|1920]]
+|-
+| Denmark || [[Church of Denmark]] || [[Lutheran]] || Current
+|-
+| England || [[Church of England]] || [[Anglican]] || Current
+|-
+| [[Ethiopian Empire|Ethiopia]] || [[Ethiopian Orthodox Church]] || [[Oriental Orthodox]] || [[Ethiopian Revolution|1974]]
+|-
+| [[Faroe Islands]] || [[Church of the Faroe Islands]] || [[Lutheran]] || Elevated from a diocese of the [[Church of Denmark]] in 2007 (the two remain in close cooperation)
+|-
+|rowspan="2"| Finland || [[Evangelical Lutheran Church of Finland]] || [[Lutheran]] || 1867
+|-
+|[[Finnish Orthodox Church]] || [[Eastern Orthodox]] || 1917
+|-
+|rowspan="3"| France || [[Cult of Reason]] || N/A || 1794 (established 1793)
+|-
+| [[Cult of the Supreme Being]] || N/A || 1794, officially banned in 1802
+|-
+|| [[Roman Catholic Church]]{{#tag:ref|In France the [[Concordat of 1801]] made the Roman Catholic, [[Calvinist]], [[Lutheran]] churches and [[Judaism]] state-sponsored religions until [[1905 French law on the Separation of the Churches and the State]].|group=note}} || [[Catholic]] || [[Charter of 1814|1830]]
+|-
+| [[Georgia (country)|Georgia]] || [[Georgian Orthodox Church]] || [[Eastern Orthodox]] || 1921
+|-
+| Greece || [[Church of Greece|Greek Orthodox Church]] || [[Eastern Orthodox]]&lt;ref name=GreeceConstitution/&gt; || The [[Church of Greece]] is recognized by the Greek Constitution as the "prevailing religion" in Greece.&lt;ref name=GreeceConstitution/&gt; However, this provision does not give official status to the Church of Greece, while all other religions are recognized as equal and may be practiced freely.&lt;ref name=GreeceConstitution2/&gt;
+|-
+| [[Greenland]] || [[Church of Denmark]] || [[Lutheran]] || Under discussion to be elevated from [[Diocese of Greenland|The Diocese of Greenland in the Church of Denmark]] to a state church for Greenland, along‐the‐lines the [[Church of the Faroe Islands|Faroese Church]] took in 2007
+|-
+| Guatemala || [[Roman Catholic Church]] || [[Catholic]] || 1871
+|-
+| Haiti || [[Roman Catholic Church]] || [[Catholic]] || [[Constitution of Haiti|1987]]
+|-
+| [[Kingdom of Hawaii|Hawaii]] || [[Church of Hawaii]] || [[Anglican]] || [[Overthrow of the Hawaiian Kingdom|1893]]
+|-
+| [[Grand Duchy of Hesse|Hesse]] || [[Evangelical Church of Hesse and Nassau|Evangelical Church in Hesse]] || [[united and uniting churches|united Protestant]] || [[German Revolution of 1918-1919|1918]]
+|-
+| Hungary{{#tag:ref|In Hungary the constitutional laws of 1848 declared five established churches on equal status: the [[Roman Catholic]], [[Calvinist]], [[Lutheran]], [[Eastern Orthodox]] and [[Unitarianism|Unitarian]] Church. In 1868 the law was ratified again after the [[Ausgleich]]. In 1895 [[Judaism]] was also recognized as the sixth established church. In 1948 every distinction between the different denominations were abolished.&lt;ref&gt;{{webarchive |url=https://web.archive.org/web/20080220121400/http://www.legislationline.org/upload/legislations/cd/86/39b1e5cc4b9b9b6a97c2830f3608.htm |date=20 February 2008 |title=Constitution of the Republic of Hungary }} (archived from [http://www.legislationline.org/upload/legislations/cd/86/39b1e5cc4b9b9b6a97c2830f3608.htm the original] on 2008-02-20)&lt;/ref&gt;&lt;ref&gt;{{webarchive |url=https://web.archive.org/web/20070523210720/http://www.magyarorszag.hu/english/keyevents/a_alpolg/a_allampolgarsagemberijogok/a_alapjog20050805/a_gondlelkiismjog20060627.html |date=23 May 2007 |title=The right of thought, the freedom of conscience and religion }} (archived from [http://www.magyarorszag.hu/english/keyevents/a_alpolg/a_allampolgarsagemberijogok/a_alapjog20050805/a_gondlelkiismjog20060627.html the original] on 2007-05-23)&lt;/ref&gt;|group=note}} || [[Roman Catholic Church]] || [[Catholic]] || 1946
+|-
+| Iceland || [[National Church of Iceland|Lutheran Evangelical Church]] || [[Lutheran]] || Current
+|-
+|rowspan="2"| Indonesia || [[Roman Catholic Church]] || [[Catholic]] || ''de facto'' official religion along with Protestantism, Islam, Buddhism, Hinduism, and Confucianism
+|-
+| [[Protestant Church]] |||| ''de facto'' official religion along with Catholicism, Islam, Buddhism, Hinduism, and Confucianism
+|-
+|rowspan="2"| Ireland{{#tag:ref|In the [[Kingdom of Ireland]] the [[Church of Ireland]] was established [[Reformation in Ireland|in the Reformation]].&lt;ref name="LivingstoneSparks2013"&gt;{{cite book|last1=Livingstone|first1=E.A.|last2=Sparks|first2=M. W. D.|last3=Peacocke|first3=R.W.|title=The Concise Oxford Dictionary of the Christian Church|chapter-url=https://books.google.com/books?id=DZecAQAAQBAJ&amp;pg=PA286|year=2013|publisher=Oxford University Press|isbn=978-0199659623|page=286|chapter=Ireland}}&lt;/ref&gt; The [[Act of Union 1800]] created the [[United Kingdom of Great Britain and Ireland]] with the [[United Church of England and Ireland]] established outside Scotland. The [[Irish Church Act 1869]] demerged and disestablished the Church of Ireland,&lt;ref name="LivingstoneSparks2013" /&gt; and the island was [[Partition of Ireland|partitioned in 1922]]. The Republic of Ireland's [[Constitution of Ireland|1937 constitution]] prohibits an established religion.&lt;ref&gt;{{cite web|url=http://www.irishstatutebook.ie/en/constitution/index.html#article44|title=Constitution of Ireland|work=[[Irish Statute Book]]|pages=Article 44|access-date=3 December 2014}}&lt;/ref&gt; Originally, it recognized the "special position" of the Roman Catholic Church "as the guardian of the Faith professed by [[Roman Catholicism in Ireland|the great majority of the citizens]]", and recognized "the [[Church of Ireland]], the [[Presbyterian Church in Ireland]], the [[Methodist Church in Ireland]], the [[Religious Society of Friends]] in Ireland, as well as the [[Jews in Ireland|Jewish Congregations]] and the other religious denominations existing in Ireland at the date of the coming into operation of this Constitution".&lt;ref name="KeoghMcCarthy2007"&gt;{{cite book|last1=Keogh|first1=Dermot|last2=McCarthy|first2=Dr. Andrew|title=The Making of the Irish Constitution 1937: Bunreacht Na HÉireann|date=2007-01-01|publisher=Mercier Press|isbn=978-1856355612|page=172|url=https://books.google.com/books?id=bCCQAAAAMAAJ}}&lt;/ref&gt; These provisions were [[Fifth Amendment of the Constitution of Ireland|deleted in 1973]].&lt;ref&gt;{{cite web|url=http://www.irishstatutebook.ie/1972/en/act/cam/0005/index.html|title=Fifth Amendment of the Constitution Act, 1972.|work=[[Irish Statute Book]]|access-date=3 December 2014}}&lt;/ref&gt;|group=note}} || [[Church of Ireland]] || [[Anglican]] || 1871
+|-
+|[[Roman Catholic Church]] || [[Catholic]] || 1973
+|-
+| Italy || [[Roman Catholic Church]] || [[Catholic]] || [[Lateran Treaty#History|18 February 1984]] (into force 25 April 1985&lt;ref&gt;{{Cite book|author1=Andrea Mammone|author2=Giuseppe A. Veltri|title=Italy today: the sick man of Europe|url=https://books.google.com/books?id=7YWKJ00Dw7QC|year=2010|publisher=Taylor &amp; Francis|isbn=978-0415561594|page=[https://books.google.com/books?id=7YWKJ00Dw7QC&amp;pg=PA168 168] (Note 1)}}&lt;/ref&gt;)
+|-
+| [[Liechtenstein]] || [[Roman Catholic Church]]&lt;ref name=LiechtensteinConstitution /&gt; || [[Catholic]] || Current
+|-
+| [[Principality of Lippe|Lippe]] || [[Church of Lippe]] || [[Reformed churches|Reformed]] || 1918
+|-
+| [[Lithuania]] || [[Roman Catholic Church]] || [[Catholic]] || 1940
+|-
+| [[Free City of Lübeck|Lübeck]] || [[North Elbian Evangelical Lutheran Church|Evangelical Lutheran Church in the State of Lübeck]] || [[Lutheran]] || 1918
+|-
+| [[Luxembourg]] || [[Roman Catholic Church]] || [[Catholic]] || Not an official state church&lt;ref&gt;{{Cite web|url=https://2009-2017.state.gov/documents/organization/171706.pdf|title=Luxembourg}}&lt;/ref&gt;
+|-
+| [[Malta]] || [[Roman Catholic Church]] || [[Catholic]] || Current
+|-
+| [[Grand Duchy of Mecklenburg-Schwerin|Mecklenburg-Schwerin]] || [[Evangelical Church of Mecklenburg|Evangelical Lutheran State Church of Mecklenburg-Schwerin]] || [[Lutheran]] || 1918
+|-
+| [[Grand Duchy of Mecklenburg-Strelitz|Mecklenburg-Strelitz]] || [[Evangelical Church of Mecklenburg|Mecklenburg-Strelitz State Church]] || [[Lutheran]] || 1918
+|-
+| [[Mexico]] || [[Roman Catholic Church]] || [[Catholic]] || [[constitution of 1857|1857]] (reestablished between 1864 and 1867)
+|-
+| [[Monaco]] || [[Roman Catholic Church]] || [[Catholic]] || 1999 (reestablished again in 2020–present).
+|-
+| Netherlands || [[Dutch Reformed Church]] || [[Reformed churches|Reformed]] || 1795
+|-
+| Nicaragua || [[Roman Catholic Church]] || [[Catholic]] || [[Constitution of Nicaragua|1987]]
+|-
+| [[North Macedonia]] || [[Macedonian Orthodox Church]] || [[Eastern Orthodox]] || 1921
+|-
+| Norway || [[Church of Norway]] || [[Lutheran]] || As of 2012 the Constitution of Norway no longer names Lutheranism as the official religion of the state and in 2017 the church became an independent legal entity,&lt;ref name="regjeringen.no"&gt;[https://www.regjeringen.no/no/aktuelt/offisielt-fra-statsradet/id2501869/ Offisielt frå statsrådet 27. mai 2016] regjeringen.no «Sanksjon av Stortingets vedtak 18. mai 2016 til lov om endringer i kirkeloven (omdanning av Den norske kirke til eget rettssubjekt m.m.) Lovvedtak 56 (2015–2016) Lov nr. 17 Delt ikraftsetting av lov 27. mai 2016 om endringer i kirkeloven (omdanning av Den norske kirke til eget rettssubjekt m.m.). Loven trer i kraft fra 1. januar 2017 med unntak av romertall I § 3 nr. 8 første og fjerde ledd, § 3 nr. 10 annet punktum og § 5 femte ledd, som trer i kraft 1. juli 2016.»&lt;/ref&gt;&lt;ref name="snl.no"&gt;{{cite web|url=http://snl.no/religion_i_Norge|title=religion i Norge|first1=Tarald|last1=Rasmussen|first2=Sindre|last2=Bangstad|first3=Knut A.|last3=Jacobsen|first4=Bente|last4=Groth|date=23 April 2018|via=Store norske leksikon}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://kirken.no/nb-NO/om-kirken/aktuelt/2017---et-kirkehistorisk-merkear/|title=2017 – et kirkehistorisk merkeår|date=2017-12-30|website=Den norske kirke, Kirkerådet|access-date=2017-01-02}}&lt;/ref&gt; but article 16 says that "The [[Church of Norway]] [...] will remain the National Church of Norway and will as such be supported by the State."&lt;ref name=":0"&gt;[https://lovdata.no/NLE/lov/1814-05-17/a16 The Constitution of Norway, Article 16] (English translation, published by the Norwegian Parliament)&lt;/ref&gt; As of 1{{nbsp}}January 2017 the Church of Norway is a legal entity independent of the state.&lt;ref name="regjeringen.no" /&gt;&lt;ref name="stortinget.no"&gt;[https://stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2015-2016/vedtak-201516-056/ Lovvedtak 56 (2015–2016) Vedtak til lov om endringer i kirkeloven (omdanning av Den norske kirke til eget rettssubjekt m.m.)] Stortinget.no&lt;/ref&gt;
+|-
+| [[Grand Duchy of Oldenburg|Oldenburg]] || [[Evangelical Lutheran Church in Oldenburg|Evangelical Lutheran Church of Oldenburg]] || [[Lutheran]] || 1918
+|-
+| Panama || [[Roman Catholic Church]] || [[Catholic]] || 1904
+|-
+| [[Paraguay]] || [[Roman Catholic Church]] || [[Catholic]] || 1992&lt;ref&gt;Under the 1967 Constitution, Roman Catholicism was the state religion as stated in Article 6: "The Roman Catholic Apostolic religion is the state religion, without prejudice to religious freedom, which is guaranteed in accordance with the provisions of this Constitution. Official relations of the republic with the Holy See shall be governed by concordats or other bilateral agreements." The 1992 Constitution, which replaced the 1967 one, establishes Paraguay as a secular state, as mentioned in section (1) of Article 24: "Freedom of religion, worship, and ideology is recognized without any restrictions other than those established in this Constitution and the law. The State has no official religion."&lt;/ref&gt;
+|-
+| Peru || [[Roman Catholic Church]] || [[Catholic]] || [[Constitution of Peru|1993]]
+|-
+| Philippines{{#tag:ref|The Philippines was among several possessions ceded by [[Spain]] to the United States in 1898; religious freedom was subsequently guaranteed in the archipelago. This was codified in the [[Philippine Organic Act (1902)]], section 5: "...{{nbsp}}That no law shall be made respecting an establishment of religion or prohibiting the free exercise thereof, and that the free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall forever be allowed." A similarly-worded provision still exists in the [[1987 Constitution|present Constitution]]. Catholicism remains the predominant religion, wielding considerable political and cultural influence.|group=note}} || [[Roman Catholic Church in the Philippines|Roman Catholic Church]] || [[Catholic]] || [[Treaty of Paris (1898)|1898]]
+|-
+| Poland{{#tag:ref|Article 25 of [http://www.sejm.gov.pl/prawo/konst/angielski/kon1.htm the constitution] states: "1. Churches and other religious organizations shall have equal rights. 2. Public authorities in the Republic of Poland shall be impartial in matters of personal conviction". Article 114 of the Polish [[March Constitution of Poland|March Constitution of 1921]] declared the Roman Catholic Church to hold "the principal position among religious denominations equal before the law" (in reference to the idea of ''[[primus inter pares|first among equals]]''). The article was continued in force by article 81 of the [[April Constitution of Poland|April Constitution of 1935]]. The Soviet-backed [[PKWN Manifesto]] of 1944 reintroduced the March Constitution, which remained in force until it was replaced by the [[Small Constitution of 1947]].|group=note}}|| [[Roman Catholic Church]] || [[Catholic]] || [[Small Constitution of 1947|1947]]
+|-
+| Portugal{{#tag:ref|Until 1910 Roman Catholic Church was considered as state religion. Between 1951 and 1976 Catholic religion was considered as religion of the Portuguese Nation.|group=note}}|| [[Roman Catholic Church]] || [[Catholic]] || [[5 October 1910 revolution|1910]], [[Constitution of Portugal|1976]]
+|-
+| [[Kingdom of Prussia|Prussia]]&lt;br /&gt;pre 1866 provinces || [[Evangelical State Church of Prussia's older Provinces]] with nine ecclesiastical provinces || [[united and uniting churches|united Protestant]] || 1918
+|-
+| Prussia&lt;br /&gt;[[Province of Hanover]] || [[Evangelical Reformed Church - Synod of Reformed Churches in Bavaria and Northwestern Germany|Evangelical Reformed State Church of the Province of Hanover]] || [[Continental Reformed church|Reformed]] || 1918
+|-
+| Prussia&lt;br /&gt; Province of Hanover || [[Evangelical Lutheran State Church of Hanover]] || [[Lutheran]] || 1918
+|-
+| Prussia&lt;br /&gt; [[Province of Hesse-Nassau]] (partially)|| [[Evangelical Church of Hesse and Nassau|Evangelical State Church of Frankfurt upon Main]] || [[united and uniting churches|united Protestant]] || 1918
+|-
+| Prussia&lt;br /&gt; Province of Hesse-Nassau (partially)|| [[Evangelical Church of Hesse-Kassel and Waldeck|Evangelical Church of Electoral Hesse]] || [[united and uniting churches|united Protestant]] || 1918
+|-
+| Prussia&lt;br /&gt; Province of Hesse-Nassau (partially)|| [[Evangelical Church of Hesse and Nassau|Evangelical State Church in Nassau]] || [[united and uniting churches|united Protestant]] || 1918
+|-
+| Prussia&lt;br /&gt; [[Province of Schleswig-Holstein|Prov. of Schleswig-Holstein]] || [[North Elbian Evangelical Lutheran Church|Evangelical Lutheran Church of Schleswig-Holstein]] || [[Lutheran]] || 1918
+|-
+| Romania || [[Romanian Orthodox Church]] || [[Eastern Orthodox]] || [[Socialist Republic of Romania|1947]]
+|-
+| Russia || [[Russian Orthodox Church]] || [[Eastern Orthodox]] || [[February Revolution|1917]]
+|-
+| [[Thuringia]] || [[Evangelical Church in Thuringia|church bodies in principalities which merged in Thuringia in 1920]] || [[Lutheran]] || 1918
+|-
+| [[Kingdom of Saxony|Saxony]] || [[Evangelical Lutheran State Church of Saxony]] || [[Lutheran]] || 1918
+|-
+| [[Principality of Schaumburg-Lippe|Schaumburg-Lippe]] || [[Evangelical State Church of Schaumburg-Lippe]] || [[Lutheran]] || 1918
+|-
+| Scotland{{#tag:ref|The modern Church of Scotland has always disclaimed recognition as an "established" church while remaining the national church. The Church of Scotland Act 1921 formally recognised the Kirk's independence from the state.}} || [[Church of Scotland]] || [[Presbyterian]] || Remains the national church; state control disclaimed since 1638. Formally recognised as not an established church by the [[Church of Scotland Act 1921]].
+|-
+| [[Serbia]] || [[Serbian Orthodox Church]] || [[Eastern Orthodox]] || 1920
+|-
+| [[Spain]] || [[Roman Catholic Church]] || [[Catholic]] || [[Spanish Constitution of 1978|1978]]
+|-
+| [[Sweden]] || [[Church of Sweden]] || [[Lutheran]] || 2000
+|-
+| [[Switzerland]] || separate Cantonal Churches («Landeskirchen») || [[Zwinglianism]], [[Calvinism]], and [[Catholic]] || During the 20th century
+|-
+| [[Tuvalu]] || [[Church of Tuvalu]] || [[Reformed tradition|Reformed]] || Current
+|-
+| [[Uruguay]] || [[Roman Catholic Church]] || [[Catholic]] || [[Constitution of Uruguay of 1918|1918]] (into effect in 1919)
+|-
+| United States{{#tag:ref|The [[First Amendment to the United States Constitution|First Amendment]] to the [[Constitution of the United States|U.S. Constitution]] explicitly forbids the [[Federal government of the United States|federal government]] from enacting any law respecting a religious establishment, and thus forbids either designating an official church for the United States, or interfering with [[U.S. state|State]] and local official churches—which were common when the First Amendment was enacted. It did not prevent [[state government]]s from establishing official churches. [[Connecticut]] continued to do so until it replaced its colonial [[Fundamental Orders of Connecticut|Charter]] with the [[History of Connecticut#The 1818 Constitution (1818–1890)|Connecticut Constitution of 1818]]; Massachusetts retained an establishment of religion in general until 1833.&lt;ref&gt;{{Cite book|author=James H. Hutson|title=Religion and the new republic: faith in the founding of America|url=https://books.google.com/books?id=YwW_g8qr68MC|year=2000|publisher=Rowman &amp; Littlefield|isbn=978-0847694341|page=[https://books.google.com/books?id=YwW_g8qr68MC&amp;pg=PA22 22]}}&lt;/ref&gt; {{as of|2010}}, Article{{nbsp}}III of the Massachusetts constitution still provided, "...{{nbsp}}the legislature shall, from time to time, authorize and require, the several towns, parishes, precincts, and other bodies politic, or religious societies, to make suitable provision, at their own expense, for the institution of the public worship of God, and for the support and maintenance of public Protestant teachers of piety, religion and morality, in all cases where such provision shall not be made voluntarily."&lt;ref&gt;[http://www.malegislature.gov/Laws/Constitution Constitution of the Commonwealth of Massachusetts], [http://malegislature.gov/ malegislature.gov].&lt;/ref&gt;
+
+The [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]] to the [[Constitution of the United States|U.S. Constitution]], ratified in 1868, makes no mention of religious establishment, but forbids the states to "abridge the privileges or immunities" of U.S. citizens, or to "deprive any person of life, liberty, or property, without due process of law". In the 1947 case of [[Everson v. Board of Education]], the United States Supreme Court held that this later provision [[Incorporation (Bill of Rights)|incorporates]] the First Amendment's Establishment Clause as applying to the States, and thereby prohibits state and local religious establishments. The exact boundaries of this prohibition are still disputed, and are a frequent source of cases before the [[Supreme Court of the United States|U.S. Supreme Court]]—especially as the Court must now balance, on a state level, the First Amendment prohibitions on government establishment of official religions with the First Amendment prohibitions on government interference with the free exercise of religion. See [[school prayer]] for such a controversy in contemporary American politics.
+
+All current State constitutions do mention a Creator, but include guarantees of religious liberty parallel to the [[First Amendment to the United States Constitution|First Amendment]]. The constitutions of eight states ([[Arkansas]], [[Maryland]], [[Massachusetts]], [[North Carolina]], [[Pennsylvania]], [[South Carolina]], [[Tennessee]], and [[Texas]]) also contain clauses that prohibit atheists from holding public office.&lt;ref&gt;{{cite web |url=http://www.godlessgeeks.com/LINKS/StateConstitutions.htm |title=State Constitutions that Discriminate Against Atheists |publisher=godlessgeeks.com |access-date=2007-04-27}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.religioustolerance.org/texas.htm
+|title=Religious laws and religious bigotry – Religious discrimination in U.S. state constitutions |publisher=religioustolerance.com |access-date=2007-04-27}}&lt;/ref&gt; However, these clauses were held by the [[Supreme Court of the United States|U.S. Supreme Court]] to be unenforceable in the 1961 case of ''[[Torcaso v. Watkins]]'', where the court ruled unanimously that such clauses constituted a religious test incompatible with the religious test prohibition in [[no religious test clause|Article{{nbsp}}6 Section{{nbsp}}3]] of the United States Constitution.
+
+The [[Church of Hawaii]] was the state church of Hawaii from 1862–1893.|group=note}}
+ || none since 1776, which was made explicit in the [[United States Bill of Rights|Bill of Rights]] in 1792 || none || n/a; some state legislatures required all citizens in those states to be members of a church, and some had official churches, such as [[Congregational church|Congregationalism]] in some [[New England]] states such as [[Massachusetts]]. This eventually ended in 1833 when Massachusetts was the last state to disestablish its church.
+|-
+| [[Waldeck (principality)|Waldeck]] || [[Evangelical Church of Hesse-Kassel and Waldeck|Evangelical State Church of Waldeck and Pyrmont]] || [[united and uniting churches|united Protestants]] || 1918
+|-
+| [[Wales]]{{#tag:ref|The [[Church in Wales]] was split from the [[Church of England]] in 1920, by [[Welsh Church Act 1914]]; at the same time becoming disestablished.|group=note}} || [[Church of England]] || [[Anglican]] || 1920
+|-
+| [[Kingdom of Württemberg|Württemberg]] || [[Evangelical State Church in Württemberg]] || [[Lutheran]] || 1918
+|}
+
+==Former confessional states==
+{{unreferenced section|date=April 2022}}
+
+===Buddhism===
+{| class="sortable wikitable"
+|-
+! Country || Denomination || Disestablished
+|-
+| [[Kalmyk Khanate|Kalmyk]] || [[Tibetan Buddhism]] || 1771 
+|-
+| [[Kingdom of Laos|Laos]] || [[Theravada Buddhism]] || 1975&lt;ref&gt;{{Cite web|url=https://media.bloomsburyprofessional.com/rep/files/laos-constitution-1947-1949-englishx.pdf|title=Laos Constitution 1947/1949}}&lt;/ref&gt;
+|-
+| [[Mongolia]] || [[Tibetan Buddhism]] || 1926
+|-
+| [[Rattanakosin Kingdom (1782–1932)|Siam]] (Thailand)|| [[Theravada Buddhism]] || 1932
+|-
+| [[Tibet (1912–1951)|Tibet]] || [[Tibetan Buddhism]] || [[Seventeen Point Agreement|1951]]
+|-
+| [[Vietnam]] || [[Thiền]] || 1407 (de jure)&lt;br /&gt;1413 (de facto)
+|-
+| [[Yuan dynasty|Yuan]] || [[Tibetan Buddhism]] || 1368
+|}
+
+===Hinduism===
+{| class="sortable wikitable"
+|-
+! Country || Disestablished
+|-
+| [[Champa]] || 1832
+|-
+| [[Kingdom of Nepal|Nepal]] || 2015 (de jure)&lt;br /&gt;2008 (de facto)
+|-  
+| [[Manipur (princely state)|Manipur]] || 1748&lt;ref&gt;{{cite web | url=https://www.livehistoryindia.com/story/living-culture/sanamahism-manipur | title=Sanamahism: The Lost Religion of Manipur | date=24 October 2021 }}&lt;/ref&gt;
+|-
+| [[Garhwal Kingdom|Garhwal]] || 1949
+|-
+| [[Jaffna Kingdom|Jaffna]] || 1619
+|-
+| [[Maratha Empire|Maharashtra]] || 1818
+|-
+| [[Hindu Shahis|Hindu Shahi dynasty]] || 1026
+|-
+| [[Baroda State|Baroda]] || 1949
+|-
+| [[Bundi State|Bundi]] || 1949
+|-
+| [[Gangga Negara]] || 1026
+|-
+| [[Kutai]] || 1635
+|-
+| [[Nawanagar State|Nawanagar]] || 1947 
+|-
+| [[Vijayanagara Empire|Vijayanagara]]
+| 1646
+|-
+| [[Udaipur State|Udaipur]] || 1949 
+|-
+| [[Kamarupa Kingdom|Kamarupa]] || 1140
+|-
+|-
+| [[Pudukkottai State|Pudukkottai]] || 1948
+|-
+| [[Bhoi dynasty|Bhoi]] || 1947
+|-
+| [[Koch dynasty|Koch]] || 1949
+|-
+|}
+
+===Sikhism===
+{| class="sortable wikitable"
+|-
+! Country || Disestablished
+|-
+| [[Sikh Empire|Khalsa Kingdom]] || 1849
+|-
+|}
+
+===Confucianism===
+{| class="sortable wikitable"
+|-
+! Country || Denomination || Disestablished
+|-
+| [[Chinese Empire|China]] || [[Confucianism]] || 1912
+|-
+| [[Korea]] || [[Korean Confucianism]] || 1897 
+|-
+|rowspan="2"| [[List of Vietnamese dynasties|Vietnam]] || [[Neo-Confucianism]] || 1789
+|-
+| [[Vietnamese philosophy#Confucianism in Vietnam|Vietnamese Confucianism]] || [[Abdication of Bao Dai|1945]]
+|-
+|}
+
+===Islam===
+{| class="sortable wikitable"
+|-
+! Country || Denomination || Disestablished
+|-
+| [[Sudan]] || [[Sunni Islam]] || [[2019–2024 Sudanese transition to democracy#Religion/state separation and recognition of diversity (September 2020)|2020]]
+|-
+| [[Turkey]] || [[Sunni Islam]] || [[Turkish Constitution of 1924#Amendments|1928]] 
+|-
+|}
+
+===Paganism===
+{| class="sortable wikitable"
+|-
+! Country || Denomination || Disestablished
+|-
+| [[History of Denmark#Middle Ages|Denmark]] || [[Old Norse religion|Norse paganism]] || 960
+|-
+| [[Icelandic Commonwealth|Iceland]] || [[Old Norse religion|Norse paganism]] || 1000
+|-
+| [[Kingdom of Norway (872–1397)|Norway]] || [[Old Norse religion|Norse paganism]] || 1015
+|-
+| [[History of Sweden (800–1521)#Middle Ages|Sweden]] || [[Old Norse religion|Norse paganism]] || 1014
+|-
+|}
+
+===Shinto===
+{| class="sortable wikitable"
+|-
+! Country || Denomination || Disestablished
+|-
+| [[Empire of Japan|Japan]] || [[State Shinto]] || [[Constitution of Japan|1947]] (''de facto'')
+|}
+The head of state, the [[Emperor of Japan]] is still Shinto as of 2022, as is the Prime minister [[Kishida]], and the recent expensive coronation was paid for by the taxpayer, giving Shinto continued favored status.
+
+===State atheism===
+{| class="sortable wikitable"
+|-
+! Country || Disestablished
+|-
+| [[Democratic Republic of Afghanistan|Afghanistan]] || 1980
+|-
+| [[People's Socialist Republic of Albania|Albania]] || 1992
+|-
+| [[People's Republic of Angola|Angola]] || [[Constitution of Angola|1992]]
+|-
+| [[People's Republic of Bulgaria|Bulgaria]] || [[Constitution of Bulgaria|1991]] (''de facto'') 
+|-
+| [[State of Cambodia (1989–1993)|Cambodia]] || [[Constitution of Cambodia|1993]]
+|-
+| [[Czechoslovak Socialist Republic|Czechoslovak]] || 1990 (''de jure'') 
+|-
+| [[People's Democratic Republic of Ethiopia|Ethiopia]] || 1991
+|-
+| [[Hungarian People's Republic|Hungary]] || [[End of communism in Hungary|1989]] (''de facto'') 
+|-
+| [[Laos]] || [[Constitution of Laos|1991]]
+|-
+| [[Democratic Kampuchea|Kampuchea]] || [[People's Republic of Kampuchea|1979]] 
+|-
+| [[People's Republic of Mozambique|Mozambique]] || [[Constitution of Mozambique|1990]] (''de facto'') 
+|-
+| [[Polish People's Republic|Poland]] || 1989 (''de jure'') 
+|-
+| [[Socialist Republic of Romania|Romania]] || [[Constitution of Romania|1989]]
+|-
+| [[Soviet Union]] || [[Dissolution of the Soviet Union|1991]] (''de facto'') 
+|-
+| [[Socialist Federal Republic of Yugoslavia|Yugoslavia]] || [[Breakup of Yugoslavia|1992]] (''de facto'') 
+|}
+
+===Zoroastrianism===
+{| class="sortable wikitable"
+|-
+! Country || Disestablished
+|-
+| [[Kingdom of Armenia (antiquity)|Armenia]] || 301 AD
+|-
+| [[Persia]] (Iran) || 651 AD
+|-  
+|}
+
+==See also==
+{{div col|colwidth=25em}}
+* [[Blasphemy law]]
+* [[Ceremonial deism]]
+* [[Church tax]]
+* [[Civil religion]]
+* [[Confessional state]]
+* [[Divine rule]]
+* [[Elite religion]]
+* [[Institutional theory]]
+* [[Major religious groups]]
+* [[Nonsectarian]]
+* [[Religious education]]
+* [[Religious toleration]]
+* [[Secular religion]]
+* [[Secularism]]
+* [[Secularity]]
+* [[Secularization]]
+* [[Separation of church and state]]
+* [[Sociology of religion]]
+* [[State atheism]]
+* [[Status of religious freedom by country]]
+* [[Secular state]]
+{{div col end}}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Rowlands, John Henry Lewis (1989). ''Church, State, and Society, 1827–1845: the Attitudes of John Keble, Richard Hurrell Froude, and John Henry Newman''. Worthing, Eng.: P. Smith [of] Churchman Publishing; Folkestone, Eng.: distr.{{nbsp}}... by Bailey Book Distribution. {{ISBN|1850931321}}
+
+==External links==
+* {{cite journal |last=McConnell |first=Michael W. |date=April 2003 |title=Establishment and Disestablishment at the Founding, Part I: Establishment of Religion |journal=William and Mary Law Review |volume=44 |issue=5 |page=2105 |url=https://www.questia.com/PM.qst?a=o&amp;d=5002019127&amp;er=deny |access-date= |archive-date=4 June 2011 |archive-url=https://web.archive.org/web/20110604032724/http://www.questia.com/PM.qst?a=o&amp;d=5002019127&amp;er=deny |url-status=dead }}
+{{Religion topics |state=expanded}}
+{{Religious persecution}}
+{{Relpolnav}}
+{{Authority control}}
+
+[[Category:Religion and politics]]
+[[Category:Separation of church and state]]
+[[Category:Religious discrimination]]
+[[Category:Religious policy]]</rev></revisions></page></pages></query></api>

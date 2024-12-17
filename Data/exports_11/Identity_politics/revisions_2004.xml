@@ -1,0 +1,18 @@
+<?xml version="1.0"?><api><continue rvcontinue="20040901070154|7025902" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="313075" pageid="313075" ns="0" title="Identity politics"><revisions><rev timestamp="2004-11-01T05:05:29Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Identity politics''' is the politics of group-based movements claiming to represent the interests and identity of a particular group, rather than policy issues relating to all members of the community.  The group identity may be based on [[ethnicity]], [[social class|class]], [[religion]], [[sex]], [[sexuality]] or other criteria. Although most political parties target particular constituencies or demographics more than others, this is typically not the core part of their ideology.
+
+Identity politics can be a form of [[victim politics]], where a group identifies themselves as oppressed and seek either to end that oppression, or to use that oppression to justify their actions in other spheres. Even members of majority groups may want to see themselves as oppressed in order to use such justification.
+
+Groups may also engage in [[supremacism|supremacist]] politics, where they seek to dominate other groups for what they see as legitimate reasons.
+
+A middle way between these two extremes is [[separatism]], where one group seeks to isolate itself from other groups. This is rarely possible in practical politics.
+
+[[Nationalism]] in general may be regarded as a form of identity politics within the wider international community.
+
+Examples of identity politics within nations:
+*[[Black separatism]]
+*[[Feminism]]
+*[[Gay rights]]
+*[[Masculism]]
+*[[White separatism]]
+*[[Zionism]]
+[[Category:Political terms]]</rev></revisions></page></pages></query></api>

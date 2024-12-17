@@ -1,0 +1,30 @@
+<?xml version="1.0"?><api><continue rvcontinue="20061109205040|86791405" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2006-11-09T21:01:56Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{dablink|For other senses of this word, see [[bias (disambiguation)]].}}
+{{selfref|For Wikipedia's policy on avoiding bias, see [[Wikipedia:Neutral point of view]].}}
+
+A '''bias''' is a [[prejudice]] in a general or specific sense, usually in the sense for having a preference to one particular [[perspective (cognitive)|point of view]] or [[ideology|ideological]] perspective.  However, one is generally only said to be ''biased'' if one's powers of judgment are influenced by the biases one holds, to the extent that one's views could not be taken as being [[Objectivity (philosophy)|neutral]] or [[Objectivity|objective]], but instead as [[subjective]]. A bias could, for example, lead one to accept or deny the [[truth]] of a [[logical assertion|claim]], not on the basis of the strength of the arguments in support of the claim themselves, but because of the extent of the claim's correspondence with one's own preconceived [[idea]]s. This is called [[confirmation bias]].
+
+A [[systematic bias]] is a bias resulting from a flaw integral to the [[system]] within which the bias arises (for example, an incorrectly calibrated [[thermostat]] may consistently read &amp;ndash; that is 'be biased' &amp;ndash; several degrees hotter or colder than actual [[temperature]]). As a consequence, systematic bias commonly leads to [[systematic error]]s, as opposed to [[random error]]s, which tend to cancel one another out. 
+
+In practice, accusations of bias often result from unacknowledged [[favouritism]] on the part of a [[critic]] or [[judge]], or indeed any person in a position requiring the careful and disinterested exercise of arbitration or assessment. Any tendency to favour a certain set of values naturally leads to an uneven dispensation of judgment. It may also be noted that, if a person were to take their own preexisting view as ''[[A priori and a posteriori (philosophy)|a priori]]'' balanced without acknowledging their own personal inclinations, any person or organization that ''disagrees'' with their views is likely to be viewed as biased ''regardless'' of that person or organization's actual efforts at balance. It may be observed that bias is, in a sense, reflexive, unacknowledged or unrecognised bias potentially leading to its apprehension (with or without good reason) in others.
+
+This is particularly common in discussion of [[news media]] outlets such as [[CNN]], [[Fox News Channel]], ''[[The New York Times]]'', [[Al Jazeera]], and so on.  For example, [[Bill O'Reilly (commentator)|Bill O'Reilly]] has made accusations of [[liberalism|liberal]] bias against the staunchly [[Conservatism|conservative]] ''[[Globe and Mail]]''; at the same time, critics of O'Reilly accuse him of a conservative bias.  ''[[Control Room]]'', a [[documentary film]] made in [[2004]], has examined the role of bias in the media, through an examination of the conflicting methods of reporting the events of the [[United States|U.S.]]-led [[2003 invasion of Iraq|invasion of Iraq]] in [[2003]], in [[Western world|Western]] and [[Arabian]] news networks.
+
+==See also==
+*[[List of cognitive biases]]
+*[[Media bias]]
+*[[Objectivity (philosophy)|Neutral point of view]]
+*[[Objectivity]]
+*[[Scholarly method]]
+*[[Subjectivity]]
+*[[Bias (textile)]]
+
+[[Category:Bias|*]]
+[[Category:Psychological attitude]]
+
+[[ar:انحياز]]
+[[da:Bias (psykologi)]]
+[[de:Bias]]
+[[it:Pregiudizio]]
+[[he:נטאי]]
+[[simple:Bias]]
+[[sv:Metodfel]]</rev></revisions></page></pages></query></api>

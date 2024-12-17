@@ -1,0 +1,13 @@
+<?xml version="1.0"?><api><continue rvcontinue="20061020193716|82680223" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40245346" pageid="40245346" ns="0" title="International Convention on the Elimination of All Forms of Racial Discrimination"><revisions><rev timestamp="2006-10-24T13:19:13Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">The '''International Convention on the Elimination of All Forms of Racial Discrimination''' (ICERD) is a [[United Nations]] [[Treaty|convention]] adopted and opened for signature and ratification by [[United Nations General Assembly]] resolution 2106 (XX) [[December 21]], [[1965]], and which entered into force [[January 4]], [[1969]].
+
+The Committee on the Elimination of Racial Discrimination oversees the implementation of the Convention. It is one of seven UN-linked [[Human rights treaty bodies]].
+
+==External links==
+*[http://www.ohchr.org/english/law/cerd.htm Text of the Convention] on the site of the Office of the High Commissioner for Human Rights. Links to information on status of ratifications, declarations and reservations, and the monitoring body, the [http://www.ohchr.org/english/bodies/cerd/ Committee on the Elimination of Racial Discrimination].
+
+{{UN-stub}}
+{{Humanrights-stub}}
+
+[[Category:Treaties]]
+[[Category:Human rights instruments]]
+[[Category:United Nations]]</rev></revisions></page></pages></query></api>

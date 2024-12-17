@@ -1,0 +1,19 @@
+<?xml version="1.0"?><api><continue rvcontinue="20101104121806|394772963" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1021495" pageid="1021495" ns="0" title="Ethnocide"><revisions><rev timestamp="2010-11-04T12:20:12Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">#REDIRECT [[Genocide#Ethnocide]]
+
+[[Category:Genocide]]
+[[Category:Ethnic conflict]]
+[[Category:Ethnology]]
+
+[[ca:Etnocidi]]
+[[cs:Etnocida]]
+[[de:Ethnozid]]
+[[es:Etnocidio]]
+[[fr:Ethnocide]]
+[[hr:Etnocid]]
+[[it:Etnocidio]]
+[[nl:Etnocide]]
+[[ja:同化政策]]
+[[pt:Etnocídio]]
+[[ru:Этноцид]]
+[[uk:Етноцид]]
+[[zh:文化灭绝]]</rev></revisions></page></pages></query></api>

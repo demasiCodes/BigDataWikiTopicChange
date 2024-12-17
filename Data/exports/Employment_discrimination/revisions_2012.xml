@@ -1,0 +1,116 @@
+<?xml version="1.0"?><api><continue rvcontinue="20121023072548|519345983" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="2811532" pageid="2811532" ns="0" title="Employment discrimination"><revisions><rev timestamp="2012-10-29T12:47:38Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{refimprove|date=July 2008}}
+
+'''Employment discrimination''' (or '''workplace discrimination''') is [[discrimination]] in hiring, promotion, job assignment, termination, and compensation.  It includes various types of [[harassment]].
+
+Many jurisdictions prohibit some types of employment discrimination, often by forbidding discrimination based on certain traits ("protected categories").  In other cases, the law may require discrimination against certain groups.
+
+In places where it is illegal, discrimination often takes subtler forms, such as [[wage discrimination]] and requirements with [[disparate impact]] on certain groups.  In addition, employees sometimes suffer retaliation for opposing workplace discrimination or for reporting violations to the authorities.
+
+Like most discrimination, employment discrimination may occur intentionally or unintentionally.
+
+{{Discrimination sidebar}}
+
+==Protected categories==
+Laws often prohibit discrimination on the basis of&lt;ref&gt;[http://www.albertahumanrights.ab.ca/publications/bulletins_sheets_booklets/sheets/history_and_info/protected_areas_grounds.asp Protected areas and grounds under the Human Rights, Citizenship and Multiculturalism Act]; [http://www.eeoc.gov/laws/types/ Discrimination by Type]; [http://www.humanrightscommission.vic.gov.au/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=985&amp;Itemid=362 Types of discrimination]&lt;/ref&gt;:
+* [[Race (classification of human beings)|Race]] or [[color]]
+* [[Ethnicity]] or [[Nationality|national]] origin
+* [[Sex]] or [[gender]]
+* [[Pregnancy]]
+* [[Religion]] or [[creed]]
+* Political affiliation
+* [[Language]] abilities
+* [[Citizenship]]
+* [[Disability]] or [[medical condition]]
+* [[ageing|Age]]
+* [[Sexual orientation]]
+* [[Gender identity]]
+* [[Marital status]]
+
+Some jurisdictions prohibit employment discrimination against other social groups that have legal protections. They include discrimination or harassment based on [[socioeconomic]] [[Social class|class]], [[height]] or [[weight]] if not relevant to employment, and [[Province|provincial]]/[[regional]] origin.
+
+==Effects of discrimination==
+
+===Markets punish the discriminator===
+The Nobel prize-winning economist [[Gary Becker]] showed in his book ''The Economics of Discrimination'' (University of Chicago Press, 1957) how the markets automatically punish the companies that discriminate.&lt;ref name=murphy/&gt;
+
+The profitability of the company that discriminates is decreased, and the loss is "directly proportional to how much the employer's decision was based on prejudice, rather than on merit." Indeed, choosing a worker with lower performance (in comparison to salary) causes losses proportional to the difference in performance. Similarly, the customers who discriminate against certain kinds of workers in favor of less effective have to pay more for their services, in the average.&lt;ref name=murphy/&gt;
+
+If a company discriminates, it typically loses profitability and market share to the companies that do not discriminate, unless the state limits free competition protecting the discriminators.&lt;ref name=enc/&gt;
+
+There is also a view that "discrimination to satisfy customers’ preference can increase profits".&lt;ref&gt;''J. S. Leonard, D. I. Levine, L. Giuliano'' [http://moya.bus.miami.edu/~lgiuliano/customer_discrim_apr09.pdf Customer Discrimination] [[University of California, Berkeley]] 2009 p. 2&lt;/ref&gt;
+
+===Discrimination by the government===
+In politics, the dominating part of the population rules. Therefore, the worst discrimination in the history has been committed by states. For example, the [[anti-semitic]] practices of the [[Nazi-Germany]] would not have happened on [[free market]]s, because they would have caused losses.&lt;ref name=murphy&gt;[http://www.econlib.org/library/Columns/y2010/Murphydiscrimination.html The Economics of Discrimination], Robert P. Murphy, Library of Economics, AUGUST 2, 2010&lt;/ref&gt;
+
+Government officials and politicians need not care about losses as much as companies, which decreases their incentive not to discriminate. For example, around 1900 the afro-Americans started to compete of jobs that had previously been all-white jobs. Because whites had more voting power, they enacted a law that made photographs of the applicants obligatory in civil service job applications. The number of blacks in federal employment plummeted for decades.&lt;ref name=enc&gt;[http://www.econlib.org/library/Enc/Discrimination.html Discrimination], The Concise Encyclopedia of Economics, Library of Economics&lt;/ref&gt;
+
+In early 20th century South Africa mine owners preferred hiring black workers because they were cheaper. Then the whites successfully persuaded the government to enact laws that highly restricted the black' rights to work (see [[Apartheid]]).&lt;ref name=enc/&gt;
+
+Similarly, to make more profits, producers secretly hired screenwriters who were on Senator [[Joseph McCarthy]]'s blacklist, which mitigated the effects of the list.&lt;ref name=enc/&gt;
+
+[[Minimum wage]]s enacted by the governments or unions decrease the loss caused by discrimination. Thus they weaken the markets' natural incentives not to discriminate. They also decrease the number of people whom the companies may profitably hire and thus make it unprofitable for the companies to hire people who have little expertise.&lt;ref name=enc/&gt;
+
+==Effects of discrimination in the workplace==
+Discrimination in the workplace negatively affects businesses in that discriminatory policies can hurt a company's reputation. A business self-limits itself when it restricts advancement to certain groups or types of employees.  Speaking negatively about a former employee can be damaging for a potential client. There is also a direct correlation between loyalty, retention, and discrimination. Employees are more likely to be looking for new jobs when they feel they have been wronged. According to a report on discrimination at the workplace by the [[International Labour Organization]], “workplace discrimination remains a persistent global problem, with new, more subtle forms emerging.”&lt;ref name="ILO"&gt;[http://www.ilo.org/global/About_the_ILO/Media_and_public_information/Feature_stories/lang--en/WCMS_075613/index.htm ILO: Workplace discrimination, a picture of hope and concern]&lt;/ref&gt; Sending wrong signals to potential clients can also cause conflict because customers can sense when employees aren't enthusiastic or don't believe in their company. This is one reason that it is important for a job applicant to observe the attitudes of people they wish to work with.  Sending positive signals to employees attracts future potential employees.
+
+Inequalities suffered by discriminated groups spreads. Due to [[affirmative action]] policies, a new middle class has been created that consists of formerly discriminated people in some countries but in others, people who are from discriminated groups are frequently involved in the worst jobs, denied benefits, capital, land, social protection, training, or credit. Discrimination at a workplace can lead to poverty. “Discrimination creates a web of poverty, forced and child labor and social exclusion, (seeking to eliminate discrimination is indispensable to any strategy for poverty reduction and sustainable economic development).”&lt;ref name="ILO"/&gt;
+
+In December 2005, a [[Gallup poll]] showed that job satisfaction was lowest when employees experienced discrimination.
+
+==Gender discrimination and the workplace==
+Even though there are regulations that are used to promote equality within the workplace, discrimination is still rampant. Women still do not measure up to men when it comes to income, employment rates and occupational range. Women’s average salary is 72 to 88 percent of men’s, even when variables such as education, age, position level and job tenure are considered. In most countries, the [[glass ceiling]] is ever present for women and the wage differences are significant compared to men. Based on a report by Catalyst in 2005, only “one in fifty eight woman were CEO’s in the Fortune 500; an additional nine were CEO’s in Fortune 501-1000 companies.” Women are also more likely to be stuck in low-paid but more secure positions (i.e. education and healthcare). Historically the rate of employment for women was lower; however, due to the [[late 1800s recession]] the participation of women in the workforce has surpassed that of men. “Discrimination can occur at every stage of employment, from recruitment to education and remuneration, occupational segregation, and at time of layoffs.”&lt;ref name="ILO"/&gt;
+
+==Unintentional discrimination==
+Unintentional discrimination (often termed "[[Statistical discrimination (economics)|statistical discrimination]]") occurs when neutral selection practices produce a substantial disparity of outcomes between one group and another. Such practices include the use of standardized tests (which may disadvantage certain groups) and/or height or weight (which may disadvantage women and some ethnic groups and short people of any race) in the hiring process. If the requirements are job-related and a "business necessity", the disparity is irrelevant.
+
+Some laws prohibit unintentional as well as intentional discrimination, but may have different standards for deciding what is acceptable.  Substantial disparities in outcome are not necessarily illegal, if the practices that produce them are necessary.
+
+===Statistical discrimination vs. actual discrimination===
+In some older studies, it has seemed as if the employers would discriminate for Far-Asians (15 to 25 percent more than for Caucasians) and against Afro-Americans (25% less than for Caucasians) in pay and employment. When accounted for the amount and quality of the education and the geographic location, the differences disappeared. So it seems that the difference was not because of discrimination but because the Far-Asians usually had more and better education and worked in the North, where the salaries are higher also for Afro-Americans.&lt;ref name=enc/&gt;
+
+Similarly, some other studies about wage discrimination often lacks several factors that account for the differences in productivity of different workers. For example, women more often choose low-wage careers or non-profit jobs and they have less working experience than men of same age. In studies that sufficiently account for this kind of factors, remarkable wage differences are not found.&lt;ref name=enc/&gt;
+
+Also the fact that some groups are underrepresented in some institutions and professions does not prove discrimination. For example, people born in cities are naturally underrepresented in farming.&lt;ref name=enc/&gt;
+
+A company has the incentive to hire all people whose work produces more revenue than the cost of hiring them.&lt;ref name=enc/&gt;
+
+==Legal protection from employment discrimination==
+Many countries have laws prohibiting employment discrimination.  Sometimes these are part of broader [[anti-discrimination law]]s.
+
+* [[Employment discrimination law in the United States]]
+* [[Employment discrimination law in the United Kingdom]]
+* [[Employment discrimination law in the European Union]]
+
+In the United States, Title VII of the Civil Rights Act of 1964 protects employees against various forms of employment discrimination. In addition to federal law safeguards, employees in California have broad protections under the Fair Employment and Housing Act (FEHA).&lt;ref name=solomon&gt;[http://mybossstinks.com/mybossstinks_employment_discrimination_in_California.html Employment Discrimination In California] - Solomon, Saltsman &amp; Jamieson&lt;/ref&gt;
+
+==By nation==
+
+===Norway===
+In Norway, research indicates that 26% of non-ethnic Norwegians (and 11% of ethnic Norwegians ) are overqualified for their work — [[Gro Mjeldheim Sandal]] (a professor) says employment discrimination is only one of the factors to account for differences in overqualification between those groups.&lt;ref&gt;http://www.aftenposten.no/jobb/Innvandrere-er-oftere-overkvalifisert-6716430.html "''Professor Gro Mjeldheim Sandal ved Universitetet i Bergen er ikke overrasket over tallene. — Det synes å være et mønster at innvandrere oftere enn etnisk norske arbeidstagere befinner seg i jobber som de er overkvalifisert for, sier Sandal til Aftenposten.no. — Hun tror årsakene er sammensatte, men at mange innvandrere unektelig utsettes for diskriminering. — Men også andre forhold kan spille inn. Når det er snakk om å være overkvalifisert, er det ofte med henblikk på formell kompetanse. Ved ansettelser vil ofte arbeidsgiver være opptatt av kompetanse i videre forstand, for eksempel muligheter til nettverksbygging. Det kan slå uheldig ut for innvandrere med lite kjennskap til norsk kultur, sier Sandal.''"&lt;/ref&gt;
+
+==See also==
+* [[Equal Remuneration Convention, 1951]]
+* [[Discrimination (Employment and Occupation) Convention, 1958]]
+* [[Economic discrimination]]
+* [[Labour and employment law]]
+* [[Marriage bars]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite book |author=Pager, Devah |title=Marked: Race, Crime, and Finding Work in an Era of Mass Incarceration |publisher=University of Chicago Press |year=2009 |pages= |isbn=978-0-226-64484-4}}
+*{{cite book|title=Organizational Communication: Perspectives and Trends|last=Papa|first=Michael J.|coauthors=Tom D. Daniels, Barry K. Spiker|edition=5|publisher=SAGE|year=2007|isbn=1-4129-1684-4}}
+*{{cite journal |last=Trentham |first=Susan |coauthors=Laurie Larwood |year=1998 |title=Gender Discrimination and the Workplace: An Examination of Rational Bias Theory |journal=Sex Roles |volume=38 |issue=112 |pages=1–28 |doi=10.1023/A:1018782226876 |accessdate=2009-08-29}}
+*{{cite news |first=Vivek |last=Wadhwa |title=The True Cost of Discrimination |newspaper=BusinessWeek Online |date=6 June 2006 |accessdate=29 August 2009 |url=http://www.businessweek.com/smallbiz/content/jun2006/sb20060606_087038.htm }}
+
+{{Employment}}
+{{Workplace}}
+
+[[Category:Employment discrimination| ]]
+[[Category:Workplace]]
+
+[[fr:Discrimination à l'embauche]]
+[[he:אפליה בשוק העבודה]]
+[[ru:Дискриминация в области занятости]]
+[[fi:Työsyrjintä]]</rev></revisions></page></pages></query></api>

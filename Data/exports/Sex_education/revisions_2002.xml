@@ -1,0 +1,18 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020315100506|30911" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="42327" pageid="42327" ns="0" title="Sex education"><revisions><rev timestamp="2002-03-15T20:03:46Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Sex education''' refers to education about sexual behaviour, [[sexual intercourse]] and [[sexual reproduction]] in human beings, including the development of the [[embryo]] and [[fetus]] from [[conception]] to birth.  It often includes topics such as [[sexually transmitted diseases]] and how to avoid them, as well as methods of [[contraception]].
+
+Although some sort of sex education is part of many schools' curricula, it remains a controversial topic in several countries how much schoolchildren should be taught about [[contraception]] or [[safer sex]], and whether moral education should be included or excluded (see [[sexual morality]]). In some countries, such as [[Italy]], sex is not even included in any educational program.  In other countries, such as the [[United States]], the topic is the subject of much contentious debate.
+
+The existence of [[AIDS]] has given a new sense of urgency to the topic of sex education.  In many places in [[Africa]], where [[AIDS]] is at pandemic levels, sex education is seen by some as a vital strategy for preserving the health of citizens. 
+
+Some international organizations, such as [[Planned Parenthood]] see worldwide benefit to sex education programs, such as the control of overpopulation and advancement of the rights of women.  
+
+==== National debates ====
+
+* [[Sex education debate in the United States]]
+
+
+----
+''See also:'' [[Sexual morality]]
+
+'''References and external links:'''
+</rev></revisions></page></pages></query></api>

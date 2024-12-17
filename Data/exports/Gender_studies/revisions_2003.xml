@@ -1,0 +1,17 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030524211446|1667166" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="58849" pageid="58849" ns="0" title="Gender studies"><revisions><rev timestamp="2003-11-03T11:13:18Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Gender studies''' is a term used to refer to theoretical work in the [[social sciences]] and/or [[humanities]] that focuses on issues of sex and gender in language and society, and often addresses related issues including racial and ethnic [[oppression]], [[postcolonial]] societies, and [[globalization]]. 
+
+Work in gender studies is often associated with work in [[feminist theory]], [[queer studies]], and other theoretical aspects of [[cultural studies]]. While work in gender studies is principally found in humanities departments and publications (in areas such as [[English literature]] and other literary studies), it is also found in social-scientific areas such as [[anthropology]], [[sociology]], and [[psychology]].
+
+=== Some theorists whose work is associated with Gender Studies ===
+
+* [[Judith Butler]]
+* [[Helene Cixous | H&amp;eacute;l&amp;egrave;ne Cixous]]
+* [[Donna Haraway]]
+* [[Luce Irigaray]]
+* Evelyn Fox Keller
+* Gayle Rubin
+* [[Eve Kosofsky Sedgwick]]
+* [[Gayatri Chakravorty Spivak]]
+
+See also:
+[[Gender and sexuality studies]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,220 @@
+<?xml version="1.0"?><api><continue rvcontinue="20131021175848|578142687" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="16966680" pageid="16966680" ns="0" title="Occupational segregation"><revisions><rev timestamp="2013-11-20T12:08:40Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Occupational segregation''' is the distribution of people based upon demographic characteristics, most often [[gender]], both across and within occupations and jobs. {{sfn|Bergmann, Barbara R|1981}}  Occupational segregation levels differ on a basis of perfect segregation and integration.  Perfect segregation occurs where any given occupation employs only one group.  Perfect integration, on the other hand, occurs where each group holds the same proportion of positions in an occupation as it holds in the labor force.{{sfn|Weeden, Kim|2007}}
+
+Many scholars, such as Bilbarz et al., argue that occupational segregation is most likely caused by gender-based discrimination {{sfn|Bilbarz, Timothy, Vern L. Bengston, Alexander Bucur|1996}} that often occurs in patterns, either horizontally (across occupations) or vertically (within the hierarchy of occupations). Both of these contribute to the [[gender pay gap]].{{sfn|Cotter, David A., JoAnn DeFiore, Joan M. Hermsen, Brenda M. Kowalewski, and Reeve Vanneman|1997}}
+
+==Types==
+
+===Horizontal===
+Horizontal segregation refers to differences in the amount of people of each gender present across occupations.{{sfn|Charles, Maria|2003}} Horizontal segregation is likely to be increased by post-industrial restructuring of the economy ([[post-industrial society]]), in which the expansion of service industries has called for many women to enter the workforce. The millions of housewives who entered the economy during post-industrial restructuring primarily entered into service sector jobs where they could work part-time and having flexible hours. While these options are often appealing to mothers, who are often responsible for the [[care work]] of their children and their homes, {{sfn|Charles, Maria|2003}} they are also unfortunately most available in lower-paying and lower status occupations. Horizontal segregation is more resistant to change than vertical segregation because it plays to our basic understandings of gender roles.{{sfn|Charles, Maria|2003}} The idea that nurses and teachers are often pictured as women whereas doctors and lawyers are often assumed to be men are examples of how highly engrained horizontal segregation is in our society.
+
+===Vertical===
+The term ''vertical segregation'' describes men's domination of the highest status jobs in both traditionally male and traditionally female occupations.{{sfn|Charles, Maria|2003}} Colloquially, the existence of vertical segregation is referred to as allowing men to ride in a "glass escalator" through which women must watch as men surpass them on the way to the top positions.&lt;ref&gt;Snyder, Karrie Ann and Adam Isaiah Green. 2008. "'Revisiting the Glass Escalator: The Case of Gender Segregation in a Female Dominated Occupation." Social Problems 55(2): 271-299.&lt;/ref&gt; Generally, the more occupational segregation present in a country, the less vertical segregation there is because women have a better chance of obtaining the highest positions in a given occupation as their share of employment in that particular occupation increases.{{sfn|Watts, Martin J|2005}}
+
+Vertical segregation can be somewhat difficult to measure across occupations because it refers to hierarchies within individual occupations. For example, the category of Education Professionals, (a category in the Australian Standard Classification of Occupations, Second Edition), is broken down into "School Teachers," "University and Vocational Education Teachers," and "Miscellaneous Education Professionals." These categories are then further broken down into subcategories. While these categories aptly describe the divisions within education, they are not comparable to the hierarchical categories within other occupations, and thus make comparisons of levels of vertical segregation quite difficult.{{sfn|Watts, Martin J|2005}}
+
+==Causes==
+
+===Gendered division of labor===
+{{main|occupational sexism}}
+Many scholars, such as Janet Saltzman Chafetz, argue that occupational segregation is in part caused by the gender-based division of labor, in which women and men are responsible for different tasks.{{sfn|Chafetz, Janet Saltzman|1988}} The earliest known division of labor within society was by gender.{{sfn|Chafetz, Janet Saltzman|1988}} Within this division, women are seen as primarily responsible for the activities of the home and family, while men are seen as responsible for non-domestic tasks, such as those in the economy and the polity. Because non-domestic rather than domestic tasks make up society's central institutions, the gendered division of labor creates a power differential in which men hold more power than women.{{sfn|Chafetz, Janet Saltzman|1988}} In other words, the work done primarily by women is valued less than work done primarily by men.{{sfn|Cohen, Philip N., and Suzanne M. Bianchi|1999}}  The differentiation in value accorded to men's work and women's work is consistent across genders, for women and men alike tend to assign more prestige to work traditionally done by men. In accordance with the lower prestige awarded women's skills and occupations, skills closely associated with women's work are "systematically underrewarded" in terms of pay.{{sfn|Cohen, Philip N., and Suzanne M. Bianchi|1999}}
+
+===Gender essentialism===
+Gender essentialism is the view that women are more competent than men in areas such as nurturing and caring, whereas men are more competent in areas such as providing financially.{{sfn|Charles, Maria|2003}} Gender essentialism often leads to the view of male primacy, which presents men as more naturally suited for authority than women. While biology may have been partly responsible for the genesis of these ideas, they have since become culturally and socially entrenched regardless of any actual biological justification or lackthereof.{{sfn|Charles, Maria|2003}} Male primacy is converted into both horizontal and vertical segregation through discrimination, internalized self-evaluations, and gendered expectations.{{sfn|Charles, Maria|2003}}
+
+===Gender norms and gendered preferences===
+From a young age, men and women are socialized into specific gender roles that dictate how they should act. These gender roles then cause men and women to develop gendered preferences for work, or preferences based on the gender norms they have been socialized to accept. These gendered preferences then lead to gendered choices, in which women choose primarily occupations that are both lower in pay and lower in status.{{sfn|Chafetz, Janet Saltzman|1988}}
+
+===Cultural schemas===
+Certain cultural schemas may play a significant role in explaining gender roles and gender norms. The schemas that individuals buy into are of importance because they cannot only have bias with the general society against the occupational abilities of women, but can also have a negative influence on women's perceptions of their own occupational abilities.{{sfn|Damaske, Sarah|2004}} One such schema that many people buy into is that men are better than women at math and science. However, any gender differences that exist in math have been shown to be attributed to cultural factors rather than actual differences in natural ability.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}}
+
+Another of these cultural schemas is the idea that that men are more natural managers than women.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}} There is, however, no evidence to support this claim. Men and women exhibit similar levels of openness to experience, conscientiousness, and extraversion, which are three of the "big five" personality traits associated with effective leaders.  In addition, people with greater emotional intelligence are more likely to be leaders, and women tend to score higher than men in emotional intelligence.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}}
+
+==Maintenance mechanisms==
+
+===Self-selection===
+Some that women self-select out of higher status positions, choosing instead to have more time to spend at home and with their families. According to Sarah Damaske, this choice is often made because high status positions do not allow time for the heavy domestic workload that many women expect to take on due to the gendered division of labor in the home.{{sfn|Charles, Maria|2003}} Working class women, in particular, also sometimes self-select out of more time-intensive or higher -status positions in order to maintain the traditional gender hierarchy and household accord.{{sfn|Damaske, Sarah|2004}}
+
+===Educational disparities===
+Human Capital explanations are those that argue that an individual's and a group's occupational and economic success can be at least partially attributed to accumulated abilities developed through formal and informal education and experiences.{{sfn|Mincer, Jacob|1891}} Human capital explanations for occupational segregation, then, posit that a difference in educational levels of men and women is responsible for persistent occupational segregation. Contrary to this theory, however, over past 40 years, women's educational attainment has outpaced men's. One area of education that might play a substantial role in occupational segregation, however, is the dearth of women in science and mathematics.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}} STEM fields tend to be pipelines to higher paying jobs. Therefore, the lack of women in higher paying jobs might be partially due to the fact that they do not pursue science and mathematics in school. This can be seen in areas such as finance, which is very mathematics heavy and is also a very popular field for those who eventually rise to high status positions in the private sector. This choice, like others, is often a personal preference or made because of the cultural idea that women are not as good at men as mathematics.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}}
+
+===Work experience disparities===
+Human capital explanations also posit that men tend to rise to higher positions than women because of a disparity in work experience between the genders. Indeed, the gap between men and women's tenure rises with age, and female college graduates are more likely than males to interrupt their careers to raise children.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}} Such choices may also be attributed to the gendered division of labor which holds women primarily responsible for domestic duties.
+
+===Preferences===
+Human capital explanations posit additionally that men are more likely than women to preference their work life over their family life. However, the General Social Survey found that men were only slightly less likely than women to value short hours, and that preferences for particular job characteristics depended mostly on age, education, race, and other characteristics rather than on gender.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}} In addition, other research has shown that men and women likely hold endogenous job preferences, meaning that their preferences are due to the jobs they hold and those they have held in the past rather than related inherently to gender. After taking into consideration men and women's jobs, there is no difference in their job preferences. Men and women engaged in similar types of work have similar levels of commitment to work and display other similar preferences.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}}
+
+===Job search strategies===
+According to sociologists Hanson and Pratt, men and women employ different strategies in their job searches that play a role in occupational segregation. These differing strategies are influenced by power relations in the household, the gendered nature of social life, and women's domestic responsibilities. The last factor, in particular, leads women to prioritize the geographical proximity of paid employment when searching for a job. In addition, most people have been found to find their jobs through informal contacts. The gendered nature of social life leads women to have networks with smaller geographical reach than men. Thus, the location of women in female-dominated occupations which are lower-status and lower pay is the result of "severe day-to-day time constraints" rather than a conscious and long-term choice made that would be able to maximize pay and prestige {{sfn|Hanson, Susan and Geraldine Pratt|1991}}
+
+==Occupational segregation and the gender pay gap==
+{{Main|Gender pay gap}}
+Women in female-dominated jobs pay two penalties: the average wage of their jobs is lower than that in comparable male-dominated jobs, and they earn less relative to men in the same jobs.  In addition, women's wages are negatively affected by the percentage of females in a job, but men's wages are essentially unaffected.{{sfn|Cohen, Philip N., and Suzanne M. Bianchi|1999}}
+The crowding hypothesis postulates that occupational segregation lowers all women's earnings as a result of women's exclusion from primarily male occupations and segregation into a number of predominantly female-dominated occupations.{{sfn|Cotter, David A., JoAnn DeFiore, Joan M. Hermsen, Brenda M. Kowalewski, and Reeve Vanneman|1997}} Given that feminine skills are traditionally rewarded less both in salary and prestige, the crowding of women into certain occupations makes these occupations valued less in both pay and prestige.
+
+Crowding is found to be alleviated through macro-changes in occupational segregation. Teaching, for example, at least in recent generations, is traditionally a female- dominated profession. However, when positions open up for women in business and other high-earning occupations, school boards must raise the salaries of potential teachers to attract candidates. This is an example of how even women in traditionally female-dominated professions still benefit salary-wise from the gendered integration of the market.{{sfn|Cotter, David A., JoAnn DeFiore, Joan M. Hermsen, Brenda M. Kowalewski, and Reeve Vanneman|1997}}
+
+==Measuring occupational segregation==
+Occupational segregation is measured using Duncan's D (or the [[index of dissimilarity]]), which serves as a measure of dissimilarity between two distributions.  D has to be calculated first:
+
+# Identify N different occupations.
+# Calculate the percentage of men (or other ascribed category) who work in each of the occupations and the percentage of women who work in each occupation.  Give men and women a variable name (m&lt;sub&gt;1&lt;/sub&gt; could = men, w&lt;sub&gt;1&lt;/sub&gt; could = women).
+# Duncan's D is calculated using this formula: {{math|D{{=}}½ε&lt;sub&gt;i&lt;/sub&gt;{{!}}m&lt;sub&gt;1&lt;/sub&gt;-w&lt;sub&gt;1&lt;/sub&gt;{{!}}}} {{clarify|date=April 2012}}{{citation needed|date=April 2012}}
+#*It is important to note that Duncan's D uses percentages.  So in a given occupation, the number of men (or women) in that occupation should be divided by the total number of men (or women) in all of the occupations.  For example:  You may have 10 men who are nurses out of 600 total men.  The value for the occupation of male nurses should be 10/600, or .0166.	
+# The number you get after calculations will be in decimal form, and you will need to multiply it by 100 to get its percentage.  For instance, if your answer is .45, this means that 45% of men or women would have to change jobs for the distribution of men and women across occupations to be exactly the same.{{sfn|Fain, Dr. Jim|2008}}
+
+==Occupational segregation in the United States==
+Over the last century in the United States, there has been a surprising stability of segregation-index scores, which measure the level of occupational segregation of the labor market.{{sfn|Charles, Maria|2003}}  There were declines in occupational segregation in the 1970s and 1980s, as technologies that made the care work of the home quicker and easier allowed more women time to enter the workforce.{{sfn|Cohen, Philip|2004}} However, occupational segregation remains a fixed element of the United States workforce today.
+As recently as 1996, it has been found that gender occupational segregation over the past three generations has not decreased. In one study, grown women working in the 1980s were likely to have faced the same occupational segregation faced by their mothers working in the 1960s and their grandmothers working in the 1940s. {{sfn|Bilbarz, Timothy, Vern L. Bengston, Alexander Bucur|1996}}
+
+==Solutions==
+Gender egalitarian cultural principles, or changes in traditional gender norms, are one possible solution to occupational segregation in that they reduce discrimination, affect women's self-evaluations, and support structural changes. Horizontal segregation, however, is more resistant to change from simply modern egalitarian pressures.{{sfn|Charles, Maria|2003}} Changes in norms may reinforce the impact of occupational integration in that once people see women in traditionally male-dominated occupations, their expectations about women in the labor market might be changed.{{sfn|Cotter, David A., JoAnn DeFiore, Joan M. Hermsen, Brenda M. Kowalewski, and Reeve Vanneman|1997}}
+
+Some scholars, such as Haveman and Beresford, therefore argue that any policies aimed at reducing occupational inequality must focus on culture changes.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}} According to Haveman and Beresford, people in the United States have historically tended to reject policies that only support one group (unless that group is them). Therefore, effective policies for limiting occupational segregation must aim to provide benefits across groups. Therefore policies that aim at capping work hours for salaried workers or mandate on-site employer sponsored childcare might be most effective.{{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}}
+
+In addition, the more occupational integration that occurs, the more women are in the positions to make powerful decisions affecting occupational segregation. If the overall market becomes less segregated, those who make personnel decisions in traditionally female-dominated occupations will have to make jobs, even higher status jobs, more attractive to women to retain them.  School boards, for example, will have to appoint more women to department head positions and other positions of authority in order to retain women workers, whereas those jobs might previously have gone to men.{{sfn|Cotter, David A., JoAnn DeFiore, Joan M. Hermsen, Brenda M. Kowalewski, and Reeve Vanneman|1997}}
+
+==See also==
+* [[Gender equality]]
+* [[Glass ceiling]]
+* [[Social stratification]]
+* [[Occupational sexism]]
+* [[Occupational inequality]]
+* [[Online segregation]]
+* [[Achievement gap in the United States]]
+* [[Gender pay gap]]
+* [[Mommy track]]
+* [[Shared Earning/Shared Parenting Marriage]]
+
+==References==
+{{reflist|30em}}
+
+===Bibliography===
+;Journals
+*{{cite journal
+ |ref=harv
+ |author=Bergmann, Barbara R
+ |title=The Economic Risks of Being a Housewife
+ |journal=[[The American Economic Review]]
+ |issue=71
+ |year=1981
+ |pages=81–6}} &lt;!-- {{sfn|Bergmann, Barbara R|1981}} --&gt;
+*{{cite journal
+ |ref=harv
+ |authors=Bilbarz, Timothy, Vern L. Bengston, Alexander Bucur
+ |title=Social Mobility Across Three Generations
+ |journal=Journal of Marriage and Family
+ |issue=58
+ |year=1996
+ |pages=188–200}} &lt;!-- {{sfn|Bilbarz, Timothy, Vern L. Bengston, Alexander Bucur|1996}} --&gt;
+*{{cite journal
+ |ref=harv
+ |author=Chafetz, Janet Saltzman
+ |title=The Gender Division of Labor and the Reproduction of Female Disadvantage: Toward an Integrated Theory
+ |journal=[[Journal of Family Issues]]
+ |issue=9
+ |year=1988
+ |pages=108–131}} &lt;!-- {{sfn|Chafetz, Janet Saltzman|1988}} --&gt;
+*{{cite journal
+ |ref=harv
+ |author=Charles, Maria
+ |title=Deciphering Sex Segregation: Vertical and Horizontal Inequalities in Ten National Labor Markets
+ |journal=[[Acta Sociologica]]
+ |issue=46
+ |year=2003
+ |pages=267–287}} &lt;!-- {{sfn|Charles, Maria|2003}} --&gt;
+*{{cite journal
+ |ref=harv
+ |author=Cohen, Philip
+ |title=The Gender Division of Labor: ‘Keeping House’ and Occupational Segregation in the United States
+ |journal=Gender and Society
+ |issue=18
+ |year=2004
+ |pages=239–52}} &lt;!-- {{sfn|Cohen, Philip|2004}} --&gt;
+*{{cite journal
+ |ref=harv
+ |authors=Cohen, Philip N., and [[Suzanne M. Bianchi]]
+ |title=Marriage, children, and women's employment: What do we know?
+ |journal=Monthly Labor Review
+ |issue=122
+ |year=1999
+ |pages=22–31}} &lt;!-- {{sfn|Cohen, Philip N., and Suzanne M. Bianchi|1999}} --&gt;
+*{{cite journal
+ |ref=harv
+ |authors=Cotter, David A., JoAnn DeFiore, Joan M. Hermsen, Brenda M. Kowalewski, and Reeve Vanneman
+ |title=All women benefit: The macro-level effect of occupational integration on gender earnings equality
+ |journal=[[American Sociological Review]]
+ |issue=62
+ |year=1997
+ |pages=714–34}} &lt;!-- {{sfn|Cotter, David A., JoAnn DeFiore, Joan M. Hermsen, Brenda M. Kowalewski, and Reeve Vanneman|1997}} --&gt;
+*{{cite journal
+ |ref=harv
+ |author=Damaske, Sarah
+ |title=A 'Major Career Woman'? How Women Develop Early Expectations About Work
+ |journal=Gender and Society
+ |issue=25
+ |year=2004
+ |pages=409–430}} &lt;!-- {{sfn|Damaske, Sarah|2004}} --&gt;
+*{{cite journal
+ |ref=harv
+ |authors=Hanson, Susan and Geraldine Pratt
+ |title=Job Search and the Occupational Segregation of Women
+ |journal=Annals of the [[American Association of Geographers]]
+ |issue=81
+ |year=1991
+ |pages=229–253}} &lt;!-- {{sfn|Hanson, Susan and Geraldine Pratt|1991}} --&gt;
+*{{cite journal
+ |ref=harv
+ |authors=Haveman, Heather A. and Lauren S. Beresford
+ |title=If you’re so smart, why aren’t you the boss? Explaining the persistent vertical gender gap in management
+ |journal=[[The Annals of the American Academy of Political and Social Science]]
+ |issue=639
+ |year=2012
+ |pages=114–30}} &lt;!-- {{sfn|Haveman, Heather A. and Lauren S. Beresford|2012}} --&gt;
+*{{cite journal
+ |ref=harv
+ |author=Mincer, Jacob
+ |title=Human Capital and Economic Growth
+ |journal=NBER Working Paper
+ |issue=802
+ |year=1891}} &lt;!-- {{sfn|Mincer, Jacob|1891}} --&gt;
+*{{cite journal
+ |ref=harv
+ |author=Watts, Martin J
+ |title=On the Conceptualisation and Measurement of Horizontal and Vertical Occupational Gender Segregation
+ |journal=European Sociological Review
+ |issue=21
+ |year=2005
+ |pages=481–488}} &lt;!-- {{sfn|Watts, Martin J|2005}} --&gt;
+*{{cite book
+ |ref=harv
+ |author=Weeden, Kim
+ |title=Occupational Segregation
+ |work=[[Blackwell Encyclopedia of Sociology]]
+ |editor=Ritzer, George
+ |publisher=[[Blackwell Publishing]]
+ |year=2007}} &lt;!-- {{sfn|Weeden, Kim|2007}} --&gt;
+**Online: {{cite web
+  |title=Blackwell Reference Online
+  |date=31 March 2008
+  |url=http://www.blackwellreference.com/subscriber/tocnode?id=g9781405124331_chunk_g978140512433121_ss1-4}}
+
+;Web
+*{{cite web
+ |ref=harv
+ |author=Fain, Dr. Jim
+ |title=Occupational Segregation
+ |publisher=[[Oklahoma State University|OSU]] - [[William S. Spears School of Business]]
+ |date=31 March 2008
+ |url=http://spears.okstate.edu/home/jrfain/legacy/occseg/index.html}} {{dead link|date=April 2012}} &lt;!-- {{sfn|Fain, Dr. Jim|2008}} --&gt;
+
+{{Aspects of occupations}}
+
+{{DEFAULTSORT:Occupational Segregation}}
+[[Category:Occupations]]
+[[Category:Income in the United States]]
+[[Category:Sexism]]
+[[Category:Sociological terminology]]
+[[Category:Majority–minority relations]]
+[[Category:Feminist economics]]
+[[Category:Inequality]]
+[[Category:Feminism and society]]</rev></revisions></page></pages></query></api>

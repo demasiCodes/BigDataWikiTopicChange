@@ -1,0 +1,23 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030627031009|1672566" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="29269" pageid="29269" ns="0" title="Self-determination"><revisions><rev timestamp="2003-11-04T16:18:55Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Self-determination''' is a principle in [[international law]] that a people ought to be able to determine their own governmental forms and structure free from outside influence.  This principle was developed by [[Woodrow Wilson]] and was important in the [[Treaty of Versailles]] and [[decolonization]].
+
+There is tension between the concept of self-determination and that
+of [[territorial integrity]].  This conflict has been resolved in 
+practice by defining the notion of "people" entitled to self-determination as persons living in a particular nation-state rather than persons sharing a common culture or language.  Hence, self-determination as it is understood in the early 21st century does not generally promote the political aspirations of oppressed ethnic minorities unless the state.
+
+The United Nations Declaration on Human rights in 1970 committed the idea of the right for self-determination to the body of international protocol. In essence, all people reserve the right to seek self-determination to address a lack of proper representation or oppression from any given government. 
+
+''The following text needs to be merged with the above''.
+
+Self-determination is the concept in international that the people within a state ought to have the power to determine their political status independent of an outside power.
+
+The concept of self-determination was first invoke in the aftermath of [[World War I]] in drawing the boundaries of Eastern Europe, although many of the ideas with self-determination can be found in earlier documents such as the [[Declaration of Independence of the United States]].
+
+At the ratification of the UN Charter in 1951, the signatories introduced the right of all people to self determination into the framework of international law and diplomacy. 
+
+The purpose of the self determination clause was to allow the former colonies that existed before WWII to have a say in their future.  However, after [[decolonization]] the right to self-determination became understood to apply only to states and not to peoples, and to be circumscribed by the principles of [[territorial integrity]] and [[noninterference in internal affairs]].  Many of the newly independent former colonies faced seccessionist and irredentist movements and therefore there was an international consensus that self-determiniation did not apply to these movements.
+
+The right to self-determination has been used in recent decades by people all over the world. In most cases there is an ethnic or religious minority seeking independence from a majority to escape prejudice or persecution. 
+
+The Constitution of the [[Soviet Union]] acknowledged this right for its [[republic]]s, but it wasn't applied in practice until the [[perestroika]], when it led to the [[collapse of the Soviet Union|breakup of the Soviet Union]]
+
+See also [[Emancipation]].</rev></revisions></page></pages></query></api>

@@ -1,0 +1,383 @@
+<?xml version="1.0"?><api><continue rvcontinue="20241009013731|1250200489" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="880112" pageid="880112" ns="0" title="Identity (social science)"><revisions><rev timestamp="2024-10-09T11:26:30Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{short description|Qualities, beliefs, personality, looks and/or expressions that distinguish a person or group}}
+{{other uses of|Identity}}
+{{Self sidebar}}
+'''Identity''' is the set of qualities, beliefs, personality traits, appearance, and/or expressions that characterize a person or a [[social group|group]].&lt;ref&gt;Compare ''Collins Dictionary of Sociology'', quoted in {{cite book | last1 = Covington | first1 = Peter | chapter = Culture and Identity | title = Success in Sociology | url = https://books.google.com/books?id=aZIVM2t6Ys0C | location = Dublin | publisher = Folens Limited | date = 2008 | page = 12 | isbn = 9781850082606 | access-date = 12 November 2020 | quote = Jary and Jary (1991) define identity as 'a sense of self that develops as the child differentiates from parents and the family, and takes a place in society.'}}&lt;/ref&gt;&lt;ref name="Springer New York 2011 p."&gt;{{cite book | title= Handbook of Identity Theory and Research | publisher= Springer New York | publication-place= New York, NY | year= 2011 | isbn= 978-1-4419-7987-2 | doi= 10.1007/978-1-4419-7988-9 | page= | editor-last1= Schwartz | editor-last2= Luyckx | editor-last3= Vignoles | editor-first1= Seth J. | editor-first2= Koen | editor-first3= Vivian L. }}&lt;/ref&gt;&lt;ref name="Herman 2011 pp. 779–781"&gt;{{cite book | last=Herman | first=William E. | title=Encyclopedia of Child Behavior and Development | chapter= Identity Formation | publisher= Springer US | publication-place= Boston, MA | year= 2011 | doi= 10.1007/978-0-387-79061-9_1443 | pages= 779–781 | isbn= 978-0-387-77579-1 | quote= Identity formation has to do with the complex manner in which human beings establish a unique view of self and is characterized by continuity and inner unity. It is therefore highly related to terms such as the self, self-concept, values, and personality development.}}&lt;/ref&gt;&lt;ref name="Franco-Zamudio Dorton 2014 pp. 256–259"&gt;{{cite book | last1= Franco-Zamudio | first1= Jamie | last2= Dorton | first2= Harold | title= Encyclopedia of Critical Psychology | chapter= Collective Identity | publisher= Springer New York | publication-place= New York, NY | year= 2014 | doi= 10.1007/978-1-4614-5583-7_381 | pages= 256–259 | isbn= 978-1-4614-5582-0 | quote= Identity offers a way of thinking about the links between the personal and the social, that is, how the psychological and social aspects of the self are tied together to create a self-concept (Woodward, 2002)}}&lt;/ref&gt;
+
+Identity emerges during childhood as children start to comprehend their [[self-concept]], and it remains a consistent aspect throughout different stages of life. [[Personal identity|Identity]] is shaped by social and cultural factors and how others perceive and acknowledge one's characteristics.&lt;ref name=":3"&gt;{{Cite journal |last1= Schmeck |first1= Klaus |last2= Schlüter-Müller |first2= Susanne |last3= Foelsch |first3= Pamela A |last4= Doering |first4= Stephan |date= 2013 |title= The role of identity in the DSM-5 classification of personality disorders |journal=Child and Adolescent Psychiatry and Mental Health |language= en |volume= 7 |issue= 1 |pages= 27 |doi= 10.1186/1753-2000-7-27 |issn= 1753-2000 |pmc= 3848950 |pmid= 23902698 |doi-access= free }}&lt;/ref&gt; The etymology of the term "identity" from the Latin noun ''identitas'' emphasizes an individual's mental image of themselves and their "sameness with others".&lt;ref&gt;{{Cite web |title=The term identity comes from the Latin noun Definition |url=https://www.lawinsider.com/dictionary/the-term-identity-comes-from-the-latin-noun |access-date=2023-05-30 |website=Law Insider |language=en}}&lt;/ref&gt; Identity encompasses various aspects such as occupational, [[Religion|religious]], national, [[Ethnicity|ethnic]] or racial, [[Gender identity|gender]], educational, generational, and political identities, among others.
+
+Identity serves multiple functions, acting as a "self-regulatory structure" that provides meaning, direction, and a sense of self-control. It fosters internal harmony and serves as a behavioral compass, enabling individuals to orient themselves towards the future and establish long-term goals.&lt;ref name=":22"&gt;{{Cite journal |last1=Schwartz |first1=Seth J. |last2=Montgomery |first2=Marilyn J. |last3=Briones |first3=Ervin |date=2006 |title=The Role of Identity in Acculturation among Immigrant People: Theoretical Propositions, Empirical Questions, and Applied Recommendations |url=https://www.karger.com/Article/FullText/90300 |journal=Human Development |language=en |volume=49 |issue=1 |pages=1–30 |doi=10.1159/000090300 |s2cid=21526047 |issn=0018-716X}}&lt;/ref&gt; As an active process, it profoundly influences an individual's capacity to adapt to life events and achieve a state of well-being.&lt;ref name=":03"&gt;{{Cite journal |last=Laliberte-Rudman |first=Debbie |date=April 2002 |title=Linking Occupation and Identity: Lessons Learned Through Qualitative Exploration |url=http://www.tandfonline.com/doi/full/10.1080/14427591.2002.9686489 |journal=Journal of Occupational Science |language=en |volume=9 |issue=1 |pages=12–19 |doi=10.1080/14427591.2002.9686489 |s2cid=148500712 |issn=1442-7591}}&lt;/ref&gt;&lt;ref name=":13"&gt;{{Cite journal |last=Unruh |first=Anita M. |date=December 2004 |title=Reflections on: "So... what do you do?" Occupation and the construction of identity |url=https://pubmed.ncbi.nlm.nih.gov/15633879/ |journal=Canadian Journal of Occupational Therapy |volume=71 |issue=5 |pages=290–295 |doi=10.1177/000841740407100508 |issn=0008-4174 |pmid=15633879|s2cid=6673017 }}&lt;/ref&gt; However, identity originates from traits or attributes that individuals may have little or no control over, such as their family background or ethnicity.&lt;ref&gt;{{Cite web |title=Identity: Definition, Types, &amp; Examples |url=https://www.berkeleywellbeing.com/identity.html |access-date=2023-06-21 |website=The Berkeley Well-Being Institute |language=en}}&lt;/ref&gt;
+
+In [[sociology]], emphasis is placed by sociologists on [[collective identity]], in which an individual's identity is strongly associated with role-behavior or the collection of group memberships that define them.&lt;ref name=":0"&gt;{{Citation|last=Burke|first=Peter|title=Identity|date=2020|url=https://www.cambridge.org/core/books/cambridge-handbook-of-social-theory/identity/98F0DBC2281B47E3B9DD374AE5F20D8B|work=The Cambridge Handbook of Social Theory: Volume 2: Contemporary Theories and Issues|volume=2|pages=63–78|editor-last=Kivisto|editor-first=Peter|publisher=Cambridge University Press|doi=10.1017/9781316677452.005|isbn=978-1-107-16269-3|s2cid=242711319|quote=Within identity theory, an identity is a set of meanings defining who one is in a role (e.g., father, plumber, student), in a group or social category (e.g., member of a church or voluntary association, an American, a female), or a unique individual (e.g., a highly moral person, an assertive person, an outgoing person)}}&lt;/ref&gt; According to Peter Burke, "Identities tell us who we are and they announce to others who we are."&lt;ref name=":0" /&gt; Identities subsequently guide behavior, leading "fathers" to behave like "fathers" and "nurses" to act like "nurses".&lt;ref name=":0" /&gt;
+
+In [[psychology]], the term "identity" is most commonly used to describe [[personal identity]], or the distinctive qualities or traits that make an individual unique.&lt;ref&gt;{{Citation|last=Cheek|first=Jonathan M.|title=Identity Orientations and Self-Interpretation|date=1989|url=https://doi.org/10.1007/978-1-4684-0634-4_21|work=Personality Psychology: Recent Trends and Emerging Directions|pages=275–285|editor-last=Buss|editor-first=David M.|place=New York, NY|publisher=Springer US|language=en|doi=10.1007/978-1-4684-0634-4_21|isbn=978-1-4684-0634-4|access-date=2022-02-22|editor2-last=Cantor|editor2-first=Nancy}}. "Identity is the construct that defines who or what a particular person is."&lt;/ref&gt;&lt;ref&gt;{{Cite web|author-link=American Psychological Association|title=Identity|url=https://dictionary.apa.org/identity|access-date=2022-02-22|website=dictionary.apa.org|language=en}}&lt;/ref&gt; Identities are strongly associated with [[self-concept]], [[self-image]] (one's [[mental model]] of oneself), [[self-esteem]], and [[individuality]].&lt;ref&gt;{{cite book
+ | last1 = Weinreich
+ | first1 = Peter
+ | year = 1986
+ | chapter = 14: The operationalisation of identity theory in racial and ethnic relations
+ | editor1-last = Rex
+ | editor1-first = John
+ | editor1-link = John Rex
+ | editor2-last = Mason
+ | editor2-first = David
+ | title = Theories of Race and Ethnic Relations
+ | url = https://books.google.com/books?id=MMTGKddZKdAC
+ | series = Comparative Ethnic and Race Relations
+ | location = Cambridge
+ | publisher = Cambridge University Press
+ | publication-date = 1988
+ | pages = 299ff
+ | isbn = 9780521369398
+ | access-date = 2018-08-30
+}}&lt;/ref&gt;{{page needed|date=August 2018}}&lt;ref&gt;{{harvnb|Leary|Tangney|2003|p=3}}&lt;/ref&gt; Individuals' identities are situated, but also contextual, situationally adaptive and changing. Despite their fluid character, identities often feel as if they are stable ubiquitous categories defining an individual, because of their grounding in the sense of personal identity (the sense of being a continuous and persistent self).&lt;ref name="Kurzwelly2019"&gt;{{cite journal | last1 = Kurzwelly | first1 = J | year = 2019 | title = Being German, Paraguayan and Germanino: Exploring the Relation Between Social and Personal Identity | journal = Identity | volume = 19 | issue = 2| pages = 144–156 | doi=10.1080/15283488.2019.1604348 | s2cid = 155119912 }}&lt;/ref&gt;
+
+== Usage ==
+[[Mark Mazower]] noted in 1998: "At some point in the 1970s this term ["identity"] was borrowed from [[social psychology]] and applied with abandon to [[society|societies]], [[nation]]s and groups."&lt;ref&gt;
+{{cite book
+ |last1                = Mazower
+ |first1               = Mark
+ |author-link1         = Mark Mazower
+ |year                 = 1998
+ |title                = Dark Continent: Europe's twentieth century
+ |publication-place    = New York
+ |chapter              = The Social Contract in Crisis
+ |publisher            = Vintage Books
+ |isbn                 = 978-0-307-55550-2
+}} 
+&lt;/ref&gt;
+
+==In psychology==
+[[Erik Erikson]] (1902–94) became one of the earliest [[psychologist]]s to take an explicit interest in identity. An essential feature of Erikson's [[Erikson's stages of psychosocial development|theory of psychosocial development]] was the idea of the [[Id, ego and super-ego#Ego|ego]] identity (often referred to as the ''self''), which is described as an individual's personal sense of continuity.&lt;ref&gt;{{Cite web |title=APA Dictionary of Psychology |url=https://dictionary.apa.org/ |access-date=2022-03-14 |website=dictionary.apa.org |language=en}}&lt;/ref&gt; He suggested that people can attain this feeling throughout their lives as they develop and is meant to be an ongoing process.&lt;ref&gt;{{Cite book |last=Erikson |first=Erik H. |url=https://books.google.com/books?id=nGqc6JxV0aQC&amp;pg=PP2 |title=Identity: Youth and Crisis |date=1968 |publisher=W. W. Norton &amp; Company |isbn=978-0-393-31144-0 |language=en}}&lt;/ref&gt; The ego-identity consists of two main features: one's [[Idiosyncrasies|personal characteristics]] and development, and the culmination of social and [[Cultural identity|cultural]] factors and roles that impact one's identity. In Erikson's theory, he describes eight distinct stages across the lifespan that are each characterized by a conflict between the inner, personal world and the outer, social world of an individual. Erikson identified the conflict of identity as occurring primarily during adolescence and described potential outcomes that depend on how one deals with this conflict.&lt;ref&gt;{{Cite book |url=http://dx.doi.org/10.4324/9780203988800 |title=Analysing Identity |date=2005-12-08 |publisher=Routledge |doi=10.4324/9780203988800 |isbn=978-1-134-42522-8 |editor-last=Weinreich |editor-first=Peter |editor-last2=Saunderson |editor-first2=Wendy}}&lt;/ref&gt; Those who do not manage a resynthesis of childhood identifications are seen as being in a state of 'identity diffusion' whereas those who retain their given identities unquestioned have 'foreclosed' identities.&lt;ref&gt;{{harvnb|Weinreich|Saunderson|2003|pp=7–8}}&lt;/ref&gt; On some readings of Erikson, the development of a strong ego identity, along with the proper integration into a stable society and culture, lead to a stronger sense of identity in general. Accordingly, a deficiency in either of these factors may increase the chance of an [[identity crisis (psychology)|identity crisis]] or confusion.&lt;ref&gt;{{harvnb|Cote|Levine|2002|p=22}}&lt;/ref&gt;
+
+The "Neo-Eriksonian" ''identity status'' [[paradigm]] emerged in 1966, driven largely by the work of [[James Marcia]].&lt;ref&gt;{{Cite journal |last=Marcia |first=James E. |date=1966 |title=Development and validation of ego-identity status. |url=http://doi.apa.org/getdoi.cfm?doi=10.1037/h0023281 |journal=Journal of Personality and Social Psychology |language=en |volume=3 |issue=5 |pages=551–558 |doi=10.1037/h0023281 |pmid=5939604 |s2cid=29342469 |issn=1939-1315}}&lt;/ref&gt; This model focuses on the concepts of ''exploration'' and ''commitment''. The central idea is that an individual's sense of identity is determined in large part by the degrees to which a person has made certain explorations and the extent to which they have commitments to those explorations or a particular identity.&lt;ref&gt;{{Cite journal |last=Schwartz |first=Seth J. |date=2001-01-01 |title=The Evolution of Eriksonian and, Neo-Eriksonian Identity Theory and Research: A Review and Integration |url=https://doi.org/10.1207/S1532706XSCHWARTZ |journal=Identity |volume=1 |issue=1 |pages=7–58 |doi=10.1207/S1532706XSCHWARTZ |s2cid=44145970 |issn=1528-3488}}&lt;/ref&gt; A person may display either relative weakness or strength in terms of both exploration and commitments. When assigned categories, there were four possible results: identity diffusion, identity foreclosure, identity moratorium, and identity achievement. Diffusion is when a person avoids or refuses both exploration and making a commitment. Foreclosure occurs when a person does make a commitment to a particular identity but neglected to explore other options. Identity moratorium is when a person avoids or postpones making a commitment but is still actively exploring their options and different identities. Lastly, identity achievement is when a person has both explored many possibilities and has committed to their identity.&lt;ref&gt;{{Cite book |last1=Marcia |first1=James E. |url=https://books.google.com/books?id=jU-5BgAAQBAJ&amp;pg=PT13 |title=Ego Identity: A Handbook for Psychosocial Research |last2=Waterman |first2=Alan S. |last3=Matteson |first3=David R. |last4=Archer |first4=Sally L. |last5=Orlofsky |first5=Jacob L. |date=2012-12-06 |publisher=Springer Science &amp; Business Media |isbn=978-1-4613-8330-7 |language=en}}&lt;/ref&gt;
+
+Although the self is distinct from identity, the literature of [[self-psychology]] can offer some insight into how identity is maintained.&lt;ref&gt;{{harvnb|Cote|Levine|2002|p=24}}&lt;/ref&gt; From the vantage point of self-psychology, there are two areas of interest: the processes by which a self is formed (the "I"), and the actual content of the [[Self-schema|schemata]] which compose the [[self-concept]] (the "Me"). In the latter field, theorists have shown interest in relating the self-concept to [[self-esteem]], the differences between complex and simple ways of organizing [[Self-knowledge (psychology)|self-knowledge]], and the links between those organizing principles and the processing of information.&lt;ref name="Cote 2002"&gt;{{harvnb|Cote|Levine|2002}}&lt;/ref&gt;
+
+Weinreich's identity variant similarly includes the categories of identity diffusion, foreclosure and crisis, but with a somewhat different emphasis. Here, with respect to identity diffusion for example, an optimal level is interpreted as the norm, as it is unrealistic to expect an individual to resolve all their conflicted identifications with others; therefore we should be alert to individuals with levels which are much higher or lower than the norm – highly diffused individuals are classified as diffused, and those with low levels as foreclosed or defensive.&lt;ref&gt;{{harvnb|Weinreich|Saunderson|2003|pp=65–7, 105–6}}&lt;/ref&gt; Weinreich applies the identity variant in a framework which also allows for the transition from one to another by way of biographical experiences and resolution of conflicted identifications situated in various contexts – for example, an [[Adolescence|adolescent]] going through family break-up may be in one state, whereas later in a stable marriage with a secure professional role may be in another. Hence, though there is continuity, there is also development and change.&lt;ref&gt;{{harvnb|Weinreich|Saunderson|2003|pp=22–3}}&lt;/ref&gt;
+
+Laing's definition of identity closely follows Erikson's, in emphasising the past, present and future components of the experienced self. He also develops the concept of the "metaperspective of self", i.e. the self's perception of the other's view of self, which has been found to be extremely important in clinical contexts such as anorexia nervosa.&lt;ref&gt;{{Cite book |last1=Weinreich |first1=Peter |url=https://www.taylorfrancis.com/books/edit/10.4324/9780203988800/analysing-identity-peter-weinreich-wendy-saunderson |title=Analysing identity : cross-cultural, societal, and clinical contexts |last2=Saunderson |first2=Wendy |date=December 18, 2002 |publisher=Routledge, London |doi=10.4324/9780203988800 |isbn=9780203988800}}&lt;/ref&gt;{{Page needed|date=January 2024}} Harré also conceptualises components of self/identity – the "person" (the unique being I am to myself and others) along with aspects of self (including a totality of attributes including beliefs about one's characteristics including life history), and the personal characteristics displayed to others.
+
+==In social psychology==
+At a general level, [[self-psychology]] explores the question of how the personal self relates to the social environment. Theories in [[Social psychology (psychology)|"psychological" social psychology]] explain an individual's actions in a group in terms of mental events and states. However, some [[Social psychology (sociology)|"sociological" social psychology]] theories go further by dealing with the issue of identity at the level of both individual [[cognition]] and collective behavior.&lt;ref&gt;{{Cite encyclopedia|title=Cultural identity|encyclopedia=The Encyclopedia of Cross-Cultural Psychology |last=Chakkarath|first=Pradeep |date=17 October 2013 |publisher=John Wiley &amp; Sons, Inc. |location=Hoboken, NJ, USA |editor-last=Keith|editor-first=Kenneth D.&lt;!--Head editor--&gt; |editor2-last=Beins|editor2-first=Bernard C.&lt;!--Member of editorial board--&gt; |editor3-last=Giordano|editor3-first=Peter J.&lt;!--Member of editorial board--&gt; |editor4-last=Gurung|editor4-first=Regan A. R.&lt;!--Member of editorial board--&gt; |editor5-last=Miller|editor5-first=Richard L.&lt;!--Member of editorial board--&gt; |editor6-last=Shalock|editor6-first=Robert L.&lt;!--Member of editorial board--&gt; |editor7-last=Junko|editor7-first=Tanaka-Matsumi&lt;!--Member of editorial board--&gt; |display-editors=1 |pages=306–308 |doi=10.1002/9781118339893.wbeccp128|isbn=9781118339893 }}&lt;/ref&gt;
+
+===Collective identity===
+{{main|Collective identity}}
+Many people gain a sense of positive self-esteem from their identity groups, which furthers a sense of [[community]] and belonging. Another issue that researchers have attempted to address is the question of why people engage in [[discrimination]], i.e., why they tend to favour those they consider a part of their "in-group" over those considered to be outsiders. Both questions have been given extensive attention by researchers working in the [[social identity approach|social identity tradition]]. For example, in work relating to [[social identity theory]], it has been shown that merely crafting cognitive distinction between in- and out-groups can lead to subtle effects on people's evaluations of others.&lt;ref name="Cote 2002"/&gt;&lt;ref name="twente"&gt;{{Cite web| title = Social Identity Theory  | publisher = Universiteit Twente | url = http://www.utwente.nl/cw/theorieenoverzicht/Theory%20Clusters/Interpersonal%20Communication%20and%20Relations/Social_Identity_Theory.doc/ | access-date = 2008-05-24}}&lt;/ref&gt;
+
+Different social situations also compel people to attach themselves to different self-identities which may cause some to feel marginalized, switch between different groups and self-identifications,&lt;ref&gt;{{cite book | editor1-last=Benet-Martínez | editor1-first=Verónica | editor2-last=Hong | editor2-first=Ying-Yi | title=The Oxford handbook of multicultural identity | publisher=Oxford University Press | publication-place=Oxford New York | year=2014 | isbn=978-0-19-979669-4 | oclc=871965715}}&lt;/ref&gt; or reinterpret certain identity components.&lt;ref&gt;{{cite journal | last=Kislev | first=Elyakim | title=Components of intercultural identity: towards an effective integration policy | journal=Intercultural Education | publisher=Informa UK Limited | volume=23 | issue=3 | year=2012 | issn=1467-5986 | doi=10.1080/14675986.2012.699373 | pages=221–235 | s2cid=145487769 | url=https://www.researchgate.net/publication/254251548}}&lt;/ref&gt; These different selves lead to constructed images dichotomized between what people want to be (the ideal self) and how others see them (the limited self). Educational background and occupational status and roles significantly influence identity formation in this regard.&lt;ref&gt;{{cite journal | last=Hurd | first=Ellis | title=Confessions of Belonging: My Emotional Journey as Medical Translator | journal=Qualitative Inquiry | publisher=SAGE Publications | volume=16 | issue=10 | date=1 October 2010 | issn=1077-8004 | doi=10.1177/1077800410383117 | pages=783–791| s2cid=145755071 }}&lt;/ref&gt;
+
+===Identity formation strategies===
+Another issue of interest in social psychology is related to the notion that there are certain ''identity formation strategies'' which a person may use to adapt to the social world.&lt;ref name="Cote 2002 3–5"&gt;{{harvnb|Cote|Levine|2002|pp=3–5}}&lt;/ref&gt; Cote and Levine developed a [[Personality type|typology]] which investigated the different manners of behavior that individuals may have.&lt;ref name="Cote 2002 3–5"/&gt; Their typology includes:
+{| class="wikitable"
+|+Cote and Levine's identity formation strategy typology
+!Type
+!Psychological signs
+!Personality signs
+!Social signs
+|-
+|Refuser
+|Develops cognitive blocks that prevent adoption of adult role-schemas
+|Engages in childlike behavior
+|Shows extensive dependency upon others and no meaningful engagement with the community of adults
+|-
+|Drifter
+|Possesses greater psychological resources than the Refuser (i.e., intelligence, charisma)
+|Is apathetic toward application of psychological resources
+|Has no meaningful engagement with or commitment to adult communities
+|-
+|Searcher
+|Has a sense of dissatisfaction due to high personal and social expectations
+|Shows disdain for imperfections within the community
+|Interacts to some degree with role-models, but ultimately these relationships are abandoned
+|-
+|Guardian
+|Possesses clear personal values and attitudes, but also a deep fear of change
+|Sense of personal identity is almost exhausted by sense of social identity
+|Has an extremely rigid sense of social identity and strong identification with adult communities
+|-
+|Resolver
+|Consciously desires self-growth
+|Accepts personal skills and competencies and uses them actively
+|Is responsive to communities that provide opportunity for self-growth
+|}
+[[Kenneth Gergen]] formulated additional classifications, which include the ''strategic manipulator'', the ''pastiche personality'', and the ''relational self''. The strategic manipulator is a person who begins to regard all senses of identity merely as role-playing exercises, and who gradually becomes alienated from their social self. The pastiche personality abandons all aspirations toward a true or "essential" identity, instead viewing social interactions as opportunities to play out, and hence become, the roles they play. Finally, the relational self is a perspective by which persons abandon all sense of exclusive self, and view all sense of identity in terms of social engagement with others. For Gergen, these strategies follow one another in phases, and they are linked to the increase in popularity of [[postmodern]] culture and the rise of telecommunications technology.
+
+==In social anthropology==
+{{see also|Australian Aboriginal identity}}
+[[Anthropologist]]s have most frequently employed the term ''identity'' to refer to this idea of selfhood in a loosely [[Erik Erikson|Eriksonian way]]&lt;ref&gt;Erikson 1972{{full citation needed|date=January 2022}}&lt;!-- I narrowed it down to:
+*Erikson E.H. Childhood and society. Repr. ed. Harmondsworth, Middlesex: Penguin Books; 1972.
+*Erikson, E. H. (1972). Autobiographic notes on the identity crisis. In G. Hotton, G. (ed.), The Twentieth Century Sciences Study in the Biography of Ideas. Norton, New York.
+--&gt;&lt;/ref&gt;{{Better source needed|date=January 2022|reason=A source by Erikson demonstrates what "Eriksonian" is, but it's not a [[WP:RS|secondary source that supports the claim]] that anthropologists use the term in this way.}} properties based on the uniqueness and individuality which makes a person distinct from others. Identity became of more interest to anthropologists with the emergence of modern concerns with [[ethnicity]] and [[social movements]] in the 1970s. This was reinforced by an appreciation, following the trend in sociological thought, of the manner in which the individual is affected by and contributes to the overall [[social context]]. At the same time, the Eriksonian approach to identity remained in force, with the result that identity has continued until recently to be used in a largely socio-historical way to refer to qualities of sameness in relation to a person's connection to others and to a particular group of people.
+
+The first favours a primordialist approach which takes the sense of self and [[social group|belonging]] to a collective group as a fixed thing, defined by objective criteria such as common [[ancestry]] and common [[biometrics|biological characteristics]]. The second, rooted in [[social constructionist]] theory, takes the view that identity is formed by a predominantly political choice of certain characteristics. In so doing, it questions the idea that identity is a natural given, characterised by fixed, supposedly objective criteria. Both approaches need to be understood in their respective political and historical contexts, characterised by debate on issues of class, race and [[ethnicity]]. While they have been criticized, they continue to exert an influence on approaches to the conceptualisation of identity today.
+
+These different explorations of 'identity' demonstrate how difficult a concept it is to pin down. Since identity is a virtual thing, it is impossible to define it empirically. Discussions of identity use the term with different meanings, from fundamental and abiding sameness, to fluidity, contingency, negotiated and so on. Brubaker and Cooper note a tendency in many scholars to confuse identity as a category of practice and as a category of analysis.&lt;ref&gt;{{harvnb|Brubaker|Cooper|2000|p=5}}&lt;/ref&gt; Indeed, many scholars demonstrate a tendency to follow their own preconceptions of identity, following more or less the frameworks listed above, rather than taking into account the mechanisms by which the concept is crystallised as reality. In this environment, some analysts, such as Brubaker and Cooper, have suggested doing away with the concept completely.&lt;ref&gt;{{harvnb|Brubaker|Cooper|2000|p=1}}&lt;/ref&gt; Others, by contrast, have sought to introduce alternative concepts in an attempt to capture the dynamic and fluid qualities of human social self-expression. [[Stuart Hall (cultural theorist)|Stuart Hall]] for example, suggests treating identity as a process, to take into account the reality of diverse and ever-changing social experience.&lt;ref&gt;Hall, S. (1992). The Question of Cultural Identity. In: S. Hall, D. Held and T. McGrew (Eds.), Modernity and Its Futures. Milton Keynes. Cambridge: Open University Press.&lt;/ref&gt;&lt;ref&gt;{{cite book | last1=Hall | first1=S. | last2=du Gay | first2=P. | title=Questions of Cultural Identity: SAGE Publications | publisher=SAGE Publications | year=1996 | isbn=978-1-4462-2920-0 | url=https://books.google.com/books?id=a5M7CgAAQBAJ | access-date=2022-01-08 | page=}}&lt;/ref&gt; Some scholars{{who|date=January 2022}} have introduced the idea of identification, whereby identity is perceived as made up of different components that are 'identified' and interpreted by individuals. The construction of an individual sense of self is achieved by personal choices regarding who and what to associate with. Such approaches are liberating in their recognition of the role of the individual in social interaction and the construction of identity.
+
+Anthropologists have contributed to the debate by shifting the focus of research: One of the first challenges for the researcher wishing to carry out empirical research in this area is to identify an appropriate analytical tool. The concept of boundaries is useful here for demonstrating how identity works. In the same way as Barth, in his approach to ethnicity, advocated the critical focus for investigation as being "the ethnic boundary that defines the group rather than the cultural stuff that it encloses",&lt;ref&gt;{{harvnb|Barth|1969|p=15}}&lt;/ref&gt; social anthropologists such as Cohen and Bray have shifted the focus of analytical study from identity to the boundaries that are used for purposes of identification. If identity is a kind of virtual site in which the dynamic processes and markers used for identification are made apparent, boundaries provide the framework on which this virtual site is built. They concentrated on how the idea of community belonging is differently constructed by individual members and how individuals within the group conceive ethnic boundaries.
+
+As a non-directive and flexible analytical tool, the concept of boundaries helps both to map and to define the changeability and mutability that are characteristic of people's experiences of the self in society. While identity is a volatile, flexible and abstract 'thing', its manifestations and the ways in which it is exercised are often open to view. Identity is made evident through the use of markers such as [[language]], dress, [[behaviour]] and choice of space, whose effect depends on their recognition by other social beings. Markers help to create the boundaries that define similarities or differences between the marker wearer and the marker perceivers, their effectiveness depends on a shared understanding of their meaning. In a social context, misunderstandings can arise due to a misinterpretation of the significance of specific markers. Equally, an individual can use markers of identity to exert influence on other people without necessarily fulfilling all the criteria that an external observer might typically associate with such an abstract identity.
+
+Boundaries can be inclusive or exclusive depending on how they are perceived by other people. An exclusive boundary arises, for example, when a person adopts a marker that imposes restrictions on the behaviour of others. An inclusive boundary is created, by contrast, by the use of a marker with which other people are ready and able to associate. At the same time, however, an inclusive boundary will also impose restrictions on the people it has included by limiting their inclusion within other boundaries. An example of this is the use of a particular language by a newcomer in a room full of people speaking various languages. Some people may understand the language used by this person while others may not. Those who do not understand it might take the newcomer's use of this particular language merely as a neutral sign of identity. But they might also perceive it as imposing an exclusive boundary that is meant to mark them off from the person. On the other hand, those who do understand the newcomer's language could take it as an inclusive boundary, through which the newcomer associates themself with them to the exclusion of the other people present. Equally, however, it is possible that people who do understand the newcomer but who also speak another language may not want to speak the newcomer's language and so see their marker as an imposition and a negative boundary. It is possible that the newcomer is either aware or unaware of this, depending on whether they themself knows other languages or is conscious of the plurilingual quality of the people there and is respectful of it or not.
+
+== In religion ==
+{{Main|Religious identity}}A [[religious identity]] is the set of beliefs and practices generally held by an individual, involving adherence to codified beliefs and rituals and study of ancestral or cultural traditions, writings, history, mythology, and faith and mystical experience. Religious identity refers to the personal practices related to communal faith along with rituals and communication stemming from such conviction. This identity formation begins with an association in the parents' religious contacts, and individuation requires that the person chooses the same or different religious identity than that of their parents.&lt;ref&gt;{{Cite journal |last=Wang |first=Timothy |date=2012-01-01 |title=Religious Identity Formation Among Adolescents: The Role of Religious Secondary Schools |url=https://digitalcommons.georgefox.edu/icctej/vol7/iss2/5 |journal=International Christian Community of Teacher Educators Journal |volume=7 |issue=2 |issn=1932-7846}}&lt;/ref&gt;&lt;ref&gt;{{Citation |last1=Etengoff |first1=Chana |title=Religious Identity |date=2020 |url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119171492.wecad458 |encyclopedia=The Encyclopedia of Child and Adolescent Development |pages=1–10 |publisher=American Cancer Society |language=en |doi=10.1002/9781119171492.wecad458 |isbn=978-1-119-17149-2 |access-date=2020-12-12 |last2=Rodriguez |first2=Eric M. |s2cid=241798200}}&lt;/ref&gt;
+
+The [[Parable of the Lost Sheep]] is one of the parables of Jesus. it is about a shepherd who leaves his flock of ninety-nine sheep in order to find the one which is lost. The parable of the lost sheep is an example of the rediscovery of identity. Its aim is to lay bare the nature of the divine response to the recovery of the lost, with the lost sheep representing a lost human being.&lt;ref&gt;{{Cite book |last=Green |first=Joel B. |url=https://www.worldcat.org/oclc/36915764 |title=The Gospel of Luke |date=1997 |publisher=W.B. Eerdmans Pub. Co |isbn=0-8028-2315-7 |location=Grand Rapids, Mich. |oclc=36915764}}&lt;/ref&gt;&lt;ref&gt;{{Citation |title=The Q Parables of Jesus: "Sapiential" Parables |url=http://dx.doi.org/10.5040/9780567678744.ch-007 |work=The Parables in Q |year=2018 |publisher=T&amp;T Clark |doi=10.5040/9780567678744.ch-007 |isbn=978-0-5676-7872-0 |access-date=2022-11-18}}&lt;/ref&gt;&lt;ref&gt;{{Cite book |author=Jeremias, Joachim |url=http://worldcat.org/oclc/647256948 |title=The parables of Jesus |date=1963 |publisher=C. Scribner's Sons |oclc=647256948}}&lt;/ref&gt;
+
+[[Christian meditation]] is a specific form of personality formation, though often used only by certain practitioners to describe various forms of prayer and the process of knowing the [[Christian contemplation|contemplation]] of God.&lt;ref&gt;''An Introduction to Christian Spirituality'' by F. Antonisamy, 2000 {{ISBN|81-7109-429-5}} pages 76–77&lt;/ref&gt;&lt;ref&gt;''Christian Meditation for Beginners'' by Thomas Zanzig, Marilyn Kielbasa 2000, {{ISBN|0-88489-361-8}} page 7&lt;/ref&gt;
+
+In [[Western culture]], personal and secular identity are deeply influenced by the formation of [[Christianity]],&lt;ref name="PerryChase2012"&gt;{{cite book |author=Marvin Perry |author2=Myrna Chase |author3=James Jacob |author4=Margaret Jacob |author5=Theodore H. Von Laue |url=https://books.google.com/books?id=N6jytVCocwMC |title=Western Civilization: Since 1400 |date=1 January 2012 |publisher=Cengage Learning |isbn=978-1-111-83169-1 |page=XXIX}}&lt;/ref&gt;&lt;ref&gt;{{cite book |last=Russo |first=Lucio |title=The Forgotten Revolution: How Science Was Born in 300 BC and Why It Had To Be Reborn |publisher=Springer |year=2004 |isbn=3-540-20396-6 |location=Berlin |author-link=Lucio Russo}}&lt;/ref&gt;&lt;ref name="eb2"&gt;{{cite encyclopedia |title=Hellenistic Age |encyclopedia=[[Encyclopædia Britannica Online]] |publisher=[[Encyclopædia Britannica, Inc.]] |url=http://www.britannica.com/EBchecked/topic/260307/Hellenistic-Age |access-date=8 September 2012}}&lt;/ref&gt;&lt;ref name="ReferenceC2"&gt;{{cite book |last=Green |first=P |title=Alexander The Great and the Hellenistic Age |year=2008 |isbn=978-0-7538-2413-9 |page=xiii|publisher=Phoenix }}&lt;/ref&gt;&lt;ref name="Daly20132"&gt;{{cite book |author=Jonathan Daly |url=https://books.google.com/books?id=9aZPAQAAQBAJ |title=The Rise of Western Power: A Comparative History of Western Civilization |date=19 December 2013 |publisher=A&amp;C Black |isbn=978-1-4411-1851-6 |pages=7–9}}&lt;/ref&gt; throughout history, various Western thinkers who contributed to the development of European identity were influenced by classical cultures and incorporated elements of [[Culture of Greece|Greek culture]] as well as [[Jewish culture]], leading to some movements such as [[Philhellenism]] and [[Philosemitism]].&lt;ref name="How The Catholic Church Built Western Civilization"&gt;[[Thomas E. Woods]] and Antonio Canizares, 2012, "How the Catholic Church Built Western Civilization," Reprint edn., Washington, D.C.: Regnery History, {{ISBN|1596983280}}, see [https://books.google.com/books?id=jYvmAgAAQBAJ, accessed 8 December 2014. p. 1: "Western civilization owes far more to Catholic Church than most people—Catholic included—often realize. The Church in fact built Western civilization."]{{Dead link|date=August 2023 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref name="Perry2012"&gt;{{cite book |author=Marvin Perry |url=https://books.google.com/books?id=U2pnv0Aoh2EC&amp;pg=PA33 |title=Western Civilization: A Brief History, Volume I: To 1789 |date=1 January 2012 |publisher=Cengage Learning |isbn=978-1-111-83720-4 |pages=33–}}&lt;/ref&gt;&lt;ref&gt;{{Cite book |author=Marvin Perry |title=Western Civilization: Ideas, Politics, and Society, Volume I: To 1789 |author2=Myrna Chase |author3=James Jacob |author4=Margaret Jacob |author5=Jonathan W Daly |publisher=Cengage Learning |year=2015 |isbn=978-1-305-44548-2 |pages=105}}&lt;/ref&gt;&lt;ref&gt;{{Cite book |last=Hengel |first=Martin |title=Judaism and Hellenism : studies in their encounter in Palestine during the early Hellenistic period |date=2003 |publisher=Wipf &amp; Stock Publishers |isbn=978-1-59244-186-0 |location=Eugene, OR |oclc=52605048}}&lt;/ref&gt;&lt;ref&gt;{{Cite book |last=Porter |first=Stanley E. |title=Early Christianity in its Hellenistic context. Volume 2, Christian origins and Hellenistic Judaism : social and literary contexts for the New Testament |date=2013 |publisher=Brill |isbn=978-9004234765 |location=Leiden |oclc=851653645}}&lt;/ref&gt;
+
+==Implications==
+
+Due to the multiple functions of identity which include self regulation, self-concept, personal control, meaning and direction, its implications are woven into many aspects of life.&lt;ref&gt;{{Cite journal |last1=ADAMS |first1=GERALD R. |last2=MARSHALL |first2=SHEILA K. |date=October 1996 |title=A developmental social psychology of identity: understanding the person-in-context |url=http://dx.doi.org/10.1006/jado.1996.0041 |journal=Journal of Adolescence |volume=19 |issue=5 |pages=429–442 |doi=10.1006/jado.1996.0041 |pmid=9245296 |issn=0140-1971}}&lt;/ref&gt;
+
+===Identity changes===
+
+==== Contexts Influencing Identity Changes ====
+Identity transformations can occur in various contexts, some of which include:
+
+# [[Career]] Change: When individuals undergo significant shifts in their career paths or occupational identities, they face the challenge of redefining themselves within a new professional context.&lt;ref&gt;{{Cite web |title=Making a Radical Career Change {{!}} Psychology Today |url=https://www.psychologytoday.com/us/blog/how-do-life/201806/making-radical-career-change |access-date=2022-11-18 |website=www.psychologytoday.com |language=en-US}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Ibarra|2003}}&lt;/ref&gt;
+# [[Gender identity|Gender Identity]] Transition: Individuals experiencing gender dysphoria may embark on a journey to align their lives with their true gender identity. This process involves profound personal and social changes to establish an authentic sense of self.&lt;ref&gt;{{Cite web |title=Transition meaning {{!}} transgender identity |url=https://www.identiversity.org/topics/transgender-people/different-ways-to-transition |access-date=2022-11-18 |website=Identiversity |language=en}}&lt;/ref&gt;
+# National [[Immigration]]: Relocating to a new country necessitates adaptation to unfamiliar societal norms, leading to adjustments in cultural, social, and occupational identities.&lt;ref&gt;{{Cite journal |last1=Phinney |first1=Jean S. |last2=Horenczyk |first2=Gabriel |last3=Liebkind |first3=Karmela |last4=Vedder |first4=Paul |date=September 2001 |title=Ethnic Identity, Immigration, and Well-Being: An Interactional Perspective |url=http://dx.doi.org/10.1111/0022-4537.00225 |journal=Journal of Social Issues |volume=57 |issue=3 |pages=493–510 |doi=10.1111/0022-4537.00225 |issn=0022-4537 |hdl-access=free |hdl=1887/16666}}&lt;/ref&gt;
+# Identity Change due to [[Climate migrant|Climate Migration:]] In the face of environmental challenges and forced displacement, individuals may experience shifts in their identity as they adapt to new geographical locations and cultural contexts.&lt;ref&gt;{{Cite journal |last1=Farbotko |first1=Carol |last2=Stratford |first2=Elaine |author-link2=Elaine Stratford |last3=Lazrus |first3=Heather |date=2016-05-18 |title=Climate migrants and new identities? The geopolitics of embracing or rejecting mobility |url=http://www.tandfonline.com/doi/full/10.1080/14649365.2015.1089589 |journal=Social &amp; Cultural Geography |language=en |volume=17 |issue=4 |pages=533–552 |doi=10.1080/14649365.2015.1089589 |issn=1464-9365 |s2cid=143117789}}&lt;/ref&gt;
+# [[Adoption: Cultural Variations|Adoption:]] Adoption entails exploring alternative familial features and reconciling with the experience of being adopted, which can significantly impact an individual's [[Self-concept|self-identity]].&lt;ref&gt;{{Cite journal |last=Grotevant |first=Harold D. |date=1997-09-01 |title=Coming to Terms with Adoption |url=https://doi.org/10.1300/J145v01n01_02 |journal=Adoption Quarterly |volume=1 |issue=1 |pages=3–27 |doi=10.1300/J145v01n01_02 |issn=1092-6755}}&lt;/ref&gt;
+# Illness Diagnosis: The diagnosis of an illness can provoke an identity shift, altering an individual's self-perception and influencing how they navigate life. Additionally, illnesses may result in changes in abilities, which can affect occupational identity and require adaptations.&lt;ref&gt;{{Cite web |title=Life After Diagnosis: How Illness Changed My Identity |url=https://www.caringbridge.org/resources/how-illness-changed-my-identity/ |access-date=2022-11-18 |website=CaringBridge |language=en-US}}&lt;/ref&gt;
+
+==== Immigration and identity ====
+[[Immigration]] and [[acculturation]] often lead to shifts in social identity. The extent of this change depends on the disparities between the individual's heritage culture and the culture of the host country, as well as the level of adoption of the new culture versus the retention of the heritage culture. However, the effects of immigration and acculturation on identity can be moderated if the person possesses a strong [[personal identity]]. This established personal identity can serve as an "anchor" and play a "protective role" during the process of social and cultural identity transformations that occur.&lt;ref name=":22"/&gt;
+
+==== Occupational identity ====
+Identity is an ongoing and dynamic process that impacts an individual's ability to navigate life's challenges and cultivate a fulfilling existence.&lt;ref name=":03"/&gt;&lt;ref name=":13"/&gt; Within this process, occupation emerges as a significant factor that allows individuals to express and maintain their identity. Occupation encompasses not only careers or jobs but also activities such as travel, volunteering, sports, or caregiving. However, when individuals face limitations in their ability to participate or engage in meaningful activities, such as due to illness, it poses a threat to the active process and continued development of identity. Feeling socially unproductive can have detrimental effects on one's [[Social identity theory|social identity]]. Importantly, the relationship between occupation and identity is bidirectional; occupation contributes to the formation of identity, while identity shapes decisions regarding occupational choices. Furthermore, individuals inherently seek a sense of control over their chosen occupation and strive to avoid stigmatizing labels that may undermine their occupational identity.&lt;ref name=":03" /&gt;
+
+===== Navigating stigma and occupational identity =====
+In the realm of occupational identity, individuals make choices regarding employment based on the stigma associated with certain jobs. Likewise, those already working in stigmatized occupations may employ personal rationalization to justify their career path. Factors such as workplace satisfaction and overall quality of life play significant roles in these decisions. Individuals in such jobs face the challenge of forging an identity that aligns with their values and beliefs. Crafting a positive self-concept becomes more arduous when societal standards label their work as "dirty" or undesirable.&lt;ref&gt;Hughes, E (1951) Work and the self. In: Rohrer, J, Sherif, M (eds) Social Psychology at the Crossroads. New York: Harper &amp; Brothers, pp. 313–323.&lt;/ref&gt;&lt;ref&gt;{{harvnb|Tracy|Tretheway|2005|p=169}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Tracy|Tretheway|2005}}&lt;/ref&gt; Consequently, some individuals opt not to define themselves solely by their occupation but strive for a holistic identity that encompasses all aspects of their lives, beyond their job or work. On the other hand, individuals whose identity strongly hinges on their occupation may experience a crisis if they become unable to perform their chosen work. Therefore, occupational identity necessitates an active and adaptable process that ensures both [[adaptation]] and continuity amid shifting circumstances.&lt;ref name=":13"/&gt;
+
+== Factors shaping the concept of identity ==
+The modern notion of personal identity as a distinct and unique characteristic of individuals has evolved relatively recently in history beginning with the first passports in the early 1900s and later becoming more popular as a social science term in the 1950s.&lt;ref&gt;{{Cite journal |last=Gleason |first=Philip |date=March 1983 |title=Identifying Identity: A Semantic History |url=http://dx.doi.org/10.2307/1901196 |journal=The Journal of American History |volume=69 |issue=4 |pages=910–931 |doi=10.2307/1901196 |jstor=1901196 |issn=0021-8723}}&lt;/ref&gt; Several factors have influenced its evolution, including:
+
+# [[Protestantism|Protestant]] Influence: In Western societies, the [[Protestantism|Protestant]] tradition has underscored individuals' responsibility for their own soul or spiritual well-being, contributing to a heightened focus on personal identity.
+# Development of [[Psychology]]: The emergence of psychology as a separate field of knowledge and study starting in the 19th century has played a significant role in shaping our understanding of identity.
+# Rise of Privacy: The Renaissance era witnessed a growing sense of privacy, leading to increased attention and importance placed on individual identities. 
+# Specialization in Work: The industrial period brought about a shift from undifferentiated roles in [[Feudalism|feudal]] systems to specialized worker roles. This change impacted how individuals identified themselves in relation to their occupations.
+# Occupation and Identity: The concept of occupation as a crucial aspect of identity was introduced by Christiansen in 1999, highlighting the influence of employment and work roles on an individual's sense of self.&lt;ref&gt;{{Cite journal |last=Christiansen |first=Charles H. |date=1999-11-01 |title=Defining Lives: Occupation as Identity: An Essay on Competence, Coherence, and the Creation of Meaning |url=https://research.aota.org/ajot/article/53/6/547/6721/Defining-Lives-Occupation-as-Identity-An-Essay-on |journal=The American Journal of Occupational Therapy |language=en |volume=53 |issue=6 |pages=547–558 |doi=10.5014/ajot.53.6.547 |pmid=10578432 |issn=0272-9490}}&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cite journal |last=Jakobsen |first=Klara |date=2001 |title=Employment and the Reconstruction of Self. A Model of Space for Maintenance of Identity by Occupation |url=http://www.tandfonline.com/doi/full/10.1080/11038120120825 |journal=Scandinavian Journal of Occupational Therapy |language=en |volume=8 |issue=1 |pages=40–48 |doi=10.1080/11038120120825 |issn=1103-8128 |s2cid=145460473}}&lt;/ref&gt;
+# Focus on [[Gender identity|Gender Identity:]] There has been an increased emphasis on gender identity, including issues related to [[gender dysphoria]] and [[transgender]] experiences. These discussions have contributed to a broader understanding of diverse identities.&lt;ref name=":2"&gt;{{Cite web |title=Sexual Orientation and Gender Identity Definitions |url=https://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions |access-date=2023-05-18 |website=Human Rights Campaign |language=en-US}}&lt;/ref&gt;&lt;ref name=":4"&gt;{{Cite web |title=Understanding transgender people, gender identity and gender expression |url=https://www.apa.org/topics/lgbtq/transgender-people-gender-identity-gender-expression |access-date=2023-05-18 |website=www.apa.org}}&lt;/ref&gt;
+# Relevance of Identity in [[Personality pathology|Personality Pathology]]: Understanding and assessing personality pathology has highlighted the significance of identity problems in comprehending individuals' psychological well-being.&lt;ref&gt;{{Cite journal |last1=Bogaerts |first1=Annabel |last2=Luyckx |first2=Koen |last3=Bastiaens |first3=Tim |last4=Kaufman |first4=Erin A. |last5=Claes |first5=Laurence |date=March 2021 |title=Identity Impairment as a Central Dimension in Personality Pathology |url=https://link.springer.com/10.1007/s10862-020-09804-9 |journal=Journal of Psychopathology and Behavioral Assessment |language=en |volume=43 |issue=1 |pages=33–42 |doi=10.1007/s10862-020-09804-9 |s2cid=254655511 |issn=0882-2689}}&lt;/ref&gt;&lt;ref&gt;{{Cite book |last1=Feinberg |first1=Todd E. |url=https://academic.oup.com/book/9365 |title=The Lost Self |last2=Keenan |first2=Julian Paul |date=2005-08-18 |publisher=Oxford University Press |isbn=978-0-19-517341-3 |doi=10.1093/acprof:oso/9780195173413.001.0001}}&lt;/ref&gt;
+
+==See also==
+{{Div col|content=
+* [[Cultural identity]]
+* [[Culture]]
+* [[Gender self-identification]]
+* [[Identity formation]]
+* [[Identity performance]]
+* [[Online identity]]
+* [[Passing (sociology)|Passing]]
+* [[Racial dysphoria]]
+* [[Role engulfment]]
+* [[Self-consciousness]]
+* [[Self-discovery]]
+* [[Social defeat]]
+* [[Social stigma]]
+}}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+{{refbegin|30em}}
+*{{Cite book
+ | last=Anderson | first=B
+ | year=1983
+ | title=Imagined Communities. Reflections on the Origin and Spread of Nationalism
+ | publisher=Verso
+ | location=London
+}}
+*{{Cite book
+ | editor1=Barnard, A. |editor2=Spencer, J.
+ | year=1996
+ | title=Encyclopedia of Social and Cultural Anthropology
+ | publisher=Routledge
+ | location=London
+}}
+*{{Cite book
+ | last=Barth | first=F.
+ | year=1969
+ | title=Ethnic Groups and Boundaries
+ | publisher=Bergen | location=Oslo
+}}
+*{{Cite book
+ | last=Bourdieu | first=Pierre
+ | author-link=Pierre Bourdieu
+ | year=1991
+ | title=Language and Symbolic Power
+ | publisher=Harvard University Press | location=Cambridge
+}}
+* Bray, Z. (2004). ''Living Boundaries: Frontiers and Identity in the Basque Country.'' Brussels: Presses interuniversitaires européenes, Peter Lang.
+*{{Cite book
+ | last=Brubaker | first=R.
+ | year=2002
+ | title=Ethnicity without Groups
+ | publisher=Harvard University Press | location=Cambridge
+}}
+* Brockmeier, J. &amp; Carbaugh, D. (2001). ''Narrative and Identity: Studies in Autobiography, Self and Culture.'' Amsterdam/Philadelphia: John Benjamins.
+*{{Cite journal
+ | last1=Brubaker | first1=R.
+ | last2=Cooper | first2=F.
+ | year=2000
+ | title=Beyond 'Identity'
+ | journal=Theory and Society
+ | volume=29 | pages=1–47
+ | doi=10.1023/A:1007068714468
+| url=https://deepblue.lib.umich.edu/bitstream/2027.42/43651/1/11186_2004_Article_243859.pdf| hdl=2027.42/43651
+ | s2cid=8365767
+ | hdl-access=free
+ }}
+* Calhoun, C.	(1994). "Social Theory and the Politics of Identity," in C. Calhoun (Ed.), ''Social Theory and Identity Politics.'' Oxford: Blackwell.
+* Camilleri, C.; Kastersztein, J. &amp; Lipiansky E.M. et al. (1990) ''Stratégies Identitaires.'' Paris: Presses Universitaires de France.
+* {{Cite book
+ | last=Carey| first=H. C.
+ | year=1877
+ | title=Principles of social science
+ | publisher=Philadelphia: J.B. Lippincott &amp; Co
+ | url=https://archive.org/details/principlessocia10caregoog
+}}
+* Carey, H. C. &amp; McLean, K. (1864). [https://books.google.com/books?id=oV1pZ8e_NQwC Manual of social science]; being a condensation of the "Principles of social science" of H.C. Carey, LL. D.. Philadelphia: H.C. Baird.
+* Cohen, A. (1974). ''Two-Dimensional: an essay on the anthropology of power and symbolism in complex society.'' London: Routledge
+* Cohen, A. (1998). "Boundaries and Boundary-Consciousness: Politicising Cultural Identity," in M. Anderson and E. Bort (Eds.), ''The Frontiers of Europe.'' London: Printer Press.
+* Cohen, A. (1994). ''Self Consciousness: An Alternative Anthropology of Identity.'' London: Routledge.
+* Hallam, E. M., et al. (1999). ''Beyond the Body: Death and Social Identity.'' London: Routledge. {{ISBN|0-415-18291-3}}.
+* {{Cite book
+ | last=Ibarra| first=Herminia
+ | year=2003
+ | title=Working identity: unconventional strategies for reinventing your career
+ | publisher=Harvard Business Press
+ | url=https://archive.org/details/workingidentity00herm
+ | url-access=registration| isbn=978-1-57851-778-7
+}}
+* {{Cite journal | year= 2015 | last1= James | first1= Paul | author-link1= Paul James (academic) | title= Despite the Terrors of Typologies: The Importance of Understanding Categories of Difference and Identity | url= https://www.academia.edu/11768378 | journal= Interventions: International Journal of Postcolonial Studies | volume=  17 | issue=  2 | pages= 174–195| doi= 10.1080/1369801X.2014.993332 | s2cid= 142378403 }}
+*Kurzwelly, J (2019). [https://www.academia.edu/40027419/Being_German_Paraguayan_and_Germanino_Exploring_the_Relation_Between_Social_and_Personal_Identity "Being German, Paraguayan and Germanino: Exploring the Relation Between Social and Personal Identity"]. Identity. 19 (2): 144–156. [[doi:10.1080/15283488.2019.1604348]].
+* {{Cite book
+ | last1=Leary | first1=M. R.
+ | last2=Tangney | first2=J. P.
+ | year=2003
+ | title=Handbook of self and identity
+ | publisher=New York:Guilford Press
+ | isbn=1-57230-798-6
+ | url=https://books.google.com/books?id=fa4_5xN9c5wC
+}}
+* Little, D. (1991). ''Varieties of social explanation: an introduction to the philosophy of social science.'' Boulder: Westview Press. {{ISBN|0-8133-0566-7}}.
+* Meyers, D. T. (2004). ''Being yourself: essays on identity, action, and social life. Feminist constructions.'' Lanham, Md: Rowman &amp; Littlefield Publishers. {{ISBN|0-7425-1478-1}}
+* Modood, T. &amp; Werbner P. (Eds.) (1997). ''The Politics of Multiculturalism in the New Europe: Racism, Identity and Community.'' London: Zed Books.
+* {{Cite book
+ | last1=Ricoeur | first1=Paul
+ | author-link=Paul Ricoeur
+ | last2=Blamey| first2=Kathleen
+ | year=1995
+ | title=Oneself as Another (Soi-même comme un autre), trans. Kathleen Blamey.
+ | publisher=Chicago: University of Chicago Press
+ | url=https://books.google.com/books?id=uCZSOYcB_CIC
+ | isbn=978-0-226-71329-8
+}}
+* {{Cite book
+ | last=Smith | first=A.D.
+ | year=1986
+ | title=The Ethnic Origin of Nations
+ | publisher=Oxford: Blackwell
+}}
+*{{Citation
+ | last1=Cote | first1=James E.
+ | last2=Levine| first2=Charles
+ | year=2002
+ | title=Identity Formation, Agency, and Culture
+ | publisher=Lawrence Erlbaum Associates
+ | location=New Jersey
+}}
+*{{Cite book
+ | last=Mead | first=George H.
+ | author-link=George Herbert Mead
+ | year=1934
+ | title=Mind, Self, and Society
+ | publisher=University of Chicago Press
+ | location=Chicago
+}}
+*{{Cite journal
+ | author=Stryker, Sheldon
+ | author-link=Sheldon Stryker
+ | year=1968
+ | title=Identity Salience and Role Performance
+ | journal=Journal of Marriage and the Family
+ | volume=30
+ | pages=558–64
+ | doi=10.2307/349494
+ | jstor=349494
+ | issue=4
+}}
+*{{Cite journal
+ |author1=Stryker, Sheldon  |author2=Burke, Peter J.
+ |date=December 2000
+ | title=The Past, Present, and Future of an Identity Theory
+ | journal=Social Psychology Quarterly
+ | volume=63 |issue=4
+ | pages=284–297
+ | doi=10.2307/2695840
+ | jstor=2695840
+|s2cid=5849744
+ }}
+* Hasan Bülent Paksoy (2006) [https://web.archive.org/web/20131021121511/http://www.eumed.net/entelequia/pdf/b002.pdf ''IDENTITIES: How Governed, Who Pays?''] Malaga: Entelequia. 2nd Ed.
+*{{cite web |title=Social Identity Theory |url=http://www.tcw.utwente.nl/theorieenoverzicht/Theory%20clusters/Interpersonal%20Communication%20and%20Relations/Social_Identity_Theory.doc/ |website=Universiteit Twente |archive-url=https://web.archive.org/web/20061231193527/http://www.tcw.utwente.nl/theorieenoverzicht/Theory%20clusters/Interpersonal%20Communication%20and%20Relations/Social_Identity_Theory.doc/ |archive-date=31 December 2006 |date=9 September 2004 |url-status=dead}}
+* Sökefeld, M. (1999). "Debating Self, Identity, and Culture in Anthropology." ''Current Anthropology'' '''40''' (4), August–October, 417–31.
+* Thompson, R.H. (1989). ''Theories of Ethnicity.'' New York: Greenwood Press.
+* {{Cite journal
+ | last1=Tracy | first1=S. J.
+ | last2=Tretheway | first2=A.
+ | year=2005
+ | title=Fracturing the Real-Self-Fake-Self Dichotomy: Moving Toward "Crystallized Organizational Discourses and Identities"
+ | journal=Communication Theory
+ | volume=15| issue=2
+ | pages=168–195
+ | doi=10.1111/j.1468-2885.2005.tb00331.x
+ | s2cid=9699291
+ }}
+* {{Cite journal
+ | last1=Tracy | first1=S. J.
+ | last2=Scott | first2=C.
+ | year=2006
+ | title=Sexuality, masculinity and taint management among firefighters and correctional officers: Getting down and dirty with ''America's heroes'' and the ''scum of law enforcement
+ | journal=Management Communication Quarterly
+ | volume=20 | issue=1
+ | pages=6–38
+ | doi=10.1177/0893318906287898
+| s2cid=143657813
+ }}
+* Vermeulen, H. &amp; Gowers, C. (Eds.) (1994). ''The Anthropology of Ethnicity: 'Beyond Ethnic Groups and Boundaries'.'' Amsterdam: Het Spinhuis.
+* Vryan, Kevin D., Patricia A. Adler, Peter Adler. 2003. "Identity." pp.&amp;nbsp;367–390 in Handbook of Symbolic Interactionism, edited by Larry T. Reynolds and Nancy J. Herman-Kinney. Walnut Creek, CA: AltaMira.
+* Ward, L. F. (1897). [https://archive.org/details/dynamicsociolog02wardgoog Dynamic sociology, or Applied social science]. New York: D. Appleton and company.
+* Ward, L. F. (1968). [https://archive.org/details/dynamicsociolog05wardgoog Dynamic sociology. Series in American studies]. New York: Johnson Reprint Corp.
+* Weinreich, P. (1986). The operationalisation of identity theory in racial and ethnic relations, in J.Rex and D.Mason (eds). "Theories of Race and Ethnic Relations". Cambridge: Cambridge University Press.
+* {{cite book | editor-last=Weinreich | editor-first=Peter | editor-last2=Saunderson | editor-first2=Wendy | title=Analysing identity: cross-cultural, societal, and clinical contexts | publisher=Routledge | publication-place=London | year=2003 | isbn=978-0-415-64581-2 | oclc=252748181}}
+** {{cite book | last1=Saunderson | first1=Wendy | last2=O'Kane | first2=Maria | chapter=Anorexia nervosa: Analysing identity for predisposing, precipitating and perpetuating factors  | editor-last=Weinreich | editor-first=Peter | editor-last2=Saunderson | editor-first2=Wendy | title=Analysing identity: cross-cultural, societal, and clinical contexts | publisher=Routledge | publication-place=London | year=2003 | isbn=978-0-415-64581-2 | oclc=252748181}}
+* Werbner, P. and T. Modood. (Eds.) (1997). ''Debating Cultural Hybridity: Multi-Cultural Identities and the Politics of Anti-Racism.'' London: Zed Books.
+* Williams, J. M. (1920). [https://archive.org/details/foundationssoci00willgoog The foundations of social science; an analysis of their psychological aspects]. New York: A.A. Knopf.
+* Woodward, K. (2004). ''Questioning Identity: Gender, Class, Ethnicity.'' London: Routledge. {{ISBN|0-415-32967-1}}
+{{refend}}
+
+==Further reading==
+*{{cite book |last1=Gil G. Noam |first1=Gil G. |last2=Lapsley |first2=Daniel K. |title=Self, Ego, and Identity: Integrative Approaches |date=1988 |publisher=Springer-Verlag |location=New York |doi=10.1007/978-1-4615-7834-5 |author-link=Gil Noam |isbn=978-1-4615-7836-9}}
+*{{cite book |last1=Jenkins |first1=Richard |title=social identity |date=2008 |publisher=Routledge |location=Abingdon |isbn=978-0-203-92741-0 |edition=3rd}}
+*{{cite book |last1=Fukuyama |first1=Francis |title=Identity: The Demand for Dignity and the Politics of Resentment |publisher=Farrar, Strause and Giroux |location=New York}}
+*{{cite book |last1=Jaspal |first1=Rusi |last2=Breakwell |first2=Glynis M. |title=Identity Process Theory: Identity, Social Action and Social Change |date=2014 |publisher=Cambridge University Press |location=New York |isbn=978-1-107-02270-6}}
+
+==External links==
+{{Wikiquote|Identity}}
+*{{Commons category-inline}}
+*[http://plato.stanford.edu/entries/identity/ Stanford Encyclopedia of Philosophy – Identity]
+
+{{Social philosophy}}
+{{Authority control}}
+
+[[Category:Identity (social science)| ]]
+[[Category:Identity politics|*]]
+[[Category:Sociological terminology]]</rev></revisions></page></pages></query></api>

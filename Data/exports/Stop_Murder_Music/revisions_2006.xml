@@ -1,0 +1,14 @@
+<?xml version="1.0"?><api><continue rvcontinue="20060720173641|64885432" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="4912935" pageid="4912935" ns="0" title="Stop Murder Music"><revisions><rev timestamp="2006-08-30T18:04:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Murder Music''' is a term coined by [[homosexual]]-rights activist [[Peter Tatchell]] to describe the [[homophobic]] work of certain [[Jamaican]] musicians, primarily [[Dancehall]] and [[Ragga]] artistes.
+
+Tatchell, and organizations such as [[Human Rights Watch]], have accused [[Beenie Man]], [[Elephant Man]], and [[Buju Banton]] and others promoting homophobic violence through their music.
+
+==External links==
+*[http://arts.guardian.co.uk/fridayreview/story/0,,1369875,00.html Article in Guardian Unlimited, UK]
+
+[[Category:Dancehall|Murder Music]]
+[[Category:Jamaican culture|Murder Music]]
+[[Category:LGBT culture|Murder Music]]
+
+
+{{music-genre-stub}}
+{{Caribbean-stub}}</rev></revisions></page></pages></query></api>

@@ -1,0 +1,173 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081105181825|249879385" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1125781" pageid="1125781" ns="0" title="Voter suppression"><revisions><rev timestamp="2008-11-05T18:18:46Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{globalize/USA}}
+
+'''Voter suppression''' is a form of [[electoral fraud]] and refers to the use of governmental power, political campaign strategy, and private resources aimed at suppressing (i.e. reducing) the total vote of opposition candidacies instead of attempting to change likely voting behavior by changing the opinions of potential voters. This method is particularly effective if a significant amount of voters are intimidated individually because the voter might not consider his or her single vote important. 
+
+==Methods of voter suppression==
+===Jim Crow laws===
+{{main|Jim Crow laws}}
+In the [[United States]], voter suppression was used extensively in most [[U.S. Southern states|Southern state]]s until the [[Voting Rights Act]] ([[1965]]) made most disenfranchisement and voting qualifications illegal. Traditional voter suppression tactics included the institution of [[poll tax]]es and [[literacy test]]s, aimed at suppressing the votes of African Americans and working class white voters.&lt;ref&gt;[http://www.umich.edu/~lawrace/disenfranchise1.htm Techniques of Direct Disenfranchisement, 1880-1965], [[University of Michigan]]&lt;/ref&gt;&lt;ref&gt;[http://www.jimcrowhistory.org/history/creating2.htm Creating Jim Crow: In-Depth Essay], Ronald L. F. Davis, Ph. D - [http://www.jimcrowhistory.org The History of Jim Crow]&lt;/ref&gt;
+
+===Ex-Felon disenfranchisement===
+In 2004, 5.3 million Americans were denied the right to vote because of previous felony convictions. Thirteen states permanently disenfranchise convicted felons; eighteen states restore voting rights after completion of prison, parole, and probation; four states re-enfranchise felons after they have been released from prison and have completed parole; thirteen allow felons who have been released from prison to vote, and two states do not disenfranchise felons at all.&lt;ref&gt;[http://www.sentencingproject.org/pdfs/1046.pdf Felony Disenfranchisement Laws in the United States Fact Sheet], [[Sentencing Project]], July 2005&lt;/ref&gt; However, for states that do offer a path for restoration of voting rights, the process can often be very difficult.
+
+The United States is the only democracy in the world that bans its felons from voting. Other countries including Denmark, France, Germany, Israel, Japan, Kenya, Norway, Peru, Sweden, and Zimbabwe all allow their prisoners to vote.&lt;ref name="reform"&gt; 
+[http://www.reformelections.org/feature.asp?menuid={2C21F24C-F920-4FAE-81E2-715512C100BA} Restoration of Voting Rights Q&amp;A], ReformElections.org&lt;/ref&gt;
+
+Some countries, notably the U.K., do not permit convicted prisoners in jail to vote but restore full civil rights on release even if that release is on parole.
+
+In [[Florida]] during the [[U.S. presidential election, 2000|2000 presidential election]], some non-felons were banned due to [[Florida Central Voter File|record-keeping errors]] and not warned of their disqualification before they no longer had the right to contest it.
+
+This form of vote suppression disproportionately affects minorities including African-Americans and Latinos.&lt;ref name="reform"/&gt;
+
+===Partisan election administration===
+Across the United States, 33 state election directors are elected partisans. The majority of the world's democracies use independent agents to manage elections. Because of their partisan ties, election officials are often presented with a conflict of interest while directing elections. Florida Secretary of State [[Katherine Harris]] served as state co-chair of the Bush-Cheney campaign during the 2000 presidential election, and Ohio Secretary of State [[Ken Blackwell]] served as his state's Bush-Cheney co-chair during the 2004 presidential election.&lt;ref name="overton"&gt;{{cite book |title=Stealing Democracy |last=Overton |first=Spencer |year=2006 |publisher=W. W. Norton |isbn=0393061590 |pages=224 |url=http://www.stealingdemocracy.com }}&lt;/ref&gt;
+
+===Inequality in Election Day resources===
+Elections in the United States are funded at the local level, often unequally. In the 2004 elections, Wyoming spent $2.15 per voter while California spent $3.99 per voter. In contrast, Canada spends $9.51 per voter. This can result in long lines at the polls, waits of many hours, with those unable to wait giving up thier right to vote. It is widely regarded as being a greater problem in urban areas.&lt;ref name="overton"/&gt;&lt;ref&gt;In 2004, the Franklin County board of elections (Columbus, Ohio) determined they needed 5,000 machines, but decided to move machines from urban areas to suburban areas and go with only 2,866 machines. On Election Day 2004, Tanya Thivener waited four hours in line to vote in Columbus, Ohio. Tanya's mother waited just 15 minutes to vote in a Columbus suburb.&lt;/ref&gt;
+
+===Caging lists===
+{{main|caging list}}
+Caging lists have been used by political parties to eliminate potential voters from the other party's voting roll.  A political party sends registered mail to addresses of registered voters. If the mail is returned as undeliverable the party uses that fact to challenge the registration, arguing that because the voter could not be reached at the address, the registration is fraudulent.&lt;ref&gt;http://www.mtstandard.com/articles/2008/10/05/opinion/hjjbijjejjigfj.txt&lt;/ref&gt;
+
+==Examples of voter suppression in the United States==
+===2002 New Hampshire Senate election phone jamming scandal===
+In the [[2002 New Hampshire Senate election phone jamming scandal]], Republican officials attempted to reduce the number of Democratic voters by paying professional telemarketers in Idaho to make repeated hang-up calls to block Democrats' ride-to-the-polls phone lines on election day.&lt;ref name="dojjamming"&gt;{{cite press release
+  | title =Former RNC New England Regional Director Indicted in New Hampshire Phone Jamming Case
+  | publisher = US DOJ
+  | date =2004-12-01
+  | url =http://www.usdoj.gov/opa/pr/2004/December/04_crm_768.htm
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;&lt;ref name="jammerconvict"&gt;{{cite news
+  | title =Former GOP Official Gets Prison Term for Phone Plot
+  | publisher =AP
+  | date =2006-05-17
+  | url =http://www.foxnews.com/story/0,2933,195914,00.html
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;
+
+===2004 presidential election===
+In the [[U.S. presidential election, 2004|U.S. presidential election of 2004]], some voters got phone calls with false information intended to keep them from voting--saying that their voting place had been changed or that voting would take place on Wednesday as well as on Tuesday.&lt;ref name="pfaw"&gt;{{cite web
+  | title =Intimidation and Deceptive Practices
+  | publisher =Election Protection coalition/[[People For the American Way|PFAW]]
+  | url =http://www.ep365.org/site/c.fnKGIMNtEoG/b.2052599/k.6FF4/Intimidation_and_Deceptive_Practices.htm
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;&lt;ref name="acvr"&gt;{{cite web
+  | title =Incidents Of Voter Intimidation &amp; Suppression
+  | publisher =American Ctr for Voting Rights
+  | url =http://web.archive.org/web/20060210111239/http://www.ac4vr.com/reports/072005/republicanincidents.html
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;
+
+Other allegations surfaced in several states that the group called [[Voters Outreach of America]] had collected and submitted Republican voter registration forms while inappropriately disposing of Democratic registration forms.&lt;ref&gt;{{cite news
+  |url=http://www.klas-tv.com/Global/story.asp?S=2421595&amp;nav=168XRvNe
+  |title=Investigation into Trashed Voter Registrations
+  |date=2004-10-13
+  |publisher=KLAS-TV
+  |author=George Knapp
+}}&lt;/ref&gt;&lt;ref&gt;
+{{cite web
+  |url=http://edition.cnn.com/2004/ALLPOLITICS/10/14/nevada.registration/index.html
+  |title=Nevada investigates voter registration, Probe also under way in Oregon on fraud allegations
+  |date=2004-10-14
+  |publisher=[[CNN]]
+  |author=
+}}&lt;/ref&gt;&lt;ref&gt;
+{{cite news
+  |url=http://www.cbsnews.com/stories/2004/10/14/politics/main649380.shtml
+  |title=Voter Fraud Charges Out West
+  |date=2004-10-14
+  |publisher=[[CBS News]]
+  |author=David Paul Kuhn 
+}}&lt;/ref&gt;&lt;ref&gt;
+{{cite news
+  |url=http://www.post-gazette.com/pg/04294/398767.stm
+  |title=Campaign 2004: Voter registration workers cry foul
+  |date=2004-10-20
+  |publisher=[[Pittsburgh Post-Gazette]]
+  |author=Dennis B. Roddy
+}}&lt;/ref&gt;.
+
+Michigan Republican state legislator John Pappageorge was quoted as saying, "If we do not suppress the Detroit vote, we're going to have a tough time in this election."&lt;ref&gt;
+{{cite news
+  |url=http://www.msnbc.msn.com/id/6242175/
+  |title=Voter suppression charges on the rise
+  |date=2004-10-13
+  |publisher=[[MSNBC]]
+  |author=Chip Reid
+}}&lt;/ref&gt;.
+
+In [[2006]], four employees of the [[John Kerry]] campaign were convicted of slashing the tires of 25 vans rented by the state [[Republican Party (United States)|Republican Party]] which were to be used for driving Republican monitors to the polls. At the campaign workers' sentencing, Judge Michael B. Brennan told the defendants, "Voter suppression has no place in our country. Your crime took away that right to vote for some citizens."&lt;ref name="slashcharged"&gt;{{cite news 
+  | last =Ehlke
+  | first =Gretchen
+  | title =Congresswoman's son, four others charged with slashing Republican van tires on Election Day
+  | publisher =AP
+  | date =2005-01-24
+  | url =http://web.archive.org/web/20050829020422/http://sfgate.com/cgi-bin/article.cgi?f=/news/a/2005/01/24/national1242EST0521.DTL
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;&lt;ref name="slashconvicted"&gt;{{cite news 
+  | last =Ehlke
+  | first =Gretchen
+  | title =Men Get Jail Time In Milwaukee Tire-Slashing Case
+  | publisher =AP
+  | date =2006-04-26
+  | url =http://web.archive.org/web/20060503003521/http://wfrv.com/topstories/local_story_116123954.html
+  | accessdate = 2007-05-25 }}&lt;/ref&gt;
+
+===2006 Virginia Senate election===
+During the [[United States Senate election in Virginia, 2006]], Secretary of the Virginia State Board of Elections Jean Jensen concluded that the incidents of voter suppression appeared widespread and deliberate. Documented incidents of voter suppression include:&lt;ref&gt;{{cite news 
+  | title =Sec. of Virginia State Board of Elections Finds Widespread Incidents of Voter Suppression
+  | publisher =American Chronicle
+  | date =2006-11-06
+  | url =http://www.americanchronicle.com/articles/16105
+  | accessdate = 2008-09-07 }}&lt;/ref&gt;
+*Democratic voters receiving calls incorrectly informing them voting will lead to arrest.
+*Widespread calls fraudulently claiming to be "Webb Volunteers," falsely telling voters their voting location had changed.
+*Fliers paid for by the [[Republican Party (United States)|Republican Party ]], stating "SKIP THIS ELECTION" was allegedly an attempt to suppress African-American turnout.
+The FBI has since launched an investigation into the suppression attempts.&lt;ref&gt;{{cite news Despite the allegations, democrat [[Jim Webb]] narrowly defeated incumbant George Allen.
+  | title = FBI launches probe of Virginia pre-election calls
+  | publisher =[[CNN]]
+  | date =2006-11-07
+  | url =http://www.cnn.com/2006/POLITICS/11/07/deceptivecalls.va/
+  | accessdate = 2008-09-07 }}&lt;/ref&gt;
+
+===2008 presidential election===
+A review of states' records by [[The New York Times]] found unlawful actions leading to widespread voter purges.&lt;ref&gt;http://www.nytimes.com/2008/10/09/us/politics/09voting.html&lt;/ref&gt;
+
+A dispute between the [[Social Security Administration]] commissioner and the [[National Association of Secretaries of State]] about the use of the Social Security database to test the validity of voters led to the shutdown of the database over the [[Columbus Day]] holiday weekend.&lt;ref&gt;http://blogs.wsj.com/washwire/2008/10/10/voter-registrations-spark-testy-exchange/&lt;/ref&gt;
+
+====Georgia====
+Wait times of between 2 and 10 hours were reported during early voting at multiple Georgia locations&lt;ref&gt;http://politicalticker.blogs.cnn.com/category/voter-problems/&lt;/ref&gt;
+
+====Michigan====
+Prior to the [[2008 United States Presidential Election]], in September 16, 2008, Obama legal counsel announced that they would be seeking an injunction to stop an alleged caging scheme in Michigan wherein the state Republican party would use home foreclosure lists to challenge voters still using their foreclosed home as a primary address at the polls. &lt;ref&gt; http://time-blog.com/real_clear_politics/2008/09/obama_dnc_file_lawsuit.html &lt;/ref&gt; Michigan GOP officials called the suit "desperate."&lt;ref&gt;http://thepage.time.com/2008/09/16/michigan-gop-obama-camp-suit-desperate/&lt;/ref&gt;
+A Federal Appeals court ordered the reinstatement of 5,500 voters wrongly purged from the voter rolls by the State:&lt;ref&gt;http://politicalticker.blogs.cnn.com/category/voter-problems/&lt;/ref&gt;
+
+====Minnesota====
+The conservative nonprofit Minnesota Majority has been reported as making phone calls claiming that the Minnesota Secretary of State had concerns about the validity of the voters registration. Their actions have been referred to the Ramsey County attorney's office and the U.S. Attorney are looking into Johnson's complaint.
+&lt;ref&gt;http://www.startribune.com/politics/33551514.html&lt;/ref&gt;
+
+====Montana====
+On October 5, 2008 the Republican Lt. Governor of Montana, [[John Bohlinger]], accused the Montana Republican Party of vote caging to purge 6,000 voters from three counties which trend Democratic.  These purges included decorated war veterans and active duty soldiers.&lt;ref&gt;http://www.mtstandard.com/articles/2008/10/05/opinion/hjjbijjejjigfj.txt&lt;/ref&gt;
+
+====Ohio====
+Wait times of six hours were reported for early voting in Franklin County leading to people leaving the line without voting.&lt;ref&gt;http://politicalticker.blogs.cnn.com/category/voter-problems/&lt;/ref&gt;
+ 
+====Wisconsin====
+The Republican Party attempted to have all 60,000 voters in the heavily Democratic city of Milwaukee who had registered since 1/1/2006 deleted from the voter roll. This was rejected by the Milwaukee Election Commission with Republican commissioner Bob Spindell voting in favor of deletion.."&lt;ref&gt;Associated Press reported in Green Bay Press Gazette 10/10/2008&lt;/ref&gt;
+
+==See also==
+*[[Electoral fraud]]
+*[[Caging list]]
+*[[American Center for Voting Rights]]
+*[[Political corruption]]
+*[[Voter turnout]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://blog.wired.com/27bstroke6/2008/10/had-problems-vo.html Problems Voting in the 2008 General Election? Report Your Issue Here]
+* [http://www.votersuppression.net/ Voter Suppression Wiki]
+* [http://www.pbs.org/now/shows/348/index.html NOW on PBS interview reviewing the likelihood and forms of Voter Suppression liely in 2008]
+* [http://www.ac4vr.com/reports/072005/default.html Vote Fraud, Intimidation &amp; Suppression In The 2004 Presidential Election] 
+* [http://www.ac4vr.com/ American Center For Voting Rights], [[August 2]], [[2005]], report.
+* [http://blackprof.com/stealingd.html Stealing democracy] Spencer Overton, Stealing Democracy, June 5, 2006
+
+[[Category:Political campaign techniques]]
+[[Category:Political corruption]]
+[[Category:Election fraud]]</rev></revisions></page></pages></query></api>

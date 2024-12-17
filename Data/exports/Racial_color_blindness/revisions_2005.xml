@@ -1,0 +1,17 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050711205701|18625899" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="348111" pageid="348111" ns="0" title="Racial color blindness"><revisions><rev timestamp="2005-07-11T21:00:16Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Race-blind''' is a term describing activities undertaken and services provided without regard to the racial characteristics of those who participate in an activity or receive a service.
+
+In race-blind operations, there is no use of racial data. An example of this would be a college processing admissions without regard to or knowledge of the racial characteristics of applicants [http://www.alumni.berkeley.edu/Alumni/Cal_Monthly/September_2003/Race-blind_admissions-_a_progress_report.asp].
+Various approaches have been tried to remove any impact of race, for example one based on lottery drawing to determine school allocations.
+
+This [[equal opportunity]] approach contrasts with [[positive discrimination]] or [[affirmative action]] that would actively attempt to favour those people considered to have been disadavantaged by historical racial prejudice, or whose racial group might otherwise be considered under-represented, for example in a university [http://www.adversity.net/FRAMES/Editorials/51_UMichigan_Quotas.htm].
+
+Mandatory affirmative action in race-blind operations has been criticised as symptomatic of a fundamentally racist society [http://www.timshelarts.com/dustinthelight/archives/00001980.htm]. There is a variety of opinions about whether or not such criticism is justified; some people think this is all taken too seriously [http://www.cornelldailysun.com/articles/9543/].
+
+==See also==
+*[[gender-blind]].
+
+==External links==
+&lt;!--dead link *[http://www.utdallas.edu/research/greenctr/Papers/pdfpapers/paper33.html Affirmative Access vs. Affirmative Action: How have Texas's race-blind policies affected college outcomes?] --&gt;
+*[http://www.system.missouri.edu/planning/reports/diverse.pdf Can Race-blind Policies Produce a Diverse Student Body?]
+&lt;!-- dead link *[http://www.tennessean.com/sii/99/04/01/magnet01.shtml Race-blind lottery chooses fewer blacks for magnet schools] --&gt;
+*[http://www-tech.mit.edu/V122/N3/col122-3ph.3c.html A Look at Color-Blindness]</rev></revisions></page></pages></query></api>

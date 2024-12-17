@@ -1,0 +1,228 @@
+<?xml version="1.0"?><api><continue rvcontinue="20111026164010|457510791" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="19481110" pageid="19481110" ns="0" title="Jim Crow laws"><revisions><rev timestamp="2011-10-26T16:43:17Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{redirect|Jim Crow}}
+{{sprotected2}}
+{{Discrimination sidebar}}
+The '''Jim Crow laws''' were state and local laws in the [[United States]] enacted between 1876 and 1965. They mandated ''[[de jure]]'' [[Racial segregation in the United States|racial segregation]] in all public facilities, with a supposedly "[[separate but equal]]" status for [[African American|black American]]s. In reality, this led to treatment and accommodations that were usually inferior to those provided for [[white American]]s, systematizing a number of economic, educational and social disadvantages. ''De jure'' segregation mainly applied to the [[Southern United States]]. Northern segregation was generally ''[[de facto]]'', from blacks predominately living in urban ghettos.
+
+Some examples of Jim Crow laws are the segregation of public schools, public places, and public transportation, and the segregation of restrooms, restaurants, and drinking fountains for whites and blacks. The U.S. military was also segregated. These Jim Crow Laws were separate from the 1800–1866 [[Black Codes in the USA|Black Codes]], which also restricted the [[civil rights]] and [[civil liberties]] of African Americans.  State-sponsored school segregation was declared unconstitutional by the [[Supreme Court of the United States]] in 1954 in ''[[Brown v. Board of Education]]''. Generally, the remaining Jim Crow laws were overruled by the [[Civil Rights Act of 1964]]&lt;ref name=cra64&gt;[http://finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21 Civil Rights Act of 1964]&lt;/ref&gt; and the [[Voting Rights Act of 1965]].
+
+==Etymology==
+[[File:Jim Crow Jubilee (Boston Public Library).jpg|thumb|right|Cover of music score for "Jim Crow Jubilee", [[Boston]], 1847.]]
+The phrase "Jim Crow Law" first appeared in 1904 according to the ''[[Dictionary of American English]]'',&lt;ref&gt;Craigie, William A., Sir, and Hulbert, James R., eds. ''A Dictionary of American English on Historical Principles'', 4 vols. Chicago: University of Chicago Press, 1938–1944.&lt;/ref&gt; although there is some evidence of earlier usage.&lt;ref name=scjc7/&gt;&lt;ref&gt;{{cite news |url= http://query.nytimes.com/gst/abstract.html?res=9E05EEDB1F31E033A25752C2A9649D94639ED7CF&amp;scp=1&amp;sq=jim+crow+December+21%2C+1892&amp;st=p |title=Louisiana's 'Jim Crow' Law Valid|quote=New Orleans, Dec 20. - The Supreme Court yesterday declared constitutional the law passed two years ago and known as the 'Jim Crow' law, making it compulsory on railroads to provide separate cars for negroes.|work=[[The New York Times]] |date=December 21, 1892 |publisher=[[New York Times Company|NYTC]] |location=[[New York, NY|New York]] |issn=0362-4331 |accessdate=February 6, 2011}}&lt;/ref&gt; The origin of the phrase "Jim Crow" has often been attributed to "[[Jump Jim Crow]]", a song-and-dance [[caricature]] of negroes performed by white actor [[Thomas D. Rice]] in [[blackface]], which first surfaced in 1832 and was used to satirize [[Andrew Jackson]]'s populist policies. As a result of Rice's fame, "Jim Crow" had become a pejorative expression meaning "Negro" by 1838 and when the laws of racial segregation – directed against blacks – were enacted at the end of the nineteenth century they became known as Jim Crow laws.&lt;ref name=scjc7&gt;Woodward, C. Vann and McFeely, William S. (2001), ''The Strange Career of Jim Crow''. p. 7&lt;/ref&gt;
+
+==Origins of Jim Crow laws==
+{{Main|Disfranchisement after Reconstruction era}}
+During the [[Reconstruction era of the United States|Reconstruction]] period of 1865–1877, federal law provided civil rights protection in the [[Southern United States|U.S. South]] for "[[freedmen]]" &amp;ndash; the African Americans who had formerly been slaves.  In the 1870s, conservative white [[Democratic Party (United States)|Democrats]] gradually returned to power in the Southern states, sometimes as a result of elections in which paramilitary groups intimidated opponents, attacking blacks or preventing them from voting. Gubernatorial elections were close and disputed in [[Louisiana]] for years, with extreme violence unleashed during the campaigns. In 1877, a national [[Compromise of 1877|compromise]] to gain Southern support in the presidential election resulted in the last of the federal troops being withdrawn from the South. White Democrats had regained political power in every Southern state.&lt;ref name=scjc6&gt;Woodward, C. Vann and McFeely, William S. ''The Strange Career of Jim Crow''. 2001, page 6&lt;/ref&gt; These conservative, white, Democratic [[Redeemers|Redeemer]] governments legislated Jim Crow laws, segregating black people from the white population.  
+
+Blacks were still elected to local offices in the 1880s, but the establishment Democrats were passing laws to make voter registration and electoral rules more restrictive, with the result that political participation by most blacks and many poor whites began to decrease.&lt;ref name="Michael Perman 2001"&gt;Michael Perman.''Struggle for Mastery: Disfranchisement in the South, 1888-1908''. Chapel Hill: University of North Carolina Press, 2001, Introduction&lt;/ref&gt;&lt;ref&gt;J. Morgan Kousser.''The Shaping of Southern Politics: Suffrage Restriction and the Establishment of the One-Party South'', New Haven: Yale University Press, 1974&lt;/ref&gt; Between 1890 and 1910, ten of the eleven former [[Confederate States of America|Confederate states]], starting with [[Mississippi]], passed new constitutions or amendments that effectively [[Disfranchisement after Reconstruction era|disfranchised]] most blacks and tens of thousands of poor whites through a combination of [[poll taxes]], [[literacy tests|literacy]] and comprehension tests, and residency and record-keeping requirements.&lt;ref name="Michael Perman 2001"&gt;Michael Perman.''Struggle for Mastery: Disfranchisement in the South, 1888-1908''. Chapel Hill: University of North Carolina Press, 2001, Introduction&lt;/ref&gt;&lt;ref&gt;J. Morgan Kousser.''The Shaping of Southern Politics: Suffrage Restriction and the Establishment of the One-Party South'', New Haven: Yale University Press, 1974&lt;/ref&gt; [[Grandfather clause]]s temporarily permitted some illiterate whites to vote. 
+
+Voter turnout dropped drastically through the South as a result of such measures. For example, [[Alabama]] had tens of thousands of poor whites disfranchised.&lt;ref name="Glenn Feldman 2004, pp. 135&amp;ndash;136"&gt;Glenn Feldman, ''The Disfranchisement Myth: Poor Whites and Suffrage Restriction in Alabama'', Athens: University of Georgia Press, 2004, pp.&amp;nbsp;135&amp;ndash;136&lt;/ref&gt;  In Louisiana, by 1900, black voters were reduced to 5,320 on the rolls, although they comprised the majority of the state's population. By 1910, only 730 blacks were registered, less than 0.5 percent of eligible black men. "In 27 of the state's 60 parishes, not a single black voter was registered any longer; in 9 more parishes, only one black voter was."&lt;ref name="Pildes"/&gt; The cumulative effect in [[North Carolina]] meant that black voters were completely eliminated from voter rolls during the period from 1896-1904. The growth of their thriving middle class was slowed. In North Carolina and other Southern states, there were also the effects of invisibility: "[W]ithin a decade of disfranchisement, the [[white supremacy]] campaign had erased the image of the black middle class from the minds of white North Carolinians."&lt;ref name="Pildes"&gt;[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=224731 Richard H. Pildes, "Democracy, Anti-Democracy, and the Canon", 2000, pp.12 and 27] Accessed 10 Mar 2008&lt;/ref&gt;
+
+Those who could not vote were not eligible to serve on juries and could not run for local offices. They effectively disappeared from political life, as they could not influence the state legislatures, and their interests were overlooked. While public schools had been established by Reconstruction legislatures for the first time in most Southern states; those for black children were consistently underfunded compared to schools for white children, even when considered within the strained finances of the postwar South. The decreasing price of [[cotton]] kept the agricultural economy at a low. 
+
+In some cases, progressive measures intended to reduce election fraud, such as the [[Disfranchisement after Reconstruction era#Eight box law|eight box law]] in [[South Carolina]], acted against black and white voters who were illiterate, as they could not follow the directions.&lt;ref name="Holt"&gt;{{cite book
+  | last =Holt
+  | first =Thomas
+  | authorlink =Thomas C. Holt
+  | title =Black over White: Negro Political Leadership in South Carolina during Reconstruction
+  | publisher =University of Illinois Press
+  | date =1979
+  | location =Urbana }}&lt;/ref&gt; While the separation of African Americans from the general population was becoming legalized and formalized during the [[Progressive Era]] (1890s–1920s), it was also becoming customary. Even in cases in which Jim Crow laws did not expressly forbid black people to participate, for instance, in sports or recreation, the laws shaped a segregated culture.&lt;ref name=scjc7 /&gt; 
+
+In the Jim Crow context, the [[United States presidential election, 1912|presidential election of 1912]] was steeply slanted against the interests of black Americans. Most blacks still lived in the South, where they had been effectively disenfranchised, so they could not vote at all. While poll taxes and literacy requirements banned many poor or illiterate Americans from voting, these stipulations frequently had loopholes that exempted white Americans from meeting the requirements. In [[Oklahoma]], for instance, anyone qualified to vote before 1866, or related to someone qualified to vote before 1866 (a kind of "[[grandfather clause]]"), was exempted from the literacy requirement; the only persons who could vote before that year were white male Americans.  White Americans were effectively excluded from the literacy testing, whereas black Americans were effectively singled out by the law.&lt;ref&gt;Tomlins, Christopher L. ''The United States Supreme Court: The Pursuit of Justice''. 2005, p. 195&lt;/ref&gt;  
+
+[[Woodrow Wilson]], a Southern Democrat and the first Southern-born president of the post-[[American Civil War|Civil War]] period, appointed Southerners to his [[Cabinet of the United States|Cabinet]].  Some quickly began to press for segregated work places, although [[Washington, D.C.]] and federal offices had been integrated since after the Civil War. In 1913, for instance, the [[Secretary of the Treasury]] [[William Gibbs McAdoo]] &amp;ndash; an appointee of the President &amp;ndash; was heard to express his opinion of black and white women working together in one government office: "I feel sure that this must go against the grain of the white women. Is there any reason why the white women should not have only white women working across from them on the machines?"&lt;ref&gt;King, Desmond. ''Separate and Unequal: Black Americans and the US Federal Government''. 1995, page 3.&lt;/ref&gt; 
+
+Wilson introduced segregation in federal offices, despite much protest.&lt;ref name=wilson&gt;Schulte Nordholt, J. W. and Rowen, Herbert H. ''Woodrow Wilson: A Life for World Peace''. 1991, page 99-100.&lt;/ref&gt; He appointed segregationist Southern politicians  because of his own firm belief that racial segregation was in the best interest of black and white Americans alike.&lt;ref name=wilson /&gt; At [[Gettysburg Battlefield|Gettysburg]] on July 4, 1913, the semi-centennial of [[Abraham Lincoln]]'s declaration that "[[Gettysburg Address|all men are created equal]]", Wilson addressed the crowd:
+
+{{quote|How complete the union has become and how dear to all of us, how unquestioned, how benign and majestic, as state after state has been added to this, our great family of free men!&lt;ref name=blight&gt;Blight, David W. ''Race and Reunion: The Civil War in American Memory''. page 9–11&lt;/ref&gt;}}
+
+A ''Washington Bee'' editorial wondered if the "reunion" of 1913 was a reunion of those who fought for "the extinction of slavery" or a reunion of those who fought to "perpetuate slavery and who are now employing every artifice and argument known to deceit" to present emancipation as a failed venture.&lt;ref name=blight /&gt; One historian notes that the "Peace Jubilee" at which Wilson presided at Gettysburg in 1913 "was a Jim Crow reunion, and white supremacy might be said to have been the silent, invisible master of ceremonies."&lt;ref name=blight /&gt; (''See also: [[Great Reunion of 1913]]'')
+
+==Early attempts to break Jim Crow==
+[[Image:JimCrowInDurhamNC.jpg|thumb|right|250px|Sign for the "colored" waiting room at a bus station in [[Durham, North Carolina]], 1940.]]
+The [[Civil Rights Act of 1875]], introduced by [[Charles Sumner]] and [[Benjamin Franklin Butler (politician)|Benjamin F. Butler]], stipulated a guarantee that everyone, regardless of race, color, or previous condition of servitude, was entitled to the same treatment in public accommodations, such as inns, public transportation, theaters, and other places of recreation. This Act had little impact. An 1883 Supreme Court decision ruled that the act was unconstitutional in some respects, saying Congress was not afforded control over private persons or corporations.  With white southern Democrats forming a solid bloc in Congress with power out of proportion to the percentage of population they represented, Congress did not pass another civil rights law until 1957.
+
+In 1890, Louisiana passed a law requiring separate accommodations for colored and white passengers on railroads. Louisiana law distinguished between "white," "black" and "colored" (that is, people of mixed white and black ancestry). The law already specified that blacks could not ride with white people, but colored people could ride with whites before 1890. A group of concerned black, colored and white citizens in [[New Orleans]] formed an association dedicated to rescinding the law. The group persuaded [[Homer Plessy]], who was only one-eighth "Negro" and of fair complexion, to test it. 
+
+In 1892, Plessy bought a first-class ticket from New Orleans on the East Louisiana Railway. Once he had boarded the train, he informed the train conductor of his racial lineage and took a seat in the whites-only car. He was directed to leave that car and sit instead in the "coloreds only" car. Plessy refused and was immediately arrested. The Citizens Committee of New Orleans fought the case all the way to the [[Supreme Court of the United States]].  They lost in ''[[Plessy v. Ferguson]]'' (1896), in which the Court ruled that "separate but equal" facilities were constitutional.  The finding contributed to 58 more years of legalized discrimination against black and colored people in the United States.
+
+==Racism in the United States and defenses of Jim Crow==
+[[File:JimCrowCar2.jpg|left|thumb|1904 caricature of "White" and "Jim Crow" rail cars by [[John T. McCutcheon]].  Despite Jim Crow's legal pretense that the races be "separate but equal" under the law, the actuality that non-whites would be given inferior facilities and treatment was widely understood.]]
+
+In addition to the problems that Southerners encountered in learning free labor management after the end of slavery, black Americans represented the [[Confederate States of America|Confederacy]]'s [[United States Civil War|Civil War]] defeat:  "With [[white supremacy]] challenged throughout the South, many whites sought to protect their former status by threatening African Americans who exercised their new rights."&lt;ref&gt;[[Henry Louis Gates|Gates, Henry Louis]] and [[Kwame Anthony Appiah|Appiah, Anthony]]. ''Africana: The Encyclopedia of the African and African American Experience''. 1999, page 1211.&lt;/ref&gt;  White Democrats used their power to segregate public spaces and facilities in law and reestablish dominance over blacks in the South.
+
+One rationale for the systematic exclusion of black Americans from southern public society was that it was for their own protection. An early 20th century scholar suggested that having allowed blacks in white schools would mean "constantly subjecting them to adverse feeling and opinion", which might lead to "a morbid race consciousness".&lt;ref&gt;Murphy, Edgar Gardner. ''The Problems of the Present South''. 1910, page 37.&lt;/ref&gt; This perspective took anti-black sentiment for granted, because bigotry was widespread in the South.
+
+==World War II era==
+[[Image:WhiteTradeOnlyLancasterOhio.jpg|thumb|250px|A segregative sign on a restaurant in [[Lancaster, Ohio]], 1938.]]
+[[Image:BilliardHallForColored.jpg|thumb|250px|A billiard hall for African Americans in [[Memphis, Tennessee]], 1939.]]
+[[Image:WhiteDoorColoredDoor.jpg|thumb|250px|Separate "white" and "colored" entrances to a cafe in [[Durham, North Carolina]], 1940.]]
+[[Image:WhiteAndColoredServedBelleGlade.jpg|thumb|250px|Some restaurants, such as The Choke 'Em Down Lunch Room in [[Belle Glade, Florida]], welcomed both white and black patrons alike, as indicated by the advertisement "White &amp; colored served." overhanging the eatery in this 1939 photograph. Where this was allowed, state and local laws often required "whites" and "coloreds" be seated in separate sections.]]
+
+After [[World War II]], African Americans increasingly challenged segregation, as they believed they had more than earned the right to be treated as full citizens because of their military service and sacrifices.  The [[American Civil Rights Movement (1896-1954)|Civil Rights Movement]] was energized by a number of flashpoints, including the 1946 attack on World War II veteran [[Isaac Woodard]] while he was in [[U.S. Army]] uniform. In 1948 President [[Harry S. Truman]] issued [[Executive Order 9981]], desegregating the armed services. 
+
+As the Civil Rights Movement gained momentum and used federal courts to attack Jim Crow statutes, the white-dominated governments of many of the southern states countered with passing alternative forms of restrictions. 
+
+The [[NAACP]] Legal Defense Committee (a group that became independent of the NAACP) &amp;ndash; and its lawyer, [[Thurgood Marshall]] &amp;ndash; brought the landmark case ''[[Brown v. Board of Education|Brown v. Board of Education of Topeka]]'', {{ussc|347|483|1954}} before the Supreme Court. In its pivotal 1954 decision, the Court unanimously overturned the 1896 ''Plessy'' decision. The Supreme Court found that legally mandated (''[[de jure]]'') public school segregation was unconstitutional.  The decision had far-reaching social ramifications.  ''De jure'' segregation was not brought to an end until the passage of the Civil Rights Act of 1964. History has shown that problems of educating poor children are not confined to minority status, and states and cities have continued to grapple with approaches.
+
+The court ruling did not stop ''[[de facto]]'' or residentially based school segregation. Such segregation continues today in many regions. Some city school systems have also begun to focus on issues of economic and class segregation rather than racial segregation, as they have found that problems are more prevalent when the children of the poor of any ethnic group are concentrated.  
+
+[[Associate Justice]] [[Frank Murphy]] introduced the word "racism" into the lexicon of [[U.S. Supreme Court]] opinions in ''[[Korematsu v. United States]]'', [[Case citation|323 U.S. 214]] (1944).&lt;ref&gt;{{cite web |url=http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&amp;vol=323&amp;invol=214 |title=Full text of Korematsu v. United States opinion |publisher=findlaw.com}}&lt;/ref&gt; He stated that by upholding the forced relocation of [[Japanese Americans]] during [[World War II]], the Court was sinking into "the ugly abyss of racism." This was the first time that "racism" was used in Supreme Court opinion (Murphy used it twice in a concurring opinion in ''[[Steele v. Louisville &amp; Nashville R. Co.]]'' [[Case citation|323 192]] (1944) issued that day).&lt;ref&gt;[http://caselaw.lp.findlaw.com/cgi-bin/getcase.pl?court=us&amp;vol=323&amp;invol=192 Steele v. Louisville, full text of the opinion courtesy of Findlaw.com.]&lt;/ref&gt;  Murphy used the word in five separate opinions, but after he left the court, "racism" was not used again in an opinion for almost two decades.  It next appeared in the landmark decision of [[Loving v. Virginia]], {{ussc|388|1|1967}}.
+
+Interpretation of the Constitution and its application to minority rights continues to be controversial as Court membership changes. Some observers believe the Court has become more protective of the status quo.&lt;ref&gt;Lopez, Ian F. Haney (February 1, 2007), [http://www.accessmylibrary.com/coms2/summary_0286-30274716_ITM "A nation of minorities: race, ethnicity, and reactionary colorblindness"], ''Stanford Law Review''&lt;/ref&gt;
+
+==End of Jim Crow==
+===Courts===
+In the 20th century, the Supreme Court began to overturn Jim Crow laws on constitutional grounds. In ''[[Buchanan v. Warley]]'' 245 US 60 (1917), the court held that a [[Kentucky]] law could not require [[residential segregation]]. The Supreme Court in 1946, in ''[[Irene Morgan|Irene Morgan v. Virginia]]'' ruled segregation in interstate transportation to be unconstitutional, in an application of the [[commerce clause]] of the Constitution. It was not until 1954 in ''Brown v. Board of Education of Topeka'' that the court held that separate facilities were inherently unequal in the area of public schools, effectively overturning ''Plessy v. Ferguson'', and outlawing Jim Crow in other areas of society as well. This landmark case consisted of complaints filed in the states of Delaware (''[[Gebhart v. Belton]]''); South Carolina (''[[Briggs v. Elliott]]''); Virginia (''[[Davis v. County School Board of Prince Edward County]]''); and [[Washington, D.C.]] (''[[Bolling v. Sharpe|Spottswode Bolling v. C. Melvin Sharpe]]''). These decisions, along with other cases such as ''[[McLaurin v. Oklahoma State Board of Regents]]'' 339 US 637 (1950), ''[[NAACP v. Alabama]]'' 357 US 449 (1958), and ''[[Boynton v. Virginia]]'' 364 US 454 (1960), slowly dismantled the state-sponsored segregation imposed by Jim Crow laws. 
+
+Along with Jim Crow laws, by which the state compelled segregation of the races, private parties such as businesses, political parties and unions created their own Jim Crow arrangements, barring blacks from buying homes in certain neighborhoods, from shopping or working in certain stores, from working at certain trades, etc. The Supreme Court outlawed some forms of private discrimination in ''[[Shelley v. Kraemer]]'' 334 US 1 (1948), in which it held that [[restrictive covenant]]s that barred sale of homes to blacks or [[Jew]]s or [[Asian people|Asian]]s were unconstitutional, because they represented state-sponsored discrimination, in that they were only effective if the courts enforced them. 
+
+The Supreme Court was unwilling, however, to attack other forms of private discrimination.  It reasoned that private parties did not violate the [[Equal Protection]] clause of the Constitution when they discriminated, because they were not "[[state actor]]s" covered by that clause.
+
+In 1971, the Supreme Court, in ''[[Swann v. Charlotte-Mecklenburg Board of Education]]'', upheld [[desegregation busing]] of students to achieve integration.
+
+===Public arena===
+[[Rosa Parks]]' 1955 act of [[civil disobedience]], in which she refused to give up her seat on a bus to a white man, was a catalyst in later years of the [[American Civil Rights Movement|Civil Rights movement]]. Her action, and the demonstrations which it stimulated, led to a series of legislative and court decisions that contributed to undermining the Jim Crow system.
+
+The [[Montgomery Bus Boycott]] led by Reverend [[Martin Luther King, Jr.]], which followed Rosa Parks' action, was, however, not the first of its kind. Numerous boycotts and demonstrations against segregation had occurred throughout the 1930s and 1940s. These early demonstrations achieved positive results and helped spark political activism. [[K. Leroy Irvis]] of [[Pittsburgh, Pennsylvania|Pittsburgh's]] Urban League, for instance, led a demonstration against employment discrimination by Pittsburgh's department stores in 1947, launching his own influential political career.
+
+===End of ''de jure'' segregation===
+In January 1964, President [[Lyndon Johnson]] met with civil rights leaders. On January 8, during his first [[State of the Union (USA)|State of the Union address]], Johnson asked Congress to "let this session of Congress be known as the session which did more for civil rights than the last hundred sessions combined." On June 21, civil rights workers [[Michael Schwerner]], [[Andrew Goodman]], and [[James Chaney]] disappeared in [[Neshoba County, Mississippi]]. The three were volunteers aiding in the registration of African-American voters as part of the [[Mississippi Summer Project]]. Forty-four days later, the [[Federal Bureau of Investigation]] recovered their bodies, which had been buried in an earthen dam. The Neshoba County deputy sheriff, [[Cecil Price]] and 16 others, all [[Ku Klux Klan]] members, were indicted for the crimes; seven were convicted. 
+
+Building a coalition of northern Democrats and Republicans, President [[Lyndon B. Johnson]] pushed [[United States Congress|Congress]] to pass the [[Civil Rights Act of 1964]].&lt;ref name=cra64/&gt;  On July 2, President Johnson signed the historic legislation.&lt;ref name=cra64/&gt;&lt;ref&gt;{{cite web |url=http://www.lbjlib.utexas.edu/johnson/lbjforkids/civil_timeline.shtm |publisher=[[University of Texas]] |title=LBJ for Kids - Civil rights during the Johnson Administration}}&lt;/ref&gt;  It invoked the [[commerce clause]]&lt;ref name=cra64/&gt; to outlaw  discrimination in public accommodations (privately owned restaurants, hotels, and stores, and in private schools and workplaces). This use of the commerce clause was upheld in ''[[Heart of Atlanta Motel v. United States]]'' 379 US 241 (1964).&lt;ref&gt;''See generally,'' {{cite web |url=http://www.accessmylibrary.com/coms2/summary_0286-30274716_ITM |author=Lopez, Ian F. Haney |title=A nation of minorities: race, ethnicity, and reactionary colorblindness |publisher=Stanford Law Review |date=1 February 2007}}&lt;/ref&gt;
+
+By 1965 efforts to break the grip of state disfranchisement had been under way for some time, but had achieved only modest success overall and in some areas had proved almost entirely ineffectual. The murder of voting-rights activists in [[Philadelphia, Mississippi]], gained national attention, along with numerous other acts of violence and terrorism against the president. Finally, the [[Selma to Montgomery marches#First march|unprovoked attack on March 7, 1965]], by state troopers on peaceful marchers crossing the [[Edmund Pettus Bridge]] in [[Selma, Alabama|Selma]], [[Alabama]], en route to the state capitol in [[Montgomery, Alabama|Montgomery]], persuaded the President and Congress to overcome Southern legislators' resistance to effective voting rights legislation. President Johnson issued a call for a strong voting rights law and hearings began soon thereafter on the bill that would become the Voting Rights Act.&lt;ref&gt;[http://www.usdoj.gov/crt/voting/intro/intro_b.htm United States Department of Justice] Introduction To Federal Voting Rights Laws&lt;/ref&gt;  
+
+The [[Voting Rights Act]] of 1965 ended legally sanctioned state barriers to voting for all federal, state and local elections. It also provided for Federal oversight and monitoring of counties with historically low voter turnout, as this was a sign of discriminatory barriers.
+
+==Legacy==
+===Legal===
+[[Image:Segregation 1938b.jpg|thumb|250px|An African-American youth at a "colored" drinking fountain on a courthouse lawn in [[Halifax, North Carolina]], 1938.]]
+
+The Supreme Court of the United States held in the ''[[Civil Rights Cases]]'' 109 US 3 (1883) that the Fourteenth Amendment did not give the federal government the power to outlaw private discrimination, and then held in ''Plessy v. Ferguson'' 163 US 537 (1896) that Jim Crow laws were constitutional as long as they allowed for "separate but equal" facilities. In the years that followed, the court made this "separate but equal" requirement a hollow phrase by upholding discriminatory laws in the face of evidence of profound inequalities in practice.
+
+===Political===
+Jim Crow laws were a product of the [[Solid South|solidly Democratic South]].  Conservative white Southern Democrats, exploiting racial fear and attacking the corruption (real or perceived) of Reconstruction [[Republican Party (United States)|Republican]] governments, took over state governments in the South in the 1870s and dominated them for nearly 100 years, chiefly as a result of disenfranchisement of most blacks through statute and constitutions.  In 1956, Southern resistance to the Supreme Court's ruling in ''Brown v. Board of Education'' resulted in a resolution called the [[Southern Manifesto]].  It was read into the Congressional Record and supported by 96 Southern Congressmen and senators, all but two of them Southern Democrats.
+
+===African-American life===
+[[File:ColoredDrinking.jpg|thumb|right|250px|An African-American man drinking at a "colored" drinking fountain in a streetcar terminal in [[Oklahoma City, Oklahoma]], 1939.]]
+
+The Jim Crow laws were a major factor in [[Great Migration (African American)|the Great Migration]] during the early part of the 20th century, because opportunities were so limited in the South that African Americans moved in great numbers to northern cities to seek a better life.
+
+Despite the hardship and prejudice of the Jim Crow era, several black entertainers and literary figures managed to become popular with white audiences in the early 20th century. They included luminaries like tap dancers [[Bill "Bojangles" Robinson]] and the [[Nicholas Brothers]], jazz musicians such as [[Duke Ellington]] and [[Count Basie]], and actress [[Hattie McDaniel]] (who became the first black recipient of an [[Academy Award]] in 1939 when she won the [[Academy Award for Best Supporting Actress|Best Supporting Actress]] Oscar for her performance as Mammy in ''[[Gone with the Wind (film)|Gone with the Wind]]'').
+
+African-American athletes also faced much discrimination during the Jim Crow period. White opposition led to their exclusion from most organized sporting competition. Nevertheless, boxers [[Jack Johnson (boxer)|Jack Johnson]] and [[Joe Louis]] (both of whom became [[world heavyweight boxing championship|world heavyweight boxing champion]]) and track and field athlete [[Jesse Owens]] (who won four gold medals at the [[1936 Summer Olympics]] in [[Berlin]]) earned notoriety during this era. In [[baseball]], a [[baseball color line|color line]] instituted in the 1880s had informally barred blacks from playing in the [[Major League Baseball|major leagues]], leading to the proliferation of the [[Negro league baseball|Negro Leagues]]. However, a major breakthrough occurred in 1947, when [[Jackie Robinson]] became the first African-American to play in Major League Baseball, breaking the color bar permanently. Baseball teams continued to integrate in the following years, leading to the full participation of black baseball players in the Major Leagues in the 1960s.
+
+==Remembrance==
+[[Ferris State University]] in [[Big Rapids, Michigan]], houses the [[Jim Crow Museum of Racist Memorabilia]], an extensive collection of everyday items that promoted racial segregation or presented racial stereotypes of [[African American]]s, for the purpose of academic research and education about their cultural influence.&lt;ref&gt;[http://www.ferris.edu/jimcrow/links/newslist/freep/ Jim Crow Museum, Ferris State University, Detroit Free Press]&lt;/ref&gt;
+
+==Examples of Jim Crow laws==
+{{main|List of Jim Crow laws by State}}
+Examples of Jim Crow laws are shown at the [[National Park Service]] website.&lt;ref&gt;{{cite web |url=http://www.nps.gov/malu/forteachers/jim_crow_laws.htm |title=Jim Crow Laws |publisher=nps.gov |accessdate=17 November 2010 }}&lt;/ref&gt;
+The examples include [[anti-miscegenation laws]].  Although sometimes counted among "Jim Crow laws" of the South, such laws were also passed by other states.  Anti-miscegenation laws were not repealed by the Civil Rights Act of 1964&lt;ref name=cra64/&gt; but were declared unconstitutional by the 1967 Supreme Court ruling in ''[[Loving v. Virginia]]''.
+
+==See also==
+{{Portal|Discrimination|Law|African American}}
+{{col-begin}}{{col-2}}
+* [[Anti-miscegenation laws]]
+* [[Black Codes in the USA]]
+* [[Disfranchisement after Reconstruction era]]
+* [[Dunning School]]
+* [[Group Areas Act]]
+* [[Racial segregation in the United States]]
+* [[Second-class citizen]]
+* [[Timeline of the African-American Civil Rights Movement]]
+* [[The New Jim Crow]]
+{{col-end}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Further reading==
+{{African American topics sidebar|bottom}}
+* Ayers, Edward L. ''The Promise of the New South'' Oxford University Press, 1992, a general history of the South in the late 19th century
+* Barnes, Catherine A. ''Journey from Jim Crow: The Desegregation of Southern Transit'' [[Columbia University Press]], 1983. 
+* Bartley, Numan V. ''The Rise of Massive Resistance: Race and Politics in the South during the 1950s'' [[Louisiana State University Press]], 1969.
+* Bond, Horace Mann. "The Extent and Character of Separate Schools in the United States". ''[[Journal of Negro Education]]'' 4(July 1935):321–27. online via JSTOR
+* Chin, Gabriel, and Karthikeyan, Hrishi. ''Preserving Racial Identity: Population Patterns and the Application of Anti-Miscegenation Statutes to Asians, 1910 to 1950,'' [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=283998&amp;high=%20Gabriel%20CHin 9 Asian L.J. 1 (2002)]
+* Campbell, Nedra. ''More Justice, More Peace: The Black Person's Guide to the American Legal System''. Lawrence Hill Books; Chicago Review Press, 2003, which includes in its chapter "Free at Last" a chronology of laws during the Jim Crow era. ISBN 1-55652-468-4
+* Dailey, Jane; Gilmore, Glenda Elizabeth and Simon, Bryant, eds. ''Jumpin' Jim Crow: Southern Politics from Civil War to Civil Rights'' (2000), essays by scholars on impact of Jim Crow on black communities
+* Delany, Sarah; Delany, A. Elizabeth; and Hearth, Amy Hill. ''Having Our Say; The Delany Sisters' First 100 Years'' (1993). G.K. Hall &amp; Co: Thorndike, Maine. ISBN 978-0-8161-5830-0.
+* Fairclough, Adam. “‘Being in the Field of Education and Also Being a Negro…Seems…Tragic’: Black Teachers in the Jim Crow South.” ''[[Journal of American History]]'' 87 (June 2000): 65–91. online via JSTOR 
+* Feldman, Glenn. ''Politics, Society, and the Klan in Alabama, 1915–1949''. [[University of Alabama Press]], 1999.
+* Harvey Fireside,  ''Separate and Unequal: Homer Plessy and the Supreme Court Decision That Legalized Racism'',  2004. ISBN 0-7867-1293-7
+* Foner, Eric. ''Reconstruction, America's Unfinished Revolution, 1863–1877: America's Unfinished Revolution, 1863–1877'' ([[Harpercollins]], 1988), ISBN 0-06-015851-4, standard history of Reconstruction from [[neoabolitionist]] school
+* Gaines, Kevin. ''Uplifting the Race: Black Leadership, Politics, and Culture in the Twentieth Century'' University of North Carolina Press, 1996. 
+* Gaston, Paul M. ''The New South Creed: A Study in Southern Mythmaking'' Alfred A. Knopf, 1970. 
+* Gilmore, Glenda Elizabeth. ''Gender and Jim Crow Women and the Politics&amp;nbsp;... in North Carolina, 1896–1920'' (1996)
+* [[John Howard Griffin|Griffin, John Howard]] ''[[Black Like Me]]'' by (Signet, 1996) ISBN 0-451-19203-6. Author leaves privileged life as Southern white man and darkens his skin to experience segregation in the Deep South in 1959.
+* Haws, Robert, ed. ''The Age of Segregation: Race Relations in the South, 1890– 1945'' [[University Press of Mississippi]], 1978. 
+* Hackney, Sheldon. ''Populism to Progressivism in Alabama'' (1969) 
+* Johnson, Charles S. ''Patterns of Negro Segregation'' [[Harper and Brothers]], 1943. 
+* Klarman, Michael J. ''From Jim Crow to Civil Rights: The Supreme Court and the Struggle for Racial Equality'' [[Oxford University Press]], 2004 
+* Litwack, Leon F.. ''Trouble in Mind: Black Southerners in the Age of Jim Crow'' (Alfred A. Knopf: 1998) "This is the most complete and moving account we have had of what the victims of the Jim Crow South suffered and somehow endured" — C. Vann Woodward
+* Lopez, Ian F. Haney. [http://www.accessmylibrary.com/coms2/summary_0286-30274716_ITM "A nation of minorities": race, ethnicity, and reactionary colorblindness]. ''Stanford Law Review'', February 1, 2007.
+* Kantrowitz, Stephen. ''Ben Tillman &amp; the Reconstruction of White Supremacy'' (2000) 
+* McMillen, Neil R. ''Dark Journey: Black Mississippians in the Age of Jim Crow''. [[University of Illinois Press]], 1989. 
+* Medley, Keith Weldon. ''We As Freemen: Plessy v. Ferguson''. Pelican. March, 2003. ISBN 1-58980-120-2. Popular story of Homer Plessy, who lost his case before the Supreme Court; the case legalized segregation in the U.S. for the next 58 years.
+* Murray, Pauli. ''States' Law on Race and Color''. [[University of Georgia Press]]. 2d ed. 1997 (Davison Douglas ed.). ISBN 978-0820318837
+* Myrdal, Gunnar. ''An American Dilemma: The Negro Problem and Modern Democracy''. [[Harper and Row]]. (1944) the most detailed analysis of the Jim Crow system in operation.
+* Percy, William Alexander. ''Lanterns on the Levee: Recollections of a Planter's Son.'' 1941. Reprint, [[Louisiana State University Press]], 1993. by conservative white planter
+* Rabinowitz, Howard N. ''Race Relations in the Urban South, 1856–1890'' (1978)
+* Smith, J. Douglas. ''Managing: Race, Politics, and Citizenship in Jim Crow Virginia'' [[University of North Carolina Press]], 2002.
+* Smith, J. Douglas. “The Campaign for Racial Purity and the Erosion of Paternalism in Virginia, 1922–1930: “Nominally White, Biologically Mixed, and Legally Negro.’” ''[[Journal of Southern History]]'' 68 (February 2002): 65–106. 
+* Smith, J. Douglas. “Patrolling the Boundaries of Race: Motion Picture Censorship and Jim Crow in Virginia, 1922–1932.” ''Historical Journal of Film, Radio, and Television'' 21 (August 2001): 273–91. 
+* Sterner, Richard.   ''The Negro's Share'' (1943) detailed statistics 
+* Woodward, C. Vann. ''The Strange Career of Jim Crow'' (1955) the classic history by Pulitzer prize winner. 
+* Woodward, C. Vann. ''The Origins of the New South: 1877–1913'' (1951).
+
+== External links ==
+* [http://www.jimcrowhistory.org/history/history.htm The History of Jim Crow], Ronald L. F. Davis – A series of essays on the history of Jim Crow. {{wayback|http://www.jimcrowhistory.org/history/history.htm}}
+** [http://www.jimcrowhistory.org/history/creating2.htm Creating Jim Crow] – Origins of the term and system of laws. {{wayback|http://www.jimcrowhistory.org/history/creating2.htm}}
+** [http://www.jimcrowhistory.org/resources/lessonplans/hs_es_etiquette.htm Racial Etiquette: The Racial Customs and Rules of Racial Behavior in Jim Crow America] – The basics of Jim Crow etiquette. {{wayback|http://www.jimcrowhistory.org/resources/lessonplans/hs_es_etiquette.htm}}
+* [http://www.ferris.edu/jimcrow/ Jim Crow Museum of Racist Memorabilia]
+* [http://www.robinwashington.com/jimcrow/1_home.html "You Don't Have to Ride Jim Crow!"] PBS documentary on first Freedom Ride, in 1947. {{wayback|http://www.robinwashington.com/jimcrow/1_home.html}}
+* [http://afroamhistory.about.com/cs/jimcrowlaws/a/jimcrowlaws.htm List of laws enacted in various states]
+* [http://www.ferris.edu/news/jimcrow/what.htm Ferris University page] about Jim Crow
+* [http://www.ushmm.org/museum/exhibit/focus/antisemitism/voices/transcript/?content=20090423''Voices on Antisemitism'' Interview with David Pilgrim, founder of Jim Crow Museum] from the US Holocaust Memorial Museum
+* [http://www.pbs.org/jazz/time/time_jim_crow.htm Jim Crow Era, History in the Key of Jazz], [[Gerald Early]], Washington University, St. Louis, Missouri (esp. see section "Jim Crow is Born")
+
+
+{{Template group
+|list =
+{{African American topics}}
+{{Racism topics|state=collapsed}} 
+{{Segregation by type|state=collapsed}}
+}}
+
+{{DEFAULTSORT:Jim Crow}}
+[[Category:History of racial segregation in the United States]]
+[[Category:Politics and race]]
+[[Category:Reconstruction]]
+[[Category:Discrimination in the United States]]
+[[Category:Legal history of the United States]]
+[[Category:African American history]]
+[[Category:American political terms]]
+[[Category:Race legislation in the United States]]
+[[Category:United States repealed legislation]]
+[[Category:Race-related legal issues]]
+[[Category:Debt bondage]]
+[[Category:White supremacy in the United States]]
+
+[[ar:قوانين جيم كرو]]
+[[da:Jim Crow-lovene]]
+[[de:Jim Crow]]
+[[es:Jim Crow]]
+[[fr:Lois Jim Crow]]
+[[gan:呫·呵嘍法]]
+[[id:Jim Crow]]
+[[it:Leggi Jim Crow]]
+[[lt:Džimo Krou įstatymai]]
+[[nl:Jim Crow-wetten]]
+[[ja:ジム・クロウ法]]
+[[pl:Prawa Jim Crow]]
+[[pt:Leis de Jim Crow]]
+[[ru:Законы Джима Кроу]]
+[[fi:Jim Crow -lait]]
+[[sv:Jim Crow-lagar]]
+[[tr:Jim Crow yasaları]]</rev></revisions></page></pages></query></api>

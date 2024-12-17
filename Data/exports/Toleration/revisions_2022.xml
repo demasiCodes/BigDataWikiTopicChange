@@ -1,0 +1,252 @@
+<?xml version="1.0"?><api><continue rvcontinue="20220901151322|1107917909" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="338825" pageid="338825" ns="0" title="Toleration"><revisions><rev timestamp="2022-09-01T15:13:34Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Short description|Allowing or permitting a thing, person, or idea of which one disapproves}}
+{{redirect|Tolerate|other uses|Tolerance (disambiguation){{!}}Tolerance}}
+{{Discrimination sidebar}}
+[[File:Für Toleranz.jpg|thumb|Sculpture ''Für Toleranz'' ("for tolerance") by [[Volkmar Kühn]], [[Gera]], Germany ]]
+'''Toleration''' is the allowing, permitting, or [[acceptance]] of an action, idea, object, or person which one dislikes or disagrees with.  Political scientist Andrew R. Murphy explains that "We can improve our understanding by defining "toleration" as a set of social or political practices and "tolerance" as a set of attitudes."&lt;ref name="Murphy"&gt;{{cite journal|last=Murphy|first=Andrew R.| title=Tolerance, Toleration, and the Liberal Tradition|date=1997|volume=29|issue=4|publisher=The University of Chicago Press Journals|journal=Polity|pages=593–623|doi=10.2307/3235269|jstor=3235269|s2cid=155764374}}&lt;/ref&gt; ''[[Random House Dictionary]]'' defines tolerance as "a fair, objective, and permissive attitude toward those whose opinions, beliefs, practices, racial or ethnic origins, etc., differ from one's own".&lt;ref&gt;[http://dictionary.reference.com/browse/tolerance "Tolerance"] in ''[[Random House Dictionary]]'' (via dictionary.reference.com).&lt;/ref&gt;
+
+Both these concepts inherently contain the idea of [[alterity]], the state of ''otherness.''&lt;ref name="van Doorn"&gt;{{cite news|last=van Doorn|first=Marjoka|title = The nature of tolerance and the social circumstances in which it emerges|date = October 2014|volume = 62|pages = 905–927|publisher=Current Sociology}}&lt;/ref&gt; Additional choices of how to respond to the "other," beyond toleration, do exist. Therefore, in some instances, toleration has been seen as ‘a flawed virtue’ because it concerns acceptance of things that were better overcome.&lt;ref name="van Doorn2"&gt;{{cite journal|last=van Doorn |first=Marjoka |year=2012 |title=Tolerance |journal=Sociopedia|publisher=Sage|url=http://www.sagepub.net/isa/admin/viewPDF.aspx?&amp;art=Tolerance.pdf}}&lt;/ref&gt; Toleration cannot, therefore, be defined as a universal good, and many of its applications and uses remain contested.&lt;ref name="van Doorn2"/&gt;{{rp|2}}
+
+[[Religious toleration]] may signify "no more than forbearance and the permission given by the adherents of a dominant religion for other religions to exist, even though the latter are looked on with disapproval as inferior, mistaken, or harmful".&lt;ref&gt;Perez Zagorin, ''How the Idea of Religious Toleration Came to the West'' (Princeton: Princeton University Press 2003) {{ISBN|0691092702}}, pp. 5–6, quoting D.D. Raphael et al.&lt;/ref&gt; Historically, most incidents and writings pertaining to toleration involve the status of [[minority influence|minority]] and dissenting viewpoints in relation to a dominant [[state religion]].&lt;ref&gt;Joachim Vahland, 'Toleranzdiskurse', [[Zeno (periodical)|''Zeno'']] no. 37 (2017), pp. 7–25&lt;/ref&gt;  However, religion is also sociological, and the practice of toleration has always had a political aspect as well.&lt;ref name="Gervers"&gt;{{cite book|title=Tolerance and Intolerance: Social Conflict in the Age of the Crusades|editor1-last=Gervers|editor1-first=Peter|editor2-last=Gervers|editor2-first=Michael|editor3-last=Powell|editor3-first=James M.|publisher=Syracuse University Press|year=2001|isbn=9780815628699}}&lt;/ref&gt;{{rp|xiii}}
+
+Toleration assumes there is a conflict over something important, something that cannot otherwise be resolved through normal negotiation without resorting to war or violence.  As political lecturer Catriona McKinnon explains, when it comes to questions like what is "the best way to live, the right things to think, the ideal political society, or the true road to salvation, no amount of negotiation and bargaining will bring them to agreement without at least one party relinquishing the commitments that created the conflict in the first place.  Such conflicts provide the circumstances of toleration{{nbsp}}... [and] are endemic in society."&lt;ref name="McKinnon"&gt;{{cite book|last=McKinnon|first=Catriona|title=Toleration: A Critical Introduction|publisher=Routledge|location=New York|year=2006|isbn=0-415-32289-8}}&lt;/ref&gt;{{rp|6}} "The urgency and relevance of this issue is only too obvious: without tolerance, communities that value diversity,&lt;ref&gt;{{cite web |title=Diversity As A Core Value – What Does It Mean To Value Diversity? |url=https://www.emexmag.com/diversity-as-a-core-value/ |website=www.emexmag.com |access-date=10 June 2016}}&lt;/ref&gt; equality and peace could not persist (Vogt, 1997)."&lt;ref name="van Doorn2"/&gt;{{rp|1}}
+
+An overview of the history of toleration and different cultures in which toleration has been practiced, and the ways in which such a paradoxical concept has developed into a guiding one, illuminates its contemporary use as political, social, religious, and ethnic, applying to [[LGBT]] individuals and other minorities, and other connected concepts such as [[human rights]].
+
+==Etymology==
+Originally from the [[Latin]] ''tolerans'' ([[present participle]] of ''tolerare''; "to bear, endure, tolerate"), the word ''tolerance'' was first used in [[Middle French]] in the 14th century and in [[Early Modern English]] in the early 15th century.&lt;ref&gt;{{cite web |title=tolerance (n.) |url=https://www.etymonline.com/word/tolerance#etymonline_v_15343 |website=[[Online Etymology Dictionary]] |access-date=19 November 2018}}&lt;/ref&gt; The word ''toleration'' was first used in English in the 1510s to mean "permission granted by authority, licence" from the French ''tolération'' (originally from the Latin [[past participle]] stem of ''tolerare'', ''tolerationem''), moving towards the meaning of "forbearance, sufferance" in the 1580s.&lt;ref name="toleration (n.)"&gt;{{cite news |title=toleration (n.) |url=https://www.etymonline.com/word/toleration#etymonline_v_15344 |access-date=19 November 2018 |work=[[Online Etymology Dictionary]]}}&lt;/ref&gt; The notion of religious toleration stems from 1609.&lt;ref name="toleration (n.)" /&gt;
+
+==Declaration of the Rights of Man and of the Citizen==
+[[File:Declaration of the Rights of Man and of the Citizen in 1789.jpg|thumb|[[Declaration of the Rights of Man and of the Citizen]]]]
+{{quote box|quote=For having lived long, I have experienced many instances of being obliged, by better information or fuller consideration, to change opinions even on important subjects, which I once thought right, but found to be otherwise. It is therefore that the older I grow the more apt I am to doubt my own judgment, and to pay more respect to the judgment of others.|source=[[Benjamin Franklin]]|width=250px}}
+The [[Declaration of the Rights of Man and of the Citizen]] (1789), adopted by the [[National Constituent Assembly (France)|National Constituent Assembly]] during the [[French Revolution]], states in Article 10: "No-one shall be interfered with for his opinions, even religious ones, provided that their practice does not disturb public order as established by the law." ("Nul ne doit être inquiété pour ses opinions, mêmes religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la loi.")&lt;ref&gt;[http://www.textes.justice.gouv.fr/textes-fondamentaux-10086/droits-de-lhomme-et-libertes-fondamentales-10087/declaration-des-droits-de-lhomme-et-du-citoyen-de-1789-10116.html "Déclaration des droits de l'Homme et du citoyen de 1789"]. Accessed March 22, 2011&lt;/ref&gt;
+
+==In the nineteenth century==
+
+===Mill===
+In "[[On Liberty]]" (1859) [[John Stuart Mill]] concludes that opinions ought never to be suppressed, stating, "Such prejudice, or oversight, when it [i.e. false belief] occurs, is altogether an evil; but it is one from which we cannot hope to be always exempt, and must be regarded as the price paid for an inestimable good." He claims that there are three sorts of beliefs that can be had—wholly false, partly true, and wholly true—all of which, according to Mill, benefit the common good:&lt;ref name=MillP72&gt;Mill 1859, p. 72&lt;/ref&gt;
+
+{{quote|First, if any opinion is compelled to silence, that opinion may, for aught we can certainly know, be true. To deny this is to assume our own infallibility. Secondly, though the silenced opinion be an error, it may, and very commonly does, contain a portion of truth; and since the general or prevailing opinion on any subject is rarely or never the whole truth, it is only by the collision of adverse opinions that the remainder of the truth has any chance of being supplied. Thirdly, even if the received opinion be not only true, but the whole truth; unless it is suffered to be, and actually is, vigorously and earnestly contested, it will, by most of those who receive it, be held in the manner of a prejudice, with little comprehension or feeling of its rational grounds. And not only this, but, fourthly, the meaning of the doctrine itself will be in danger of being lost, or enfeebled, and deprived of its vital effect on the character and conduct: the dogma becoming a mere formal profession, inefficacious for good, but cumbering the ground, and preventing the growth of any real and heartfelt conviction, from reason or personal experience.&lt;ref name=MillP72/&gt;}}
+
+===Renan===
+[[File:Ernest Renan 1876-84.jpg|thumb|Renan]]
+In his 1882 essay "[[What is a Nation?]]", French historian and philosopher [[Ernest Renan]] proposed a definition of nationhood based on "a spiritual principle" involving shared memories, rather than a common religious, racial or linguistic heritage. Thus members of any religious group could participate fully in the life of the nation. "You can be French, English, German, yet Catholic, Protestant, Jewish, or practicing no religion."&lt;ref&gt;Ernest Renan, [http://fr.wikisource.org/wiki/Qu%E2%80%99est-ce_qu%E2%80%99une_nation_%3F "Qu'est-ce qu'une nation?"], conference faite en Sorbonne, le 11 Mars 1882. Accessed January 13, 2011&lt;/ref&gt;
+
+==In the twentieth century==
+In 1948, the [[United Nations]] General Assembly adopted Article 18 of the [[Universal Declaration of Human Rights]], which states:
+&lt;blockquote&gt; Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance&lt;ref&gt;[https://www.un.org/Overview/rights.html "The Universal Declaration of Human Rights"], United Nations 1948, retrieved 1 June 2007.&lt;/ref&gt;&lt;/blockquote&gt;
+Even though not formally legally binding, the Declaration has been adopted in or influenced many national constitutions since 1948. It also serves as the foundation for a growing number of international treaties and national laws and international, regional, national and sub-national institutions protecting and promoting human rights including the [[freedom of religion]].
+
+== Tolerance and digital technologies ==
+{{more citations needed|section|date=September 2019}}
+The development of new digital technologies has resulted in an [[exponential growth]] in the volume of [[information]] and [[knowledge]] available, and made them more readily accessible to greater numbers of people throughout the world. As such, [[Information and communications technology|information and communication technologies]] can play an essential role in the sharing of knowledge and expertise in the service of [[sustainable development]] and in a spirit of solidarity. And yet, for many observers, the world is witnessing rising levels of ethnic, cultural and [[religious intolerance]], often using the same communication technologies for ideological and political mobilization to promote exclusivist worldviews. This mobilization often leads to further criminal and political violence and to armed conflict.&lt;ref&gt;{{Cite book|url=http://unesdoc.unesco.org/images/0023/002325/232555e.pdf|title=Rethinking Education: Towards a global common good?|publisher=UNESCO|year=2015|isbn=978-9231000881|page=24}}&lt;/ref&gt; This also leads to new modes of intolerance such as [[cyberbullying]].
+
+==Modern analyses and critiques==
+Contemporary commentators have highlighted situations in which toleration conflicts with widely held moral standards, national law, the principles of national identity, or other strongly held goals. Michael Walzer notes that the British in India tolerated the Hindu practice of [[suttee]] (ritual burning of a widow) until 1829. On the other hand, the United States declined to tolerate the [[Mormon]] practice of [[polygamy]].&lt;ref&gt;Michael Walzer, ''On Toleration'', (New Haven: Yale University Press 1997) p. 61 {{ISBN|0300076002}}&lt;/ref&gt; The [[Islamic veil controversy in France|French head scarf controversy]] represents a conflict between religious practice and the French secular ideal.&lt;ref&gt;John Bowen, [http://bostonreview.net/BR29.1/bowen.html "Muslims and Citizens"], ''The Boston Review'' February–March 2004. Accessed January 25, 2011&lt;/ref&gt; Toleration of the [[Romani people]] in European countries is a continuing issue.&lt;ref&gt;[http://www.economist.com/node/17043366 "Romanies: A long road"], ''The Economist'' September 16, 2010. Accessed March 22, 2011&lt;/ref&gt;
+
+===Modern definition===
+Historian Alexandra Walsham notes that the modern understanding of the word "toleration" may be very different from its historic meaning.&lt;ref name="Walsham06-233"&gt;Alexandra Walsham, ''Charitable Hatred: Tolerance and Intolerance in England, 1500–1700''. Manchester University Press (2006) {{ISBN|0719052394}} p. 233.&lt;/ref&gt; Toleration in modern parlance has been analyzed as a component of a liberal or [[Libertarianism|libertarian]] view of [[human rights]]. Hans Oberdiek writes, "As long as no one is harmed or no one's fundamental rights are violated, the state should keep hands off, tolerating what those controlling the state find disgusting, deplorable or even debased. This for a long time has been the most prevalent defense of toleration by liberals... It is found, for example, in the writings of American philosophers [[John Rawls]], [[Robert Nozick]], [[Ronald Dworkin]], [[Brian Barry]], and a Canadian, [[Will Kymlicka]], among others."&lt;ref&gt;Oberdiek, Hans, ''Tolerance: between forebearance and acceptance'' (Lanham, Maryland: Rowman and Littlefield, 2001) p. vi {{ISBN|0847687856}}&lt;/ref&gt;
+
+[[Isaiah Berlin]] attributes to [[Herbert Butterfield]] the notion that "toleration... implies a certain disrespect. I tolerate your absurd beliefs and your foolish acts, though I know them to be absurd and foolish. Mill would, I think, have agreed."&lt;ref&gt;Isaiah Berlin, "Four Essays on Liberty," London, Oxford and New York: Oxford University Press, 1969, p. 184.&lt;/ref&gt;
+
+[[John Gray (philosopher)|John Gray]] states that "When we tolerate a practice, a belief or a character trait, we let something be that we judge to be undesirable, false or at least inferior; our toleration expresses the conviction that, despite its badness, the object of toleration should be left alone."&lt;ref&gt;John Gray, "Enlightenment's Wake," London and New York: Routledge, p. 19.&lt;/ref&gt; However, according to Gray, "new liberalism—the
+liberalism of Rawls, Dworkin, Ackerman and suchlike" seems to imply that "it is wrong for government to discriminate in favour of, or against, any form of life animated by a definite conception of the good".&lt;ref&gt;Gray (1995), p. 20.&lt;/ref&gt;
+
+[[John Rawls]]' "theory of 'political liberalism' conceives of toleration as a pragmatic response to the fact of diversity". Diverse groups learn to tolerate one another by developing "what Rawls calls 'overlapping consensus': individuals and groups with diverse metaphysical views or 'comprehensive schemes' will find reasons to agree about certain principles of justice that will include principles of toleration".&lt;ref&gt;[http://www.iep.utm.edu/tolerati/ "Toleration"], ''The Internet Encyclopedia of Philosophy'', Accessed March 21, 2011&lt;/ref&gt;
+
+[[Herbert Marcuse]] wrote ''[[A Critique of Pure Tolerance]]'' in 1965 where he argued that the "pure tolerance" that permits all favors [[totalitarianism]], [[democracy]], and [[tyranny of the majority]], and insisted the "repressive tolerance" against them.
+
+===Tolerating the intolerant===
+{{main article|Paradox of tolerance}}
+Walzer, [[Karl Popper]]&lt;ref&gt;Karl Popper, ''The Open Society and Its Enemies'', Vol. 1, Notes to the Chapters: Ch. 7, Note 4.&lt;/ref&gt; and [[John Rawls]]&lt;ref&gt;[https://books.google.com/books?id=TdvHKizvuTAC&amp;pg=PA216&amp;lpg=PA216#v=onepage&amp;q=&amp;f=false John Rawls, ''A Theory of Justice'', Harvard University Press, 1971, p. 216.]&lt;/ref&gt; have discussed the paradox of tolerating intolerance. Walzer asks "Should we tolerate the intolerant?" He notes that most minority religious groups who are the beneficiaries of tolerance are themselves intolerant, at least in some respects.&lt;ref&gt;Michael Walzer, ''On Toleration'', (New Haven: Yale University Press 1997) pp. 80–81 {{ISBN|0300076002}}&lt;/ref&gt; Rawls argues that an intolerant sect should be tolerated in a tolerant society unless the sect directly threatens the security of other members of the society. He links this principle to the stability of a tolerant society, in which members of an intolerant sect in a tolerant society will, over time, acquire the tolerance of the wider society.
+
+===Other criticisms and issues===
+Toleration has been described as undermining itself via [[moral relativism]]: "either the claim self-referentially undermines itself or it provides us with no compelling reason to believe it. If we are skeptical about knowledge, then we have no way of knowing that toleration is good."&lt;ref&gt;[http://www.iep.utm.edu/tolerati/#H5 "Toleration"], ''The Internet encyclopedia of Philosophy'', Accessed March 21, 2011&lt;/ref&gt;
+
+[[Ronald Dworkin]] argues that in exchange for toleration, minorities must bear with the criticisms and insults which are part of the freedom of speech in an otherwise tolerant society.&lt;ref&gt;Ronald Dworkin, [https://www.theguardian.com/world/2006/feb/14/muhammadcartoons.comment "Even bigots and Holocaust deniers must have their say"], ''The Guardian'', February 14, 2006. retrieved March 21, 2011&lt;/ref&gt; Dworkin has also questioned whether the United States is a "tolerant secular" nation, or is re-characterizing itself as a "tolerant religious" nation, based on the increasing re-introduction of religious themes into conservative politics. Dworkin concludes that "the tolerant secular model is preferable, although he invited people to use the concept of personal responsibility to argue in favor of the tolerant religious model."&lt;ref&gt;[http://www.law.virginia.edu/html/news/2006_spr/dworkin.htm "Dworkin Explores Secular, Religious Models for Society"], ''Virginia Law School News and Events'', April 18, 2008. accessed March 21, 2011&lt;/ref&gt;
+
+In ''[[The End of Faith]]'', [[Sam Harris (author)|Sam Harris]] asserts that society should be unwilling to tolerate unjustified religious beliefs about morality, spirituality, politics, and the origin of humanity, especially beliefs which promote violence.
+
+==See also==
+* [[Anekantavada]]
+* ''[[A Critique of Pure Tolerance]]''
+* "[[The Death Camp of Tolerance]]"
+* [[International Day for Tolerance]]
+* [[Religious discrimination]]
+* [[Religious intolerance]]
+* [[Religious liberty]]
+* [[Religious persecution]]
+* [[Religious pluralism]]
+* [[Zero tolerance]]
+
+== Sources ==
+{{Free-content attribution
+| title = Rethinking Education: Towards a global common good?
+| author =
+| publisher = UNESCO
+| page numbers = 24
+| source =
+| documentURL = http://unesdoc.unesco.org/images/0023/002325/232555e.pdf
+| license statement URL = http://www.unesco.org/ulis/cgi-bin/ulis.pl?catno=232555&amp;set=00581C72C5_2_460&amp;gp=1&amp;lin=1&amp;ll=1
+| license = CC-BY-SA IGO 3.0
+}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book
+ | last=Barzilai
+ | first=Gad
+ | title= Law and Religion
+ | year= 2007
+ | publisher= Ashgate
+ | isbn=978-0754624943
+ }}
+* {{cite book
+ | last = Beneke
+ | first = Chris
+ | title = Beyond Toleration: The Religious Origins of American Pluralism
+ |year=2006
+ | publisher = Oxford University Press
+ | isbn = 978-0195305555
+ }}
+* {{cite book
+ | last = Coffey
+ | first = John
+ | title =Persecution and Toleration in Protestant England, 1558–1689
+ | year = 2000
+ | publisher = Longman Publishing Group
+ | isbn = 978-0582304659
+ }}
+* Collins, Jeffrey R. "Redeeming the enlightenment: New histories of religious toleration." ''Journal of Modern History'' 81.3 (2009): 607–36. Historiography 1789 to 2009.
+* {{cite book
+ | last = Curry
+ | first = Thomas J.
+ | title = Church and State in America to the Passage of the First Amendment
+ | date = 1989
+ | publisher = Oxford University Press; Reprint edition
+ | isbn = 978-0195051810
+ | url-access = registration
+ | url = https://archive.org/details/firstfreedomschu0000curr
+ }}
+* {{cite book
+ | editor = Grell, Ole Peter
+ | editor2 = Roy Porter
+ | title = Toleration in Enlightenment Europe
+ | publisher = Cambridge University Press
+ | location = Cambridge
+ | year = 2000
+ | isbn = 978-0521651967
+ | url = https://archive.org/details/tolerationinenli0000unse
+ }}
+* {{cite book
+ | last = Hamilton
+ | first = Marci A.
+ | others = Edward R. Becker (Foreword)
+ | title = God vs. the Gavel: Religion and the Rule of Law
+ | date = 2005
+ | publisher = Cambridge University Press
+ | isbn = 978-0521853040
+ | url = https://archive.org/details/godvsgavelreligi00hami
+ }}
+* {{cite book
+ | last = Hanson
+ | first = Charles P.
+ | title = Necessary Virtue: The Pragmatic Origins of Religious Liberty in New England
+ | year = 1998
+ | publisher = University Press of Virginia
+ | isbn = 978-0813917948
+ | url = https://archive.org/details/necessaryvirtuep0000hans
+ }}
+* {{cite book
+ | last = Kaplan
+ | first = Benjamin J.
+ | title = Divided by Faith: Religious Conflict and the Practice of Toleration in Early Modern Europe
+ | year = 2007
+ | publisher = Belknap Press
+ | isbn = 978-0674024304
+ }}
+* {{cite book
+ | editor = Laursen, John Christian |editor2=Nederman, Cary
+ | title = Beyond the Persecuting Society: Religious Toleration Before the Enlightenment
+ |year= 1997
+ | publisher = University of Pennsylvania Press
+ | isbn = 978-0812233315
+ }}
+* {{cite book
+ | last = Murphy
+ | first = Andrew R.
+ | title = Conscience and Community: Revisiting Toleration and Religious Dissent in Early Modern England and America
+ |date=2001
+ | publisher = Pennsylvania State University Press
+ | isbn = 978-0271021058
+ }}
+* {{cite book
+ | last = Oberdiek
+ | first = Hans
+ | title =Tolerance: between forebearance and acceptance
+ | year = 2001
+ | publisher =Rowman and Littlefield
+ | isbn = 978-0847687855
+ }}
+* Tausch, Arno. "Are Practicing Catholics More Tolerant of Other Religions than the Rest of the World? Comparative Analyses Based on World Values Survey Data" (November 21, 2017). Available at {{SSRN|3075315}} or {{doi|10.2139/ssrn.3075315}}
+* {{cite book
+ | last = Tønder
+ | first = Lars
+ | title = Tolerance: A Sensorial Orientation to Politics
+ |year=2013
+ | publisher = Oxford University Press
+ | isbn = 978-0199315802
+}}
+* {{cite book
+ | last = Walsham
+ | first = Alexandra
+ | title = Charitable Hatred: Tolerance and Intolerance in England, 1500–1700
+ | date = 2006
+ | publisher = Manchester University Press
+ | isbn = 978-0719052392
+ | url-access = registration
+ | url = https://archive.org/details/charitablehatred00wals
+ }}
+* Walsham, Alexandra. (2017) "Toleration, Pluralism, and Coexistence: The Ambivalent Legacies of the Reformation." ''Archiv für Reformationsgeschichte{{snd}}Archive for Reformation History'' 108.1 (2017): 181–90. [https://www.repository.cam.ac.uk/bitstream/handle/1810/275919/Toleration%20ARG.docx?sequence=1 Online]
+* {{cite book
+ | last = Zagorin
+ | first = Perez
+ | title = How the Idea of Religious Toleration Came to the West
+ | year = 2003
+ | publisher = Princeton University Press
+ | isbn = 978-0691121420
+ }}
+
+==External links==
+{{Commons category|Tolerance}}
+{{wikiquote}}
+{{wikibooks|God and Religious Toleration}}
+* [http://cfr.org/religion Religion and Foreign Policy Initiative], [http://cfr.org/religion Council on Foreign Relations]
+* [http://www.unhchr.ch/udhr/miscinfo/carta.htm Background to the United Nations Universal Declaration of Human Rights]
+* [http://www.unhchr.ch/udhr/lang/eng.htm Text of the United Nations Universal Declaration of Human Rights]
+* {{cite web
+ | title = Ontario Consultants on Religious Tolerance
+ | work = Various information on sensible religious topics
+ | publisher = [[Ontario Consultants on Religious Tolerance]]
+ | url = http://www.religioustolerance.org/}}
+* {{curlie|Society/Religion_and_Spirituality/Religious_Tolerance/|Religious Tolerance}}
+* [http://www.religiousfreedom.com/conference/Germany/stango.htm History of Religious Tolerance]
+* [http://cle.ens-lyon.fr/anglais/outline-for-a-discussion-on-toleration--253340.kjsp?RH=CDL Outline for a Discussion on Toleration (Karen Barkey)]
+* [http://firmstand.org/ The Foundation against Intolerance of Religious Minorities]
+* {{cite IEP |url-id=tolerati |title=Toleration}}
+* [https://www.bbc.co.uk/programmes/p004y288 Toleration], BBC Radio 4 discussion with Justin Champion, David Wootton &amp; Sarah Barber (''In Our Time'', May 20, 2004)
+* [http://www.tolerance.org/ Teaching Tolerance]
+* [https://www.tolerance.org/professional-development/test-yourself-for-hidden-bias Test Yourself for Hidden Bias]
+
+{{Christianity and politics}}
+{{Religious pluralism}}
+{{Religion topics}}
+{{Western culture}}
+{{Discrimination}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Religious Toleration}}
+[[Category:Religion and politics]]
+[[Category:Human rights by issue|Religion]]</rev></revisions></page></pages></query></api>

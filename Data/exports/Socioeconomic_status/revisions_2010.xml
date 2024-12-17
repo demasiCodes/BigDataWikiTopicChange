@@ -1,0 +1,94 @@
+<?xml version="1.0"?><api><continue rvcontinue="20100927095219|387284429" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="13059113" pageid="13059113" ns="0" title="Socioeconomic status"><revisions><rev timestamp="2010-09-27T09:52:39Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Globalize |date=July 2010}}
+{{sociology}}
+'''Socioeconomic status''' (SES) is an economic and sociological combined total measure of a person's work experience and of an individual's or family’s economic and social position relative to others, based on [[income]], [[education]], and occupation. When analyzing a family’s SES, the household income earners' [[education]] and occupation are examined, as well as combined income, versus with an individual, when their own attributes are assessed.&lt;ref&gt;National Center for Educational Statistics. 31 March 2008. http://nces.ed.gov/programs/coe/glossary/s.asp&lt;/ref&gt;
+
+Socioeconomic status is typically broken into three categories, high SES, middle SES, and low SES to describe the three areas a family or an individual may fall into. When placing a family or individual into one of these categories any or all of the three variables (income, education, and occupation) can be assessed.
+
+A fourth variable, [[wealth]], may also be examined when determining socioeconomic status.
+
+Additionally, low income and little education have shown to be strong predictors of a range of physical and mental health problems, ranging from respiratory viruses, arthritis, coronary disease, and [[schizophrenia]].&lt;ref&gt;Erica Goode. 13 April. “For Good Health, it Helps to be Rich and Important.” New York Times http://query.nytimes.com/gst/fullpage.html?res=9806E5DA1230F932A35755C0A96F958260&amp;sec=&amp;spon=&amp;pagewanted=1&lt;/ref&gt;&lt;ref&gt;Marmot, Michael. 2004. The Status Syndrome: How Social Standing Affects Our
+Health and Longevity. New York: Owl Books.&lt;/ref&gt;&lt;ref&gt;Werner, Shirli, Malaspina, Dolores, and Rabinowitz, Jonathan. Socioeconomic Status at Birth is Associated with Risk of Schizophrenia: Population-Based Multilevel Study. Schizophrenia Bulletin. 18 April 2007.&lt;/ref&gt;
+
+==Main Factors==
+===Income===
+''Income'' refers to [[wage]]s, [[salaries]], [[Profit (accounting)|profits]], [[rents]], and any flow of earnings received. [[Income]] can also come in the form of unemployment or workers compensation, social security, pensions, interests or dividends, royalties, trusts, alimony, or other governmental, public, or family financial assistance.
+
+[[Income]] can be looked at in two terms, relative and absolute. Absolute income, as theorized by economist [[John Maynard Keynes]], is the relationship in which as [[income]] increases, so will consumption, but not at the same rate.&lt;ref&gt;Economy professor. 6 April 2008. http://www.economyprofessor.com/economictheories/absolute-income-hypothesis.php&lt;/ref&gt; [[relative poverty|Relative income]] dictates a person or family’s savings and consumption based on the family’s income in relation to others. Income is a commonly used measure of SES because it is relatively easy to figure for most individuals.
+
+[[Income inequality]] is most commonly measured around the world by the [[Gini coefficient]], where 0 corresponds to perfect equality and 1 means perfect inequality. Low income families focus on meeting immediate needs and do not accumulate wealth that could be passed on to future generations, thus increasing inequality. Families with higher and expendable income can accumulate [[wealth]] and focus on meeting immediate needs while being able to consume and enjoy luxuries and weather crises.&lt;ref&gt;Boushey, Heather and Weller, Christian. (2005). Inequality Matters: The Growing Economic Divide in America and its Poisonous Consequences.. “What the Numbers Tell Us.” Pp 27-40. Demos.&lt;/ref&gt;
+
+&lt;gallery&gt;
+Image:Incomeinequality.jpg|This graph shows the differences in income between the top and bottom income earners.&lt;ref name=apa&gt;American Psychological Association, Task Force on Socioeconomic Status.
+Report of the APA Task Force on Socioeconomic Status. Washington, DC:
+American Psychological Association, 2007.http://www2.apa.org/pi/SES_task_force_report.pdf&lt;/ref&gt;
+&lt;/gallery&gt;
+
+Education also plays a role in income. Median earnings increase with each level of [[education]]. As conveyed in the chart, the highest degrees, professional and doctoral degrees, make the highest weekly earnings while those without a high school diploma earn less. Higher levels of education are associated with better economic and psychological outcomes (i.e.: more income, more control, and greater social support and networking).&lt;ref name=apa/&gt;
+
+&lt;gallery&gt;
+Image:Education.jpg|This graph depicts wages and salaries of full time employees by their educational achievement.&lt;ref&gt;Bureau of labor statistics. 5 April 2008. http://www.bls.gov/opub/ooq/2006/fall/oochart.pdf&lt;/ref&gt;
+&lt;/gallery&gt;
+
+Education plays a major role in skill sets for acquiring jobs, as well as specific qualities that stratify people with higher SES from lower SES. Annette Lareau speaks on the idea of [[concerted cultivation]], where [[middle class]] parents take an active role in their children’s education and development by using controlled organized activities and fostering a sense of entitlement through encouraged discussion. Laureau argues that families with lower income do not participate in this movement, causing their children to have a sense of constraint. A division in education attainment is thus born out of these two differences in child rearing. Lower income families can have children who do not succeed to the levels of the middle income children, who can have a greater sense of entitlement, be more argumentative, or be better prepared for adult life.&lt;ref&gt;Lareau, Annette. (2003). Unequal Childhoods: Race, Class, and Family Life. University of California Press&lt;/ref&gt;
+
+===Occupation===
+[[Occupational prestige]] as one component of SES, encompasses both [[income]] and [[educational attainment]]. Occupational status reflects the educational attainment required to obtain the job and income levels that vary with different jobs and within ranks of occupations. Additionally, it shows achievement in skills required for the job. Occupational status measures social position by describing job characteristics, decision making ability and control, and psychological demands on the job.
+
+Occupations are ranked by the Census (among other organizations) and opinion polls from the general population are surveyed. Some of the most prestigious occupations are physicians and surgeons, lawyers, chemical and biomedical engineers, and communications analysts. These jobs, considered to be grouped in the high SES classification, provide more challenging work and ability and greater control over working conditions. Those jobs with lower rankings were food preparation workers, counter attendants, bartenders and helpers, dishwashers, janitors, maids and housekeepers, vehicle cleaners, and parking lot attendants. The jobs that were less valued were also paid significantly less and are more laborious,very hazardous, and provide less autonomy.&lt;ref name=apa/&gt;&lt;ref&gt;Scott, Janny and Leonhardt, David. “Class Matters: A Special Edition.” New York Times 14 May 2005. http://www.nytimes.com/2005/05/14/national/class/15MOBILITY-WEB.html&lt;/ref&gt;
+
+Occupation is the most difficult factor to measure because so many exist, and there are so many competing scales. Many scales rank occupations based on the level of skill involved, from unskilled to skilled manual labor to professional, or use a combined measure using the education level needed and income involved.
+
+==Other Variables==
+===Wealth===
+
+''Wealth'', a set of economic reserves or assets, presents a source of security providing a measure of a household's ability to meet emergencies, absorb economic shocks, or provide the means to live comfortably. Wealth reflects intergenerational transitions as well as accumulation of income and savings.&lt;ref name=apa/&gt;&lt;ref&gt;MacArthur Research Network on SES and Health. 31 March 2008.					 http://www.macses.ucsf.edu/Research/Social%20Environment/chapters.html&lt;/ref&gt;
+
+[[Income]], age, marital status, family size, religion, occupation, and education are all predictors for wealth attainment.
+
+The wealth gap, like income inequality, is very large in the United States. There exists a racial wealth gap due in part to income disparities and differences in achievement. According to [[Thomas Shapiro]], differences in savings (due to different rates of incomes), inheritance factors, and discrimination in the housing market lead to the racial wealth gap. Shapiro claims that savings increase with increasing income, but African Americans cannot participate in this, because they make significantly less than whites. Additionally, rates of inheritance dramatically differ between African Americans and whites. The amount a person inherits, either during a lifetime or after death, can create different starting points between two different individuals or families. These different starting points also factor into housing, education, and employment discrimination. A third reason Shapiro offers for the racial wealth gap are the various discriminations African Americans must face, like [[redlining]] and higher interest rates in the housing market. These types of discrimination feed into the other reasons why African Americans end up having different starting points and therefore fewer assets.&lt;ref&gt;Shapiro, Thomas. (2004).  The Hidden Cost of Being African American: How Wealth Perpetuates Inequality. Oxford University Press.&lt;/ref&gt;
+
+&lt;gallery&gt;
+Image:Wealthinequality.gif|This graph shows the percentages of wealth in the United States in 2001.&lt;ref name=apa/&gt;
+&lt;/gallery&gt;
+
+==Psychological Effects==
+A study published in the December 2008 issue of ''[[Psychological Science (journal)|Psychological Science]]'' found that children of parents with a high socioeconomic status tended to express more "disengagement" behaviors than their less fortunate peers.  In this context, disengagement behaviors represents actions such as fidgeting with other objects and drawing pictures while being addressed.  Other participants born into less favored circumstances tended to make more [[eye contact]], [[Nod (gesture)|head nods]] and signs of happiness when put into an interactive social environment.  Authors hypothesize that the more fortuitous peers felt less inclined to gain [[rapport]] with their group because they saw no need for their assistance in the future.&lt;ref name=Kraus2008&gt;{{citation
+ | last1 = Kraus | first1 = M.W.
+ | last2 = Keltner | first2 = D.
+ | year = 2008
+ | title = Signs of Socioeconomic Status: A Thin-Slicing Approach
+ | journal = Psychological Science
+ | volume = 20
+ | issue = 1
+ | pages = 99–106
+ | doi = 10.1111/j.1467-9280.2008.02251.x
+ | url = http://www3.interscience.wiley.com/journal/121549448/abstract
+ | pmid = 19076316
+}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Sociology}}
+&lt;div style="column-count:2;-moz-column-count:2;-webkit-column-count:2"&gt;
+*[[Social Class]]
+*[[Income]]
+*[[Educational attainment in the United States]]
+*[[Employment]]
+*[[Social status]]
+*[[Social stratification]]
+*[[Status attainment]]
+*[[Economic mobility]]
+&lt;/div&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*US Census Bureau report on educational attainment in the United States, 2003. 8 April 2008. http://www.census.gov/prod/2004pubs/p20-550.pdf]
+* [http://www.apa.org/pi/ses/index.aspx American Psychological Association's Socioeconomic Status Office]
+
+{{DEFAULTSORT:Socioeconomic Status}}
+[[Category:Political economy]]
+[[Category:Social classes]]
+
+[[de:Sozioökonomischer Status]]
+[[pl:Status socjoekonomiczny]]</rev></revisions></page></pages></query></api>

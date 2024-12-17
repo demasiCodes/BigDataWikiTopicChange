@@ -1,0 +1,14 @@
+<?xml version="1.0"?><api><continue rvcontinue="20040805194803|5023076" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="880112" pageid="880112" ns="0" title="Identity (social science)"><revisions><rev timestamp="2004-08-05T20:05:41Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">The notion of "identity" has many uses throughout the social sciences.
+
+== Cognitive Psychology ==
+In cognition, identity is discussed in terms of whether or not an individual is self-reflective (i.e., whether it is aware of its own identity). For example, in 2002, some papers indicated that dolphins possess the ability to identify themselves in mirrors.
+
+The psychological idea of identity in humans is tied up in self-image, one's view or model of oneself. Psychologists and counsellors interest themselves in psychological identity: an individual person's sense of self. This is usually referred to as '''personal identity'''. See also the work of Erik Erikson and the notion of [[identity crisis]].
+
+== Sociology and Political Theory ==
+
+In sociology and political science, the notion of '''social identity''' is individuals' labelling of themselves as members of particular groups -- such as Nation, Social class, Subculture, Ethnicity, Gender, Employment, and so forth. It is in this sense which sociologists and historians speak of a national identity of a particular country, and feminist and queer theorists speak of gender identity.
+
+Many people feel pride in their Identity groups, which furthers a sense of Community and Belonging. Often they will attempt to add to their identity by behaving in certain ways that have only a superficial connection, often the behaviour wasn't even established within the group, but through the Stereotypes of Oppressors. Though, it should not be mistaken that all people who identify a certain way attempt to add more to it. Identity has been a central element of pride movements such as gay pride or black consciousness, which seek to strengthen Politically oppressed groups by improving members' sense of identity. However, many consider a national or ethnic identity as a cultural background for demagogy, ethnic and religious conflicts, and the like.
+
+{{stub}}</rev></revisions></page></pages></query></api>

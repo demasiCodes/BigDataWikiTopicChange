@@ -1,0 +1,30 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020716035021|330261" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2002-10-02T07:45:18Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">A '''bias''' is a [[prejudice]]. One is said to be biased if one is influenced by one's biases. A bias could for example lead one to accept or non-accept the truth of a claim, not because of the strength of the claim itself, but because it does or does not correspond to one's own preconceived ideas.
+
+----
+
+In [[statistics]], a '''bias''' means that the results for some reason over- or underestimate what is being measured. The most common source of bias is using a biased [[statistical sample|sample]]: If some elements are more likely to be chosen in the sample than others, and those that are have a higher or lower value for the value being measured, the outcome will be higher or lower than the true value.
+
+A famous case of what can go wrong when using a biased sample, is found in the 1936 US presidential election polls. The ''Literary Digest'' held a poll that forecasted that [[Alfred E. Landon]] would defeat [[Franklin Delano Roosevelt]] by 57% to 43%. [[George Gallup]], using a much smaller sample (300,000 rather than 2,000,000), predicted Roosevelt would win, and he was right. What went wrong with the ''Literary Digest'' poll? They had used lists of telephone and automobile owners to select their sample. In those days, these were luxuries, so their sample consisted mainly of middle and upper class citizens. These voted in majority for Landon, but the lower classes voted Roosevelt. Because their sample was biased towards wealthier citizens, their result was incorrect.
+
+Bias is usually regarded as a worse problem than [[statistical noise]]: Problems with statistical noise can be lessened by enlarging the sample, but a biased sample will not go away that easily. In particular, a [[meta-analysis]] will distill good data for studies that themselves suffer from statistical noise, but a meta-analysis of biased studies will be biased itself.
+
+----
+
+In [[telecommunication]], the term '''bias''' has the following meanings: 
+
+&lt;b&gt;1.&lt;/b&gt;  A systematic deviation of a value from a reference value.  
+
+&lt;b&gt;2.&lt;/b&gt;  The amount by which the average of a [[set]] of values departs from a reference value.  
+
+&lt;b&gt;3.&lt;/b&gt;  Electrical, mechanical, magnetic, or other force ([[field]]) applied to a device to establish a reference level to operate the device.  
+
+&lt;b&gt;4.&lt;/b&gt;  In telegraph [[signaling]] systems, the development of a positive or negative dc voltage at a point on a [[line]] that should remain at a specified reference level, such as zero. 
+
+&lt;i&gt;Note:&lt;/i&gt;  A bias may be applied or produced by (i) the electrical characteristics of the line, (ii) the [[terminal equipment]], and (iii) the signaling scheme. 
+
+Source: from [[Federal Standard 1037C]] and from [[MIL-STD-188]]
+
+This should also mention bias as the term defined here: http://www.dictionary.com/search?q=bias, def 2.
+
+----
+'''[[Bias, France|Bias]]''' is a commune in the [[Landes]] [[département]], in [[France]].</rev></revisions></page></pages></query></api>

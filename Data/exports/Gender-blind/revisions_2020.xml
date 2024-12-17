@@ -1,0 +1,44 @@
+<?xml version="1.0"?><api><continue rvcontinue="20200508023914|955485725" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="232627" pageid="232627" ns="0" title="Gender-blind"><revisions><rev timestamp="2020-10-15T19:40:45Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">In education, business, law, and other fields, '''gender blindness''' or '''sex blindness'''&lt;ref name="Bacchi"&gt;{{cite book |ref=harv |last=Bacchi |first=Carol Lee |authorlink1=Carol Bacchi |editor1-last=Essed |editor1-first=P. |editor2-last=Goldberg |editor2-first=D.T. |editor3-last=Kobayashi |editor3-first=A. |title=A Companion to Gender Studies |date=2009 |publisher=John Wiley &amp; Sons |isbn=978-1-4051-8808-1 |page=183 |chapter-url=https://books.google.com/books/about/A_Companion_to_Gender_Studies.html?id=ZPgYDTa9P84C&amp;q=%22gender+blind%22+%22sex+blind%22 |chapter=Policy}}&lt;/ref&gt; is the practice of disregarding [[gender]] as a significant factor in interactions between people.
+
+== In education ==
+
+[[Krista Ratcliffe]] writes that gender blindness functions in the classroom to downplay the existence of gender differences, which tends to reinforce existing gender inequality.&lt;ref name="Ratcliffe"&gt;{{cite book |ref=harv |last=Ratcliffe |first=Krista |title=Rhetorical Listening: Identification, Gender, Whiteness |date=2005 |publisher=Southern Illinois University Press |location=Carbondale |isbn=0-8093-2668-X |page=134 |chapter-url=https://books.google.com/books/about/Rhetorical_Listening.html?id=kLZAhE2wruwC&amp;q=%22gender+blindness%22 |chapter=Listening Pedagogically}}&lt;/ref&gt;
+
+The National Student Genderblind Campaign, founded in the United States in 2006,&lt;ref&gt;{{cite web |url=http://www.genderblind.org/about/ |title=About |publisher=The National Student Genderblind Campaign |archive-url=https://web.archive.org/web/20130408222947/http://www.genderblind.org/about/ |archive-date=8 April 2013 |url-status=dead }}&lt;/ref&gt; has argued in favor of [[gender-neutral]] campus housing at colleges and universities to better serve [[LGBTQIA|gay, lesbian, bisexual, transgender, and intersex]] students.&lt;ref name="Redden"&gt;{{cite news |last=Redden |first=Elizabeth |title=A Room for Jack and Jill |url=https://www.insidehighered.com/news/2006/12/28/room-jack-and-jill |work=Inside Higher Ed |date=28 December 2006}}&lt;/ref&gt;
+
+== In health care ==
+
+The use of mixed-gender hospital rooms has proved controversial in both the United Kingdom and Canada.&lt;ref name="Miner"&gt;{{cite news |first=John |last=Miner |title=Shared room sparks rage |work=London Free Press |date=17 June 2010 |url=https://lfpress.com/news/london/2010/06/16/14417821.html}}&lt;/ref&gt; Manitoba's Health Minister, [[Theresa Oswald]], has campaigned actively against such rooms, saying that if humanity can [[Apollo 11|"put somebody on the moon"]], it can find a way to honor gender requests without leading to delays for patients.&lt;ref name="Owen"&gt;Bruce Owen, Oswald vows action to stop coed rooms in hospitals, Winnipeg Free Press, 14 May 2010&lt;/ref&gt; Great Britain has agreed to phase out such rooms by 2010.&lt;ref name="Miner" /&gt;
+
+Some medical ethicists have been critical of efforts to return to single-sex rooms.&lt;ref name="Owen" /&gt; [[Jacob M. Appel]], an advocate for mixed rooms in the United States, has written that opposition to gender-mixed rooms stems from "old-fashioned prejudice", arguing: "Because some people have been brought up to fear or dislike sharing a room with a person of the opposite sex, or blush at the prospect of catching a glimpse of an unwelcome body part when a robe slips open, we enshrine and perpetuate this prejudice in social policy."&lt;ref&gt;{{cite web |last1=Appel |first1=Jacob M. |title=Are We Ready for Coed Hospital Rooms? |url=https://www.huffpost.com/entry/are-we-ready-for-coed-hos_b_618028 |website=[[HuffPost]] |accessdate=2019-04-26 |date=2010-06-18}}&lt;/ref&gt;
+
+== In law ==
+
+The legal test of the "reasonable person" has been criticised for being genderblind to be applied in some areas of the law, particularly sexual harassment. Women are subjected to more normalised and endemic sexual harassment than men. On the grounds of this, the American case of ''Ellison v. Brady'' 924 F.2d 872 (1991), the court held that "a sex-blind reasonable person standard tends to be male-based and tends to systematically ignore the experiences of women".&lt;ref&gt;{{cite book |editor1-last=McCammon |editor1-first=Holly J. |editor2-last=Taylor |editor2-first=Verta|editor2-link= Verta Taylor |editor3-last=Reger |editor3-first=Jo |editor4-last=Einwohner |editor4-first=Rachel L. |title=The Oxford Handbook of U.S. Women's Social Movement Activism |page=204}}&lt;/ref&gt;
+
+== Research ==
+
+Gendered treatment prevails all over the world. Of a study of organisations which offered women-only services, 23% said that their reason was based on women's inequality and the desire to address that imbalance; 20% that women-only spaces promote female development and empowerment; 18% that they were providing a service not being met by unisex services and which focused on the specific needs of women.&lt;ref name="Women-only"&gt;{{cite web |ref={{harvid|"Women-only services: making the case"|2011}} |title=Women-only services: making the case. A guide for women's organisations |date=July 2011 |publisher=Women's Resource Centre |location=London, UK |page=18 |url=https://thewomensresourcecentre.org.uk/wp-content/uploads/Making-the-case-for-women-only-July-2011.pdf |access-date=2018-04-18 |archive-url=https://web.archive.org/web/20180711131523/https://thewomensresourcecentre.org.uk/wp-content/uploads/Making-the-case-for-women-only-July-2011.pdf |archive-date=2018-07-11 |url-status=dead }}&lt;/ref&gt;
+
+Studies indicate a broad support for single-sex service options to remain available. Of 1000 women polled by the [[Women's Resource Centre,]] 97% stated that women should have the option of accessing female-only services if they were victims of sexual assault. 57% indicated that they would choose a women-only gym over a mixed gym.{{sfnp|"Women-only services: making the case"|2011|p=15}} Single-sex services can provide greater comfort and engagement for participants who would otherwise not get involved.{{sfnp|"Women-only services: making the case"|2011|p=17}}{{Explain|date=April 2019}}
+
+== See also ==
+* [[All-women shortlists]]
+* [[Color blindness (race)]]
+* [[Equal opportunity]]
+* [[Gender-neutral language]]
+* [[Genderqueer]]
+* [[Postgenderism]]
+* [[Third gender]]
+* [[Unisex]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://eige.europa.eu/thesaurus/terms/1157 Definition] by the European Institute for Gender Equality
+
+[[Category:Gender and society]]
+[[Category:Feminism]]
+[[Category:Feminist terminology]]
+[[Category:Linguistic controversies]]</rev></revisions></page></pages></query></api>

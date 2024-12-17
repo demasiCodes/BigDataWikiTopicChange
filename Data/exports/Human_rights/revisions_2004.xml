@@ -1,0 +1,88 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041103033940|7359653" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="13831" pageid="13831" ns="0" title="Human rights"><revisions><rev timestamp="2004-11-11T22:44:31Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Human rights''' ('''natural rights''') are [[right]]s which some hold to be "inalienable" and
+belonging to all [[human]]s, according to [[natural law]]. Such rights are believed, by proponents, to be necessary for [[freedom]] and the maintenance of a "[[reason]]able" [[quality of life]]. 
+
+If a right is inalienable, that means it cannot be bestowed, granted, limited, bartered away, 
+or sold away (e.g., one cannot sell oneself into [[slavery]]). The issue of which rights are inalienable and which are not (or whether ''any'' rights are inalienable rather than granted or bestowed) is an ancient and ongoing controversy. Rights may also be non-derogable (not limited in times of National Emergency)- these include the right to life, the right to be prosecuted only according to the laws that are in existence at the time of the offence, the right to be free from slavery, and the right to be free from torture.
+
+==Universal Declaration of Human Rights==
+In 1948, the United Nations created the [[Universal Declaration of Human Rights]]. This Declaration introduced the notion in the public realm that rights are ''universal'', ''inalienable'',and ''inherent to the well being of an individual''. Specifically, the Declaration limits the behaviour of the state, which now has duties to the citizen (rights-duty duality). The roots of this notion can be drawn as far back as the Ancients (the role of the individual in the state) but the idea of civil and political rights stems from liberal freedoms advocated by [[John Stuart Mill]] in "[[On Liberty]]". Economic, Social and Cultural Rights can be traced back to [[Hegel]]'s "[[Elements of the Philosophy of Right]]".   
+
+The main content of the Declaration was later made into two legally binding Covenants: [[International Covenant on Civil and Political Rights]] (opened for signature 1966, entered into force March 23, 1976) [http://www.unhchr.ch/html/menu3/b/a_ccpr.htm] and the [[International Covenant on Economic, Social and Cultural Rights]] (opened for signature 1966, entered into force January 3, 1976) [http://www.unhchr.ch/html/menu3/b/a_cescr.htm].  
+
+Other Human Rights Conventions of note include: Convention on the Prevention and Punishment of the Crime to [[Genocide]] (entry into force: 1951)[http://www.unhchr.ch/html/menu3/b/p_genoci.htm], The Convention against [[Torture]] (entry into force: 1984)[http://www.unhchr.ch/html/menu3/b/h_cat39.htm],the International Convention on the Elimination of All Forms of Racial Discrimination (entry into force: 1969) [http://www.unhchr.ch/html/menu3/b/d_icerd.htm],The Convention on the Elimination of All Forms of Discrimination against Women (entry into force: 1981)[http://www.un.org/womenwatch/daw/cedaw/frame.htm], UN Convention on the Rights of the Child (entry into force:1989 [http://www.unicef.org/crc/crc.htm]and the Rome Statute for [[International Criminal Court]] (entry into force: 2002).
+
+==Origins of rights==
+Human rights can be divided into two categories: negative human rights (rights to be free from) and positive (rights to). In law, human rights are usually, however, divided into [[three generations of human rights]]: first-generation civil and political rights (right to life and political participation), second-generation economic, social and cultural rights (right to subsistence) and third-generation solidarity rights (right to peace, right to clean environment). The first- and second-generation rights are enshrined in international legal documents, while third-generation rights remain controversial. These categorisations are, however, misleading since it is usually impossible to implement first-generation rights without implementing some second-generation rights. Thus rights are often interconnected. For example: to really use your right to political participation, you must also have basic education and basic subsistence. 
+
+Positive human rights follow mainly from the [[Jean-Jacques Rousseau|Rousseauian]] Continental legal tradition, and are things to which every person is entitled and for which every state is obligated. Examples of such rights (not all are universally agreed upon) include: the rights to [[education]], to a [[employment|livelihood]], and [[law|legal]] [[social equality|equality]]. Positive rights have been codified in the [[Universal Declaration of Human Rights]] and in many 20th century [[constitution]]s.
+
+Negative human rights follow mainly from the Anglo-American legal tradition, and are rights which denote actions that a government should not take.  These are codified in the [[United States Bill of Rights]] and the [[English Bill of Rights]] and the [[Canadian Charter of Rights and Freedoms]] include freedoms of speech, religion and assembly.
+
+There are a number of theories of where rights come from.  The theory espoused by the [[United States Declaration of Independence|US Declaration of Independence]] and ingrained in Anglo-American legal thought is that rights arise from the Judeo-Christian God.  /*Refer to Declaration of Independence paragraph 2 sentence 1 for reference to Creator with a capital C*/  This theory is considered antiquated in [[moral philosophy]]. 
+
+Religious societies tend to try to justify human rights through religious arguments. For example, [[liberal movements within Islam]] have tried to use the story of [[Adam]] in the [[Qur'an]] to support human rights in a [[Muslim]] context.
+
+There are a number of controversies regarding human rights including:
+#Are human rights political, moral or legal entities (or all three at the same time)?
+#Is there or should there be a hierarchy of human rights?
+#Do human rights impede on state sovereignty? What if the state itself has ratified international conventions?
+#Should human rights be used as a context for economic or military intervention? (Often leads to a worsening of the human rights situation in the target country)
+#Questions of Cultural Relativism-- e.g. "Political participation is not a part of African culture. Who are you to say that we should have political participation?" These arguments can also be made on religious basis "In our religion marriages have always been arranged, why should we not continue this practise?" The increasing number of third-world states parties to international human rights treaties has made these arguments weaker but not disappear altogether.
+#Who should hold the moral duty to uphold rights? For civil and political rights, the answer is the state but it is not quite so clear who should be responsible for promoting economic, social and cultural rights (do we have a global duty). This debate mirrors debates between [[communitarianism]] and [[cosmopolitanism]].
+
+One is what rights are included as fundamental human rights, or even if there is such a thing.  Another controversy is how best to enforce human rights and in particular the relationship between human rights and national sovereignty.  One point of view is that human rights are universal and therefore it is proper for any national to attempt to enforce human rights through international courts or domestic law.  The opposing view is that having human rights override national sovereignty is a form of [[imperialism]] in which powerful countries dictate which rights they consider most important against less powerful countries.  Canada attempts to resolve this tension by allowing legislative primacy on a temporary and renewable basis [[notwithstanding clause|notwithstanding]] that the law infringes the [[Canadian Charter of Rights and Freedoms]].
+
+The most powerful human rights organisation is the [[European Court of Human Rights]], which is the only international court with jurisdiction to deal with cases brought by individuals (not states).
+
+==Hate crimes laws==
+With the advent of the concept of human rights, various countries and American states have attempted to enact laws against what are called [[hate crime]]s. A hate crime is defined as a crime committed with direct influence by the minority status of the victim. A hate crime law would bring greater penalty to the perpetrator based on the hateful intent.
+
+Conservatives in the United States often oppose hate crime laws, on the grounds that punishing crimes based on perceived or unprovable intentions or emotions is unjust.  They feel that substantively similar crimes should be punished equally, rather than based on a constructed notion of hate. In other words they consider the magnitude of a crime equal reguardless of motivations such as greed, hate, fear, etc.
+
+[[Political liberalism#United States|Liberal]]s often support hate crime laws, stating that by enacting them individuals would face greater discouragement from committing hate crimes. They also point out that all laws are subjective, and that if society can determine that one crime deserves more punishment than another (ie: murder vs. involuntary manslaughter), then it can also determine what motivations deserve more stringent punishments. Humans have rights and they must be respected.
+
+==See also==
+*[[European Convention on Human Rights]]
+*[[International human rights instruments]]
+*[[Human rights abuse]]
+*[[Three generations of human rights]]
+*[[Pawel Wlodkowic]] an author of theory that [[paganism|pagan]] nations have the right to live in peace and possess their land.
+*[[European Social Charter]]
+
+==External links==
+*[http://www.betterworldlinks.org/menschenrechte.htm Better World Links on Human Rights] 
+*[http://www.le.ac.uk/library/hmb11/law/humanr.html University of Leicester, UK, list of sources and links.] 
+*[http://www.detroitfocus.org/Issues/0410/CryForCompassion/index.html Photojournalist's aproach to human rights in Sudan]
+*[http://www.liberalislam.net/adam.html A Muslim approach to human rights] from LiberalIslam.net
+
+==Human rights organizations==
+*[http://www.betterworldlinks.org/book20b.htm Better World Links on Human Rights Organizations] 
+*[[Amnesty International]]: http://www.amnesty.org
+*[[Freedom House]]: http://www.freedomhouse.org
+*[[International Helsinki Federation for Human Rights]]: http://www.ihf-hr.org
+*[[Memorial (society)|International Volunteer Public Organization MEMORIAL]]: http://www.memo.ru/eng/
+*[[The Carter Center]]: http://www.cartercenter.org
+*[[Human Rights Watch]]: http://www.hrw.org
+*[[UN High Commissioner for Human Rights]]: http://www.ohchr.org
+*[[University of Minnesota Human Rights Library]]: http://www1.umn.edu/humanrts/
+*[[International Freedom of Expression eXchange]]: http://www.ifex.org
+*[[Human Rights Campaign]]: http://www.hrc.org
+*[[Montagnard Foundation]]: http://www.montagnard-foundation.org/homepage.html
+
+[[cs:Lidská práva]]
+[[da:Menneskerettighederne]]
+[[de:Menschenrechte]]
+[[es:Derechos humanos]]
+[[fr:Droits de l'Homme]]
+[[id:Hak Asasi Manusia]]
+[[it:Diritti umani]]
+[[he:&amp;#1494;&amp;#1499;&amp;#1493;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1491;&amp;#1501;]]
+[[nl:Rechten van de Mens]]
+[[ja:&amp;#20154;&amp;#27177;]]
+[[pl:Prawa cz&amp;#322;owieka]]
+[[pt:Direitos Humanos]]
+[[sv:De mänskliga rättigheterna]]
+[[zh:&amp;#20154;&amp;#26435;]]
+
+[[Category:Human rights|Human rights]]
+[[Category:Rights]]</rev></revisions></page></pages></query></api>

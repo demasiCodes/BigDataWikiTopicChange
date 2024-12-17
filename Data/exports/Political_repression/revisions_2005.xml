@@ -1,0 +1,37 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051006110831|24888390" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1297768" pageid="1297768" ns="0" title="Political repression"><revisions><rev timestamp="2005-10-30T06:11:24Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Political repression''' means the restriction of the abilities of certain groups of people to take part in the [[politics|political life]] of a [[society]]; or the [[persecution]] of people for their political beliefs. Political restriction may be manifested by [[discrimination|discriminatory]] policies, or overtly violent action.
+
+Repression is an organized form of [[oppression]] that is carried out under the sanction of the [[state]], or by [[paramilitary]] groups that operate with or without the approval of the state.
+
+Sometimes sections of a state may engage in political repression without the approval of the official [[government]]. In the [[United States]], the [[COINTELPRO]] operations by the [[Federal Bureau of Investigation|FBI]] from 1956 to 1971 represent such an example.
+
+Political repression is usually accompanied by various forms of [[surveillance abuse]] and [[police misconduct]], including [[police brutality]].
+
+In some states, such as the former [[Soviet Union]], "repression" can be an official term and official policy with respect to internal political opponents of the state.
+
+==See also==
+*[[national security]]
+*[[police state]]
+*[[purge]]
+*[[secret police]]
+
+==Further Reading==
+
+'''Articles'''
+
+* [http://www.bsos.umd.edu/gvpt/davenport/ucra121203.pdf Understanding Covert Repressive Action: The Case of the U.S. Government against the Republic of New Africa ('''186kb PDF file''')] by [http://www.cdavenport.com Christian Davenport], Associate Professor, University of Maryland.  
+
+'''Books'''
+
+*Goldstein, Robert Justin. (1978). ''Political Repression in Modern America, From 1870 to Present''. Boston, G. K. Hall, Cambridge, MA: Schenkman. ISBN 0846703017
+
+* Donner, Frank J. (1980). ''The Age of Surveillance: The Aims and Methods of America’s Political Intelligence System''. New York: Alfred A. Knopf. ISBN 0394402987
+
+* Donner, Frank J. (1990). ''Protectors of Privilege: Red Squads and Police Repression in Urban America.'' Berkeley: University of California Press. ISBN 0520059514
+
+{{poli-stub}}
+
+[[Category:Persecution]]
+[[Category:Political repression]]
+
+[[sl:Državna represija]]
+[[zh:政治迫害]]</rev></revisions></page></pages></query></api>

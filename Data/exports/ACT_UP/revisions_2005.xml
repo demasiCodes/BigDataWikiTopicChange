@@ -1,0 +1,22 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050930194042|24422081" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="285200" pageid="285200" ns="0" title="ACT UP"><revisions><rev timestamp="2005-10-05T19:24:47Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''ACT-UP''', or the '''AIDS Coalition to Unleash Power''', "is a diverse, non-partisan group of individuals ... committed to [[direct action]] to end the [[AIDS]] crisis." - from the ACT-UP/New York website.
+
+ACT-UP was formed in March of [[1987]] at the [[Lesbian]] and [[Gay]] Community Services Center in [[New York City|New York]]. Three weeks later they held their first [[protest]] on [[Wall Street]].  ACT-UP uses non-violent [[direct action]], innovative graphic design, and often [[civil disobedience]] to bring attention to the AIDS crisis.  ACT-UP also sought to stem the spread of HIV by engaging in frank public discussions about AIDS, sexuality and sexual practices.
+
+They are well known for their provocative [[demonstrations]] and their famous slogan/logo '''"Silence = Death"''' with an inverted [[pink triangle]], which is reminiscent of the pink triangle assigned to accused homosexual men in [[Nazi]] prison and death camps.
+
+In the early [[1990s]], [[activists]] from ACT-UP founded two other direct action [[gay rights]] groups, [[Queer Nation]] and [[Lesbian Avengers]].
+
+==References==
+
+* Crimp, Douglas.  ''AIDS Demographics''. Bay Press, 1990. (About the innovative graphic design - "demo graphics" - used during the campaigns).
+
+==External links==
+*[http://www.actupny.org/ ACT-UP New York]
+*[http://www.actupparis.org/ ACT-UP Paris]
+*[http://www.critpath.org/actup/ ACT-UP Philadelphia]
+
+
+{{AIDS}}
+[[Category:Civic and political organizations]]
+[[Category:AIDS activism]]
+[[Category:HIV/AIDS]]</rev></revisions></page></pages></query></api>

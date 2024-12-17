@@ -1,0 +1,134 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051019162158|25927968" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="146577" pageid="146577" ns="0" title="Romer v. Evans"><revisions><rev timestamp="2005-10-24T01:29:36Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{| cellpadding="2" cellspacing="0" border="1" align="right" style="margin-left: 0.5em" width=300px
+! bgcolor="6699FF" | '''''Romer v. Evans'''''
+|- 
+| align="center" | [[Image:SCOTUS seal.jpg|100px]]&lt;br /&gt;
+'''Supreme Court of the United States'''
+|- 
+! bgcolor="6699FF" | Argued October 10, 1995&lt;br /&gt;
+Decided May 20, 1996
+|- 
+|
+{| align="center"
+|- 
+| valign="top"|&lt;small&gt;Full case name: 
+| valign="top"|&lt;small&gt;''Roy Romer, Governor of Colorado, et al. v. Richard G. Evans, et al.
+|- 
+| valign="top"|&lt;small&gt;Citations:
+| valign="top"|&lt;small&gt;517 U.S. 620; 116 S. Ct. 1620; 134 L. Ed. 2d 855; 1996 U.S. LEXIS 3245; 64 U.S.L.W. 4353; 70 Fair Empl. Prac. Cas. (BNA) 1180; 68 Empl. Prac. Dec. (CCH) P44,013; 96 Cal. Daily Op. Service 3509; 96 Daily Journal DAR 5730; 9 Fla. L. Weekly Fed. S 607
+|- 
+| valign="top"|&lt;small&gt;Prior history:
+| valign="top"|&lt;small&gt;Preliminary injunction granted to plaintiffs, 1993 WL 19678 (Colo. Dist.Ct. 1993); affirmed, 854 P.2d 1270 (Colo. 1993);  certiorari denied, 510 U.S. 959 (1993); injunction made permanent, 1993 WL 518586 (Colo. Dist.Ct. 1993); affirmed, 882 P.2d 1335 (Colo. 1994); certiorari granted, 513 U.S. 1146 (1995)
+|-
+| valign="top"|&lt;small&gt;Subsequent history:
+| valign="top"|&lt;small&gt;none
+|}
+|- 
+! bgcolor="6699FF" | '''Holding'''
+|-
+| An amendment to the Colorado Constitution that allows discrimination against homosexuals and prevents the state from protecting them violated equal protection under the Fourteenth Amendment, because it was not rationally related to a legitimate state interest, but instead was motivated by animus towards homosexuals.  Supreme Court of Colorado affirmed.
+|- 
+! bgcolor="6699FF" | '''Court membership'''
+|- 
+|
+{| align="center"
+|- 
+| '''Chief Justice''' William Rehnquist
+|- 
+| '''Associate Justices''' John Paul Stevens, Sandra Day O'Connor, Antonin Scalia, Anthony Kennedy, David Souter, Clarence Thomas, Ruth Bader Ginsburg, Stephen Breyer
+|}
+|-
+! bgcolor="6699FF" | '''Case opinions'''
+|- 
+|
+{| align="center"
+|- 
+| '''Majority by:''' Kennedy
+|-
+| Joined by: Stevens, O'Connor, Souter, Ginsburg, Breyer
+|-
+| '''Dissent by:''' Scalia
+|-
+| Joined by: Rehnquist, Thomas
+|}
+|-
+! bgcolor="6699FF" | '''Laws applied'''
+|-
+| U.S. Const. Amend. XIV; Colo. Const. art. II, § 30b
+|}
+'''''Romer v. Evans''''', [[judicial citation|517 U.S. 620]] ([[1996]]), was a [[Supreme Court of the United States|United States Supreme Court]] case dealing with civil rights and state laws. The Court gave its ruling on [[May 20]], 1996 against an amendment to the [[Colorado]] state constitution that would have prevented any city, town or county in the state from taking any legislative, executive, or judicial action to protect [[homosexual]] citizens from discrimination on the basis of their sexual orientation.
+
+==History==
+
+On [[November 3]], [[1992]], Colorado voters, with a vote of 53.4 percent, enacted "Amendment 2", which read:
+
+:''Neither the state of Colorado, through any of its branches or departments, nor any of its agencies, political subdivisions, municipalities or school districts, shall enact, adopt or enforce any statute, regulation, ordinance or policy whereby homosexual, lesbian or bisexual orientation, conduct, practices or relationships shall constitute or otherwise be the basis of, or entitle any person or class of persons to have or claim any minority status, quota preferences, protected status or claim of discrimination. This Section of the Constitution shall be in all respects self-executing.''
+
+The amendment effectively prevented any laws banning discrimination against gays, and thereby nullified [[gay rights]] laws that already existed in [[Aspen, Colorado|Aspen]], [[Denver, Colorado|Denver]], and [[Boulder, Colorado|Boulder]].
+
+An immediate legal challenge was launched by gay rights groups. On January 15, 1993, they successfully got a temporary injunction from District Court Judge Jeffrey Bayless preventing Amendment 2 becoming part of the state constitution, on the grounds of possible unconstitutionality and possible irreparable harm that would be caused by its implementation. The court scheduled a trial to decide the case.
+
+Even before the trial, the state appealed to the Colorado Supreme Court. On July 19, 1993, that court upheld the original injunction, on the grounds that Amendment 2 violated the [[equal protection]] clause of the [[Fourteenth Amendment to the United States Constitution]], insofar as Amendment 2 denied gays equal rights to normal political processes. Chief Justice Luis Rovera wrote:
+
+:''Were Amendment 2 in force [...] the sole political avenue by which this class could seek such protection [against discrimination] would be through the constitutional amendment process.''
+
+The state Supreme Court demanded that the legislation face "strict scrutiny" and prove that it advanced a "compelling state interest", and returned the case to Bayless's court for trial. Bayless found that the amendment failed the test, and ruled it unconstitutional on December 14, 1993.
+
+Colorado again appealed to its state Supreme Court, again lost (on [[October 11]], [[1994]]), and appealed to the U.S. Supreme Court.
+
+==The U.S. Supreme Court ruling==
+
+The case was argued on [[October 10]], [[1995]]. On [[May 20]], 1996, the court ruled 6-3 that Colorado's Amendment 2 was unconstitutional, though on different reasoning than the Colorado courts. Justice [[Anthony Kennedy]] wrote the majority opinion, and was joined by [[John Paul Stevens]], [[Sandra Day O'Connor]], [[David Souter]], [[Ruth Bader Ginsburg]], and [[Stephen Breyer]].
+
+Rejecting the state's argument that Amendment 2 merely blocked gays from receiving "special rights", Kennedy wrote:
+
+:''To the contrary, the amendment imposes a special disability upon those persons alone. Homosexuals are forbidden the safeguards that others enjoy or may seek without constraint.''
+
+Kennedy argued that protection from antidiscrimination laws was not a "special right" because they protected fundamental rights allegedly enjoyed by all other citizens. Though antidiscrimination laws "enumerated" certain groups which they protected, this merely served to put others on notice (i.e., the enumeration was merely declaratory).
+
+Instead of applying "strict scrutiny" to Amendment 2 (as Colorado Supreme Court had required) Kennedy wrote that it did not even meet the much lower requirement of having a rational relationship to a legitimate government purpose:
+
+:''Its sheer breadth is so discontinuous with the reasons offered for it that the amendment seems inexplicable by anything but animus toward the class that it affects; it lacks a rational relationship to legitimate state interests.''
+
+And:
+
+:''[Amendment 2] is at once too narrow and too broad. It identifies persons by a single trait and then denies them protection across the board. The resulting disqualification of a class of persons from the right to seek specific protection from the law is unprecedented in our jurisprudence.''
+
+Kennedy did not go into depth in rejecting the claims put forward in support of the law (protecting the rights of landlords to evict gay tenants if they found homosexuality morally offensive,  etc.) because he held that the law was so unique as to "confound this normal process of judicial review" and "defies...conventional inquiry." This conclusion was supported by the his assertion that "It is not within our constitutional tradition to enact laws of this sort." Finding that "laws of the kind now before us raise the inevitable inference that the disadvantage imposed is born of animosity toward the class of persons affected," the Court implied that the passage of Amendment 2 was born of a "bare...desire to harm" homosexuals.
+
+==Dissent==
+
+Justice [[Antonin Scalia]] wrote an impassioned dissent which was joined by Chief Justice [[William H. Rehnquist]] and Justice [[Clarence Thomas]]. Scalia wrote:
+
+:''[Amendment 2 is] a modest attempt by seemingly tolerant Coloradans to preserve traditional sexual mores against the efforts of a politically powerful minority to revise those mores through use of the laws. That objective, and the means chosen to achieve it, are [...] unimpeachable under any constitutional doctrine hitherto pronounced.''
+
+Scalia argued that Amendment 2 did not deny homosexuals access to the political process but merely made it more difficult to enact laws that they favored. He noted that the majority's result stood in flat contradiction to the court's earlier decision in ''[[Bowers v. Hardwick]]'', [[legal citation|478 U.S. 186]] ([[1986]]), in which it had ruled that laws outlawing [[sodomy]] are not unconstitutional. That was because Bowers had rejected a rational-basis challenge to sodomy laws on the grounds that traditional moral disapproval furnished such a rational basis. Scalia noted:
+
+:''If it is rational to criminalize the conduct, surely it is rational to deny special favor and protection to those with a self-avowed tendency or desire to engage in the conduct.''
+
+Against what he saw as [[judicial activism]], he wrote:
+
+:''Since the Constitution of the United States says nothing about this subject [homosexuality], it is left to be resolved by normal democratic means, including the democratic adoption of provisions in state constitutions.''
+
+==Notes==
+
+Since Romer stood in obvious tension with the Court's earlier decision in ''Bowers'', it laid the groundwork for [[2003]]'s ''[[Lawrence v. Texas]]'', [[legal citation|539 U.S. 558]] which overturned ''Bowers''. ''Romer'', however, has not been widely cited beyond ''Lawrence'', no doubt because Kennedy emphasized the "special" nature of Amendment 2 and refused to apply traditional rational-basis analysis to the Colorado law. 
+
+In this case, the court lined up in almost the same way as in ''Lawrence'', though in ''Lawrence'' Justice O'Connor concurred in the judgement on different grounds.
+
+Ironically, [[Roy Romer]] was on record as opposing Amendment 2; his name was on the suit as defendant and the appellant solely due to his position as governor of Colorado.
+
+==Further reading==
+
+* Joyce Murdoch and Deb Price: ''Courting Justice: Gay Men and Lesbians v. the Supreme Court'', chapter 16.
+
+==External links==
+
+* [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&amp;vol=000&amp;invol=U10179 U.S. Supreme Court ruling and dissent]
+* [http://www.qrd.org/qrd/usa/legal/colorado/co.supreme.court.upholds.stay.txt The original Colorado Supreme Court decision]
+
+[[Category:Equal protection cases]]
+[[Category:Colorado history]]
+[[Category:1996 in law]]
+[[Category:United States Supreme Court cases]]
+[[Category:United States gay rights cases]]
+[[Category:United States Fourteenth Amendment case law]]</rev></revisions></page></pages></query></api>

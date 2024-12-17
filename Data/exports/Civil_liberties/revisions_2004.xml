@@ -1,0 +1,24 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041020142900|7084577" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="37476" pageid="37476" ns="0" title="Civil liberties"><revisions><rev timestamp="2004-11-03T23:07:35Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Civil liberties''' are protections from the power of [[government]]s. Examples include [[freedom of speech]], [[freedom of assembly]], and [[trial by jury]]. These are usually created and protected by a [[constitution]].
+
+''Contrast:'' [[human rights]], [[civil rights]].
+
+== United States ==
+
+The [[United States Constitution]], especially its [[United States Bill of Rights|Bill of Rights]], protects many civil liberties.
+
+==Canada==
+
+The [[Constitution of Canada]] includes the [[Canadian Charter of Rights and Freedoms]] which guarantees many of the same rights as the US constitution, with the notable exception of protection against [[establishment of religion]]. (Such protection is not practical, since the [[Anglican Church]] of Canada is nominally the [[state religion]].) But the Charter does protect [[freedom of religion]].
+
+== United Kingdom ==
+
+The [[United Kingdom|UK]] has no formal written constitution, however it is a signatory to the [[European Convention on Human Rights]] (ECHR) which covers both [[human rights]] and civil liberties, and has passed the [[Human Rights Act 1998|Human Rights Act]], which forces compliance between the treaty and UK law. After the [[September 11, 2001 attacks]] the UK claimed a state of emergency (as permitted by Article 15 of the ECHR) and the [[derogate|derogation]] from Article Five in order to allow the indefinite [[detention without trial]] of foreign nationals suspected of involvement with [[terrorism]]. The government would rather deport these individuals, but this is prohibited by Article Three of the ECHR, which can not be opted out from according to Article 15.  See also [[British national identity card]].
+
+== See also ==
+* [[American Civil Liberties Union]]
+* [[Freedom (political)]]
+* [[Liberalism]]
+* [[Libertarianism]]
+* [[Libertarian socialism]]
+* [[Mass surveillance]]
+* [[International Freedom of Expression eXchange]]</rev></revisions></page></pages></query></api>

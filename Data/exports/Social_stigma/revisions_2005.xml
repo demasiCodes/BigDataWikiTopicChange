@@ -1,0 +1,16 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051013014721|25398395" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="2649767" pageid="2649767" ns="0" title="Social stigma"><revisions><rev timestamp="2005-10-13T01:47:48Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">A '''social stigma''' is a [[stigma]] in the form of a distinctive characteristic in a person which can cause or be the result of [[marginalisation]] when used as an insult by individuals or groups.
+
+This means that its victims are mostly [[minority|minorities]] which have a common characteristic which sets them apart from other members of society. 
+The result is a vicious circle: marginalised groups are stigmatized, stigmatization leads to social exclusion and marginalised groups are formed. 
+
+Examples of social stigmas are physical or mental [[handicap]]s and [[disorder]]s, as well as [[homosexuality]] or affiliation with a specific [[nationality]], [[religion]] or [[ethnicity]] (as is often the case for the [[Roma people]]).
+
+==See also==
+*[[Identity]]
+*[[Label (sociology)]]
+*[[Stereotype]]
+
+''This article incorporates text translated from [[:de:Stigmatisierung|the corresponding German Wikipedia article]] as of 02:30, 11 September 2005 (UTC)''
+
+[[de:Stigmatisierung]]
+[[Category:Sociology]]</rev></revisions></page></pages></query></api>

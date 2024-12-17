@@ -1,0 +1,12 @@
+<?xml version="1.0"?><api><continue rvcontinue="20070824184139|153399140" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="5312771" pageid="5312771" ns="0" title="Social integration"><revisions><rev timestamp="2007-08-25T05:24:09Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Social integration''' is a term used in [[sociology]] and several other [[social sciences]]. The term indicates different meanings depending in the context. In general, it connotes the process of integration of a group of persons like minority groups, ethnic minorities, refugees, underprivileged sections of the society, to integrate into the mainstream of the society, and thus to avail of the opportunities, rights and services available to the members of the mainstream of the society. It is important to note that within the field of Sociology social integration usually goes hand in hand with social solidarity and social anomie. The [[United Nations]] has a Social Integration Branch, which is a part of the Division for Social Policy and Development (Department of Economic and Social Affairs). It also issues a quarterly publication named Bulletin on Social Integration Policies [http://www.un.org/esa/socdev/sib/].
+
+
+ &lt;!--
+[[en:Social integration]]
+   --&gt;
+{{sociology-stub}}
+
+[[da:Social integration]]
+[[it:Integrazione (scienze sociali)]]
+[[pl:Integracja społeczna]]
+[[sr:Социјална интеграција]]</rev></revisions></page></pages></query></api>

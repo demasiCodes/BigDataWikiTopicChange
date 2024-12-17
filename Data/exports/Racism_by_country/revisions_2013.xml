@@ -1,0 +1,24 @@
+<?xml version="1.0"?><api><continue rvcontinue="20130325144120|546914613" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="5348421" pageid="5348421" ns="0" title="Racism by country"><revisions><rev timestamp="2013-10-23T13:50:19Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Cleanup|date=February 2008}}
+The article describes the state of '''[[race relations]] and [[racism]] in a number of countries'''.
+
+Racism of various forms is found in every country on Earth.&lt;ref&gt;{{cite web|url = http://web.amnesty.org/library/index/engACT400202001|publisher = Amnesty International|title = Racism and the administration of justice}}{{dead link|date=March 2013|url=http://web.amnesty.org/library/index/engACT400202001}}&lt;/ref&gt; In different countries, the forms that racism takes may be different for historic, cultural, religious, economic or demographic reasons.
+
+Racism is widely condemned throughout the world, with 175 states signatories of the [[International Convention on the Elimination of All Forms of Racial Discrimination]] {{as of|2013|3|7|lc=on}}.&lt;ref&gt;{{cite web|url=http://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&amp;mtdsg_no=IV-2&amp;chapter=4&amp;lang=en|title=STATUS AS AT : 07-03-2013 05:04:14 EDT : International Convention on the Elimination of All Forms of Racial Discrimination|publisher=[[Office of the United Nations High Commissioner for Human Rights]]}}&lt;/ref&gt;
+
+See also
+Committee on the Elimination of Racial Discrimination
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite web|url=http://www2.ohchr.org/english/bodies/cerd/|title=Committee on the Elimination of Racial Discrimination|publisher=[[Office of the United Nations High Commissioner for Human Rights]]}}
+
+{{Racism topics}}
+
+[[Category:Racism by country| ]]
+{{Africa topic|Racism in}}
+{{Americas topic|Racism in}}
+{{Asia topic|Racism in}}
+{{Europe topic|Racism in}}
+{{Oceania topic|Racism in}}</rev></revisions></page></pages></query></api>

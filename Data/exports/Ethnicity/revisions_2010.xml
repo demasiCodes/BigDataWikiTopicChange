@@ -1,0 +1,298 @@
+<?xml version="1.0"?><api><continue rvcontinue="20101116214534|397181111" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="105004" pageid="105004" ns="0" title="Ethnicity"><revisions><rev timestamp="2010-11-16T22:12:53Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Redirect|Ethnicity|the 2003 easy listening album|Ethnicity (Yanni album)}}
+{{Redirect|Peoples|the defunct chain of department stores|Peoples (store)}}
+An '''ethnic group''' (or '''ethnicity''') is a [[group (sociology)|group]] of people whose members identify with each other, through a common [[heritage]], consisting of a common [[language]], a common [[culture]] (often including a shared [[religion]]) and a tradition of [[common ancestry]] (corresponding to a history of [[endogamy]]).&lt;ref&gt;Hobsbawm and Ranger (1983), ''The Invention of Tradition'', Sider 1993 ''Lumbee Indian Histories''.&lt;/ref&gt;&lt;ref&gt;Seidner,(1982), ''Ethnicity, Language, and Power from a Psycholinguistic Perspective'', pp. 2-3&lt;/ref&gt;
+&lt;ref name=Smith&gt;Smith 1987{{Page needed|date=September 2010}}&lt;/ref&gt;&lt;ref&gt;Marcus Banks, ''Ethnicity: Anthropological Constructions'' (1996), p. 151 "'ethnic groups' invariably stress common ancestry or endogamy".&lt;/ref&gt;
+
+Members of an ethnic group are conscious of belonging to an ethnic group; moreover ethnic identity is further marked by the recognition from others of a group's distinctiveness. Processes that result in the emergence of such identification are called [[ethnogenesis]].
+
+==Terminology and definition==
+The terms ''ethnicity'' and ''ethnic group'' are derived from the [[Ancient Greek|Greek]] word [[:wikt:ἔθνος|ἔθνος]] ''ethnos'', normally translated as "[[:wikt:nation|nation]]." The terms refer currently to people thought to have common ancestry who share a distinctive culture.
+
+The term "[[:wikt:ethnic|ethnic]]" and related forms from the 14th century through the middle of the 19th century were used in English in the meaning of "pagan, heathen", as ''ethnikos'' was used as the [[LXX]] translation of Hebrew ''[[goyim]]'' "the nations, non-Hebrews, non-Jews".&lt;ref&gt;ThiE. Tonkin, M. McDonald and M. Chapman, ''History and Ethnicity'' (London 1989), pp.&amp;nbsp;11–17 (quoted in J. Hutchinson &amp; A.D. Smith (eds.), ''Oxford readers: Ethnicity'' (Oxford 1996), pp.&amp;nbsp;18–24)&lt;/ref&gt;
+
+The modern meaning emerged in the mid 19th century and expresses the notion of "[[:wikt:people|a people]]" or "[[:wikt:nation|a nation]]". The term [[:wikt:ethnicity|ethnicity]] is of 20th century coinage, attested from the 1950s. The term [[nationality]] depending on context may either be used synonymously with ethnicity, or synonymously with [[citizenship]] (in a sovereign state).
+
+The modern usage of "ethnic group" further came to reflect the different kinds of encounters industrialised states have had with external groups, such as [[immigrants]] and [[indigenous peoples]]; "ethnic" thus came to stand in opposition to "national", to refer to people with distinct cultural identities who, through migration or conquest, had become subject to a state or "nation" with a different cultural mainstream.&lt;ref&gt;''Oxford English Dictionary'' Second edition, online version as of 2008-01-12, "ethnic, a. and n.". Cites Sir [[Daniel Wilson (academic)|Daniel Wilson]], ''The archæology and prehistoric annals of Scotland 1851' (1863)&lt;/ref&gt; &amp;mdash; with the first usage of the term ''ethnic group'' in 1935,&lt;ref&gt;''Oxford English Dictionary'' Second edition, online version as of 2008-01-12, "ethnic, a. and n.". Citing [[Julian Sorell Huxley|Huxley]] &amp; [[Alfred Cort Hadden|Hadden]] (1935), ''We Europeans'', pp. 136,181&lt;/ref&gt; and entering the Oxford English Dictionary in 1972.&lt;ref&gt;Cohen, Ronald. (1978) "Ethnicity: Problem and Focus in Anthropology", ''Ann. Rev. Anthropol.'' 1978. 7:379-403&lt;/ref&gt;&lt;ref&gt;Glazer, [[Nathan]] and [[Daniel P. Moynihan]] (1975) ''Ethnicity - Theory and Experience'', Cambridge, Mass. [[Harvard University Press]]&lt;/ref&gt;&lt;ref&gt;The modern usage definition of the ''[[Oxford English Dictionary]]'' is:
+{{quote|
+''a[djective]''
+:...
+:2.a. Pertaining to race; peculiar to a race or nation; ethnological. Also, pertaining to or having common racial, cultural, religious, or linguistic characteristics, esp. designating a racial or other group within a larger system; hence (U.S. colloq.), foreign, exotic.
+:b ''ethnic minority (group)'', a group of people differentiated from the rest of the community by racial origins or cultural background, and usu. claiming or enjoying official recognition of their group identity. Also ''attrib''.
+''n[oun]''
+:...
+:3 A member of an ethnic group or minority. ''orig. U.S.''}}
+(Oxford English Dictionary Second edition, online version as of 2008-01-12, s.v. "ethnic, a. and n.")
+&lt;/ref&gt;
+
+Writing about the usage of the term "ethnic" in the ordinary language of [[Great Britain]] and the [[United States]], in 1977 Wallman noted that
+:The term 'ethnic' popularly connotes '[race]' in Britain, only less precisely, and with a lighter value load. In North America, by contrast, '[race]' most commonly means color, and 'ethnics' are the descendents of relatively recent immigrants from non-English-speaking countries. '[Ethnic]' is not a noun in Britain. In effect there are no 'ethnics'; there are only 'ethnic relations'.&lt;ref&gt;Wallman, S. "Ethnicity research in Britain", ''Current Anthropology'', v. 18, n. 3, 1977, pp. 531–532.&lt;/ref&gt;
+Thus, in today's everyday language, the words "ethnic" and "ethnicity" still have a ring of exotic peoples, minority issues and race relations.
+
+Within [[social science|the social sciences]], however, the usage has become more generalized to all human groups that explicitly regard themselves and are regarded by others as culturally distinctive.&lt;ref&gt;Eriksen 1993 p. 2&lt;/ref&gt; Among the first to bring the term "ethnic group" into social studies was the German [[Sociology|sociologist]] [[Max Weber]], who defined it as: &lt;blockquote&gt;[T]hose human groups that entertain a subjective belief in their common descent because of similarities of physical type or of customs or both, or because of memories of colonization and migration; this belief must be important for group formation; furthermore it does not matter whether an objective blood relationship exists.&lt;ref name="weber"&gt;Max Weber [1922]1978 ''Economy and Society'' eds. Guenther Roth and Claus Wittich, trans. ''Ephraim Fischof'', vol. 2 Berkeley: University of California Press, 389&lt;/ref&gt; &lt;/blockquote&gt;
+
+Whether ethnicity qualifies as a [[cultural universal]] is to some extent dependent on the exact definition used. According to "Challenges of Measuring an Ethnic World: Science, politics, and reality",{{Who|date=July 2010}}  "Ethnicity is a fundamental factor in human life: it is a phenomenon inherent in human experience."&lt;ref&gt;", a conference organised by [[Statistics Canada]] and the [[United States Census Bureau]] (April 1–3, 1992) [http://www.statcan.ca/english/concepts/definitions/e-race.htm Statistics Canada]&lt;/ref&gt;
+Many social scientists, such as [[Anthropology|anthropologists]] [[Fredrik Barth]] and [[Eric Wolf]], do not consider ethnic identity to be universal. They regard ethnicity as a product of specific kinds of inter-group interactions, rather than an essential quality inherent to human groups.&lt;ref&gt;Fredrik Barth ed. 1969 ''Ethnic Groups and Boundaries: The Social Organization of Cultural Difference; Eric Wolf 1982 ''Europe and the People Without History'' p. 381&lt;/ref&gt;
+
+==Conceptual history of ethnicity==
+According to [[Thomas Hylland Eriksen]], the study of ethnicity was dominated by two distinct debates until recently.
+*One is between "[[primordialism]]" and "[[instrumentalism]]". In the [[primordialism|primordialist]] view, the participant perceives ethnic ties collectively, as an externally given, even coercive, social bond.&lt;ref&gt;Geertz, Clifford, ed. (1967) ''Old Societies and New States: The Quest for Modernity in [[Africa]] and [[Asia]]''. New York: The Free Press.&lt;/ref&gt; The [[instrumentalism|instrumentalist]] approach, on the other hand, treats ethnicity primarily as an ad-hoc element of a political strategy, used as a resource for interest groups for achieving secondary goals such as, for instance, an increase in wealth, power or status.&lt;ref&gt;Cohen, Abner (1969) ''Custom and Politics in Urban Africa: A Study of Hausa Migrants in a Yoruba Town.'' London: Routledge &amp; Kegan Paul.&lt;/ref&gt;&lt;ref&gt;Abner Cohen (1974) ''Two-Dimensional Man: An essay on power and symbolism in complex society''. London: Routledge &amp; Kegan Paul.&lt;/ref&gt; This debate is still an important point of reference in [[Political science]], although most scholars' approaches fall between the two poles.&lt;ref&gt;J. Hutchinson &amp; A.D. Smith (eds.), ''Oxford readers: Ethnicity'' (Oxford 1996), "Introduction", 8-9&lt;/ref&gt;
+*The second debate is between "[[constructivism]]" and "[[essentialism]]". Constructivists view national and ethnic identities as the product of historical forces, often recent, even when the identities are presented as old.&lt;ref&gt;Gellner, Ernest (1983) ''Nations and Nationalism''. Oxford: Blackwell.&lt;/ref&gt;&lt;ref&gt;Ernest Gellner (1997) Nationalism. London: Weidenfeld &amp; Nicolson.&lt;/ref&gt; Essentialists view such identities as [[ontological]] categories defining social actors, and not the result of social action.&lt;ref&gt;Smith, Anthony D. (1986) ''The Ethnic Origins of Nations.'' Oxford: Blackwell.&lt;/ref&gt;&lt;ref&gt;Anthony Smith (1991) ''[[National Identity]]''. Harmondsworth: Penguin.&lt;/ref&gt;
+
+According to [[Eriksen]], these debates have been superseded, especially in [[anthropology]], by scholars' attempts to respond to increasingly politicised forms of self-representation by members of different ethnic groups and nations. This is in the context of debates over multiculturalism in countries, such as the United States and Canada, which have large immigrant populations from many different cultures, and post-colonialism in the [[Caribbean]] and [[South Asia]].&lt;ref&gt;T.H. Eriksen "Ethnic identity, national identity and intergroup conflict: The significance of personal experiences" in Ashmore, Jussim, Wilder (eds.): ''Social identity, intergroup conflict, and conflict reduction'', pp. 42–70. Oxford: Oxford University Press'. 2001&lt;/ref&gt;
+
+Weber maintained that ethnic groups were ''künstlich'' (artificial, i.e. a social construct) because they were based on a subjective belief in shared ''[[Gemeinschaft]]'' (community). Secondly, this belief in shared Gemeinschaft did not create the group; the group created the belief. Third, group formation resulted from the drive to monopolise power and status. This was contrary to the prevailing naturalist belief of the time, which held that socio-cultural and behavioral differences between peoples stemmed from inherited traits and tendencies derived from common descent, then called "[[Race (classification of human beings)|race]]".&lt;ref&gt;Banton, Michael. (2007) "Weber on Ethnic Communities: A critique", ''Nations and Nationalism 13'' (1), 2007, 19–35.&lt;/ref&gt;
+
+Another influential theoretician of ethnicity was [[Fredrik Barth]], whose "Ethnic Groups and Boundaries" from 1969 has been described as instrumental in spreading the usage of the term in social studies in the 1980s and 1990s.&lt;ref name="cohen"&gt;Ronald Cohen 1978 "Ethnicity: Problem and Focus in Anthropology", ''Annual Review of Anthropology'' 7: 383 Palo Alto: [[Stanford University Press]]&lt;/ref&gt;  Barth went further than Weber in stressing the constructed nature of ethnicity. To Barth, ethnicity was perpetually negotiated and renegotiated by both external ascription and internal self-identification.  Barth's view is that ethnic groups are not discontinuous cultural isolates, or logical ''a prioris'' to which people naturally belong.  He wanted to part with anthropological notions of cultures as bounded entities, and ethnicity as primordialist bonds, replacing it with a focus on the interface between groups.  "Ethnic Groups and Boundaries", therefore, is a focus on the interconnectedness of ethnic identities.  Barth writes: "[...] categorical ethnic distinctions do not depend on an absence of mobility, contact and information, but do entail social processes of exclusion and incorporation whereby discrete categories are maintained despite changing participation and membership in the course of individual life histories."
+
+In 1978, anthropologist Ronald Cohen claimed that the identification of "ethnic groups" in the usage of social scientists often reflected inaccurate labels more than indigenous realities:
+&lt;blockquote&gt;... the named ethnic identities we accept, often unthinkingly, as basic givens in the literature are often arbitrarily, or even worse inaccurately, imposed.&lt;ref name="cohen"/&gt; &lt;/blockquote&gt;
+In this way, he pointed to the fact that identification of an ethnic group by outsiders, e.g. anthropologists, may not coincide with the self-identification of the members of that group.  He also described that in the first decades of usage, the term ethnicity had often been used in lieu of older terms such as "cultural" or "tribal" when referring to smaller groups with shared cultural systems and shared heritage, but that "ethnicity" had the added value of being able to describe the commonalities between systems of group identity in both tribal and modern societies.  Cohen also suggested that claims concerning "ethnic" identity (like earlier claims concerning "tribal" identity) are often colonialist practices and effects of the relations between colonized peoples and nation-states.&lt;ref name="cohen"&gt;Ronald Cohen 1978 "Ethnicity: Problem and Focus in Anthropology", ''Annual Review of Anthropology'' 7: 383-384 Palo Alto: Stanford University Press&lt;/ref&gt;
+
+Social scientists have thus focused on how, when, and why different markers of ethnic identity become salient.  Thus, anthropologist Joan Vincent observed that ethnic boundaries often have a mercurial character.&lt;ref&gt;Joan Vincent 1974, "The Structure of Ethnicity" in ''Human Organization 33(4): 375-379&lt;/ref&gt;  Ronald Cohen concluded that ethnicity is "a series of nesting dichotomizations of inclusiveness and exclusiveness".&lt;ref name="cohen"/&gt;  He agrees with Joan Vincent's observation that (in Cohen's paraphrase) "Ethnicity ... can be narrowed or broadened in boundary terms in relation to the specific needs of political mobilization.&lt;ref name="cohen"/&gt;  This may be why descent is sometimes a marker of ethnicity, and sometimes not: which diacritic of ethnicity is salient depends on whether people are scaling ethnic boundaries up or down, and whether they are scaling them up or down depends generally on the political situation.
+
+==="Ethnies" or ethnic categories===
+In order to avoid the problems of defining ethnic classification as labelling of others or as self-identification, it has been proposed&lt;ref&gt; In an influential 1977 paper by Don Handleman "The organization of ethnicity." Ethnic Groups 1: 187-200.&lt;/ref&gt;to distinguish between concepts of "ethnic categories", "ethnic networks" and "ethnic communities" or "ethnies".&lt;ref&gt;{{Harv|Smith|1999|loc=p. 12}}&lt;/ref&gt;&lt;ref &lt;ref name="dgk171"&gt;Delanty, Gerard &amp; Krishan Kumar (2006) The SAGE Handbook of Nations and Nationalism. SAGE. ISBN 1-41290101-4 p. 171&lt;/ref&gt;
+
+* An "''ethnic category''" is a category set up by outsiders, that is, those who are not themselves members of the category, and whose members are populations that are categorised by outsiders as being distinguished by attributes of a common name or emblem, a shared cultural element and a connection to a specific territory.  But, members who are ascribed to ethnic categories do not themselves have any awareness of their belonging to a common, distinctive group.
+
+* At the level of "''ethnic networks''", the group begins to have a sense of collectiveness, and at this level, common myths of origin and shared cultural and biological heritage begins to emerge, at least among the élites.&lt;ref name="dgk171" /&gt;
+
+* At the level of "''ethnies''" or "''ethnic communities''", the members themselves have clear conceptions of being "a named human population with myths of common ancestry, shared historical memories, and one or more common elements of culture, including an association with a homeland, and some degree of solidarity, at least among the élites". That is, an ethnie is self-defined as a group, whereas ethnic categories are set up by outsiders whether or not their own members identify with the category given them.&lt;ref name="smith13"&gt;{{Harv|Smith|1999|loc=p. 13}}&lt;/ref&gt;
+
+* A "''Situational Ethnicity''" is an Ethnic identity that is chosen for the moment based on the social setting or situation.&lt;ref name="cmiller7777"&gt;Introduction to Sociology, 7th edition. Anthony Giddens, Mitchell Duneier, Richard Appelbaum, Deborah Carr&lt;/ref&gt;
+
+===Approaches to understanding ethnicity===
+Different approaches to understanding ethnicity have been used by different social scientists when trying to understand the nature of ethnicity as a factor in human life and society.  Examples of such approaches are: primordialism, essentialism, perennialism, constructivism, modernism and instrumentalism.
+
+* "''Primordialism''", holds that ethnicity has existed at all times of human history and that modern ethnic groups have historical continuity into the far past. For them, the idea of ethnicity is closely linked to the idea of nations and is rooted in the pre-Weber understanding of humanity as being divided into primordially existing groups rooted by [[kinship]] and biological heritage.
+** "''Essentialist primordialism''" further holds that ethnicity is an ''a priori'' fact of human existence, that ethnicity precedes any human social interaction and that it is basically unchanged by it. This theory sees ethnic groups as natural, not just as historical.  This understanding does not explain how and why nations and ethnic groups seemingly appear, disappear and often reappear through history.  It also has problems dealing with the consequences of intermarriage, migration and colonization for the composition of modern day multi-ethnic [[Society|societies]].&lt;ref name="smith13" /&gt;
+** "''Kinship primordialism''" holds that ethnic communities are extensions of kinship units, basically being derived by kinship or clan ties where the choices of cultural signs (language, religion, traditions) are made exactly to show this biological affinity. In this way, the myths of common biological ancestry that are a defining feature of ethnic communities are to be understood as representing actual biological history.  A problem with this view on ethnicity is that it is more often than not the case that mythic origins of specific ethnic groups directly contradict the known biological history of an ethnic community.&lt;ref name="smith13" /&gt;
+** "''Geertz's primordialism''", notably espoused by anthropologist [[Clifford Geertz]], argues that humans in general attribute an overwhelming power to primordial human "givens" such as blood ties, language, territory, and cultural differences. In Geertz' opinion, ethnicity is not in itself primordial but humans perceive it as such because it is embedded in their experience of the world.&lt;ref name="smith13" /&gt;
+
+* "''Perennialism''" holds that ethnicity is ever changing, and that while the concept of ethnicity has existed at all times, ethnic groups are generally short lived before the ethnic boundaries realign in new patterns. The opposing perennialist view holds that while ethnicity and ethnic groupings has existed throughout history, they are not part of the natural order.
+** "''Perpetual perennialism''" holds that specific ethnic groups have existed continuously throughout history.
+** "''Situational perennialism''" holds that nations and ethnic groups emerge, change and vanish through the course of history. This view holds that the concept of ethnicity is basically a tool used by political groups to manipulate resources such as wealth, power, territory or status in their particular groups' interests.  Accordingly, ethnicity emerges when it is relevant as means of furthering emergent collective interests and changes according to political changes in the society. Examples of a perennialist interpretation of ethnicity are also found in Barth,and Seidner who see ethnicity as ever-changing boundaries between groups of people established through ongoing social negotiation and interaction.
+** "''Instrumentalist perennialism''", while seeing ethnicity primarily as a versatile tool that identified different ethnics groups and limits through time, explains ethnicity as a mechanism of [[social stratification]], meaning that ethnicity is the basis for a hierarchical arrangement of individuals.  According to Donald Noel, a sociologist who developed a theory on the origin of ethnic stratification, ethnic stratification is a "system of stratification wherein some relatively fixed group membership (e.g., race, religion, or nationality) is utilized as a major criterion for assigning social positions".&lt;ref name=Noel1968&gt;{{Cite journal
+ | author = Noel, Donald L.
+ | year = 1968
+ | title = A Theory of the Origin of Ethnic Stratification
+ | journal = Social Problems
+ | volume = 16
+ | issue = 2
+ | pages = 157–172
+ | doi = 10.1525/sp.1968.16.2.03a00030
+ | ref = harv
+}}&lt;/ref&gt; Ethnic stratification is one of many different types of social stratification, including stratification based on [[socio-economic status]], [[Race (classification of human beings)|race]], or [[gender]]. According to Donald Noel, ethnic stratification will emerge only when specific ethnic groups are brought into contact with one another, and only when those groups are characterized by a high degree of ethnocentrism, competition, and differential power. [[Ethnocentrism]] is the tendency to look at the world primarily from the perspective of one's own culture, and to downgrade all other groups outside one’s own culture.  Some sociologists, such as Lawrence Bobo and Vincent Hutchings, say the origin of ethnic stratification lies in individual dispositions of ethnic prejudice, which relates to the theory of ethnocentrism.&lt;ref name=Bobo1996&gt;{{Cite journal
+ | author = Bobo, Lawrence; Hutchings, Vincent L.
+ | year = 1996
+ | title = Perceptions of Racial Group Competition: Extending Blumer's Theory of Group Position to a Multiracial Social Context
+ | journal = American Sociological Review
+ | volume = 61
+ | issue = 6
+ | pages = 951–972
+ | doi = 10.2307/2096302
+ | url = http://jstor.org/stable/2096302
+ | publisher = American Sociological Association
+ | ref = harv
+}}&lt;/ref&gt; Continuing with Noel's theory, some degree of differential power must be present for the emergence of ethnic stratification. In other words, an inequality of power among ethnic groups means "they are of such unequal power that one is able to impose its will upon another".&lt;ref name=Noel1968/&gt; In addition to differential power, a degree of competition structured along ethnic lines is a prerequisite to ethnic stratification as well. The different ethnic groups must be competing for some common goal, such as power or influence, or a material interest, such as wealth or territory. Lawrence Bobo and Vincent Hutchings propose that competition is driven by self-interest and hostility, and results in inevitable stratification and [[conflict]].&lt;ref name=Bobo1996/&gt;
+
+* "''Constructivism''" sees both primordialist and perennialist views as basically flawed,&lt;ref name=Bobo1996/&gt; and rejects the notion of ethnicity as a basic human condition.  It holds that ethnic groups are only products of human social interaction, maintained only in so far as they are maintained as valid social constructs in societies.
+**"''Modernist constructivism''" correlates the emergence of ethnicity with the movement towards [[nationstate]]s beginning in the early modern period.&lt;ref&gt;{{Harv|Smith|1999|loc=pp. 4–7}}&lt;/ref&gt;  Proponents of this theory, such as [[Eric Hobsbawm]], argue that ethnicity and notions of ethnic pride, such as nationalism, are purely modern inventions, appearing only in the modern period of world history. They hold that prior to this, ethnic homogeneity was not considered an ideal or necessary factor in the forging of large-scale societies.
+
+==Ethnicity and race==
+Before Weber, race and ethnicity were often seen as two aspects of the same thing. Around 1900 and before the essentialist primordialist understanding of ethnicity was predominant, cultural differences between peoples were seen as being the result of inherited traits and tendencies.&lt;ref&gt;Banton, Michael. (2007) "Weber on Ethnic Communities: A critique", ''Nations and Nationalism'' 13 (1), 2007, 19–35.&lt;/ref&gt;  This was the time when "sciences" such as [[phrenology]] claimed to be able to correlate cultural and behavioral traits of different populations with their outward physical characteristics, such as the shape of the skull. With Weber's introduction of ethnicity as a social construct, race and ethnicity were divided from each other.  A social belief in biologically well-defined races lingered on.
+
+In 1950, the [[UNESCO]] statement, "[[The Race Question]]", signed by some of the internationally renowned scholars of the time (including [[Ashley Montagu]], [[Claude Lévi-Strauss]], [[Gunnar Myrdal]], [[Julian Huxley]], etc.), suggested that: "National, religious, geographic, linguistic and cultural groups do not necessarily coincide with racial groups: and the cultural traits of such groups have no demonstrated genetic connection with racial traits. Because serious errors of this kind are habitually committed when the term 'race' is used in popular parlance, it would be better when speaking of human races to drop the term 'race' altogether and speak of 'ethnic groups'."&lt;ref&gt;A. Metraux (1950) "United nations Economic and Security Council Statement by Experts on Problems of Race", ''American Anthropologist'' 53(1): 142-145)&lt;/ref&gt;
+
+In 1982, American cultural anthropologists, summing up forty years of ethnographic research, argued that racial and ethnic categories are symbolic markers for different ways that people from different parts of the world have been incorporated into a global economy:
+:The opposing interests that divide the working classes are further reinforced through appeals to "racial" and "ethnic" distinctions.  Such appeals serve to allocate different categories of workers to rungs on the scale of labor markets, relegating stigmatized populations to the lower levels and insulating the higher echelons from competition from below.  Capitalism did not create all the distinctions of ethnicity and race that function to set off categories of workers from one another.  It is, nevertheless, the process of labor mobilization under capitalism that imparts to these distinctions their effective values.
+According to Wolf, races were constructed and incorporated during the period of European mercantile expansion, and ethnic groups during the period of capitalist expansion.&lt;ref&gt;
+:In this regard, distinctions of race have implications rather different from ethnic variations.  Racial distinctions, such as "Indian" or "African American", are the outcome of the subjugation of populations in the course of European mercantile expansion.  The term "Indian", and later "Native American", stand for the conquered populations of the New World, in disregard of any cultural or physical differences among them. "Negro", and later "African American", similarly serve as a cover term for the culturally and physically variable African, populations that furnished slaves, as well as for the slaves themselves. Indians are conquered people who could be forced to labor or pay tribute; Negroes are "hewers of wood and drawers of water", obtained in violence and put to work under coercion. These two terms thus singled out for primary attention, the historic fact that these populations were made to labor in servitude to support a new class of overlords.  Simultaneously, the terms, like "white people", disregard cultural and physical differences within each large category, denying any constituent group political, economic, or ideological identity of its own.
+
+:Racial terms mirror the political process by which populations of whole continents were turned into providers of coerced surplus labor.  Under capitalism, these terms did not lose their association with civil disability.  They continue to invoke supposed descent from such subjugated populations so as to deny their putative descendants access to upper segments of the labor market.  "Indians" and "Negroes" are thus confined to the lower ranks of the industrial army or depressed into the industrial reserve.  The function of racial categories within capitalism is exclusionary.  They stigmatize groups in order to exclude them from more highly paid jobs and from access to the information needed for their execution.  They insulate the more advantaged workers against competition from below, making it difficult for employers to use stigmatized populations as cheaper substitutes or as strikebreakers.  Finally, they weaken the ability of such groups to mobilize politically on their own behalf by forcing them back into casual employment and thereby intensifying competition among them for scarce and shifting resources.
+
+:While the categories of race serve primarily to exclude people from all but the lower echelons of the industrial army, ethnic categories express the ways that particular populations came to relate themselves to given segments of the labor market.  Such categories emerge from two sources, one external to the group in question, the other internal.  As each cohort entered the industrial process, outsiders were able to categorize it in terms of putative provenance and supposed affinity to particular segments of the labor market.  At the same time, members of the cohort itself came to value membership in the group thus defined, as a qualification for establishing economic and political claims.  Such ethnicities rarely coincided with the initial self-identification of the industrial recruits, who thought of themselves as Hanoverians or Bavarians rather than as Germans, as members of their village or their parish (''okiloca'') rather than as Poles, as Tonga or Yao rather than "Nyasalanders."  The more comprehensive categories emerged only as particular cohorts of workers gained access to different segments of the labor market and began to treat their access as a resource to be defended both socially and politically.  Such ethnicities are therefore not "primordial" social relationships.  They are historical products of labor market segmentation under the capitalist mode.  Eric Wolf, 1982, ''Europe and the People Without History'', Berkeley: University of California Press. 380-381&lt;/ref&gt;
+
+Often, ethnicity also connotes shared cultural, linguistic, behavioural or religious traits.  For example, to call oneself [[Jewish]] or [[Arab]] is to immediately invoke a clutch of linguistic, religious, cultural and racial features that are held to be common within each ethnic category. Such broad ethnic categories have also been termed ''macroethnicity''.&lt;ref&gt;Maria Rostworowski, [http://incas.perucultural.org.pe/english/histec10.htm "The Incas"], Peru Culture&lt;/ref&gt;  This distinguishes them from smaller, more subjective ethnic features, often termed ''microethnicity''.&lt;ref&gt;[http://216.239.59.104/search?q=cache:_V2dvVcvWIAJ:whp.uoregon.edu/Lockhart/Intro.pdf+microethnicity&amp;hl=en&amp;ct=clnk&amp;cd=20&amp;gl=uk James Lockhart, ''Microethnicity in Philological ethnohistory'']&lt;/ref&gt;&lt;ref&gt;[http://www.umassd.edu/cas/portuguese/clarkosh.cfm  Christopher Larkosh, "Je me souviens…aussi: Microethnicity and the Fragility of Memory in French-Canadian New England"], ''TOPIA: Journal for Canadian Cultural Studies'', Issue 16 (Toronto, 2006), pp. 91-108&lt;/ref&gt;
+
+==Ethnicity and nation==
+{{See|Nation state|ethnic minority}}
+In some cases, especially involving transnational migration, or colonial expansion, ethnicity is linked to nationality.  Anthropologists and historians, following the modernist understanding of ethnicity as proposed by Ernest Gellner&lt;ref&gt;Gellner 2006 ''Nations and Nationalism'' Blackwell Publishing&lt;/ref&gt; and Benedict Anderson&lt;ref&gt;Anderson 2006 ''Imagined Communities'' Version&lt;/ref&gt; see nations and nationalism as developing with the rise of the modern state system in the seventeenth century.  They culminated in the rise of "nation-states" in which the presumptive boundaries of the nation coincided (or ideally coincided) with state boundaries.
+Thus, in the West, the notion of ethnicity, like [[Race (classification of human beings)|race]] and [[nation]], developed in the context of European colonial expansion, when [[mercantilism]] and [[capitalism]] were promoting global movements of populations at the same time that [[Sovereign state|state]] boundaries were being more clearly and rigidly defined.  In the nineteenth century, modern states generally sought legitimacy through their claim to represent "nations."  [[Nation-state]]s, however, invariably include populations that have been excluded from national life for one reason or another.  Members of excluded groups, consequently, will either demand inclusion on the basis of equality, or seek autonomy, sometimes even to the extent of complete political separation in their own nation-state.&lt;ref&gt;Walter Pohl, [http://www.kroraina.com/bulgar/pohl_etnicity.html "Conceptions of Ethnicity in Early Medieval Studies"], ''Debating the Middle Ages: Issues and Readings'', ed. Lester K. Little and Barbara H. Rosenwein, (Blackwell), 1998, pp 13-24, notes that historians have projected the nineteenth-century conceptions of the nation-state backwards in time, employing biological metaphors of birth and growth: "that the peoples in the [[Migration Period]] had little to do with those heroic (or sometimes brutish) clichés is now generally accepted among historians," he remarked. Early medieval peoples were far less homogeneous than often thought, and Pohl follows Reinhard Wenskus, ''Stammesbildung und Verfassung''. (Cologne and Graz) 1961, whose researches into the "ethnogenesis" of the [[Germanic people|German]] peoples convinced him that the idea of common origin, as expressed by [[Isidore of Seville]] ''Gens est multitudo ab uno principio orta'' ("a people is a multitude stemming from one origin") which continues in the original ''Etymologiae'' IX.2.i) ''"sive ab alia natione secundum propriam collectionem distincta'' ("or distinguished from another people by its proper ties") was a myth.&lt;/ref&gt;  Under these conditions—when people moved from one state to another,&lt;ref&gt;Aihway Ong 1996 "Cultural Citizenship in the Making" in ''Current Anthropology'' 37(5)&lt;/ref&gt; or one state conquered or colonized peoples beyond its national boundaries—ethnic groups were formed by people who identified with one nation, but lived in another state.
+
+==Ethno-national conflict==
+{{See|Ethnic conflict}}
+Sometimes ethnic groups are subject to prejudicial attitudes and actions by the state or its constituents. In the twentieth century, people began to argue that conflicts among ethnic groups or between members of an ethnic group and the state can and should be resolved in one of two ways.  Some, like [[Jürgen Habermas]] and [[Bruce Barry]], have argued that the legitimacy of modern states must be based on a notion of political rights of autonomous individual subjects.  According to this view, the state should not acknowledge ethnic, national or racial identity but rather instead enforce political and legal equality of all individuals.  Others, like [[Charles Taylor (philosopher)|Charles Taylor]] and [[Will Kymlicka]], argue that the notion of the autonomous individual is itself a cultural construct.  According to this view, states must recognize ethnic identity and develop processes through which the particular needs of ethnic groups can be accommodated within the boundaries of the nation-state.
+
+The nineteenth century saw the development of the political ideology of [[ethnic nationalism]], when the concept of race was tied to [[nationalism]], first by German theorists including [[Johann Gottfried von Herder]]. Instances of societies focusing on ethnic ties, arguably to the exclusion of history or historical context, have resulted in the justification of nationalist goals. Two periods frequently cited as examples of this are the nineteenth century consolidation and expansion of the [[German Empire]] and the twentieth century [[Third Reich|Third (Greater German) Reich]].  Each promoted the pan-ethnic idea that these governments were only acquiring lands that had always been inhabited by ethnic Germans. The history of late-comers to the nation-state model, such as those arising in the Near East and south-eastern Europe out of the dissolution of the Ottoman and Austro-Hungarian Empires, as well as those arising out of the former USSR, is marked by [[ethnic war|inter-ethnic conflicts]].  Such conflicts usually occur within multi-ethnic states, as opposed to between them, as in other regions of the world.  Thus, the conflicts are often misleadingly labelled and characterized as [[civil war]]s when they are inter-ethnic conflicts in a multi-ethnic state.
+
+==Ethnicity in specific countries==
+===USA===
+{{Main|Race and ethnicity in the United States}}
+In the [[United States of America]], the term "ethnic" carries a different meaning from how it is commonly used in some other countries due to the historical and ongoing significance of racial distinctions that categorize together what might otherwise have been viewed as ethnic groups. So, for example, various ethnic, "national," or linguistic groups from Africa, Asia and the Pacific Islands, Latin America and Indigenous America have long been aggregated as racial minority groups (currently designated as African American, Asian, Latino and Native American or American Indian, respectively). While a sense of ethnic identity may coexist with racial identity (Chinese Americans among Asian or Irish American among European or White, for example), the United States' long history as a settler, conqueror and slave society, and the concomitant formal and informal inscription of racialized groupings into law and social stratification schemes has bestowed upon race a fundamental social identification role in the United States. "Ethnicity theory" in the US refers to a school of thinking on race that arose in response first to biological views of race, which underwrote some of the most extreme forms of racial social stratification, exclusion and subordination. However, in the 1960s ethnicity theory was put to service in debates among academics and policy makers regarding how to grapple with the demands and resistant (sometimes "race nationalist") political identities resulting from the great civil rights mobilizations and transformation. Ethnicity theory came to be synonymous with a liberal and neoconservative rejection or diminution of race as a fundamental feature of US social order, politics and culture. Ethnicity theorists embraced an individualist, quasi-voluntarist notion of identity, which downplayed the significance of race as structuring element in US history and society. Michael Omi and Howard Winant have argued in the their book ''Racial Formation in the United States: from the 1960s to the 1990s'' that ethnicity theory fails to grapple effectively with the meaning and material significance of race in the US and offer a theory of racial formation as an alternative view. 
+
+Ethnicity usually refers to collectives of related groups, having more to do with morphology, specifically skin color, rather than political boundaries. The word "nationality" is more commonly used for this purpose (e.g. Italian, Mexican, French, Russian, Japanese, etc. are nationalities). Most prominently in the U.S., [[Latin Americans|Latin American]] descended populations are grouped in a "[[Hispanic]]" or "[[Latino]]" ethnicity. The many previously designated [[Oriental]] ''ethnic'' groups are now classified as the [[Asia]]n ''racial'' group for the census.
+
+The terms "[[Black people|Black]]" and "[[African American]]", while different, are both used as ethnic categories in the US. In the late 1980s, the term "African American", was posited as the most appropriate and politically correct race designation.&lt;ref&gt;[http://www.answers.com/african-american Encyclopedia of Public Health, by The Gale Group, Inc]&lt;/ref&gt; While it was intended as a shift away from the racial inequities of America's past often associated with the historical views of the "Black race", it largely became a simple replacement for the terms Black, Colored, Negro and the like, referring to any individual of dark skin color regardless of geographical descent. Likewise, whether light-skinned, medium-skinned or dark-Skinned, many African Americans are multiracial; although many people have the misconception and assumption that light-skinned African Americans are more mixed than others because of their lack of genetic knowledge. More than half of African Americans also have European ancestry equivalent to one great-grandparent, and 5 percent have Native American ancestry equivalent to one great-grandparent.&lt;ref&gt;Henry Louis Gates, Jr., ''In Search of Our Roots: How 19 Extraordinary African Americans Reclaimed Their Past'', New York: Crown Publishers, 2009, pp. 20-21&lt;/ref&gt;
+
+The term "[[White people|White]]" generally describes people whose ancestry can be traced to [[Europe]] (including other European-settled countries in the [[Americas]], [[Australasia]] and [[South Africa]] among others) and who now live in the United States. [[Middle East]]erners may sometimes also be included in the "white" category.  This includes people from [[Southwest Asia]] and [[North Africa]]. All the aforementioned are categorized as part of the "White" racial group, as per US Census categorization.  This category has been split into two groups: [[Hispanic and Latino Americans|Hispanics]] and non-Hispanics (e.g. White non-Hispanic and [[White Hispanic and Latino Americans|White Hispanic]].) Although people from [[East Asia]] may typically have light skin, they are not considered "white" due to their mongoloid origin, which reflects upon the socially-constructed nature of racial groups.
+
+===Europe===
+{{Main|Ethnic groups in Europe}}
+{{See|Ethnicity (United Kingdom)|Ethnic groups in Russia}}
+
+[[Europe]] has a large number of ethnic groups;  Pan and Pfeil (2004) count 87 distinct "peoples of Europe", of which 33 form the majority population in at least one sovereign state, while the remaining 54 constitute [[ethnic minority|ethnic minorities]] within every state they inhabit (although they may form local regional majorities within a sub-national entity). The total number of  national minority populations in Europe is estimated at 105 million people, or 14% of 770 million Europeans.&lt;ref&gt;Christoph Pan, Beate Sibylle Pfeil,''Minderheitenrechte in Europa. Handbuch der europäischen Volksgruppen'' (2002). [http://www.living-diversity.eu/Introduction.html Living-diversity.eu], English translation 2004.&lt;/ref&gt;
+
+A number of European countries, including  [[France]],&lt;ref&gt;{{fr}} ''article 8 de la [http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068624&amp;dateTexte=20080129 loi Informatique et libertés], 1978: "Il est interdit de collecter ou de traiter des données à caractère personnel qui font apparaître, directement ou indirectement, les origines raciales ou ethniques, les opinions politiques, philosophiques ou religieuses ou l'appartenance syndicale des personnes, ou qui sont relatives à la santé ou à la vie sexuelle de celles-ci."''&lt;/ref&gt; and [[Switzerland]] do not collect information on the ethnicity of their resident population.
+
+[[Russia]] has numerous [[Ethnic groups in Russia|recognized ethnic groups]] besides the 80% [[Russians|ethnic Russian]] majority. The largest group are the [[Tatars]] (3.8%).
+Many of the smaller groups are found in the Asian part of Russia (see [[Indigenous peoples of Siberia]]).
+
+===India===
+{{Main|South Asian ethnic groups}}
+In [[India]], the population is categorized in terms of the 1,652 [[Languages of India|mother tongues spoken]]. Indian society is traditionally divided into [[Indian caste system|castes]] or clans, not ethnicities, and these categories have had no official status since Independence in 1947, except for the  [[scheduled castes and tribes]] which remain registered for the purpose of [[positive discrimination]].
+
+===China===
+{{Main|List of ethnic groups in China|Ethnic minorities in China}}
+The [[People's Republic of China]] officially recognizes 56 ethnic groups, the largest of which is the [[Han Chinese]].  Many of the ethnic minorities maintain their own cultures, languages and identity although many are also becoming more westernised.  Han predominate demographically and politically in most areas of China, although less so in [[Tibet Autonomous Region|Tibet]] and [[Xinjiang]], where the Han are in the minority.  The [[one-child policy]] only applies to the Han.
+
+==See also==
+{|
+||
+* [[Ancestry]]
+* [[Clan]]
+* [[Cultural diversity in the media in Europe]]
+* [[Diaspora]]
+* [[Ethnic autonomous regions]]
+* [[Ethnic cleansing]]
+* [[Ethnic flag]]
+* [[Ethnic minority]]
+* [[Ethnic nationalism]]
+* [[Ethnicity and health]]
+* [[Ethnocentrism]]
+* [[Ethnogenesis]]
+* [[Genealogy]]
+* [[Genetic genealogy]]
+* [[Human Genome Diversity Project]] ([[HGDP]])
+* [[Identity politics]]
+* [[Intersectionality]]
+* [[Kinship and Descent]]
+||
+* [[List of ethnic groups]]
+* [[List of indigenous peoples]]
+* [[List of stateless ethnic groups]]
+* [[Meta-ethnicity]]
+* [[Multiculturalism]]
+* [[Nation]]
+* [[National minority]]
+* [[National symbol]]
+* [[Passing (ethnic group)]]
+* [[Polyethnicity]]
+* [[Population genetics]]
+* [[Race and ethnicity in the United States Census]]
+* [[Race (classification of human beings)]]
+* [[Stateless nation]]
+* [[Tribe]]
+* [[Y-DNA haplogroups by ethnic groups]]
+|}
+
+==Notes==
+&lt;!--This article uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php --&gt;
+{{Reflist|2}}
+
+==References==
+* Abizadeh, Arash, [http://www.profs-polisci.mcgill.ca/abizadeh/Ethnicity.htm "Ethnicity, Race, and a Possible Humanity"] ''World Order'', 33.1 (2001): 23-34. (Article that explores the social construction of ethnicity and race.)
+*Barth, Fredrik (ed). ''Ethnic groups and boundaries. The social organization of culture difference'', Oslo: Universitetsforlaget, 1969
+* Billinger, Michael S. (2007), [http://coa.sagepub.com/cgi/content/abstract/27/1/5 "Another Look at Ethnicity as a Biological Concept: Moving Anthropology Beyond the Race Concept"], ''Critique of Anthropology'' '''27''',1:5–35.
+* Cole, C.L. "Nike’s America/ America’s Michael Jordan", ''Michael Jordan, Inc.: Corporate Sport, Media Culture, and Late Modern America''. (New York: [[Suny Press]], 2001).
+* Dünnhaupt, Gerhard, "The Bewildering German Boundaries", in: ''Festschrift for P. M. Mitchell'' (Heidelberg: Winter 1989).
+* Eysenck, H.J., ''Race, Education and Intelligence'' (London: Temple Smith, 1971) (ISBN 0-8511-7009-9)
+* Hartmann, Douglas. "Notes on Midnight Basketball and the Cultural Politics of Recreation, Race and At-Risk Urban Youth", ''Journal of Sport and Social Issues''. 25 (2001): 339-366.
+* [[Eric Hobsbawm|Hobsbawm, Eric]], and Terence Ranger, editors, ''The Invention of Tradition''.  (Cambridge: [[Cambridge University Press]], 1983).
+*[[Thomas Hylland Eriksen]] (1993) ''Ethnicity and Nationalism: Anthropological Perspectives'', London: Pluto Press
+* Jenkins, Richard (2008) ''Rethinking Ethnicity''. London: Sage.
+*Levinson, David, ''Ethnic Groups Worldwide: A Ready Reference Handbook'', Greenwood Publishing Group (1998), ISBN 9781573560191.
+* Malesevic, Sinisa, ''The Sociology of Ethnicity'', London: Sage.
+* Morales-Díaz, Enrique; Gabriel Aquino; &amp; Michael Sletcher, "Ethnicity", in Michael Sletcher, ed., ''New England'', (Westport, CT, 2004).
+* Omni, Michael and Howard Winant. ''Racial Formation in the United States from the 1960s to the 1980s''. (New York: Routledge and Kegan Paul, Inc., 1986).
+*Seidner, Stanley S. Ethnicity, ''Language, and Power from a Psycholinguistic Perspective''. (Bruxelles: Centre de recherche sur le pluralinguisme1982).
+* Sider, Gerald, ''Lumbee Indian Histories'' (Cambridge: Cambridge University Press, 1993).
+* {{Cite journal|last=Smith|first= Anthony D.|authorlink=Anthony D. Smith|year= 1987|title=The Ethnic Origins of Nations|publisher= Blackwell|ref=harv|postscript=&lt;!--None--&gt;}}
+* {{Cite journal|last=Smith|first=Anthony D.|authorlink=Anthony D. Smith|year=1999|title=Myths and memories of the Nation|publisher=[[Oxford University Press]]|ref=harv|postscript=&lt;!--None--&gt;}}
+* {{note|census}} [[U.S. Census Bureau]] [http://quickfacts.census.gov/qfd/meta/long_68178.htm State &amp; County QuickFacts: Race].
+
+==External links==
+{{Wiktionary|nationality}}
+{{Wiktionary|nation}}
+{{Wiktionary|ethnicity}}
+{{Wiktionary|ethnic}}
+*{{dmoz|Society/Ethnicity|Ethnicity}}
+*Downloadable article: "Evidence that a West-East admixed population lived in the Tarim Basin as early as the early Bronze Age" Li et al. ''BMC Biology'' 2010, 8:15. [http://www.biomedcentral.com/content/pdf/1741-7007-8-15.pdf Biomedcentral.com]
+*[http://en.rian.ru/video/20071226/94198588.html Rian.ru]
+*[http://www.apa.org/pi/oema/index.aspx American Psychological Association's Office of Ethnic Minority Affairs]
+
+{{Ethnicity}}
+
+{{DEFAULTSORT:Ethnic Group}}
+[[Category:Ethnic groups| ]]
+[[Category:Ethnicity| ]]
+[[Category:Multiracial affairs]]
+[[Category:Greek loanwords]]
+
+[[als:Ethnie]]
+[[ar:مجموعة عرقية]]
+[[ast:Etnia]]
+[[az:Etnikon]]
+[[be:Этнас]]
+[[be-x-old:Этнас]]
+[[bs:Etnička grupa]]
+[[bg:Етническа група]]
+[[ca:Ètnia]]
+[[cs:Etnikum]]
+[[cy:Grŵp ethnig]]
+[[da:Etnicitet]]
+[[de:Ethnie]]
+[[et:Etnos]]
+[[es:Etnia]]
+[[eo:Etno]]
+[[eu:Etnia]]
+[[fa:قومیت]]
+[[fr:Ethnie]]
+[[ga:Grúpa eitneach]]
+[[gl:Etnia]]
+[[gu:વંશીય જૂથ]]
+[[ko:민족]]
+[[hi:जातीय समूह]]
+[[hr:Etnička skupina]]
+[[id:Kelompok etnik]]
+[[it:Etnia]]
+[[he:אתניות]]
+[[jv:Suku bangsa]]
+[[kn:ಜನಾಂಗೀಯ ಗುಂಪುಗಳು]]
+[[kk:Этнос]]
+[[la:Ethnos]]
+[[lv:Etnoss]]
+[[lt:Etninė grupė]]
+[[hu:Etnikum]]
+[[ms:Kelompok etnik]]
+[[nl:Etniciteit]]
+[[ja:民族]]
+[[no:Etnisitet]]
+[[nn:Etnisitet]]
+[[pl:Grupa etniczna]]
+[[pt:Grupo étnico]]
+[[ru:Этнос]]
+[[si:ජාතිය]]
+[[simple:Ethnic group]]
+[[sk:Etnikum]]
+[[ckb:گروپی ڕەگەزی]]
+[[sr:Етничка група]]
+[[su:Kelompok étnik]]
+[[fi:Etninen ryhmä]]
+[[sv:Etnicitet]]
+[[tl:Pangkat etniko]]
+[[tr:Etnik gruplar]]
+[[uk:Етнос]]
+[[yi:עטנישע גרופע]]
+[[yo:Ẹ̀yà ènìyàn]]
+[[zh:族群 (人類社會)]]</rev></revisions></page></pages></query></api>

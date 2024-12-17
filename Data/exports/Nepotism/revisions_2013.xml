@@ -1,0 +1,160 @@
+<?xml version="1.0"?><api><continue rvcontinue="20131117071607|582018352" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="313538" pageid="313538" ns="0" title="Nepotism"><revisions><rev timestamp="2013-11-18T19:21:56Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{for|the television episode|Nepotism (The Office)}}
+{{Political corruption sidebar}}
+'''Nepotism''' is [[favoritism]] granted in politics or business to [[Kinship|relatives]]. The term originated with the assignment of nephews to cardinal positions by [[Catholicism|Catholic]] [[pope]]s and [[bishop]]s. Nepotism is found in the fields of politics, entertainment, business and religion.
+
+== Origins ==
+{{Main|Cardinal-nephew}}
+The term comes from Italian word ''nepotismo'',&lt;ref name="dictionary"&gt;[http://dictionary.reference.com/browse/nepotism "Nepotism."] Dictionary.com. Retrieved 20 June 2013.&lt;/ref&gt;&lt;ref&gt;{{cite web
+  |title=In Praise of Nepotism: A Natural History
+  |work=[[Adam Bellow]] Booknotes interview transcript
+  |url=http://booknotes.org/Transcript/?ProgramID=1742
+  |archiveurl=http://web.archive.org/web/20100926013727/http://booknotes.org/Transcript/?ProgramID=1742
+  |archivedate=26 September 2010
+  |accessdate=10 September 2013}}
+&lt;/ref&gt; which is based on Latin root ''nepos'' meaning nephew.&lt;ref&gt;{{cite web
+  |title=Article nepos
+  |work=CTCWeb Glossary
+  |url=http://www.ablemedia.com/ctcweb/glossary/glossaryn.html#nepos
+  |accessdate=10 September 2013}}
+&lt;/ref&gt; In the [[Middle Ages]] some [[Catholicism|Catholic]] [[pope]]s and [[bishop]]s, who had taken vows of [[chastity]], and therefore usually had no legitimate offspring of their own, gave their nephews such positions of preference as were often accorded by fathers to son.&lt;ref name="Article Nepotism"&gt;{{cite web
+  |title=Article Nepotism
+  |work=New Catholic Dictionary
+  |url=http://catholic-forum.com/saints/ncd05726.htm
+  |accessdate=2007-07-12 }}{{dead link|date=November 2013}}
+&lt;/ref&gt;
+
+Several popes [[Cardinal-nephew|elevated nephews]] and other relatives to the [[Cardinal (Catholicism)|cardinalate]]. Often, such appointments were a means of continuing a papal "dynasty".&lt;ref&gt;{{cite book|author1=Gianvittorio Signorotto|author2=Maria Antonietta Visceglia|title=Court and Politics in Papal Rome, 1492-1700|url=http://books.google.com/books?id=2W1tc-wf5DQC&amp;pg=PA114|accessdate=20 June 2013|date=21 March 2002|publisher=Cambridge University Press|isbn=978-1-139-43141-5|pages=114–116}}&lt;/ref&gt; For instance, [[Pope Callixtus III]], head of the [[House of Borgia|Borgia]] family, made two of his nephews cardinals; one of them, Rodrigo, later used his position as a cardinal as a stepping stone to the papacy, becoming [[Pope Alexander VI]].&lt;ref&gt;{{cite web
+  |title=Article Pope Alexander VI
+  |work=New Catholic Dictionary
+  |url=http://www.newadvent.org/cathen/01289a.htm
+  |accessdate=2007-07-12 }}
+&lt;/ref&gt; Alexander then elevated Alessandro Farnese, his mistress's brother, to cardinal; Farnese would later go on to become [[Pope Paul III]].&lt;ref&gt;{{cite web
+  |title=Article Pope Paul III
+  |work=Catholic Encyclopedia
+  |url=http://www.newadvent.org/cathen/11579a.htm
+  |accessdate=2007-07-12 }}
+&lt;/ref&gt;
+
+Paul also engaged in nepotism, appointing, for instance, two nephews, aged 14 and 16, as cardinals. The practice was finally ended when [[Pope Innocent XII]] issued the [[Papal bull|bull]] ''[[Romanum decet Pontificem]]'', in 1692.&lt;ref name="Article Nepotism"/&gt; The papal bull prohibited popes in all times from bestowing estates, offices, or revenues on any relative, with the exception that one qualified relative (at most) could be made a cardinal.&lt;ref&gt;{{cite book|author=Anura Gurugé|title=The Next Pope|url=http://books.google.com/books?id=B5JVthemvvwC&amp;pg=PA115|accessdate=20 June 2013|date=16 February 2010|publisher=Anura Guruge|isbn=978-0-615-35372-2|page=115}}&lt;/ref&gt;
+
+== Types of nepotism ==
+
+=== Political ===
+Nepotism is a common [[accusation]] in politics when the relative of a powerful figure ascends to similar power seemingly without appropriate qualifications. The [[British English]] expression "[[Bob's your uncle]]" is thought to have originated when [[Robert Arthur Talbot Gascoyne-Cecil, 3rd Marquess of Salisbury]], promoted his nephew, [[Arthur Balfour]], to the esteemed post of [[Chief Secretary for Ireland]], which was widely seen as an act of nepotism.&lt;ref name=Trahair&gt;[http://books.google.com/books?id=K0zrsHO27-wC&amp;pg=PA72&amp;lpg=PA72 ''From Aristotelian to Reaganomics: A Dictionary of Eponyms With Biographies in the Social Science''], by R. C. S. Trahair, [[Greenwood Publishing Group]], 1994, page 72. Retrieved online from [[Google Books]], Jul 30, 2012.&lt;/ref&gt;
+
+=== Organizational ===
+Nepotism is generally seen as entirely unethical, both on the part of the person providing nepotic opportunities and on the part of the person receiving what appears to be a favor. However, Adam Bellow's book In Praise of Nepotism (2006), and also a recent book published by the Society for Industrial and Organizational Psychology (Nepotism in Organizations, 2012) suggest that this appearance of ethical breech may be just that--an appearance.
+
+In the case of the the person providing the opportunity, the family member being offered the job may have abilities that are legitimate predictors of superior performance on the job. Examples of this are common in sports and the arts. The nepotee may also have a degree of commitment to the organization's mission which, when combined with legitmate abilities, makes them more likely to remain with the organization than other, equally qualified candidates for the job, who would not stay as long or work as hard to benefit the organization.
+
+In the case of the nepotee, who enters a job (with or without adequate skills), there may be an element of coercion not obvious to outside observers. So, although the nepot (usually a senior family member) is behaving unethically, the nepotee is following the dictates of conscience or loyalty, in order to help a business survive. This appears to be a common dilemma in farming.
+
+To conclude that all nepotic behavior is "bad" based on vivid stories of unethical behavior is to miss the possibility that family businesses are the most common form of work organizations for some very legitimate reasons. For every example of a dysfunctional business choice, there are others showing that family relationships in work situations can be highly functional for both customers and society more generally. The fact that we hear so much more about the "bad" cases suggests that people are seeking to support a prejudice against the appearance of favoritism in its absence. And one need not look far to find examples of highly successful firms that started as family organizations (e.g. Walmart, Ford Motor Co., Walgreen's).
+
+==== Australia ====
+[[Anna Bligh]], who won the 2009 Queensland State election, has been accused of nepotism by giving her husband Greg Withers a position as the Office of Climate Change head.&lt;ref name="houghton"&gt;Houghton, Des (2008-06-28). [http://www.news.com.au/couriermail/story/0,23739,23931778-5012449,00.html "Anna Bligh's Labor in trouble in the polls"] ''Couriermail'', 28 June 2008. Retrieved 2009-08-17.&lt;/ref&gt;
+
+Shortly after his appointment as Archbishop of Sydney in 2001, [[Peter Jensen (bishop)|Peter Jensen]] was accused, in an Australian Broadcasting Corporation interview, of nepotism after nominating his brother [[Phillip Jensen]] as Dean of Sydney and appointing his wife Christine Jensen to an official position in the Sydney diocese.&lt;ref&gt;{{cite web|url=http://www.abc.net.au/am/stories/s728866.htm |title=AM - Archibishop Jensen accused of nepotism |work=Australian Broadcasting Corporation |date=2002-11-18 |accessdate=2012-06-22}}&lt;/ref&gt;
+
+==== Belgium ====
+Over the past decade, criticism has been growing over the creation of political dynasties in Belgium, in which all of the traditional political parties have been involved. This phenomenon has been explained by the fact that prominent party members control the ranking of candidates on party lists for elections and a candidate's place on a list determines whether or not he or she is elected. Another justification for the phenomenon is the importance of name recognition for collecting votes.&lt;ref name=autogenerated1&gt;{{cite web|url=http://www.telegraaf.nl/buitenland/3376470/__Politiek_Belgie_is_familiezaak__.html?p=7,1 |title=Politiek België is familiezaak - Buitenland - Telegraaf.nl [24 uur actueel, ook mobiel&amp;#93; [buitenland&amp;#93; |publisher=Telegraaf.nl |date= |accessdate=2011-03-06}}&lt;/ref&gt;
+
+Claims of nepotism have been made against [[Bruno Tobback]], the son of senator and former minister [[Louis Tobback]], a member of the Flemish socialists, became the Belgian federal government's minister for the pensions and environment at 35 in 2005.&lt;ref&gt;{{cite web | url=http://www.ipe.com/magazine/tobback-making-his-mark_17630.php#.UcPF2ZzgUoI | title=Tobback: making his mark | publisher=IPE International Publishers Limited | work=Investment &amp; Pensions Europe | date=1 Mar 2005 | accessdate=20 June 2013 | author=Martin Hurst}}&lt;/ref&gt;  [[Alexander De Croo]], the son of former speaker of the Belgian parliament Herman De Croo, ran for the leadership of his father's party Open VLD at age 33.&lt;ref&gt;{{cite web|url=http://www.gva.be/nieuws/binnenland/aid874229/alexander-de-croo-wil-voorzitter-open-vld-worden.aspx?cmt=all |title=Alexander De Croo wil voorzitter Open Vld worden |publisher=Gva.be |date= |accessdate=2011-03-06}}&lt;/ref&gt; Finally there is the example of [[Maya Detiège]], the daughter of former mayor of the city of [[Antwerp]] Leona Detiège, who herself is the daughter of the former mayor of [[Antwerp]] Frans Detiège.&lt;ref name=autogenerated1 /&gt;
+
+==== Cambodia ====
+Prime Minister [[Hun Sen]] and senior members of [[Parliament of Cambodia|Parliament]], are also known for their hand in getting family members into government positions. In the [[Cambodian parliamentary election, 2013|2013 Cambodian parliamentary elections]], at least eight candidates standing in the upcoming July election are sons of high-ranking [[Cambodian People’s Party]] officials.&lt;ref&gt;{{cite web|url=http://www.phnompenhpost.com/2013050665421/National/sons-of-the-party-anointed.html |title=Sons of the party anointed |publisher= Meas Sokchea |date=2013-05-06 |accessdate=2013-05-06}}&lt;/ref&gt; All ruling party sons lost, but were appointed into high government positions.
+
+==== China ====
+For about 3,000 years, nepotism was common in China's clan and extended family based culture. Confucius wrote about the importance of balancing "filial piety with merit". The [[clan]]-based [[feudal society|feudal system]] collapsed during [[Confucius]]' lifetime, yet nepotism has continued through the modern age.&lt;ref&gt;{{cite book|author=Adam Bellow|title=In Praise of Nepotism|url=http://books.google.com/books?id=z8wSCZG9O6AC&amp;pg=PA89|accessdate=21 June 2013|date=13 July 2004|publisher=Knopf Doubleday Publishing Group|isbn=978-1-4000-7902-5|pages=89–92}}&lt;/ref&gt; For instance, [[Zhang Hui]], was believed to have his career "expedited" through the intervention of his uncle, [[Li Jianguo]], Vice Chairman and Secretary General of the [[National People’s Congress]]. Hui was made the youngest member and secretary of Jining's Municipal Standing Committee at the age of 32.&lt;ref&gt;{{cite web | url=http://www.theepochtimes.com/n2/china-news/politburo-member-accused-of-nepotism-325972.html | title=Chinese Politburo Member Accused of Nepotism | work=The Epoch Times | date=18 December 2012 | accessdate=21 June 2013 | author=Fang Xiao}}&lt;/ref&gt;
+
+{{See also|Princelings}}
+
+==== France ====
+In October 2009, [[Jean Sarkozy]] was poised to become [[:fr:Epad|EPAD]]'s director despite lacking a diploma and professional experience.&lt;ref&gt;{{cite news|url=http://www.reuters.com/article/worldNews/idUSTRE59F1AH20091016 |title=Poll shows majority against job for Sarkozy's son |publisher=Reuters.com |date= 2009-10-16|accessdate=2011-03-06}}&lt;/ref&gt; He was voted regional councillor of [[Neuilly-sur-Seine]] in 2008.&lt;ref&gt;{{cite web | url=http://dalje.com/en-world/sarkozys-son-climbs-new-rung-on-political-ladder/156683 | title=Sarkozy´s Son Climbs New Rung On Political Ladder | publisher=Kontineo oglašavanje d.o.o. | work=dalje.com | date=16 June 2008 | accessdate=20 June 2013}}&lt;/ref&gt;
+
+[[Pierre Sarkozy]], first son of then President [[Nicolas Sarkozy]], asked [http://fr.wikipedia.org/SCPP SCPP]{{dead link|date=November 2013}} for a financial help in September 2009 of around €10000 towards an (€80000) artistic project. Because he was not a SCPP member, the request was automatically rejected. Sarkozy then went to the [[Élysée]] which lead to an Élysée counsel contacting the SCPP, and SCPP president [[Marc Guez]] assuring the issue would soon be favorably resolved.&lt;ref&gt;{{cite web|url=http://www.electronlibre.info/+Nepotisme-et-Sarkozysme-acte-II,02317+ |title=Népotisme et Sarkozysme, acte II (màj) |publisher=Electronlibre.info |date= |accessdate=2011-03-06}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rue89.com/2009/11/07/apres-jean-un-coup-de-pouce-de-lelysee-pour-pierre-sarkozy-125100 |title=Après Jean, un coup de pouce de l'Elysée pour Pierre Sarkozy |publisher=Rue89.com |date=2011-01-19 |accessdate=2011-03-06}}&lt;/ref&gt; According to [[:fr:Abeille Musique|Abeille Music]] president and SCPP member Yves Riesel, however, this would not happen as SCPP's financial help has been restricted to members only for months.&lt;ref&gt;{{cite web|url=http://www.liberation.fr/politiques/0101601841-apres-jean-l-elysee-se-met-au-service-de-pierre-sarkozy |title=Après Jean, l'Elysée se met au service de Pierre Sarkozy |publisher=Liberation.fr |date= |accessdate=2011-03-06}}&lt;/ref&gt;
+
+==== Romania ====
+[[Socialist Republic of Romania|Romanian Communist]] dictator [[Nicolae Ceaușescu]]'s family members "dominated" the country for decades.&lt;ref&gt;{{cite book|author=Adam Bellow|title=In Praise of Nepotism|url=http://books.google.com/books?id=z8wSCZG9O6AC|accessdate=20 June 2013|date=13 July 2004|publisher=Knopf Doubleday Publishing Group|isbn=978-1-4000-7902-5}}&lt;/ref&gt;&lt;ref&gt;{{cite book|author=Edward Behr|title=Kiss the hand you cannot bite: the rise and fall of the Ceauşescus|accessdate=20 June 2013|date=21 May 1991|publisher=Villard Books|isbn=978-0-679-40128-5|page=175}}&lt;/ref&gt; [[Elena Băsescu]], the daughter of President [[Traian Băsescu]], was elected in 2009 to the [[European Parliament]], despite the fact that she had no significant professional or political experience.&lt;ref&gt;{{cite news | url=http://www.ziare.com/articole/elena+basescu+nepotism | title=Search on Elena Băsescu nepotism | work=Zaire.com | accessdate=21 June 2013 }}&lt;/ref&gt;
+
+==== Spain ====
+There is [[Juan Antonio Samaranch]], president of the [[International Olympic Committee]] (IOC) from 1980 to 2001: his son, [[Juan Antonio Samaranch Salisachs]], has been a member of the International Olympic Committee since 2001, while his daughter, Maria Teresa Samaranch Salisachs, has been president of the Spanish Federation of Sports on Ice since 2005.&lt;ref name="ElPais"&gt;{{Cite news | title = La larga carrera de un hombre polifacético | url = http://www.elpais.com/articulo/deportes/larga/carrera/hombre/polifacetico/elpepudep/20100421elpepudep_9/Tes | newspaper = El País | date = 21 April 2010 | postscript = &lt;!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. --&gt;{{inconsistent citations}}}}. {{es icon}}&lt;/ref&gt;  Nepotism occurred in [[Spanish colonization of the Americas|Spanish Colonial America]] when offices were given to family members.&lt;ref&gt;{{cite book|author1=Alan R. Freitang, Ashli Quesinberry Stokes|author2=Ashli Quesinberry Stokes|title=Global Public Relations: Spanning Borders, Spanning Cultures|url=http://books.google.com/books?id=kPrOtG3lv0QC&amp;pg=PA208|accessdate=20 June 2013|date=22 December 2008|publisher=Routledge|isbn=978-1-134-06129-7|page=208}}&lt;/ref&gt;
+
+==== Sri Lanka ====
+{{See also|Rajapaksa family}}
+Mahinda Rajapaksa has been accused of nepotism, appointing three brothers to run important ministries and other political positions for relatives, regardless of their merit. The Rajapaksa family hold the ministries of [[Ministry of Finance and Planning (Sri Lanka)|finance]], [[defence minister|defence]], [[Ministry of Ports and Aviation (Sri Lanka)|ports and aviation]], [[Ministry of Highways and Road Development (Sri Lanka)|highways and road development]]. The president's brother, [[Gotabhaya Rajapaksa]], was given the post of [[Ministry of Defence (Sri Lanka)|Defence Secretary]]. He also controls the armed forces, the police and the Coast Guard, and is responsible for immigration and emigration. Rajapaksa appointed his brother [[Basil Rajapaksa]] as minister of [[Ministry of Youth Empowerment and Socio Economic Development (Sri Lanka)|Economic Development]]. Together, the Rajapaksa brothers control over 70% of Sri Lanka's public budget. Mahinda Rajapaksa's eldest brother, [[Chamal Rajapaksa]], is also the current [[Speaker of the Parliament of Sri Lanka]], and has held many other posts before, while his eldest son, Namal Rajapaksa, is also a member of the parliament and holds undisclosed portfolios.&lt;ref&gt;{{cite news| url=http://www.economist.com/node/9299003?story_id=9299003 | work=The Economist | title=A war strange as fiction | date=2007-06-07}}&lt;/ref&gt;&lt;ref name="atimes1"&gt;{{cite web|author=Nov 11, 2010 |url=http://www.atimes.com/atimes/South_Asia/LK11Df02.html |title=Asia Times Online :: South Asia news, business and economy from India and Pakistan |publisher=Atimes.com |date=2010-11-11 |accessdate=2011-03-06}}&lt;/ref&gt;
+
+Others include: his nephew, [[Shashindra Rajapaksa]], who is the [[Chief minister of Uva]]; one of his cousins, the Sri Lankan ambassador to the [[United States]], [[Jaliya Wickramasuriya]]; and another cousin, [[Udayanga Weeratunga]], who is the ambassador to [[Russia]]. Dozens of nephews, nieces, cousins, and in-laws have also been appointed as heads of banks, boards, and corporations.&lt;ref name="atimes1"/&gt;
+
+==== Venezuela ====
+Nepotism is known to be practiced by President of the Venezuela National Assembly, [[Cilia Flores]]. Nine positions in the National Assembly were filled by Flores' family members, including a mother-in-law, aunt, 3 siblings, a cousin and his mother, and 2 nephews.&lt;ref&gt;{{cite book|author1=Emmanuel Adetula|author2=calibre (0.7.50) |title=The Naked Truth|url=http://books.google.com/books?id=-aLXTLBNASEC&amp;pg=PA71|accessdate=20 June 2013|date=6 April 2011|publisher=Xlibris Corporation|isbn=978-1-4568-8753-7|page=71}}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=http://www.nytimes.com/2007/02/18/world/americas/18iht-venez.html?_r=0 | title=Chávez family dogged by nepotism claims | work=The New York Times | accessdate=20 June 2013 | author=Simon Romero}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://buscador.eluniversal.com/2008/07/08/pol_ava_cilia-flores-niega-i_08A1777279.shtml |title=Nacional y Política - eluniversal.com |language={{es icon}} |publisher=Buscador.eluniversal.com |date= |accessdate=2011-03-06}}&lt;/ref&gt;
+
+==== United Kingdom ====
+In February 2010, Sir Christopher Kelly, chairman of the Committee on Standards in Public Life, said that more than 200 MPs used Parliamentary allowances to employ their own relatives in a variety of office roles. He suggested that the practice should be banned.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/8520548.stm|accessdate=27 August 2011|date=17 February 2010 | work=BBC News|title=Ban on MP spouse jobs 'essential'}}&lt;/ref&gt;
+
+In 2005, Councillor Ann Reid of York arranged for all nine sets of traffic lights on her daughter Hannah's wedding route through York to be switched to green for the five-car convoy. As a result, the wedding party took only 10 minutes to pass through the city.&lt;ref&gt;{{cite news|title=Councillor turns lights green for daughter's wedding | url=http://www.telegraph.co.uk/news/uknews/1500864/Councillor-turns-lights-green-for-daughters-wedding.html | date=18 October 2005 | accessdate=2011-12-09 | newspaper=The Telegraph | location=York, UK | last=Stokes | first=Paul}}&lt;/ref&gt;
+
+North Yorkshire Police's Chief Constable [[Grahame Maxwell]] was disciplined by the IPCC in 2011, but refused to resign, after admitting that he assisted a relative through the first stages of a recruitment process &lt;ref&gt;{{cite news | first= | last= | title=Chief constable remains despite calls for resignation | url=http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-13369301 | newspaper=BBC News | location=North Yorkshire, UK | date=12 May 2011 }}&lt;/ref&gt;
+
+===== Northern Ireland =====
+Many Northern Irish politicians employ family members.  In 2008, 19 elected politicians of the [[Democratic Unionist Party]] (DUP) directly employed family members and relatives constituted 27 of its 136 staff.&lt;ref&gt;{{Cite news | title = DUP's two tribes | url = http://www.belfasttelegraph.co.uk/news/politics/dups-two-tribes-13387086.html | newspaper = [[Belfast Telegraph]] | date = 22 February 2008 | postscript = &lt;!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. --&gt;{{inconsistent citations}}}}&lt;/ref&gt;
+
+==== United States ====
+Around 30 family members or relatives of President [[Ulysses S. Grant]] prospered financially in some way from either government appointments or employment.&lt;ref&gt;{{cite book |title=Encyclopedia of white-collar &amp; corporate crime, Volume 2|url=http://books.google.com/?id=P41ij0GoFL4C&amp;pg=PA374&amp;lpg=PA374&amp;dq=James+Watson+Webb+Scandal+in+Brazil#v=onepage&amp;q=James%20Watson%20Webb%20Scandal%20in%20Brazil&amp;f=false|author=Lawrence M. Salinger|pages=374–375|volume=2|year=2005 |isbn=9780761930044}}&lt;/ref&gt;
+
+[[John F. Kennedy]] made his brother-in-law, [[Sargent Shriver]], the first director of the Peace Corps and his brother, [[Robert F. Kennedy]], Attorney General.&lt;ref&gt;{{cite book|author1=Jeffrey M. Elliot|author2=Sheikh R. Ali|title=The PresidentialCongressional Political Dictionary|url=http://books.google.com/books?id=ppIIbWkftv4C&amp;pg=PA88|accessdate=20 June 2013|date=1 September 2007|publisher=Wildside Press LLC|isbn=978-1-4344-9140-4|page=88}}&lt;/ref&gt;
+
+In December 2012, a report from Washington Post, indicate various nepotism practices from D.C Metropolitan Washington Airports Authority (MWAA). One of the reasons was “But if [only if] they’re qualified and competed for it on their own, I don’t see a problem with relatives working in the same organization.”  The relatives are mom, daughter,  son-in-law, son, daughter-in-law, and brother.&lt;ref&gt;{{cite news|last=Thomson|first=Cheryl W.|title=D.C. airport authority employment is frequently a family affair|url=http://www.washingtonpost.com/local/crime/dc-airport-authority-employment-is-frequently-a-family-affair/2012/12/08/e29ab88a-3eef-11e2-a2d9-822f58ac9fd5_story.html|accessdate=10 December 2012|newspaper=Washington Post|date=8 December 2012}}&lt;/ref&gt; The inspector general of the Transportation Department and Congress pressured the Authority to resolve practices of nepotism. Authority employees are no longer allowed to directly or indirectly influence hiring or promotion of relatives, as documented in their ethics policy.&lt;ref&gt;{{cite web|author=Editorial Board |url=http://www.washingtonpost.com/opinions/airports-authority-must-clean-up-its-act-on-nepotism/2012/12/10/dc217b7a-4308-11e2-8061-253bccfc7532_story.html |title=Airports authority must clean up its act on nepotism |publisher=The Washington Post |date= |accessdate=2013-06-20}}&lt;/ref&gt;
+
+=== In entertainment ===
+Outside of national politics, accusations of "nepotism" are made in instances of ''[[prima facie]]'' favoritism to relatives, in such cases as:
+* [[Peaches Geldof]]'s role as magazine editor in an [[MTV]] reality show - produced by a company owned by her father [[Bob Geldof]].&lt;ref&gt;{{cite web|url=http://www.sundaymirror.co.uk/showbiz/showbiznews/2008/03/16/peaches-geldof-bags-tv-reality-show-as-magazine-editor-98487-20353319/ |title=Peaches Geldof bags TV reality show as magazine editor |publisher=Sundaymirror.co.uk |date= |accessdate=2011-03-06}}{{dead link|date=November 2013}}&lt;/ref&gt;
+* Hollywood's [[Coppola family tree|The Coppola family]] includes many distinguished filmmakers and actors. The careers of [[Sofia Coppola]], [[Nicolas Cage]], and [[Jason Schwartzman]] have been attributed to aid by director [[Francis Ford Coppola]], who cast his daughter Sofia in ''[[The Godfather Part III]]''.&lt;ref&gt;{{cite web|url=http://www.hollywood.com/news/EXTRA_Nepotism_in_the_Directors_Chair/312221 |title=EXTRA: Nepotism in the Director's Chair at |publisher=Hollywood.com |date=2000-04-21 |accessdate=2011-03-06|archiveurl=http://archive.is/H7YpF|archivedate=2013-01-03}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://spiritof1976.livejournal.com/338603.html |title=Nothing is true, everything is permitted - Coppola nepotism hate |publisher=Spiritof1976.livejournal.com |date= |accessdate=2011-03-06}}&lt;/ref&gt; Cage changed his last name in order to distance himself from such charges.&lt;ref&gt;[http://www.imdb.com/name/nm0000115/bio Nicolas Cage - imdb biography&lt;!--Bot-generated title--&gt;]&lt;/ref&gt;
+* The main cast for the [[HBO]] series [[Girls (TV series)|Girls]] is made up entirely of daughters from notable figures in entertainment, such as [[Brian Williams]] and [[David Mamet]].
+
+=== In employment ===
+Nepotism at work can mean increased opportunity at a job, attaining the job or being paid more than other similarly situated people.&lt;ref&gt;{{cite web|url=http://www.safeworkers.co.uk/nepotismatwork.html |title=Nepotism at Work |publisher=Safeworkers.co.uk |date=2013-04-20 |accessdate=2013-06-20}}&lt;/ref&gt; Arguments are made both for and against employment granted due to a family connection, which is most common in small, family run businesses. On one hand, nepotism can provide stability and continuity. Critics cite studies that demonstrate decreased morale and commitment from non-related employees,&lt;ref&gt;{{cite web|url=http://www.insideindianabusiness.com/contributors.asp?id=1625 |title=Family Ties: Handling Nepotism Within Your Business - Perspectives - Inside INdiana Business with Gerry Dick |publisher=Insideindianabusiness.com |date=2010-11-09 |accessdate=2013-06-20}}&lt;/ref&gt;  and a generally negative attitude towards superior positions filled through nepotism. An article from ''[[Forbes]]'' magazine stated "there is no ladder to climb when the top rung is reserved for people with a certain name."&lt;ref&gt;{{cite web|url=http://www.forbes.com/2009/06/19/ceo-executive-hiring-ceonewtork-leadership-nepotism.html |title=Is Nepotism So Bad? |publisher=Forbes |date= |accessdate=2013-06-20}}&lt;/ref&gt;
+
+== Types of partiality ==
+Nepotism refers to partiality to family whereas [[cronyism]] refers to partiality to an associate or [[friend]].  [[Favoritism]], the broadest of the terms, refers to partiality based upon being part of a favored group, rather than job performance.&lt;ref&gt;{{cite web | url=http://www.scu.edu/ethics/practicing/focusareas/government_ethics/introduction/cronyism.html | title=Favoritism, Cronyism, and Nepotism | publisher=Santa Clara University | accessdate=June 20, 2013 | author=Judy Nadler and Miriam Schulman}}&lt;/ref&gt;
+
+== See also ==
+{{columns-list|2|
+* [[Blat (term)]]
+* [[Cabal]]
+* [[Collective narcissism]]
+* [[Cronyism]]
+* [[Ethnic nepotism]]
+* [[Ingroup bias]]
+* [[Hereditary monarchy]]
+* [[List of cardinal-nephews]]
+* [[Merit system]]
+* [[Professional courtesy]]
+* [[Simony]]
+* [[Spoils system]]
+* [[Wasta]]
+* [[Nepiophile]]
+}}
+
+== References ==
+{{reflist|30em}}
+
+== Further reading ==
+*[http://links.jstor.org/sici?sici=0003-0678(197310)25%3A4%3C493%3AAC%3E2.0.CO%3B2-U "American Calendar"] in ''American Quarterly'' 25.4 (October 1973): 493-96.
+* [http://digital.library.unt.edu/ark:/67531/metadc149577/ ''Cardinal Giovanni Battista De Luca: Nepotism in the Seventeenth-century Catholic Church and De Luca's Efforts to Prohibit the Practice ''] University of North Texas Digital Library.
+*[http://www.newstatesman.com/200309290012 "Nepotism: is it back?"]{{dead link|date=November 2013}} ''New Statesman,'' September 29, 2003.
+*[http://www.psypress.com/books/details/9780415882767/] ''Nepotism in Organizations,'' 2012
+
+== External links ==
+{{Wiktionary|nepotism}}
+{{Wikiquote}}
+* [http://www.Hollywoodnepotism.net/ Hollywoodnepotism.net]
+*[http://www.booknotes.org/Watch/177312-1/Adam+Bellow.aspx ''Booknotes'' interview with Adam Bellow on ''In Praise of Nepotism: A Natural History'', August 24, 2003.]
+
+{{Discrimination}}
+
+[[Category:Nepotism| ]]
+[[Category:Corruption]]
+[[Category:Ethically disputed political practices]]
+[[Category:Group processes]]
+[[Category:Political corruption]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050819052213|21343226" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="374004" pageid="374004" ns="0" title="Diversity training"><revisions><rev timestamp="2005-09-10T06:25:54Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Diversity training''' is training provided by an organization, usually with the stated purpose of treating [[diversity]] as an opportunity and promoting the ability of students and workers from a great variety of backgrounds to cooperate productively and make as great a contribution as possible to organizational goals. 
+
+Although it is a big business with a profound effect on business, government and education, observers characterize diversity training in very different ways. Its proponents consider it morally right, because it [[respect diversity|respects diversity]]. They also view it as economically sound, because it enables organizations to draw on multiplicities of talents and strengths. Its opponents consider it an oppressive [[ideology|ideological]] re-education tactic, that actually injures the ability of organizations to attain their goals.
+
+==Books==
+*Peter Wood, ''Diversity: The Invention of A Concept'', ISBN 1893554627
+:An historical account and analysis of the concept.
+
+{{edu-stub}}
+
+[[Category:Education by subject]]</rev></revisions></page></pages></query></api>

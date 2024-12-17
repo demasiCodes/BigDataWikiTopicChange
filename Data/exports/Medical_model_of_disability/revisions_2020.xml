@@ -1,0 +1,50 @@
+<?xml version="1.0"?><api><continue rvcontinue="20201123014800|990145190" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1188531" pageid="1188531" ns="0" title="Medical model of disability"><revisions><rev timestamp="2020-11-23T05:43:36Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Disability}}
+The '''medical model of disability''', or medical model, arose from the biomedical perception of [[disability]]. This model links a disability diagnosis to an individual's physical body. The model supposes that this disability may reduce the individual's [[quality of life]] and the aim is, with medical intervention, this disability will be diminished or corrected.&lt;ref name="FisherGoodley"&gt;{{cite journal|last1=Fisher|first1=Pamela|last2=Goodley|first2=Dan|title=The linear medical model of disability: mothers of disabled babies resist with counter-narratives|journal=Sociology of Health &amp; Illness|date=January 2007|volume=29|issue=1|pages=66–81|doi=10.1111/j.1467-9566.2007.00518.x|pmid=17286706}}&lt;/ref&gt;
+
+The medical model focuses on curing or managing illness or disability. By extension, the medical model supposes a "compassionate" or [[justice|just]] society invests resources in health care and related services in an attempt to cure or manage disabilities ''medically''. This is in an aim to expand functionality and/or improve functioning, and to allow disabled persons a more "normal" life. The [[medical]] profession's responsibility and potential in this area is seen as central.
+
+== History ==
+Before the introduction of the [[biomedical model]], patients relaying their narratives to the doctors was paramount. Through these narratives and developing an intimate relationship with the patients, the doctors would develop treatment plans in a time when diagnostic and treatment options were limited.&lt;ref name="Bury"&gt;{{cite journal|last1=Bury|first1=Mike|title=Illness narratives: Fact or fiction?|journal=Sociology of Health &amp; Illness|date=2001|volume=23|issue=3|page=263|doi=10.1111/1467-9566.00252}}&lt;/ref&gt; This could particularly be illustrated with aristocratic doctors treating the elite during the 17th and 18th century.&lt;ref name="Lawrence"&gt;{{cite book|last1=Lawrence|first1=Christopher|title=Medicine in the making of modern Britain : 1700-1920|date=1994|publisher=Routledge|location=London [u.a.]|isbn=9780415091688|edition=Digital Printing}}&lt;/ref&gt;
+
+In 1980, the [[World Health Organization]] (WHO) introduced a framework for working with disability, publishing the "International Classification of Impairments, Disabilities and Handicaps." The framework proposed to approach disability by using the terms Impairment, Handicap and Disability.&lt;ref&gt;WHO, International Classification of Impairments, Disabilities and Handicaps,1980&lt;/ref&gt;
+* Impairment = a loss or abnormality of physical bodily structure or function, of logic-psychic origin, or physiological or anatomical origin
+*Disability = any limitation or function loss deriving from impairment that prevents the performance of an activity in the time lapse considered normal for a human being
+*Handicap = the disadvantaged condition deriving from impairment or disability limiting a person performing a role considered normal in respect of age, sex and social and cultural factors
+
+=== Components and usage ===
+While [[personal narrative]] is present in [[Interpersonal communication|interpersonal interactions]], and particularly dominant in Western Culture, personal narrative during interactions with medical personnel is reduced to relaying information about specific symptoms of the disability to medical professionals.&lt;ref name="FisherGoodley"/&gt; The medical professionals then interpret the information provided about the disability by the patient to determine a diagnosis, which likely will be linked to biological causes.&lt;ref name="FisherGoodley"/&gt;&lt;ref name="Bury"/&gt; Medical professionals now define what is "normal" and what is "abnormal" in terms of biology and disability.&lt;ref name="Lawrence"/&gt;
+
+In some countries, the medical model of disability has influenced legislation and policy pertaining to persons with disabilities on a national level.&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=ayecBQAAQBAJ&amp;q=medical+model+of+disability+china&amp;pg=PA38|title=The Development of Disability Rights Under International Law: From Charity to Human Rights|last=Kanter|first=Arlene S.|date=2014-11-27|publisher=Routledge|isbn=9781134444663|authorlink=Arlene S. Kanter}}&lt;/ref&gt;&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=nX-sDAAAQBAJ&amp;q=confronting+discrimination+and+inequality+in+China|title=Confronting Discrimination and Inequality in China: Chinese and Canadian Perspectives|last1=Mendes|first1=Errol|last2=Srighanthan|first2=Sakunthala|date=2009-04-18|publisher=University of Ottawa Press|isbn=9780776617800}}&lt;/ref&gt;
+
+The [[International Classification of Functioning, Disability and Health]] (ICF), published in 2001, defines disability as an umbrella term for impairments, activity limitations and participation restrictions. Disability is the interaction between individuals with a health condition (such as cerebral palsy, Down syndrome and depression) and personal and environmental factors (such as negative attitudes, inaccessible transportation and public buildings, and limited social supports).&lt;ref&gt;{{cite web|title=International Classification of Functioning, Disability and Health|url=https://www.who.int/classifications/icf/en/|work=WHO|accessdate=15 November 2011}}&lt;/ref&gt; 
+
+The altered language and words used show a marked change in emphasis from talking in terms of disease or impairment to talking in terms of levels of health and functioning. It takes into account the social aspects of disability and does not see disability only as a 'medical' or 'biological' dysfunction. That change is consistent with widespread acceptance of the [[social model of disability]] {{Citation needed|date=November 2020}}.
+
+==Criticism==
+{{further|Social model of disability}}
+The medical model of disability focuses on the individual's limitations and ways to reduce those impairments or use adaptive technology to adapt them to society. Current definitions of disability accept biomedical assistance but focus more on factors causing environmental and social exclusion. Uncritical reliance on the medical model produces unwanted consequences.{{Citation needed|date=November 2020}}
+
+Among advocates of [[disability rights]], who tend to subscribe to [[social model of disability|the social model]] instead, the medical model of disability is often cited as the basis of an unintended social [[wikt:degradation|degradation]] of disabled people. Resources are seen as excessively misdirected towards an almost-exclusively medical focus when those same resources could potentially be used towards things like [[universal design]] and [[inclusion (disability rights)|societal inclusionary practices]]. This includes the monetary and societal costs and benefits of various interventions, be they medical, surgical, social or occupational, from [[prosthetics]], drug-based and other "cures", and medical tests such as genetic screening or [[preimplantation genetic diagnosis]]. According to disability rights advocates, the medical model of disability is used to justify large investment in these procedures, technologies and research, when adaptation of the disabled person's environment could potentially be more beneficial to the society at large, as well as financially cheaper and physically more attainable.
+
+Also, some disability rights groups see the medical model of disability as a [[civil rights]] issue and criticise [[charitable organizations]] or medical initiatives that use it in their portrayal of disabled people, because it promotes a [[pity|pitiable]], essentially negative, largely [[disempowered]] image of people with disabilities rather than casting disability as a political, social and environmental problem (see also the [[political slogan]] "[[Piss On Pity]]").
+
+==See also==
+* [[Cure]]
+* [[Medical model of autism]]
+* [[Medicalization]]
+* [[Models of deafness]]
+* [[Neurodiversity]]
+* [[Social model of disability]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://www.open.ac.uk/inclusiveteaching/pages/understanding-and-awareness/medical-model.php The Open University: Making your teaching inclusive: The Medical Model]
+
+{{DEFAULTSORT:Medical Model Of Disability}}
+[[Category:Disability]]
+[[Category:Medical sociology]]
+[[Category:Medical models]]
+[[Category:Sociological theories]]
+[[Category:Social theories]]</rev></revisions></page></pages></query></api>

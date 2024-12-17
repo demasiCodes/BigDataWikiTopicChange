@@ -1,0 +1,14 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050701165216|17964213" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="49444" pageid="49444" ns="0" title="Racial quota"><revisions><rev timestamp="2005-11-06T12:35:58Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Racial quotas''' in employment and education are numerical requirements for hiring, promoting, admitting and/or graduating members of a particular racial group.  These quotas are determined by governmental authority and are backed by governmental sanctions.  Quotas also limit a group's dominance of society by restricting preferences of any type for any particular group.  
+
+Advocates of [[affirmative action]] programs vigorously deny that such programs involve "quotas", and regard the term "racial quotas" as particularly divisive.  They prefer the use of "goal" to "quota".  Critics generally think this is an insignificant distinction.  In general, Affirmative Action places no limit on the growth of a single group's dominance, unlike a quota. 
+
+Racial quotas are in place in a number of countries currently and have been in place in a number of countries in the past.  Quotas also limit the disporportionate dominance of a particular racial or ethnic group in a society.  Opinions vary greatly on the fairness of such practices, especially among members of dominant groups.
+
+==See also==
+*[[Jewish quota]]
+*[[Numerus clausus]]
+*[[Racism]], [[Anti-racism]] 
+*[[Reverse discrimination]], [[Discrimination]] 
+*''[[Regents of the University of California v. Bakke]]''
+
+[[Category:Discrimination]]</rev></revisions></page></pages></query></api>

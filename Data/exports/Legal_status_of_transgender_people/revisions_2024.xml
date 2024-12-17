@@ -1,0 +1,1499 @@
+<?xml version="1.0"?><api><continue rvcontinue="20241128101102|1260016297" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="18330" pageid="18330" ns="0" title="Legal status of transgender people"><revisions><rev timestamp="2024-11-30T13:04:29Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{short description|Rights of transgender individuals}}
+{{Redirect2|Trans rights|Gender Identity Law|the social movement to promote the legal status of trans people|Transgender rights movement|the law in Argentina|Gender Identity Law (Argentina)}}
+{{merge|Legal status of gender-affirming healthcare|discuss=Talk:Legal status of transgender people#Merge proposal|date=October 2024}}
+{{Use dmy dates|date=September 2020}}
+{{Transgender sidebar}}
+{{LGBT rights}}
+{{LGBTQ sidebar}}
+The legal status of [[transgender]] people varies greatly around the world. Some countries have enacted laws protecting the rights of transgender individuals, but others have criminalized their [[gender identity]] or [[gender expression|expression]]. In many cases, transgender individuals face [[discrimination]] in employment, housing, healthcare, and other areas of life.
+
+A [[transgender]] person is someone whose [[gender identity]] is inconsistent or not culturally associated with the sex they were [[Sex assignment|assigned at birth]] and also with the [[gender role]] that is associated with that sex. They may have, or may intend to establish, a new gender status that accords with their gender identity. ''[[Transsexual]]'' is generally considered a subset of ''transgender'',&lt;ref name="TR2006"&gt;''[[iarchive:transgenderright0000unse|Transgender Rights]]'' (2006, {{ISBN|0816643121}}), edited by Paisley Currah, Richard M. Juang, Shannon Minter&lt;/ref&gt;&lt;ref name="Bevan"&gt;Thomas E. Bevan, ''The Psychobiology of Transsexualism and Transgenderism'' (2014, {{ISBN|1440831270}}), page 42: "The term transsexual was introduced by Cauldwell (1949) and popularized by Harry Benjamin (1966) [...]. The term transgender was coined by John Oliven (1965) and popularized by various transgender people who pioneered the concept and practice of transgenderism. It is sometimes said that Virginia Prince (1976) popularized the term, but history shows that many transgender people adovcated the use of this term much more than Prince. The adjective ''transgendered'' should not be used [...]. Transsexuals constitute a subset of transgender people."&lt;/ref&gt;&lt;ref name="Alegria"&gt;A. C. Alegria, ''Transgender identity and health care: Implications for psychosocial and physical evaluation'', in the ''Journal of the American Academy of Nurse Practitioners'', volume 23, issue 4 (2011), pages 175–182: "Transgender, Umbrella term for persons who do not conform to gender norms in their identity and/or behavior (Meyerowitz, 2002). Transsexual, Subset of transgenderism; persons who feel discordance between natal sex and identity (Meyerowitz, 2002)."&lt;/ref&gt; but some transsexual people reject being labelled ''transgender''.&lt;ref name="Valentine"&gt;Valentine, David. ''Imagining Transgender: An Ethnography of a Category'', Duke University, 2007&lt;/ref&gt;&lt;ref name="Stryker"&gt;[[Susan Stryker|Stryker, Susan]]. Introduction. In Stryker and S. Whittle (Eds.), ''The Transgender Studies Reader'', New York: Routledge, 2006. 1–17&lt;/ref&gt;&lt;ref&gt;Kelley Winters, "Gender Madness in American Psychiatry, essays from the struggle for dignity, 2008, p. 198. "Some Transsexual individuals also identify with the broader transgender community; others do not."&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=retrieved 20 August 2015: " Transsexualism is often included within the broader term 'transgender', which is generally considered an umbrella term for people who do not conform to typically accepted gender roles for the sex they were assigned at birth. The term 'transgender' is a word employed by activists to encompass as many groups of gender diverse people as possible. However, many of these groups individually don't identify with the term. Many health clinics and services set up to serve gender variant communities employ the term, however most of the people using these services again don't identify with this term. The rejection of this political category by those that it is designed to cover clearly illustrates the difference between self-identification and categories that are imposed by observers to understand other people." |url=http://www.gendercentre.org.au/resources/fact-sheets/transsexualism.htm |url-status=dead |archive-url=https://web.archive.org/web/20141128074648/http://www.gendercentre.org.au/resources/fact-sheets/transsexualism.htm |archive-date=28 November 2014 |access-date=1 August 2017 |website=Gendercentre.org.au}}&lt;/ref&gt;
+
+Globally, most legal jurisdictions recognize the two traditional gender identities and social roles, [[man]] and [[woman]], but tend to exclude any other gender identities and expressions. People assigned male at birth are usually legally recognized as men, and people assigned female at birth are usually legally recognized as women, in jurisdictions that distinguish between the two. However, there are some countries which recognize, by law, a [[third gender]]. That third gender is often associated with being [[nonbinary]]. There is now a greater understanding of the breadth of variation outside the typical categories of "man" and "woman", and many self-descriptions are now entering the literature, including ''[[pangender]]'', ''[[genderqueer]]'', ''polygender'', and ''agender''. Medically and socially, the term "transsexualism" is being replaced with ''[[gender incongruence]]''&lt;ref&gt;{{Cite web |title=Gender incongruence. ICD-11 – Mortality and Morbidity Statistics |url=https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/411470068 |url-status=live |archive-url=https://archive.today/20180801205234/https://icd.who.int/browse11/l-m/en%23/http://id.who.int/icd/entity/294762853#/http://id.who.int/icd/entity/411470068 |archive-date=1 August 2018 |access-date=7 November 2020 |publisher=World Health Organization}}&lt;/ref&gt; or ''[[gender dysphoria]]'',&lt;ref name="DSM-5"&gt;{{Cite book |last=American Psychiatric Association |title=Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) |publisher=American Psychiatric Publishing |year=2013 |isbn=978-0-89042-554-1 |location=Arlington, VA |pages=451–459 |doi=10.1176/appi.books.9780890425596 |hdl=2027.42/138395 |author-link=American Psychiatric Association}}&lt;/ref&gt; and terms such as ''transgender people'', ''trans men'', and ''trans women'', and ''non-binary'' are replacing the category of transsexual people.
+
+Many of the issues regarding transgender rights are generally considered a part of [[family law]], especially the issues of [[marriage]] and the question of a transgender person benefiting from a partner's [[insurance]] or [[social security]].
+
+The degree of [[legal recognition]] provided to transgender people varies widely throughout the world. Many countries now legally recognize sex reassignments by permitting a change of legal gender on an individual's [[birth certificate]].&lt;ref&gt;{{Cite book |last1=Taylor |first1=J.K. |title=Transgender Rights and Politics : Groups, Issue Framing, and Policy Adoption |last2=Haider-Markel |first2=D.P. |date=2014 |publisher=University of Michigan Press}}&lt;/ref&gt; Many transsexual people have permanent surgery to change their body, [[gender-affirming surgery]] or semi-permanently change their body by hormonal means, [[transgender hormone therapy]]. [[Legal status of gender-affirming healthcare|The legal status of such healthcare]] varies. In many countries, some of these modifications are required for legal recognition. In a few, the legal aspects are directly tied to health care; i.e. the same bodies or doctors decide whether a person can move forward in their treatment and the subsequent processes automatically incorporate both matters. In others, these medical procedures are illegal.
+
+In some jurisdictions, transgender people (who are considered non-transsexual) can benefit from the legal recognition given to [[transsexual]] people. In some countries, an explicit medical diagnosis of "transsexualism" is (at least formally) necessary. In others, a diagnosis of "gender dysphoria", or simply the fact that one has established a non-conforming gender role, can be sufficient for some or all of the legal recognition available. The [[DSM-5]] recognizes gender dysphoria as an official diagnosis. Not all transgender or transsexual people feel gender dysphoria or gender incongruence, but in many countries a diagnosis is required for legal recognition, if transgender people are legally recognized at all.
+
+==Legislative efforts to recognise gender identity==
+{{further|Legal recognition of non-binary gender}}
+
+===National level===
+{| class="wikitable sortable mw-collapsible" style="width:100%"
+|-
+! rowspan=2 | Country
+! rowspan=2 | Date
+! rowspan=2 | Gender identity/expression legislation
+! colspan=2 | Upper house
+! colspan=2 | Lower house
+! rowspan=2 | Head of state
+! rowspan=2 | Final&lt;br /&gt;outcome
+|-
+! Yes
+! No
+! Yes
+! No
+|-
+| {{flagicon|Germany}} [[Transgender rights in Germany|Germany]]
+| {{sort|1980|1980}}
+| Gesetz über die Änderung der Vornamen und die Feststellung der Geschlechtszugehörigkeit in besonderen Fällen&lt;ref&gt;{{Cite web |title = Gesetz über die Änderung der Vornamen und die Feststellung der Geschlechtszugehörigkeit in besonderen Fällen (Transsexuellengesetz - TSG) |url = https://www.gesetze-im-internet.de/tsg/BJNR016540980.html |access-date = 3 December 2023 |website = www.gesetze-im-internet.de |archive-date = 6 April 2019 |archive-url = https://web.archive.org/web/20190406221017/http://www.gesetze-im-internet.de/tsg/BJNR016540980.html |url-status = live }}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+|{{flagicon|Italy}} [[LGBT rights in Italy#Gender identity and expression|Italy]]
+|April 1982
+|Norme in materia di rettificazione di attribuzione di sesso.&lt;ref&gt;{{Cite web |title=Gazzetta Ufficiale |url=https://www.gazzettaufficiale.it/eli/id/1982/04/19/082U0164/sg |access-date=2024-05-23 |website=www.gazzettaufficiale.it |language=it |archive-date=21 August 2022 |archive-url=https://web.archive.org/web/20220821210844/https://www.gazzettaufficiale.it/eli/id/1982/04/19/082U0164/sg |url-status=live }}&lt;/ref&gt;
+| colspan="2" |''Passed''
+| colspan="2" |''Passed''
+|''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Japan}} [[Transgender rights in Japan|Japan]]
+| {{sort|2003-07|July 2003}}
+| Act on Special Cases in Handling Gender for People with Gender Identity Disorder&lt;ref&gt;{{Cite web |title=Japanese Law Translation – [Law text] – Act on Special Cases in Handling Gender Status for Persons with Gender Identity Disorder |url=http://www.japaneselawtranslation.go.jp/law/detail/?id=2542&amp;vm=04&amp;re=02 |url-status=live |archive-url=https://web.archive.org/web/20170606111608/http://www.japaneselawtranslation.go.jp/law/detail/?id=2542&amp;vm=04&amp;re=02 |archive-date=6 June 2017 |access-date=1 August 2017 |website=Japaneselawtranslation.go.jp}}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|South Africa}} [[Transgender rights in South Africa|South Africa]]
+| {{sort|2004-03|15 March 2004}}
+| Alteration of Sex Description and Sex Status Act, 2003&lt;ref&gt;{{Cite web |title = Alteration of Sex Description and Sex Status Act 49 of 2003 |url = https://www.gov.za/documents/alteration-sex-description-and-sex-status-act |access-date = 3 December 2023 |website = www.gov.za |archive-date = 1 October 2023 |archive-url = https://web.archive.org/web/20231001231715/https://www.gov.za/documents/alteration-sex-description-and-sex-status-act |url-status = live }}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|United Kingdom}} [[Gender Recognition Act 2004|United Kingdom]]
+| {{sort|2004-07|July 2004}}
+| Gender Recognition Act&lt;ref&gt;{{Cite web |title=Gender Recognition Act 2004 |url=http://www.legislation.gov.uk/ukpga/2004/7/enacted |url-status=live |archive-url=https://web.archive.org/web/20170801194707/http://www.legislation.gov.uk/ukpga/2004/7/enacted |archive-date=1 August 2017 |access-date=1 August 2017 |website=Legislation.gov.uk}}&lt;/ref&gt;
+| 155&lt;ref&gt;{{Cite web |title=Gender Recognition Bill [HL] — 10 Feb 2004 at 18:27 |url=http://www.publicwhip.org.uk/division.php?date=2004-02-10&amp;number=5&amp;house=lords&amp;showall=yes#voters |url-status=live |archive-url=https://web.archive.org/web/20180209003033/http://www.publicwhip.org.uk/division.php?date=2004-02-10&amp;number=5&amp;house=lords&amp;showall=yes#voters |archive-date=9 February 2018 |access-date=8 February 2018 |website=publicwhip.org.uk}}&lt;/ref&gt;
+| 57
+| 357&lt;ref&gt;{{Cite web |date=17 March 2007 |title=Gender Recognition Bill votes |url=http://www.christian.org.uk/voteinfo/other/genderrecognition/ |url-status=live |archive-url=https://web.archive.org/web/20180209063312/http://www.christian.org.uk/voteinfo/other/genderrecognition/ |archive-date=9 February 2018 |access-date=8 February 2018 |website=christian.org.uk}}&lt;/ref&gt;
+| 48
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Spain}} [[Transgender rights in Spain|Spain]]
+| {{sort|2007-03|March 2007}}
+| Gender identity law&lt;ref&gt;{{Cite news |last=EP |date=17 March 2007 |title=Entra en vigor la Ley de Identidad de Género |work=El País |url=http://sociedad.elpais.com/sociedad/2007/03/17/actualidad/1174086001_850215.html |url-status=live |access-date=1 August 2017 |archive-url=https://web.archive.org/web/20170224190357/http://sociedad.elpais.com/sociedad/2007/03/17/actualidad/1174086001_850215.html |archive-date=24 February 2017}}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Uruguay}} [[Transgender rights in Uruguay|Uruguay]]
+| {{sort|2009-11|November 2009}}
+| Gender identity law&lt;ref&gt;{{Cite news |date=13 October 2009 |title=BBC NEWS – World – Americas – Uruguay approves sex change bill |work=news.bbc.co.uk |url=http://news.bbc.co.uk/2/hi/americas/8304123.stm |url-status=live |access-date=1 August 2017 |archive-url=https://web.archive.org/web/20160304065731/http://news.bbc.co.uk/2/hi/americas/8304123.stm |archive-date=4 March 2016}}&lt;/ref&gt;
+| 20
+| 0
+| 51
+| 2
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Argentina}} [[Transgender rights in Argentina|Argentina]]
+| {{sort|2012-05|May 2012}}
+| Gender identity law&lt;ref&gt;{{Cite web |date=10 May 2012 |title=Argentina approves gender identity law |url=http://www.pinknews.co.uk/2012/05/10/argentina-approves-gender-identity-law/ |url-status=live |archive-url=https://web.archive.org/web/20170801202249/http://www.pinknews.co.uk/2012/05/10/argentina-approves-gender-identity-law/ |archive-date=1 August 2017 |access-date=1 August 2017 |website=Pinknews.co.uk}}&lt;/ref&gt;
+| 55
+| 0
+| 167
+| 17
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+|{{flagicon|India}} [[Transgender rights in India|India]]
+| January 2014
+| The Transgender Persons (Protection of Rights) Bill, 2016&lt;ref&gt;{{Cite web |title=PRS – Bill Track – The Transgender Persons (Protection of Rights) Bill, 2016 |url=http://www.prsindia.org/billtrack/the-transgender-persons-protection-of-rights-bill-2016-4360/ |url-status=live |archive-url=https://web.archive.org/web/20170801233656/http://www.prsindia.org/billtrack/the-transgender-persons-protection-of-rights-bill-2016-4360/ |archive-date=1 August 2017 |access-date=1 August 2017 |website=Prsindia.org}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Cabinet approves the Transgender Persons (Protection of Rights) Bill 2016 |url=http://pib.nic.in/newsite/PrintRelease.aspx?relid=147398 |url-status=live |archive-url=https://web.archive.org/web/20170801194205/http://pib.nic.in/newsite/PrintRelease.aspx?relid=147398 |archive-date=1 August 2017 |access-date=1 August 2017 |website=pib.nic.in}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=17 December 2017 |title=Amendment of Transgender Bill: Government Accepts Standing Committee Proposal |url=https://thelogicalindian.com/news/amendment-of-transgender-bill/ |url-status=live |archive-url=https://web.archive.org/web/20180611080337/https://thelogicalindian.com/news/amendment-of-transgender-bill/ |archive-date=11 June 2018 |access-date=5 January 2018 |website=The Logical Indian}}&lt;/ref&gt;
+| colspan="2" |''Passed''
+| colspan="2" |''Passed''
+|''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Denmark}} [[Transgender rights in Denmark|Denmark]]
+| {{sort|2014-09|September 2014}}
+| Gender Recognition law&lt;ref&gt;{{Cite web |title=Denmark becomes Europe's leading country on legal gender recognition – The European Parliament Intergroup on LGBTI Rights |url=http://www.lgbt-ep.eu/press-releases/denmark-becomes-europes-leading-country-on-legal-gender-recognition/ |url-status=dead |archive-url=https://web.archive.org/web/20150212093918/http://www.lgbt-ep.eu/press-releases/denmark-becomes-europes-leading-country-on-legal-gender-recognition/ |archive-date=12 February 2015 |access-date=1 August 2017 |website=Lgbt-ep.eu}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Malta}} [[Transgender rights in Malta|Malta]]
+| {{sort|2015-04|April 2015}}
+| Gender Identity, Gender Expression and Sex Characteristics Act&lt;ref&gt;{{Cite web |last=Ltd |first=Allied Newspapers |title=The Gender Identity Act |url=http://www.timesofmalta.com/articles/view/20150413/letters/the-gender-identity-act.563735 |url-status=live |archive-url=https://web.archive.org/web/20170802040455/https://www.timesofmalta.com/articles/view/20150413/letters/the-gender-identity-act.563735 |archive-date=2 August 2017 |access-date=1 August 2017 |website=Timesofmalta.com|date=13 April 2015 }}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Colombia}} [[Transgender rights in Colombia|Colombia]]
+| {{sort|2015-06|June 2015}}
+| Gender recognition law (Order 1227)&lt;ref&gt;{{Cite web |title=Decreto 1227 Del 04 de Junio de 2015 |url=https://www.scribd.com/doc/268189544/Decreto-1227-Del-04-de-Junio-de-2015 |url-status=live |archive-url=https://web.archive.org/web/20161008102207/https://www.scribd.com/doc/268189544/Decreto-1227-Del-04-de-Junio-de-2015 |archive-date=8 October 2016 |access-date=1 August 2017 |website=Scribd}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=12 June 2015 |title=Colombia's new gender recognition law doesn't require surgery |url=http://www.pinknews.co.uk/2015/06/12/colombias-new-gender-recognition-law-doesnt-require-surgery/ |url-status=live |archive-url=https://web.archive.org/web/20170801194824/http://www.pinknews.co.uk/2015/06/12/colombias-new-gender-recognition-law-doesnt-require-surgery/ |archive-date=1 August 2017 |access-date=1 August 2017 |website=Pinknews.co.uk}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=These Ten Trans People Just Got Their First IDs Under Colombia's New Gender Rules |url=https://www.buzzfeed.com/lesterfeder/these-ten-trans-people-just-became-the-first-to-celebrate-co#.adg8nNAg1 |url-status=live |archive-url=https://web.archive.org/web/20171109023710/https://www.buzzfeed.com/lesterfeder/these-ten-trans-people-just-became-the-first-to-celebrate-co#.adg8nNAg1 |archive-date=9 November 2017 |access-date=1 August 2017 |website=Buzzfeed.com|date=10 June 2015 }}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Ireland}} [[Transgender rights in Ireland|Ireland]]
+| {{sort|2015-07|July 2015}}
+| Gender Recognition Act&lt;ref&gt;{{Cite web |title=Legal Gender Recognition in Ireland : Gender Recognition : TENI |url=http://www.teni.ie/page.aspx?contentid=586 |url-status=dead |archive-url=https://web.archive.org/web/20170801193946/http://www.teni.ie/page.aspx?contentid=586 |archive-date=1 August 2017 |access-date=1 August 2017 |website=Teni.ie}}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Poland}} [[Transgender rights in Poland|Poland]]
+| September 2015
+| Gender identity law&lt;ref&gt;{{Cite web |title=Poselski projekt ustawy o uzgodnieniu płci |url=http://www.sejm.gov.pl/sejm7.nsf/PrzebiegProc.xsp?id=85B75FD599203E5DC1257B8F0034A240 |url-status=live |archive-url=https://web.archive.org/web/20200630160714/http://www.sejm.gov.pl/sejm7.nsf/PrzebiegProc.xsp?id=85B75FD599203E5DC1257B8F0034A240 |archive-date=30 June 2020 |access-date=1 July 2020}}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| 252
+| 158
+| ''Vetoed''
+|[[File:Red x.svg|15px|No]]&amp;nbsp;No
+|-
+| {{flagicon|Vietnam}} [[Transgender rights in Vietnam|Vietnam]]
+| {{sort|2015-11|November 2015}}
+| Transgender Rights Law&lt;ref&gt;{{Cite web |date=30 November 2015 |title=Vietnam: Positive Step for Transgender Rights |url=https://www.hrw.org/news/2015/11/30/vietnam-positive-step-transgender-rights |url-status=live |archive-url=https://web.archive.org/web/20170227082111/https://www.hrw.org/news/2015/11/30/vietnam-positive-step-transgender-rights |archive-date=27 February 2017 |access-date=1 August 2017 |website=Hrw.org}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Vietnam Passes Transgender Rights Law, But Is It Good Enough? – Care2 Causes |url=http://www.care2.com/causes/vietnam-passes-transgender-rights-law-but-is-it-good-enough.html |url-status=dead |archive-url=https://web.archive.org/web/20170801204557/http://www.care2.com/causes/vietnam-passes-transgender-rights-law-but-is-it-good-enough.html |archive-date=1 August 2017 |access-date=1 August 2017 |website=Care2.com}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Ecuador}} [[Transgender rights in Ecuador|Ecuador]]
+| {{sort|2016-02|February 2016}}
+| Civil Registration Act (gender identity recognition on legal documents)&lt;ref&gt;{{Cite web |title=Nothing found for 2016 01 29 Change Of Gender In Identity Card Will Require Two Witnesses |url=http://www.ecuadortimes.net/2016/01/29/change-of-gender-in-identity-card-will-require-two-witnesses/ |url-status=dead |archive-url=https://archive.today/20160609001954/http://www.ecuadortimes.net/2016/01/29/change-of-gender-in-identity-card-will-require-two-witnesses/ |archive-date=9 June 2016 |access-date=1 August 2017 |website=Ecuadortimes.net}}&lt;/ref&gt;&lt;ref name="auto1"&gt;{{Cite web |title=Segundo Suplemento – Registro Oficial Nº 684 |url=http://www.asambleanacional.gob.ec/es/system/files/ro_ley_organica_de_gestion_de_la_identidad_y_datos_civiles_ro_684_2do_supl_04-02-2015.pdf |url-status=live |archive-url=https://web.archive.org/web/20161008030618/http://www.asambleanacional.gob.ec/es/system/files/ro_ley_organica_de_gestion_de_la_identidad_y_datos_civiles_ro_684_2do_supl_04-02-2015.pdf |archive-date=8 October 2016 |access-date=2017-08-01 |website=Asambleanacional.gob.ec}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| 82
+| 1
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Bolivia}} [[Transgender rights in Bolivia|Bolivia]]
+|May 2016
+| Gender identity law&lt;ref&gt;{{Cite web |title=Bolivia proposes law allowing transgender people to officially change names, genders – Shanghai Daily |url=http://www.shanghaidaily.com/article/article_xinhua.aspx?id=310369 |url-status=live |archive-url=https://web.archive.org/web/20170801194430/http://www.shanghaidaily.com/article/article_xinhua.aspx?id=310369 |archive-date=1 August 2017 |access-date=1 August 2017 |website=Shanghaidaily.com}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |last=comunicacion |first=Unidad de |title=Presentan anteproyecto de ley para cambiar datos de identidad de las personas transexuales y transgénero |url=http://www.justicia.gob.bo/index.php/noticias/notas-de-prensa/1897-presentan-anteproyecto-de-ley-para-cambiar-datos-de-identidad-de-las-personas-transexuales-y-transgenero- |url-status=dead |archive-url=https://web.archive.org/web/20170801193253/http://www.justicia.gob.bo/index.php/noticias/notas-de-prensa/1897-presentan-anteproyecto-de-ley-para-cambiar-datos-de-identidad-de-las-personas-transexuales-y-transgenero- |archive-date=1 August 2017 |access-date=1 August 2017 |website=Justicia.gob.bo}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=29 December 2015 |title=Bolivia: comunidad LGTB presiona a la Asamblea Legislativa para que trate ley de identidad de género – NODAL |url=http://www.nodal.am/2015/12/bolivia-comunidad-lgtb-presiona-a-la-asamblea-para-que-trate-ley-de-identidad-de-genero/ |url-status=live |archive-url=https://web.archive.org/web/20160817213956/http://www.nodal.am/2015/12/bolivia-comunidad-lgtb-presiona-a-la-asamblea-para-que-trate-ley-de-identidad-de-genero/ |archive-date=17 August 2016 |access-date=1 August 2017 |website=Nodal.am}}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+| ''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Norway}} [[Transgender rights in Norway|Norway]]
+| {{sort|2016-06|June 2016}}
+| Gender identity law&lt;ref&gt;{{Cite web |title=Norway set to allow gender change without medical intervention |url=https://www.yahoo.com/news/norway-set-allow-gender-change-without-medical-intervention-192109696.html |url-status=live |archive-url=https://web.archive.org/web/20170801203029/https://www.yahoo.com/news/norway-set-allow-gender-change-without-medical-intervention-192109696.html |archive-date=1 August 2017 |access-date=1 August 2017 |website=Yahoo.com}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |last=Services |first=Ministry of Health and Care |date=18 March 2016 |title=Easier to change legal gender |url=https://www.regjeringen.no/en/aktuelt/easier-to-change-legal-gender/id2480677/ |url-status=live |archive-url=https://web.archive.org/web/20170801195833/https://www.regjeringen.no/en/aktuelt/easier-to-change-legal-gender/id2480677/ |archive-date=1 August 2017 |access-date=1 August 2017 |website=Government.no}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=29 March 2016 |title=Lov om endring av juridisk kjønn |url=https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=64488 |url-status=live |archive-url=https://web.archive.org/web/20170801202921/https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=64488 |archive-date=1 August 2017 |access-date=1 August 2017 |website=Stortinget}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=7 June 2016 |title=Dispatches: Norway's Transgender Rights Transformation |url=https://www.hrw.org/news/2016/06/07/dispatches-norways-transgender-rights-transformation |url-status=live |archive-url=https://web.archive.org/web/20170723165927/https://www.hrw.org/news/2016/06/07/dispatches-norways-transgender-rights-transformation |archive-date=23 July 2017 |access-date=1 August 2017 |website=Hrw.org}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| 79
+| 13
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|France}} [[Transgender rights in France|France]]
+| {{sort|2016-11|November 2016}}
+| Gender identity law (abolishing [[Sterilization (medicine)|sterilization]])&lt;ref&gt;{{Cite web |last=Rook |first=Erin |date=16 October 2016 |title=France will no longer force the sterilization of transgender people |url=http://www.lgbtqnation.com/2016/10/france-will-no-longer-force-sterilization-transgender-people/ |url-status=live |archive-url=https://web.archive.org/web/20170802011449/https://www.lgbtqnation.com/2016/10/france-will-no-longer-force-sterilization-transgender-people/ |archive-date=2 August 2017 |access-date=1 August 2017 |website=Lgbtqnation.com}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=It's official – France adopts a new legal gender recognition procedure! – ILGA-Europe |url=http://ilga-europe.org/resources/news/latest-news/france-adopts-new-legal-gender-recognition-procedure |url-status=dead |archive-url=https://web.archive.org/web/20170802000907/https://www.ilga-europe.org/resources/news/latest-news/france-adopts-new-legal-gender-recognition-procedure |archive-date=2 August 2017 |access-date=1 August 2017 |website=Ilga-europe.org}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=LOI n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle |url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033418805&amp;categorieLien=id |url-status=live |archive-url=https://web.archive.org/web/20170801195110/https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033418805&amp;categorieLien=id |archive-date=1 August 2017 |access-date=2017-08-01 |website=Legifrance.gouv.fr}}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Canada}} [[An Act to amend the Canadian Human Rights Act and the Criminal Code|Canada]]
+| June 2017
+| An Act to amend the Canadian Human Rights Act and the Criminal Code (Bill C-16)&lt;ref&gt;{{Cite web |title=C-16 (42–1) – Royal Assent – An Act to amend the Canadian Human Rights Act and the Criminal Code – Parliament of Canada |url=http://www.parl.ca/DocumentViewer/en/42-1/bill/C-16/royal-assent |url-status=live |archive-url=https://web.archive.org/web/20170902175710/http://www.parl.ca/DocumentViewer/en/42-1/bill/C-16/royal-assent |archive-date=2 September 2017 |access-date=1 August 2017 |website=Parl.ca}}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Belgium}} [[Transgender rights in Belgium|Belgium]]
+| {{sort|2017-6|July 2017}}
+| Gender identity law (abolishing [[Sterilization (medicine)|sterilization]])&lt;ref&gt;{{Cite web |last=Pujol-Mazzini |first=Anna |title=Belgium's ban of forced sterilisation for gender change |url=http://news.trust.org/item/20170525113437-lnze9/ |url-status=live |archive-url=https://web.archive.org/web/20170525132332/http://news.trust.org/item/20170525113437-lnze9/ |archive-date=25 May 2017 |access-date=1 August 2017 |website=Reuters}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |date=22 December 2017 |title=Nouvelle loi transgenre: qu'est-ce qui change en 2018? |language=fr |work=[[RTBF]] Info |url=https://www.rtbf.be/info/societe/detail_nouvelle-loi-transgenre-qu-est-ce-qui-change-en-2018?id=9796314 |url-status=live |access-date=11 June 2019 |archive-url=https://web.archive.org/web/20191213034157/https://www.rtbf.be/info/societe/detail_nouvelle-loi-transgenre-qu-est-ce-qui-change-en-2018?id=9796314 |archive-date=13 December 2019}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan="2" | ''Passed''
+| ''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Greece}} [[Transgender rights in Greece|Greece]]
+| December 2017
+| Gender identity law (abolishing [[Sterilization (medicine)|sterilization]])&lt;ref&gt;{{Cite news |title=Controversial Greek gender identity bill in parliament vote |language=en |work=ABC News |url=https://abcnews.go.com/International/wireStory/controversial-greek-gender-identity-bill-parliament-vote-50385326 |url-status=dead |access-date=2017-10-10 |archive-url=https://web.archive.org/web/20171010212013/https://abcnews.go.com/International/wireStory/controversial-greek-gender-identity-bill-parliament-vote-50385326 |archive-date=10 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |date=10 October 2017 |title=Greece passes sex change law opposed by Orthodox Church |work=Reuters |url=https://www.reuters.com/article/us-greece-rights-gender/greece-passes-sex-change-law-opposed-by-orthodox-church-idUSKBN1CF1TE |url-status=live |access-date=2017-10-10 |archive-url=https://web.archive.org/web/20171010192619/https://www.reuters.com/article/us-greece-rights-gender/greece-passes-sex-change-law-opposed-by-orthodox-church-idUSKBN1CF1TE |archive-date=10 October 2017}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| 171
+| 114
+| ''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Pakistan}} [[Transgender rights in Pakistan|Pakistan]]
+| May 2018
+| Transgender Persons (Protection of Rights) Bill&lt;ref&gt;{{Cite web |last=Shahid |first=Jamal |date=10 February 2018 |title=Senate body approves changes to transgender persons rights bill |url=https://www.dawn.com/news/1388464 |url-status=live |archive-url=https://web.archive.org/web/20180509104004/https://www.dawn.com/news/1388464 |archive-date=9 May 2018 |access-date=21 February 2018 |website=dawn.com}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |last=Khan |first=Iftikhar A. |date=8 March 2018 |title=Senate adopts bill to protect rights of transgender persons |url=https://www.dawn.com/news/1393838/senate-adopts-bill-to-protect-rights-of-transgender-persons |url-status=live |archive-url=https://web.archive.org/web/20180502135432/https://www.dawn.com/news/1393838/senate-adopts-bill-to-protect-rights-of-transgender-persons |archive-date=2 May 2018 |access-date=12 March 2018 |website=DAWN.COM}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Pakistan Enacts Legislation Protecting Transgender People |url=https://www.hrc.org/news/pakistan-enacts-legislation-protecting-trans-people-from-discrimination |url-status=live |archive-url=https://web.archive.org/web/20210112095340/https://www.hrc.org/news/pakistan-enacts-legislation-protecting-trans-people-from-discrimination |archive-date=12 January 2021 |access-date=25 May 2018 |website=Human Rights Campaign |date=22 May 2018 |language=en}}&lt;/ref&gt;
+| colspan="2" | ''Passed''
+| colspan="2" | ''Passed''
+| ''Signed''&lt;ref&gt;{{Cite web |title=Pakistan passes landmark transgender rights law |url=https://www.aljazeera.com/news/2018/05/pakistan-passes-landmark-transgender-rights-law-180509095207950.html |url-status=live |archive-url=https://web.archive.org/web/20190704083101/https://www.aljazeera.com/news/2018/05/pakistan-passes-landmark-transgender-rights-law-180509095207950.html |archive-date=4 July 2019 |access-date=11 May 2018}}&lt;/ref&gt;
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Portugal}} [[Transgender rights in Portugal|Portugal]]
+| July 2018
+| Gender identity law (expansion: self-determination)&lt;ref&gt;{{Cite web |title=Iniciativa |url=http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=40397 |url-status=live |archive-url=https://web.archive.org/web/20170801194705/http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=40397 |archive-date=1 August 2017 |access-date=1 August 2017 |website=Parlamento.pt}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |last=Rodrigues |first=Sofia |title=BE apresenta projecto de lei para permitir mudança de sexo aos 16 anos |url=https://www.publico.pt/2016/05/25/sociedade/noticia/be-apresenta-projecto-de-lei-para-permitir-mudanca-de-sexo-aos-16-anos-1732965 |url-status=live |archive-url=https://web.archive.org/web/20180104130105/https://www.publico.pt/2016/05/25/sociedade/noticia/be-apresenta-projecto-de-lei-para-permitir-mudanca-de-sexo-aos-16-anos-1732965 |archive-date=4 January 2018 |access-date=1 August 2017 |website=PÚBLICO|date=25 May 2016 }}&lt;/ref&gt;&lt;ref&gt;{{Cite web |last=Group |first=Global Media |date=25 May 2016 |title=BE quer permitir mudança de sexo aos 16 anos |url=http://www.jn.pt/nacional/interior/be-quer-permitir-mudanca-de-sexo-aos-16-anos-5192568.html |url-status=live |archive-url=https://web.archive.org/web/20170801201505/http://www.jn.pt/nacional/interior/be-quer-permitir-mudanca-de-sexo-aos-16-anos-5192568.html |archive-date=1 August 2017 |access-date=1 August 2017 |website=Jn.pt}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |title=Lei da autodeterminação da identidade de género entra em vigor amanhã |language=pt |work=ionline |url=https://ionline.sapo.pt/621669 |url-status=live |access-date=2018-08-13 |archive-url=https://web.archive.org/web/20180808202538/https://ionline.sapo.pt/621669 |archive-date=8 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |title=Publicada lei que concede direito à autodeterminação de género |language=pt-pt |work=Esquerda |url=https://www.esquerda.net/artigo/publicada-lei-que-concede-direito-autodeterminacao-de-genero/56502 |url-status=live |access-date=2018-08-13 |archive-url=https://web.archive.org/web/20180808171912/https://www.esquerda.net/artigo/publicada-lei-que-concede-direito-autodeterminacao-de-genero/56502 |archive-date=8 August 2018}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+|109
+|106
+|''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Luxembourg}} [[Transgender rights in Luxembourg|Luxembourg]]
+| September 2018
+| Gender identity law (abolishing [[Sterilization (medicine)|sterilization]])&lt;ref&gt;{{Cite web |date=17 May 2017 |title=Civil status: New law facilitates transgender, intersex name and gender change |url=https://www.wort.lu/en/luxembourg/civil-status-new-law-facilitates-transgender-intersex-name-and-gender-change-591c6921a5e74263e13bfb50 |url-status=live |archive-url=https://web.archive.org/web/20170517163728/https://www.wort.lu/en/luxembourg/civil-status-new-law-facilitates-transgender-intersex-name-and-gender-change-591c6921a5e74263e13bfb50 |archive-date=17 May 2017 |access-date=20 May 2017 |website=Wort.lu |language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Résumé des travaux du 12 mai 2017 – gouvernement.lu // L'actualité du gouvernement du Luxembourg |url=https://www.gouvernement.lu/6969543 |url-status=dead |archive-url=https://web.archive.org/web/20170801211942/https://www.gouvernement.lu/6969543 |archive-date=1 August 2017 |access-date=1 August 2017 |website=Gouvernement.lu}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+|57
+|3
+|''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+|{{flagicon|Uruguay}} [[Transgender rights in Uruguay|Uruguay]]
+| October 2018
+| Integral gender identity law (expansion: self-determination)&lt;ref&gt;{{Cite web |title=Proyecto de Ley Integral Trans |url=https://parlamento.gub.uy/documentosyleyes/ficha-asunto/135064/tramite |url-status=live |archive-url=https://web.archive.org/web/20190724085858/https://parlamento.gub.uy/documentosyleyes/ficha-asunto/135064/tramite |archive-date=24 July 2019 |access-date=19 October 2018 |website=parlamento.gub.uy |language=es}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=2017 |title=Uruguay's first transgender senator vows to bolster LGBT rights |url=https://www.reuters.com/article/us-uruguay-lgbt-rights/uruguays-first-transgender-senator-vows-to-bolster-lgbt-rights-idUSKBN1CT2LH |url-status=live |archive-url=https://web.archive.org/web/20180527020955/https://www.reuters.com/article/us-uruguay-lgbt-rights/uruguays-first-transgender-senator-vows-to-bolster-lgbt-rights-idUSKBN1CT2LH |archive-date=27 May 2018 |access-date=5 January 2018 |website=Reuters}}&lt;/ref&gt;
+| colspan="2" |''Passed''
+| colspan="2" |''Passed''
+|''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Chile}} [[Transgender rights in Chile|Chile]]
+| November 2018
+| Gender identity law&lt;ref&gt;{{Cite web |title=Boletín 8924-07 Reconoce y da protección al derecho a la identidad de género |url=http://www.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=8924-07 |url-status=live |archive-url=https://web.archive.org/web/20170801195207/http://www.senado.cl/appsenado/templates/tramitacion/index.php?boletin_ini=8924-07 |archive-date=1 August 2017 |access-date=2017-08-01 |website=Senado.cl}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=21 January 2014 |title=Acuerdan avanzar en el reconocimiento de la identidad de género |url=http://www.senado.cl/acuerdan-avanzar-en-el-reconocimiento-de-la-identidad-de-genero/prontus_senado/2014-01-21/193813.html |url-status=dead |archive-url=https://web.archive.org/web/20170801233350/http://www.senado.cl/acuerdan-avanzar-en-el-reconocimiento-de-la-identidad-de-genero/prontus_senado/2014-01-21/193813.html |archive-date=1 August 2017 |access-date=8 June 2017 |website=Senado.cl |language=es}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=14 June 2017 |title=Senado – República de Chile – A segundo trámite proyecto que reconoce y da protección a la identidad de género |url=http://senado.cl/a-segundo-tramite-proyecto-que-reconoce-y-da-proteccion-a-la-identidad/prontus_senado/2017-06-14/161100.html |url-status=dead |archive-url=https://web.archive.org/web/20170615045542/http://www.senado.cl/a-segundo-tramite-proyecto-que-reconoce-y-da-proteccion-a-la-identidad/prontus_senado/2017-06-14/161100.html |archive-date=15 June 2017 |access-date=15 June 2017 |website=Senado.cl |language=es}}&lt;/ref&gt;
+| 26
+| 14
+| 95
+|46
+|''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Iceland}} [[Transgender rights in Iceland|Iceland]]
+| December 2019
+| Gender autonomy law&lt;ref&gt;{{Cite web |date=21 June 2019 |title=On trans issues, Iceland has just put Britain to shame &amp;#124; Owl Fisher |url=https://www.theguardian.com/commentisfree/2019/jun/21/trans-issues-britain-iceland-law-intersex-rights |url-status=live |archive-url=https://web.archive.org/web/20190624153236/https://www.theguardian.com/commentisfree/2019/jun/21/trans-issues-britain-iceland-law-intersex-rights |archive-date=24 June 2019 |access-date=22 June 2019 |website=[[TheGuardian.com]]}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Gender Autonomy Act Applauded |url=https://icelandmonitor.mbl.is/news/politics_and_society/2019/06/21/gender_autonomy_act_applauded/ |url-status=live |archive-url=https://web.archive.org/web/20190622145800/https://icelandmonitor.mbl.is/news/politics_and_society/2019/06/21/gender_autonomy_act_applauded/ |archive-date=22 June 2019 |access-date=22 June 2019}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=19 June 2019 |title=From Iceland — Iceland Passes Major Gender Identity Law: "The Fight is Far from Over" |url=https://grapevine.is/news/2019/06/19/iceland-passes-major-gender-identity-law-the-fight-is-far-from-over/ |url-status=live |archive-url=https://web.archive.org/web/20190625212543/https://grapevine.is/news/2019/06/19/iceland-passes-major-gender-identity-law-the-fight-is-far-from-over/ |archive-date=25 June 2019 |access-date=22 June 2019}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| 45
+| 0
+| ''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Spain}} [[Transgender rights in Spain|Spain]]
+| February 2023
+| Gender identity law (expansion: self-determination)&lt;ref&gt;{{Cite web |title=El Congreso aprueba reformar la ley de identidad de género y despatologizar la transexualidad con la oposición del PP |url=http://www.dosmanzanas.com/2017/11/el-congreso-aprobara-esta-semana-la-reforma-de-la-ley-de-identidad-de-genero-que-despatologiza-la-transexualidad.html |url-status=live |archive-url=https://web.archive.org/web/20180326035957/http://www.dosmanzanas.com/2017/11/el-congreso-aprobara-esta-semana-la-reforma-de-la-ley-de-identidad-de-genero-que-despatologiza-la-transexualidad.html |archive-date=26 March 2018 |access-date=5 January 2018 |website=dosmanzanas – La web de noticias LGTB |language=es-ES}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan="2" | ''Passed''
+| ''Signed''
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+|  {{flagicon|Scotland}} [[Transgender rights in the United Kingdom#Scotland|Scotland]]
+|  {{sort|2022-12|December 2022}}
+|Gender Recognition Reform (Scotland) Bill&lt;ref&gt;{{Cite web |title=Gender Recognition Reform (Scotland) Bill |url=https://www.parliament.scot/bills-and-laws/bills/gender-recognition-reform-scotland-bill |access-date=2022-12-28 |website=www.parliament.scot |language=en |archive-date=5 March 2022 |archive-url=https://web.archive.org/web/20220305130711/https://www.parliament.scot/bills-and-laws/bills/gender-recognition-reform-scotland-bill |url-status=live }}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Stage 3 |url=https://www.parliament.scot/bills-and-laws/bills/gender-recognition-reform-scotland-bill/stage-3 |access-date=2022-12-28 |website=www.parliament.scot |language=en |archive-date=3 January 2023 |archive-url=https://web.archive.org/web/20230103184808/https://www.parliament.scot/bills-and-laws/bills/gender-recognition-reform-scotland-bill/stage-3 |url-status=live }}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+|''86''
+|39
+|''Blocked''
+|[[File:Red x.svg|15px|No]]&amp;nbsp;No
+|-
+| {{flagicon|Germany}} [[LGBT rights in Germany|Germany]]
+| April 2024
+| Gender identity law (expansion: self-determination)&lt;ref&gt;{{cite web | url=https://www.jurist.org/news/2024/04/germany-parliament-passes-self-determination-legislation-allowing-gender-identity-modification/ | title=Germany parliament passes self-determination legislation allowing gender identity modification | date=13 April 2024 }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=https://www.euronews.com/health/2024/04/13/germany-passes-law-making-it-easier-to-legally-change-gender | title=Germany passes law making it easier to legally change gender | date=13 April 2024 }}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+|374
+|251
+| ''Signed'' 
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Sweden}} [[LGBT rights in Sweden|Sweden]]
+| April 2024
+| Gender identity law (expansion)&lt;ref&gt;{{Cite news |title=Sweden passes law lowering age to legally change gender from 18 to 16|url=https://www.theguardian.com/world/2024/apr/17/sweden-passes-law-lowering-age-to-legally-change-gender-from-18-to-16|last= |first= |date=2024-04-17 |access-date=2024-04-20 |work=[[The Guardian]] |language=English}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |date=2024-04-17 |title=Riksdagen röstar ja till könslagen efter flera timmars debatt |url=https://www.dn.se/sverige/riksdagen-debatterar-konslag-sd-och-kd-starkt-kritiska/ |access-date=2024-06-24 |work=[[Dagens Nyheter]] |language=sv}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |date=2024-04-17 |title=Sex frågor om den nya könstillhörighetslagen |url=https://www.dn.se/sverige/sex-fragor-om-den-nya-konstillhorighetslagen/ |access-date=2024-06-24 |work=[[Dagens Nyheter]] |language=sv}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| 234
+| 94
+|  ''Signed'' 
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Australia}} [[Transgender rights in Australia|Australia]]
+| October 2024
+| Change of sex for all 8 jurisdictions within Australia, without any surgery and sterilization&lt;ref&gt;{{cite web | url=https://www.pedestrian.tv/news/the-equality-bill-nsw/ | title=NSW Finally Passes Bill Allowing Trans People to Change Birth Certificates Without Surgery | date=17 October 2024 }}&lt;/ref&gt;
+| colspan=2| ''Passed''
+| colspan=2| ''Passed''
+|  Signed&lt;ref&gt;{{cite web | url=https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18460 | title=Equality Legislation Amendment (LGBTIQA+) Bill 2023 }}&lt;/ref&gt;
+|[[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Thailand}} [[Transgender rights in Thailand|Thailand]]
+| Unknown
+| Gender identity law
+| colspan=2 align=center {{n/a}}
+| colspan=2| ''Pending''
+|
+|
+|-
+| {{flagicon|Brazil}} [[Transgender rights in Brazil|Brazil]]
+| Unknown
+| Gender identity law&lt;ref&gt;{{Cite web |title=PL 5002/2013 – Projeto estabelece direito à identidade de gênero |url=http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=565315 |url-status=live |archive-url=https://web.archive.org/web/20170602210844/http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=565315 |archive-date=2 June 2017 |access-date=20 May 2017 |website=Camara.gov.br |language=pt-br}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan=2| ''Pending''
+|
+|
+|-
+| {{flagicon|Costa Rica}} [[Transgender rights in Costa Rica|Costa Rica]]
+| Unknown
+| Gender identity recognition and equality before the law&lt;ref&gt;{{Cite web |title=Proyecto de ley 19841 |url=http://www.asamblea.go.cr/Centro_de_Informacion/Consultas_SIL/Pginas/Detalle%20Proyectos%20de%20Ley.aspx?Numero_Proyecto=19841 |url-status=live |archive-url=https://web.archive.org/web/20170801203524/http://www.asamblea.go.cr/Centro_de_Informacion/Consultas_SIL/Pginas/Detalle%20Proyectos%20de%20Ley.aspx?Numero_Proyecto=19841 |archive-date=1 August 2017 |website=Asamblea.go.cr}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=19 diputados suscriben proyecto para que la CCSS haga operaciones de cambio de sexo - elmundo.cr |url=http://www.elmundo.cr/costarica/diputados-proponen-crear/ |url-status=dead |archive-url=https://web.archive.org/web/20160124013438/http://www.elmundo.cr/costarica/diputados-proponen-crear/ |archive-date=24 January 2016 |access-date=2016-01-25}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=19 January 2016 |title=Change in Sex Designation in Identity Card (Cedula) Possible If Bill Is Approved |url=http://qcostarica.com/change-in-sex-designation-in-identity-card-cedula-possible-if-bill-is-approved/ |url-status=live |archive-url=https://web.archive.org/web/20170803035736/http://qcostarica.com/change-in-sex-designation-in-identity-card-cedula-possible-if-bill-is-approved/ |archive-date=3 August 2017 |access-date=1 August 2017 |website=Qcostarica.com}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=LEY DE RECONOCIMIENTO DE LOS DERECHOS A LA IDENTIDAD DE GÉNERO E IGUALDAD ANTE LA LEY |url=http://www.conasida.go.cr/index.php/mcp-leyes-reglamentos/107-proyecto-de-ley-de-identidad-de-genero/file |url-status=live |archive-url=https://web.archive.org/web/20161205210859/http://www.conasida.go.cr/index.php/mcp-leyes-reglamentos/107-proyecto-de-ley-de-identidad-de-genero/file |archive-date=5 December 2016 |access-date=2017-08-01 |website=Conasida.go.cr}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan="2" | ''Pending''
+|
+|
+|-
+| {{flagicon|El Salvador}} [[Transgender rights in El Salvador|El Salvador]]
+| Unknown
+| Gender identity law&lt;ref&gt;{{Cite web |title=FMLN Backs New Gender Identity Law Defending the Rights of the Transgender Community {{!}} CISPES: Committee in Solidarity with the People of El Salvador |url=http://cispes.org/article/fmln-backs-new-gender-identity-law-defending-rights-transgender-community |url-status=live |archive-url=https://web.archive.org/web/20180616204042/http://cispes.org/article/fmln-backs-new-gender-identity-law-defending-rights-transgender-community |archive-date=16 June 2018 |access-date=14 April 2018}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan=2| ''Pending''
+|
+|
+|-
+| {{flagicon|Peru}} [[Transgender rights in Peru|Peru]]
+| Unknown
+| Gender identity law&lt;ref&gt;{{Cite web |last=Vargas |first=Esther |date=4 November 2016 |title=Perú necesita una Ley de Identidad de Género y hoy se hizo algo importante |url=http://sinetiquetas.org/2016/11/04/peru-necesita-una-ley-identidad-genero-hoy-se-algo-importante/ |url-status=dead |archive-url=https://web.archive.org/web/20170424160010/http://sinetiquetas.org/2016/11/04/peru-necesita-una-ley-identidad-genero-hoy-se-algo-importante/ |archive-date=24 April 2017 |access-date=5 November 2016 |website=Sin Etiquetas |language=es-LA}}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan=2| ''Pending''
+|
+|
+|}
+
+==Legislative efforts to derecognise gender identity==
+
+===National level===
+{| class="wikitable sortable mw-collapsible" style="width:100%"
+|-
+! rowspan=2 | Country
+! rowspan=2 | Date
+! rowspan=2 | Gender identity/expression legislation
+! colspan=2 | Upper house
+! colspan=2 | Lower house
+! rowspan=2 | Head of state
+! rowspan=2 | Final&lt;br /&gt;outcome
+|-
+! Yes
+! No
+! Yes
+! No
+|-
+| {{flagicon|Hungary}} [[Transgender rights in Hungary|Hungary]]
+| {{sort|2020-05|May 2020}}
+| On Amendments to Certain Administrative Laws and the Free Transfer of Property (T/9934), Article 33&lt;ref&gt;{{Cite web |title=Egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról |url=https://www.parlament.hu/irom41/09934/09934.pdf |url-status=live |archive-url=https://web.archive.org/web/20200401090621/https://www.parlament.hu/irom41/09934/09934.pdf |archive-date=1 April 2020 |access-date=9 June 2020 |website=Országgyűlés (Hungarian National Parliament)}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=20 May 2020 |title=Hungary passes bill ending legal gender recognition for trans citizens |url=https://www.euronews.com/2020/05/20/hungary-passes-bill-ending-legal-gender-recognition-for-trans-citizens |url-status=live |archive-url=https://web.archive.org/web/20200609063007/https://www.euronews.com/2020/05/20/hungary-passes-bill-ending-legal-gender-recognition-for-trans-citizens |archive-date=9 June 2020 |access-date=9 June 2020 |website=Euronews}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Hungarian government outlaws legal gender recognition |url=https://tgeu.org/hungarian-government-outlaws-lgr/ |url-status=live |archive-url=https://web.archive.org/web/20200609034940/https://tgeu.org/hungarian-government-outlaws-lgr/ |archive-date=9 June 2020 |access-date=9 June 2020 |website=TGEU (Transgender Europe)|date=29 May 2020 }}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| 134
+| 56
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|-
+| {{flagicon|Slovakia}} [[LGBT rights in Slovakia|Slovakia]]
+| {{sort|2023-05|May 2023}}
+| Birth Number Act (Bill No. 301/1995)&lt;ref&gt;{{Cite web |title=Slovakia: Parliament should reject bill making legal gender recognition impossible |url=https://www.amnesty.org/en/latest/news/2023/05/slovakia-slovak-parliament-should-reject-bill-making-legal-gender-recognition-impossible/ |url-status=live |archive-url=https://web.archive.org/web/20230517031407/https://www.amnesty.org/en/latest/news/2023/05/slovakia-slovak-parliament-should-reject-bill-making-legal-gender-recognition-impossible/ |archive-date=17 May 2023 |access-date=17 May 2023 |website=Amnesty International|date=16 May 2023 }}&lt;/ref&gt;
+| colspan=2 align=center {{n/a}}
+| colspan=2 align=center {{n/a}}
+| align=center {{n/a}}
+| align=center {{n/a}}
+|-
+| {{flagicon|Russia}} [[LGBT rights in Russia|Russia]]
+| {{sort|2023-07|July 2023}}
+|
+| 164
+| 0
+| 386
+| 0
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes
+|}
+
+===Subnational level===
+====United States====
+{| class="wikitable sortable mw-collapsible" style="width:100%"
+|-
+! rowspan=2 | State
+! rowspan=2 | Date
+! rowspan=2 | Gender identity/expression legislation
+! colspan=2 | Upper house
+! colspan=2 | Lower house
+! rowspan=2 | Governor
+! rowspan=2 | Final&lt;br /&gt;outcome
+|-
+! Yes
+! No
+! Yes
+! No
+|-
+| {{flagicon|Idaho}} [[LGBT rights in Idaho#Transgender rights|Idaho]]
+| {{sort|2020-07|July 2020}}
+| House Bill 509, An Act Relating to Vital Statistics
+| 27
+| 6
+| 53
+| 16
+| ''Signed''
+| [[File:Yes check.svg|15px|Yes]]&amp;nbsp;Yes&lt;br&gt;[[File:Red x.svg|15px|Yes]]&amp;nbsp;Struck down by court in August 2020&lt;ref&gt;{{Cite web
+|date=7 August 2020
+|title=Victory! Court Confirms Idaho's Anti-Transgender Birth Certificate Law Violates Ruling
+|url=https://legacy.lambdalegal.org/blog/20200807_victory-idaho-trans-birth-certificate-law
+|url-status=live
+|archive-url=https://web.archive.org/web/20230412192101/https://legacy.lambdalegal.org/blog/20200807_victory-idaho-trans-birth-certificate-law
+|archive-date=12 April 2023
+|access-date=29 May 2023
+|website=Lambda Legal Archive
+}}&lt;/ref&gt;&lt;ref&gt;{{Cite web
+|date=7 August 2020
+|title=Idaho district court upholds decision on transgender birth certificate changes
+|url=https://www.ktvb.com/article/news/local/idaho-district-court-upholds-decision-on-transgender-birth-certificate-changes-lawsuit-ban-legal/277-abc40dbb-d94d-4614-ace7-e63e4c67bc90
+|url-status=live
+|archive-url=https://web.archive.org/web/20220928123026/https://www.ktvb.com/article/news/local/idaho-district-court-upholds-decision-on-transgender-birth-certificate-changes-lawsuit-ban-legal/277-abc40dbb-d94d-4614-ace7-e63e4c67bc90
+|archive-date=28 September 2022
+|access-date=29 May 2023
+|website=KTVB 7 News
+}}&lt;/ref&gt;&lt;ref&gt;{{Cite web
+|date=7 August 2020
+|title=For 2nd time, federal judge rules Idaho can't ban gender changes on birth certificates
+|url=https://www.idahopress.com/news/local/for-2nd-time-federal-judge-rules-idaho-cant-ban-gender-changes-on-birth-certificates/article_44cfc769-167a-542d-a28f-8dee35b46040.html
+|url-status=live
+|archive-url=https://web.archive.org/web/20230430182136/https://www.idahopress.com/news/local/for-2nd-time-federal-judge-rules-idaho-cant-ban-gender-changes-on-birth-certificates/article_44cfc769-167a-542d-a28f-8dee35b46040.html
+|archive-date=30 April 2023
+|access-date=29 May 2023
+|website=Idaho Press}}&lt;/ref&gt;
+|}
+
+==Africa==
+===South Africa===
+{{Main|Transgender rights in South Africa}}
+The [[Constitution of South Africa]] forbids discrimination on the basis of sex, gender and sexual orientation (amongst other grounds). The [[Constitutional Court of South Africa|Constitutional Court]] has indicated that "sexual orientation" includes transsexuality.&lt;ref&gt;{{Cite web |last=De Vos |first=Pierre |date=14 July 2010 |title=Christine, give them hell! |url=http://constitutionallyspeaking.co.za/christine-give-them-hell/ |url-status=live |archive-url=https://web.archive.org/web/20110717195016/http://constitutionallyspeaking.co.za/christine-give-them-hell/ |archive-date=17 July 2011 |access-date=12 July 2011 |website=Constitutionally Speaking}}&lt;/ref&gt;
+
+In 2003 [[Parliament of South Africa|Parliament]] enacted the [[Alteration of Sex Description and Sex Status Act]], which allows a transgender person who has undergone medical or surgical gender reassignment to apply to the [[Department of Home Affairs (South Africa)|Department of Home Affairs]] to have the sex description altered on their birth record. Once the birth record is altered they can be issued with a new [[birth certificate]] and [[identity document]], and are considered "for all purposes" to be of the new sex.&lt;ref&gt;''[http://www.info.gov.za/view/DownloadFileAction?id=68026 Alteration of Sex Description and Sex Status Act, 2003] {{webarchive|url=https://web.archive.org/web/20110629111742/http://www.info.gov.za/view/DownloadFileAction?id=68026 |date=29 June 2011 }}''. Parliament of South Africa, 15 March 2004.&lt;/ref&gt;
+
+===Egypt===
+{{Main|LGBT rights in Egypt}}
+Transgender people face significant existing societal stigma against the LGBT+ community in [[Egypt]], a conservative [[Muslim]] nation{{citation needed|date=September 2024}}. The procedure for gender reassignment is not illegal in Egypt, however, the complication and stigmatisation has put transgender people through mental and physical assault along with torture, as per [[Human Rights Watch]]. Reportedly, the statistics of criminal acts committed against the transgender community have not been available because they have had a history of going unreported.&lt;ref&gt;{{Cite web |title=Transgender Egyptians face abuse, discrimination for asserting their identity |url=https://www.al-monitor.com/pulse/originals/2020/12/egypt-transgender-challenges-religion-society.html |url-status=live |archive-url=https://web.archive.org/web/20201224153819/https://www.al-monitor.com/pulse/originals/2020/12/egypt-transgender-challenges-religion-society.html |archive-date=24 December 2020 |access-date=24 December 2020 |website=Al Monitor|date=9 December 2020 }}&lt;/ref&gt;&lt;ref&gt;{{Cite news |date=12 November 2020 |title=Egyptian transgender woman faces uphill battle against stigma |work=Reuters |url=https://www.reuters.com/article/egypt-trans-int-idUSKBN27S1OD |url-status=live |access-date=12 November 2020 |archive-url=https://web.archive.org/web/20201112202435/https://www.reuters.com/article/egypt-trans-int-idUSKBN27S1OD |archive-date=12 November 2020}}&lt;/ref&gt;
+
+===Botswana===
+{{Main|Transgender rights in Botswana}}
+In September 2017, the Botswana High Court ruled that the refusal of the Registrar of National Registration to change a transgender man's gender marker was "unreasonable and violated his constitutional rights to dignity, privacy, freedom of expression, equal protection of the law, freedom from discrimination and freedom from inhumane and degrading treatment". LGBT activists celebrated the ruling, describing it as a great victory.&lt;ref&gt;{{Cite web |title=Botswana: Activists Celebrate Botswana's Transgender Court Victory |url=http://allafrica.com/stories/201710090073.html |url-status=dead |archive-url=https://web.archive.org/web/20190621164818/https://allafrica.com/stories/201710090073.html |archive-date=21 June 2019 |access-date=14 April 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=29 September 2017 |title=Press Release: Botswana High Court Rules in Landmark Gender Identity Case |url=https://southernafricalitigationcentre.org/2017/09/29/press-release-botswana-high-court-rules-in-landmark-gender-identity-case/ |url-status=live |archive-url=https://web.archive.org/web/20190428140544/https://www.southernafricalitigationcentre.org/2017/09/29/press-release-botswana-high-court-rules-in-landmark-gender-identity-case/ |archive-date=28 April 2019 |access-date=14 April 2018}}&lt;/ref&gt; At first, the Botswana Government announced it would appeal the ruling, but decided against it in December, supplying the trans man in question with a new identity document that reflects his gender identity.&lt;ref&gt;[http://www.mambaonline.com/2017/12/06/sweet-closure-botswana-agrees-recognise-trans-man/ "Sweet closure" as Botswana finally agrees to recognise trans man] {{Webarchive|url=https://web.archive.org/web/20180630052752/http://www.mambaonline.com/2017/12/06/sweet-closure-botswana-agrees-recognise-trans-man/ |date=30 June 2018 }}, ''Mambaonline''&lt;/ref&gt;
+
+A similar case, where a transgender woman sought to change her gender marker to female, was heard in December 2017. The High Court ruled that the Government must recognise her gender identity.&lt;ref&gt;{{Cite news |date=18 December 2017 |title=Botswana to recognise a transgender woman's identity for first time after historic High Court ruling |work=independent.co.uk |url=https://www.independent.co.uk/news/world/africa/botswana-gaborone-transgender-identity-lgbt-rights-legabibo-court-law-a8114991.html |url-status=live |access-date=14 April 2018 |archive-url=https://web.archive.org/web/20190503034726/https://www.independent.co.uk/news/world/africa/botswana-gaborone-transgender-identity-lgbt-rights-legabibo-court-law-a8114991.html |archive-date=3 May 2019}}&lt;/ref&gt; She dedicated her victory to "every single trans diverse person in Botswana".
+
+==Asia==
+===China===
+{{Main|Transgender people in China}}
+
+According to a survey conducted by Peking University, Chinese [[trans female]] students face strong discrimination in many areas of education.&lt;ref&gt;{{Cite web |title=2017中国跨性别群体生存现状调查报告 |url=https://doc.mbalib.com/view/23d82eecfd6765a009adcfd32e455028.html |url-status=dead |archive-url=https://web.archive.org/web/20220401115908/https://doc.mbalib.com/view/23d82eecfd6765a009adcfd32e455028.html |archive-date=1 April 2022 |access-date=2022-02-08 |website=MBA智库}}&lt;/ref&gt; [[Sex segregation]] is found everywhere in Chinese schools and universities: student enrollment (for some special schools, universities and majors), appearance standards ([[hairstyles]] and [[School uniform#Social implications of school uniforms on gender|uniforms]] included), private spaces (bathrooms, toilets and dormitories included), physical examinations, [[Military education and training in China|military trainings]], [[Conscription in China|conscription]], [[Physical education|PE]] classes, [[Physical education|PE]] exams and physical health tests. Chinese students are required to attend all the activities according to their legal gender marker, otherwise they will be punished. It is also difficult to change the gender information of educational attainments and academic degrees in China, even after [[sex reassignment surgery]], which results in discrimination against well-educated trans women.&lt;ref&gt;{{Cite web |date=2019-12-23 |title=跨性别者手术后: 历时半年终于修改学历 就业遭歧视 |url=https://www.sohu.com/a/362100660_120146415 |access-date=2022-02-08 |website=搜狐 |archive-date=25 March 2021 |archive-url=https://web.archive.org/web/20210325032411/https://www.sohu.com/a/362100660_120146415 |url-status=live }}&lt;/ref&gt;&lt;ref&gt;{{Cite press release |title=变性人群体真实生态: 唯学历证明无法修改性别 |date=2012-06-20 |publisher=搜狐 |url=http://news.sohu.com/20120620/n346142516.shtml |language=zh-cn |access-date=2022-02-08 |archive-url=https://web.archive.org/web/20140812205346/http://news.sohu.com/20120620/n346142516.shtml |archive-date=2014-08-12 |author=王若翰}}&lt;/ref&gt;
+
+===Hong Kong===
+{{Main|Transgender rights in Hong Kong}}
+The [[Hong Kong Court of Final Appeal]] ruled that a transsexual woman has the right to marry her boyfriend. The ruling was made on 13 May 2013.&lt;ref name="ABC-HK-20130513"&gt;{{Cite web |last=Chan |first=Kelvin |title=HK Transgender Woman Wins Legal Battle to Marry |url=https://abcnews.go.com/International/wireStory/hong-kong-transgender-woman-wins-marry-19165384#.UZD7e0oZSko |access-date=13 May 2013 |publisher=ABC News}}{{Dead link|date=December 2019 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref name="BBC-HK-20130513"&gt;{{Cite news |title=Hong Kong court supports transsexual right to wed |work=BBC News |url=https://www.bbc.co.uk/news/world-asia-china-22506472 |url-status=live |access-date=13 May 2013 |archive-url=https://web.archive.org/web/20130516173742/http://www.bbc.co.uk/news/world-asia-china-22506472 |archive-date=16 May 2013}}&lt;/ref&gt;
+
+On 16 September 2013, [[Eliana Rubashkyn]], a transgender woman claimed that she was discriminated and sexually abused by the customs officers, including being subjected to invasive body searches and denied usage of a female toilet, although Hong Kong officers denied the allegations.&lt;ref name="SCMP 2013"&gt;{{Citation |title=Hong Kong customs officers behaved 'like animals' during body search |date=1 November 2013 |url=http://www.scmp.com/news/hong-kong/article/1346238/transgender-woman-hong-kong-customs-officers-behaved-animals-during |work=South China Morning Post |archive-url=https://web.archive.org/web/20140214030429/http://www.scmp.com/news/hong-kong/article/1346238/transgender-woman-hong-kong-customs-officers-behaved-animals-during |access-date=2 February 2014 |archive-date=14 February 2014 |url-status=live}}&lt;/ref&gt;&lt;ref name="Gay News Network"&gt;{{Citation |title=Trans woman subjected to invasive search at Hong Kong airport |date=1 November 2013 |url=http://gaynewsnetwork.com.au/news/trans-woman-subjected-to-invasive-search-at-hong-kong-airport-12289.html |archive-url=https://web.archive.org/web/20140220123632/http://gaynewsnetwork.com.au/news/trans-woman-subjected-to-invasive-search-at-hong-kong-airport-12289.html |access-date=2 February 2014 |archive-date=20 February 2014 |url-status=dead}}&lt;/ref&gt; After being released, she applied for and was granted refugee status by the [[United Nations High Commissioner for Refugees]] (UNHCR), rendering her effectively [[statelessness|stateless]] awaiting acceptance to a third country.&lt;ref name="Apple Daily"&gt;{{Citation |title=為換護照慘失國籍失學位失尊嚴 被海關當畜牲 跨性別博士來港 三失不是人 (A want to change her passport costed her nationality, degree and dignity – Treated by customs like an animal – Transgender doctorate student came to Hong Kong and lost everything) |date=1 November 2013 |url=http://hk.apple.nextmedia.com/news/art/20131103/18491211 |work=Apple Daily |archive-url=https://web.archive.org/web/20140129181129/http://hk.apple.nextmedia.com/news/art/20131103/18491211 |access-date=2 February 2014 |archive-date=29 January 2014 |url-status=live}}&lt;/ref&gt;&lt;ref name="SCMP 2014"&gt;{{Citation |title=Transgender refugee goes through 'hell' in Hong Kong to be recognised as a woman |date=3 April 2014 |url=http://www.scmp.com/news/hong-kong/article/1457021/transgender-refugee-goes-through-hell-hong-kong-be-recognised-woman |work=South China Morning Post |archive-url=https://web.archive.org/web/20140416190048/http://www.scmp.com/news/hong-kong/article/1457021/transgender-refugee-goes-through-hell-hong-kong-be-recognised-woman |access-date=16 April 2014 |archive-date=16 April 2014 |url-status=live}}&lt;/ref&gt;
+
+In February 2023, the Court of Final Appeal ruled that the government's requirement of full [[sex reassignment surgery]] in order to update gender identity on ID cards was unconstitutional and unacceptably burdensome.&lt;ref name="nbc-7feb2023"&gt;{{cite news |title=Transgender men win Hong Kong court case over ID cards |url=https://www.nbcnews.com/news/world/hong-kong-transgender-id-cards-rcna69450 |access-date=June 8, 2023 |work=[[NBC News]] |agency=[[Associated Press]] |date=February 7, 2023 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608210327/https://www.nbcnews.com/news/world/hong-kong-transgender-id-cards-rcna69450 |url-status=live }}&lt;/ref&gt;&lt;ref name="hkfp-13feb2023"&gt;{{cite news |last1=Li |first1=Almond |title=Hong Kong trans activist Henry Tse fought for the right to be recognised as a man without full surgery – and won |url=https://hongkongfp.com/2023/02/13/hong-kong-trans-activist-henry-tse-fought-for-the-right-to-be-recognised-as-a-man-without-full-surgery-and-won/ |access-date=June 8, 2023 |work=[[Hong Kong Free Press]] |date=February 13, 2023}}&lt;/ref&gt; {{As of|May 2023}}, the ruling has yet to be implemented.&lt;ref name="time-23may2023"&gt;{{cite magazine |last1=de Guzman |first1=Chad |title=He Won a Landmark Trans Rights Case in Hong Kong—But His Work Is Just Beginning |url=https://time.com/collection/next-generation-leaders/6278548/henry-edward-tse/ |access-date=June 8, 2023 |magazine=[[Time (magazine)|Time]] |date=May 23, 2023 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608221428/https://time.com/collection/next-generation-leaders/6278548/henry-edward-tse/ |url-status=live }}&lt;/ref&gt;
+
+=== India ===
+{{Main|Transgender rights in India}}
+
+In April 2014, the [[Supreme Court of India]] declared transgender to be a 'third gender' in Indian law.&lt;ref&gt;{{Cite news |date=15 April 2014 |title=India recognises transgender people as third gender |work=The Guardian |url=https://www.theguardian.com/world/2014/apr/15/india-recognises-transgender-people-third-gender |url-status=live |access-date=15 April 2014 |archive-url=https://web.archive.org/web/20140415221112/http://www.theguardian.com/world/2014/apr/15/india-recognises-transgender-people-third-gender |archive-date=15 April 2014}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |last=McCoy |first=Terrence |date=15 April 2014 |title=India now recognizes transgender citizens as 'third gender' |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/news/morning-mix/wp/2014/04/15/india-now-recognizes-transgender-citizens-as-third-gender/?tid=hp_mm |url-status=live |access-date=15 April 2014 |archive-url=https://web.archive.org/web/20140415141006/http://www.washingtonpost.com/news/morning-mix/wp/2014/04/15/india-now-recognizes-transgender-citizens-as-third-gender/?tid=hp_mm |archive-date=15 April 2014}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |date=15 April 2014 |title=Supreme Court recognizes transgenders as 'third gender' |work=The Times of India |url=http://timesofindia.indiatimes.com/india/Supreme-Court-recognizes-transgenders-as-third-gender/articleshow/33767900.cms |url-status=live |access-date=15 April 2014 |archive-url=https://web.archive.org/web/20140415112611/http://timesofindia.indiatimes.com/india/Supreme-Court-recognizes-transgenders-as-third-gender/articleshow/33767900.cms |archive-date=15 April 2014}}&lt;/ref&gt; The transgender community in India (made up of [[Hijra (South Asia)|Hijras]] and others) has a long history in India and in [[Hindu mythology]].&lt;ref&gt;{{Cite news |title=Why transgender not an option in civil service exam form: HC |url=http://timesofindia.indiatimes.com/india/Why-transgender-not-an-option-in-civil-service-exam-form-HC/articleshow/47677633.cms |url-status=live |archive-url=https://web.archive.org/web/20151203163129/http://timesofindia.indiatimes.com/india/Why-transgender-not-an-option-in-civil-service-exam-form-HC/articleshow/47677633.cms |archive-date=3 December 2015 |website=[[The Times of India]]|date=15 June 2015 }}&lt;/ref&gt;&lt;ref&gt;{{Cite news |title=Why transgender not an option in civil service exam form: HC |work=The Economic Times |url=http://economictimes.indiatimes.com/news/politics-and-nation/why-transgender-not-an-option-in-civil-service-exam-form-delhi-hc/articleshow/47677858.cms |url-status=live |archive-url=https://web.archive.org/web/20160125192422/http://economictimes.indiatimes.com/news/politics-and-nation/why-transgender-not-an-option-in-civil-service-exam-form-delhi-hc/articleshow/47677858.cms |archive-date=25 January 2016}}&lt;/ref&gt;{{efn|Justice KS Radhakrishnan noted in his decision that, "Seldom, our society realizes or cares to realize the trauma, agony and pain which the members of Transgender community undergo, nor appreciates the innate feelings of the members of the Transgender community, especially of those whose mind and body disown their biological sex".&lt;br /&gt;"Non-recognition of the identity of Hijras/transgender persons denies them equal protection of law, thereby leaving them extremely vulnerable to harassment, violence and sexual assault in public spaces, at home and in jail, also by the police. Sexual assault, including molestation, rape, forced anal and oral sex, gang rape and stripping is being committed with impunity and there are reliable statistics and materials to support such activities. Further, non-recognition of identity of Hijras /transgender persons results in them facing extreme discrimination in all spheres of society, especially in the field of employment, education, healthcare etc."&lt;br /&gt;
+"Hijras/transgender persons face huge discrimination in access to public spaces like restaurants, cinemas, shops, malls etc. Further, access to public toilets is also a serious problem they face quite often. Since, there are no separate toilet facilities for Hijras/transgender persons, they have to use male toilets where they are prone to sexual assault and harassment. Discrimination on the ground of sexual orientation or gender identity, therefore, impairs equality before law and equal protection of law and violates Article 14 of the Constitution of India.&lt;ref name="TGruling"&gt;{{cite court |litigants=National Legal Services Authority ... Petitioner Versus Union of India and others ... Respondents |court=Supreme Court of India |date=15 April 2014 |url=http://pastebin.com/9a5g8Qmr |access-date=15 April 2014 |archive-url=https://web.archive.org/web/20140416183032/http://pastebin.com/9a5g8Qmr |url-status=live }}&lt;/ref&gt;}}
+
+{{wikisource|Transgender Persons (Protection of Rights) Act, 2019}}
+The [[Transgender Persons (Protection of Rights) Act, 2019]], was passed by Parliament in November 2019, and came into effect on 11 January 2020. It protects transgender individuals against discrimination in education, employment and healthcare. It recognizes the gender identity of the individual, and there are provisions in the law for a certificate to be issued with their new gender identity.  There have been reservations among some in the transgender community, both regarding the difficulty of obtaining a certificate, and because of lack of awareness and lack of sensitivity to the issue among local public officials.&lt;ref&gt;{{Cite web |last=Nath |first=Damini |date=January 11, 2020 |title=Transgender Persons Act comes into effect |url=https://www.thehindu.com/news/national/transgender-persons-act-comes-into-effect/article30545336.ece |url-status=live |archive-url=https://web.archive.org/web/20200229091631/https://www.thehindu.com/news/national/transgender-persons-act-comes-into-effect/article30545336.ece |archive-date=29 February 2020 |access-date=1 October 2020 |website=The Hindu |publisher=N. Ravi |location=Chennai}}&lt;/ref&gt; LGBTQ protests against the bill have occurred, with claims that the bill hurts the transgender community instead of helping it.  Protesters noted the provision for certification, but criticized the fact that this would require people to register with the government in order to be recognized as transgender. They also criticized the inequality inherent in the vast differences in punishment for the same crime, such as sexual abuse, committed against violating a transgender or cisgender individual.&lt;ref&gt;{{Cite web |last=Pathak |first=Sushmita |date=December 4, 2019 |title=India Just Passed A Trans Rights Bill. Why Are Trans Activists Protesting It? |url=https://www.npr.org/sections/goatsandsoda/2019/12/04/784398783/india-just-passed-a-trans-rights-bill-why-are-trans-activists-protesting-it |url-status=live |archive-url=https://web.archive.org/web/20200303211742/https://www.npr.org/sections/goatsandsoda/2019/12/04/784398783/india-just-passed-a-trans-rights-bill-why-are-trans-activists-protesting-it |archive-date=3 March 2020 |access-date=1 October 2020 |website=npr}}&lt;/ref&gt;
+
+===Iran===
+{{Main|Transgender rights in Iran}}
+
+Beginning in the mid-1980s, transgender individuals were officially recognized by the government and allowed to undergo [[sex reassignment surgery]].
+Officially the leader of Iran's [[Islamic Revolution]], [[Ayatollah Ruhollah Khomeini]], issued a [[fatwa]] declaring sex reassignment surgery permissible for "diagnosed transsexuals".&lt;ref&gt;{{Cite news |last=Fathi |first=Nazila |date=2 August 2004 |title=As Repression Lifts, More Iranians Change Their Sex |work=The New York Times |url=https://query.nytimes.com/gst/fullpage.html?res=9E0DE0D91F3DF931A3575BC0A9629C8B63 |url-status=live |access-date=12 December 2018 |archive-url=https://web.archive.org/web/20200108050104/https://www.nytimes.com/2004/08/02/world/as-repression-eases-more-iranians-change-their-sex.html |archive-date=8 January 2020}}&lt;/ref&gt;&lt;ref name="guard"&gt;{{Cite news |last=Tait |first=Robert |date=27 July 2005 |title=A Fatwa for Freedom |work=The Guardian |location=London |url=http://www.guardian.co.uk/world/2005/jul/27/gayrights.iran |url-status=live |access-date=2010-05-12 |archive-url=https://web.archive.org/web/20121124232234/http://www.guardian.co.uk/world/2005/jul/27/gayrights.iran |archive-date=24 November 2012}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Human Rights Report: Being Transgender in Iran |url=https://www.outrightinternational.org/sites/default/files/OutRightTransReport.pdf |url-status=live |archive-url=https://web.archive.org/web/20180116135144/https://www.outrightinternational.org/sites/default/files/OutRightTransReport.pdf |archive-date=16 January 2018 |access-date=2018-08-06 |website=Outright. Action International}}&lt;/ref&gt; The government provides up to half the cost for those needing financial assistance, and a sex change is recognised on the birth certificate.&lt;ref&gt;{{Cite web |last=Barford |first=Vanessa |date=25 February 2008 |title=BBC News: Iran's 'diagnosed transsexuals' |url=http://news.bbc.co.uk/2/hi/7259057.stm |url-status=live |archive-url=https://web.archive.org/web/20120315170427/http://news.bbc.co.uk/2/hi/7259057.stm |archive-date=15 March 2012 |access-date=12 March 2012 |publisher=British Broadcasting Corporation}}&lt;/ref&gt; Despite this, Iran's transgender people face discrimination in society.&lt;ref&gt;{{Cite web |date=21 May 2018 |title=Iran's transgender people face discrimination despite fatwa |url=https://apnews.com/a66b2167bb1744e6b12ba8ff1ef97c21 |url-status=live |archive-url=https://web.archive.org/web/20181215224539/https://apnews.com/a66b2167bb1744e6b12ba8ff1ef97c21 |archive-date=15 December 2018 |access-date=12 December 2018 |publisher=AP NEWS}}&lt;/ref&gt; Founded in 2007 by [[Maryam Khatoon Molkara]] the Iranian Society to Support Individuals with Gender Identity Disorder (انجمن حمایت از بیماران مبتلا به اختلالات هویت جنسی ایران) is Iran's main transsexual organization.&lt;ref name=":0"&gt;{{Cite web |title=Human Rights Report: Being Transgender in Iran |url=https://www.outrightinternational.org/sites/default/files/OutRightTransReport.pdf |url-status=live |archive-url=https://web.archive.org/web/20180116135144/https://www.outrightinternational.org/sites/default/files/OutRightTransReport.pdf |archive-date=16 January 2018 |access-date=2018-08-06 |website=Outright. Action International}}&lt;/ref&gt;
+
+Additionally, the Iranian government's response to homosexuality is to pressure lesbian and gay individuals, who are not in fact transsexual, towards sex reassignment surgery.&lt;ref&gt;{{Cite web |date=5 November 2014 |title=The gay people pushed to change their gender |url=https://www.bbc.com/news/magazine-29832690 |url-status=live |archive-url=https://web.archive.org/web/20181126202819/https://www.bbc.com/news/magazine-29832690 |archive-date=26 November 2018 |access-date=12 December 2018 |publisher=BBC}}&lt;/ref&gt; Eshaghian's documentary, ''[[Be Like Others]]'', chronicles a number of stories of [[LGBT rights in Iran|Iranian gay men]] who feel transitioning is the only way to avoid further persecution, jail, or execution.&lt;ref&gt;{{Cite web |last=Hays |first=Matthew |title=Iran's gay plan |url=https://www.cbc.ca/news/entertainment/iran-s-gay-plan-1.729253 |url-status=live |archive-url=https://web.archive.org/web/20090416140030/http://www.cbc.ca/arts/film/story/2008/08/26/f-homosexuality-iran-sex-change.html |archive-date=16 April 2009 |access-date=12 December 2018 |website=CBC News}}&lt;/ref&gt; [[Maryam Khatoon Molkara]]—who convinced Khomeini to issue the fatwa on transsexuality—confirmed that some people who undergo operations are gay rather than transsexual.&lt;ref&gt;[https://www.theguardian.com/frontpage/story/0,,2177277,00.html "Sex change funding undermines no gays claim"] {{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}}, Robert Tait, ''[[The Guardian]]'', 26 September 2007; accessed 20 September 2008.&lt;/ref&gt;
+
+===Japan===
+{{Main|Transgender rights in Japan}}
+On 10 July 2003, the [[National Diet]] of Japan unanimously approved a new law that enables transsexual people to amend their legal sex. It is called ''{{lang|ja|性同一性障害者の性別の取扱いの特例に関する法律}}'' (Act on Special Cases in Handling Gender for People with Gender Identity Disorder)&lt;ref&gt;{{Cite web |title=Waseda Bulletin of Comparative Law |url=http://www.waseda.jp/hiken/jp/public/bulletin/pdf/24/ronbun/A02859211-00-000240042.pdf |url-status=live |archive-url=https://web.archive.org/web/20160304045418/http://www.waseda.jp/hiken/jp/public/bulletin/pdf/24/ronbun/A02859211-00-000240042.pdf |archive-date=4 March 2016 |access-date=2017-08-01 |website=Waseda.jp |page=42 |volume=24}}&lt;/ref&gt;&lt;ref&gt;[http://law.e-gov.go.jp/htmldata/H15/H15HO111.html 性同一性障害者の性別の取扱いの特例に関する法律] {{Webarchive|url=https://archive.today/20120722053605/http://law.e-gov.go.jp/htmldata/H15/H15HO111.html |date=22 July 2012 }} e-Gov – Ministry of Internal Affairs and Communications, Japan {{in lang|ja}}&lt;/ref&gt;&lt;ref&gt;[http://www.japaneselawtranslation.go.jp/law/detail/?id=1553&amp;re=02 Act on Special Cases in Handling Gender for People with Gender Identity Disorder] {{webarchive|url=https://web.archive.org/web/20111007143514/http://www.japaneselawtranslation.go.jp/law/detail/?id=1553&amp;re=02 |date=7 October 2011 }} Japanese Law Translation – Ministry of Justice, Japan&lt;/ref&gt; The law, effective on 16 July 2004, however, has controversial conditions which demand the applicants be both unmarried and childless. On 28 July 2004, Naha Family Court in [[Okinawa Prefecture]] returned a verdict to a transsexual woman in her 20s, allowing the sex on her [[family registry]] record or [[koseki]] to be amended from male to female. It is generally believed to be the first court approval under the new law.&lt;ref&gt;{{Cite news |date=29 July 2004 |title=Transsexual's 'Change' Recognized |publisher=CBS News |location=Tokyo |url=http://thewe.cc/contents/more/archive2004/july/transsexual_change_recognized.htm |url-status=dead |access-date=16 May 2015 |archive-url=https://archive.today/20120730213812/http://thewe.cc/contents/more/archive2004/july/transsexual_change_recognized.htm |archive-date=30 July 2012}}&lt;/ref&gt; Since 2018 sex reassignment surgeries are paid for by the Japanese government, which are covered by the Japanese national health insurance as long as patients are not receiving [[hormone replacement therapy (gender dysphoria)|hormone treatment]] and do not have any other pre-existing conditions. However applicants are required to be at least 20 years old, single, sterile, have no children under 20 (the age of majority in Japan), as well as to undergo a psychiatric evaluation to receive a diagnosis of "[[Gender Identity Disorder]]", also known as [[gender dysphoria]] in western countries. Once completed the patient has to only pay 30% of the surgery costs.&lt;ref&gt;{{Cite web |date=8 June 2018 |title=Japan to fund gender-affirming surgery |url=https://www.pinknews.co.uk/2018/06/08/japan-to-fund-gender-affirming-surgery/ |url-status=live |archive-url=https://web.archive.org/web/20200724193857/https://www.pinknews.co.uk/2018/06/08/japan-to-fund-gender-affirming-surgery/ |archive-date=24 July 2020 |access-date=26 January 2019}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=24 January 2019 |title=Japan's Supreme Court rules transgender people still have to get sterilised |url=https://www.pinknews.co.uk/2019/01/24/japan-transgender-supreme-court/ |url-status=live |archive-url=https://web.archive.org/web/20190729142731/https://www.pinknews.co.uk/2019/01/24/japan-transgender-supreme-court/ |archive-date=29 July 2019 |access-date=26 January 2019}}&lt;/ref&gt;
+
+===Malaysia===
+{{Main|Transgender rights in Malaysia}}
+There is no legislation expressly allowing transsexuals to legally change their gender in [[Malaysia]]. The relevant legislations are the Births and Deaths Registration Act 1957 and National Registration Act 1959. Therefore, judges currently exercise their discretion in interpreting the law and defining the gender. There are conflicting decisions on this matter. There is a case in 2003 where the court allowed a transsexual to change her gender indicated in the [[Identity document|identity card]], and granted a declaration that she is a female.&lt;ref name="bar"&gt;[http://www.malaysianbar.org.my/content/view/2063/27/#_ftn4 "JeffreyJessie: Recognising Transsexuals"] {{Webarchive|url=https://web.archive.org/web/20070927175216/http://www.malaysianbar.org.my/content/view/2063/27/#_ftn4 |date=27 September 2007 }}, ''The Malaysian Bar''. Retrieved 21 August 2007.&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=J.G v. Pengarah Jabatan Pendaftaran Negara |url=http://www.cljlaw.com/public/cotw-051021.htm |url-status=dead |archive-url=https://web.archive.org/web/20120208060508/http://www.cljlaw.com/public/cotw-051021.htm |archive-date=8 February 2012 |access-date=1 August 2017 |website=Cljlaw.com}}&lt;/ref&gt; However, in 2005, in another case, the court refused to amend the gender of a transsexual in the identity card and [[birth certificate]].&lt;ref name="bar" /&gt; Both cases applied the United Kingdom case of ''[[Corbett v Corbett]]'' in defining legal gender.
+
+===Pakistan===
+{{Main|Transgender rights in Pakistan}}
+
+In Pakistan, some members of the LGBT community have started undergoing acts of sex reassignment surgery to change their sex. There are situations where such cases have caused media attention.&lt;ref name="CITEREFLesbianCouple1"&gt;{{Cite web |date=22 May 2007 |title=Pakistan judge tells lesbian couple they broke the law |url=http://english.pravda.ru/news/society/22-05-2007/91900-islan_lesbian-0 |url-status=live |archive-url=https://web.archive.org/web/20071029100637/http://english.pravda.ru/news/society/22-05-2007/91900-islan_lesbian-0 |archive-date=29 October 2007 |access-date=2008-05-05 |publisher=[[Pravda]] |df=dmy-all}}&lt;/ref&gt; A 2008 ruling at Pakistan's [[Lahore High Court]] gave permission to Naureen, 28, to have a sex change operation, although the decision was applicable only towards individuals who were diagnosed with gender dysphoria.&lt;ref&gt;{{Cite web |title=Pakistan court allows woman to change sex |url=http://www.zeenews.com/articles.asp?aid=439951&amp;sid=SAS |url-status=live |archive-url=https://web.archive.org/web/20080503004804/http://www.zeenews.com/articles.asp?aid=439951&amp;sid=SAS |archive-date=3 May 2008 |access-date=2008-05-06 |publisher=[[Zee News]] |df=dmy-all}}&lt;/ref&gt;
+
+In 2009, the Pakistan Supreme Court made a ruling in favor of the transgender community. The landmark ruling stated that as citizens they were entitled to the equal benefit and protection of the law and called upon the Pakistani government to take steps to protect transgender people from discrimination and harassment.&lt;ref&gt;[http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/metropolitan/14-sc-orders-equal-benefits-for-transvestites-zj-02] {{webarchive|url=https://web.archive.org/web/20090718093830/http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/metropolitan/14-sc-orders-equal-benefits-for-transvestites-zj-02|date=18 July 2009}}&lt;/ref&gt; Pakistan's chief justice, Iftikhar Chaudhry, was the architect of major extension of rights to Pakistan's transgender community during his term.&lt;ref&gt;{{Cite news |last=Jon Boone in Islamabad |title=Pakistan's chief justice Iftikhar Chaudhry suffers public backlash |work=theguardian.com |url=https://www.theguardian.com/world/2013/aug/28/pakistan-judges-backlash-ftikhar-haudhry |url-status=live |access-date=2014-02-11 |archive-url=https://web.archive.org/web/20140223012528/http://www.theguardian.com/world/2013/aug/28/pakistan-judges-backlash-ftikhar-haudhry |archive-date=23 February 2014}}&lt;/ref&gt; There are also anti-discrimination laws in the provision of goods and services for transgender or transsexual individuals (known as Khuwaja Sira, formerly hijra, or Third Gender) in Pakistani.&lt;ref name="test.hsa.edu.pk"&gt;{{Cite journal |year=2012 |title=Awareness about sexually transmitted infections among Hijra sex workers of Rawalpindi/Islamabad |url=http://test.hsa.edu.pk/journal/issue-march2012vol2no1/Abdullah%20MA.OA.pdf |journal=Pakistan Journal of Public Health}}{{dead link|date=January 2018 |bot=Trankuility |fix-attempted=yes }}&lt;/ref&gt;&lt;ref name="positiveimpactmagazine1"&gt;{{Cite news |title=A Second Look at Pakistan's Third Gender |publisher=Positive Impact Magazine |url=http://positiveimpactmagazine.com/a-second-look-at-pakistans-third-gender/ |url-status=dead |access-date=2014-02-02 |archive-url=https://web.archive.org/web/20140108085208/http://positiveimpactmagazine.com/a-second-look-at-pakistans-third-gender/ |archive-date=8 January 2014}}&lt;/ref&gt;
+
+In 2018, the [[Government of Pakistan|Pakistani government]] passed the '''Transgender Person (Protection of Rights) Act''' which officially established the legal right of transgender people in Pakistan to identify themselves as such and instituted anti-discrimination laws. These include recognition of transgender identity in legal documents such as [[Pakistani passport|passports]], identity card, and drivers licences, along with prohibiting discrimination in employment, schools, workplaces, public transit, healthcare, etc. The bill also included the right for inheritance in accordance to their chosen gender. Furthermore, the bill obligates the Pakistani government to build protection centers and safe houses for the specific purpose of being used by the transgender community in Pakistan.&lt;ref&gt;{{Cite web |last=Ingber |first=Sasha |date=May 9, 2018 |title=Pakistan Passes Historic Transgender Rights Bill |url=https://www.npr.org/sections/thetwo-way/2018/05/09/609700652/pakistan-passes-historic-transgender-rights-bill |url-status=live |archive-url=https://web.archive.org/web/20200918174933/https://www.npr.org/sections/thetwo-way/2018/05/09/609700652/pakistan-passes-historic-transgender-rights-bill |archive-date=18 September 2020 |access-date=October 1, 2020 |website=npr}}&lt;/ref&gt;
+
+===Jordan===
+{{Main|Transgender rights in Jordan}}
+The Court of Cassation, the highest court in [[Jordan]] allowed a [[transsexual]] woman to change her legal name and sex to female in 2014 after she brought forth medical reports from Australia. The head of the Jordanian Department of civil Status and Passports stated that two to three cases of change of sex reach the department annually, all based on Medical Reports and Court orders.&lt;ref&gt;{{Cite web |title=القضاء يوافق على تغيير جنس أردني من ذكر إلى أنثى |url=https://www.ammonnews.net/article/208487 |url-status=dead |archive-url=https://web.archive.org/web/20180616033235/https://www.ammonnews.net/article/208487 |archive-date=16 June 2018 |access-date=2019-07-24 |website=وكالة عمون الاخبارية}}&lt;/ref&gt;
+===Lebanon===
+{{Main|LGBT rights in Lebanon}}
+In January 2016, the Court of Appeals of Beirut confirmed the right of a transgender man to change his official papers, granting him access to necessary treatment and privacy.&lt;ref name="aljazeera"&gt;[http://www.aljazeera.com/indepth/features/2016/02/transgender-ruling-lebanon-empowering-moment-160206125311413.html Transgender ruling in Lebanon an 'empowering' moment]&lt;/ref&gt;&lt;ref&gt;{{in lang|ar}} [http://legal-agenda.com/article.php?id=1386&amp;folder=articles&amp;lang=ar تغيير الجنس في حكم قضائي جديد: احترام حق الفرد في تغيير حاله]&lt;/ref&gt;&lt;ref&gt;[http://www.dailystar.com.lb/News/Lebanon-News/2016/Jan-15/332090-lebanese-judge-grants-trans-man-right-to-change-gender.ashx Lebanese judge grants trans man right to change gender]&lt;/ref&gt; Transgender people are required to undergo [[sex reassignment surgery]] in order to change their legal gender.&lt;ref&gt;[http://www.pinknews.co.uk/2016/01/28/lebanon-allows-trans-man-to-legally-change-his-gender/ Lebanon allows trans man to legally change his gender] Pink News&lt;/ref&gt;
+
+===Philippines===
+{{Main|Transgender rights in the Philippines}}
+The [[Supreme Court of the Philippines]] Justice [[Leonardo Quisumbing]] on 12 September 2008, allowed Jeff Cagandahan, 27, to change his [[birth certificate]], gender and name:&lt;blockquote&gt;We respect respondent's congenital condition and his mature decision to be a male. Life is already difficult for the ordinary person. We cannot but respect how respondent deals with his unordinary state and thus help make his life easier, considering the unique circumstances in this case. In the absence of a law on the matter, the court will not dictate on respondent concerning a matter so innately private as one's sexuality and lifestyle preferences, much less on whether or not to undergo medical treatment to reverse the male tendency due to rare medical condition, [[congenital adrenal hyperplasia]]. In the absence of evidence that respondent is an 'incompetent,' and in the absence of evidence to show that classifying respondent as a male will harm other members of society ... the court affirms as valid and justified the respondent's position and his personal judgment of being a male.&lt;/blockquote&gt;
+
+Court records showed that at age six, he had small [[ovaries]]; at 13, his ovarian structure was minimized, he had no breasts and did not menstruate. The [[psychiatrist]] testified that "he has both male and female sex organs, but was genetically female, and that since his body secreted male hormones, his female organs did not develop normally." The [[Philippines]] National Institutes of Health said "people with congenital adrenal hyperplasia lack an [[enzyme]] needed by the [[adrenal gland]] to make the [[hormones]] [[cortisol]] and [[aldosterone]].&lt;ref&gt;{{Cite web |title=newsinfo.inquirer.net, Call him Jeff, says SC; he used to be called Jennifer |url=http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20080917-161148/Call-him-Jeff-says-SC-he-used-to-be-called-Jennifer |url-status=dead |archive-url=https://web.archive.org/web/20140808193038/http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20080917-161148/Call-him-Jeff-says-SC-he-used-to-be-called-Jennifer |archive-date=8 August 2014 |access-date=1 August 2017 |website=Newsinfo.inquirer.net}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Rare Condition Turns Woman into Man |url=https://www.foxnews.com/story/rare-condition-turns-woman-into-man |url-status=live |archive-url=https://web.archive.org/web/20130610145052/http://www.foxnews.com/story/0,2933,423242,00.html |archive-date=10 June 2013 |access-date=26 July 2015 |website=Fox News}}&lt;/ref&gt;
+
+This ruling, however, only applied to cases involving congenital adrenal hyperplasia and other intersex situations.&lt;ref&gt;{{Cite web |last=Quismundo |first=Tarra |date=2014-10-17 |title=SC clear on gender bender: Read court decisions |url=https://newsinfo.inquirer.net/645323/sc-clear-on-gender-bender-read-court-decisions |access-date=2024-04-10 |website=INQUIRER.net |language=en |archive-date=11 February 2021 |archive-url=https://web.archive.org/web/20210211230635/https://newsinfo.inquirer.net/645323/sc-clear-on-gender-bender-read-court-decisions |url-status=live }}&lt;/ref&gt; The Philippine Supreme Court has also ruled that Filipino citizens do not have the right to legally change their sex on official documents (driver's license, passport, birth certificate, Social Security records, etc.) if they are transsexual and have undergone sexual reassignment surgery. In 2007, the Court overruled a lower court decision and found that another individual could not legally change name and sex from male to female, as it would have "serious and wide-ranging legal and public policy consequences," citing the institution of marriage in particular.&lt;ref&gt;{{Cite web |date=26 September 2013 |title=Sex change and sex reassignment – Katrina Legarda – ABS-CBN News |url=http://www.abs-cbnnews.com/views-and-analysis/06/02/09/sex-change-and-sex-reassignment-katrina-legarda |url-status=bot: unknown |archive-url=https://web.archive.org/web/20130926051337/http://www.abs-cbnnews.com/views-and-analysis/06/02/09/sex-change-and-sex-reassignment-katrina-legarda |archive-date=26 September 2013 |access-date=1 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |last=Staff |first=OutrageMag com |title=Living History: On changing one's sex by petitioning the Phl courts |date=6 September 2018 |url=https://outragemag.com/living-history-on-changing-ones-sex-by-petitioning-the-phl-courts/ |access-date=2022-09-13 |language=en-US |archive-date=13 September 2022 |archive-url=https://web.archive.org/web/20220913155323/https://outragemag.com/living-history-on-changing-ones-sex-by-petitioning-the-phl-courts/ |url-status=live }}&lt;/ref&gt;
+
+===South Korea===
+{{Main|Transgender rights in South Korea}}
+In South Korea, it is possible for transgender individuals to change their legal gender, although it depends on the decision of the judge for each case. Since the 1990s, however, it has been approved in most of the cases. The legal system in Korea does not prevent marriage once a person has changed their legal gender.&lt;ref&gt;{{Cite journal |last=Yi, Luhur Taylor, Brown |first=Horim, Winston, N.T. |date=December 2019 |title=PUBLIC OPINION OF TRANSGENDER RIGHTS in South Korea |url=https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-South-Korea-English-Dec-2019.pdf |journal=Williams Institute of Law at UCLA |access-date=20 February 2022 |archive-date=2 December 2021 |archive-url=https://web.archive.org/web/20211202132318/https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-South-Korea-English-Dec-2019.pdf |url-status=live }}&lt;/ref&gt;
+
+In 2006, the Supreme Court of Korea ruled that transsexuals have the right to alter their legal papers to reflect their reassigned sex. A trans woman can be registered, not only as female, but also as being "born as a woman".&lt;ref&gt;{{Cite web |title=In re Change of Name and Correction of Family Register, Supreme Court of South Korea (22 June 2006) |url=https://www.icj.org/sogicasebook/in-re-change-of-name-and-correction-of-family-register-supreme-court-of-south-korea-22-june-2006/ |access-date=2021-04-12 |website=International Commission of Jurists |language=en-US |archive-date=12 April 2021 |archive-url=https://web.archive.org/web/20210412172410/https://www.icj.org/sogicasebook/in-re-change-of-name-and-correction-of-family-register-supreme-court-of-south-korea-22-june-2006/ |url-status=live }}&lt;/ref&gt;
+
+While same-sex marriage is not approved by South Korean law,&lt;ref&gt;{{Cite web |date=2022-01-10 |title=South Korean Court Declines to Recognize Same-Sex Partners |url=https://www.hrw.org/news/2022/01/10/south-korean-court-declines-recognize-same-sex-partners |access-date=2022-08-12 |website=Human Rights Watch |language=en |archive-date=12 August 2022 |archive-url=https://web.archive.org/web/20220812125312/https://www.hrw.org/news/2022/01/10/south-korean-court-declines-recognize-same-sex-partners |url-status=live }}&lt;/ref&gt; a transsexual woman obtains the marital status of 'female' automatically when she marries to a man, even if she has previously been designated as "male".{{citation needed|date=May 2015}}
+
+In 2013 a court ruled that transsexuals can change their legal sex without undergoing genital surgery.&lt;ref&gt;{{Cite news |last1=Un |first1=Ji-Won |last2=Park |first2=Hyun-Jung |date=16 May 2013 |title=Landmark legal ruling for South Korean transgenders |work=The Hankyoreh |url=http://www.hani.co.kr/arti/english_edition/e_national/578323.html |url-status=live |access-date=16 May 2015 |archive-url=https://web.archive.org/web/20150518101236/http://www.hani.co.kr/arti/english_edition/e_national/578323.html |archive-date=18 May 2015}}&lt;/ref&gt;
+
+===Taiwan===
+{{Main|Transgender rights in Taiwan}}
+Transgender people in Taiwan need to undergo genital surgery (removal of primary sex organs) in order to register gender change on both the identity card and the birth certificate.&lt;ref&gt;{{Cite web |last=Ministry of Interior Affairs, R.O.C. (Taiwan) |date=2008-11-03 |title=有關戶政機關受理性別變更登記之認定要件 |trans-title=Regarding the assessment criteria for household registration authorities to accept gender change registration |url=http://www.moi.gov.tw/files/law_file/0971107-1.doc |access-date=2019-06-15}}{{Dead link|date=July 2020 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; The surgery requires approval of two psychiatrists, and the procedure is ''not'' covered by the National Health Insurance.&lt;ref&gt;{{Cite web |last=洪 |first=滋敏 |date=2016-02-16 |title=醫療進步的台灣也有變性需求, 但提到動手術為何會先想到泰國? |trans-title=Medically-advanced Taiwan has demand for sex change, but why do people think of Thailand instead? |url=https://www.thenewslens.com/feature/2016transgender/35784 |url-status=live |archive-url=https://web.archive.org/web/20200803053746/https://www.thenewslens.com/feature/2016transgender/35784 |archive-date=3 August 2020 |access-date=2019-06-15 |website=The News Lens}}&lt;/ref&gt; The government conducted public consultations on the elimination of surgery requirements back in 2015, but no concrete changes have been made since then.&lt;ref&gt;{{Cite web |last=Department of Household Registration, Ministry of Interior Affairs, R.O.C. (Taiwan) |date=May 2018 |title=性別變更認定及登記程序相關資訊 |trans-title=Related information on the assessment and registration procedure of gender change |url=https://www.ris.gov.tw/app/portal/660 |url-status=live |archive-url=https://web.archive.org/web/20190702072226/https://www.ris.gov.tw/app/portal/660 |archive-date=2 July 2019 |access-date=2019-06-13}}&lt;/ref&gt;
+
+In 2018, the government unveiled the new chip-embedded identity card, scheduled to be issued in late 2020. Gender will not be explicitly displayed on the physical card, although the second digit of national identification number reveals gender information anyway ("1" for male; "2" for female). With the inception of new identity card, a third gender option (using digit "7" as the second digit of national identification number) will be available to transgender persons alike.&lt;ref&gt;{{Cite news |last=潘 |first=姿羽 |date=2018-11-21 |title=2020年啟用晶片身分證 保留數字7給跨性別人士 |newspaper=中央社 Cna |trans-title=Chip-embedded ID to release in 2020, digit 7 reserved for transgender persons |url=https://www.cna.com.tw/news/firstnews/201811210342.aspx |url-status=live |archive-url=https://web.archive.org/web/20190621095749/https://www.cna.com.tw/news/firstnews/201811210342.aspx |archive-date=21 June 2019 |access-date=2019-06-12 |publisher=Central News Agency, Taiwan}}&lt;/ref&gt; However, it raises concerns that the practice could stigmatize transgender persons, instead of respecting their gender identity.&lt;ref&gt;{{Cite web |last=&lt;!--Not stated--&gt; |date=2018-11-23 |title=聯名新聞稿/性別團體回應國發會新制身分證意見 |trans-title=Joint press release/ gender groups' response to the National Development Council on the new identity card |url=https://www.istscare.org/2018/11/23/1144/ |url-status=live |archive-url=https://web.archive.org/web/20190122004339/http://www.istscare.org/2018/11/23/1144/ |archive-date=22 January 2019 |access-date=2019-06-12 |website=Beyond Gender (Intersex, Transgender and Transsexual People Care Association)}}&lt;/ref&gt; Details of the third-gender option policy are yet to be released.
+
+After [[same-sex marriage in Taiwan|same-sex marriage law]] became effective on 24 May 2019, transgender persons could marry a person of the same registered gender.
+
+==Europe==
+{{See also|LGBT rights in the European Union}}
+A majority of countries in Europe give transgender people the right to at least change their first name, most of which also provide a way of changing birth certificates. Several European countries recognize the right of transgender people to marry in accordance with their post-operative sex. [[Croatia]], [[Czech Republic]], Denmark, Finland, France, Germany, Ireland, Italy, the Netherlands, Norway, Poland, Portugal, Romania, Sweden, Spain, and the United Kingdom all recognize this right. The [[Convention on the recognition of decisions regarding a sex change]] provides regulations for mutual recognition of sex change decisions and has been signed by five European countries and ratified by Spain and the Netherlands.
+
+===Finland===
+{{Main|Transgender rights in Finland}}
+Before 2023, people wishing to change their legal gender in Finland had to be sterilized or be found infertile. A recommendation from the [[UN Human Rights Council]] to eliminate the sterilization requirement was rejected by the Finnish government in 2017.&lt;ref name="gsn-29aug2017"&gt;{{Cite news |last= |date=2023-03-03 |title=Finland to allow gender reassignment without sterilisation |language=en |work=Reuters |url=https://www.reuters.com/world/europe/finland-allow-gender-reassignment-without-sterilisation-2023-03-03/ |access-date=2023-05-10 |archive-date=22 March 2023 |archive-url=https://web.archive.org/web/20230322174518/https://www.reuters.com/world/europe/finland-allow-gender-reassignment-without-sterilisation-2023-03-03/ |url-status=live }}&lt;/ref&gt; In 2023, Finland changed its gender identity law in 2023 so that it no longer requires sterilization and is instead based on self-identification.&lt;ref name=":1" /&gt;&lt;ref&gt;{{Cite web |date=2023-02-01 |title=Finland ends infertility requirement for transgender people |url=https://apnews.com/article/finland-government-health-gender-96385b422c43ee8722fcec03b678d9b5 |access-date=2023-11-07 |website=AP News |language=en |archive-date=6 November 2023 |archive-url=https://web.archive.org/web/20231106135325/https://apnews.com/article/finland-government-health-gender-96385b422c43ee8722fcec03b678d9b5 |url-status=live }}&lt;/ref&gt;
+
+===France===
+{{Main|Transgender rights in France}}
+In France, the change of the first name can be done by registry office or tribunal. The change of sex can be done by tribunal. In both cases there is no need for psychiatric reports or sex reassignment surgery.&lt;ref&gt;{{Cite web |title=It's official – France adopts a new legal gender recognition procedure! {{!}} ILGA-Europe |url=https://www.ilga-europe.org/resources/news/latest-news/france-adopts-new-legal-gender-recognition-procedure |url-status=dead |archive-url=https://web.archive.org/web/20171011035531/https://www.ilga-europe.org/resources/news/latest-news/france-adopts-new-legal-gender-recognition-procedure |archive-date=11 October 2017 |access-date=2022-06-10 |website=www.ilga-europe.org}}&lt;/ref&gt;
+
+===Germany===
+{{main|Transgender rights in Germany}}
+In 1908, [[Imperial Germany]] (with the help of sexologist [[Magnus Hirschfeld]] and the [[Scientific-Humanitarian Committee|WhK]]) issued a very limited number of [[Transvestite certificate|'transvestite passes']] – ''[[transvestite]]'' at this time referring to crossdressers as well as transgender and [[gender non-conforming]] people – which enabled individuals to dress in clothes which were seen as discordant with their [[biological sex|sex]]. This ended in 1933.&lt;ref name="Gershon"&gt;{{Cite web |last=Gershon |first=Livia |date=18 November 2018 |title=Gender Identity in Weimar Germany |url=https://daily.jstor.org/gender-identity-in-weimar-germany/ |url-status=live |archive-url=https://web.archive.org/web/20190719011019/https://daily.jstor.org/gender-identity-in-weimar-germany/ |archive-date=19 July 2019 |access-date=19 July 2019 |website=JSTOR Daily}}&lt;/ref&gt;&lt;ref name="Frost"&gt;{{Cite web |last=Frost |first=Natasha |date=2 November 2017 |title=The Early 20th-Century ID Cards That Kept Trans People Safe From Harassment |url=https://www.atlasobscura.com/articles/trans-id-passes-weimar-germany-marcus-hirschfeld |url-status=live |archive-url=https://web.archive.org/web/20190805103932/https://www.atlasobscura.com/articles/trans-id-passes-weimar-germany-marcus-hirschfeld |archive-date=5 August 2019 |access-date=19 July 2019 |website=Atlas Obscura}}&lt;/ref&gt;
+
+Since 1980, Germany has a law that regulates the change of first names and legal gender. It is called {{lang|de|Gesetz über die Änderung der Vornamen und die Feststellung der Geschlechtszugehörigkeit in besonderen Fällen ([[:de:Transsexuellengesetz]] – TSG)}} (Law about the change of first name and determination of gender identity in special cases (Transsexual law – TSG)). Requirements that applicants for a change in gender were infertile post-surgery declared unconstitutional by a supreme court ruling in 2011.
+
+In April 2024, the German parliament has passed a self-identification law making it easier for individuals within Germany to legally change gender on documents. It goes into legal effect on November 1, 2024.&lt;ref&gt;{{cite web |last1=Parker |first1=Jessica |title=Germany eases gender change rules |date=13 April 2024 |url=https://www.bbc.co.uk/news/world-europe-68801392 |website=bbc.co.uk |publisher=BBC |access-date=14 April 2024 |archive-date=13 April 2024 |archive-url=https://web.archive.org/web/20240413121016/https://www.bbc.co.uk/news/world-europe-68801392 |url-status=live }}&lt;/ref&gt;
+
+===Greece===
+{{Main|Transgender rights in Greece}}
+On 10 October 2017, the [[Greek Parliament]] passed, by a comfortable majority,&lt;ref name="veconomist"&gt;{{Cite news |date=13 October 2017 |title=A row over transgender rights erupts between Greece's politicians and its clerics |newspaper=[[The Economist]] |url=https://www.economist.com/blogs/erasmus/2017/10/gender-and-greek-orthodoxy |url-status=live |archive-url=https://web.archive.org/web/20171017140541/https://www.economist.com/blogs/erasmus/2017/10/gender-and-greek-orthodoxy |archive-date=17 October 2017}}&lt;/ref&gt; the ''Legal Gender Recognition Bill'' which grants the transgender people in Greece the right to change their legal gender freely by abolishing any conditions and requirements, such as undergoing any medical interventions, sex reassignment surgeries or [[Sterilization (medicine)|sterilisation]] procedures to have their gender legally recognized on their IDs. The bill grants this right to anyone aged 17 and older. However, even underaged children between the age of 15 and 17 will have access to the legal gender recognition process, but under certain conditions, such as obtaining a certificate from a medical council.&lt;ref name="2017GenderChangeBill"&gt;{{Cite news |title=Greece improves gender recognition law but misses chance to introduce self-determination |publisher=ILGA EUROPE |url=https://www.ilga-europe.org/resources/news/latest-news/greece-gender-recognition-law-oct2017 |url-status=live |access-date=10 October 2017 |archive-url=https://web.archive.org/web/20180104130104/https://www.ilga-europe.org/resources/news/latest-news/greece-gender-recognition-law-oct2017 |archive-date=4 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |title=Greece passes gender-change law opposed by Orthodox church |work=The Guardian |url=https://www.theguardian.com/world/2017/oct/10/greece-passes-gender-change-law |url-status=live |access-date=10 October 2017 |archive-url=https://web.archive.org/web/20171010200400/https://www.theguardian.com/world/2017/oct/10/greece-passes-gender-change-law |archive-date=10 October 2017}}&lt;/ref&gt; The bill was opposed by the [[Holy Synod]] of the [[Church of Greece|Orthodox Church]], the [[Communist Party of Greece]], [[Golden Dawn (political party)|Golden Dawn]] and [[New Democracy (Greece)|New Democracy]].&lt;ref name="veconomist" /&gt;
+
+The Legal Gender Recognition Bill followed a 20 July 2016 decision of the County Court of Athens, which ruled that a person who wants to change their legal gender on the Registry Office files is no longer obliged to already have undergone a sex reassignment surgery.&lt;ref&gt;{{Cite news |title=Ελλάδα: Εφαρμόστηκε η δικαστική απόφαση για ληξιαρχική μεταβολή φύλου χωρίς το προαπαιτούμενο χειρουργικής επέμβασης |publisher=Antivirus Magazine |url=http://avmag.gr/67077/ellada-efarmostike-i-dikastiki-apofasi-gia-lixiarchiki-metavoli-filou-chorischoris-to-proapetoumeno-chirourgikis-epemvasis/ |url-status=live |access-date=11 October 2017 |archive-url=https://web.archive.org/web/20170917200457/http://avmag.gr/67077/ellada-efarmostike-i-dikastiki-apofasi-gia-lixiarchiki-metavoli-filou-chorischoris-to-proapetoumeno-chirourgikis-epemvasis/ |archive-date=17 September 2017}}&lt;/ref&gt; This decision was applied by the Court on a case-by-case basis.&lt;ref name="2016CourtRulingOnGenderChange"&gt;{{Cite news |title=Έλληνας τρανς άντρας αλλάζει στοιχεία χωρίς χειρουργική επέμβαση (Greek trans man changes information without sex reassignment surgery |publisher=10percent |url=http://www.10percent.gr/epikairotita/eidiseis/3705-2016-06-30-09-54-16.html |url-status=live |access-date=11 October 2017 |archive-url=https://web.archive.org/web/20170629035527/http://www.10percent.gr/epikairotita/eidiseis/3705-2016-06-30-09-54-16.html |archive-date=29 June 2017}}&lt;/ref&gt;
+
+===Republic of Ireland===
+{{main|Transgender rights in Ireland}}
+In Ireland, it was not possible for a transsexual person to alter their birth certificate until 2015. The High Court took a case by [[Lydia Foy]] in 2002 that was turned down, as a birth certificate was deemed to be a historical document.&lt;ref&gt;{{Cite web |title=Dr Lydia Foy's Case |url=http://www.teni.ie/page.aspx?contentid=588 |url-status=dead |archive-url=https://web.archive.org/web/20150427160724/http://teni.ie/page.aspx?contentid=588 |archive-date=27 April 2015 |access-date=16 May 2015 |publisher=Transgender Equality Network Ireland}}&lt;/ref&gt;
+
+On 15 July 2015 Ireland passed the Gender Recognition Act, which allows legal gender changes without the requirement of medical intervention or assessment by the state.&lt;ref&gt;"{{Cite web |date=16 July 2015 |title=Ireland passes bill allowing gender marker changes on legal documents |url=http://www.glaad.org/blog/ireland-passes-bill-allowing-gender-marker-changes-legal-documents |url-status=live |archive-url=https://web.archive.org/web/20150910211424/http://www.glaad.org/blog/ireland-passes-bill-allowing-gender-marker-changes-legal-documents |archive-date=10 September 2015 |access-date=12 September 2015}}&lt;/ref&gt; Such change is possible through self-determination for any person aged 18 or over resident in Ireland and registered on Irish registers of birth or adoption. Persons aged 16 to 18 years must secure a court order to exempt them from the normal requirement to be at least 18.&lt;ref&gt;{{Cite web |title=Gender Recognition Certificate |url=https://www.welfare.ie/en/Pages/GRC1.aspx |url-status=live |archive-url=https://web.archive.org/web/20151117030153/https://www.welfare.ie/en/Pages/GRC1.aspx |archive-date=17 November 2015 |access-date=13 November 2015 |publisher=Department of Social Protection}}&lt;/ref&gt; At the time, Ireland was one of four legal jurisdictions in the world where people may legally change gender through self-determination.&lt;ref&gt;{{Cite news |title=Ireland passes law allowing trans people to choose their legal gender |work=The Guardian |url=https://www.theguardian.com/world/2015/jul/16/ireland-transgender-law-gender-recognition-bill-passed |url-status=live |access-date=13 November 2015 |archive-url=https://web.archive.org/web/20151116123330/http://www.theguardian.com/world/2015/jul/16/ireland-transgender-law-gender-recognition-bill-passed |archive-date=16 November 2015}}&lt;/ref&gt;
+
+=== Malta ===
+Malta passed the 'Gender Identity, Gender Expression, and Sex Characteristics Act in 2015. This bill states that all citizens of Malta have the right to
+
+# The recognition of their gender identity;
+# The free development of their person according to their gender identity;
+# Be treated according to their gender identity and, particularly, to be identified in that way in the documents providing their identity therein; and
+# Bodily integrity and physical autonomy.&lt;ref name="Malta Transgender Bill"&gt;{{cite web |date=26 March 2015 |title=Gender Identity, Gender Expression and Sex Characteristics Act (Malta, 2015) |url=http://tgeu.org/gender-identity-gender-expression-sex-characteristics-act-malta-2015/ |url-status=live |archive-url=https://web.archive.org/web/20150407011037/http://tgeu.org/gender-identity-gender-expression-sex-characteristics-act-malta-2015/ |archive-date=7 April 2015 |access-date=6 April 2015 |website=Transgender Europe}}&lt;/ref&gt;
+
+This act protects the gender identity of a person at all times. It also states that "person shall not be required to provide proof of a surgical procedure for total or partial genital reassignment, hormonal therapies or any other psychiatric, psychological or medical treatment to make use of the right to gender identity." The act allows parents to postpone listing gender on a child's birth certificate and prohibits "non-medically necessary treatments on the sex characteristics of a person."&lt;ref name="Malta Transgender Bill" /&gt;&lt;ref name="Explanation of Malta Gender Identity Law"&gt;{{cite web |title=Gender Identity, Gender Expression And Sex Characteristics Act |url=http://socialdialogue.gov.mt/en/Public_Consultations/MSDC/Pages/Consultations/GIGESC.aspx |url-status=live |archive-url=https://web.archive.org/web/20150408011911/http://socialdialogue.gov.mt/en/Public_Consultations/MSDC/Pages/Consultations/GIGESC.aspx |archive-date=8 April 2015 |access-date=6 April 2015 |publisher=Social Dialogue Malta}}&lt;/ref&gt;
+
+===Nordic countries===
+The [[Nordic countries|Nordic]] model approach to transgender rights emphasizes the human rights of transgender people and is based on legal equality and self-identification, which has been adopted in countries such as [[Denmark]], [[Greenland]], [[Norway]] and [[Iceland]]. In 2014, the Danish Parliament voted 59–52 to remove the requirement of a mental disorder diagnosis and surgery with irreversible sterilization for transgender people who wish to change their legal gender.&lt;ref&gt;{{Cite web |date=2014-06-12 |title=Denmark becomes Europe's leading country on legal gender recognition &amp;#124; The European Parliament Intergroup on LGBTI Rights |url=http://www.lgbt-ep.eu/press-releases/denmark-becomes-europes-leading-country-on-legal-gender-recognition/ |url-status=dead |archive-url=https://web.archive.org/web/20150212093918/http://www.lgbt-ep.eu/press-releases/denmark-becomes-europes-leading-country-on-legal-gender-recognition/ |archive-date=12 February 2015 |access-date=2015-04-10 |publisher=Lgbt-ep.eu}}&lt;/ref&gt; A similar act was adopted in Greenland in 2016.&lt;ref name="Royal assent KL"&gt;{{Cite web |title=§2, Imm. 3, Qitiusumik Inunnik Nalunaarsuiffik pillugu inatsisip (CPR pillugu inatsit) allanngortinneqarneranik inatsisit Kalaallit Nunaannut atuutilersinneqarnerannik peqqussut (Greenlandic) |url=https://www.stm.dk/multimedia/A_449_23.5._for_Gr_nland_af_lov_om__ndring_af_lov_om_Det_Centrale_Personregister.pdf |access-date=2020-09-01 |archive-date=7 September 2020 |archive-url=https://web.archive.org/web/20200907234653/https://www.stm.dk/multimedia/A_449_23.5._for_Gr_nland_af_lov_om__ndring_af_lov_om_Det_Centrale_Personregister.pdf |url-status=live }}&lt;/ref&gt; In Norway the [[Gender Recognition Act (Norway)|Gender Recognition Act]], that introduced self-identification, was introduced by the [[Conservative Party (Norway)|Conservative]]-led [[Solberg's Cabinet|government]] of [[Erna Solberg]] and adopted in 2016. The act received widespread support from most political parties, the LGBTIQ+ rights movement and the feminist movement, including the [[Norwegian Association for Women's Rights]].&lt;ref name="stortinget"&gt;{{Cite web |date=29 March 2016 |title=Lov om endring av juridisk kjønn |url=https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=64488 |access-date=19 September 2022 |publisher=[[Storting|The Storting]] |archive-date=1 August 2017 |archive-url=https://web.archive.org/web/20170801202921/https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=64488 |url-status=live }}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Gender identity and sexual orientation in international and national (Norwegian) law |url=https://www.jus.uio.no/ior/english/research/projects/transgender/ |access-date=19 September 2022 |publisher=University of Oslo |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920174228/https://www.jus.uio.no/ior/english/research/projects/transgender/ |url-status=live }}&lt;/ref&gt; Transgender people are also protected against discrimination and hate speech under discrimination and criminal law. Iceland adopted the Gender Autonomy Act that introduced self-identification and a third legal gender option in 2019, which received widespread support, including from the [[Icelandic Women's Rights Association]].&lt;ref&gt;{{Cite news |title=Iceland's Gender Autonomy Act is a Step Forward for Trans and Intersex Rights |work=Iceland Review |url=https://www.icelandreview.com/news/icelands-gender-autonomy-act-is-a-step-forward-for-trans-and-intersex-rights/ |access-date=29 November 2022 |archive-date=19 June 2019 |archive-url=https://web.archive.org/web/20190619161524/https://www.icelandreview.com/news/icelands-gender-autonomy-act-is-a-step-forward-for-trans-and-intersex-rights/ |url-status=live }}&lt;/ref&gt; The women's rights movement in the Nordic countries strongly supports transgender rights. In 2021 the Icelandic Women's Rights Association in cooperation with the [[International Alliance of Women]] organized a forum on how the women's movement could counter "anti-trans voices."&lt;ref&gt;{{Cite web |date=15 March 2021 |title=Transfeminism and the Women's Movement |url=https://kvenrettindafelag.is/en/transfeminism-and-the-womens-movement/ |access-date=29 November 2022 |publisher=[[Icelandic Women's Rights Association]] |archive-date=3 October 2022 |archive-url=https://web.archive.org/web/20221003232758/https://kvenrettindafelag.is/en/transfeminism-and-the-womens-movement/ |url-status=dead }}&lt;/ref&gt; Sweden has had a gender identity law since 1972, probably the first in the world. Since 2013, neither sterilization&lt;ref&gt;{{Cite web |date=2013-02-28 |title=Sweden Drops Law Forcing Sterilization of Trans People |url=https://reproductiverights.org/sweden-drops-law-forcing-sterilization-of-trans-people/|access-date=2023-03-25 |publisher=[[Center for Reproductic Rights]]}}&lt;/ref&gt; nor other treatment is required for trans people who need to change their legal sex, but a diagnosis is required. In April 2024, Sweden passed laws coming into effect on 1 July 2025. The minimum age for changing one's legal gender is reduced to 16, and a diagnosis of gender dysphoria is no longer required. Surgical procedures  will no longer require the approval of the National Board of Health and Welfare.&lt;ref&gt;{{cite web |title=Sweden passes law lowering age to legally change gender from 18 to 16|date=17 April 2024 |url=https://www.theguardian.com/world/2024/apr/17/sweden-passes-law-lowering-age-to-legally-change-gender-from-18-to-16 |website=theguardian.com |publisher=Guardian |access-date=18 April 2024}}&lt;/ref&gt; Finland changed its gender identity law in 2023 so that it no longer requires sterilization and is instead based on self-identification.&lt;ref name=":1"&gt;{{Cite web |date=2023-03-03 |title=Finland to allow gender reassignment without sterilisation |url=https://www.reuters.com/world/europe/finland-allow-gender-reassignment-without-sterilisation-2023-03-03/ |access-date=2023-03-25 |publisher=[[Center for Reproductic Rights]] |archive-date=22 March 2023 |archive-url=https://web.archive.org/web/20230322174518/https://www.reuters.com/world/europe/finland-allow-gender-reassignment-without-sterilisation-2023-03-03/ |url-status=live }}&lt;/ref&gt;
+
+===Poland===&lt;!-- Can we please add some more English language references to this section? --&gt;
+{{main|Transgender rights in Poland}}
+[[File:Anna Grodzka.jpg|thumb|200px|[[Anna Grodzka]], the first transgender MP in Europe&lt;ref&gt;{{Cite web |title=Anna Grodzka |url=http://sejm.gov.pl/sejm7.nsf/posel.xsp?id=119 |url-status=live |archive-url=https://archive.today/20120715202715/http://sejm.gov.pl/sejm7.nsf/posel.xsp?id=119 |archive-date=15 July 2012 |access-date=17 May 2015 |publisher=SEJM |language=pl}}&lt;/ref&gt;]]
+The first milestone sentence in the case of gender shifting was given by Warsaw's Voivode Court in 1964. The court reasoned that it be possible, in face of civil procedure and acting on civil registry records, to change one's legal gender after their genital reassignment surgery had been conducted. In 1983, the Supreme Court ruled that in some cases, when the attributes of the individual's preferred gender were predominant, it is possible to change one's legal gender even before genital reassignment surgery.&lt;ref&gt;see for example: T. Smyczynski, Prawo rodzinne i opiekuńcze, C.H. Beck 2005&lt;/ref&gt;
+
+In 2011, Anna Grodzka, the first transgender MP in the history of Europe who underwent a genital reassignment operation was appointed. In the Polish Parliamentary Election 2011 she gained 19,337 votes (45,079 voted for her party in the constituency) in the City of [[Kraków]] and came sixth in her electoral district (928,914 people, voter turnout 55.75%).&lt;ref&gt;{{Cite web |title=Wybory 2011: Andrzej Duda (PIS) zdeklasował konkurentów w Krakowie |date=10 October 2011 |url=http://www.infokrakow24.pl/18374/wybory-2011-andrzej-duda-pis-zdeklasowal-konkurentow-w-krakowie/ |url-status=live |archive-url=https://web.archive.org/web/20150904000523/http://www.infokrakow24.pl/18374/wybory-2011-andrzej-duda-pis-zdeklasowal-konkurentow-w-krakowie/ |archive-date=4 September 2015 |access-date=17 May 2015 |language=pl}}&lt;/ref&gt; Grodzka was reportedly the only transgender person with ministerial responsibilities in the world since 10 November 2011 (as of 2015).&lt;ref&gt;{{Cite news |last=Hudson |first=David |date=2013-05-30 |title=Anna Grodzka: what's it like being the world's only transgender MP? |language=en-GB |work=The Guardian |url=https://www.theguardian.com/careers/anna-grodzka-worlds-only-transgender-mp |url-status=live |access-date=2017-10-11 |archive-url=https://web.archive.org/web/20171012045157/https://www.theguardian.com/careers/anna-grodzka-worlds-only-transgender-mp |archive-date=12 October 2017 |issn=0261-3077}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title="I'm not giving up": Poland's first transgender MP Anna Grodzka on her activism |url=https://www.newstatesman.com/world/europe/2015/09/i-m-not-giving-polands-first-transgender-mp-anna-grodzka-her-activism |url-status=live |archive-url=https://web.archive.org/web/20160615030500/http://www.newstatesman.com/world/europe/2015/09/i-m-not-giving-polands-first-transgender-mp-anna-grodzka-her-activism |archive-date=15 June 2016 |access-date=2017-10-11 |website=www.newstatesman.com |date=23 September 2015 |language=en}}&lt;/ref&gt;
+
+===Portugal===
+{{main|Transgender rights in Portugal}}
+The law allows adults aged 18 or older to change their legal gender without any requirements. Persons aged 16 and 17 are able to change gender with parental consent and a psychological opinion, confirming that their decision has been taken freely and without any outside pressure. The law also prohibits both direct and indirect discrimination based on gender identity, gender expression and sex characteristics, and bans non-consensual sex assignment treatment and/or surgical intervention on intersex children.&lt;ref&gt;{{Cite web |title=Lei n.º 38/2018 |url=https://dre.pt/web/guest/home/-/dre/115933863/details/maximized?serie=I&amp;day=2018-08-07&amp;date=2018-08-01 |url-status=live |archive-url=https://web.archive.org/web/20180808171917/https://dre.pt/web/guest/home/-/dre/115933863/details/maximized?serie=I&amp;day=2018-08-07&amp;date=2018-08-01 |archive-date=8 August 2018 |access-date=27 December 2018}}&lt;/ref&gt;
+
+===Romania===
+{{Main|Transgender rights in Romania}}
+In [[Romania]] it is legal for transgender people to change their first name to reflect their gender identity based on personal choice. Since 1996, it has been possible for someone who has gone through genital reassignment surgery to change their legal gender in order to reflect their post-operative sex. Transgender people then have the right to marry in accordance with their post-operative sex.&lt;ref&gt;{{Cite web |title=Transsexualismul in Romania |url=http://accept-romania.ro/lgbt-issues/trans/ |url-status=dead |archive-url=https://web.archive.org/web/20121109032154/http://accept-romania.ro/lgbt-issues/trans/ |archive-date=9 November 2012 |access-date=2 December 2012 |publisher=Accept Romania}}&lt;/ref&gt;
+
+===United Kingdom===
+{{main|Transgender rights in the United Kingdom}}
+The [[Sex Discrimination Act 1975]] made it illegal to discriminate on the ground of [[anatomical sex]] in employment, education, and the provision of housing, goods, facilities and services.&lt;ref name="equalityhumanrights.com1"&gt;{{Cite web |title=Transgender: what the law says |url=http://www.equalityhumanrights.com/your-rights/equal-rights/transgender/transgender-what-the-law-says |url-status=dead |archive-url=https://web.archive.org/web/20150318072658/http://www.equalityhumanrights.com/your-rights/equal-rights/transgender/transgender-what-the-law-says |archive-date=18 March 2015 |access-date=5 April 2015 |website=equalityhumanrights.com |publisher=Equality and Human Rights Commission}}&lt;/ref&gt; The [[Equality Act 2006]] introduced the [[Gender Equality Duty in Scotland]], which required public bodies to take seriously the threat of harassment or discrimination against transsexual people in various situations. In 2008 the Sex Discrimination (Amendment of Legislation) Regulations extended existing regulation to outlaw discrimination when providing goods or services to transsexual people. The [[Equality Act 2010]] added "gender reassignment" as a "protected characteristic".&lt;ref&gt;{{Cite web |date=2010 |title=Equality Act 2010 |url=http://www.legislation.gov.uk/ukpga/2010/15/section/7 |url-status=live |archive-url=https://web.archive.org/web/20150331072739/http://www.legislation.gov.uk/ukpga/2010/15/section/7 |archive-date=31 March 2015 |access-date=5 April 2015 |website=legislation.gov.uk |publisher=The National Archives}}&lt;/ref&gt;
+
+The [[Gender Recognition Act 2004]] effectively granted full legal recognition for binary transgender people.&lt;ref name=equalityhumanrights.com1/&gt; In contrast to some systems elsewhere in the world, the gender recognition process under the Act does not require applicants to be post-operative. There must, however, be significant medical explanation as to why an individual has not undergone sex reassignment surgery. They need only demonstrate that they have suffered [[gender dysphoria]], have lived as "your new gender" for two years, and intend to continue doing so until death.&lt;ref&gt;{{Cite web |title=Applying for a Gender Recognition Certificate |url=https://www.gov.uk/apply-gender-recognition-certificate/changing-your-gender |url-status=live |archive-url=https://web.archive.org/web/20150425102903/https://www.gov.uk/apply-gender-recognition-certificate/changing-your-gender |archive-date=25 April 2015 |access-date=5 April 2015 |website=Gov.uk |publisher=The UK Government}}&lt;/ref&gt;
+
+==North America==
+===Canada===
+{{Main|Transgender rights in Canada}}
+Jurisdiction over legal classification of sex in Canada is assigned to the provinces and territories. This includes legal change of gender classification.
+
+On 19 June 2017 [[An Act to amend the Canadian Human Rights Act and the Criminal Code|Bill C-16]], after having passed the legislative process in the [[House of Commons of Canada]] and the [[Senate of Canada]], became law upon receiving [[Royal Assent]] which put it into immediate force.&lt;ref&gt;{{Cite web |title=LEGISinfo |url=http://www.parl.gc.ca/LEGISInfo/Home.aspx?language=E&amp;ParliamentSession=42-1 |url-status=live |archive-url=https://web.archive.org/web/20160522081151/http://www.parl.gc.ca/LegisInfo/Home.aspx?language=E&amp;ParliamentSession=42-1 |archive-date=22 May 2016 |access-date=1 August 2017 |website=Parl.gc.ca}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=LEGISinfo – House Government Bill C-16 (42–1) |url=http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?Language=E&amp;Mode=1&amp;billId=8269852 |url-status=live |archive-url=https://web.archive.org/web/20161224032029/http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?Language=E&amp;Mode=1&amp;billId=8269852 |archive-date=24 December 2016 |access-date=1 August 2017 |website=Parl.gc.ca}}&lt;/ref&gt;&lt;ref name="cbc-16jun2017"&gt;{{Cite news |last=Tasker |first=John Paul |date=16 June 2017 |title=Canada enacts protections for transgender community |work=[[CBC News]] |url=http://www.cbc.ca/news/politics/transgender-rights-bill-senate-1.4163823 |url-status=live |access-date=16 June 2017 |archive-url=https://web.archive.org/web/20170617032107/http://www.cbc.ca/news/politics/transgender-rights-bill-senate-1.4163823 |archive-date=17 June 2017}}&lt;/ref&gt; The law updated the [[Canadian Human Rights Act]] and the [[Criminal Code (Canada)|Criminal Code]] to include "gender identity and gender expression" as protected grounds from discrimination, hate publications and advocating genocide. The bill also added "gender identity and expression" to the list of aggravating factors in sentencing, where the accused commits a criminal offence against an individual because of those personal characteristics. Similar transgender laws also exist in all the provinces and territories. Conversion therapy is banned in the provinces of [[Manitoba]],&lt;ref&gt;{{Cite web |title=Manitoba bans conversion therapy &amp;#124; Toronto Sun |url=https://torontosun.com/2015/05/22/manitoba-bans-conversion-therapy/wcm/828ead05-c405-4a85-8d77-526d7701f6a1 |url-status=live |archive-url=https://web.archive.org/web/20190407204907/https://torontosun.com/2015/05/22/manitoba-bans-conversion-therapy/wcm/828ead05-c405-4a85-8d77-526d7701f6a1 |archive-date=7 April 2019 |access-date=28 September 2018}}&lt;/ref&gt; [[Ontario]],&lt;ref&gt;{{Cite web |date=4 June 2015 |title=Ontario becomes first province to ban 'conversion therapy' for LGBTQ children |url=https://www.thestar.com/news/canada/2015/06/04/ontario-becomes-first-province-to-ban-conversion-therapy-for-lgbtq-children.html |url-status=live |archive-url=https://web.archive.org/web/20190407200400/https://www.thestar.com/news/canada/2015/06/04/ontario-becomes-first-province-to-ban-conversion-therapy-for-lgbtq-children.html |archive-date=7 April 2019 |access-date=28 September 2018 |website=[[Toronto Star]]}}&lt;/ref&gt; and [[Nova Scotia]],&lt;ref&gt;{{Cite web |title=Archived copy |url=https://www.cbc.ca/news/canada/nova-scotia/conversion-therapy-ban-lgbtq-bill-manitoba-ontario-1.4838311 |url-status=live |archive-url=https://web.archive.org/web/20190518140722/https://www.cbc.ca/news/canada/nova-scotia/conversion-therapy-ban-lgbtq-bill-manitoba-ontario-1.4838311 |archive-date=18 May 2019 |access-date=28 September 2018}}&lt;/ref&gt; and the city of [[Vancouver]],&lt;ref&gt;{{Cite web |date=6 June 2018 |title=Vancouver council votes unanimously to ban conversion therapy |url=https://www.thestar.com/vancouver/2018/06/06/vancouver-bans-conversion-therapy.html |url-status=live |archive-url=https://web.archive.org/web/20190416201224/https://www.thestar.com/vancouver/2018/06/06/vancouver-bans-conversion-therapy.html |archive-date=16 April 2019 |access-date=28 September 2018 |website=[[Toronto Star]]}}&lt;/ref&gt; though the Nova Scotia law includes a clause which allows "mature minors" between the ages of 16 and 18 to consent.
+
+===Mexico===
+{{Main|Transgender rights in Mexico}}
+Jurisdiction over legal classification of sex in Mexico is assigned to the states and Mexico City. This includes legal change of gender classification.
+
+On 13 March 2004, amendments to the Mexico City Civil Code that allow [[transgender|transgender people]] to change their gender and name on their birth certificates, took effect.&lt;ref name="transgender"&gt;{{Cite web |title="Mexico: Mexico City Amends Civil Code to Include Transgender Rights", International Gay &amp; Lesbian Human Rights Commission, 15 June 2004 |url=http://www.iglhrc.org/content/mexico-mexico-city-amends-civil-code-include-transgender-rights |url-status=live |archive-url=https://web.archive.org/web/20150703175406/http://iglhrc.org/content/mexico-mexico-city-amends-civil-code-include-transgender-rights |archive-date=3 July 2015 |access-date=20 August 2017}}&lt;/ref&gt;&lt;ref name="globalrights.org"&gt;[http://www.globalrights.org/site/DocServer/LGBT_ICCPR_Shadow_Report_Mexico.pdf "The Violations of the Rights of Lesbian, Gay, Bisexual and Transgender Persons in Mexico: A Shadow Report", submitted to the United Nations Human Rights Committee by The International Human Rights Clinic, Human Rights Program of Harvard Law School; Global Rights; and the International Gay and Lesbian Human Rights Commission, March 2010, footnote 77, page 13] {{webarchive|url=https://web.archive.org/web/20120131114813/http://www.globalrights.org/site/DocServer/LGBT_ICCPR_Shadow_Report_Mexico.pdf |date=31 January 2012 }}&lt;/ref&gt;
+
+In September 2008, the PRD-controlled Mexico City Legislative Assembly approved a law, in a 37–17 vote, making gender changes easier for transgender people.&lt;ref name="advocate"&gt;[http://www.advocate.com/news/2008/09/03/mexico-city-approves-transgender-name-changes Mexico City Approves Easier Transgender Name Changes] {{webarchive|url=https://web.archive.org/web/20161010095234/http://www.advocate.com/news/2008/09/03/mexico-city-approves-transgender-name-changes |date=10 October 2016 }}&lt;/ref&gt;
+
+On 13 November 2014, the Legislative Assembly of Mexico City unanimously (46–0) approved a gender identity law. The law makes it easier for transgender people to change their legal gender.&lt;ref name="genderidentity"&gt;{{in lang|es}} [https://www.sdpnoticias.com/gay/2014/11/13/aprueban-reforma-a-la-ley-de-identidad-de-genero-en-la-ciudad-de-mexico Aprueban reforma a la ley de identidad de género en la Ciudad de México] {{webarchive|url=https://web.archive.org/web/20170728200936/https://www.sdpnoticias.com/gay/2014/11/13/aprueban-reforma-a-la-ley-de-identidad-de-genero-en-la-ciudad-de-mexico |date=28 July 2017 }}&lt;/ref&gt; Under the new law, they simply have to notify the Civil Registry that they wish to change the gender information on their birth certificates. [[Sex reassignment surgery]], psychological therapies or any other type of diagnosis are no longer required. The law took effect in early 2015. On 13 July 2017, the Michoacán Congress approved (22–1) a gender identity law.&lt;ref name="Michoacan1"&gt;{{in lang|es}} [http://desastre.mx/mexico/aprueban-ley-de-identidad-de-genero-en-michoacan/ Aprueban Ley de Identidad de Género en Michoacán] {{webarchive|url=https://web.archive.org/web/20170729001426/http://desastre.mx/mexico/aprueban-ley-de-identidad-de-genero-en-michoacan/ |date=29 July 2017 }}&lt;/ref&gt; Nayarit approved (23–1) a similar law on 20 July 2017.&lt;ref name="Nayarit1"&gt;{{in lang|es}} [http://almomento.mx/aprueba-congreso-nayarit-ley-identidad-genero/ Aprueba Congreso de Nayarit ley de identidad de género] {{Webarchive|url=https://web.archive.org/web/20170725183348/http://almomento.mx/aprueba-congreso-nayarit-ley-identidad-genero/ |date=25 July 2017 }}&lt;/ref&gt;
+
+===United States===
+{{Main|Transgender rights in the United States}}
+On 15 June 2020, the [[Supreme Court of the United States]] (SCOTUS) ruled in [[Bostock v. Clayton County]] that for the purposes of Title VII of the [[Civil Rights Act of 1964]], discrimination on the basis of transgender status is also discrimination because of sex.
+
+Regardless of the legal sex classification determined by a state or territory, the federal government may make its own determination of sex classification for federally issued documents. For instance, the U.S. Department of State requires a medical certification of "appropriate clinical treatment for transition to the updated gender (male or female)" to amend the gender designation on a U.S. passport, but sex reassignment surgery is not a requirement to obtain a U.S. passport in the updated gender.&lt;ref&gt;[https://travel.state.gov/content/passports/en/passports/information/gender.html "Gender Designation Change", ''Bureau of Consular Affairs, U.S. Department of State''] {{webarchive|url=https://web.archive.org/web/20171102171335/https://travel.state.gov/content/passports/en/passports/information/gender.html |date=2 November 2017 }}&lt;/ref&gt; This leaves transgender Americans subject to inconsistent regulations when seeking surgery and hormone treatment.&lt;ref&gt;{{Cite journal |last1=Funk, Jaydi |last2=Funk, Steven |last3=Whelan, Sylvia Blaise |date=2019 |title=Trans*+ and Intersex Representation and Pathologization: An Interdisciplinary Argument for Increased Medical Privacy |url=https://lawcat.berkeley.edu/record/1128893 |url-status=live |journal=Berkeley Journal of Gender, Law &amp; Justice |language=en |volume=34 |issue=1 |doi=10.15779/z380c4sk4f |archive-url=https://web.archive.org/web/20200126233452/https://lawcat.berkeley.edu/record/1128893 |archive-date=26 January 2020 |access-date=26 January 2020}}&lt;/ref&gt;
+
+As of November 27th, 2024, 48 anti-trans bills have been passed across 17 states, while 84 are being considered at the federal level, and a total of 559 have been considered this year. [https://www.aclu.org/legislative-attacks-on-lgbtq-rights-2024] These bills aim to re-define sex, restrict access to life saving [[Transgender health care|medical care]], to education, to sports, to bathrooms, and to marriage and military positions. "2024 is the fifth consecutive record-breaking year for total bills considered. This follows the unprecedented surge in 2023, which tripled the record set the year before." [https://translegislation.com] Most infamous of the bills passed is Florida's "[[Florida Parental Rights in Education Act|Don't Say Gay]]" law, with a stated purpose to "prohibit classroom discussion about sexual orientation or gender identity." Missouri state representative [[Jamie Gragg]] introduced [https://documents.house.mo.gov/billtracking/bills241/hlrbillspdf/5874H.01I.pdf a bill] that would allow a teacher or school counselor to be charged with a felony if they support a social transition. Supporting or encouraging a social transition can be as simple as using preferred names or pronouns. The teacher or school counselor would also need to register as a sex offender if found guilty. Many members of the LGBTQ community suspect that the impending Trump administration and [[Republican Party (United States)|GOP]] [[Government trifecta|trifecta]] will only further the threats to their livelihoods. 
+
+==South America==
+South America has some of the most progressive legislation in the world regarding transgender rights. Bolivia and Ecuador are among the few countries worldwide that offer constitutional protection against discrimination based on gender identity. Transgender persons are allowed to change their name and gender on legal documents in a majority of countries. Argentina, Brazil, Bolivia, Chile, Colombia, Ecuador and Uruguay allow individuals to change their name and gender without undergoing medical treatment, sterilization or judicial permission. In [[Peru]] a judicial order is required.&lt;ref&gt;{{Cite magazine |date=10 August 2015 |title=Latin America's Transgender-Rights Leaders |url=http://www.newyorker.com/news/news-desk/latin-americas-transgender-rights-leadership |url-status=live |magazine=The New Yorker |archive-url=https://web.archive.org/web/20161022165642/http://www.newyorker.com/news/news-desk/latin-americas-transgender-rights-leadership |archive-date=22 October 2016}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=7 September 2016 |title=Bolivia's transgender citizens celebrate new documents |url=https://www.bbc.com/news/world-latin-america-37295906 |url-status=live |archive-url=https://web.archive.org/web/20161022162212/http://www.bbc.com/news/world-latin-america-37295906 |archive-date=22 October 2016 |website=BBC News}}&lt;/ref&gt;
+
+===Argentina===
+{{main|Transgender rights in Argentina}}
+In 2012 the Argentine Congress passed the [[Gender Identity Law (Argentina)|Ley de Género (Gender Law)]],&lt;ref&gt;{{Cite web |date=16 July 2014 |title=Argentina Gender Identity Law – TGEU – transgender europe |url=http://www.tgeu.org/Argentina_Gender_Identity_Law |url-status=dead |archive-url=https://web.archive.org/web/20140716162710/http://www.tgeu.org/Argentina_Gender_Identity_Law |archive-date=16 July 2014 |access-date=1 August 2017}}&lt;/ref&gt; which allows individuals over 18 to change the gender marker in their DNI (national ID) on the basis of a written declaration only. Argentina thus became the first country to adopt a gender recognition policy based entirely on individual autonomy, without any requirement for third party diagnosis, surgeries or obstacles of any type.
+
+===Bolivia===
+{{Main|Transgender rights in Bolivia}}
+The Gender Identity law allows individuals over 18 to legally change their name, gender and photography on legal documents.  No surgeries or judicial order are required. The law took effect on 1 August 2016.&lt;ref&gt;{{Cite web |title=En un mes 50 transgénero y transexuales cambiaron su identidad en Bolivia |date=30 August 2016 |url=http://eju.tv/2016/08/en-un-mes-50-transgenero-y-transexuales-cambiaron-su-identidad-en-bolivia/ |url-status=live |archive-url=https://web.archive.org/web/20160831150552/http://eju.tv/2016/08/en-un-mes-50-transgenero-y-transexuales-cambiaron-su-identidad-en-bolivia/ |archive-date=31 August 2016 |access-date=5 September 2016 |language=es-LA}}&lt;/ref&gt;
+
+===Brazil===
+{{Main|Transgender rights in Brazil}}
+In 1971, [[Roberto Farina Case|Dr. Roberto Farina]] performed the first male-to-female gender-affirming surgery in Brazil.&lt;ref&gt;{{Cite web |last=Nogueira |first=André |date=2019-10-08 |title=Primeira cirurgia de mudança de gênero no Brasil foi condenada pela Justiça |url=https://aventurasnahistoria.uol.com.br/noticias/reportagem/primeira-cirurgia-mudanca-de-genero-no-brasil-foi-condenada-pela-justica.phtml |access-date=2023-12-27 |website=Aventuras na História |language=pt-br |archive-date=27 December 2023 |archive-url=https://web.archive.org/web/20231227194109/https://aventurasnahistoria.uol.com.br/noticias/reportagem/primeira-cirurgia-mudanca-de-genero-no-brasil-foi-condenada-pela-justica.phtml |url-status=live }}&lt;/ref&gt;
+
+Changing legal gender assignment in Brazil is legal according to the [[Superior Court of Justice (Brazil)|Superior Court of Justice of Brazil]], as stated in a decision rendered on 17 October 2009.&lt;ref&gt;[http://g1.globo.com/Noticias/Brasil/0,,MUL1342579-5598,00.html Transgenders can change their name, as decided by the Supreme Court of Justice {{in lang|pt}}] {{webarchive|url=https://web.archive.org/web/20140810204602/http://g1.globo.com/Noticias/Brasil/0,,MUL1342579-5598,00.html |date=10 August 2014 }}&lt;/ref&gt;
+
+And in 2008, Brazil's public health system started providing free sexual reassignment operations in compliance with a court order. Federal prosecutors had argued that sexual reassignment surgery was covered under a [[Constitution of Brazil|constitutional]] clause guaranteeing [[medical care]] as a [[Fundamental rights|basic right]].&lt;ref&gt;[http://noticias.terra.com.br/brasil/interna/0,,OI2892454-EI715,00-Mudanca+de+sexo+pelo+SUS+comeca+no+fim+do+ano.html Sex-change in Brazil {{in lang|pt}}] {{webarchive|url=https://web.archive.org/web/20160303220651/http://noticias.terra.com.br/brasil/interna/0,,OI2892454-EI715,00-Mudanca+de+sexo+pelo+SUS+comeca+no+fim+do+ano.html |date=3 March 2016 }}&lt;/ref&gt;
+
+Patients must be at least 18 years old and diagnosed as transsexuals with no other [[personality disorder]]s, and must undergo [[psychological evaluation]] with a multidisciplinary team for at least two years, begins with 16 years old.
+The national average is of 100 surgeries per year, according to the Ministry of Health of Brazil.&lt;ref&gt;[http://www.athosgls.com.br/noticias_visualiza.php?contcod=34625 Brazil to provide free sex-change operations {{in lang|en}}] {{webarchive|url=https://web.archive.org/web/20130424101013/http://athosgls.com.br/noticias_visualiza.php?contcod=34625 |date=24 April 2013 }}&lt;/ref&gt;
+
+In December 2020, a bill was introduced that defines biological sex as the only factor in determining gender.
+
+===Chile===
+{{Main|Transgender rights in Chile}}
+Chile bans all discrimination and hate crimes based on gender identity and gender expression. The Gender Identity Law, in effect since 2019, recognizes the right to self-perceived gender identity, allowing people over 14 years to change their name and gender on all official documents without prohibitive requirements.&lt;ref&gt;{{Cite web |date=30 December 2019 |title=Chile transgender rights law takes effect |url=https://www.washingtonblade.com/2019/12/30/chile-transgender-rights-law-takes-effect/ |url-status=live |archive-url=https://web.archive.org/web/20200101132700/https://www.washingtonblade.com/2019/12/30/chile-transgender-rights-law-takes-effect/ |archive-date=1 January 2020 |access-date=2 January 2020 |website=Washington Blade: Gay News, Politics, LGBT Rights}}&lt;/ref&gt; Since 1974, the change of gender had been possible in the country through a judicial process.
+
+===Colombia===
+{{Main|Transgender rights in Colombia}}
+Since 2015, a Colombian person may change their legal gender and name manifesting their solemn will before a notary, no surgeries or judicial order required.&lt;ref&gt;{{Cite web |title=DECRETO 1227 DE 2015 |url=https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30019850#:~:text=DECRETO%201227%20DE%202015&amp;text=por%20el%20cual%20se%20adiciona,el%20Registro%20del%20Estado%20Civil. |access-date=16 November 2022 |archive-date=16 November 2022 |archive-url=https://web.archive.org/web/20221116040217/https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30019850#:~:text=DECRETO%201227%20DE%202015&amp;text=por%20el%20cual%20se%20adiciona,el%20Registro%20del%20Estado%20Civil. |url-status=live }}&lt;/ref&gt;
+
+===Ecuador===
+{{Main|Transgender rights in Ecuador}}
+Since 2016, Ecuadorians are allowed to change their birth name and gender identity (instead of the sex assigned at birth) on legal documents and national ID cards. The person who wants to change the word "sex" for "gender" in the identity card shall present two witnesses to accredit the self-determination of the applicant.&lt;ref&gt;{{Cite web |title=LEY ORGÁNICA DE GESTIÓN DE LA IDENTIDAD Y DATOS CIVILES |url=http://www.asambleanacional.gob.ec/es/system/files/ro_ley_organica_de_gestion_de_la_identidad_y_datos_civiles_ro_684_2do_supl_04-02-2015.pdf |url-status=live |archive-url=https://web.archive.org/web/20160806145113/http://www.asambleanacional.gob.ec/es/system/files/ro_ley_organica_de_gestion_de_la_identidad_y_datos_civiles_ro_684_2do_supl_04-02-2015.pdf |archive-date=6 August 2016 |access-date=5 September 2016 |website=Asambleanacional.gob.ec |language=es-LA}}&lt;/ref&gt;
+
+===Peru===
+{{Main|Transgender rights in Peru}}
+In Peru transgender persons can change their legal gender and name after complying with certain requirements that may become psychological and psychiatric evaluations, a medical intervention or sex reassignment surgery. A judicial permission is required.
+In November 2016, the Constitutional Court of Peru determined that transsexuality is not a pathology and recognized the right to gender identity. However, favorable judicial decisions on gender change have been appealed.&lt;ref&gt;{{Cite web |date=31 January 2018 |title=Reniec en desacuerdo con cambio de sexo en DNI, pese a orden de Juzgado en Arequipa |url=https://peru21.pe/peru/arequipa-reniec-desacuerdo-cambio-sexo-dni-393934-noticia/ |url-status=live |archive-url=https://web.archive.org/web/20200102045401/https://peru21.pe/peru/arequipa-reniec-desacuerdo-cambio-sexo-dni-393934-noticia/ |archive-date=2 January 2020 |access-date=2 January 2020 |website=Peru21 |language=es}}&lt;/ref&gt;
+
+===Uruguay===
+{{Main|Transgender rights in Uruguay}}
+Since 2019, transgender people can self-identify their gender and update their legal name, without approval from a judge after the approval of the Comprehensive Law for Trans Persons. The new law creates scholarships for trans people to access education, a monthly pension for transgender people born before 1975 and also requires government services to employ a minimum of 1% of the transgender population. It also now acknowledges the self-identification of non-binary people.&lt;ref&gt;{{Cite web |date=19 October 2018 |title=Trans people in Uruguay can now self-identify their gender, without surgery |url=https://www.gaystarnews.com/article/uruguay-transgender-rights/#gs.3e8cX3A0 |url-status=live |archive-url=https://web.archive.org/web/20190809033252/https://www.gaystarnews.com/article/uruguay-transgender-rights/#gs.3e8cX3A0 |archive-date=9 August 2019 |access-date=2 January 2020 |website=Gay Star News |language=en-gb}}&lt;/ref&gt;
+
+In October 2009, lawmakers passed the Gender identity law allowing transgender people over the age of 18 to change their name and legal gender on all official documents. Surgery, diagnosis or hormone therapy were not a requirement but a judicial permission was required.&lt;ref&gt;{{Cite web |title=Ley 18.620 DERECHO A LA IDENTIDAD DE GÉNERO Y AL CAMBIO DE NOMBRE Y SEXO EN DOCUMENTOS IDENTIFICATORIOS |url=https://legislativo.parlamento.gub.uy/temporales/leytemp6280254.htm |access-date=5 September 2016 |website=legislativo.parlamento.gub.uy |language=es-LA}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+==Oceania==
+===Australia===
+{{main|Transgender rights in Australia}}
+Birth certificates are regulated by the [[States and territories of Australia|states and territories]], whereas marriage and passports are matters for federal law. All Australian jurisdictions now recognise the affirmed sex of an individual, with varying requirements.&lt;ref&gt;{{Cite web |title=BIRTHS, DEATHS AND MARRIAGES REGISTRATION ACT 1995 – SECT 32B Application to alter register to record change of sex |url=http://www5.austlii.edu.au/au/legis/nsw/consol_act/bdamra1995383/s32b.html |url-status=live |archive-url=https://web.archive.org/web/20150402141253/http://www5.austlii.edu.au/au/legis/nsw/consol_act/bdamra1995383/s32b.html |archive-date=2 April 2015 |access-date=26 July 2015 |website=5.austlii.edu.au}}&lt;/ref&gt; In the landmark case ''New South Wales Registrar of Births, Deaths and Marriages v Norrie'' [2014] the High Court of Australia held that the ''Births Deaths and Marriages Registration Act 1995'' (NSW) did not require a person having undergone genital reassignment surgery to identify as either a man or a woman. The ruling permits a gender registration of "non-specific".&lt;ref&gt;{{Cite web |date=2 April 2014 |title=NSW Registrar of Births, Deaths and Marriages v Norrie [2014] HCA 11 (2 April 2014) |url=http://www.austlii.edu.au/au/cases/cth/HCA/2014/11.html |url-status=live |archive-url=https://web.archive.org/web/20150506005726/http://www.austlii.edu.au/au/cases/cth/HCA/2014/11.html |archive-date=6 May 2015 |access-date=16 May 2015 |publisher=High Court of Australia}}&lt;/ref&gt;
+
+Passports are issued in the preferred gender, without requiring a change to birth certificates or citizenship certificates.  A letter is needed from a medical practitioner which certifies that the person has had or is receiving appropriate treatment.&lt;ref&gt;{{Cite web |title=Sex and Gender Diverse Passport Applicants |url=https://www.passports.gov.au/web/sexgenderapplicants.aspx |url-status=dead |archive-url=https://web.archive.org/web/20111019035814/https://www.passports.gov.au/web/sexgenderapplicants.aspx |archive-date=19 October 2011 |access-date=26 July 2015 |website=Passports.gov.au}}&lt;/ref&gt;
+
+Australia was the only country in the world to require the involvement and approval of the judiciary ([[Family Court of Australia]]) with respect to allowing transgender children access to [[Hormone replacement therapy (transgender)|hormone replacement therapy]].&lt;ref name="abc-riskinglives"&gt;{{Cite news |last=Cohen |first=Janine |date=15 August 2016 |title=Transgender teenagers 'risking lives' buying hormones on black market |agency=Australian Broadcasting Corporation |url=http://www.abc.net.au/news/2016-08-15/transgender-teens-buying-black-market-hormones/7722084 |url-status=live |access-date=7 September 2016 |archive-url=https://web.archive.org/web/20160908071445/http://www.abc.net.au/news/2016-08-15/transgender-teens-buying-black-market-hormones/7722084 |archive-date=8 September 2016}}&lt;/ref&gt; This ended in late 2017, when the Family Court issued a landmark ruling establishing that, in cases where there is no dispute between a child, their parents, and their treating doctors, hormone treatment can be prescribed without court permission.&lt;ref name="30NovFamilyCourtRuling"&gt;{{Cite web |last=Lane Sainty |date=30 November 2017 |title=Transgender Teens Can Now Access Treatment Without Going To Court, Following Landmark Decision |url=https://www.buzzfeed.com/lanesainty/transgender-teens-can-now-access-treatment-without-going-to |url-status=live |archive-url=https://web.archive.org/web/20171211052448/https://www.buzzfeed.com/lanesainty/transgender-teens-can-now-access-treatment-without-going-to |archive-date=11 December 2017 |website=BuzzFeed}}&lt;/ref&gt;
+
+===Fiji===
+{{Main|Transgender rights in Fiji}}
+The [[2013 Constitution of Fiji|Constitution]] of Fiji which was promulgated in September 2013 includes a provision banning discrimination based on sexual orientation and gender identity or expression.&lt;ref name="constitution"&gt;[http://www.fiji.gov.fj/getattachment/8e981ca2-1757-4e27-88e0-f87e3b3b844e/Click-here-to-download-the-Fiji-Constitution.aspx CONSTITUTION OF THE REPUBLIC OF FIJI] {{webarchive|url=https://web.archive.org/web/20160206063023/http://www.fiji.gov.fj/getattachment/8e981ca2-1757-4e27-88e0-f87e3b3b844e/Click-here-to-download-the-Fiji-Constitution.aspx |date=6 February 2016 }}&lt;/ref&gt;&lt;ref&gt;{{Cite news |date=6 September 2013 |title=President signs long-awaited Fiji constitution into law |work=ABC News |url=http://www.abc.net.au/news/2013-09-06/fiji-constitution-assent/4941404 |url-status=live |access-date=27 July 2015 |archive-url=https://web.archive.org/web/20150716020129/http://www.abc.net.au/news/2013-09-06/fiji-constitution-assent/4941404 |archive-date=16 July 2015}}&lt;/ref&gt;
+
+===Guam===
+{{Main|Transgender rights in Guam}}
+Gender changes are legal in [[Guam]].&lt;ref&gt;[http://www.transequality.org/documents/state/guam Guam] {{webarchive|url=https://web.archive.org/web/20160915023912/http://www.transequality.org/documents/state/guam |date=15 September 2016 }} ''National Center for Transgender Equality''&lt;/ref&gt; In order for transgender people to change their legal gender in Guam, they must provide the Office of Vital Statistics a sworn statement from a physician that they have undergone [[sex reassignment surgery]]. The Office will subsequently amend the birth certificate of the requester.
+
+===New Zealand===
+{{main|Transgender rights in New Zealand}}
+Currently, the [[Human Rights Act 1993]] does not explicitly prohibit discrimination on the basis of gender. Whilst it is believed that gender identity is protected under the laws preventing discrimination on the basis of either sex or sexual orientation,&lt;ref&gt;Human Rights Act 1993 s21(1)(m)&lt;/ref&gt; it is not known how this applies to those who have not had, or will not have, gender reassignment surgery.&lt;ref name="Human Rights Commission 2004. P.92"&gt;Human Rights Commission: "Human Rights in New Zealand Today – New Zealand Action Plan for Human Rights. August 2004. P.92&lt;/ref&gt;
+
+===Northern Mariana Islands===
+{{main|Transgender rights in the Northern Mariana Islands}}
+Transgender persons in the Northern Mariana Islands may change their legal gender following [[sex reassignment surgery]] and a name change. The ''Vital Statistics Act of 2006'', which took effect in March 2007, states that: "Upon receipt of a certified copy of an order of the CNMI Superior Court indicating the sex of an individual born in the CNMI has been changed by surgical procedure and whether such individual's name has been changed, the certificate of birth of such individual shall be amended as prescribed by regulation."&lt;ref&gt;{{cite act |title= Vital Statistics Act of 2006 |type= Public Law |number= 15-50 |language= en |date= 2006 |url= http://www.cnmilaw.org/pdf/public_laws/15/pl15-50.pdf |access-date= 12 August 2015 |url-status= live |archive-url= https://web.archive.org/web/20150923205038/http://www.cnmilaw.org/pdf/public_laws/15/pl15-50.pdf |archive-date= 23 September 2015}}&lt;/ref&gt;
+
+===Samoa===
+{{Main|Transgender rights in Samoa}}
+In Samoa crimes motivated by sexual orientation and/or gender identity are criminalized under Section 7(1)(h) of the ''Sentencing Act 2016''.&lt;ref&gt;[http://www.palemene.ws/new/wp-content/uploads/01.Acts/Acts%202016/Sentencing-Act-2016-Eng.pdf Sentencing Act 2016] {{webarchive|url=https://web.archive.org/web/20170829081144/http://www.palemene.ws/new/wp-content/uploads/01.Acts/Acts%202016/Sentencing-Act-2016-Eng.pdf |date=29 August 2017 }}&lt;/ref&gt;
+
+==Table and world map of legal status==
+[[File:Laws concerning gender identity-expression by country or territory.svg|thumb|right|261px|Laws concerning gender identity-expression by country or territory in 2015
+{{legend|#800080|Legal identity change, surgery not required}}
+{{legend|#ff00ffff|Legal identity change, surgery required}}
+{{legend|#FF0000|No legal identity change}}
+{{legend|#CCCCCC|Unknown/Ambiguous}}]]
+Part of the data is provided by [[Gay-friendly|Spartacus Gay Travel Index]] and highlights the legal status of gender identity change and expression.&lt;ref&gt;{{cite web|last=Hoppe|first=Sascha|title=Spartacus Gay Travel Index 2023|url=https://spartacus.gayguide.travel/blog/spartacus-gay-travel-index-2023/|access-date=31 March 2023|website=Spartacus Gay Travel Blog|date=8 March 2023|archive-date=31 March 2023|archive-url=https://web.archive.org/web/20230331134027/https://spartacus.gayguide.travel/blog/spartacus-gay-travel-index-2023/|url-status=dead}}&lt;/ref&gt;
+
+{|class="wikitable collapsible" style=line-height:1.3
+|+Legend
+|{{yes|Legal}}
+|-
+|{{yes2|Permitted, with complex legality or practice}}
+|-
+|{{partial|Varies by subdivision}}
+|-
+|{{no|Prohibited}}
+|-
+|{{n/a|Unknown or unclear}}
+|}
+
+{| class="wikitable sortable collapsible" style=line-height:1.3
+|+class=nowrap|Legal status of transgender people
+|-
+!Country !! style=width:6em|Status
+|-
+| {{flag|Abkhazia}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Afghanistan}}
+| {{no|Prohibited}}
+|-
+| {{flag|Albania}}
+| {{no|Prohibited}}
+|-
+| {{flag|Algeria}}
+| {{no|Prohibited}}
+|-
+| {{flag|American Samoa}}
+| {{yes|Legal}}
+|-
+| {{flag|Andorra}}
+| {{yes|Legal}}
+|-
+| {{flag|Angola}}
+| {{yes2|Permitted}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Argentina}}
+| {{yes|Legal}}
+|-
+| {{flag|Armenia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Aruba}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Australia}}
+| {{yes|Legal in all 8 jurisdictions}}&lt;ref&gt;{{cite web | url=https://www.pedestrian.tv/news/the-equality-bill-nsw/ | title=NSW Finally Passes Bill Allowing Trans People to Change Birth Certificates Without Surgery | date=17 October 2024 }}&lt;/ref&gt;
+|-
+| {{flag|Austria}}
+| {{yes|Legal}}
+|-
+| {{flag|Azerbaijan}}
+| {{no|Prohibited}}
+|-
+| {{flag|Bahamas}}
+| {{no|Prohibited}}
+|-
+| {{flag|Bahrain}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Bangladesh}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Barbados}}
+| {{no|Prohibited}}
+|-
+| {{flag|Belarus}}
+| {{no|Prohibited (Defacto)}}&lt;ref&gt;{{cite news |author1=((International Centre for Civil Initiatives)) |title=The monitoring of discrimination of transgender people in Belarus |url=https://news.house/40724 |work=Our House: Belarus |date=22 October 2019 |location=Republic of Belarus |access-date=26 September 2023 |archive-date=28 September 2023 |archive-url=https://web.archive.org/web/20230928071114/https://news.house/40724 |url-status=live }}&lt;/ref&gt;
+|-
+| {{flag|Belgium}}
+| {{yes|Legal}}
+|-
+| {{flag|Belize}}
+| {{no|Prohibited}}
+|-
+| {{flag|Benin}}
+| {{no|Prohibited}}
+|-
+| {{flag|Bermuda}}
+| {{no|Prohibited}}
+|-
+| {{flag|Bhutan}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Bolivia}}
+| {{yes|Legal}}
+|-
+| {{flag|Bonaire}}
+| {{yes|Legal}}
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Botswana}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Brazil}}
+| {{yes|Legal}}
+|-
+| {{flag|British Indian Ocean Territory}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|British Virgin Islands}}
+| {{no|Prohibited}}
+|-
+| {{flag|Brunei}}
+| {{no|Prohibited}}
+|-
+| {{flag|Bulgaria}}
+| {{no|Prohibited}}&lt;ref&gt;{{cite web|title=Тълкувателно решение 2/2020 - гр. София, 20.02.2023 г.|url=http://www.vks.bg/talkuvatelni-dela-osgk/vks-osgk-tdelo-2020-2-reshenie.pdf|website=Върховен касационен съд|access-date=26 September 2023|archive-date=30 September 2023|archive-url=https://web.archive.org/web/20230930221025/https://www.vks.bg/talkuvatelni-dela-osgk/vks-osgk-tdelo-2020-2-reshenie.pdf|url-status=live}}&lt;/ref&gt;
+|-
+| {{flag|Burkina Faso}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Burundi}}
+| {{no|Prohibited}}
+|-
+| {{flag|Cabo Verde}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Cambodia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Cameroon}}
+| {{no|Prohibited}}
+|-
+| {{flag|Canada}}
+| {{yes|Legal}}
+|-
+| {{flag|Cayman Islands}}
+| {{no|Prohibited}}
+|-
+| {{flag|Central African Republic}}
+| {{no|Prohibited}}
+|-
+| {{flag|Chad}}
+| {{no|Prohibited}}
+|-
+| {{flag|Chile}}
+| {{yes|Legal}}
+|-
+| {{flag|China}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Colombia}}
+| {{yes|Legal}}
+|-
+| {{flag|Comoros}}
+| {{no|Prohibited}}
+|-
+| {{flag|Congo}}
+| {{no|Prohibited}}
+|-
+| {{flag|Cook Islands}}
+| {{no|Prohibited}}
+|-
+| {{flag|Costa Rica}}
+| {{yes|Legal}}
+|-
+| {{flag|Croatia}}
+| {{yes|Legal}}
+|-
+| {{flag|Cuba}}
+| {{yes|Legal}}
+|-
+| {{flag|Curaçao}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Cyprus}}
+| {{yes|Legal}}
+|-
+| {{flag|Czech Republic}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Prohibited}}
+|-
+| {{flag|Denmark}}
+| {{yes|Legal}}
+|-
+| {{flag|Djibouti}}
+| {{no|Prohibited}}
+|-
+| {{flag|Dominica}}
+| {{no|Prohibited}}
+|-
+| {{flag|Dominican Republic}}
+| {{no|Prohibited}}
+|-
+| {{flag|East Timor}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Ecuador}}
+| {{yes|Legal}}
+|-
+| {{flag|Egypt}}
+| {{no|Prohibited}}
+|-
+| {{flag|El Salvador}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Prohibited}}
+|-
+| {{flag|Eritrea}}
+| {{no|Prohibited}}
+|-
+| {{flag|Estonia}}
+| {{yes|Legal}}
+|-
+| {{flag|Eswatini}}
+| {{no|Prohibited}}
+|-
+| {{flag|Ethiopia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Falkland Islands}}
+| {{no|Prohibited}}
+|-
+| {{flag|Faroe Islands}}
+| {{no|Prohibited}}&lt;ref&gt;{{#invoke:Cite web||url=http://www.information.dk/476162|title=Holdningsskred i synet på homoseksuelle på Færøerne|work=Information|date=23 October 2013 }}&lt;/ref&gt;
+|-
+| {{flag|Fiji}}
+| {{no|Prohibited}}
+|-
+| {{flag|Finland}}
+| {{yes|Legal}}
+|-
+| {{flag|France}}
+| {{yes|Legal}}
+|-
+| {{flag|French Guiana}}
+| {{yes|Legal}}
+|-
+| {{flag|French Polynesia}}
+| {{yes|Legal}}
+|-
+| {{flag|French Southern and Antarctic Lands}}
+| {{yes|Legal}}
+|-
+| {{flag|Gabon}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Gambia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Georgia}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Germany}}
+| {{yes|Legal}}
+|-
+| {{flag|Gibraltar}}
+| {{no|Prohibited}}
+|-
+| {{flag|Ghana}}
+| {{no|Prohibited}}
+|-
+| {{flag|Greece}}
+| {{yes|Legal}}
+|-
+| {{flag|Greenland}}
+| {{yes|Legal}}
+|-
+| {{flag|Grenada}}
+| {{no|Prohibited}}
+|-
+| {{flag|Guadeloupe}}
+| {{yes|Legal}}
+|-
+| {{flag|Guam}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Guatemala}}
+| {{no|Prohibited}}
+|-
+| {{flag|Guinea}}
+| {{no|Prohibited}}
+|-
+| {{flag|Guinea-Bissau}}
+| {{no|Prohibited}}
+|-
+| {{flag|Guyana}}
+| {{no|Prohibited}}
+|-
+| {{flag|Haiti}}
+| {{no|Prohibited}}
+|-
+| {{flag|Hong Kong}}
+| {{yes|Legal}}&lt;ref&gt;{{Cite news |url=https://www.washingtonpost.com/world/2023/02/06/hong-kong-transgender-change/ |title=Hong Kong's top court says surgery not needed to register gender change - the Washington Post |newspaper=[[The Washington Post]] |access-date=26 September 2023 |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320065606/https://www.washingtonpost.com/world/2023/02/06/hong-kong-transgender-change/ |url-status=live }}&lt;/ref&gt;
+|-
+| {{flag|Honduras}}
+| {{no|Prohibited}}
+|-
+| {{flag|Hungary}}
+| {{no|Prohibited}}&lt;ref&gt;{{#invoke:Cite web||title=Transgender People In Hungary Lose Right To Gender Recognition|url=https://www.forbes.com/sites/jamiewareham/2020/05/19/hungary-makes-it-impossible-for-transgender-people-to-legally-change-gender/|last=Wareham|first=Jamie|website=Forbes|language=en|access-date=19 May 2020|date=19 May 2020}}&lt;/ref&gt;
+|-
+| {{flag|Iceland}}
+| {{yes|Legal}}
+|-
+| {{flag|India}}
+| {{yes|Legal}}
+|-
+| {{flag|Indonesia}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Iran}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Iraq}}
+| {{no|Prohibited}}
+|-
+| {{flag|Ireland}}
+| {{yes|Legal}}
+|-
+| {{flag|Isle of Man}}
+| {{yes|Legal}}
+|-
+| {{flag|Israel}}
+| {{yes2|Partially permitted, Excluding birth certificate for religious reasons, with complex legality or practice}}
+|-
+| {{flag|Italy}}
+| {{yes|Legal}}
+|-
+| {{flag|Ivory Coast}}
+| {{no|Prohibited}}
+|-
+| {{flag|Jamaica}}
+| {{no|Prohibited}}
+|-
+| {{flag|Japan}}
+| {{yes|Legal}}
+|-
+| {{flag|Jordan}}
+| {{no|Prohibited (Defacto)}}
+|-
+| {{flag|Kazakhstan}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Kenya}}
+| {{no|Prohibited}}
+|-
+| {{flag|Kiribati}}
+| {{no|Prohibited}}
+|-
+| {{flag|Kosovo}}
+| {{no|Prohibited}}
+|-
+| {{flag|Kuwait}}
+| {{no|Prohibited}}
+|-
+| {{flag|Kyrgyzstan}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Laos}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Latvia}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Lebanon}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Lesotho}}
+| {{yes2|Permitted}}
+|-
+| {{flag|Liberia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Libya}}
+| {{no|Prohibited}}
+|-
+| {{flag|Liechtenstein}}
+| {{no|Prohibited}}
+|-
+| {{flag|Lithuania}}
+| {{yes|Legal}}
+|-
+| {{flag|Luxembourg}}
+| {{yes|Legal}}
+|-
+| {{flag|Macau}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Madagascar}}
+| {{no|Prohibited}}
+|-
+| {{flag|Malawi}}
+| {{no|Prohibited}}
+|-
+| {{flag|Malaysia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Maldives}}
+| {{no|Prohibited}}
+|-
+| {{flag|Mali}}
+| {{no|Prohibited}}
+|-
+| {{flag|Malta}}
+| {{yes|Legal}}
+|-
+| {{flag|Marshall Islands}}
+| {{no|Prohibited}}
+|-
+| {{flag|Martinique}}
+| {{yes|Legal}}
+|-
+| {{flag|Mauritania}}
+| {{no|Prohibited}}
+|-
+| {{flag|Mauritius}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Mayotte}}
+| {{yes|Legal}}
+|-
+| {{flag|Mexico}}
+| {{partial|Varies by subdivision}}
+|-
+| {{flag|Micronesia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Moldova}}
+| {{yes|Legal}}
+|-
+| {{flag|Monaco}}
+| {{no|Prohibited}}
+|-
+| {{flag|Mongolia}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Montenegro}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Morocco}}
+| {{no|Prohibited}}
+|-
+| {{flag|Mozambique}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Myanmar}}
+| {{no|Prohibited}}
+|-
+| {{flag|Namibia}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Nauru}}
+| {{no|Prohibited}}
+|-
+| {{flag|Nepal}}
+| {{yes|Legal}}
+|-
+| {{flag|Netherlands}}
+| {{yes|Legal}}
+|-
+| {{flag|New Caledonia}}
+| {{yes|Legal}}
+|-
+| {{flag|New Zealand}}
+| {{yes|Legal}}
+|-
+| {{flag|Nicaragua}}
+| {{no|Prohibited}}
+|-
+| {{flag|Niger}}
+| {{no|Prohibited}}
+|-
+| {{flag|Nigeria}}
+| {{no|Prohibited}}
+|-
+| {{flag|Northern Cyprus}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Northern Mariana Islands}}
+| {{yes|Legal}}
+|-
+| {{flag|North Korea}}
+| {{no|Prohibited}}
+|-
+| {{flag|North Macedonia}}
+| {{yes|Legal}}
+|-
+| {{flag|Norway}}
+| {{yes|Legal}}
+|-
+| {{flag|Oman}}
+| {{no|Prohibited}}
+|-
+| {{flag|Pakistan}}
+| {{yes|Legal}}
+|-
+| {{flag|Palau}}
+| {{no|Prohibited}}
+|-
+| {{flag|Palestine}}
+| {{no|Prohibited}}
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Prohibited}}
+|-
+| {{flag|Panama}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Paraguay}}
+| {{no|Prohibited}}
+|-
+| {{flag|Peru}}
+| {{yes|Legal}}
+|-
+| {{flag|Philippines}}
+| {{no|Prohibited}}
+|-
+| {{flag|Poland}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Portugal}}
+| {{yes|Legal}}
+|-
+| {{flag|Puerto Rico}}
+| {{yes|Legal}}
+|-
+| {{flag|Qatar}}
+| {{no|Prohibited}}
+|-
+| {{flag|Réunion}}
+| {{yes|Legal}}
+|-
+| {{flag|Romania}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Russia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Rwanda}}
+| {{no|Prohibited}}
+|-
+| {{flag|Saba}}
+| {{yes|Legal}}
+|-
+| {{flag|Saint Barthélemy}}
+| {{yes|Legal}}
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{no|Prohibited}}
+|-
+| {{flag|Saint Lucia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Saint Martin}}
+| {{yes|Legal}}
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{no|Prohibited}}
+|-
+| {{flag|Samoa}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|San Marino}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Sao Tome and Principe}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Saudi Arabia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Senegal}}
+| {{no|Prohibited}}
+|-
+| {{flag|Seychelles}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Sierra Leone}}
+| {{no|Prohibited}}
+|-
+| {{flag|Singapore}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Sint Eustatius}}
+| {{yes|Legal}}
+|-
+| {{flag|Serbia}}
+| {{yes|Legal}}
+|-
+| {{flag|Slovenia}}
+| {{yes|Legal}}
+|-
+| {{flag|Slovakia}}
+| {{no|Prohibited (Defacto)}}
+|-
+| {{flag|Solomon Islands}}
+| {{no|Prohibited}}
+|-
+| {{flag|Somalia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Somaliland}}
+| {{no|Prohibited}}
+|-
+| {{flag|South Africa}}
+| {{yes|Legal}}
+|-
+| {{flag|South Korea}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|South Ossetia}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|South Sudan}}
+| {{no|Prohibited}}
+|-
+| {{flag|Spain}}
+| {{yes|Legal}}
+|-
+| {{flag|Sri Lanka}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Sudan}}
+| {{no|Prohibited}}
+|-
+| {{flag|Suriname}}
+| {{yes|Legal}}
+|-
+| {{flag|Sweden}}
+| {{yes|Legal}}
+|-
+| {{flag|Switzerland}}
+| {{yes|Legal}}
+|-
+| {{flag|Syria}}
+| {{no|Prohibited}}
+|-
+| {{flag|Taiwan}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Tajikistan}}
+| {{no|Prohibited (Defacto)}}
+|-
+| {{flag|Tanzania}}
+| {{no|Prohibited}}
+|-
+| {{flag|Thailand}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Togo}}
+| {{no|Prohibited}}
+|-
+| {{flag|Tonga}}
+| {{no|Prohibited}}
+|-
+| {{flag|Transnistria}}
+| {{n/a|Unknown or unclear}}
+|-
+| {{flag|Trinidad and Tobago}}
+| {{no|Prohibited}}
+|-
+| {{flag|Tunisia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Turkey}}
+| {{yes2|Permitted, with Sterilization}}
+|-
+| {{flag|Turkmenistan}}
+| {{no|Prohibited}}
+|-
+| {{flag|Tuvalu}}
+| {{no|Prohibited}}
+|-
+| {{flag|Uganda}}
+| {{no|Prohibited}}
+|-
+| {{flag|Ukraine}}
+| {{yes|Legal}}
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Prohibited}}
+|-
+| {{flag|United Kingdom}}
+| {{yes|Legal}}
+|-
+| {{flag|United States}}
+| {{partial|Varies by subdivision}}
+|-
+| {{flag|United States Virgin Islands}}
+| {{yes|Legal}}
+|-
+| {{flag|Uruguay}}
+| {{yes|Legal}}
+|-
+| {{flag|Uzbekistan}}
+| {{no|Prohibited}}
+|-
+| {{flag|Vanuatu}}
+| {{no|Prohibited}}
+|-
+| {{flag|Vatican City}}
+| {{no|Prohibited}}
+|-
+| {{flag|Venezuela}}
+| {{no|Prohibited}}
+|-
+| {{flag|Vietnam}}
+| {{yes2|Permitted, with complex legality or practice}}
+|-
+| {{flag|Wallis and Futuna}}
+| {{yes|Legal}}
+|-
+| {{flag|Western Sahara}}
+| {{no|Prohibited}}
+|-
+| {{flag|Yemen}}
+| {{no|Prohibited}}
+|-
+| {{flag|Zambia}}
+| {{no|Prohibited}}
+|-
+| {{flag|Zimbabwe}}
+| {{no|Prohibited}}
+|}
+
+==See also==
+{{Portal|Transgender|law}}
+* [[GenderPAC|Gender Public Advocacy Coalition]]—Defunct US advocacy group working to end discrimination and violence caused by gender stereotypes by changing public attitudes, educating elected officials, and expanding human rights
+* ''[[Diane Marie Rodriguez Zambrano|Legal Precedent]]'' (2009), Right to change legal names female to male and vice versa for people [[transgender]] and [[intersex]] by the approval of the 2008 [[Constitution of Ecuador]].
+* [[Gender diversity]]
+* [[Gender self-identification]]
+* [[Legal recognition of non-binary gender]]
+* [[LGBT people in prison]]
+* [[LGBT rights by country or territory]]—including gender identity/expression
+* [[List of transgender-related topics]]
+* [[List of transgender-rights organizations]]
+* [[Transgender asylum seekers]]
+* [[Transgender inequality]]
+* [[Transgender rights movement]]
+* [[Transitioning (transgender)]]
+* [[Yogyakarta Principles]]
+* [[Human rights]]
+
+==References==
+
+;Notes
+{{Notelist}}
+
+;Footnotes
+{{Reflist}}
+
+==Works cited==
+* Chow, Melinda. (2005). "Smith v. City of Salem: Transgendered Jurisprudence and an Expanding Meaning of Sex Discrimination under Title VII". ''Harvard Journal of Law &amp; Gender''. Vol. 28. Winter. 207.
+* {{Cite book |url=https://www.upress.umn.edu/book-division/books/transgender-rights |title=Transgender Rights |publisher=University of Minnesota Press |year=2006 |editor-last=Currah |editor-first=Paisley |location=Minneapolis |access-date=2015-08-29 |editor-last2=Juang |editor-first2=Richard M. |editor-last3=Minter |editor-first3=Shannon Price |archive-url=https://web.archive.org/web/20110716110203/http://www.upress.umn.edu/Books/C/currah_transgender.html |archive-date=16 July 2011 |url-status=live}}
+* {{Cite web |last=Sellers |first=Mitchell D. |year=2011 |title=Discrimination and the Transgender Population: A Description of Local Government Policies that Protect Gender Identity or Expression |url=http://ecommons.txstate.edu/arp/360 |archive-url=https://web.archive.org/web/20120311062923/http://ecommons.txstate.edu/arp/360/ |archive-date=11 March 2012 |access-date=1 August 2017 |series=Paper 360 |publisher=Applied Research Projects, [[Texas State University-San Marcos]]}}
+* {{Cite book |last=Hoston |first=William |title=Toxic Silence |date=2018-06-14 |publisher=Peter Lang Publishing |isbn=9781433155994}}
+{{Commons category|Transgender rights}}
+{{Transgender topics}}
+{{LGBT rights footer}}
+
+[[Category:Transgender rights| ]]
+[[Category:Transgender law]]
+[[Category:Transgender studies]]</rev></revisions></page></pages></query></api>

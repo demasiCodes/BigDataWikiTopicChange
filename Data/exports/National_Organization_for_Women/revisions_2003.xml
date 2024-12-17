@@ -1,0 +1,8 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030903065720|1620429" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="8536948" pageid="8536948" ns="0" title="National Organization for Women"><revisions><rev timestamp="2003-10-25T01:34:15Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''National Organization for Women''' (NOW) is an American feminist group founded on [[June 30]], [[1966]] in Washington, D.C. by women attending the Third National Conference of the Commission on the Status of Women. Among the 28 founders was [[Betty Friedan]], author of ''[[The Feminine Mystique]]'' (1963), who became NOW's first president. During the [[1970s]] NOW promoted the [[Equal Rights Amendment]] to the [[U.S. Constitution]]
+
+The group remains active in lobbying legislatures and media outlets on women's issues.
+
+==External links==
+* [http://www.now.org/ National Organization for Women]
+
+''This article is a [[Wikipedia:Perfect stub article|stub]]. You can help Wikipedia by [[Wikipedia:Find or fix a stub|fixing it]].''</rev></revisions></page></pages></query></api>

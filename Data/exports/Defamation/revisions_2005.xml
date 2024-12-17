@@ -1,0 +1,133 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051109204108|27851700" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="28661" pageid="28661" ns="0" title="Defamation"><revisions><rev timestamp="2005-11-09T20:41:41Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Template:TortLaw}}
+In [[England|English]] and [[United States|American]] [[law]], and systems based on them, '''libel''' and '''slander''' are two forms of '''defamation''' (or '''defamation of character'''), which is the [[tort]] or [[delict]] of making a false statement that negatively affects someone's reputation. "Defamation" is the term generally used internationally, and is accordingly used in this article where it is not necessary to distinguish between "libel" and "slander". 
+
+==Vocabulary and general concepts==
+
+===Origin of the word libel===
+from Latin ''libellus'' "little book"
+
+===Libel and Slander===
+"Libel", "slander", and "defamation" are commonly used as synonyms in ordinary language, at least in Britain and Ireland. However, those jurisdictions that distinguish  "libel" and "slander" as legal concepts do so on the following broad basis: defamatory communication in writing is termed "libel" while one made via the spoken word is termed "slander". However, because the underlying distinction is between permanent and transient communications, some jurisdictions regard all defamatory communications (even spoken statements) broadcast on [[radio]] or [[television]]  as "libel".  Both acts share a common legal history, although they may be treated differently under some legal systems.
+
+=== Derogatory? ===
+In most systems, statements need not be derogatory in themselves to be defamatory; it is generally enough that they portray the claimant in a '''false light''' -  for example, by claiming that a prominent dentist is masquerading as a heart specialist, or that a member of one political party is actually a closet supporter of another.
+
+=== Truth ===
+In many, though not all, legal systems, factual statements must be false to be defamatory.  Proving statements to be true is often the best defense against a prosecution for libel.  Statements of opinion which cannot be proven true or false will likely need to apply some other kind of defense.
+
+In some systems, however, truth alone is not a defense. It is also necessary in these cases to show that there is a well founded public interest in the specific information being widely known, and this may be the case even for public figures.  
+
+=== Reversal of burden of proof ===
+In most legal systems the courts give the benefit of the doubt to people being tried.  They are presumed innocent until the prosecution can prove guilt beyond a reasonable doubt (in criminal law), or the plaintiff can show liability on a balance of probabilities (in civil law).
+
+Once the plaintiff meets the burden of proof that the publisher made a potentially defamatory statement, the untruth of that statement is presumed, so that the burden of proving it was true and/or in the public interest falls onto the defendant.  This deters people from making negative statements about others in the media or elsewhere, unless they can legally justify them or back them up with evidence.
+
+=== Privilege and Malice ===
+Almost all legal systems, including those of the [[United States]], [[Scotland]], and [[England]] and [[Wales]], require in some situations that the subject of the communication prove, in a civil court, that the defendant made the statement with "malice", meaning either believing it was false or with "reckless disregard" for whether it was false.  This is known as "qualified privilege"; a typical example is a complaint of professional misconduct. "Absolute privilege" has the effect that a statement cannot be sued on as defamatory, even if it was made maliciously; a typical example is evidence given by a witness on oath (although this may give rise to different claims, such as an action for malicious prosecution) or statements made in a session of the legislature.
+
+=== Similar but different delicts and torts ===
+Some jurisdictions have a separate tort or delict of "verbal injury" or "convicium" involving the making of a statement, even if truthful, designed to harm the claimant out of malice; some have a separate tort or delict of "invasion of privacy" in which the making of a true statement may give rise to liability: but neither of these comes under the general heading of "defamation". Some jurisdictions also have the tort of "false light", in which a statement may be technically true, but so misleading as to be defamatory. There is also, in almost all jurisdictions, a tort or delict of "misrepresentation", involving the making of a statement which is untrue even though not defamatory; thus if a surveyor states that a house is free from the risk of flooding, he or she has not defamed anyone, but may still be liable to someone who purchases the house in reliance on this statement.
+
+=== Criminal libel ===
+Many nations have criminal penalties for defamation in some situations, and different conditions for determining whether an offense has occurred. Thus, for example, in [[Zimbabwe]] "insulting the President" is by statute (Public Order and Security Act 2001) a criminal offence. In European systems, criminal liability for defamation is virtually obsolete by reason of the freedom of expression provisions of Article 10 of the European Convention on Human Rights. An important example is Lingens v. Austria (1986) 8 E.H.R.R. 407. Lingens was fined for publishing in a Vienna magazine comments about the behaviour of the Austrian Chancellor, such as 'basest opportunism', 'immoral' and 'undignified'. Under the Austrian criminal code the only defence was proof of the truth of these statements. Lingens could not prove the truth of these value judgments. The European Court of Human Rights stated that a careful distinction needed to be made between facts and value judgments/opinions. The existence of facts can be demonstrated, whereas the truth of value judgments is not susceptible of proof. The facts on which Lingens founded his value judgments were not disputed; nor was his good faith. Since it was impossible to prove the truth of value judgments, the requirement of the relevant  provisions of the Austrian criminal code was impossible of fulfilment and infringed article 10 of the Convention. This article deals only with civil claims for defamation, in which the person defamed, rather than the state, is the person complaining and seeking a remedy.
+
+== Origins of defamation law ==
+
+In most early systems of law verbal defamations were treated as a criminal or quasi-criminal offence, its essence lying not in pecuniary loss, which may be compensated by damages, but in the personal insult which must be atoned for: a vindictive penalty coming in the place of personal revenge.  By the law of the [[Twelve Tables]], the composition of scurrilous songs and gross noisy public affronts were punished by death.  Minor offences of the same class seem to have found their place under the general conception of injuria, which included ultimately every form of direct personal aggression which involved abuse or insult.
+
+In the later [[Roman law|Roman jurisprudence]], from which many of our modern laws descend, verbal defamations are dealt with in the edict under two heads.  The first comprehended defamatory and injurious statements made in a public manner (''convicium contra bonos mores'').  In this case the essence of the offence lay in the unwarrantable public proclamation.  In such a case the truth of the statements was no justification for the unnecessarily public and insulting manner in which they had been made.  The second head included defamatory statements made in private, and in this case the offence lay in the imputation itself, not in the manner of its publication. The truth was therefore a sufficient defence, for no man had a right to demand legal protection for a false reputation.  Even belief in the truth was enough, because it took away the intention which was essential to the notion of injuria.
+
+The law thus aimed at giving sufficient scope for the discussion of a man's character, while it protected him from needless insult and pain.  The remedy for verbal defamation was long confined to a civil action for a monetary penalty, which was estimated according to the significance of the case, and which, although vindictive in its character, doubtless included practically the element of compensation.  But a new remedy was introduced with the extension of the criminal law, under which many kinds of defamation were punished with great severity.  At the same time increased importance attached to the publication of defamatory books and writings, the ''libri'' or ''libelli famosi'', from which we derive our modern use of the word libel; and under the later emperors the latter term came to be specially applied to anonymous accusations or [[pasquil]]s, the dissemination of which was regarded as particularly dangerous, and visited with very severe punishment, whether the matter contained in them were true or false.
+
+== English law ==
+=== Development of English defamation law ===
+
+Modern libel and slander laws as implemented in many but not all [[Commonwealth]] nations, in the [[United States]], and in the [[Republic of Ireland]], are originally descended from [[English defamation law]].  
+
+The earlier history of the English law of defamation is somewhat obscure.  Civil actions for damages seem to have been tolerably frequent so far back as the reign of [[Edward I of England|Edward I]] (1272&amp;ndash;1307).  There was no distinction drawn between words written and spoken.  When no pecuniary penalty was involved such cases fell within the old jurisdiction of the [[ecclesiastical court]]s, which were only finally abolished in the eighth century.  It seems, to say the least, uncertain whether any generally applicable criminal process was in use.
+
+The crime of ''[[scandalum magnatum]]'', spreading false reports about the magnates of the realm, was established by statutes, but the first fully reported case in which libel is affirmed generally to be punishable at common law is one tried in the [[Star Chamber]] in the reign of [[James I of England|James I]].  In that case no English authorities are cited except a previous case of the same nature before the same tribunal; the law and terminology appear to be taken directly from Roman sources, with the insertion that libels tended to a breach of the peace; and it seems probable that not very scrupulous tribunal had simply found it convenient to adopt the very stringent Roman provisions regarding the ''libelli famosi'' without paying any regard to the Roman limitations.  From that time we find both the criminal and civil remedies in full operation.
+
+=== English Admiralty law ===
+
+In [[admiralty law]], a '''libel''' was the equivalent of a civil [[lawsuit]]. The plaintiff was referred to as the "libellant". The verb "to libel" means "to sue [in admiralty]". Similar terminology was used in the [[United States]] legal system. The term has been rendered obsolete by the merger of the admiralty courts with tribunals of general jurisdiction and the adoption of simplified rules of [[civil procedure]] that specify "one form of action" for all claims.
+
+=== Modern law ===
+English law allows actions for libel to be brought in the High Court for any published statements which defame a named or identifiable individual or individuals in a manner which causes them loss in their trade or profession, or causes a reasonable person to think worse of him, her or them. 
+
+A statement can include an implication. A large photograph of Tony Blair above a headline saying "Corrupt Politicians" might be held to be an allegation that Tony Blair was personally corrupt.
+
+The allowable defences against libel are:
+*Justification: the defendant proves that the statement was true. If the defence fails, a court may treat any material produced by the defence to substantiate it, and any ensuing media coverage, as factors aggravating the libel and increasing the damages.
+*Fair Comment: the defendant shows that the statement was a view that a reasonable person could have held, even if they were motivated by dislike or hatred of the plaintiff. 
+*Privilege: the defendant's comments were made in Parliament or under oath in court of law or were an accurate and neutral report of such comments. There is also a defence of 'qualified privilege' under which people, who are not acting out of malice, may claim privilege for fair reporting of allegations which if true were in the public interest to be published. The leading modern English case on qualified privilege in the context of newspaper articles which are claimed to defame a public figure is now [http://www.bailii.org/uk/cases/UKHL/1999/45.html Reynolds v. Times Newspapers Ltd and Others, 1999 UKHL 45].
+
+An offer of amends - typically a combination of correction, apology and/or financial compensation - is a barrier to litigation in the courts.
+
+The English laws on libel have traditionally favored the plaintiffs. A recent decision by the [[European Court of Human Rights]] (in the so-called "[[McLibel]] case") held that, on the (exceptional) facts of that case, the burden on the defendants in the English courts was too high. However, it is unlikely that the case will provoke any considerable change in substantive English law, despite strong academic criticism of the current position.  [http://cmiskp.echr.coe.int/tkp197/view.asp?action=html&amp;key=42244&amp;portal=hbkm&amp;source=external&amp;table=285953B33D3AF94893DC49EF6600CEBD49]
+
+==United States law==
+
+[[US]] defamation law is often less plaintiff-friendly than its counterparts in European and [[Commonwealth]] countries.  This is because of the [[First Amendment]]'s strong protection of [[free speech]], which arose from the tradition of [[dissent]] that led to the [[American Revolutionary War]]. One very important distinction today is that European and [[Commonwealth]] jurisdictions adhere to a theory that every publication of a defamation gives rise to a separate claim, so that a defamation on the internet could be sued on in any country in which it was read, while American law only allows one claim for the primary publication (see [http://www.jonathanmitchell.info/internet.html Defamation and intellectual property jurisdiction website]).
+
+In the United States, about 75% of defamation lawsuits are filed in state courts, and the remaining 25% in federal courts. A comprehensive discussion of what is and is not libel or slander is difficult, because each state's definition differs.  Some states lump slander and libel together into the same set of laws.  Some states have criminal libel laws on the books, though these are old laws which are infrequently prosecuted.
+
+Most defendants in libel lawsuits are newspapers, which are involved in about twice as many lawsuits as are TV stations.  Most plaintiffs are corporations, business people, entertainers and other public figures, and inmates.  Most states do not allow defamation lawsuits to be filed if the allegedly defamed person is already deceased.  None of the states allow the plaintiff to be a group of people.
+
+In the various states, whether by case law or actual legislation, there are generally several "privileges" that can get a defamation case dismissed without proceeding to trial.  These include the allegedly defamatory statement being one of opinion rather than fact; or being "fair comment and criticism", as it is important to society that everyone be able to comment on matters of public interest.
+
+If a defamation lawsuit actually gets to trial, truth is a "defense." Another is if the allegedly defamatory statement is not actually capable of being defamatory&amp;mdash;an insulting statement that does not harm someone's reputation is ''[[prima facie]]'' not libelous. Another defense that is presented by accused media companies is "fault"&amp;mdash;a series of court rulings led by ''[[New York Times Co. v. Sullivan]]'', [[Court citation|376 U.S. 254]] ([[1964]]) established that for a plaintiff to win a libel case, "[[actual malice]]" or "reckless negligence" must be proved on the part of the defendant if the statement in question is about a [[public official]] or public figure.  In the case of a private figure, the plaintiff must merely prove negligence.
+
+The [[Associated Press]] estimates that 95% of libel cases involving news stories do not arise from high-profile news stories, but "run of the mill" local stories like news coverage of local criminal investigations or trials, or business profiles.  "Media liability [[insurance]]" is available to newspapers to cover potential damage awards from libel lawsuits.
+
+===History===
+Laws regulating slander and libel in the United States began to develop even before the [[American Revolution]].  In one of the most famous cases, [[New York]] publisher [[John Peter Zenger]] was imprisoned for 8 months in [[1734]] for printing attacks on the governor of the colony.  Zenger won his case and was acquitted by jury in [[1735]] under the counsel of [[Andrew Hamilton (lawyer)|Andrew Hamilton]].  The case established some precedent that the truth should be an absolute defense against libel charges.  Previous English defamation law had not provided this guarantee.  This impacted the later formers of the U.S. constitution including Governeur Morris who said
+
+:''The trial of Zenger in 1735 was the germ of American freedom, the morning star of that liberty which subsequently revolutionized America.''
+
+Zenger's case also established that libel cases, though they were civil rather than criminal cases, could be heard by a jury, which would have the authority to rule on the allegations and to set the amount of monetary damages awarded. -Source?
+
+Although the First Amendment of the [[U.S. Constitution]] was designed specifically to protect freedom of the press, the [[U.S. Supreme Court|Supreme Court]] long neglected to use it to rule on libel cases, leaving libel laws mixed across the states.  In [[1964]], however, the court issued an opinion in ''[[New York Times Co. v. Sullivan]]'', dramatically changing the nature of libel law in the United States.  In that case, the court determined that public officials could only win a suit for libel if they could demonstrate "[[actual malice]]" on the part of reporters or publishers.  In that case, "actual malice" was defined as "knowledge that the [[information]] was false" or that it was published "with reckless disregard of whether it was false or not."  This decision was later extended to cover "public figures", although the standard is still considerably lower in the case of private individuals.
+
+In [[1974]], in ''[[Gertz v. Robert Welch, Inc.]]'', ('''418 U.S. 323'''), the Supreme Court ruled that a plaintiff could not win a libel suit when the statement(s) in question were of opinion rather than fact.  In the words of the court, "under the First Amendment, there is no such thing as a false idea".  For example, contrast "I think Jo is a bad lawyer", which is opinion, with "Jo doesn't know the law", which is defamatory ''per se''.  In ''Gertz'', the Supreme Court also established a [[mens rea]] or [[culpability]] requirement for defamation; states cannot impose [[strict liability]] because that would run afoul of the First Amendment.  This holding differs significantly from most other common law jurisdictions, which still have strict liability for defamation.
+
+In [[1988]], in ''[[Hustler Magazine v. Falwell]]'', ('''485 U.S. 46'''), the Supreme Court ruled that a [[parody advertisement]] claiming [[Jerry Falwell]] had engaged in an [[incest]]uous act with his mother in an outhouse, while false, could not be subject to damages for emotional distress because the statement, in effect, was of a character as being so obviously ridiculous that it was clearly not true, and thus it could not be libelous if no one would seriously believe it.  The court overturned a lower court's upholding of an award where the jury decided against the claim of libel but awarded damages for emotional distress.
+
+==Australian law==
+
+[[Australia]]n law tends to follow English law on defamation issues, although there are differences introduced by statute. A recent judgment of the [[High Court of Australia]] has significant consequences on interpretation of the law.  On [[10 December]], [[2002]], the High Court of Australia handed down its judgment in the Internet defamation  dispute in the case of ''[[Gutnick v Dow Jones]]''.  The judgment, which established that Internet-published foreign publications which defamed an Australian in his Australian reputation could be held accountable under Australian libel law, has gained worldwide attention and is often (although inaccurately, see for example [http://www.parliament.the-stationery-office.co.uk/pa/ld199900/ldjudgmt/jd000511/bere-1.htm Berezovsky v Forbes] in England) said to be the first of its kind; the case was subsequently settled.
+
+Among the various common law jurisdictions, some Americans have presented a [http://online.barrons.com/public/article/SB109848511439553629.html visceral and vocal reaction] to the ''Gutnick'' decision.  It has been suggested that both the broad assertion of [[personal jurisdiction]] by Australia (which has a similar personal jurisdiction rule to most jurisdictions) and the underlying imposition of strict liability for defamation  run counter to notions of [[fairness]] and [[due process]] that Americans consider to be fundamental aspects of their system of justice. On the other hand, the decision, which mirrors similar decisions in many other jurisdictions such as England, Scotland, France, and Italy, has been defended on the basis that those who choose to publish worldwide cannot complain if they are sued worldwide; and the existence of pro-defender defamation laws in America does not give Americans a licence to be free of the laws of other countries.
+
+==Canadian law==
+
+As with most [[Commonwealth of Nations|Commonwealth]] jurisdictions, [[Canada]] also follows English law on defamation issues (although the law in the province of [[Quebec]] has different roots).  A recent [[Supreme Court of Canada]] case, ''[[Hill v. Church of Scientology of Toronto]]'' (1995), has reviewed the relationship of the [[common law]] of defamation and its relation to the [[Canadian Charter of Rights and Freedoms]]. It is also the largest libel award ([[Canadian dollar|CAD]] 1,600,000 against the church) upheld in Canada and part of the ongoing legal problems of [[Scientology and the Legal System|Scientology]].   This reasoning in this case specifically rejects the ''actual malice'' test in ''New York Times Co. v. Sullivan'' citing criticism of it, not only in the United States, but in other countries as well.
+
+Defamation as a tort does not infringe the freedom of expression guarantee under the [[Canadian Charter of Rights and Freedoms]], according to the Nova Scotia Supreme Court in Coates v. The Citizen (1988), 44 C.C.L.T. 286 (N.S.S.C.).  Defamatory libel as a criminal offence under the Criminal Code is equally valid, according to the [[Supreme Court of Canada]]: R. v. Lucas, [1998] 1 S.C.R. 439.
+
+==See also==
+*[[Chilling effect]]
+*[[International Freedom of Expression eXchange]]
+*''[[Lashon hara]]''
+*[[Prior restraint]]
+*[[SLAPP|Strategic lawsuit against public participation]]
+*[[detraction]]
+
+== External links==
+*[http://www.jonathanmitchell.info/internet.html Defamation and intellectual property jurisdiction] A Scottish site, dealing with jurisdiction in international defamation cases, with copious references to caselaw in many countries.
+*[http://www.ag.gov.au/agd/WWW/agdHome.nsf/Page/Publications_2004_Defamation_law_reform  Defamation law reform in Australia ] Proposals by the Attorney General of Australia for defamation law reform, identifying existing defects.
+*[http://www.newsdesk-uk.com/law/libelcheck.shtml Newsdesk] Introduction to English defamation law.
+*[http://www.humanrights.org.uk/50/ Human Rights Update] English site, with notes of recent cases in which the Human Rights Convention has affected defamation law in Europe.
+*[http://www.netlitigation.com/netlitigation/defamation.htm Defamation and the Internet] US site, with notes on some late twentieth-century American cases.
+* [http://www.cosmoetica.com/B35-RK1.htm Richard Kostelanetz article on libel and chilling effects]
+
+[[Category:Copy editing]]
+[[Category:Journalism ethics]]
+[[Category:Tort law]]
+
+[[de:Verleumdung]]
+[[eo:Kalumnio]]
+[[he:דיני לשון הרע]]
+[[ja:名誉毀損]]
+[[nl:Laster]]
+[[sv:Förtal]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030918051319|1648733" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="236331" pageid="236331" ns="0" title="Sexual harassment"><revisions><rev timestamp="2003-10-30T14:43:40Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Sexual harassment''', as defined in [[United States|American]] employment law, is any ''unwelcome sexual advance or conduct'' on the job, having the effect of making the workplace intimidating, hostile or offensive.
+
+The definition of the phrase ''Sexual Harassment'' can be broad and controversial, depending on each individual's opinion of ''what'' sexual harassment is. While typical sexual harassment behaviour usually includes unwanted touching of a co-worker's private parts, leud comments, talk about gender superiority, sexual jokes, etc., some companies have reported that they have had to fire employees (after a co-worker has complained of ''sexual harassment'') for such actions as telling the complaining co-worker how good he or she looks for that co-worker's date with another person, or for simply handling what seemed, to the fired employee, to be just a harmless compliment.
+
+Two forms of sexual harassment have been defined:
+* ''[[quid pro quo]]'' ([[Latin]]: ''this for that'')
+* [[hostile work environment]]
+
+== External Links ==
+
+* http://www.nolo.com/lawcenter/ency/article.cfm/objectID/7440C7F8-0B89-46E4-A1DE73FE99AA61E0/catID/DE34C24C-9CBE-42EF-917012F2F6758F92</rev></revisions></page></pages></query></api>

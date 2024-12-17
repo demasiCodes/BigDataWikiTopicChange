@@ -1,0 +1,258 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081008100229|243854860" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="8587" pageid="8587" ns="0" title="Democide"><revisions><rev timestamp="2008-10-27T23:26:09Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{unbalanced}}
+{| class="infobox bordered"
+|+&lt;small&gt;'''Genocides and Politicides from 1955 to 2001''' From ''[http://www.cidcm.umd.edu/inscr/genocide/  No Lessons Learned from the Holocaust?]'', Barbara Harff, 2003.
+| '''Location''' || '''Dates''' || '''Est. Deaths'''
+|-
+| Sudan || 10/56–3/72 || 400,000–600,000
+|-
+| South Vietnam || 1/65–4/75 || 400,000–500,000
+|-
+| China || 3/59–12/59 || 65,000
+|-
+| Iraq || 6/63–3/75 || 30,000–60,000
+|-
+| Algeria || 7/62–12/62 || 9,000–30,000
+|-
+| Rwanda || 12/63–6/64 || 12,000–20,000
+|-
+| Congo-K || 2/64–1/65 || 1,000–10,000
+|-
+| Burundi || 10/65–12/73 || 140,000
+|-
+| Indonesia || 11/65–7/66 || 500,000–1,000,000
+|-
+| China || 5/66–3/75 || 400,000–850,000
+|-
+| Guatemala || 7/78–12/96 || 60,000–200,000
+|-
+| East Pakistan (Now Bangladesh) || 3/71–12/71 || 1,000,000–3,000,000
+|-
+| Uganda || 2/72–4/79 || 50,000–400,000
+|-
+| Philippines || 9/72–6/76 || 60,000
+|-
+| Pakistan|| 2/73–7/77 || 5,000–10,000
+|-
+| Chile || 9/73–12/76 || 5,000–10,000
+|-
+| Angola || 11/75–2001 || 500,000
+|-
+| Cambodia || 4/75–1/79 || 1,900,000–3,500,000
+|-
+| Indonesia || 12/75–7/92 || 100,000–200,000
+|-
+| Argentina || 3/76–12/80 || 9,000–20,000
+|-
+| Ethiopia || 7/76–12/79 || 10,000
+|-
+| Congo-K || 3/77–12/79 || 3,000–4,000
+|-
+| Afghanistan || 4/78–4/92 || 1,800,000
+|-
+| Burma || 1/78–12/78 || 5,000
+|-
+| El Salvador || 1/80–12/89 || 40,000–60,000
+|-
+| Uganda || 12/80–1/86 || 200,000–500,000
+|-
+| Syria || 4/81–2/82 || 5,000–30,000
+|-
+| Iran || 6/81–12/92 || 10,000–20,000
+|-
+| Sudan || 9/83–2003 || 2,000,000
+|-
+| Iraq || 3/88–6/91 || 180,000
+|-
+| Somalia || 5/88–1/91 || 15,000–50,000
+|-
+| Burundi || 1988 || 5,000–20,000
+|-
+| Sri Lanka || 9/89–1/90 || 13,000–30,000
+|-
+| [[Bosnian Genocide|Bosnia]] || 5/92–11/95 || 225,000
+|-
+| Burundi || 10/93–5/94 || 50,000
+|-
+| [[Rwandan Genocide|Rwanda]] || 4/94–7/94 || 500,000–1,000,000
+|-
+| Serbia || 12/98–7/99 || 10,000
+|-
+|}
+{| class="infobox bordered"
+|+&lt;small&gt;'''20th century democides causing more than one million deaths.''' From ''[http://www.hawaii.edu/powerkills/20TH.HTM  Death by Government]'', Rummel, 1987. Several estimates have been revised after this date: 
+[http://freedomspeace.blogspot.com/2005/11/reevaluating-chinas-democide-to-be.html  China],
+the [http://freedomspeace.blogspot.com/2005/12/reevaluating-colonial-democide.html  colonial ones],
+[http://freedomspeace.blogspot.com/2005/12/new-estimate-of-20th-century-democide.html  in general].
+|-
+| '''Location''' || '''Dates''' || '''Est. Deaths'''
+|-
+| Cambodia || 1975–1979 || 2,035,000
+|-
+| China (KMT) || 1928–1949 || 10,075,000
+|-
+| China (PRC) || 1949–1987 || 77,277,000  
+|- 
+| China (Mao Soviets) || 1923–1949 || 3,465,000
+|-
+| [[Colonialism]] || 1900–Independence || 50,000,000
+|-
+| [[Congo Free State]] || 1885–1908 ||est [[20th century|C20th]] 3,480,000&lt;br&gt;total of 10,000,000
+|-
+| Germany || 1933–1945 || 20,946,000
+|-
+| Japan || 1936–1945 || 5,964,000
+|- 
+| Pakistan || 1958–1987 || 1,503,000
+|- 
+| Poland || 1945–1948 || 1,585,000
+|- 
+| Mexico || 1900–1920 || 1,417,000
+|- 
+| North Korea || 1948–1987 || 1,563,000
+|- 
+| Russia || 1900–1917 || 1,066,000
+|- 
+| Turkey || 1909–1918 || 1,883,000
+|- 
+| Vietnam || 1945–1987 || 1,670,000
+|- 
+| Yugoslavia (Tito) || 1944–1987 || 1,072,000
+|-
+| U.S.S.R. || 1917–1987 || 61,911,000 
+|}
+{| class="infobox bordered"
+|+&lt;small&gt;'''Selected pre-20th century democides.''' From ''Death by Government'', Rummel, 1987 [http://www.hawaii.edu/powerkills/MURDER.HTM]. 
+|-
+| '''Events''' || '''Dates''' || '''Est. Deaths'''
+|-
+| Christian [[Crusades]] || 1095–1272 || 1,000,000
+|-
+| [[Albigensian Crusade]] || 1208–1249 || 200,000
+|-
+| By [[Mongols]]  || 14th–15th Century || 29,927,000 
+|-
+| By [[Aztecs]] || Centuries || &gt;1,000,000
+|-
+| [[Thirty Years' War]]  || 1618–1648 || 5,750,000
+|-
+| [[Witch Hunt]] || 15th–17th Century || 100,000
+|-
+| [[Spanish Inquisition]] || 16th–18th Century || 350,000
+|-
+| In China  || 221 BC–19th Century || 33,519,000 
+|-
+| In Iran || 5th–19th Century || &gt;2,000,000
+|-
+| In Russia || 10th–19th Century || &gt;1,007,000
+|-
+| In [[Ottoman Empire]] || 12th–19th Century || &gt;2,000,000
+|-
+| In India  || 13th–19th Century || &gt;4,511,000
+|-
+| Slavery of Africans  || 1451–1870 || 17,267,000
+|-
+| In Japan || 1570–19th Century || &gt;1,500,000
+|-
+| [[Indigenous peoples of the Americas|Native Americans]]  || 16th–19th Century || 13,778,000
+|-
+| [[French Revolution]] || 1793–1794 || 263,000
+|-
+|}
+{| class="infobox bordered"
+|+&lt;small&gt;'''Bloodiest dictators for the millennium.'''Rummel, [http://www.hawaii.edu/powerkills/QA.V2.HTML#statistics][http://freedomspeace.blogspot.com/2005/12/new-estimate-of-20th-century-democide.html][http://freedomspeace.blogspot.com/2005/11/reevaluating-chinas-democide-to-be.html]. 
+|- 
+| '''Dictator''' || '''Dates''' || '''Est. Deaths'''
+|- 
+| [[Qing Dynasty]], &lt;br&gt; mainly [[Empress Dowager Cixi]] || 1859-64, &lt;br&gt; [[Tai Ping Rebellion]] || 12,000,000
+|-
+| [[Genghis Khan]] || 1215–1233 || 4,000,000
+|-
+| [[Adolf Hitler]] || 1933–1945 || 21,000,000
+|-
+| [[Chiang Kai-shek]]|| 1921–1948 || 10,000,000
+|- 
+| [[Kublai Khan]] || 1252–1279 || 19,000,000
+|-
+| [[Vladimir Lenin]] || 1917–1924 || 4,000,000
+|-
+| [[Leopold II of Belgium]] || 1885–1908 || 10,000,000
+|-
+| [[Pol Pot]] || 1968–1987 || 2,000,000
+|-
+| [[Joseph Stalin]] || 1929–1953 || 43,000,000 
+|-
+| [[Hideki Tojo]] || 1941–1945 || 4,000,000
+|- 
+| [[Mao Zedong]] || 1923–1976 || 77,000,000
+|-
+|}
+'''Democide''' is a term coined by [[political scientist]] [[R. J. Rummel]] for "the [[murder]] of any person or people by a [[government]], including [[genocide]], [[politicide]], and [[mass murder]]." Rummel created the term as an extended concept to include forms of government murder that are not covered by the legal definition of [[genocide]], and it has found currency among other scholars.&lt;ref&gt;Encountering Evil: Live Options in Theodicy, Stephen Thane Davis, Westminster John Knox Press, 2001, ISBN 066422251X [http://books.google.com/books?id=CLdLpWrQQ6EC&amp;pg=PA2&amp;dq=democide&amp;sig=nPAv8SuB6vqdQix1BS5m5qDX6eQ Google Books]&lt;/ref&gt;&lt;ref&gt;Understanding and Preventing Violence: The Psychology of Human Destructiveness, Leighton C. Whitaker, CRC Press, 2000, ISBN 0849322650 [http://books.google.com/books?id=H62VO8MzhpkC&amp;pg=PA163&amp;ots=4Y_m56fwt_&amp;dq=democide&amp;sig=hOx3MsYv1tYY6DFoD7ZkjcycyTg#PPA164,M1 Google Books]&lt;/ref&gt;&lt;ref&gt;Contemporary Responses to the Holocaust, Konrad Kwiet, Jürgen Matthäus, Praeger/Greenwood, 2004, ISBN 0275974669  [http://books.google.com/books?id=fNYqavdZ0YcC&amp;pg=PA3&amp;dq=democide&amp;sig=wk9l_luxDTDqHSK9ooCxTmXqS9Y Google Books]&lt;/ref&gt;
+
+==Definition==
+According to Rummel, [[genocide]] has three different meanings. The ordinary meaning is murder by government of people due to their national, ethnic, racial, or religious group membership. The legal meaning of genocide refers to the international treaty, the [[Convention on the Prevention and Punishment of the Crime of Genocide]]. This also includes nonlethal acts that in the end eliminate the group, such as preventing births or forcibly transferring children out of the group to another group.  A generalized meaning of genocide is similar to the ordinary meaning but also includes government killings of political opponents or otherwise intentional murder. In order to avoid confusion over which meaning is intended, Rummel created the term democide for the third meaning.&lt;ref name = "Genocide"&gt;[http://www.hawaii.edu/powerkills/GENOCIDE.HTM  Genocide].&lt;/ref&gt;
+
+Rummel defines democide as "The murder of any person or people by a [[government]], including [[genocide]], [[politicide]], and [[mass murder]]". For example, government-sponsored killings for political reasons would be considered democide. Democide can also include deaths arising from "intentionally or knowingly reckless and depraved disregard for life"; this brings into account many deaths arising through various neglects and abuses, such as forced [[mass starvation]]. Rummel explicitly excludes battle deaths in his definition. Capital punishment, actions taken against armed civilians during mob action or riot, and the deaths of noncombatants killed during attacks on military targets so long as the primary target is military, are not considered democide.&lt;ref name = "Rummel"&gt;[http://www.freedomsnest.com/rummel_definition.html  Rummel’s definition].&lt;/ref&gt;
+
+He has further stated: "I use the civil definition of murder, where someone can be guilty of murder if they are responsible in a reckless and wanton way for the loss of life, as in incarcerating people in camps where they may soon die of malnutrition, unattended disease, and forced labor, or deporting them into wastelands where they may die rapidly from exposure and disease."
+
+Some examples of democide cited by Rummel include [[the Great Purges]] carried out by [[Joseph Stalin]] in the [[Soviet Union]], the deaths from the [[Colonialism|colonial]] policy in the [[Congo Free State]], and [[Mao Zedong]]'s [[Great Leap Forward]] resulting in a famine which killed millions of people. According to Rummel, these were not cases of genocide, because those who were killed were not selected on the basis of their race, but were killed in large numbers as a result of government policies. Famine is classified by Rummel as democide if it fits the definition above.
+
+For instance, Rummel only recently classified [[Mao Zedong]]'s Great Leap Forward as democide. He believed that Mao's policies were largely responsible for the famine, but he was misled about it, and finally when he found out, he stopped it and changed his policies. Thus, according to Rummel, is not an intentional famine and thus not a democide. However, contradictory claims from [[Jung Chang]] and [[John Halliday]]'s controversial ''[[Mao: the Unknown Story]]'' allege that Mao knew about the famine from the beginning but didn't care, and eventually Mao had to be stopped by a meeting of 7,000 top Communist Party members. Based on the book's claims, Rummel now views the famine as intentional and a democide.&lt;ref name = "Mao"&gt;[http://freedomspeace.blogspot.com/2005/11/getting-my-reestimate-of-maos-democide.html  Getting my reestimate of Mao’s democide].&lt;/ref&gt;
+
+== Research on democide ==
+Accusations of mass killings by a government are relatively common. Less common are well-documented cases with enough evidence to support the accusation.  Almost all accusations are disputed to some degree, although the evidence in some cases is stronger than in others.
+
+Rummel's sources  include scholarly works, refugee reports, memoirs, biographies, historical  analyses, actual exhumed body counts, records kept by the murderers themselves, and so on. In short his data are all estimates available in English for all nations over a period of a century, and available in the libraries he  worked in, including the [[Library of Congress]]. 
+
+He provides the most probable death toll along a low and a high count that are meant to be the most unlikely low and high number of deaths, and thus to bracket the probable true count.  It is to determine these lows and highs that he includes what some others might consider absurd estimates. His published books do not include new research and new sources available after the publication date.
+
+Rummel's counts 43 million deaths due to democide during Stalin's regime inside and outside the Soviet Union. This is much higher than an often quoted figure  of 20 million. Rummel has responded that this is based on a figure from  [[Robert Conquest]]'s book ''[[The Great Terror]]'' from 1968 and that  Conquest's qualifier "almost certainly too low" is usually forgotten.  Conquest's calculations excluded camp deaths after 1950, and before 1936;  executions 1939–53; the vast deportation of the people of captive nations into  the camps, and their deaths 1939–1953; the massive deportation within the Soviet Union of minorities 1941–1944 and their deaths; and those the Soviet Red Army and secret police executed throughout Eastern Europe after their conquest during 1944–1945. Moreover, the [[Holodomor]] that killed 5 million in 1932–1934 is not  included.&lt;ref name = "Stalin"&gt;[http://freedomspeace.blogspot.com/2005/04/how-many-did-stalin-really-murder.html  How many did Stalin really murder].&lt;/ref&gt;
+
+His research shows that the death toll from democide is far greater than the death toll from war.  After studying over 8,000 reports of government caused deaths, Rummel estimates that there have been 262 million victims of democide in the last century.  According to his figures, six times as many people have died from the inflictions of people working for governments than have died in battle.
+
+One of his main findings is that liberal democracies have much less democide than authoritarian regimes.&lt;ref name = "Miracle"&gt;[http://www.hawaii.edu/powerkills/MIRACLE.HTM  Miracle].&lt;/ref&gt; He argues that there is a relation between political power and  democide. Political mass murder grows increasingly common as political power  becomes unconstrained. At the other end of the scale, where power is diffuse,  checked, and balanced, political violence is a rarity. According to Rummel,  "The more power a regime has, the more likely people will be killed. This is a  major reason for promoting freedom." Rummel concludes: "Concentrated political  power is the most dangerous thing on earth."
+
+Several other researchers have found similar results. "Numerous researchers point out that democratic norms and political structures constrain elite decisions about the use of repression against their citizens whereas autocratic elites are not so constrained." "Once in place, democratic institutions — even partial ones — reduce the likelihood of armed conflict and all but eliminate the risk that it will lead to geno/politicide."&lt;ref name = ""&gt;[http://www.cidcm.umd.edu/inscr/genocide/  Genocide].&lt;/ref&gt;
+
+For books, articles, data, and analyses regarding democide, see [http://www.hawaii.edu/powerkills/  Rummel's website]. In particular, he has [http://www.hawaii.edu/powerkills/QA.V2.HTML  an extensive] [[FAQ]].  He has also made his many sources and the calculations used, from a pre-publisher manuscript of his book ''Statistics of Democide'', [http://www.hawaii.edu/powerkills/SOD.CHAP1.HTM  available online].  Researchers often give widely different estimates of mass murder. They use different definitions, methodology, and sources. For example, some include battle deaths in their calculations. [http://users.erols.com/mwhite28/warstats.htm  Matthew White] has compiled some of these different estimates.
+
+== Update on democides ==
+In May 2005, Rummel guessed the number for [[Darfur Conflict]] to be [http://freedomspeace.blogspot.com/2005/05/democide-galore_08.html over 400,000.]
+
+In November 2005, he estimated the alleged democide in [[Mao Zedong|Mao]]'s [[People's Republic of China| China]] (1949–1975) at 73,000,000.&lt;ref name = "reeval Mao"&gt;[http://freedomspeace.blogspot.com/2005/11/reevaluating-chinas-democide-to-be.html Reevaluating China's Democide to be 73,000,000].&lt;/ref&gt;&lt;ref name="reeval Mao 2"&gt;[http://hawaiireporter.com/story.aspx?1c1d76bb-290c-447b-82dd-e295ff0d3d59 Stalin Exceeded Hitler in Monstrous Evil; Mao Beat Out Stalin].&lt;/ref&gt;
+
+In December 2005, he raised his estimate for colonial democide to 50,000,000 and estimated the democide in the [[Congo Free State]] to 10,000,000.&lt;ref name = "Colonial"&gt;[http://freedomspeace.blogspot.com/2005/12/reevaluating-colonial-democide.html  Reevaluating colonial democide].&lt;/ref&gt;&lt;ref name = "20th"&gt;[http://freedomspeace.blogspot.com/2005/12/new-estimate-of-20th-century-democide.html  New estimate of 20th century democide].&lt;/ref&gt;
+
+== See also ==
+{{homicide}}
+*[[Genocide]]
+*[[Democratic peace theory]]
+*[[Linguicide]]
+*[[Genocides in history]]
+*[[Policide]]
+*[[Rummel's Law]]
+*[[An Gorta Mór]] - The Great Irish Famine
+
+== External links ==
+* [http://www.hawaii.edu/powerkills/DBG.CHAP2.HTM Definition of Democide] - by R.J. Rummel, from his book ''Death by Government''.
+* [http://www.neveragaininternational.org/ Never Again] - international genocide prevention group; organized 2004 Rwanda Forum at the Imperial War Museum in London.
+* [http://www.neveragaininternational.org/wiki Never Again Wiki]
+* [http://www.hawaii.edu/powerkills Power Kills] - Rummel's website.
+* [http://www.genocidewatch.org/aboutgenocide/genpolmmchart.htm Genocides, Politicides, and Other Mass Murder Since 1945, With Stages in 2006] - Genocide Watch
+
+==References==
+{{reflist}}
+
+[[Category:Violence]]
+[[Category:Human rights abuses]]
+[[Category:Death]]
+[[Category:Democides| ]]
+
+[[de:Demozid]]
+[[es:Democidio]]
+[[fa:کشتار داخلی]]
+[[fr:Démocide]]
+[[it:Democidio]]
+[[nl:Democide]]
+[[sl:Democid]]
+[[sv:Democide]]</rev></revisions></page></pages></query></api>

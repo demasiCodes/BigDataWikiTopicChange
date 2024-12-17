@@ -1,0 +1,27 @@
+<?xml version="1.0"?><api><continue rvcontinue="20110921002915|451593777" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="30170774" pageid="30170774" ns="0" title="Social privilege"><revisions><rev timestamp="2011-11-09T16:59:43Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Privilege''' is a way of [[framing (social sciences)|framing]] issues surrounding [[social inequality]], focusing as much on the advantages that one group accrues from society as on the disadvantages that another group experiences.
+
+== Group role ==
+
+Privilege differs from conditions of overt prejudice, in which a dominant group actively seeks to oppress or suppress another group for its own advantage. Instead, theories of privilege suggest that the privileged group views its social, cultural, and economic experiences as a norm that everyone should experience, rather than as an advantaged position that must be maintained at the expense of others. This normative assumption implicitly constrains discussions of social inequality within the dominant discourse: such explanations are limited to factors specific to disadvantaged groups — who are viewed as having failed to achieve the norm — and solutions focus on what can be done to help those groups achieve the 'normal' standards experienced by the dominant group.
+
+In essence, theories of privilege assert that discourses on social inequality do not truly discuss differences between privileged and marginalized groups, but only discuss the failure of marginalized groups to achieve normal social status, effectively turning inequality into an issue that does not involve the dominant group. In this sense it is similar to [[confirmation bias]]es and the [[fundamental attribution error]] in social psychology.
+
+== Framing ==
+
+When steps are taken to reduce social inequality, those steps can be interpretted as having two effects: [[reverse discrimination]] for one group, that is, as a loss of benefits that the group deserves to keep;  and [[affirmative action]] for the other group, that is, as giving benefits to a group that may not deserve to have them.
+
+[[Framing (social sciences)|Framing]] the issue in terms of [[special rights]]  highlights an author's belief that the privileged group never deserved to have the benefits conferred on them to begin with.  Thus, rather than the marginalized group unfairly gaining benefits at the privileged group's expense, it is interpreted as a leveling of the playing field, and as ultimately fair.
+
+== Specific types of privilege ==
+* [[White privilege]]
+* [[Male privilege]]
+* [[Heteronormativity|Heterosexual privilege]]
+
+== See also ==
+* [[Ingroup]] versus [[Outgroup (sociology)|outgroup]] — parallels the group dynamics between privileged and marginalized groups
+* [[Horizontal inequality]]
+* [[Intersectionality]]
+
+[[Category:Social philosophy]]
+[[Category:Discrimination]]
+[[Category:Egalitarianism]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?><api><continue rvcontinue="20191120204122|927173051" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1703917" pageid="1703917" ns="0" title="Gender expression"><revisions><rev timestamp="2019-11-20T22:29:02Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{short description|External manifestation of gender identity}}
+'''Gender expression''' is a person's behavior, mannerisms, interests, and appearance that are associated with [[gender]] in a particular cultural context, specifically with the categories of [[femininity]] or [[masculinity]]. This also includes [[gender role]]s. These categories rely on [[stereotype]]s about gender.
+
+==Definitions==
+
+Gender expression typically reflects a person's [[gender identity]] (their internal sense of their own gender), but this is not always the case.&lt;ref name="Summers"&gt;{{cite book|last1=Summers|first1=Randal W.|title=Social Psychology: How Other People Influence Our Thoughts and Actions [2 volumes]|date=2016|publisher=ABC-CLIO|isbn=9781610695923|page=232|url=https://books.google.com/books?id=5nF1DQAAQBAJ&amp;pg=PA232}}&lt;/ref&gt;&lt;ref name="APA2015"&gt;{{cite journal|author1=American Psychological Association|title=Guidelines for Psychological Practice With Transgender and Gender Nonconforming People|journal=American Psychologist|date=December 2015|volume=70|issue=9|page=861|url=http://www.apa.org/practice/guidelines/transgender.pdf|doi=10.1037/a0039906}}&lt;/ref&gt; Gender expression is separate and independent both from [[sexual orientation]] and [[Sex assignment|gender assigned at birth]]. A type of gender expression that is considered atypical for a person's externally perceived gender may be described as [[Gender variance|gender non-conforming]].
+
+In men and boys, typical or masculine gender expression is often described as ''manly'', while atypical or feminine expression is known as [[Effeminacy|effeminate]]. In girls and young women, atypically masculine expression is called [[tomboy]]ish. In lesbian and queer women, masculine and feminine expressions are known as [[butch and femme]] respectively. A mixture of typical and atypical expression may be described as [[Androgyny|androgynous]]. A type of expression that is perceived as neither typically feminine or masculine can be described as gender-neutral or undifferentiated.
+
+The term ''gender expression'' is used in the [[Yogyakarta Principles]], which concern the application of international [[human rights law]] in relation to sexual orientation, gender identity, gender expression, and [[Sex characteristics (legal term)|sex characteristics]].&lt;ref name="ypplus10"&gt;[http://www.yogyakartaprinciples.org/principles-en/yp10/ Yogyakarta Principles plus 10]&lt;/ref&gt;
+
+== Confusion between gender expression and sexual orientation ==
+		
+While gender expression does not necessarily connect to sexuality, individuals often are misinterpreted as more masculine if [[lesbian]] and more feminine if [[gay]], regardless of the individual's gender expression. These beliefs can lead to people misinterpreting an individual's gender expression based on their sexuality. Studies on adolescents conducted by Stacey Horn, showed that gay and lesbian individuals who did not express themselves as their assigned gender were seen as less acceptable. Individuals who expressed themselves with their assigned gender typically faced less social harassment and discrimination. On the other hand, [[heterosexual]] males whose gender expression was more feminine than masculine were the most discriminated against.&lt;ref&gt;Horn, Stacey S. “Adolescents’ Acceptance of Same-Sex Peers Based on Sexual Orientation and Gender Expression.” ''Journal of Youth and Adolescence'', vol. 36, no. 3, 2007, pp. 373–373., doi:10.1007/s10964-007-9176-4.&lt;/ref&gt;
+
+"The heterosexuality matrix" theory created by gender theorist [[Judith Butler]] posits that people often assume someone's sexuality based on their visible gender and sex. Lisa Disch states that it explains why people tend to assume someone's gender expression based on their sex and sexuality.&lt;ref&gt;Disch, Lisa. "Judith Butler and the Politics of the Performative." ''Political Theory'', vol. 27, no. 4, 1999, pp. 545–559., doi:10.1177/0090591799027004006.&lt;/ref&gt;
+
+==See also==
+*[[Bem Sex-Role Inventory]]
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+* Serano, Julia (2016). ''Whipping Girl: A transsexual woman on sexism and the scapegoating of femininity'' (2nd ed.), Berkeley, CA: Seal Press.
+
+== External links ==
+* [https://everydayfeminism.com/2014/05/separating-identity-expression/ Separating Out Gender Identity from Gender Expression] at [[Everyday Feminism]]
+
+{{Gender and sexual identities}}
+
+[[Category:Gender studies]]
+[[Category:Discrimination]]</rev></revisions></page></pages></query></api>

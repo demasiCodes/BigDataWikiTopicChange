@@ -1,0 +1,630 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051112235243|28156695" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="25614" pageid="25614" ns="0" title="Race (human categorization)"><revisions><rev timestamp="2005-11-12T23:55:27Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{otheruses}}
+
+A '''race''' is a [[population]] of [[human]]s distinguished from other populations. The most widely used [[racial category|racial categories]] are based on visible [[trait]]s (especially [[skin color]] and [[face|facial features]]). Conceptions of race, as well as specific [[racial grouping]]s, vary by culture and time and are often [[controversial issue|controversial]] due to their impact on [[social identity]] hence [[identity politics]].
+
+Since the [[1940s]], [[evolution]]ary scientists have rejected the view of race according to which a number of finite lists of [[Essentialism|essential]] characteristics could be used to determine a like number of races. By the [[1960s]], data and models from [[population genetics]] called into question [[taxonomic]] understandings of race, and many have turned from conceptualizing and analyzing human variation in terms of race to doing so in terms of [[population genetics|populations]] and [[cline|clines]] instead. 
+However, many scientists believe that race is a valid and useful concept Moreover, since the [[1990s]], data and models from [[genomics]] and [[cladistics]] have resulted in a revolution in our understanding of human evolution, which has led some to propose a new "[[Lineage (evolution)|lineage]]" definition of race. These scientists have made related arguments that races are valid when understood as [[fuzzy set]]s, [[Data clustering|clusters]], or [[Kinship and descent|extended families]]. Currently, opinions differ substantially within and among [[academic disciplines]].
+
+Many evolutionary and social scientists, drawing on such biological research, think common race definitions, or any race definitions pertaining to humans, lack [[taxonomy|taxonomic]] rigour and [[validity of human races|validity]]. They argue that race definitions are imprecise, arbitrary, derived from custom, and that the races observed vary according to the culture examined. They further maintain that race is best understood as a [[social construction|social construct]]. Other scientists, however, have argued that this shift is motivated more by political than scientific reasons.
+
+== Historical origins of "race" ==
+{{main|Race (historical definitions)}}
+
+[[Image:Map of skin hue equi.png|thumb|300px|Map of skin-color distribution for "native populations" collected by [[Renato Biasutti]] prior to [[1930s|1940]].]]
+
+=== History of the term ===
+
+Given our visual acuity and complex social relationships, humans presumably have always observed and speculated about the physical differences among individuals and groups. But different societies have attributed markedly different meanings to these distinctions. The division of humanity into distinct "races" can be traced as far back as the [[Ancient Egyptian]] sacred text the [[Book of Gates]], which identifies four categories that are now conventionally labelled "Egyptians", "Asiatics", "Libyans", and "Nubians". However, such distinctions tended to merge differences defined by features such as skin color, with [[tribe|tribal]] and [[nation]]al identity. Classical civilizations from Rome to China tended to invest much more importance in family or tribal affiliations than in physical appearance (Dikötter 1992; Goldenberg 2003). [[Ancient Greek]] and [[Ancient Roman|Roman]] authors also attempted to explain and categorize visible biological differences between peoples known to them. Such categories often also included fantastical human-like beings that were supposed to exist in far-away lands. Some Roman writers adhered to an environmental determinism in which climate could affect the appearance and character of groups (Isaac 2004). But in many ancient civilizations, individuals with widely varying physical appearances could become full members of a society by growing up within that society or by adopting the society's cultural norms (Snowden 1983; Lewis 1990). [[Medieval]] models of race mixed [[Graeco-Roman|Classical]] ideas with the notion that humanity as a whole was descended from [[Shem]], [[Ham]] and [[Japheth]], the three [[sons of Noah]], producing distinct [[Semitic]] (Asian), [[Hamitic]] (African), and [[Japhetic]] (European) peoples.
+
+The word '''race''' entered the [[English language]] in the [[16th century]], from [[French language|French]] ''race'' "race, breed, lineage" (which in turn was probably a loan from [[Italian language|Italian]] ''razza''). Meanings of the term in the 16th century included "[[wine]]s with a characteristic flavour", "people with common occupation", and "[[generation]]". The meaning "[[tribe]]" or "[[nation]]" emerged in the [[17th century]]. The modern meaning, "one of the major divisions of mankind", dates to the late [[18th century]], but it never became exclusive (cf. continued use of "the human race"). The ultimate origin of the word is unknown; suggestions include [[Arabic language|Arabic]] ''[[Rho (letter)|ra'is]]'' meaning "head", but also "beginning" or "origin".
+
+The English word "race", along with many of the ideas now associated with the term, were products of the European era of exploration (Smedley 1999). As Europeans encountered people from different parts of the world, they speculated about the physical, social, and cultural differences between human groups. The rise of the African slave trade, which gradually displaced an earlier trade in slaves from throughout the world, created a further incentive to categorize human groups to justify the barbarous treatment of African slaves (Meltzer 1993). Drawing on classical sources and on their own internal interactions—for example, the hostility between the English and Irish was a powerful influence on early thinking about the differences between people (Takaki 1993)—Europeans began to sort themselves and others into groups associated with physical appearance and with deeply ingrained behaviors and capacities. A set of "folk beliefs" took hold that linked inherited physical differences between groups to inherited intellectual, behavioral, and moral qualities (Banton 1977). Although similar ideas can be found in other cultures (Lewis 1990; Dikötter 1992), they appear not to have had as much influence on social structures as they did in Europe and the parts of the world colonized by Europeans.
+
+=== History of race research ===
+
+The first scientific attempts to categorize race date from the 17th century, along with the development of European imperialism and colonization around the world. The first post-[[Graeco-Roman|Classical]] published classification of humans into distinct races seems to be [[François Bernier]]'s ''Nouvelle division de la terre par les différents espèces ou races qui l'habitent'' ("New division of Earth by the different species or races which inhabit it"), published in [[1684]].
+
+In the 18th century, the differences between human groups became a focus of scientific investigation (Todorov 1993). Initially, scholars focused on cataloging and describing "The Natural Varieties of Mankind," as [[Johann Friedrich Blumenbach]] entitled his 1775 text (which established the five major divisions of humans still reflected in some racial classifications). But as the science of anthropology took shape in the 19th century, European and American scientists increasingly sought explanations for the behavioral and cultural differences they attributed to groups (Stanton 1960). For example, they measured the shapes and sizes of skulls and related the results to group differences in intelligence or other attributes (Lieberman 2001). Both before and after the 1859 publication of ''[[On the Origin of Species]]'', a debate raged in Europe over whether different human groups had the same origin or were the product of separate creations or evolutionary lineages (Wolpoff and Caspari 1997).
+
+From the 17th through the 19th centuries, the merging of folk beliefs about group differences with scientific explanations of those differences produced what one scholar has called an "ideology of race" (Smedley 1999). According to this ideology, races are primordial, natural, enduring, and distinct. Some groups might be the result of mixture between formerly distinct populations, but careful study can distinguish the ancestral races that had combined to produce admixed groups.
+
+In the [[19th century]] a number of [[natural science|natural scientists]] wrote on race: [[Georges Cuvier]], [[James Cowles Pritchard]], [[Louis Agassiz]], [[Charles_Pickering_NMI|Charles Pickering]], and [[Johann Friedrich Blumenbach]]. These scientists made three claims about race: first, that races are objective, naturally occurring divisions of humanity; second, that there is a strong relationship between biological races and other human phenomena (such as [[forms of activity and interpersonal relations]] and culture, and by extension the relative [[materialism|material success]] of cultures); third, that race is therefore a valid scientific category that can be used to explain and predict individual and group behavior. Races were distinguished by [[human skin color|skin color]], [[face|facial]] type, [[cranium|cranial]] profile and size, texture and color of [[hair]]. Moreover, races were almost universally considered to reflect group differences in [[moral]] character and [[intelligence (trait)|intelligence]].
+
+Their understanding of race was usually both [[essentialism|essentialist]] (defining a race by a list of characteristics) and [[taxonomic]] (hierarchical). The advent of [[Charles Darwin|Darwinian]] models of [[evolution]] and [[Gregor Mendel|Mendelian]] [[genetics]], however, called into question the scientific validity of both characteristics, and required a radical reconsideration of race.
+
+The concept of race found wide application in many societies. The eugenics movement of the late 19th and early 20th centuries asserted as self-evident the biological inferiority of particular groups (Kevles 1985). In many parts of the world, the idea of race became a way of rigidly dividing groups by use of culture as well as physical appearances (Hannaford 1996). Campaigns of oppression and genocide often used supposed racial differences to motivate inhuman acts against others (Horowitz 2001).
+
+==20th- and 21st-Century debates over race==
+{{main|Validity of human races}}
+
+
+===Scale of race research===
+
+Discussions of race are complicated because race research has taken place on at least two scales (global and national) and from the point of view of different research aims. Evolutionary scientists are typically interested in humanity as a whole; and taxonomic racial classifications are often either unhelpful to, or refuted by, studies that focus on the question of [[global human diversity]]. Policy-makers and applied professions (such as law-enforcement or medicine), however, are typically concerned only with genetic variation at the national or sub-national scale, and find taxonomic racial categories useful.
+
+These distinctions of research aims and scale can be seen by the example of three major research papers published since [[2002]]: [[Rosenberg, N. A.|Rosenberg]] et al. (2002), [[Serre &amp; Pääbo]] (2004), and [[Tang H, Quertermous|Tang]] et al. (2005). Both Rosenberg et al. and Serre &amp; Pääbo study [[global genetic variation]], but they arrive at different conclusions. Serre &amp; Pääbo attribute their differing conclusions to [[experimental design]]. While Rosenberg et al. studied individuals from populations across the globe without respect to geography, Serre &amp; Pääbo sampled individuals with respect to geography. By sampling individuals from major populations on each continent, Rosenberg et al. find evidence for genetic "clusters" (i.e., races). In contrast, Serre &amp; Pääbo find that with respect to geography human genetic variation is continuous and "clinal". The research interest of Rosenberg et al. is medicine (i.e., [[epidemiology]]), whereas the research interest of Serre &amp; Pääbo is human evolution. Tang et al. studied genetic variation within the [[United States]] with an interest in whether race/ethnicity or geography is of greater importance to epidemiological research. In contrast to Serre &amp; Pääbo, Tang et al. find that race/ethnicity is of greater importance within the United States. Further [http://www.journals.uchicago.edu/AJHG/journal/issues/v77n3/42406/brief/42406.abstract.html recent research] correlating self-identified race with [http://pritch.bsd.uchicago.edu/software/structure2_1.html population genetic structure] echoed the conculsions in Tang. Indeed, the contrasting conclusions between global and national levels of analysis were predicted by Serre &amp; Pääbo:
+:It is worth noting that the [[colonization]] history of the United States has resulted in a "sampling" of the human population made up largely of people from [[western Europe]], [[western Africa]], and [[Southeast Asia]]. Thus, studies in which individuals from Europe, sub-Saharan Africa, and Southeast Asia are used... might be an adequate description of the major components of the U.S. population.
+
+====Race as subspecies====
+
+With the advent of the [[modern synthesis]] in the early 20th century, biologists developed a new, more rigorous model of race as subspecies. For these biologists, a race is a recognizable group forming all or part of a [[species]]. A ''[[monotypic]]'' species has no races, or rather one race comprising the whole species. Monotypic species can occur in several ways:
+
+* All members of the species are very similar and cannot be sensibly divided into biologically significant subcategories.  
+* The individuals vary considerably but the variation is essentially random and largely meaningless so far as genetic transmission of these variations is concerned  (many plant species fit into this category, which is why horticulturists interested in preserving, say, a particular flower color avoid propagation from seed, and instead use vegetative methods like propagation from cuttings).
+* The variation between individuals is noticeable and follows a pattern, but there are no clear dividing lines between separate groups: they fade imperceptibly into one another. Such [[cline|clinal]] variation always indicates substantial [[gene flow]] between the apparently separate groups that make up the population(s). Populations that have a steady, substantial gene flow between them are likely to represent a monotypic species even when a fair degree of genetic variation is obvious.
+
+A ''[[polytypic]]'' species has two or more races (or, in current [[parlance]], two or more ''sub-types''). These are separate groups that are clearly distinct from one another and do not generally [[interbreed]] (although there may be a relatively narrow [[hybridization zone]]), but which ''would'' interbreed freely if given the chance to do so. Note that groups which would ''not'' interbreed freely, even if brought together such that they had the opportunity to do so, are not races: they are separate species.
+
+Although this attempt at conceptual precision gained currency with many biologists, especially [[zoologist]]s, evolutionary scientists have criticized it on a number of fronts.
+
+
+====The rejection of race and the rise of "[[Population genetics|population]]" and "[[cline]]"====
+
+At the beginning of the 20th century, [[anthropologist]]s questioned, and subsequently abandoned, the claim that biologically distinct races are [[isomorphic]] with distinct linguistic, cultural, and social groups. Then, the rise of [[population genetics]] led some mainstream evolutionary scientists in [[anthropology]] and [[biology]] to question the very validity of race as scientific concept describing an objectively real phenomenon. Those who came to reject the validity of the concept, race, did so for four reasons: empirical, definitional, the availability of alternative concepts, and ethical (Lieberman and Byrne 1993).  
+
+The first to challenge the concept of race on empirical grounds were [[anthropology|anthropologists]] [[Franz Boas]], who demonstrated phenotypic plasticity due to environmental factors (Boas 1912), and [[Ashley Montagu]] (1941, 1942), who relied on evidence from genetics. [[Zoology|Zoologists]] Edward O. Wilson and W. Brown then challenged the concept from the perspective of general [[animal systematics]], and further rejected the claim that "races" were equivalent to "subspecies" (Wilson and Brown 1953).
+
+One of the crucial innovations in reconceptualizing [[genotypic]] and [[phenotypic]] variation was anthropologist [[C. Loring Brace]]'s observation that such variations, insofar as they are affected by [[natural selection]], [[migration]], or [[genetic drift]], are distributed along [[geographic gradation]]s; these gradations are called "[[cline]]s" (Brace 1964). This point called attention to a problem common to phenotypic-based descriptions of races (for example, those based on hair texture and skin color): they ignore a host of other similarities and difference (for example, blood type) that do not correlate highly with the markers for race. Thus, anthropologist [[Frank Livingstone]]'s conclusion that, since clines cross racial boundaries, "there are no races, only clines" (Livingstone 1962: 279). In 1964, biologists [[Paul Ehrlich]] and Holm pointed out cases where two or more clines are distributed discordantly&amp;mdash;for example, [[melanin]] is distributed in a decreasing pattern from the equator north and south; frequencies for the [[haplotype]] for [[beta-S]] [[hemoglobin]], on the other hand, radiate out of specific geographical points in Africa (Ehrlich and Holm 1964). As anthropologists [[Leonard Lieberman]] and [[Fatimah Linda Jackson]] observe, "Discordant patterns of heterogeneity falsify any description of a population as if it were genotypically or even phenotypically homogeneous" (Lieverman and Jackson 1995).
+
+Finally, geneticist [[Richard Lewontin]], observing that 85 percent of human variation occurs within populations, and not between populations, argued that neither "race" nor "subspecies" was an appropriate or useful way to describe populations (Lewontin 1973). This view is purportedly debunked as [[Lewontin's Fallacy]]. Some researchers report the variation between racial groups (measured by [[Sewall Wright|Sewall Wright's]] population structure statistic F&lt;sub&gt;ST&lt;/sub&gt;) accounts for as little as 5% of human genetic variation&lt;sup&gt;2&lt;/sup&gt;. However, because of technical limitations of F&lt;sub&gt;ST&lt;/sub&gt;, many geneticists now believe that low F&lt;sub&gt;ST&lt;/sub&gt; values do not invalidate the suggestion that there might be different human races (Edwards, 2003). Meanwhile, [[neo-Marxists]] such as [[David Harvey]] (1982, 1984, 1992) believe that race is a social construct that in reality does not exist, used instead to extenuate class differences.
+
+These empirical challenges to the concept of race forced evolutionary sciences to reconsider their definition of race. Mid-century, anthropologist [[William Boyd]] defined race as:
+:A population which differs significantly from other populations in regard to the frequency of one or more of the genes it possesses. It is an arbitrary matter which, and how many, [[gene loci]] we choose to consider as a significant "constellation" (Boyd 1950).
+Lieberman and Jackson (1994) have pointed out that "the weakness of this statement is that if one gene can distinguish races then the number of races is as numerous as the number of human couples reproducing."  Moreover, anthropologist [[Stephen Molnar]] has suggested that the discordance of clines inevitably results in a multiplication of races that renders the concept itself useless (Molnar 1992).
+
+Alongside empirical and conceptual problems with "race" following the [[Second World War]], evolutionary and social scientists were acutely aware of how beliefs about race had been used to justify [[discrimination]], [[apartheid]], [[slavery]], and [[genocide]]. This questioning gained momentum in the [[1960s]] during the U.S. [[civil rights movement]] and the emergence of numerous [[anti-colonial movement]]s worldwide.
+
+In the face of these issues, some evolutionary scientists have simply abandoned the concept of race in favor of "[[Population genetics|population]]."  What distinguishes population from previous groupings of humans by race is that it refers to a breeding population (essential to genetic calculations) and not to a biological [[taxon]]. Other evolutionary scientists have abandoned the concept of race in favor of [[cline]] (meaning, how the frequency of a trait changes along a geographic gradient). The concepts of population and cline are not, however, mutually exclusive and both are used by many evolutionary scientists.
+
+In the face of this rejection of race by evolutionary scientists, many social scientists have replaced the word race with the word "[[Ethnic group|ethnicity]]" to refer to self-identifying groups based on beliefs in shared [[religion]], [[nationality]], or race. Moreover, they understood these shared beliefs to mean that religion, nationality, and race itself are [[social construct]]s and have no objective basis in the supernatural or natural realm (Gordon 1964). See also the American Anthropological Association's Statement on Race [http://www.aaanet.org/stmts/racepp.htm].
+
+===Summary of different definitions of race===
+{{main|Contemporary views on race}}
+
+{| {{prettytable}}
+|+ Biological definitions of race (Long &amp; Kittles, 2003).
+! Concept || Reference || Definition
+|-
+| Essentialist || Hooton (1926) || "A great division of mankind, characterized as a group by the sharing of a certain combination of features, which have been derived from their common descent, and constitute a vague physical background, usually more or less obscured by individual variations, and realized best in a composite picture."
+|-
+| Taxonomic || [[Ernst Mayr|Mayr]] (1969) || "An aggregate of phenotypically similar populations of a species, inhabiting a geographic subdivision of the range of a species, and differing taxonomically from other populations of the species."
+|-
+| Population || [[Theodosius Dobzhansky|Dobzhansky]] (1970) || "Races are genetically distinct Mendelian populations. They are neither individuals nor particular genotypes, they consist of individuals who differ genetically among themselves."
+|-
+| Lineage || Templeton (1998) || "A subspecies (race) is a distinct evolutionary lineage within a species. This definition requires that a subspecies be genetically differentiated due to barriers to genetic exchange that have persisted for long periods of time; that is, the subspecies must have historical continuity in addition to current genetic differentiation."
+|}
+
+The [[United States]] government has provided definitions regarding race (see for example [[Race (U.S. Census)]]). Racial classification in the U.S. 2000 census was based solely on [[self-identification]], did not pre-suppose [[disjointedness]], and did not include a category "Hispanic," which is considered an [[ethnicity]], rather than a race, by the U.S. Census.
+
+== The Origins, Patterns, and Physical Manifestations of Human Genetic Variation ==
+
+=== The Origins of Modern Humans ===
+:''see also [[single-origin hypothesis]], [[multiregional hypothesis]].''
+[[Image:Cavalli-SforzaMap.jpg|thumb|right|Map of human [[genetic diversity]], from the dust jacket of ''The History and Geography of Human Genes'', (Cavalli-Sforza 1994). "The color map of the world shows very distinctly the differences that we know exist among the continents: Africans (yellow), Caucasoids (green), Mongoloids (purple), and Australian Aborigines (red). The map does not show well the strong Caucasoid component in northern Africa, but it does show the unity of the other Caucasoids from Europe, and in West, South, and much of Central Asia."]]
+
+Any biological model for race must account for the development of racial differences during human evolution.  For much of the 20th century, however, anthropologists relied on an incomplete [[fossil]] record for reconstructing human evolution. Their models seldom provided a firm basis for drawing inferences about the origin of races. Modern research in [[molecular biology]], however, has provided evolutionary scientists with a whole new kind of data, which adds considerably to the knowledge of our past.
+
+There has been considerable debate among anthropologists as to the origins of ''Homo sapiens''.  About a million years ago [[Homo erectus]] migrated out of Africa and into Europe and Asia. The debate hinges on whether ''Homo erectus'' evolved into ''Homo sapiens'' more or less simultaneously in Africa, Europe, and Asia, or whether ''Homo sapiens'' evolved only in Africa, and eventually supplanted ''Homo erectus'' in Europe and Asia. Each model suggests different possible scenarios for the evolution of distinct races.
+
+==== Multiregional hypothesis ====
+
+Advocates of the first scenario (see Frayer et al. 1993), the [[Multiregional hypothesis|multiregional continuity evolution model]], cite as evidence [[anatomy|anatomical]] continuity in the fossil record in South Central Europe (Smith 1982), East Asia and Australia (Wolpoff 1993) (anatomical affinity is taken to suggest genetic affinity). They argue that very strong genetic similarities among all humans do not prove recent common ancestry, but rather reflect the interconnectedness of human populations around the world, resulting in relatively constant gene flow (Thorne and Wolpoff 1992). They further argue that this model is consistent with clinal patterns (Wolpoff 1993).
+
+The most important element of this model for theories of race is that it allows a million years for the evolution of ''Homo sapiens'' around the world; this is more than enough time for the evolution of different races. Leiberman and Jackson (1995), however, have noted that this model depends on several findings relevant to race: (1) that marked [[morphology|morphological]] contrasts exist between individuals found at the center and at the perimeter of [[Middle Pleistocene]] range of the genus ''Homo''; (2) that many features can be shown to emerge at the edge of that range before they develop at the center; and (3) that these features exhibit great tenacity through time. Regional variations in these features can thus be taken as evidence for long term differences among genus Homo individuals that prefigure different races among present-day Homo sapiens individuals.
+
+==== Out of Africa ====
+
+[[Image:Map-of-human-migrations.jpg|thumb|360px|right|Map of early human migrations according to [[Mitochondrial DNA|mitochondrial]] [[population genetics]] (numbers are [[millennium|millennia]] before present).]]
+
+Information about the history of our species comes from two main sources: the paleoanthropological record and historical inferences based on current genetic differences observed in humans. Although both sources of information are fragmentary, they have been converging in recent years on the same general story.
+
+Since the [[1990s]], it has become common to use [[multilocus]] genotypes to distinguish different human groups and to allocate individuals to groups (Bamshad et al. 2004). These data have led to an examination of the biological validity of races as [[Lineage (evolution)|evolutionary lineages]] and the description of races in [[cladistics|cladistic]] terms. The technique of multilocus genotyping has been used to determine patterns of [[human demographic history]]. Thus, the concept of "race" afforded by these techniques is synonymous with [[ancestry]], broadly understood.
+
+Studies of human genetic variation imply that [[Africa]] was the ancestral source of all modern humans, and that ''Homo sapiens'' migrated out of Africa and displaced ''Homo erectus'' between 140,000 and 290,000 years ago (Cann et al. 1987). [[Indigenous Australians]] are believed to be an early out-group that remained isolated. Most other groups, including [[Europeans]], [[Asians]], and [[Indigenous peoples of the Americas|Native Americans]], were found to be a single related ([[monophyletic]]) group resulting from a later out-migration from Africa, which could reasonably be divided into West and East Eurasian groups.
+
+The existing fossil evidence suggests that anatomically modern humans evolved in Africa, within the last ∼200,000 years, from a pre-existing population of humans (Klein 1999). Although it is not easy to define "anatomically modern" in a way that encompasses all living humans and excludes all archaic humans (Lieberman et al. 2002), the generally agreed-upon physical characteristics of anatomical modernity include a high rounded skull, facial retraction, and a light and gracile, as opposed to heavy and robust, skeleton (Lahr 1996). Early fossils with these characteristics have been found in eastern Africa and have been dated to ∼160,000–200,000 years ago (White et al. 2003; McDougall et al. 2005). At that time, the population of anatomically modern humans appears to have been small and localized (Harpending et al. 1998). Much larger populations of archaic humans lived elsewhere in the Old World, including the Neandertals in Europe and an earlier species of humans, Homo erectus, in Asia (Swisher et al. 1994).
+
+Fossils of the earliest anatomically modern humans found outside Africa are from two sites in the Middle East and date to a period of relative global warmth, ∼100,000 years ago, though this region was reinhabited by Neandertals in later millennia as the climate in the northern hemisphere again cooled (Lahr and Foley 1998). Groups of anatomically modern humans appear to have moved outside Africa permanently sometime &gt;60,000 years ago. One of the earliest modern skeletons found outside Africa is [[Mungo Man]], from Australia, and has been dated to ∼42,000 years ago (Bowler et al. 2003), although studies of environmental changes in Australia argue for the presence of modern humans in Australia &gt;55,000 years ago (Miller et al. 1999). To date, the earliest anatomically modern skeleton discovered from Europe comes from the Carpathian Mountains of Romania and is dated to 34,000–36,000 years ago (Trinkaus et al. 2003).
+
+Existing data on human genetic variation support and extend conclusions based on the fossil evidence. African populations exhibit greater genetic diversity than do populations in the rest of the world, implying that humans appeared first in Africa and later colonized Eurasia and the Americas (Tishkoff and Williams 2002; Yu et al. 2002; Tishkoff and Verrelli 2003). The genetic variation seen outside Africa is generally a subset of the variation within Africa, a pattern that would be produced if the migrants from Africa were limited in number and carried just part of African genetic variability with them (Cavalli-Sforza and Feldman 2003). Patterns of genetic variation suggest an earlier population expansion in Africa followed by a subsequent expansion in non-African populations, and the dates calculated for the expansions generally coincide with the archaeological record (Jorde et al. 1998).
+
+Aspects of the relationship between anatomically modern and archaic humans remain contentious. Studies of mtDNA (Ingman et al. 2000), the Y chromosome (Underhill et al. 2000), portions of the X chromosome (Kaessmann et al. 1999), and many (though not all) autosomal regions (Harpending and Rogers 2000) support the "Out of Africa" account of human history, in which anatomically modern humans appeared first in eastern Africa and then migrated throughout Africa and into the rest of the world, with little or no interbreeding between modern humans and the archaic populations they gradually replaced (Tishkoff et al. 2000; Stringer 2002). However, several groups of researchers cite fossil and genetic evidence to argue for a more complex account. They contend that humans bearing modern traits emerged several times from Africa, over an extended period, and mixed with archaic humans in various parts of the world (Hawks et al. 2000; Eswaran 2002; Templeton 2002; Zi&amp;eogon;tkiewicz et al. 2003). As a result, they say, autosomal DNA from archaic human populations living outside Africa persists in modern populations, and modern populations in various parts of the world still bear some physical resemblance to the archaic populations that inhabited those regions (Wolpoff et al. 2001).
+
+However, distinguishing possible contributions to the gene pool of modern humans from archaic humans outside Africa is difficult, especially since many autosomal loci coalesce at times preceding the separation of archaic human populations (Pääbo 2003). In addition, studies of mtDNA from archaic and modern humans and extant Y chromosomes suggest that any surviving genetic contributions of archaic humans outside Africa must be small, if they exist at all (Krings et al. 1997; Nordborg 1998; Takahata et al. 2001; Serre et al. 2004). The observation that most genes studied to date coalesce in African populations points toward the importance of Africa as the source of most modern genetic variation, perhaps with some subdivision in the ancestral African population (Satta and Takahata 2002). Sequence data for hundreds of loci from widely distributed worldwide populations eventually may clarify the population processes associated with the appearance of anatomically modern humans (Wall 2000), as well as the amount of gene flow among modern humans since then.
+
+==== Cladistics ====
+
+[[Image:Human-phylo-tree.png|thumb|center|610px|]]
+
+A [[phylogenetic tree]] like the one shown above is usually derived from [[DNA]] or [[protein]] [[DNA sequence|sequences]] from populations. Often [[mitochondrial DNA]] or [[Y-chromosomal Adam|Y chromosome]] sequences are used to study ancient human demographics. These single-[[locus]] sources of DNA do not [[genetic recombination|recombine]] and are inherited from a single parent. Individuals from the various continental groups tend to be more similar to one another than to people from other continents. The tree is rooted in the common ancestor of [[chimpanzee]]s and humans, which is believed to have originated in [[Africa]]. Horizontal distance corresponds to two things:
+
+#'''Genetic distance'''. Given below the diagram, the genetic difference between humans and [[chimp]]s is roughly 2%, or 20 times larger than the variation among modern humans.
+#'''Temporal remoteness''' of the most recent common ancestor. Rough estimates are given above the diagram, in millions of years. The [[mitochondrial]] most recent common ancestor of modern humans lived roughly 200,000 years ago, latest common ancestors of humans and chimps between four and seven million years ago.
+
+Chimpanzees and humans belong to different [[genus|genera]], indicated in red. Formation of [[species]] and [[subspecies]] is also indicated, and the formation of "races" is indicated in the green rectangle to the right (note that only a very rough representation of human [[phylogeny]] is given). Note that vertical distances are not meaningful in this representation.
+
+=== The Distribution of Variation ===
+
+A thorough description of the differences in patterns of genetic variation between humans and other species awaits additional genetic studies of human populations and nonhuman species. But the data gathered to date suggest that human variation exhibits several distinctive characteristics. First, compared with many other mammalian species, humans are genetically less diverse—a counterintuitive finding, given our large population and worldwide distribution (Li and Sadler 1991; Kaessmann et al. 2001). For example, the chimpanzee subspecies living just in central and western Africa have higher levels of diversity than do humans (Ebersberger et al. 2002; Yu et al. 2003; Fischer et al. 2004).
+
+Two random humans are expected to differ at approximately 1 in 1000 [[nucleotide pair]]s, whereas two random chimpanzees differ at 1 in 500 nucleotide pairs. However, with a genome of approximate 3 billion nucleotides, on average two humans differ at approximately 3 million nucleotides. Most of these [[single nucleotide polymorphisms]] (SNPs) are [[Neutral theory of molecular evolution|neutral]], but some are functional and influence the phenotypic differences between humans. It is estimated that about 10 million SNPs exist in human populations, where the rarer SNP allele has a frequency of at least 1% (see [[International HapMap Project]]).
+
+The distribution of variants within and among human populations also differs from that of many other species. The details of this distribution are impossible to describe succinctly because of the difficulty of defining a "population," the clinal nature of variation, and heterogeneity across the genome (Long and Kittles 2003). In general, however, 5%–15% of genetic variation occurs between large groups living on different continents, with the remaining majority of the variation occurring within such groups (Lewontin 1972; Jorde et al. 2000a; Hinds et al. 2005). This distribution of genetic variation differs from the pattern seen in many other mammalian species, for which existing data suggest greater differentiation between groups (Templeton 1998; Kittles and Weiss 2003).
+
+In the field of [[population genetics]], it is believed that the distribution of [[neutral polymorphism]]s among contemporary humans reflects human demographic history. 
+
+Our history as a species also has left genetic signals in regional populations. For example, in addition to having higher levels of genetic diversity, populations in Africa tend to have lower amounts of [[linkage disequilibrium]] than do populations outside Africa, partly because of the larger size of human populations in Africa over the course of human history and partly because the number of modern humans who left Africa to colonize the rest of the world appears to have been relatively low (Gabriel et al. 2002). In contrast, populations that have undergone dramatic size reductions or rapid expansions in the past and populations formed by the mixture of previously separate ancestral groups can have unusually high levels of linkage disequilibrium (Nordborg and Tavare 2002).
+
+In the field of [[population genetics]], it is believed that the distribution of [[neutral polymorphism]]s among contemporary humans reflects human demographic history. It is believed that humans passed through a [[population bottleneck]] before a rapid expansion coinciding with migrations [[Single origin hypothesis|out of Africa]] leading to an African-Eurasian divergence around 100,000 years ago (ca. 5,000 generations), followed by a European-Asian divergence about 40,000 years ago (ca. 2,000 generations). 
+
+The rapid expansion of a previously [[small population size|small population]] has two important effects on the distribution of genetic variation. First, the so-called [[founder effect]] occurs when founder populations bring only a subset of the genetic variation from their ancestral population. Second, as founders become more geographically separated, the probability that two individuals from different founder populations will mate becomes smaller. The effect of this [[assortative mating]] is to reduce gene flow between geographical groups, and to increase the genetic distance between groups. The expansion of humans from Africa affected the distribution of genetic variation in two other ways. First, smaller (founder) populations experience greater [[genetic drift]] because of increased fluctuations in neutral polymorphisms. Second, new polymorphisms that arose in one group were less likely to be transmitted to other groups as gene flow was restricted.
+
+Many other geographic, climatic, and historical factors have contributed to the patterns of human genetic variation seen in the world today. For example, population processes associated with colonization, periods of geographic isolation, socially reinforced endogamy, and natural selection all have affected allele frequencies in certain populations (Jorde et al. 2000b; Bamshad and Wooding 2003). In general, however, the recency of our common ancestry and continual gene flow among human groups have limited genetic differentiation in our species.
+
+=== Substructure in the Human Population ===
+[[Image:Admixture triangle plot.png|thumb|right|356px|Triangle plot shows average admixture of five North American ethnic groups. Individuals that self-identify with each group can be found at many locations on the map, but on average groups tend to cluster differently.]]
+
+New data on human genetic variation has reignited the debate surrounding race. Most of the controversy surrounds the question of how to interpret these new data, and whether conclusions based on existing data are sound (see [[validity of human races]]). A large majority of researchers endorse the view that continental groups do not constitute different subspecies. However, other researchers still debate whether evolutionary lineages should rightly be called "races". These questions are particularly pressing for [[biomedicine]], where self-described race is often used as an indicator of ancestry (see [[race in biomedicine]] below).
+
+Although the genetic differences among human groups are relatively small, these differences nevertheless can be used to situate many individuals within broad, geographically based groupings. For example, computer analyses of hundreds of polymorphic loci sampled in globally distributed populations have revealed the existence of genetic clustering that roughly is associated with groups that historically have occupied large continental and subcontinental regions (Rosenberg et al. 2002; Bamshad et al. 2003).
+
+Some commentators have argued that these patterns of variation provide a biological justification for the use of traditional racial categories. They argue that the continental clusterings correspond roughly with the division of human beings into sub-Saharan Africans; Europeans, western Asians, and northern Africans; eastern Asians; Polynesians and other inhabitants of Oceania; and Native Americans (Risch et al. 2002). Other observers disagree, saying that the same data undercut traditional notions of racial groups (King and Motulsky 2002; Calafell 2003; Tishkoff and Kidd 2004). They point out, for example, that major populations considered races or subgroups within races do not necessarily form their own clusters. Thus, samples taken from India and Pakistan affiliate with Europeans or eastern Asians rather than separating into a distinct cluster. However, samples from the Kalash, a small population living in northwestern Pakistan, form their own cluster on a level comparable with those of the major continental regions (Rosenberg et al. 2002).
+
+Sampling design can have a critical influence on the results of such studies. Studies of genetic clustering often have relied on samples taken from widely separated and socially defined populations. When samples were analyzed from individuals who were more evenly distributed geographically, clustering was far less evident (Serre and Pääbo 2004). Furthermore, because human genetic variation is clinal, many individuals affiliate with two or more continental groups. Thus, the genetically based "biogeographical ancestry" assigned to any given person generally will be broadly distributed and will be accompanied by sizable uncertainties (Pfaff et al. 2004).
+
+In many parts of the world, groups have mixed in such a way that many individuals have relatively recent ancestors from widely separated regions. Although genetic analyses of large numbers of loci can produce estimates of the percentage of a person's ancestors coming from various continental populations (Shriver et al. 2003; Bamshad et al. 2004), these estimates may assume a false distinctiveness of the parental populations, since human groups have exchanged mates from local to continental scales throughout history (Cavalli-Sforza et al. 1994; Hoerder 2002). Even with large numbers of markers, information for estimating admixture proportions of individuals or groups is limited, and estimates typically will have wide CIs (Pfaff et al. 2004).
+
+=== Physical Variation in Humans ===
+
+The distribution of many physical traits resembles the distribution of genetic variation within and between human populations (American Association of Physical Anthropologists 1996; Keita and Kittles 1997). For example, ∼90% of the variation in human head shapes occurs within every human group, and ∼10% separates groups, with a greater variability of head shape among individuals with recent African ancestors (Relethford 2002).
+
+A prominent exception to the common distribution of physical characteristics within and among groups is skin color. Approximately 10% of the variance in skin color occurs within groups, and ~90% occurs between groups (Relethford 2002). This distribution of skin color and its geographic patterning—with people whose ancestors lived predominantly near the equator having darker skin than those with ancestors who lived predominantly in higher latitudes—indicate that this attribute has been under strong selective pressure. Darker skin appears to be strongly selected for in equatorial regions to prevent sunburn, skin cancer, the photolysis of folate, and damage to sweat glands (Sturm et al. 2001; Rees 2003). A leading hypothesis for the selection of lighter skin in higher latitudes is that it enables the body to form greater amounts of vitamin D, which helps prevent rickets (Jablonski 2004). However, the vitamin D hypothesis is not universally accepted (Aoki 2002), and lighter skin in high latitudes may correspond simply to an absence of selection for dark skin (Harding et al. 2000).
+
+Because skin color has been under strong selective pressure, similar skin colors can result from convergent adaptation rather than from genetic relatedness. Sub-Saharan Africans, tribal populations from southern India, and Indigenous Australians have similar skin pigmentation, but genetically they are no more similar than are other widely separated groups. Furthermore, in some parts of the world in which people from different regions have mixed extensively, the connection between skin color and ancestry has been substantially weakened (Parra et al. 2004). In Brazil, for example, skin color is not closely associated with the percentage of recent African ancestors a person has, as estimated from an analysis of genetic variants differing in frequency among continent groups (Parra et al. 2003).
+
+Considerable speculation has surrounded the possible adaptive value of other physical features characteristic of groups, such as the constellation of facial features observed in many eastern and northeastern Asians (Guthrie 1996). However, any given physical characteristic generally is found in multiple groups (Lahr 1996), and demonstrating that environmental selective pressures shaped specific physical features will be difficult, since such features may have resulted from sexual selection for individuals with certain appearances or from genetic drift (Roseman 2004).
+
+== The Social Interpretation of Physical Variation ==
+
+=== The Incongruities of Racial Classifications ===
+
+Even as the idea of "race" was becoming a powerful organizing principle in many societies, the shortcomings of the concept were apparent. In the Old World, the gradual transition in appearances from one group to adjacent groups emphasized that "one variety of mankind does so sensibly pass into the other, that you cannot mark out the limits between them," as Blumenbach observed in his writings on human variation (Marks 1995, p. 54). In parts of the Americas, the situation was somewhat different. The immigrants to the New World came largely from widely separated regions of the Old World—western and northern Europe, western Africa, and, later, eastern Asia and southern Europe. In the Americas, the immigrant populations began to mix among themselves and with the indigenous inhabitants of the continent. In the United States, for example, most people who self-identify as African American have some European ancestors—in one analysis of genetic markers that have differing frequencies between continents, European ancestry ranged from an estimated 7% for a sample of Jamaicans to ∼23% for a sample of African Americans from New Orleans (Parra et al. 1998). Similarly, many people who identify as European American have some African or Native American ancestors, either through openly interracial marriages or through the gradual inclusion of people with mixed ancestry into the majority population. In a survey of college students who self-identified as "white" in a northeastern U.S. university, ∼30% were estimated to have &lt;90% European ancestry (Shriver et al. 2003).
+
+In the United States, social and legal conventions developed over time that forced individuals of mixed ancestry into simplified racial categories (Gossett 1997). An example is the "one-drop rule" implemented in some state laws that treated anyone with a single known African American ancestor as black (Davis 2001). The decennial censuses conducted since 1790 in the United States also created an incentive to establish racial categories and fit people into those categories (Nobles 2000). In other countries in the Americas where mixing among groups was more extensive, social categories have tended to be more numerous and fluid, with people moving into or out of categories on the basis of a combination of socioeconomic status, social class, ancestry, and appearance (Mörner 1967).
+
+Efforts to sort the increasingly mixed population of the United States into discrete categories generated many difficulties (Spickard 1992). By the standards used in past censuses, many millions of children born in the United States have belonged to a different race than have one of their biological parents. Efforts to track mixing between groups led to a proliferation of categories (such as "mulatto" and "octoroon") and "blood quantum" distinctions that became increasingly untethered from self-reported ancestry. A person's racial identity can change over time, and self-ascribed race can differ from assigned race (Kressin et al. 2003). Until the 2000 census, Latinos were required to identify with a single race despite the long history of mixing in Latin America; partly as a result of the confusion generated by the distinction, 42% of Latino respondents in the 2000 census ignored the specified racial categories and checked "some other race" (Mays et al. 2003).
+
+=== Ethnicity as a Way of Categorizing People ===
+
+As the problems surrounding the word "race" became increasingly apparent during the 20th century, the word "ethnicity" was promoted as a way of characterizing the differences between groups (Huxley and Haddon 1936; Hutchinson and Smith 1996). Ethnicity typically emphasizes the cultural, socioeconomic, religious, and political qualities of human groups rather than their genetic ancestry. It may encompass language, diet, religion, dress, customs, kinship systems, or historical or territorial identity (Cornell and Hartmann 1998).
+
+However, as a way of understanding human groups, ethnicity also suffers from several shortcomings. First, ascribing an ethnic identity to a group can imply a much greater degree of uniformity than is actually the case. In the United States, the ethnic group "Hispanic or Latino" contains such subgroups as Cuban Americans, Mexican Americans, Puerto Ricans, and recent immigrants from Central America (Hayes-Bautista and Chapa 1987). Combining these groups into a single category may serve useful bureaucratic or political ends but does not necessarily result in a better understanding of these groups.
+
+Also, ethnicity, like race, is a malleable concept that can change dramatically in different times or circumstances (Waters 1990; Smelser et al. 2001). Ethnic groups may come into existence and then dissipate as a result of broad historical or social trends. Individuals might change ethnic groups over the course of their lives or identify with more than one group. A researcher, clinician, or government official might assign an ethnicity to an individual quite different from the one that person would acknowledge (Kressin et al. 2003).
+
+Finally, despite attempts to distinguish "ethnicity" from "race," the two terms often are used interchangeably (Oppenheimer 2001). Ethnic groups can share a belief in a common ancestral origin (Cornell and Hartmann 1998), which also can be a defining characteristic of a racial group. Furthermore, ethnic groups tend to promote marriage within the group, which creates an expectation of biological cohesion regardless of whether that cohesion existed in the past.
+
+=== Ancestry as a Way of Categorizing People ===
+
+An alternative to the use of racial or ethnic categories is to categorize individuals in terms of ancestry. Ancestry may be defined geographically (e.g., Asian, sub-Saharan African, or northern European), geopolitically (e.g., Vietnamese, Zambian, or Norwegian), or culturally (e.g., Brahmin, Lemba, or Apache). The definition of ancestry may recognize a single predominant source or multiple sources. Ancestry can be ascribed to an individual by an observer, as was the case with the U.S. census prior to 1960; it can be identified by an individual from a list of possibilities or with use of terms drawn from that person's experience; or it can be calculated from genetic data by use of loci with allele frequencies that differ geographically, as described above. At least among those individuals who participate in biomedical research, genetic estimates of biogeographical ancestry generally agree with self-assessed ancestry (Tang et al. 2005), but in an unknown percentage of cases, they do not (Brodwin 2002; Kaplan 2003).
+
+
+[[Image:Rosenberg 6clusters human popluations.png|thumb|right|350px|Human population structure can be inferred from multilocus DNA sequence data (Rosenberg et al. 2002). Individuals from 52 populations were examined at 377 DNA markers. This data was used to partitioned individuals into K = 2, 3, 4, 5 or 6 clusters. In this figure, the average fractional membership of individuals from each population is represented by vertical bars partitioned into K=6 colored segments. The K=2 analysis separated Africa and Eurasia from East Asia, Oceania, and America. K=3 separated Africa and Eurasia. K=4 separated America. K=5 separated Oceania (green). K=6 separates the [[Kalash]] population (yellow). This kind of analysis forms the basis for the lineage definition of race.]]
+
+Genetic data can be used to infer population structure and assign individuals to groups that often correspond with their self-identified geographical ancestry.
+
+The inference of population structure from multilocus genotyping depends on the selection of a large number of informative genetic markers. These studies usually find that groups of humans living on the same continent are more similar to one another than to groups living on different continents. Many such studies are criticized for assigning group identity ''[[a priori]]''. However, even if group identity is stripped and group identity assigned ''[[a posteriori]]'' using only genetic data, population structure can still be inferred. For example, using 377 markers, Rosenberg et al. (2002) were able to assign 1,056 individuals from 52 populations around the globe to one of six genetic clusters, of which five correspond to major geographic regions.
+
+However, in analyses that assign individuals to group it becomes less apparent that self-described racial groups are reliable indicators of ancestry. One cause of the reduced power of the assignment of individuals to groups is [[wiktionary:admixture|admixture]]. Some racial or ethnic groups, especially [[Hispanic]] groups, do not have homogenous ancestry. For example, self-described [[African Americans]] tend to have a mix of West African and European ancestry. Shriver et al. (2003) found that on average African Americans have ~80% African ancestry. Likewise, many white Americans have mixed European and African ancestry, where ~30% of whites have less than 90% European ancestry. In this context, it is becoming more common place to describe "race" as fractional ancestry. Without the use of genotyping, this has been approximated by the self-described ancestry of an individual's grand-parents.
+
+Nevertheless, recent research indicates that self-described race is a near-perfect indicator of an individual's genetic profile, at least in the United States. Using 326 genetic markers, Tang et al. (2005) identified 4 genetic clusters among 3,636 individuals sampled from 15 locations in the United States, and were able to correctly assign individuals to groups that correspond with their self-described race (white, African American, East Asian, or Hispanic) for all but 5 individuals (an error rate of 0.14%). They conclude that ancient ancestry, which correlates tightly with self-described race and not current residence, is the major determinant of genetic structure in the U.S. population.
+
+Genetic techniques that distinguish ancestry between continents can also be used to describe ancestry within continents. However, the study of intra-continental ancestry may require a greater number of informative markers. Populations from neighboring geographic regions typically share more recent common ancestors. As a result, [[allele frequency|allele frequencies]] will be correlated between these groups. This phenomenon is often seen as a cline of allele frequencies. The existence of [[allele|allelic]] clines has been offered as evidence that individuals cannot be allocated into [[genetic cluster]]s (Kittles &amp; Weiss 2003). However, others argue that low levels of differentiation between groups merely make the assignment to groups more difficult, not impossible (Bamshad et al. 2004).
+
+Despite its seemingly objective nature, ancestry also has limitations as a way of categorizing people (Elliott and Brodwin 2002). When asked about the ancestry of their parents and grandparents, many people cannot provide accurate answers. In one series of focus groups in the state of Georgia, 40% of ∼100 respondents said they did not know one or more of their four grandparents well enough to be certain how that person(s) would identify racially (Condit et al. 2003). Misattributed paternity or adoption can separate biogeographical ancestry from socially defined ancestry. Furthermore, the exponentially increasing number of our ancestors makes ancestry a quantitative rather than qualitative trait—5 centuries (or 20 generations) ago, each person had a maximum of &gt;1 million ancestors (Ohno 1996). To complicate matters further, recent analyses suggest that everyone living today has exactly the same set of genealogical ancestors who lived as recently as a few thousand years in the past, although we have received our genetic inheritance in different proportions from those ancestors (Rohde et al. 2004).
+
+For some people, the very claim that all human beings share one ancestor is sufficient to demonstrate that the only "race" is the human race.
+
+[[Rachel Caspari]] (2003) argued that clades are by definition monophyletic groups (a taxon that includes ''all'' descendents of a given ancestor); since races are not monophyletic, they cannot be clades.
+
+For anthropologists Lieberman and Jackson (1995), however, there are more profound methodological and conceptual problems with using [[cladistics]] to support concepts of race. They emphasize that "the molecular and biochemical proponents of this model explicitly use racial categories ''in their initial grouping of samples''" (emphasis added). For example, the
+:large and highly diverse [[macroethnic]] groups of East Indians, North Africans, and Europeans are presumptively grouped as [[Caucasian]]s prior to the analysis of their DNA variation. This limits and skews interpretations, obscures other lineage relationships, deemphasizes the impact of more immediate clinal environmental factors on genomic diversity, and can cloud our understanding of the true patterns of affinity.
+They argue that however significant the empirical research, these studies use the term race in conceptually sloppy ways. They suggest that the authors of these studies find support for racial distinctions only because they began assuming the validity of race.  
+:For empirical reasons we prefer to place emphasis on clinal variation, which recognizes the existence of adaptive human hereditary variation and simultaneously stresses that such variation is not found in packages that can be labeled ''races''.
+Indeed, recent research reports evidence for smooth, clinal genetic variation even in regions previously considered racially homogeneous, with the apparent gaps turning out to be artifacts of sampling techniques (Serre &amp; Pääbo 2004). These scientists do not dispute the importance of cladistic research, only its retention of the word race, when reference to populations and clinal gradations are more than adequate to describe the results.
+
+In the end, the terms "race," "ethnicity," and "ancestry" all describe just a small part of the complex web of biological and social connections that link individuals and groups to each other.
+
+===The current disagreement across disciplines===
+The result of these developments is that the current literature across different disciplines regarding human variation lacks [[scientific consensus|consensus]], though some fields, such as biology, have strong consensus.  Some studies use the word race in its previously [[essentialism|essentialist]] [[taxonomic]] sense.  Many use the term race, but are using it to gloss a populationist or cladistic approach.  Others eschew the word race altogether, and use the word population.
+
+A 1985 [[survey]] (Lieberman et al. 1992) asked 1,200 scientists how many '''disagree''' with the following proposition: "There are biological races in the species ''Homo sapiens''."  The responses were:
+*'''[[biologist]]s 16%'''
+*'''[[developmental psychologist]]s 36%'''
+*'''[[physical anthropologist]]s 41%'''
+*'''[[cultural anthropologist]]s 53%'''
+
+The figure for physical anthropologists at [[PhD]] granting departments was slightly higher, rising from 41% to 42%, with 50% agreeing.
+
+(This survey did not specify any particular definition of race; it is impossible to say whether those who supported the statement thought of race in taxonomic or population terms.)
+
+In the 19th century, race was a central concept of anthropology. In 1866, [[James Hunt]], the founder of the [[Anthropological Society of London]], declared that anthropology’s primary truth “is the existence of well-marked psychological and moral distinctions in the different races of men.” However, this view became marginalised in the 20th century. Since 1932, [[college]] [[textbook]]s introducing physical anthropology have increasingly come to reject race as a valid concept: from 1932 to 1976, only seven out of thirty-two rejected race; from 1975 to 1984, thirteen out of thirty-three rejected race; from 1985 to 1993, thirteen out of nineteen rejected race.
+
+Nevertheless, the belief that human races exist remains almost universal amongst lay audiences and, like any widely held belief, is significant regardless of its scientific validity. Moreover, some social and natural scientists argue that new studies in [[molecular genetics]] support a [[nomenclature]] strongly reminiscent of traditional racial and ethnic terminology.
+
+==Case studies in the social construction of race==
+===Race in the United States===
+In the United States since its early history, Native Americans, African-Americans and European-Americans were classified as belonging to different races. But the criteria for membership in these races were radically different. The government considered anyone with "[[one-drop theory|one drop]]" of "Black blood" (or indigenous African ancestry) to be Black. In contrast, Indians were defined by a certain percentage of "Indian blood" due in large part to [[American slavery ethics]]. To be White, one had to have "pure" White ancestry. These differing criteria for assignation of membership to particular races had relatively little to do with biology and far more to do with [[White supremacy]]&amp;mdash;the social, geopolitical and economic agendas of dominant Whites vis-à-vis subordinate Blacks and Native Americans&amp;mdash;and [[racism]]. At the time, Blacks were valuable [[commodity|commodities]] as slaves; and Native Americans, whose vast lands were the ultimate target of acquisition in a doctrine of [[Manifest Destiny]], were subject to marginalization and multiple episodic localized campaigns of extermination.
+
+According to such anthropologists as [[Gerald Sider]], the goal of such racial designations was to concentrate power, wealth, privilege and land in the hands of Caucasians in a society of White hegemony and White privilege (Sider 1996; see also Fields 1990). Using the "one drop" rule, it was easy for someone to be categorized as Black. The offspring of an African [[slave]] and a White master or mistress was considered Black. Significant in terms of the [[economics of slavery]], such a person also would be a [[chattel slave]], adding to the wealth of the [[slaveowner]]. By comparison, it was harder for someone to be classified as Indian. A person of Indian and African parentage automatically was classified as Black. By contrast, the offspring of only a few generations of miscegenation between Indians and Whites likely would not have been considered Indian at all&amp;mdash;at least not in a legal sense. Indians could have [[treaty rights]] to land, but because an individual with one Indian great-grandparent no longer was classified as Indian, they lost any legal claim to Indian land. The irony is that the same individuals who could be denied legal standing because they were "too White" to claim property rights, were still Indian enough to be considered as "breeds," stigmatized for their Native American ancestry. In an economy that benefited from [[slave labor]], it was useful to have as many Blacks as possible. Conversely, in a nation bent on westward expansion, it was advantageous to diminish the numbers of those who could claim title to Indian lands by simply defining them out of existence. At a time when Whites wielded power over both Blacks and Indians and widely believed in their inherent superiority over people of color, it is no coincidence that the hardest racial group in which to prove membership was the White one.
+
+The term 'Hispanic' is applied to people of many racial backgrounds, based on ancestry in the former Spanish empire, whether white, black or Indian, or those who speak Spanish as a first language or whose recent ancestors did so. 'Anglo' is used in a similar way in reference to the former British empire and English, though it is applied generally only to those of white ancestry. 'Latin' is sometimes used for both the Spanish and Portuguese empires and languages. These terms are problematic (eg. are French-Canadians Latin Americans? Since English is sometimes called a semi-romance language, are most Americans Latin Americans?).
+
+===Race in Brazil===
+Compared to 19th-century United States, 20th-century [[Brazil]] was characterized by a relative absence of sharply defined racial groups. This pattern reflects a different history and different [[social relations]]. Basically, race in Brazil was ''biologized'', but in a way that recognized the difference between ancestry (which determines genotype) and phenotypic differences. There, racial identity was not governed by a rigid descent rule. A Brazilian child was never automatically identified with the racial type of one or both parents, nor were there only two categories to choose from. Over a dozen racial categories would be recognized in conformity with the combinations of hair color, hair texture, eye color, and skin color. These types grade into each other like the colors of the spectrum, and no one category stands significantly isolated from the rest. That is, race referred to appearance, not heredity.
+
+One of the most striking consequences of the [[Demographics of Brazil|Brazilian demographics]] and system of racial identification was that parents and children and even brothers and sisters were frequently accepted as representatives of opposite racial types. In a fishing village in the state of [[Bahia]], an investigator showed 100 people pictures of three sisters and were asked to identify the races of each. In only six responses were the sisters identified by the same racial term. Fourteen responses used a different term for each sister. In another experiment nine portraits were shown to a hundred people. Forty different racial types were elicited. It was found, in addition, that a given Brazilian might be called by as many as thirteen different terms by other members of the community. These terms are spread out across practically the entire spectrum of theoretical racial types. A further consequence of the absence of a descent rule was that Brazilians apparently not only disagreed about the racial identity of specific individuals, but they also seemed to be in disagreement about the abstract meaning of the racial terms as defined by words and phrases. For example, 40% of a sample ranked [[moreno claro]] as a lighter type than [[mulato claro]], while 60% reversed this order. A further note of confusion is that one person might employ different racial terms to describe the same person over a short time span. The choice of which racial description to use may vary according to both the personal relationships and moods of the individuals involved. The [[Brazilian census]] lists one's race according to the preference of the person being interviewed. As a consequence, hundreds of races appeared in the census results, ranging from blue (which is blacker than the usual black) to green (which is whiter than the usual white).
+
+Consequently, people change their racial identity over their lifetimes. To do so is not the same as "[[passing]]" in the U.S. It does not require the secrecy and the agonizing withdrawal from friends and family that are necessary in the United States and among Indians of highland [[Latin America]]. In Brazil, passing from one race to another can occur with changes in education and economic status.  Moreover, a light-skinned person of low status is considered darker than a dark-skinned person of high status. 
+
+So, although the identification of a person by race is far more fluid and flexible in Brazil than in the U.S., there still are racial stereotypes and prejudices. African features have been considered less desirable; Blacks have been considered socially inferior, and Whites superior. These white [[supremacist]] values seem to be an obvious legacy of European colonization and the slave-based [[plantation system]]. The complexity of racial classifications in Brazil is reflective of the extent of [[miscegenation]] in [[Brazilian society]], which remains highly, but not strictly, [[social stratification|stratified]] along color lines.
+
+== Politics and ethics of race ==
+
+Racial classifications were used during [[the Enlightenment]] to justify [[slavery|enslavement]] of those deemed to be of "inferior", non-White races, and thus supposedly best fitted for lives of toil under White supervision. These classifications made the distance between races seem nearly as broad as that between species, easing unsettling questions about the appropriateness of such treatment of humans. The practice was at the time generally accepted by both scientific and lay communities.
+
+In Blumenbach's time, followers of [[Johann Gottfried von Herder]] applied race to [[nationalism|nationalist]] theory to develop militant [[ethnic nationalism]]. They posited the historical existence of national races such as German and French, branching from basal races supposed to have existed for millennia, such as the [[Aryan race|Aryan]] race, and believed political boundaries should mirror these supposed racial ones. Later, one of [[Adolf Hitler|Hitler]]'s favorite sayings was, "Politics is applied biology". Hitler's ideas of racial purity led to unprecedented atrocities in Europe. Since then, [[ethnic cleansing]] has occurred in [[Cambodia]], the [[Balkans]] and East Africa. In one sense, ''ethnic cleansing'' is another name for the tribal warfare and mass murder that has afflicted human society for ages, but these crimes seem to gain intensity when believed to be scientifically sanctioned.
+
+Racial inequality has been a concern of United States politicians and legislators since the country's founding. In the 19th century most White Americans (including [[abolitionist]]s) explained racial inequality as an inevitable consequence of biological differences. Since the mid-20th century, political and civic leaders as well as scientists have debated to what extent racial inequality is cultural in origin. Some argue that current inequalities between Blacks and Whites are primarily cultural and historical, the result of past racism, [[slavery]] and [[segregation]], and could be redressed through such programs as [[affirmative action]] and [[Head Start]]. Others work to reduce tax funding of [[remedial programs]] for minorities. They have based their advocacy on aptitude test data that, according to them, shows that racial ability differences are biological in origin and cannot be leveled even by intensive educational efforts. In [[electoral politics]], many more ethnic minorities have won important offices in Western nations than in earlier times, although the highest offices tend to remain in the hands of Whites.
+
+In his famous ''[[Letter from Birmingham Jail]]'', the Rev. Dr. [[Martin Luther King Jr.]] observed:  
+:History is the long and tragic story of the fact that privileged groups seldom give up their privileges voluntarily. Individuals may see the moral light and voluntarily give up their unjust posture; but as [[Reinhold Niebuhr]] has reminded us, groups are more immoral than individuals.
+
+Dr. King's hope, expressed in his [[I Have a Dream]] speech, was that the [[civil rights]] struggle would one day produce a society where people were not "judged by the color of their skin, but by the content of their character."
+
+Because of the identification of the concept of race with political oppression, many natural and social scientists today are wary of using race to describe human variation. Some, however, argue that race is nevertheless of continuing utility and validity in scientific research. Science and politics frequently take opposite sides in debates that relate to human intelligence and biomedicine.
+
+=== Race and intelligence ===
+:''Main article: [[Race and intelligence]]''
+
+Researchers have reported significant differences in the average [[IQ]] test scores of various ethnic groups. The interpretation and causes of these differences are controversial. Some researchers, such as [[Arthur Jensen]] and [[Richard Herrnstein]], have argued that such differences are at least partially genetic. Others, such as [[Stephen Jay Gould]] and [[Richard Lewontin]], believe categories such as "race" and "intelligence" are cultural contructs that render this sort of research scientifically flawed.
+
+=== Race in biomedicine ===
+:''Main article: [[Race in biomedicine]]''
+
+There is an active debate among biomedical researchers about the meaning and importance of race in their research. The primary impetus for considering race in biomedical research is the possibility of improving the prevention and treatment of [[disease]]s by predicting hard-to-ascertain factors on the basis of more easily ascertained characteristics. The most well-known examples of genetically-determined disorders that vary in incidence between ethnic groups would be [[sickle cell disease]] and [[thalassaemia]] among black and [[Mediterranean]] populations and [[Tay-Sachs disease]] among people of [[Ashkenazi|Ashkenazi Jewish]] descent. Some fear that the use of racial labels in biomedical research runs the risk of unintentionally exacerbating health disparities, so they suggest alternatives to the use of racial taxonomies.
+
+=== Race in law enforcement ===
+[[Image:RaceMugshots.jpg|thumb|300px|The [[Federal Bureau of Investigation|FBI]] identifies fugitives by sex, physical features, occupation, nationality, and race. From left to right, the FBI identifies the above as belonging to the following races: White, Black, White (Hispanic), Asian. Top row males, bottom row females.]]
+
+In an attempt to provide general descriptions that may facilitate the job of [[law enforcement officer|officer]]s seeking to apprehend suspects, the United States [[Federal Bureau of Investigation|FBI]] employs the term "race" to summarize the general appearance (skin color, hair texture, eye shape, and other such easily noticed characteristics) of individuals whom they are attempting to apprehend. From the perspective of [[law enforcement]] officers, it is generally more important to arrive at a description that will readily suggest the general appearance of an individual. Thus in addition to assigning a wanted individual to a racial category, such a description will include: height, weight, eye color, scars and other distinguishing characteristics, etc. [[Scotland Yard]] use a classification based in the ethnic background of [[British society]]: W1 (White-British), W2 (White-Irish), W9 (Any other white background); M1 (White and black Caribbean), M2 (White and black African), M3 (White and Asian), M9 (Any other mixed background); A1 (Asian-Indian), A2 (Asian-Pakistani), A3 (Asian-Bangladeshi), A9 (Any other Asian background); B1 (Black Caribbean), B2 (Black African), B3 (Any other black background); O1 (Chinese), O9 (Any other).
+
+In many countries the state is legally banned from handling race data, which often makes the police issue wanted notices to press including labels like "dark skin complexion", etc. There is some controversy over the relationship between [[race and crime]] and whether it justifies [[racial profiling]]; however, in the United States, the practice has been ruled unconstitutional and violative of civil rights. There is active debate regarding the cause of a marked correlation between race and crime. Many consider [[racial profiling]] an example of [[institutional racism]] in law enforcement. 
+
+More recent work in racial taxonomy based on DNA cluster analysis (See [[Lewontin's Fallacy]]) has led law enforcement to pursue suspects based on their racial classification as derived from their DNA evidence left at the crime scene[http://transobj.workopolis.com/servlet/Content/fasttrack/20050625/DNA25?section=Biotech]. While controversial, DNA analysis has been successful in helping police identify the race of both victims and perpetrators. [http://www.usatoday.com/news/nation/2005-08-16-dna_x.htm]. In an attempt to avoid legal issues, this classification is called "biogeographical ancestry" rather than "race"[http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=20040229231&amp;OS=20040229231&amp;RS=20040229231] but the terms for the BGA categories are the same and used the same way.
+
+==See also==
+
+*[[Anthropology]]
+*[[Clan]]
+*[[Ethnicity]]
+*[[Human race]]
+*[[Lewontin's Fallacy]]
+*[[List of species in fantasy fiction|List of races in fantasy fiction and role-playing games]]
+*[[Master race]]
+*[[Miscegenation]]
+*[[Model Minority]]
+*[[Political correctness]]
+*[[Population genetics]]
+*[[Pre-Adamite]]
+*[[Race (fantasy)]]
+*[[Race (U.S. census)|Race (US Census)]]
+*[[Race baiting]]
+*[[Race card]]
+*[[Racial purity]]
+*[[Racial discrimination]]
+*[[Racial realism]]
+*[[Racial superiority]]
+*[[Racism]]
+*[[Taxonomy]]
+*[[Whiteness studies]]
+
+;Races
+*[[Australoid]]
+*[[Capoid]]
+*[[Caucasoid]], [[Caucasian race]], [[Whites]]
+*[[Mongoloid]]
+*[[Negroid]], [[Blacks]]
+
+== References ==
+ 
+* Bamshad, Michael; Wooding, Stephen; Salisbury, Benjamin A.; Stephens, J. Claiborne (2004). Deconstructing The Relationship Between Genetics And Race. ''Nature Reviews Genetics'' 5, 598&amp;ndash;609. [http://www.nature.com/cgi-taf/DynaPage.taf?file=/nrg/journal/v5/n8/abs/nrg1401_fs.html] [http://www.xmission.com/~wooding/pdfs/bamshad_race04.zip reprint-zip]
+* Boas 1912 "Change in Bodily Form of Descendants of Immigrants" in ''American Anthropologist'' 14: 530-562
+* Brace 1964 "A Non-racial Approach Toward the Understanding of Human Diversity" in ''The Concept of Race'', ed. Ashley Montagu
+* Cann, Rebecca, M. Stoneking, A. Wilson 1987 "Mitochondrial DNA and Human Evolution" in ''Nature'' 325(January) 31-36.
+* Caspari, Rachel 2003 "From Types to Populations: a Century of Race, Physical Anthropology, and the American Anthropological Association," in ''American Anthropologist'' 105(1): 65-76
+* [[Luigi Luca Cavalli-Sforza|Cavalli-Sforza, Luigi Luca]]; et al (1995). ''[[The History and Geography of Human Genes]]''. Princeton University Press.
+* Dobzhansky, T. (1970). ''Genetics of the Evolutionary Process''. New York, NY: Columbia University Press.
+* Edwards, AW (2003). Human genetic diversity: Lewontin's fallacy ''Bioessays'' 25, 798&amp;ndash;801. [http://www3.interscience.wiley.com/cgi-bin/abstract/104546274/ABSTRACT]
+* Ehrlich and Holm 1964 "A Biological View of Race" in The Concept of Race, ed. Ashley Montagu
+* Fields, Barbara Jean  (1990)  "Slavery, Race, and Ideology in the United States of America" in New Left Review (181) 95-118.
+* Frayer, David, M. Wolpoff, A. Thorne, F. Smith, G. Pope "Theories of Modern Origins: The Paleontological Test" ''in American Anthropologist'' 95(1) 14-50
+* Hooton, E.A. (1926). Methods of racial analysis. ''Science'' 63, 75&amp;ndash;81.
+* Jorde, Lynn B.; Wooding, Stephen P. (2004). Genetic variation, classification and race. ''Nature Genetics'' 36, S28&amp;ndash;S33. [http://www.nature.com/cgi-taf/DynaPage.taf?file=/ng/journal/v36/n11s/full/ng1435.html]
+* Kittles, R. A. &amp; Weiss, K. M. (2003). Race, ancestry, and genes: implications for defining disease risk. ''Annu. Rev. Genom.'' 4, 33&amp;#8211;67. [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14527296]
+* Leiberman and Jackson 1995 "Race and Three Models of Human Origins" in ''American Anthropologist'' 97(2) 231-242
+* Lewontin 1973 "The Apportionment of Human Diversity" in ''Evolutionary Biology'' 6:381-397
+* Lieberman, Hampton, Littlefield, and Hallead 1992 "Race in Biology and Anthropology: A Study of College Texts and Professors" in ''Journal of Research in Science Teaching'' 29:301-321
+* Livingstone 1962 "On the Non-Existence of Human Races" in ''Current Anthropology'' 3: 279-281
+* Long, J.C. and Kittles, R.A. (2003). Human genetic diversity and the nonexistence of biological races. ''Hum Biol.'' 75, 449&amp;ndash;71. [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14655871]
+* Mayr, E. (1969). ''Principles of Systematic Zoology''. New York, NY: McGraw-Hill.
+* Montague (1941). "The Concept of Race in Light of Genetics" in ''Journal of Heredity'' 23: 241-247
+* Montague (1942). ''Man&amp;#8217;s Most Dangerous Myth: The Fallacy of Race''
+* Olsen, Steven (2003). ''Mapping Human History : Genes, Race, and Our Common Origins'', Mariner Books.
+* Parra, Flavia C.; et al (2003). Color and genomic ancestry in Brazilians. ''PNAS'' 100 (1), 177&amp;ndash;182. [http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=140919]
+* Rosenberg, N. A. et al. (2002). Genetic structure of human populations. ''Science'' 298, 2381&amp;#8211;2385. [http://www.sciencemag.org/cgi/ijlink?linkType=ABST&amp;journalCode=sci&amp;resid=298/5602/2381]
+* Sarich, Vincent, and Frank Miele. ''Race: The Reality of Human Differences''.  Westview Press, 2004.
+* Serre, D., and Pääbo, S. 2004 "Evidence for gradients of human genetic diversity within and among continents" in ''Genome Research'' 14: 1679-1685 [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15342553] [http://email.eva.mpg.de/~paabo/pdf1/Serre_Evidence_GenomeResearch_2004.pdf PDF]
+* Shriver, M. D. et al. (2003). Skin pigmentation, biogeographical ancestry, and admixture mapping. ''Hum. Genet.'' 112, 387&amp;#8211;399. [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12579416]
+* Sider, Gerald 1993 ''Lumbee Indian Histories: Race, Ethnicity, and Indian Identity in the Southern United States''
+* Smith, Fred 1982 "Upper Pleistocene Hominid Evolution in South-Central Europe: A Review of the Evidence and Analysis of Trends" ''Current Anthropology'' 23: 667-686
+* Tang H, Quertermous T, Rodriguez B, Kardia SL, Zhu X, Brown A, Pankow JS, Province MA, Hunt SC, Boerwinkle E, Schork NJ, Risch NJ (2005). Genetic structure, self-identified race/ethnicity, and confounding in case-control association studies. ''Am J Hum Genet'' 76, 268-75. [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15625622]
+* Templeton, A.R. (1998). Human races: A genetic and evolutionary perspective. ''Am. Anthropol.'' 100, 632&amp;ndash;650.
+* Thienpont, Kristiaan and Cliquet, Robert (eds.) In-group/out-group gedrag in evolutiebiologisch perspectief, Leuven : Garant, 1999. ISBN 9053509704
+* Thorne and Wolpoff 1992 "The Multiregional Evolution of Humans" in Scientific American (April) 76-83
+* Wilson and Brown 1953 "The Subspecies Concept and Its Taxonomic Application" in ''Systematic Zoology'' 2: 97-110
+* Wolpoff, Milford 1993 "Multiregional Evolution: The Fossil Alternative to Eden" in The Human Evolution Sourcebook Russell Ciochon and John Fleagle, eds.
+
+
+
+* Altmüller J, Palmer LJ, Fischer G, Scherb H, Wjst M (2001) Genomewide scans of complex human diseases: true linkage is hard to find. Am J Hum Genet 69:936–950
+* American Association of Physical Anthropologists (1996) AAPA statement on biological aspects of race. Am J Phys Anthropol 101:569–570
+* Anonymous (1996) Style matters: ethnicity, race, and culture: guidelines for research, audit, and publication. BMJ 312:1094
+* ——— (2000) Census, race, and science. Nat Genet 24:97–98
+* ——— (2004) The unexamined "Caucasian." Nat Genet 36:541
+* Aoki K (2002) Sexual selection as a cause of human skin colour variation: Darwin's hypothesis revisited. Ann Hum Biol 29:589–608
+* Bamshad M, Wooding S, Salisbury BA, Stephens JC (2004) Deconstructing the relationship between genetics and race. Nat Rev Genet 5:598–609
+* Bamshad M, Wooding SP (2003) Signature of natural selection in the human genome. Nat Rev Genet 4:99–111
+* Bamshad MJ, Wooding S, Watkins WS, Ostler CT, Batzer MA, Jorde LB (2003) Human population genetic structure and inference of group membership. Am J Hum Genet 72:578–589
+* Banton M (1977) The idea of race. Westview Press, Boulder
+* Bhopal R (1997) Is research into ethnicity and health racist, unsound, or important science? BMJ 314:1751–1756
+* Bonham V, Warshauer-Baker E, Collins FS (2005) The complexity of the constructs. Am Psychol 60:9–15
+* Bowler JM, Johnston H, Olley JM, Prescott JR, Roberts RG, Shawcross W, Spooner NA (2003) New ages of human occupation and climatic change at Lake Mungo, Australia. Nature 421:837–840
+* Braun L (2002) Race, ethnicity, and health: can genetics explain disparities? Perspect Biol Med 45:159–174
+* Brodwin P (2002) Genetics, identity, and the anthropology of essentialism. Anthropol Quart 75:323–330
+* Burchard EG, Ziv E, Coyle N, Gomez SL, Tang H, Karter AJ, Mountain JL, Perez-Stable EJ, Sheppard D, Risch N (2003) The importance of race and ethnic background in biomedical research and clinical practice. N Engl J Med 348:1170–1175
+* Calafell F (2003) Classifying humans. Nat Genet 33:435–436
+* Calle EE, Kaaks R (2004) Overweight, obesity and cancer: epidemiological evidence and proposed mechanisms. Nat Rev Cancer 4:579–591
+* Cardon LR, Abecasis GR (2003) Using haplotype blocks to map human complex trait loci. Trends Genet 19:135–140
+* Cardon LR, Palmer LJ (2003) Population stratification and spurious allelic association. Lancet 361:598–604
+* Cavalli-Sforza LL, Feldman MW (2003) The application of molecular genetic approaches to the study of human evolution. Nat Genet Suppl 33:266–275
+* Cavalli-Sforza LL, Menozzi P, Piazza A (1994) The history and geography of human genes. Princeton University Press, Princeton
+* Chakravarti A, Little P (2003) Nature, nurture and human disease. Nature 421:412–424
+* Chaturvedi N (2001) Ethnicity as an epidemiological determinant—crudely racist or crucially important? Int J Epidemiol 30:925–927
+* Clark ME (2002) In search of human nature. Routledge, New York
+* Clayton EW (2003) The complex relationship of genetics, groups, and health: what it means for public health. J Law Med Ethics 30:290–297
+* Cohen JC, Kiss RS, Pertsemlidis A, Marcel YL, McPherson R, Hobbs HH (2004) Multiple rare alleles contribute to low plasma levels of HDL cholesterol. Science 305:869–872
+* Collins FS (2004) What we do and don't know about "race," "ethnicity," genetics and health at the dawn of the genome era. Nat Genet 36:S13–S15
+* Collins FS, Green ED, Guttmacher AE, Guyer MS, for the US National Human Genome Research Institute (2003) A vision for the future of genomics research. Nature 422:835–847
+* Comstock RD, Castillo EM, Lindsay SP (2004) Four-year review of the use of race and ethnicity in epidemiologic and public health research. Am J Epidemiol 159:611–619
+* Condit C, Templeton A, Bates BR, Bevan JL, Harris AT (2003) Attitudinal barriers to delivery of race-targeted pharmacogenomics among informed lay persons. Genet Med 5:385–392
+* Condit CM, Parrott R, Harris TM (2002) Lay understandings of the relationship between race and genetics: development of a collectivized knowledge through shared discourse. Public Understand Sci 11:373–387
+* Cooper RS (2004) Genetic factors in ethnic disparities in health. In: Anderson NB, Bulatao RA, Cohen B (eds) Critical perspectives on racial and ethnic differences in health in later life. National Academy Press, Washington, DC, pp 267–309
+* Cooper RS, Kaufman JS, Ward R (2003) Race and genomics. N Engl J Med 348:1166–1170
+* Cooper RS, Rotimi CN, Kaufman JS, Owoaje EE, Fraser H, Forrester T, Wilks R, Riste LK, Cruickshank JK (1997) Prevalence of NIDDM among populations of the African diaspora. Diabetes Care 20:343–348
+* Cornell S, Hartmann D (1998) Ethnicity and race: making identities in a changing world. Pine Forge Press, Thousand Oaks, CA
+* Davis FJ (2001) Who is black? One nation's definition. Pennsylvania State University Press, University Park
+* Dikötter F (1992) The discourse of race in modern China. Stanford University Press, Stanford
+* Douglas JG, Thibonnier M, Wright JT (1996) Essential hypertension: racial/ethnic differences in pathophysiology. J Assoc Acad Minor Phys 7:16–21
+* Duster T (2003) Backdoor to eugenics, 2nd ed. Routledge, New York
+* ——— (2005) Race and reification in science. Science 307:1050–1051
+* Ebersberger I, Metzler D, Schwarz C, Pääbo S (2002) Genomewide comparison of DNA sequences between humans and chimpanzees. Am J Hum Genet 70:1490–1497
+* Elliott C, Brodwin P (2002) Identity and genetic ancestry tracing. BMJ 325:1469–1471
+* Eswaran V (2002) A diffusion wave out of Africa: the mechanism of the modern human revolution? Curr Anthropol 43:749–774
+* Fang J, Madhavan S, Bosworth W, Alderman MH (1998) Residential segregation and mortality in New York City. Soc Sci Med 47:469–476
+* Fernandez JR, Shriver MD, Beasley TM, Rafla-Demetrious N, Parra E, Albu J, Nicklas B, Ryan AS, McKeigue PM, Hoggart CL, Weinsier RL, Allison DB (2003) Association of African genetic admixture with resting metabolic rate and obesity among women. Obes Res 11:904–911
+* Fischer A, Wiebe V, Pääbo S, Przeworski M (2004) Evidence for a complex demographic history of chimpanzees. Mol Biol Evol 21:799–808
+* Foster MW, Sharp RR (2004) Beyond race: towards a whole-genome perspective on human populations and genetic variation. Nat Rev Genet 5:790–796
+* Foster MW, Sharp RR, Freeman WL, Chino M, Bernsten D, Carter TH (1999) The role of community review in evaluating the risks of human genetic variation research. Am J Hum Genet 64:1719–1727
+* Franzini L, Ribble JC, Keddie AM (2001) Understanding the Hispanic paradox. Ethn Dis 11:496–518
+* Freedman ML, Reich D, Penney KL, McDonald GJ, Mignault AA, Patterson N, Gabriel SB, Topol EJ, Smoller JW, Pato CN, Pato MT, Petryshen TL, Kolonel LN, Lander ES, Sklar P, Henderson B, Hirschhorn JN, Altshuler D (2004) Assessing the impact of population stratification on genetic association studies. Nat Genet 36:388–393
+* Fullilove M (1998) Abandoning "race" as a variable in public health research—an idea whose time has come. Am J Public Health 88:1297–1298
+* Gabriel SB, Schaffner SF, Nguyen H, Moore JM, Roy J, Blumenstiel B, Higgins J, DeFelice M, Lochner A, Faggart M, Liu-Cordero SN, Rotimi C, Adeyemo A, Cooper R, Ward R, Lander ES, Daly MJ, Altshuler D (2002) The structure of haplotype blocks in the human genome. Science 296:2225–2229
+* Gluckman PD, Hanson MA (2004) Living with the past: evolution, development, and patterns of disease. Science 305:1733–1736
+* Goldenberg DM (2003) The curse of ham: race and slavery in early Judaism, Christianity, and Islam. Princeton University Press, Princeton
+* Goldstein DB, Chikhi L (2002) Human migrations and population structure: what we know and why it matters. Ann Rev Genomics Hum Genet 3:129–152
+* Goodman AH (2000) Why genes don't count (for racial differences in health). Am J Public Health 90:1699–1702
+* Gossett TF (1997) Race: the history of an idea in America, 2nd ed. Oxford University Press, New York
+* Gower BA, Fernandez JR, Beasley TM, Shriver MD, Goran MI (2003) Using genetic admixture to explain racial differences in insulin-related phenotypes. Diabetes 52:1047–1051
+* Guthrie RD (1996) The mammoth steppe and the origin of mongoloids and their dispersal. In: Akazawa T, Szathmary E (eds) Prehistoric Mongoloid dispersals. Oxford University Press, New York, pp 172–186
+* Hannaford I (1996) Race: the history of an idea in the West. Johns Hopkins University Press, Baltimore
+* Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, Dixon C, Sajantila A, Jackson IJ, Birch-Machin MA, Rees JL (2000) Evidence for variable selective pressures at MC1R. Am J Hum Genet 66:1351–1361
+* Harpending H, Rogers A (2000) Genetic perspectives on human origins and differentiation. Annu Rev Genomics Hum Genet 1:361–385
+* Harpending HC, Batzer MA, Gurven M, Jorde LB, Rogers AR, Sherry ST (1998) Genetic traces of ancient demography. Proc Natl Acad Sci USA 95:1961–1967
+* Hawks J, Hunley K, Lee SH, Wolpoff M (2000) Population bottlenecks and Pleistocene human evolution. Mol Biol Evol 17:2–22
+* Hayes-Bautista DE, Chapa J (1987) Latino terminology: conceptual bases for standardized terminology. Am J Public Health 77:61–68
+* Hinds DA, Stuve LL, Nilsen GB, Halperin E, Eskin E, Ballinger DG, Frazer KA, Cox DR (2005) Whole-genome patterns of common DNA variation in three human populations. Science 307:1072–1079
+* Hirschhorn JN, Lohmueller K, Byrne E, Hirschhorn K (2002) A comprehensive review of genetic association studies. Genet Med 4:45–61
+* Hoerder D (2002) Cultures in contact: world migrations in the second millennium. Duke University Press, Durham, NC
+* Hoggart CJ, Parra EJ, Shriver MD, Bonilla C, Kittles RA, Clayton DG, McKeigue PM (2003) Control of confounding of genetic associations in stratified populations. Am J Hum Genet 72:1492–1504
+* Hoggart CJ, Shriver MD, Kittles RA, Clayton DG, McKeigue PM (2004) Design and analysis of admixture mapping studies. Am J Hum Genet 74:965–978
+* Horowitz DL (2001) The deadly ethnic riot. University of California Press, Berkeley
+* Hummer RA, Benjamins MR, Rogers RG (2004) Racial and ethnic disparities in health and mortality among the U.S. elderly population. In: Anderson NB, Bulatao RA, Cohen B (eds) Critical perspectives on racial and ethnic differences in health in later life. National Academy Press, Washington, DC, pp 53–94
+* Hutchinson J, Smith AD (eds) (1996) Ethnicity. Oxford University Press, New York
+* Huxley J, Haddon AC (1936) We Europeans: a survey of racial problems. Harper, New York
+* Ingman M, Kaessmann H, Pääbo S, Gyllensten U (2000) Mitochondrial genome variation and the origin of modern humans. Nature 408:708–713
+* International HapMap Consortium (2003) The International HapMap Project. Nature 426:789–796
+* ——— (2004) Integrating ethics and science in the International HapMap Project. Nat Rev Genet 5:467–475
+* International Human Genome Sequencing Consortium (2001) Initial sequencing and analysis of the human genome. Nature 409:860–921
+* Isaac B (2004) The invention of racism in classical antiquity. Princeton University Press, Princeton
+* Jablonski NG (2004) The evolution of human skin and skin color. Annu Rev Anthropol 33:585–623
+* Jorde LB, Bamshad M, Rogers AR (1998) Using mitochondrial and nuclear DNA markers to reconstruct human evolution. BioEssays 20:126–136
+* Jorde LB, Watkins WS, Bamshad MJ, Dixon ME, Ricker CE, Seielstad MT, Batzer MA (2000a) The distribution of human genetic diversity: a comparison of mitochondrial, autosomal, and Y-chromosome data. Am J Hum Genet 66:979–988
+* Jorde LB, Watkins WS, Kere J, Nyman D, Eriksson AW (2000b) Gene mapping in isolated populations: new roles for old friends? Hum Hered 50:57–65
+* Jorde LB, Wooding SP (2004) Genetic variation, classification, and "race." Nat Genet Rev Suppl 36:S28–S33
+* Kaessmann H, Heissig F, von Haeseler A, Pääbo S (1999) DNA sequence variation in a non-coding region of low recombination on the human X chromosome. Nat Genet 22:78–81
+* Kaessmann H, Wiebe V, Weiss G, Pääbo S (2001) Great ape DNA sequences reveal a reduced diversity and an expansion in humans. Nat Genet 27:155–156
+* Kahn J (2004) How a drug becomes "ethnic": law, commerce, and the production of racial categories in medicine. Yale J Health Policy Law Ethics 4:1–46
+* Kaplan EA (2003) Black like I thought I was. LA Weekly, October 7 (http://www.alternet.org/story/16917; accessed August 8, 2005)
+* Kaplan JB, Bennett T (2003) Use of race and ethnicity in biomedical publication. JAMA 289:2709–2716
+* Keita SOY, Kittles RA (1997) The persistence of racial thinking and the myth of racial divergence. Am Anthropol 99:534–544
+* Kevles DJ (1985) In the name of eugenics. Knopf, New York
+* King M-C, Motulsky AG (2002) Mapping human history. Science 298:2342–2343
+* Kittles RA, Weiss KM (2003) Race, ancestry, and genes: implications for defining disease risk. Annu Rev Genomics Hum Genet 4:33–67
+* Klein RG (1999) The human career: human biological and cultural origins, 2nd ed. University of Chicago Press, Chicago
+* Kressin NR, Chang BH, Hendricks A, Kazis LE (2003) Agreement between administrative data and patients' self-reports of race/ethnicity. Am J Public Health 93:1734–1739
+* Krieger N, Chen JT, Waterman PD, Rehkopf DH, Subramanian SV (2005) Painting a truer picture of US socioeconomic and racial/ethnic health inequalities: the Public Health Disparities Geocoding Project. Am J Public Health 95:312–323
+* Krings M, Stone A, Schmitz RW, Krainitzki H, Stoneking M, Pääbo S (1997) Neandertal DNA sequences and the origin of modern humans. Cell 90:19–30
+* Lahr MM (1996) The evolution of modern human diversity: a study of cranial variation. Cambridge University Press, Cambridge, United Kingdom
+* Lahr MM, Foley RA (1998) Towards a theory of modern human origins: geography, demography, and diversity in recent human evolution. Am J Phys Anthropol Suppl 27:137–176
+* LaVeist TA (1996) Why we should continue to study race...but do a better job: an essay on race, racism and health. Ethn Dis 6:21–29
+* ——— (ed) (2002) Race, ethnicity, and health. Jossey-Bass, San Francisco
+* Lee SS, Mountain J, Koenig BA (2001) The meanings of "race" in the new genomics: implications for health disparities research. Yale J Health Policy Law Ethics 1:33–75
+* Lewis B (1990) Race and slavery in the Middle East. Oxford University Press, New York
+* Lewontin RC (1972) The apportionment of human diversity. Evol Biol 6:381–398
+* Li WH, Sadler LA (1991) Low nucleotide diversity in man. Genetics 129:513–523
+* Lieberman DE, McBratney BM, Krovitz G (2002) The evolution and development of cranial form in Homo sapiens. Proc Natl Acad Sci USA 99:1134–1139
+* Lieberman L (2001) How "Caucasoids" got such big crania and why they shrank: from Morton to Rushton. Curr Anthropol 42:69–95
+* Lin SS, Kelsey JL (2000) Use of race and ethnicity in epidemiologic research: concepts, methodological issues, and suggestions for research. Epidemiol Rev 22:187–202
+* Lohmueller KE, Pearce CL, Pike M, Lander ES, Hirschhorn JN (2003) Meta-analysis of genetic association studies supports a contribution of common variants to susceptibility to common disease. Nat Genet 33:177–182
+* Long JC, Kittles RA (2003) Human genetic diversity and the nonexistence of biological races. Hum Biol 75:449–471
+* Mahoney MC, Michalek AM (1998) Health status of American Indians/Alaska natives: general patterns of mortality. Fam Med 30:190–195
+* Marchini J, Cardon LR, Phillips MS, Donnelly P (2004) The effects of human population structure on large genetic association studies. Nat Genet 36:512–517
+* Marks J (1995) Human biodiversity: genes, race, and history. Aldine de Gruyter, New York
+* Mays VM, Ponce NA, Washington DL, Cochran SD (2003) Classification of race and ethnicity: implications for public health. Annu Rev Public Health 24:83–110
+* McDougall I, Brown FH, Fleagle JG (2005) Stratigraphic placement and age of modern humans from Kibish, Ethiopia. Nature 433:733–736
+* McKeigue PM (2005) Prospects for admixture mapping of complex traits. Am J Hum Genet 76:1–7
+* Meltzer M (1993) Slavery: a world history, rev ed. DaCapo Press, Cambridge, MA
+* Miller GH, Magee JW, Johnson BJ, Fogel ML, Spooner NA, McCulloch MT, Ayliffe LK (1999) Pleistocene extinction of Genyornis newtoni: human impact on Australian megafauna. Science 283:205–208
+* Mörner M (1967) Race mixture in the history of Latin America. Little, Brown, Boston
+* Morton NE, Collins A (1998) Tests and estimates of allelic association in complex inheritance. Proc Natl Acad Sci USA 95:11389–11393
+* Mosse GL (1985) Toward the final solution, 2nd ed. University of Wisconsin Press, Madison
+* Mountain JL, Risch N (2004) Assessing genetic contributions to phenotypic differences among "racial" and "ethnic" groups. Nat Genet Suppl 36:S48–S53
+* Nobles M (2000) Shades of citizenship: race and the census in modern politics. Stanford University Press, Stanford
+* Nordborg M (1998) On the probability of Neanderthal ancestry. Am J Hum Genet 63:1237–1240
+* Nordborg M, Tavare S (2002) Linkage disequilibrium: what history has to tell us. Trends Genet 18:83–90
+* Ohno S (1996) The Malthusian parameter of ascents: what prevents the exponential increase of one's ancestors? Proc Natl Acad Sci USA 93:15276–15278
+* Olson S (2002) Mapping human history. Houghton Mifflin, Boston
+* Oppenheimer GM (2001) Paradigm lost: race, ethnicity, and the search for a new population taxonomy. Am J Public Health 91:1049–1055
+* Ossorio P, Duster T (2005) Controversies in biomedical, behavioral, and forensic sciences. Am Psychol 60:115–128
+* Ota Wang V, Sue S (2005) In the eye of the storm: race and genomics in research and practice. Am Psychol 60:37–45
+* Pääbo S (2003) The mosaic that is our genome. Nature 421:409–412
+* Page GP, George V, Go RC, Page PZ, Allison DB (2003) "Are we there yet?": Deciding when one has demonstrated specific genetic causation in complex diseases and quantitative traits. Am J Hum Genet 73:711–719 
+* Parra EJ, Kittles RA, Shriver MD (2004) Implications of correlations between skin color and genetic ancestry for biomedical research. Nat Genet 36:S54–S60
+* Parra EJ, Marcini A, Akey J, Martinson J, Batzer MA, Cooper R, Forrester T, Allison DB, Deka R, Ferrell RE, Shriver MD (1998) Estimating African American admixture proportions by use of population-specific alleles. Am J Hum Genet 63:1839–1851
+* Parra FC, Amado RC, Lambertucci JR, Rocha J, Antunes CM, Pena SD (2003) Color and genomic ancestry in Brazilians. Proc Natl Acad Sci USA 100:177–182
+* Patterson N, Hattangadi N, Lane B, Lohmueller KE, Hafler DA, Oksenberg JR, Hauser SL, Smith MW, O'Brien SJ, Altshuler D, Daly MJ, Reich D (2004) Methods for high-density admixture mapping of disease genes. Am J Hum Genet 74:979–1000
+* Pfaff CL, Barnholtz-Sloan J, Wagner JK, Long JC (2004) Information on ancestry from genetic markers. Genet Epidemiol 26:305–315
+* Platz EZ, Rimm EB, Willett WC, Kantoff PW, Giovannucci E (2000) Racial variation in prostate cancer incidence and in hormonal system markers among male health professionals. J Natl Cancer Inst 92:2009–2017
+* Pritchard JK (2001) Are rare variants responsible for susceptibility to complex diseases? Am J Hum Genet 69:124–137
+* Pritchard JK, Cox NJ (2002) The allelic architecture of human disease genes: common disease-common variant...or not? Hum Mol Genet 11:2417–2423
+* Provine WB (1986) Geneticists and race. Am Zoologist 26:857–887
+* Rawlings JS, Weir MR (1992) Race- and rank-specific infant mortality in a US military population. Am J Dis Child 146:313–316
+* Rees JL (2003) Genetics of hair and skin color. Annu Rev Genet 37:67–90
+* Reich DA, Lander ES (2001) On the allelic spectrum of human disease. Trends Genet 17:502–510
+* Relethford JH (2002) Apportionment of global human genetic diversity based on craniometrics and skin color. Am J Phys Anthropol 118:393–398
+* Risch N (2000) Searching for the genetic determinants in a new millennium. Nature 405:847–856
+* Risch N, Burchard E, Ziv E, Tang H (2002) Categorization of humans in biomedical research: genes, race and disease. Genome Biol 3 (http://genomebiology.com/2002/3/7/comment/2007) (electronically published July 1, 2002; accessed August 25, 2005)
+* Rivara F, Finberg L (2001) Use of the terms race and ethnicity. Arch Pediatr Adolesc Med 155:119
+* Rohde D, Olson S, Chang J (2004) Modeling the recent common ancestry of all living humans. Nature 431:562–566
+* Roseman CC (2004) Detecting interregionally diversifying natural selection on modern human cranial form by using matched molecular and morphometric data. Proc Natl Acad Sci USA 101:12824–12829
+* Rosenberg NA, Pritchard JK, Weber JL, Cann HM, Kidd KK, Zhivotovsky LA, Feldman MW (2002) Genetic structure of human populations. Science 298:2381–2385
+* Rotimi CN (2004) Are medical and nonmedical uses of large-scale genomic markers conflating genetics and "race"? Nat Genet 36:S43–S47
+* Sallout B, Walker M (2003) The fetal origin of adult diseases. J Obstet Gynaecol 23:555–560
+* Sankar P, Cho MK (2002) Toward a new vocabulary of human genetic variation. Science 298:1337–1338
+* Sankar P, Cho MK, Condit DM, Hunt LM, Koenig B, Marshall P, Lee SS, Spicer P (2004) Genetic research and health disparities. JAMA 291:2985–2989
+* Satta Y, Takahata N (2002) Out of Africa with regional interbreeding? Modern human origins. Bioessays 24:871–875
+* Serre D, Langaney A, Chech M, Teschler-Nicola M, Paunovic M, Mennecier P, Hofreiter M, Possnert G G, Pääbo S (2004) No evidence of Neandertal mtDNA contribution to early modern humans. PLoS Biol 2:313–317
+* Serre D, Pääbo S (2004) Evidence for gradients of human genetic diversity within and among continents. Genome Res 14:1679–1685
+* Shields AE, Fortun M, Hammonds EM, King PA, Lerman C, Rapp R, Sullivan PF (2005) The use of race variables in genetic studies of complex traits and the goal of reducing health disparities: a transdisciplinary perspective. Am Psychol 60:77–103
+* Shipler D (1997) A country of strangers: blacks and whites in America. Knopf, New York
+* Shostak S (2003) Locating gene-environment interaction: at the intersections of genetics and public health. Soc Sci Med 56:2327–2342
+* Shriver MD, Parra EJ, Dios S, Bonilla C, Norton H, Jovel C, Pfaff C, Jones C, Massac A, Cameron N, Baron A, Jackson T, Argyropoulos G, Jin L, Hoggart CJ, McKeigue PM, Kittles RA (2003) Skin pigmentation, biogeographical ancestry, and admixture mapping. Hum Genet 112:387–399
+* Smedley A (1999) Race in North America: origin and evolution of a worldview, 2nd ed. Westview Press, Boulder
+* Smelser N, Wilson WJ, Mitchell F (eds) (2001) America becoming: racial trends and their consequences. Vol 2. National Academy Press, Washington, DC
+* Smith DJ, Lusis AJ (2002) The allelic structure of common disease. Hum Mol Genet 11:2455–2461
+* Smith MW, Patterson N, Lautenberger JA, Truelove AL, McDonald GJ, Waliszewska A, Kessing BD, et al (2004) A high-density admixture map for disease gene discovery in African Americans. Am J Hum Genet 74:1001–1013
+* Snowden FM (1983) Before color prejudice: the ancient view of blacks. Harvard University Press, Cambridge, MA
+* Spickard PR (1992) The illogic of American racial categories. In: Root MPP (ed) Racially mixed people in America. Sage, Newbury Park, CA, pp 12–23
+* Stanton W (1960) The leopard's spots: scientific attitudes toward race in America, 1815–1859. University of Chicago Press, Chicago
+* Stevens J (2003) Racial meanings and scientific methods: changing policies for NIH-sponsored publications reporting human variation. J Health Polit Policy Law 28:1033–1087
+* Stringer C (2002) Modern human origins: progress and prospects. Philos Trans R Soc Lond B Biol Sci 357:563–579
+* Sturm RA, Teasdale RD, Box NF (2001) Human pigmentation genes: identification, structure and consequences of polymorphic variation. Gene 277:49–62
+* Swisher CC 3rd, Curtis GH, Jacob T, Getty AG, Suprijo A, Widiasmoro (1994) Age of the earliest known hominids in Java, Indonesia. Science 263:1118–1121
+* Takahata N, Lee S, Satta Y (2001) Testing multiregionality of modern human origins. Mol Biol Evol 18:172–183
+* Takaki R (1993) A different mirror: a history of multicultural America. Little, Brown, Boston
+* Tang H, Quertermous T, Rodriguez B, Kardia SLR, Zhu X, Brown A, Pankow JS, Province MA, Hunt SC, Boerwinkle E, Schork NJ, Risch NJ (2005) Genetic structure, self-identified race/ethnicity, and confounding in case-control association studies. Am J Hum Genet 76:268–275
+* Tate SK, Goldstein DB (2004) Will tomorrow's medicines work for everyone? Nat Genet 36:S34–S42
+* Templeton AR (1998) Human races: a genetic and evolutionary perspective. Am Anthropol 100:632–650
+* ——— (2002) Out of Africa again and again. Nature 416:45–51
+* Thomas DC, Witte JS (2002) Point: population stratification: a problem for case-control studies of candidate-gene associations? Cancer Epidemiol Biomarkers Prev 11:505–512
+* Tishkoff SA, Kidd KK (2004) Implications of biogeography of human populations for "race" and medicine. Nat Genet 36:S21–S27
+* Tishkoff SA, Pakstis AJ, Stoneking M, Kidd JR, Destro-Bisol G, Sanjantila A, Lu R-b, Deinard AS, Sirugo G, Jenkins T, Kidd KK, Clark AG (2000) Short tandem-repeat polymorphism/Alu haplotype variation at the PLAT locus: implications for modern human origins. Am J Hum Genet 67:901–925
+* Tishkoff SA, Verrelli B (2003) Patterns of human genetic diversity: implications for human evolutionary history and disease. Annu Rev Genomics Hum Genet 4:293–340
+* Tishkoff SA, Williams SM (2002) Genetic analysis of African populations: human evolution and complex disease. Nat Rev Genet 3:611–621
+* Todorov T (1993) On human diversity. Harvard University Press, Cambridge, MA
+* Trinkaus E, Milota S, Rodrigo R, Mircea G, Moldovan O (2003) An early modern human from the Pestera cu Oase, Romania. Proc Natl Acad Sci USA 100:11231–11236
+* Underhill PA, Underhill PA, Shen P, Lin AA, Jin L, Passarino G, Yang WH, Kauffman E, Bonne-Tamir B, Bertranpetit J, Francalacci P, Ibrahim M, Jenkins T, Kidd JR, Mehdi SQ, Seielstad MT, Wells RS, Piazza A, Davis RW, Feldman MW, Cavalli-Sforza LL, Oefner PJ (2000) Y chromosome sequence variation and the history of human populations. Nat Genet 26:358–361
+* Vega WA, Amaro H (1994) Latino outlook: good health, uncertain prognosis. Annu Rev Public Health 15:39–67
+* Venter JC, Adams MD, Myers EW, Li PW, Mural RJ, Sutton GG, Smith HO, et al (2001) The sequence of the human genome. Science 291:1304–1351
+* Wacholder S, Rothman N, Caporaso N (2002) Counterpoint: bias from population stratification is not a major threat to the validity of conclusions from epidemiological studies of common polymorphisms and cancer. Cancer Epidemiol Biomarkers Prev 11:513–520
+* Wall JD (2000) Detecting ancient admixture in humans using sequence polymorphism data. Genetics 154:1271–1279
+* Wallace R, Wallace D, Wallace RG (2004) Coronary heart disease, chronic inflammation, and pathogenic social hierarchy: a biological limit to possible reductions in morbidity and mortality. J Natl Med Assoc 96:609–619
+* Waters M (1990) Ethnic options: choosing identities in America. University of California Press, Berkeley
+* Weatherall D (1999) From genotype to phenotype: genetics and medical practice in the new millennium. Philos Trans R Soc Lond B Biol Sci 354:1995–2010
+* Weiss KM (1998) Coming to terms with human variation. Annu Rev Anthropol 27:273–300
+* Weiss KM, Terwilliger JD (2000) How many diseases does it take to map a gene with SNPs? Nat Genet 26:151–157
+* White TD, Asfaw B, DeGusta D, Gilbert H, Richards GD, Suwa G, Howell FC (2003) Pleistocene Homo sapiens from Middle Awash, Ethiopia. Nature 423:742–747
+* Whyatt RM, Rauh V, Barr DB, Camann DE, Andrews HF, Garfinkel R, Hoepner LA, Diaz D, Dietrich J, Reyes A, Tang D, Kinney PL, Perera FP (2004) Prenatal insecticide exposures and birth weight and length among an urban minority cohort. Environ Health Perspect 112:1125–1132
+* Wiencke JK (2004) Impact of race/ethnicity on molecular pathways in human cancer. Nat Rev Cancer 4:79–84
+* Wilson JF, Weale ME, Smith AC, Gratrix F, Fletcher B, Thomas MG, Bradman N, Goldstein DB (2001) Population genetic structure of variable drug response. Nat Genet 29:265–269
+* Wolpoff M, Caspari R (1997) Race and human evolution: a fatal attraction. Simon &amp; Schuster, New York
+* Wolpoff M, Hawks J, Frayer DW, Hunley K (2001) Modern human ancestry at the peripheries: a test of the replacement theory. Science 291:293–297
+* Yu N, Chen FC, Ota S, Jorde LB, Pamilo P, Patthy L, Ramsay M, Jenkins T, Shyue SK, Li WH (2002) Larger genetic differences within Africans than between Africans and Eurasians. Genetics 161:269–274
+* Yu N, Jensen-Seaman MI, Chemnick L, Kidd JR, Deinard AS, Ryder O, Kidd KK, Li WH (2003) Low nucleotide diversity in chimpanzees and bonobos. Genetics 164:1511–1518
+* Zi&amp;eogon;tkiewicz E, Yotova V, Gehl D, Wambach T, Arrieta I, Batzer M, Cole DEC, Hechtman P, Kaplan F, Modiano D, Moisan J-P, Michalski R, Labuda D (2003) Haplotypes in the dystrophin DNA segment point to a mosaic origin of modern human diversity. Am J Hum Genet 73:994–1015
+
+== External links ==
+{{wikiquote}}
+
+* [http://www.ornl.gov/sci/techresources/Human_Genome/elsi/minorities.shtml US Human Genome Project on "Issues of Race"]
+* [http://raceandgenomics.ssrc.org/ Is Race "Real"?] - forum organized by the [[Social Science Research Council]], includes a March 2005 op-ed article by A.M. Leroi from the ''New York Times'' advocating biological conceptions of race and responses from scholars in a variety of fields.
+* [http://www.pbs.org/race Race - The power of an illusion] Online companion to California Newsreel's 3-part documentary about race in society, science, and history.
+* Steven and Hilary Rose, The Guardian, [http://www.politics.guardian.co.uk/life/science/story/0,12996,1455716,00.html "Why we should give up on race"], [[9 April]] [[2005]]
+* Times Online, [http://www.timesonline.co.uk/article/0,,8122-1331319,00.html "Gene tests prove that we are all the same under the skin"], [[27 October]] [[2004]].
+* Catchpenny mysteries of ancient Egypt, [http://www.catchpenny.org/race.html "What race were the ancient Egyptians?"], Larry Orcutt.
+* Judy Skatssoon, [http://www.abc.net.au/science/news/stories/s1153697.htm "New twist on out-of-Africa theory"], ''ABC Science Online'', Wednesday, [[14 July]] [[2004]].
+* Michael J. Bamshad, Steve E. Olson [http://www.sciam.com/article.cfm?chanID=sa006&amp;colID=1&amp;articleID=00055DC8-3BAA-1FA8-BBAA83414B7F0000  "Does Race Exist?"], ''Scientific American'', December 2003
+* OMB Statistical Directive 15, [http://www.doi.gov/diversity/doc/racedata.htm "Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity"], ''Federal Register'', [[30 October]] [[1997]].
+* Sandra Soo-Jin Lee, Joanna Mountain, and Barbara A. Koenig,  [http://academic.udayton.edu/health/08Research/research01.htm "The Reification of Race in Health Research"]
+* Michael Root, [http://philsci-archive.pitt.edu/archive/00001094/ "The Use of Race in Medicine as a Proxy for Genetic Differences"]
+* [[Richard Dawkins]]: [http://www.prospect-magazine.co.uk/article_details.php?id=6467 Race and creation] (extract from [[The Ancestor's Tale: A Pilgrimage to the Dawn of Life]]) - On race, its usage and a theory of how it evolved. ([http://www.prospect-magazine.co.uk/ Prospect Magazine] October 2004) (see also [http://www.amren.com/mtnews/archives/2004/09/race_and_creati.php# longer extract here])
+* [http://www.bloodbook.com/world-abo.html Racial &amp; Ethnic Distribution of ABO Blood Types] - bloodbook.com
+* [http://www.nytimes.com/2002/12/20/health/20GENE.html "Gene Study Identifies 5 Main Human Populations, Linking Them to Geography"], Nicholas Wade, ''NYTimes'', December 2002.  Covering [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12493913&amp;query_hl=2 "Genetic structure of human populations"], Feldman et al, ''Science''.  - "Self-reported population ancestry likely provides a suitable proxy for genetic ancestry." 
+* [http://www.upi.com/view.cfm?StoryID=15042002-084051-5356r DNA Study published by United Press International showing how 30% of White Americans have at least one Black ancestor]
+
+[[Category:Race]]
+[[Category:Taxonomy]]
+[[Category:Scientific classification]]
+[[Category:Kinship and descent]]
+[[Category:Social inequality]]
+[[da:Race]]
+[[de:Rasse]]
+[[es:Raza]]
+[[fr:Race]]
+[[he:&amp;#1490;&amp;#1494;&amp;#1506;&amp;#1497; &amp;#1492;&amp;#1488;&amp;#1491;&amp;#1501;]]
+[[id:Ras manusia]]
+[[it:Razza]]
+[[ko:&amp;#51064;&amp;#51333;]]
+[[lt:Ras&amp;#279;]]
+[[nl:Ras (mensheid)]]
+[[no:Rase]]
+[[ja:&amp;#20154;&amp;#31278;]]
+[[pl:Rasa]]
+[[ru:&amp;#1056;&amp;#1072;&amp;#1089;&amp;#1099;]]
+[[fi:Rotu]]
+[[sv:Ras]]
+[[uk:Раса]]
+[[zh:&amp;#31181;&amp;#26063;]]
+[[he:גזע]]
+&lt;!-- en-US --&gt;</rev></revisions></page></pages></query></api>

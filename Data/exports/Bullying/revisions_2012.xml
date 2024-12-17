@@ -1,0 +1,368 @@
+<?xml version="1.0"?><api><continue rvcontinue="20121118122909|523659775" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="432459" pageid="432459" ns="0" title="Bullying"><revisions><rev timestamp="2012-11-18T12:38:48Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{pp-semi-indef}}{{pp-move-indef}}
+:''For the Wikipedia guidance essay, see [[Wikipedia:WikiBullying]].''
+[[File:Bullying Irfe.jpg|220px|thumb|Bullying is detrimental to students’ well-being and development.&lt;ref name=nces-2005-310/&gt;]]
+
+'''Bullying''' is the use of force or [[coercion]] to [[abuse]] or [[intimidate]] others. The behavior can be habitual and involve an imbalance of social or physical power. It can include verbal [[harassment]] or [[threat]], physical [[assault]] or coercion and may be directed repeatedly towards particular victims, perhaps on grounds of [[Race (classification of humans)|race]], [[religion]], [[gender]], [[Sexual orientation|sexuality]], or ability.&lt;ref&gt;[http://www.cambridgeshire.gov.uk/education/parents/welfare/Bullying/whatisbullying.htm Cambridgeshire.gov.uk]&lt;/ref&gt;&lt;ref&gt;(U.S. Dept. of Justice, Fact Sheet #FS-200127)&lt;/ref&gt; If bullying is done by a group, it is called [[mobbing]]. The victim of bullying is sometimes referred to as a "target".
+
+Bullying can be defined in many different ways. The [[United Kingdom|UK]] currently has no legal definition of bullying,&lt;ref&gt;[http://www.campus.manchester.ac.uk/equalityanddiversity/harassmentdiscriminationandbullying/ Harassment, Discrimination and Bullying Policy] &amp;ndash; [[University of Manchester]]&lt;/ref&gt; while some [[United States|U.S.]] states have laws against it.&lt;ref&gt;At least 15 states have passed laws addressing bullying among school children. [http://72.14.205.104/search?q=cache:ao8az0gkKqMJ:stopbullyingnow.hrsa.gov/HHS_PSA/pdfs/SBN_Tip_6.pdf+bullying+legislation&amp;hl=en&amp;ct=clnk&amp;cd=3&amp;gl=us&amp;client=firefox-a Google Search]&lt;/ref&gt; Bullying consists of three basic types of abuse &amp;ndash; [[Psychological abuse|emotional]], [[Verbal abuse|verbal]], and [[Physical abuse|physical]]. It typically involves subtle methods of coercion such as intimidation.
+
+Bullying ranges from simple one-on-one bullying to more complex bullying in which the bully may have one or more "lieutenants" who may seem to be willing to assist the primary bully in his or her bullying activities. Bullying in school and the workplace is also referred to as peer abuse.&lt;ref&gt;Bennett, Elizabeth ''Peer Abuse Know More: Bullying From a Psychological Perspective'' (2006)&lt;/ref&gt; [[Robert W. Fuller]] has analyzed bullying in the context of [[rankism]].
+
+Bullying can occur in any context in which human beings interact with each other. This includes [[School bullying|school]], church, family, the [[Workplace bullying|workplace]], home, and neighborhoods.
+
+[[File:IRFE bull.png|thumb|right|240px|[[Happy slapping]] in the [[Instituto Regional Federico Errázuriz]], Santa Cruz, Chile]]
+
+==Definitions and etymology==
+===Definitions===
+Bullying may be defined as the activity of repeated, aggressive behavior intended to hurt another person, physically or mentally. Bullying is characterized by an individual behaving in a certain way to gain [[power (philosophy)|power]] over another person.&lt;ref name="Besag" /&gt;
+
+Norwegian researcher Dan Olweus&lt;ref&gt;[http://www.clemson.edu/olweus/history.htm Clemson University: about Dan Olweus]&lt;/ref&gt; says bullying occurs when a person is: &lt;blockquote&gt;'exposed, repeatedly and over time, to negative actions on the part of one or more other persons'. He says negative actions occur 'when a person intentionally inflicts injury or discomfort upon another person, through physical contact, through words or in other ways.'{{cn|date=October 2012}}&lt;/blockquote&gt;
+
+===Etymology===
+The word "bully" was first used in the 1530s meaning "sweetheart", applied to either sex, from the Dutch ''boel'' "lover, brother", probably diminutive of Middle High German ''buole'' "brother", of uncertain origin (compare with the German ''buhle'' "lover"). The meaning deteriorated through the 17th century through "fine fellow", "blusterer", to "harasser of the weak". This may have been as a connecting sense between "lover" and "ruffian" as in "protector of a prostitute", which was one sense of "bully" (though not specifically attested until 1706). The verb "to bully" is first attested in 1710.&lt;ref&gt;[http://www.etymonline.com/index.php?term=bully Etymology of bully]&lt;/ref&gt;
+
+==History==
+High-level forms of violence such as assault and murder usually receive most media attention, but lower-level forms of violence such as bullying have only in recent years started to be addressed by researchers, parents and guardians, and authority figures.&lt;ref name=Whitted/&gt; It is only in recent years that bullying has been recognised and recorded as a separate and distinct offence, but there have been well documented cases that have been recorded over the centuries. The Fifth Volume of the Newgate Calendar&lt;ref&gt;[http://tarlton.law.utexas.edu/lpop/etext/completenewgate.htm Complete Newgate Calendar] Tarlton Law Library The University of Texas School of Law&lt;/ref&gt; contains at least one example where Eton Scholars George Alexander Wood and Alexander Wellesley Leith were charged, at Aylesbury Assizes, with killing and slaying the Hon. F. Ashley Cooper on February 28, 1825 in an incident which might today be described as "lethal [[hazing]]".&lt;ref&gt;[http://tarlton.law.utexas.edu/lpop/etext/newgate5/woodg.htm George Alexander Wood and Alexander Wellesley Leith] The Complete Newgate Calendar Volume V, Tarlton Law Library The University of Texas School of Law&lt;/ref&gt; The Newgate calendar contains several other examples that, while not as distinct, could be considered indicative of situations of bullying. [[Virginia Woolf]] considered fascism to be a form of bullying, and wrote of Hitler and the Nazis in 1934 as "these brutal bullies".&lt;ref&gt;Zwerdling, Alex (1987 ) [http://books.google.com/books?id=9YkTuYctVEwC&amp;pg=PA263 Virginia Woolf and the Real World] p.263&lt;/ref&gt;&lt;ref&gt;Pawlowski, Merry M. (2001) [http://books.google.com/books?id=LkaqoFngBokC&amp;pg=PA104 ''Virginia Woolf and fascism: resisting the dictators' seduction''] p.104&lt;/ref&gt;
+
+===Anti-bullying movement===
+In the 2000s and 2010s, a cultural movement against bullying gained popularity in the English-speaking world.  The first [http://www.bullyingawarenessweek.org National Bullying Prevention Week] was conceived of in Canada in 2000 by Canadian educator and anti-bullying activist [[Bill Belsey]]. The charity [[Act Against Bullying]] was formed in the UK in 2003. In 2006, [[National Bullying Prevention Month]] was declared in the United States. The [[Suicide of Phoebe Prince]] in 2010 brought attention to the issue in Massachusetts, and sparked reforms in state education.  The [[It Gets Better Project]] was started in 2010 to combat gay teen suicides, and [[Lady Gaga]] announced the Born This Way Foundation in partnership with Harvard's [[Berkman Center for Internet &amp; Society]] in 2011.
+
+A 2012 paper from the Berkman Center, “An Overview of State Anti-Bullying Legislation and Other Related Laws,” notes that, as of January 2012, 48 U.S. states had anti-bullying laws, though there is wide variation in their strength and focus. Sixteen states acknowledge that bullies often target their victims based on “creed or religion, disability, gender or sex, nationality or national origin, race, and sexual orientation.” Each of the 16 employs a wide array of additional parameters, the paper notes, ranging from age and weight to socioeconomic status. Of the 38 states that have laws encompassing electronic or “cyberbullying” activity, 32 put such offenses under the broader category of bullying and six states define this type of offense separately, the authors report.&lt;ref&gt;{{cite web|url = http://journalistsresource.org/studies/society/education/federal-state-anti-bullying-legislation-laws/|title=Overview of State Anti-Bullying Legislation and Other Related Laws|publisher=journalistsresource.org }}&lt;/ref&gt;
+
+==Characteristics==
+===Of bullying in general===
+Bullying consists of three basic types of [[abuse]] &amp;ndash; [[Psychological abuse|emotional]], [[Verbal abuse|verbal]], and [[Physical abuse|physical]]. It typically involves subtle methods of [[coercion]] such as [[intimidation]]. Bullying behavior may include name calling, [[Verbal abuse|verbal]] or written abuse, exclusion from activities, exclusion from social situations, [[physical abuse]], or [[coercion]].&lt;ref name=Whitted&gt;Whitted, K.S. &amp; Dupper, D.R. (2005). Best Practices for Preventing or Reducing Bullying in Schools. ''Children and Schools'', Vol. 27, No. 3, July 2005, pp. 167-175(9).&lt;/ref&gt;&lt;ref&gt;Carey, T.A. (2003) Improving the success of anti-bullying intervention programs: A tool for matching programs with purposes. International Journal of Reality Therapy, 23(2), 16-23&lt;/ref&gt;
+
+U.S. National Center for Education Statistics suggests that bullying can be classified into two categories: 
+# direct bullying, and
+# indirect bullying (which is also known as social aggression).&lt;ref name=nces-2005-310&gt;[http://nces.ed.gov/pubs2005/2005310.pdf ''Student Reports of Bullying''], Results From the 2001 School Crime Supplement to the National Crime Victimization Survey, US National Center for Education Statistics&lt;/ref&gt;
+
+Ross states that direct bullying involves a great deal of physical [[aggression]], such as shoving and poking, throwing things, slapping, choking, punching and kicking, beating, stabbing, pulling hair, scratching, [[Bite|biting]], scraping, and pinching.&lt;ref name=ross&gt;Ross, P. N. (1998). Arresting violence: A resource guide for schools and their communities. Toronto: Ontario Public School Teachers' Federation.&lt;/ref&gt;
+
+He also suggests that social aggression or indirect bullying is characterized by attempting to [[social isolation|socially isolate]] the victim. This isolation is achieved through a wide variety of techniques, including spreading [[gossip]], refusing to socialize with the victim, bullying other people who wish to socialize with the victim, and [[Criticism|criticizing]] the victim's manner of dress and other socially-significant markers (including the victim's race, religion, disability, sex, or sexual preference, etc.). Ross&lt;ref name=ross/&gt; outlines an array of nonviolent behavior which can be considered "indirect bullying", at least in some instances, such as name calling, the [[silent treatment]], [[Chewbacca defense|arguing others into submission]], [[Psychological manipulation|manipulation]], gossip/false gossip, [[lie]]s, [[rumor]]s/[[slander|false rumors]], [[staring]], giggling, laughing at the victim, saying certain words that trigger a reaction from a past event, and mocking. The UK based children's charity, [[Act Against Bullying]], was set up in 2003 to help children who were victims of this type of bullying by researching and publishing [[coping skills]].
+
+It has been noted that there tend to be differences in how bullying manifests itself between the sexes. Males tend to be more likely to be physically aggressive whereas females tend to favour [[exclusion]] and mockery, though it has been noticed that females are becoming more physical in their bullying.&lt;ref name=Besag&gt;Besag, V. E. (1989) Bullies and Victims in Schools. Milton Keynes, England: Open University Press&lt;/ref&gt; There can be a tendency in both sexes to opt for exclusion and mockery rather than physical aggression when the victim is perceived to be too strong to attack without risk, or the use of violence would otherwise cause problems for the bullies such as criminal liability, or the bullies see physical aggression as immature (particularly when bullying occurs among adults). {{cn|date=September 2012}}
+
+Clayton R. Cook and co-authors from the University of California at Riverside examined 153 studies from the last 30 years. They found that boys bully more than girls, and bullies and victims both have poor social problem-solving skills. More than anything else, poor academic performance predicts those who will bully.&lt;ref name="cook"&gt;Predictors of Bullying and Victimization in Childhood and
+Adolescence: A Meta-analytic Investigation, http://www.apa.org/news/press/releases/2010/07/bully-victim.aspx, http://www.apa.org/pubs/journals/releases/spq-25-2-65.pdf&lt;/ref&gt;
+
+===Of bullies and bully accomplices===
+Studies have shown that [[envy]] and [[resentment]] may be motives for bullying.&lt;ref name=vari&gt;''Bullying and emotional abuse in the workplace. International perspectives in research and practice'', Einarsen, S., Hoel, H., Zapf, D., &amp; Cooper, C. L. (Eds.)(2003), Taylor &amp; Francis, London.&lt;/ref&gt; Research on the [[self-esteem]] of bullies has produced equivocal results.&lt;ref&gt;{{Cite journal|author=Pollastri AR, Cardemil EV, O'Donnell EH |title=Self-Esteem in Pure Bullies and Bully/Victims: A Longitudinal Analysis |journal=Journal of Interpersonal Violence |volume= 25|issue= 8|pages= 1489–502|year=2009 |month=December |pmid=20040706 |doi=10.1177/0886260509354579|last2=Cardemil}}&lt;/ref&gt;&lt;ref name=bkn&gt;{{Cite journal|first1=George M. |last1=Batsche |first2=Howard M. |last2=Knoff |year=1994 |title=Bullies and their victims: Understanding a pervasive problem in the schools |journal=School Psychology Review |volume=23 |issue=2 |pages=165–175 |url=http://faculty.buffalostate.edu/hennesda/BULLIES_AND_THEIR_VICTIMS.doc}}&lt;/ref&gt; While some bullies are [[:wikt:arrogant|arrogant]] and [[narcissistic]],&lt;ref&gt;[http://www.bullyonline.org/workbully/faq.htm Answers to frequently asked questions about workplace bullying]&lt;/ref&gt; bullies can also use bullying as a tool to conceal [[shame]] or [[anxiety]] or to boost self-esteem: by demeaning others, the abuser feels empowered.&lt;ref&gt;[http://www.scribd.com/doc/7882659/Presentation-Bullying Presentation Bullying]&lt;/ref&gt; Bullies may bully out of [[jealousy]] or because they themselves are bullied.&lt;ref&gt;Crothers, L. M. &amp; Levinson, E. M. (2004, Fall). Assessment of Bullying: A review of methods and instruments. Journal of Counseling &amp; Development, 82(4), 496–503.&lt;/ref&gt; Some have argued that a bully reflects the environment of his home, repeating the model he learned from his parents.&lt;ref&gt;{{cite web|title=Matonismo es la principal forma de violencia en el ‘cole’|url=http://www.nacion.com/2010-05-16/ElPais/FotoVideoDestacado/ElPais2369897.aspx|work=[[La Nación (San José){{!}}La Nación]]|date=16/05/2010|quote=Orlando Urroz, subdirector del Hospital Nacional de Niños, explicó que el matonismo en los infantes es un reflejo del ambiente que viven en sus hogares. 'El bullying no surge por generación espontánea, es un proceso de aprendizaje, de repetir los modelos de los padres', detalló.}}&lt;/ref&gt; 
+
+Researchers have identified other risk factors such as [[Depression (mood)|depression]]&lt;ref&gt;{{Cite journal|author=Patterson G |title=The bully as victim? |journal=Paediatric Nursing |volume=17 |issue=10 |pages=27–30 |year=2005 |month=December |pmid=16372706}}&lt;/ref&gt; and [[personality disorders]],&lt;ref&gt;{{Cite journal|author=Kumpulainen K |title=Psychiatric conditions associated with bullying |journal=International Journal of Adolescent Medicine and Health |volume=20 |issue=2 |pages=121–32 |year=2008 |pmid=18714551|doi=10.1515/IJAMH.2008.20.2.121}}&lt;/ref&gt; as well as quickness to [[anger]] and use of force, [[Behavioral addiction|addiction]] to [[Aggression|aggressive behaviors]], mistaking others' actions as hostile, concern with preserving [[self image]], and engaging in obsessive or rigid actions.&lt;ref name=vari2&gt;{{Cite journal|doi=10.1177/0143034397181001 |title=Areas of Expert Agreement on Identification of School Bullies and Victims |year=1997 |last1=Hazlerr |first1=R. J. |last2=Carney |first2=J. V. |last3=Green |first3=S. |last4=Powell |first4=R. |last5=Jolly |first5=L. S. |journal=School Psychology International |volume=18 |pages=5}}&lt;/ref&gt; A combination of these factors may also be causes of this behavior.&lt;ref&gt;{{Cite journal|doi=10.1016/S0191-8869(97)00145-1 |title=The relationship among bullying, victimization, depression, anxiety, and aggression in elementary school children |year=1998 |last1=Craig |first1=W.M.|journal=Personality and Individual Differences |volume=24 |issue=1 |pages=123–130}}&lt;/ref&gt;  In one recent study of youth, a combination of antisocial traits and depression was found to be the best predictor of youth violence, whereas video game violence and television violence exposure were not predictive of these behaviors.&lt;ref name="Ferguson, 2011"&gt;{{cite journal|last=Ferguson|first=Christopher J.|year=2011|title=Video Games and Youth Violence: A Prospective Analysis in Adolescents.|journal=Journal of Youth and Adolescence|volume=40|issue=4|url=http://www.tamiu.edu/~cferguson/Video%20Games%201%20Year.pdf}}&lt;/ref&gt;
+
+According to some researchers, bullies may be inclined toward negativity and perform poorly academically. Dr. Cook says that "a typical bully has trouble resolving problems with others and also has trouble academically. He or she usually has negative attitudes and beliefs about others, feels negatively toward himself/herself, comes from a family environment characterized by conflict and poor parenting, perceives school as negative and is negatively influenced by peers".&lt;ref name="cook" /&gt;
+
+Contrarily, some researchers have suggested that some bullies are "psychologically strongest" and have "high social standing" among their peers, while their victims are "emotionally distressed" and "socially marginalized".&lt;ref&gt;Juvonen (2003) [http://pediatrics.aappublications.org/content/112/6/1231.abstract ''Bullying Among Young Adolescents: The Strong, the Weak and the Troubled''] in ''Pediatrics'', December 2003, {{cite web
+|year = 2004
+|url = http://www.kimberlyswygert.com/archives/001765.html
+|title = The benefits of bullying
+|accessdate = 2011-09-03}}&lt;/ref&gt; Other researchers also argued that a minority of the bullies, those who are not in turn bullied, "enjoy going to school, and are least likely to take days off sick".&lt;ref&gt;{{cite news
+|url = http://news.bbc.co.uk/1/hi/education/564923.stm
+|title = Bullies are healthiest pupils
+|accessdate = 2011-09-03
+|work=BBC News
+|date=1999-12-14}}&lt;/ref&gt;
+
+It is often suggested that bullying behavior has its origin in childhood. As a child who is inclined to act as a bully ages, his or her related behavior patterns may also become more sophisticated. Schoolyard pranks and "rough-housing" may develop into more subtle activities such as administrative end-runs, planned and orchestrated attempts at [[character assassination]], or other less obvious, yet equally forceful forms of coercion. {{cn|date=September 2012}}
+
+Research indicates that adults who bully have [[authoritarian]] personalities, combined with a strong need to control or [[dominance (ethology)|dominate]].&lt;ref name=brodsky&gt;''The Harassed Worker'', Brodsky, C. (1976), [[D.C. Heath and Company]], Lexington, Massachusetts.&lt;/ref&gt; It has also been suggested that a prejudicial view of subordinates can be a particularly strong risk factor.&lt;ref name=ashforth&gt;''Petty tyranny in organizations'', Ashforth, Blake, Human Relations, Vol. 47, No. 7, 755-778 (1994)&lt;/ref&gt;
+
+===Of typical bystanders===
+Often bullying takes place in the presence of a large group of relatively uninvolved bystanders. In many cases, it is the bully's ability to create the illusion that he or she has the support of the majority present that instills the fear of "speaking out" in protestation of the bullying activities being observed by the group. Unless the "bully mentality" is effectively challenged in any given group in its early stages, it often becomes an accepted, or supported, norm within the group.&lt;ref name = "bystander attitudes"&gt;{{cite web
+| year = 2010
+| url = http://www.athealth.com/Consumer/issues/BulliesVictimsBystanders3.html
+| title= Bullies, Victims, and Bystanders- Bystanders
+| accessdate = 2010-11-17}} Description of typical attitudes of bystanders to bullying.
+&lt;/ref&gt;
+&lt;ref name = "bystander programs"&gt;{{cite web
+| year = 2010
+| url = http://www.sciencedaily.com/releases/2009/01/090125193150.htm
+| title= New Tactics To Tackle Bystander's Role In Bullying
+| accessdate = 2010-11-17}} Science Daily website reviews effectiveness of several bullying-bystander awareness programs.
+&lt;/ref&gt;
+
+In such groups where the "bully mentality" has been allowed to become a dominant factor in the group environment, injustice and abuse often become regular and predictable parts of the group experience. Bystanders to bullying activities are often unable or unwilling to recognize the true costs that silence regarding the bullying can have, both to the victim or victims, and to the group. Bystanders often feel unwilling to empathize with the victim, regardless of their feelings towards the bully. The reversal of a culture of bullying within a group is usually an effort which requires much time, energy, careful planning, coordination with others, and usually requires some undertaking of "risk" by group members. {{cn|date=September 2012}}
+
+It is the general unwillingness of bystanders to expend these types of energies and to undertake this type of risk that bullies often rely upon in order to maintain their power. Unless action is taken, a "culture of bullying" is often perpetuated within a group for months, years, or longer.&lt;ref name = "petty tyrant-text"&gt;{{cite web
+| year = 2010
+| url = http://www.thisamericanlife.org/radio-archives/episode/419/petty-tyrant
+| title= Petty Tyrant: Text intro: NPR documentary (see audio link below)
+| accessdate = 2010-11-17}} Exposé of workplace bullying in Schenectady NY school district. An in depth view of how a workplace bully rose to power and how he fell. Detailed discussion of how bystanders coerced into allowing workplace bullying.
+&lt;/ref&gt;
+&lt;ref name = "petty tyrant-audio"&gt;{{cite web
+| year = 2010
+| url = http://www.thisamericanlife.org/sites/all/play_music/play_full.php?play=419&amp;podcast=1
+| title= Petty Tyrant: Audio link
+| accessdate = 2010-11-17}} Audio link to "Petty Tyrant" NPR documentary.
+&lt;/ref&gt;
+
+Bystanders who have been able to establish their own "friendship group" or "support group" have been found to be far more likely to opt to speak out against bullying behavior than those who have not.&lt;ref name = "jim porter video"&gt;{{cite web
+| year = 2010
+| url = http://video.tbo.com/m/34698658/hands-on-hero.htm?pageid=110466
+| title= Pasco County Students Making Friends and Stopping Bullying
+| accessdate = 2010-11-27}} Psychologist Jim Porter reports on the correlation between making friends and speaking out against bullying. (See "Program Helps Students Combat Bullying" reference below.)
+&lt;/ref&gt;
+&lt;ref name = "jim porter tampa tribune article"&gt;{{cite web
+| year = 2010
+| url = http://www.winningharmony.com/News_and_Events.php
+| title= Program Helps Students Combat Bullying
+| accessdate = 2010-11-27}} Discussion of the role of friendship groups in countering bullying behavior.
+&lt;/ref&gt;
+
+===Of targets===
+Dr. Cook says that "A typical victim is likely to be aggressive, lack social skills, think negative thoughts, experience difficulties in solving social problems, come from a negative family, school and community environments and be noticeably rejected and isolated by peers".&lt;ref name="cook" /&gt;
+
+====Effects of bullying on those who are targeted====
+Mona O’Moore of the Anti-Bullying Centre at Trinity College in Dublin, has written, "There is a growing body of research which indicates that individuals, whether child or adult, who are persistently subjected to abusive behavior are at risk of stress related illness which can sometimes lead to suicide".&lt;ref name=tcd&gt;[http://www.abc.tcd.ie/ ''Anti-Bullying Center'' Trinity College, Dublin],&lt;/ref&gt;
+Those who have been the targets of bullying can suffer from long term emotional and behavioral problems. Bullying can cause [[loneliness]], [[Depression (mood)|depression]], [[anxiety]], lead to low [[self-esteem]] and increased susceptibility to illness.&lt;ref name=Williams&gt;Williams, K. D., Forgás, J. P. &amp; von Hippel, W. (Eds.) (2005). [http://www.amazon.com/gp/reader/184169424X ''The Social Outcast: Ostracism, Social Exclusion, Rejection, &amp; Bullying.''] Psychology Press: New York, NY.&lt;/ref&gt; In the long term it can lead to [[posttraumatic stress disorder]] and an inability to form relationships. {{cn|date=September 2012}}
+
+=====Suicide=====
+{{Main|Bullycide}}
+There is evidence that bullying increases the risk of [[suicide]].&lt;ref&gt;{{Cite journal|author=Kim YS, Leventhal B |title=Bullying and suicide. A review |journal=International Journal of Adolescent Medicine and Health |volume=20 |issue=2 |pages=133–54 |year=2008 |pmid=18714552|doi=10.1515/IJAMH.2008.20.2.133|last2=Leventhal}}&lt;/ref&gt; It is estimated that between 15 and 25 children commit suicide every year in the UK alone, because they are being bullied.&lt;ref&gt;[http://www.coastkid.org/si-sob.html Statistics on bullying]&lt;/ref&gt;
+
+Among the cases of media bullying suicides following: [[Suicide of Ryan Halligan|Ryan Halligen]], [[Suicide of Phoebe Prince|Phoebe Prince]], [[Suicide of Dawn-Marie Wesley|Dawn-Marie Wesley]], [[Kelly Yeomans]], Jessica Haffer,&lt;ref&gt;[http://www.jessicahaffer.com/ Jessica Haffer Memorial page]&lt;/ref&gt; Hamed Nastoh,&lt;ref&gt;[http://www.angelfire.com/bc2/hamed/ Hamed Nastoh Memorial Page]&lt;/ref&gt; or April Himes.&lt;ref&gt;[http://www.suicide.org/memorials/april-himes.html April Himes Memorial Page]&lt;/ref&gt;
+
+=====Violence=====
+Bullied students [[Eric Harris and Dylan Klebold]] carried out the 1999 [[Columbine High School massacre]].  Since then, bullying has been more closely linked to high school violence in general.&lt;ref&gt;{{cite news| url=http://www.washingtonpost.com/wp-dyn/content/article/2006/05/15/AR2006051501103.html | work=The Washington Post | first=Sandra G. | last=Boodman | title=Gifted and Tormented | date=May 16, 2006| accessdate=September 22, 2012}}&lt;/ref&gt;
+
+=====Positive development=====
+Some have argued that bullying can teach life lessons and instil strength. Helene Guldberg, a child development academic, sparked controversy when she argued that being a victim of bullying can teach a child "how to manage disputes and boost their ability to interact with others", and that teachers should not intervene, but leave children to respond to the bullying themselves:&lt;ref&gt;{{cite web
+|year = 2009
+|url = http://www.medindia.net/news/Child-Development-Academician-Says-Bullying-Is-Beneficial-To-Kids-46992-1.htm
+|title = Child Development Academician says Bullying is beneficial to Kids
+|accessdate = 2011-09-03}}&lt;/ref&gt; 
+:"[I]f boys or girls are able to stand up for themselves, being attacked by enemies can help their development. Studies have shown that children become more popular among, and respected by, teachers and fellow pupils if they repay hostility in kind. They remember such experiences more vividly than friendly episodes, helping them to develop healthy social and emotional skills".&lt;ref&gt;{{cite news| url=http://www.timesonline.co.uk/tol/news/uk/education/article7133986.ece | location=London | work=The Times | first=Fiona | last=Hamilton}}&lt;/ref&gt;
+Despite occasional assertions that bullying can be positive and even productive, the avowed normative consensus is that bullying is a form of abuse and is wholly negative. Most victims report bullying as something that scars them for a long time, and sometimes as a fundamental and negative factor in the development of their adult personality.{{Citation needed|date=September 2011}}
+
+==Intervention==
+Despite the large number of individuals who do not approve of bullying, there are very few who will intervene on behalf of a victim. Most people remain [[bystanders]], and may accept the bullying or even support the bully. In 85% of bullying incidents, bystanders are involved in teasing the victim or egging on the bully.&lt;ref name="ReferenceC"&gt;Katherine Liepe-Levinson and Martin H. Levinson, “A General Semantics Approach to,” Institute of General, 2005: 4-16&lt;/ref&gt; When the [[bully]] encounters no negative response from observers, it encourages continuation of the behavior.&lt;ref name="ReferenceA"&gt;E. D. Nelson and R. D. Lambert, “Sticks, Stones and Semantics: The Ivory Tower,” Qualitative Sociology, 2001: 83-106&lt;/ref&gt;
+
+There are many reasons why individuals choose not to intervene. They may be relieved that the victim of a normal and generally-present danger is someone else, they may take [[vicarious]] satisfaction in the bullying, or they may worry that they risk becoming the next victim through intervention. An intuitive understanding that others will be similarly unwilling to assist them if they do become the next victim likely strengthens the motivation to remain passive. {{cn|date=September 2012}}
+
+Researchers have been considered the [[just-world phenomenon|just-world belief theory]] to explore a posited decline in anti-bullying [[Attitude (psychology)|attitudes]]. "This is the idea that people get what they deserve and deserve what they get". The study determined that children do seek to understand, justify, and rectify the different injustices they come across in everyday life. However, further research is needed to link the two together.&lt;ref name="ReferenceC"/&gt;
+
+==Chronic bullying cycle==
+While on the surface, chronic bullying may appear to be simply the actions of an "aggressor" (or aggressors) perpetrated upon an unwilling "targeted individual" (or individuals), on a certain deeper level, for it to succeed, the bullying-cycle must also be viewed as necessarily including a certain chronic inadequate response on the part of the target (or targets). That is, a response that is seen by both the bully and the target as insufficient to prevent the chronic bullying-cycle from repeating itself between the given individuals. A suitable response to any given attempt at bullying varies with the occasion, and can range from ignoring a bully to turning a prank around so that it makes a "pranksteree" out of the would be prankster,&lt;ref name = "churchill and lady astor"&gt;{{cite web
+| year = 2010
+| url = http://www.rightwingnews.com/quotes/churchill.php
+| title= RWN's Favorite Quotations From Winston Churchill
+| accessdate = 2010-11-27}} Famous quotes from Winston Churchill. See especially quote #2 regarding Lady Astor.
+&lt;/ref&gt; to even summoning legal intervention. In any case, the targeted individual must necessarily somehow demonstrate to the would-be bully that one will not allow one's self to be daunted, intimidated, or otherwise "cowed" by the bully.  Those individuals or groups who are capable of reacting to initial bullying attempts in ways that tend to sufficiently discourage potential bullies from repeated attempts are less likely to be drawn into this destructive cycle. Those individuals or groups who most readily react to stressful situations by perceiving themselves as "[[victim mentality|victims]]" tend to make the most suitable candidates for becoming the "targets" of chronic bullying.&lt;ref name = "bully-victim-predictors"&gt;{{cite web
+| year = 2010
+| url = http://www.micheleborba.com/blog/2010/09/22/problem-solving-to-prevent-bullying/
+| title= Problem Solving to Prevent Bullying
+| accessdate = 2010-10-31}} Discussion of typical psychological profiles of both bullies and their targets.
+&lt;/ref&gt;
+
+Under some circumstances, targets may be chosen in what may be a completely random or arbitrary process, especially in groups in which the "bully mentality" may have already succeeded in achieving domination within the group. In such groups, the defense mechanisms of the entire group may have already been "broken down", and therefore the targeting of individuals no longer requires the seeking out of "certain personality types" to become the "next target". The reversal of such chronic and well entrenched bullying behavior in such groups sometimes requires a much more carefully planned, coordinated, determined, and multi-individual response from a would-be target than in a group in which either the "bully mentality" may not (yet) prevail, or ideally in a group that may have already taken a pro-active preventative approach towards bullying.&lt;ref name = "attorney schultz's blog "&gt;{{cite web
+| year = 2010
+| url = http://personal-injury.lawyers.com/blogs/archives/9520-Bullying-and-Hazing-What-Can-We-Do-About-These-Problems.html
+| title= Bullying and Hazing: What Can We Do About These Problems?
+| accessdate = 2010-11-27}} Attorney Fred Schultz discussion of hazing and hazing law
+&lt;/ref&gt;
+&lt;ref name = "a pro-active approach against bullying"&gt;{{cite web
+| year = 2010
+| url = http://www.conflictmediation.net/bullies.html
+| title= Safe schools: Breaking the cycle of violence
+| accessdate = 2010-11-27}} Discussion of pro-active anti-bullying school plans by certified mediator, Meadow Clark.
+&lt;/ref&gt;
+
+Typically, the bullying-cycle must include both an act of aggression on the part of a potential bully, and a response by a potential target that is perceived by both as a certain sign of submission. The cycle is only set in motion when both of these two essential elements are present. Once both of these two elements manifest themselves, the bullying cycle often proceeds to feed on itself over time, and may last for months, years, or even decades. The cycle is most easily broken at its initial onset; however, it can also be broken at any later point in its progression by simply removing either one of its two essential ingredients. While group involvement may seem to complicate bullying activities, the act is most often an implied agreement in principle between a chief bully or instigator and the target that the one has "submitted" to the other. In the act of bullying, the bully attempts to make a public statement to the effect of: "See me and fear me, I am so powerful that I have the ability to inflict pain upon the intended target at the time and manner of my choice without having to pay any consequences". Should an intended target exhibit a "defeated attitude" in response to chronic bullying, then the bullying is likely to continue. In circumstances where a "bullying pattern" has not yet fully established itself, should the intended target respond with a clear attitude of self-confidence that somehow demonstrates that the bully's attempt to dominate is futile, then the bullying attempt will often quickly diminish or end all-together. Established patterns of bullying may require greater and more persistent effort to reverse. Institutions and organs of society often reinforce bullying, often by implying to or telling targets of bullies that they are responsible for defending themselves, and then punishing victims if they fight back.
+&lt;ref name = "nbc-on-jay-banks"&gt;{{cite web
+| year = 2010
+| url = http://www.youtube.com/watch?v=wzLukEtsgCA
+| title= Jay Banks NBC TV-10 "STAMP Out Bullying"
+| accessdate = 2010-10-31}} Youtube video of NBC report on Jay Banks' anti-bullying program, advising targets to "project self-confidence".
+&lt;/ref&gt;
+&lt;ref name = "jay-banks-youtube-homepage"&gt;{{cite web
+| year = 2010
+| url = http://www.youtube.com/profile?user=jaybanksproductions#g/u
+| title= Jay Banks Productions Youtube Homepage
+| accessdate = 2010-10-31}} Compilation of anti-bullying videos by anti-bullying expert, Jay Banks
+&lt;/ref&gt;
+
+==Bullying in different contexts==
+===Cyberbullying===
+{{Main|Cyberbullying}}
+Cyber-bullying is any bullying done through the use of technology. This form of bullying can easily go undetected because of lack of parental/authoritative supervision. Because bullies can pose as someone else, it is the most anonymous form of bullying. Cyber bullying includes, but is not limited to, abuse using email, instant messaging, text messaging, websites, social networking sites, etc.&lt;ref name=Bolton&gt;Bolton, José, and Stan Graeve. "No Room for Bullies: from the Classroom to Cyberspace". ''Boys Town'', Neb.: Boys Town, 2005.&lt;/ref&gt;  Particular watch dog organizations have been designed to contain the spread of cyber-bullying.{{cn|date=October 2012}}
+
+===Disability bullying===
+{{Main|Disability bullying}}
+It has been noted that disabled people are disproportionately affected by bullying and abuse, and such activity has been cited as a hate crime.&lt;ref name=Quarmby&gt;Quarmby, Katharine. "Scapegoat: Why we are failing disabled people". ''Portobello'', 2011.&lt;/ref&gt; The bullying is not limited to those who are visibly disabled such as wheelchair-users or physically deformed such as those with a [[cleft lip]] but also those with [[learning disabilities]] such as [[autism]]&lt;ref name=Sainsbury&gt;Sainsbury, Clare. "Martian in the Playground: Understanding the schoolchild with Asperger's syndrome". ''Paul Chapman Publishing'', 2000.&lt;/ref&gt;&lt;ref name=Attwood&gt;Attwood, Tony. "The Complete Guide to Asperger's Syndrome". ''Jessica Kingsley Publishers'', 2007, pp95-111.&lt;/ref&gt; and [[dyspraxia]]&lt;ref name=Kirby&gt;Kirby, Amanda. "Dyspraxia: The Hidden Handicap". ''Souvenir Press'', 1999, pp106-113.&lt;/ref&gt;&lt;ref name=Brookes&gt;Brookes, Geoff. "Dyspraxia". ''Continuum'', 2005, 2007 (second edition), pp43-46.&lt;/ref&gt; In the latter case, this is linked to a poor ability in physical education, and this behaviour can be encouraged by the unthinking physical education teacher. Abuse of the disabled is not limited to schools. There are many known cases in which the disabled have been abused by staff of a "care institution", such as the case revealed in a [[BBC]] Panorama programme on a Castlebeck care home ([[Winterbourne View]]) near [[Bristol]] which led to its closure and the suspension and sacking of some of the staff.&lt;ref name="BBC News"&gt;{{cite news
+| url = http://www.bbc.co.uk/news/uk-13548222
+| title = Four arrests after patient abuse caught on film
+| accessdate = 2011-09-03
+| work=BBC News
+| date=2011-06-01}} Consequences of the BBC undercover report&lt;/ref&gt;
+
+There is an additional problem that those with learning disabilities are often not as able to explain things to other people so are more likely to be disbelieved or ignored if they do complain.
+
+===Gay bullying===
+{{Main|Gay bullying}}
+Gay bullying and gay bashing are expressions used to designate [[verbal abuse|verbal]] or [[physical abuse|physical]] actions that are direct or indirect in nature by a person or group against a person who is [[gay]], [[lesbian]], [[bisexual]], [[transgendered]] ([[LGBT]]), or of questionable sexual orientation, or one who is perceived to be so, because of [[rumors]] or fitting gay [[stereotype]]s.
+
+In eastern countries like India and China, to bully the person people spit in his way, yell silently and show a hand gesture to say "go away" diplomatically. {{cn|date=September 2012}}
+
+===Military bullying===
+{{Main|Bullying in the military}}
+In 2000, the UK [[Ministry of Defence (United Kingdom)|Ministry of Defence]] (MOD) defined bullying as: “...the use of physical strength or the [[abuse of authority]] to [[intimidate]] or [[Victimization|victimize]] others, or to give unlawful punishments.”&lt;ref name=mod&gt;''The Values and Standards of the British Army – A Guide to Soldiers'', Ministry of Defence, UK March 2000, paragraph 23.&lt;/ref&gt;
+
+Some argue that this behaviour should be allowed, due to ways in which "soldiering" is different from other occupations. Soldiers expected to risk their lives should, according to them, develop strength of body and spirit to accept bullying.&lt;ref&gt;''Social Psychology of the Individual Soldier'', Jean M. Callaghan and Franz Kernic 2003 Armed Forces and International Security: Global Trends and Issues, Lit Verlag, Munster. The Military said that the rituals that are performed like Hazing is a way for the soldiers to build their characters and roughness that they need to be able to perform in their daily jobs.&lt;/ref&gt; This attitude can be seen as paralleled by the training expected by the Ancient Greek city state of [[Sparta]].{{Citation needed|date=September 2011}}
+
+However, the role of a soldier has widened to peace-keeping where overt aggression is usually counterproductive and services auxiliary to the military often do some soldiering as well as another role such as engineering. {{cn|date=September 2012}}
+
+===Prison bullying===
+{{Main|Prisoner abuse}}
+Another environment known for bullying is a country's prison service. This is almost inevitable when many of the people incarcerated are there for aggressive crimes and many were bullies at school. An additional complication is the staff and their relationships with the inmates. Thus the following possible bullying scenarios are possible:
+* Inmate bullies inmate (echoing school bullying);
+* Staff bullies inmate;
+* Staff bullies staff (a manifestation of workplace bullying);
+* Inmate bullies staff.
+
+===School bullying===
+{{Main|School bullying}}
+Bullying can occur in nearly any part in or around the school building, though it may occur more frequently in [[physical education]] classes and activities, [[Recess (break)|recess]], [[hallway]]s, bathrooms, on [[school bus]]es and while waiting for buses, and in classes that require group work and/or after school activities. Bullying in school sometimes consists of a group of students taking advantage of or isolating one student in particular and gaining the loyalty of bystanders who want to avoid becoming the next victim. These bullies may taunt and tease their target before physically bullying the target. Bystanders may participate or watch, sometimes out of fear of becoming the next victim.
+
+Bullying can also be perpetrated by teachers and the school system itself: There is an inherent power differential in the system that can easily predispose to subtle or covert abuse ([[relational aggression]] or [[passive aggression]]), [[humiliation]], or exclusion — even while maintaining overt commitments to anti-bullying policies.&lt;ref&gt;{{Cite book|author=Ellen deLara; Garbarino, James |title=And Words Can Hurt Forever: How to Protect Adolescents from Bullying, Harassment, and Emotional Violence |publisher=Free Press |location=New York |year=2003 |pages= |isbn=0-7432-2899-5}}{{Page needed|date=September 2010}}&lt;/ref&gt;&lt;ref&gt;Whitted, K.S. (2005). [http://proquest.umi.com/pqdlink?Ver=1&amp;Exp=12-10-2012&amp;FMT=7&amp;DID=990282831&amp;RQT=309&amp;attempt=1 ''Student reports of physical and psychological maltreatment in schools: An under-explored aspect of student victimization in schools.''] University of Tennessee.&lt;/ref&gt;&lt;ref&gt;{{Cite journal|doi=10.1177/0013124507304487 |title=Do Teachers Bully Students?: Findings From a Survey of Students in an Alternative Education Setting |year=2007 |last1=Whitted |first1=K. S. |last2=Dupper |first2=D. R. |journal=Education and Urban Society |volume=40 |pages=329|issue=3}}&lt;/ref&gt;
+
+===Sexual bullying===
+{{Main|Sexual bullying}}
+Sexual bullying is "any bullying behaviour, whether physical or non-physical, that is based on a person’s sexuality or gender. It is when sexuality or gender is used as a weapon by boys or girls towards other boys or girls - although it is more commonly directed at girls. It can be carried out to a person’s face, behind their back or through the use of technology."&lt;ref name=NSPCC02 &gt;{{cite web |url=http://www.nspcc.org.uk/Inform/resourcesforteachers/classroomresources/sexual_bullying_definition_wdf68769.pdf |title=The NSPCC working definition of Sexual Bullying |publisher=[[National Society for the Prevention of Cruelty to Children|NSPCC]] |date= |accessdate=22 April 2010 }}&lt;/ref&gt;
+
+===Workplace bullying===
+{{Main|Workplace bullying}}
+According to the Workplace Bullying and Trauma Institute workplace bullying is "repeated, health-harming mistreatment, [[verbal abuse]], or conduct which is threatening, [[humiliating]], [[intimidating]], or [[sabotage]] that interferes with work, or some combination of the three".&lt;ref name=namiedef&gt;Namie, Gary and Ruth [http://www.workplacebullying.org/targets/problem/definition.html Workplace Bullying Institute Definition]&lt;/ref&gt; Statistics show that bullying is 3 times as prevalent as illegal [[discrimination]] and at least 1,600 times as prevalent as [[workplace violence]]. Statistics also show that while only one employee in every 10,000 becomes a victim of workplace violence, one in six experiences bullying at work. Bullying is a little more common than [[sexual harassment]] but not verbal abuse which occurs more than bullying.
+
+Unlike the more physical form of [[school bullying]], workplace bullying often takes place within the established rules and policies of the organization and society. Such actions are not necessarily illegal and may not even be against the firm's regulations; however, the damage to the targeted employee and to [[workplace morale]] is obvious.
+
+====In academia====
+{{Main|Bullying in academia}}
+Bullying in academia is workplace bullying of scholars and staff in [[academia]], especially places of [[higher education]] such as [[college]]s and [[universities]]. It is believed to be common, although has not received as much attention from researchers as bullying in some other contexts.&lt;ref&gt;Keashly L [http://findarticles.com/p/articles/mi_7440/is_201003/ai_n55066007/ Faculty Experiences with Bullying in Higher Education Causes, Consequences, and Management - Administrative Theory &amp; Praxis Volume 32, Number 1 March 2010]&lt;/ref&gt;
+
+====In blue collar jobs====
+Bullying has been identified as prominent in [[blue collar]] jobs including on the oil rigs and in mechanic shops and machine shops. It is thought that [[intimidation]] and fear of [[retributive justice|retribution]] cause decreased incident reports. This is also an industry dominated by males, typically of little education, where disclosure of incidents are seen as [[wikt:effeminate|effeminate]], which, in the socioeconomic and cultural milieu of such industries, would likely lead to a [[vicious circle]]. This is often used in combination with [[psychological manipulation|manipulation]] and [[coercion]] of facts to gain favour among higher ranking [[administrator (business)|administrators]].&lt;ref&gt;{{cite web|last=Notelaers |first=Guy |url=http://unimaas.academia.edu/GuyNotelaers/Papers/278637/Exploring_Risk_Groups_and_Risk_Factors_for_Workplace_Bullying |title=Exploring Risk Groups and Risk Factors for Workplace Bullying (Guy Notelaers) - Academia.edu |publisher=Unimaas.academia.edu |accessdate=2012-03-20}}&lt;/ref&gt;
+
+====In information technology====
+{{Main|Bullying in information technology}}
+A culture of bullying is common in [[information technology (IT)]], leading to high sickness rates, low [[morale]], poor [[productivity]], and high [[Turnover (employment)|staff turnover]].&lt;ref name=Marcello&gt;Marcello C Perceptions of Workplace Bullying Among IT Professionals: A correlational analysis of workplace bullying and psychological empowerment of Workplace Bullying Among IT Professionals (2010)&lt;/ref&gt; Deadline-driven project work and stressed-out managers take their toll on IT workers.&lt;ref name=Thomson2&gt;Thomson R [http://www.computerweekly.com/Articles/2008/04/03/230127/IT-profession-blighted-by-bullying.htm IT profession blighted by bullying] Computer Weekly 3 April 2008&lt;/ref&gt;
+
+====In medicine====
+{{Main|Bullying in medicine}}
+Bullying in the [[medical profession]] is common, particularly of student or trainee doctors and of nurses. It is thought that this is at least in part an outcome of conservative traditional [[Hierarchical organization|hierarchical structures]] and [[teaching methods]] in the medical profession, which may result in a bullying cycle.
+
+====In nursing====
+{{Main|Bullying in nursing}}
+Bullying has been identified as being particularly prevalent in the [[nursing]] [[profession]] although the reasons are not clear. It is thought that [[relational aggression]] (psychological aspects of bullying such as [[gossipping]] and [[intimidation]]) are relevant. Relational aggression has been studied amongst girls but not so much amongst adult women.&lt;ref&gt;Richards A, Edwards SL A Nurse's Survival Guide to the Ward (2008)&lt;/ref&gt;&lt;ref&gt;Dellasega, C Bullying Among Nurses AJN, American Journal of Nursing: January 2009 - Volume 109 - Issue 1 - p 52-58&lt;/ref&gt;
+
+====In teaching====
+{{Main|Bullying in teaching}}
+[[School]] [[teachers]] are commonly the subject of bullying but they are also sometimes the originators of bullying within a school environment.
+
+===In other areas===
+As the verb ''to bully'' is defined as simply "forcing one's way aggressively or by intimidation", the term may generally apply to ''any'' life experience where one is motivated primarily by intimidation instead of by more positive goals such as mutually shared interests and benefits. As such, any figure of authority or power which may use intimidation as a primary means of motivating others, such as a neighborhood "protection racket don", a national dictator, a childhood ring-leader, a terrorist, a terrorist organization, or even a ruthless business CEO, could rightfully be referred to as a bully. According to psychologist Pauline Rennie-Peyton, we each face the possibility of being bullied in any phase of our lives.&lt;ref&gt;{{cite news
+| url = http://www.independent.co.uk/news/education/higher/bullying-in-universities-it-exists-1869267.html
+| title= Bullying in Universities: It exists
+| accessdate = 2011-05-28
+| location=London
+| work=The Independent
+| first=Nadiya
+| last=Karim
+| date=2010-01-15}} Discussion of bullying problem in universities and beyond.
+&lt;/ref&gt;
+
+==See also==
+{{columns-list|2|
+* ''[[The Bully: A Discussion and Activity Story]]'' (book)
+* [[Abuse]]
+* [[Complex post-traumatic stress disorder]]
+* [[Bullycide]]
+* [[Happy slapping]]
+* [[Hate crime]]
+* [[Hazing]]
+* [[Mobbing]]
+* [[Passive aggression]]
+* [[Psychological manipulation]]
+* [[Psychological trauma]]
+* [[Relational aggression]]
+* [[Scapegoating]]
+* [[School violence]]
+* [[Social exclusion]]
+* [[Social isolation]]
+* [[Social undermining]]
+* [[Taunting]]
+* [[Teasing]]
+* [[Victim blaming]]
+* [[Victim playing]]
+* [[Victimisation]]
+}}
+
+==References==
+{{reflist|36em}}
+
+==Further reading==
+* Kohut MR The Complete Guide to Understanding, Controlling, and Stopping Bullies &amp; Bullying: A Complete Guide for Teachers &amp; Parents (2007)
+* ''Bullies and Victims in Schools: a guide to understanding and management'' by Valerie E. Besag (1989)
+* ''The Fight That Never Ends'' by Tim Brown
+* ''Odd Girl Out: The Hidden Culture of Aggression in Girls" by Rachel Simmons ISBN 0-15-602734-8
+* ''Bullycide, Death at Playtime'' by Neil Marr and [[Tim Field]] ISBN 0-9529121-2-0
+* ''Bullycide in America: Moms Speak Out about the Bullying/Suicide Connection'' &amp;ndash; by Brenda High, [http://www.bullycide.org Bullycide.org]
+* [http://www.outofbullying.com ''A Journey Out of Bullying: From Despair to Hope''] by Patricia L. Scott
+* "Peer Abuse Know More! Bullying From A Psychological Perspective" By Elizabeth Bennett
+* ''New Perspectives on Bullying'' by Ken Rigby
+* [[James Garbarino|Garbarino, J.]] &amp; de Lara, E. (2003). [http://www.enotalone.com/article/5451.html ''And Words ''Can'' Hurt Forever: How to Protect Adolescents from Bullying, Harassment, and Emotional Violence.''] The Free Press: New York NY.
+* Joanne Scaglione, Arrica Rose Scaglione [http://www.eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExtSearch_SearchValue_0=ED493726&amp;ERICExtSearch_SearchType_0=no&amp;accno=ED493726 ''Bully-proofing children: a practical, hands-on guide to stop bullying'' 2006]
+* [http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExtSearch_SearchValue_0=ED410007&amp;ERICExtSearch_SearchType_0=no&amp;accno=ED410007 ''Why Is Everybody Always Picking on Me: A Guide to Handling Bullies for Young People.''] by Terrence Webster-Doyle. Book and Teaching curriculum.
+* [http://www.paulgraham.com/nerds.html "Why Nerds are Unpopular"], by [[Paul Graham (computer programmer)|Paul Graham]]. This essay is an example of how even medium differences, in a hierarchical, zero-sum, or negative environments, can lead to ostracism or persecution.
+* ''[[Lord of the Flies]]'' by William Golding (1954). A famous work describing how a group of schoolboys trapped on an island descends into savagery.
+
+==External links==
+{{Wiktionary}}
+* [http://www.bullyingnoway.com.au/ Bullying. No Way! (Australian Education Authorities)]
+* [http://www.dfes.gov.uk/bullying Bullying in schools (UK &amp;ndash; schools)]
+* [http://pbskids.org/itsmylife/friends/bullies/print_books.html PBSKids.org "Great Books About Bullies"]
+* [http://app.thearit.com/uft-brave/bebraveagainstbullying.html Be Brave Against Bullying, a UFT project] 
+* [http://www.eric.ed.gov/ERICWebPortal/search/simpleSearch.jsp?newSearch=true&amp;eric_sortField=&amp;searchtype=basic&amp;pageSize=10&amp;ERICExtSearch_SearchValue_0=bullying&amp;eric_displayStartCount=1&amp;_pageLabel=ERICSearchResult&amp;ERICExtSearch_SearchType_0=kw U.S. Department of Education's Education Resources Information Center (ERIC)]
+
+{{Bullying}}
+{{abuse}}
+{{Psychological manipulation}}
+{{Conformity}}
+
+[[Category:Bullying| ]]
+[[Category:Social psychology]]
+[[Category:Abuse]]
+[[Category:Aggression]]
+[[Category:Injustice]]
+[[Category:Persecution]]
+[[Category:Psychological abuse]]
+[[Category:Interpersonal conflict]]
+[[Category:human behavior]]
+
+{{Link GA|cs}}
+[[ar:تنمر]]
+[[cs:Šikana]]
+[[cy:Bwlio]]
+[[de:Schikane]]
+[[et:Kiusamine]]
+[[el:Νταηλίκι]]
+[[es:Acoso escolar]]
+[[eo:Ĉikanado]]
+[[fa:قلدری]]
+[[fr:Harcèlement]]
+[[ko:집단 따돌림]]
+[[it:Bullismo]]
+[[he:בריונות]]
+[[lt:Patyčios]]
+[[hu:Megfélemlítés]]
+[[arz:التنمر]]
+[[ms:Buli]]
+[[ja:いじめ]]
+[[pl:Znęcanie się]]
+[[pt:Bullying]]
+[[ru:Задирание]]
+[[simple:Bullying]]
+[[sk:Šikanovanie]]
+[[fi:Kiusaaminen]]
+[[tl:Paghahari-harian]]
+[[uk:Цькування (психологія)]]</rev></revisions></page></pages></query></api>

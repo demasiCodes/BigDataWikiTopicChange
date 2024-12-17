@@ -1,0 +1,8 @@
+<?xml version="1.0"?><api><continue rvcontinue="20030128132116|626135" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="53277" pageid="53277" ns="0" title="Fat acceptance movement"><revisions><rev timestamp="2003-01-28T13:46:50Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">The '''Fat acceptance movement''' is a grass-roots from effort to change societal attitudes about people who are [[obesity|overweight]]. The movement, started in 1969, has gained steam since the [[1990s]], and now includes several activist organizations.
+
+'''External Links'''
+*[http://www.naafa.org/ National Association to Advance Fat Acceptance]
+*[http://www.size-acceptance.org/ International Size Acceptance Association]
+*[http://www.plususa.com/ Plus USA Woman Convention and Pageant]
+*[http://www.dimensionsmagazine.com/ Dimensions Magazine, a Fat Acceptance print and internet magazine]
+*[http://www.bigfatblog.com/ Big Fat Blog, a fat acceptance weblog]</rev></revisions></page></pages></query></api>

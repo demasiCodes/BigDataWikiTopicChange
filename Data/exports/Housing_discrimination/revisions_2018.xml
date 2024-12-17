@@ -1,0 +1,34 @@
+<?xml version="1.0"?><api><continue rvcontinue="20180223133300|827220636" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="17319715" pageid="17319715" ns="0" title="Housing discrimination"><revisions><rev timestamp="2018-04-14T17:35:08Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Discrimination sidebar}}
+'''Housing discrimination''' is [[discrimination]] based on [[protected class]] status, variously including [[Race (classification of human beings)|race]], [[gender]], [[religion]], [[Ethnic group|ethnicity]], [[Ageing|age]], [[national origin]], [[sexual orientation]] and [[gender identity]], [[marital status]], or [[veteran]] status, in the realm of [[House|housing]] and [[real estate]].
+
+Four types of housing discrimination are [[rental]] discrimination, [[sales]] discrimination, [[lending]] and [[Mortgage loan|mortgage]] discrimination and [[Home insurance|homeowners insurance]].
+
+==United States==
+{{main|Housing discrimination (United States)}}
+In the [[United States]], the [[Office of Fair Housing and Equal Opportunity]] is charged with enforcing fair housing laws, based on the [[Fair Housing Act]] of 1968.&lt;ref&gt;{{cite web|title=About FHEO|url=https://www.hud.gov/program_offices/fair_housing_equal_opp/aboutfheo/aboutfheo|website=hud.gov|publisher=[[United States Department of Housing and Urban Development]]|accessdate=23 February 2018|archiveurl=https://web.archive.org/web/20180223133132/https://www.hud.gov/program_offices/fair_housing_equal_opp/aboutfheo/aboutfheo|archivedate=23 February 2018}}&lt;/ref&gt;
+
+==See also==
+{{div col|colwidth=30em}}
+*[[Fair housing]]
+*[[Housing Discrimination (United States)]]
+*[[Ownership equity]]
+*[[Real estate economics]]
+*[[Redlining]]
+*[[Right to housing]]
+*[[Subprime]]
+*[[Subsidized housing]]
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+
+* Richard R.W. Brooks and Carol M. Rose, ''Saving the Neighborhood: Racially Restrictive Covenants, Law, and Social Norms.'' Cambridge, Massachusetts: Harvard University Press, 2013.
+
+==External links==
+* [https://web.archive.org/web/20131005022332/http://portal.hud.gov/hudportal/HUD?src=%2Fprogram_offices%2Ffair_housing_equal_opp%2Fonline-complaint File a Housing Discrimination Complaint]
+* [https://web.archive.org/web/20120402122117/http://portal.hud.gov/hudportal/HUD?src=%2Fprogram_offices%2Ffair_housing_equal_opp Office of Fair Housing and Equal Opportunity]
+
+[[Category:LGBT rights by issue]]
+[[Category:Housing]]</rev></revisions></page></pages></query></api>

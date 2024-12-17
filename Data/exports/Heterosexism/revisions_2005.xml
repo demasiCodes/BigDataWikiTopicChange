@@ -1,0 +1,28 @@
+<?xml version="1.0"?><api><continue rvcontinue="20051103174209|27268566" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="252622" pageid="252622" ns="0" title="Heterosexism"><revisions><rev timestamp="2005-11-03T17:42:51Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Heterosexism''' is a belief or argument that [[heterosexuality|male-female sexuality]] is the only natural or moral mode of sexual behavior, and is also used to refer to the effects of that [[ideology|cultural ideology]]. The word 'heterosexualism' has also been proposed to mean essentially the same thing. &lt;!--In The Dictionary of Psychology [1] &lt;b&gt;heterosexism&lt;/b&gt; is defined as 
+"An argument that male-female sexuality is the only corrent, natural, proper, or moral mode of sexual activity. [Also proposed as] 'heterosexualism'. --&gt; {{ref|synonym}}
+
+This word has been suggested as alternative to [[homophobia]] {{ref|homophobia}}, in part because it uses a parallel structure to [[sexism]] or [[racism]]. This parallel approach, however, is logically flawed, as the literal meaning of the word would therefore be "a belief that one type of heterosexuality is inherently 'better' than another type of heterosexuality" (see the dictionary definition of, for example, racism). A true parallel construction can be found in the word [[sexualism]].
+
+Heterosexism should not be confused with the more [[Semantics|semantically]] precise '''heterocentrism''', which is an (often subconscious) assumption that everyone is heterosexual, and the attitudes associated with that assumption.  Heterocentrism often shows up in less intentional ways in every day life.  For instance, when a woman says she is going on a date, many people will ask, "What's his name?" or "Is he cute?" assuming it is a heterosexual date. Nevertheless, these people may not have anything against same-sex dating.  In [[queer theory]], the term heterocentrism is closely related to [[heteronormativity]].
+
+==Sources==
+# {{note|synonym}} Corsini, Raymond J., ''The Dictionary of Psychology'' (2001), ISBN 1583913289&lt;br&gt;
+# {{note|homophobia}} Herek, Gregory M., Ph.D., " Beyond 'Homophobia': Thinking About Sexual Prejudice and Stigma in the Twenty-First Century."   Sexuality Research &amp; Social Policy (April, 2004)
+
+==See also==
+[[homophobia]], [[heteronormativity]]
+
+{{LGBT-stub}}
+
+[[Category:Gender studies]]
+[[Category:Queer theory]]
+[[Category:Sexual orientation and society]]
+[[Category:Prejudices]]
+
+[[bg:Хетеросексизъм]]
+[[da:Heterosexisme]]
+[[el:Ετεροσεξισμός]]
+[[fr:Hétérosexisme]]
+[[mk:Хетеросексизам]]
+[[pt:Heterossexismo]]
+[[zh:异性恋主义]]</rev></revisions></page></pages></query></api>

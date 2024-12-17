@@ -1,0 +1,15 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050821195008|21517691" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1586266" pageid="1586266" ns="0" title="Blood quantum laws"><revisions><rev timestamp="2005-09-11T19:40:42Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Blood Quantum Laws''' is an umbrella term that describes legislation enacted to define membership in [[ethnic minority|ethnic minority]] groups. "Blood quantum" refers to attempts to calculate the degree of racial inheritance for a given individual. 
+
+For example, many Indian tribes have employed blood quantum in their own tribal laws to determine who is eligible for membership in the tribe. These often require a minimum degree of blood relationship and often an ancestor listed in a specific tribal [[census]] from the late 1800s or early 1900s. The Eastern [[Cherokee]], for example, require an ancestor listed in the 1924 Baker census and a minimum of 1/16th Cherokee blood inherited from their ancestor(s) on that roll. Meanwhile the Western Cherokee require applicants to descend from an ancestor in the 1906 Dawes roll, but impose no minimum blood quantum requirement. The [[Ute Tribe|Ute]] require a 5/8 blood quantum, the highest requirement of any U.S. tribe. A 1/4 requirement is perhaps most common.
+
+Critics of the laws say they have been used to discriminate against Blacks and Native Americans and deny them their [[civil rights]] as well as pre-empt the right of tribes to determine themselves who is and who is not a member. Contemporary defenders point out that U.S. tribes set their own rules to determine tribal membership, and that they can decide on their own whether or not to employ blood quantum. 
+
+Still, Federal blood quantum laws continue to affect benefits that some individuals of Indian descent receive from the Federal government, independent of tribal law. For example, in [[1985]], the [[US Congress]] passed the ''Quarter Blood Amendment Act'' to determine which Indian students were eligible for Indian education programs and tuition-free attendance at the [[U.S. Bureau of Indian Affairs|Bureau of Indian Affairs]] or contract schools.
+
+
+== External links ==
+* [http://www.laccourteoreilles.com/native_descendency_and_blood_quantums.htm Native Descendency and Blood Quantums]
+* [http://www.weyanoke.org/jdf-BloodQuantum.html Blood Quantum: A Relic Of Racism And Termination]
+
+[[Category:Law]]
+[[Category:Native American]]</rev></revisions></page></pages></query></api>

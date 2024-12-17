@@ -1,0 +1,52 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041030043307|7053704" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="40786" pageid="40786" ns="0" title="Bias"><revisions><rev timestamp="2004-11-02T10:33:11Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{otheruses}}
+'''''Bias''''' has several different meanings, most relating to an offset or [[prejudice]] of some sort.  A '''systematic bias''' or '''systemic bias''' is a bias that is [[endemic]] in the system under consideration, and could be deliberate or entirely unconscious.
+
+== Viewpoint ==
+A bias is a [[prejudice]] in a general or specific sense, usually in the sense for having a predilection to one particular [[point of view]] or [[ideology]].  One is said to be ''biased'' if one is influenced by one's biases. A bias could, for example, lead one to accept or non-accept the truth of a claim, not because of the strength of the claim itself, but because it does or does not correspond to one's own preconceived ideas.
+
+For example, having an Americo-centric point of view (that is, the point of view of an [[The Americas|America]]n, in particular one from the [[United States|US]]) is a bias, as is having a particular point of view of any other country.
+
+A '''systematic bias''' is a bias resulting from some system. For example, a committee on [[evolution]] that meets in a [[Christian]] church and is primarily advertised through fliers in [[Bible]]s may have a bias towards Christian views of evolution, such as [[creationism]] or [[intelligent design]].
+
+== Statistics ==
+In [[statistics]], the word '''[[bias (statistics)|bias]]''' means that an estimator for some reason on average over- or under-estimates what is being estimated. It has at least two different senses, one referring to something considered very bad, the other referring to something that is occasionally desirable.  Example include:
+*[[confirmation bias]]
+*[[publication bias]]
+*[[selection bias]]
+
+== Science ==
+In [[philosophy of science]] and [[design of experiments]], '''bias''' comprises psychological factors which affect scientific hypothesis testing. Widely recognised variants include:
+*[[culture bias]]
+*[[cognitive bias]]
+*[[confirmation bias]]
+*[[infrastructure bias]]
+*[[perception bias]]
+*[[notation bias]]
+
+== Electronics/electrical engineering ==
+In [[electrical engineering]], the term '''bias''' has the following meanings: 
+# A systematic deviation of a value from a reference value.  
+#  The amount by which the average of a [[set]] of values departs from a reference value.  
+# Electrical, mechanical, magnetic, or other force ([[vector field|field]]) applied to a device to establish a reference level to operate the device.  
+# In [[telegraph]] [[signaling]] systems, the development of a positive or negative [[direct current|DC]] [[voltage]] at a point on a [[line]] that should remain at a specified [[reference level]], such as zero. 
+
+:''Note:'' A bias may be applied or produced by (i) the electrical characteristics of the line, (ii) the [[terminal equipment]], and (iii) the signaling scheme. 
+
+:(Source: from [[Federal Standard 1037C]] and from [[MIL-STD-188]])
+
+Most often, bias simply refers to a fixed DC voltage applied to the same point in a [[circuit]] as an [[alternating current|AC]] signal, frequently to select the desired operating response of a semiconductor (forward or reverse bias). For example, a bias [[voltage]] is applied to a [[transistor]] in an [[electronic amplifier]] to allow the transistor to operate in a particular region of its [[transconductance]] curve.
+
+Bias is also the term used for a high-frequency signal added to the [[audio]] signal recorded on [[magnetic tape]]. See [[tape bias]].
+
+Bias is used in [[direct broadcast satellite]]s such as [[DirecTV]] and [[Dish Network]], the [[IRD]] box actually powers the [[feedhorn]] or [[LNB]] [[receiver]] mounted on the dish arm.  This bias is changed from a lower voltage to a higher voltage to select the [[polarization]] of the LNB, so that it receives signals that are polarized either [[clockwise]] or [[counterclockwise]], thereby allowing it to receive twice as many [[channel]]s.
+
+&lt;!-- ''This should also mention bias as the term defined here: http://www.dictionary.com/search?q=bias, def 2.'' --&gt;
+== Computer Science ==
+Bias is often used to describe how a [[search algorithm]] is restricted or expects the world to behave. For example, it could be biased by restricting the [[search space]], or by assuming the [[heuristics]] such as [[Occam's razor]] are applicable to the world.
+
+==See also==
+*[[Neutral]]
+*[[Scholarly method]]
+
+[[da:Bias]]
+[[es:sesgo]]</rev></revisions></page></pages></query></api>

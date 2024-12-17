@@ -1,0 +1,75 @@
+<?xml version="1.0"?><api><continue rvcontinue="20081027161508|248003071" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="245632" pageid="245632" ns="0" title="Clan"><revisions><rev timestamp="2008-10-28T10:52:28Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Otheruses|Clan (disambiguation)}}
+A '''clan''' is a group of [[people]] united by [[kinship and descent]], which is defined by perceived descent from a common ancestor. Even if actual lineage patterns are unknown, clan members may nonetheless recognize a founding member or [[apical ancestor]]. The kinship-based bonds may be merely symbolical in nature, whereby the clan shares a "stipulated" common ancestor which is a symbol of the clan's unity. When this ancestor is not human, this is referred to as animallian [[totem]]. Clans can be most easily described as [[tribe|tribes]] or sub-groups of tribes. The word clan is derived from 'clann' meaning 'children' in the Scottish [[Gaelic language]] and the word entered into English as a label for the tribal nature of Scottish Gaelic society in about the year 1425.&lt;ref&gt;Online Etymology Dictionary at [http://dictionary.reference.com/search?q=clan].&lt;/ref&gt; In the 20th century, the word entered into use internationally in scientific descriptions of territorial and group behavior in various species of mammals, including [[hyenas]], [[badgers]] and [[rats]].
+
+== Organization of clans in anthropology ==
+Some clans are [[patrilineality|patrilineal]], meaning its members are related through the male line; for example, the clans of Armenia.  Others are [[matrilineality|matrilineal]]; its members are related through the female line.  Still other clans are ''bilateral'', consisting of all the descendants of the apical ancestor through both the male and female lines; the [[Scottish clan|clans of Scotland]] are one example.  Whether a clan is patrilineal, matrilineal, or bilateral depends on the kinship rules and norms of their society.
+
+In different cultures and situations a clan may mean the same thing as other kin-based groups such as [[tribe]]s and [[band society|bands]].  Often, the distinguishing factor is that a clan is a smaller part of a larger [[society]] such as a tribe, a [[chiefdom]], or a [[state]].  Examples include [[Scottish clan|Scottish]], [[Irish clans|Irish]], [[Consort clan|Chinese]], [[Japanese clans]] and [[Rajput clans]] in India and Pakistan, which exist as kin groups within their respective nations.  Note, however, that tribes and bands can also be components of larger societies.  [[Arabs|Arab]] tribes are small groups within Arab society, and [[Ojibwa]] bands are smaller parts of the Ojibwa tribe. In some cases multiple tribes recognized the same clans, such as the bear and fox clans of the [[Chickasaw]] and [[Choctaw]] tribes.
+
+Apart from these different traditions of kinship, further conceptual confusion arises from colloquial usages of the term. In post-Soviet countries for example it is quite common to speak of clans referring to informal networks within the economic and political sphere. This usage reflects the assumption that their members act towards each other in a particularly close and mutually supportive way approximating the solidarity among kinsmen.  However, the [[Norse clans]], the ''ätter'', can not be translated with ''tribe'' or ''band'', and consequently they are often translated with ''house'' or ''line''.
+
+[[Poland|Polish]] clans differ from most others in being a collection of [[families]] bearing the same [[coat of arms]], as opposed to actually claiming a common descent.  This is discussed under the topic of [[Polish Heraldry]].
+
+Clans in indigenous societies are likely to be [[exogamy|exogamous]], meaning that their members cannot marry one another. In some societies, clans may have an official leader such as a [[tribal chief|chieftain]] or [[patriarch]]; on others, leadership positions may have to be achieved, or people may merely say 'elders' make decisions.
+
+== Clans by country ==
+* Albanian Fis clans of the country's [[geography of Albania|northern highlands]].
+* Armenian [[Tohm]] clans of [[Armenian nobility]].
+* [[Australian Aboriginal kinship|Australian Aboriginal and Torres Strait Islander]]
+* Chechen [[Teip]] and [[Tukkhum]] tribal organization
+* Chinese [[Chinese clan|clan]], [[Chinese family name|family name]] and [[consort clan]]s
+* Chinese (Hong Kong) five Great [[Han Chinese]] ''[[Punti]]'' clans: [[Tang Clan|Tang]], [[Hou (surname)|Hau]], [[Peng (surname)|Pang]], [[Wen Tianxiang|Man]], [[Liao|Liu]]
+* Egyptian [[Abaza Family]]
+* German [[German clan|clan]] or [[Sippe]]
+* Iranian [[Seven Parthian clans|clans]]
+* Irish [[Irish clans|clanns]] and [[Sept (social)|septs]] (also: [[Chiefs of the Name]])&lt;ref&gt;"Irish Families" [[Edward Mac Lysaght]], Irish Academic Press, Dublin, 1985&lt;/ref&gt;
+* [[India]]n/[[Pakistan]]i/[[Nepal]]ese [[Rajput clans]]
+* Indian [[Maratha clan system|Maratha]]
+* Indian/Pakistani [[Jat clan system|Jat clans]]
+* [[Pakistan]] '''[[Gakhar]]''' clan
+* Pakistani [[Arain clan system|Mian clans]]
+* [[Japanese clans]]
+* Korean [[Korean clan|clans]] and [[Korean name|names]]
+* Manchu [[List of Manchu clans|clans]] and [[Manchu family name|names]]
+* [[Polish clans]]
+* [[Norse clans]]
+* [[Scottish clan]]s
+**[[Scottish clan chief]]
+**[[Armigerous clan]]
+**''Scottish clan symbols'': [[Tartan]], [[Clan badge]], [[Crest badge]]
+**''see also'': [[Manrent]], [[Tacksman]]
+* [[Serb clans|Serbian clans]]
+* [[Somali clan]]s
+* [[Turcoman]] clans
+* Puerto Rican clans
+
+==References==
+{{reflist}}
+
+[[Category:Kinship and descent|Clan]]
+
+[[cs:Klan]]
+[[da:Klan]]
+[[de:Clan]]
+[[es:Clan]]
+[[eo:Klano]]
+[[fa:طایفه]]
+[[fr:Clan]]
+[[hr:Rod (prvobitna zajednica)]]
+[[it:Clan (antropologia)]]
+[[ku:Êlên kurdan]]
+[[lt:Klanas]]
+[[nl:Clan]]
+[[ja:氏族]]
+[[no:Klan]]
+[[pl:Klan (antropologia)]]
+[[pt:Clã]]
+[[ru:Клан]]
+[[simple:Clan]]
+[[sq:Klan]]
+[[sr:Клан]]
+[[fi:Klaani]]
+[[sv:Klan]]
+[[tr:Aşiret]]
+[[diq:Eşiri]]
+[[zh:氏族]]</rev></revisions></page></pages></query></api>

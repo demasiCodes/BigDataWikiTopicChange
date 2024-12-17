@@ -1,0 +1,119 @@
+<?xml version="1.0"?><api><continue rvcontinue="20061109233815|86826316" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="245632" pageid="245632" ns="0" title="Clan"><revisions><rev timestamp="2006-11-09T23:42:10Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Otheruses|Clan (disambiguation)}}
+A '''clan''' is a group of people united by [[kinship and descent]], which is defined by perceived descent from a common ancestor. Even if actual lineage patterns are unknown, clan members nonetheless recognize a founding member or [[apical ancestor]]. As kinship based bonds can be merely symbolical in nature some clans share a "stipulated" common ancestor, which is a symbol of the clan's unity. When this ancestor is not human, this is referred to as animallian [[totem]]. Generally speaking, kinship differs from biological relation, as it also involves adoption, marriage, and fictive genealogical ties. Clans can be most easily described as sub-groups of tribes and usually constitute groups of 7000 to 10&amp;#160;000 people. 
+
+Some clans are [[patrilineality|patrilineal]], meaning its members are related through the male line; for example, the clans of Armenia.  Others are [[matrilineality|matrilineal]]; its members are related through the female line.  Still other clans are ''bilateral'', consisting of all the descendants of the apical ancestor through both the male and female lines; the [[Scottish clan|clans of Scotland]] are one example.  Whether a clan is patrilineal, matrilineal, or bilateral depends on the kinship rules and norms of their society.
+
+In different cultures and situations a clan may mean the same thing as other kin-based groups such as [[tribe]]s and [[band society|bands]].  Often, the distinguishing factor is that a clan is a smaller part of a larger [[society]] such as a tribe, a [[chiefdom]], or a [[state]].  Examples include [[Irish clans|Irish]], [[Scottish clan|Scottish]], [[Consort clan|Chinese]], and [[Japanese clans]], which exist as kin groups within their respective nations.  Note, however, that tribes and bands can also be components of larger societies.  [[Arabs|Arab]] tribes are small groups within Arab society, and [[Ojibwa]] bands are smaller parts of the Ojibwa tribe.
+
+Apart from these different traditions of kinship, further conceptual confusion arises from colloquial usages of the term. In post-Soviet countries for example it is quite common to speak of clans referring to informal networks within the economic and political sphere. This usage reflects the assumption that their members act towards each other in a particularly close and mutually supportive way approximating the solidarity among kinsmen.  However, the [[Norse clans]], the ''ätter'', can not be translated with ''tribe'' or ''band'', and consequently they are often translated with ''house'' or ''line''.
+
+[[Poland|Polish]] clans differ from most others in being a collection of [[families]] bearing the same [[coat of arms]], as opposed to actually claiming a common descent.  This is discussed under the topic of [[Polish Heraldry]].
+
+Most clans are [[exogamy|exogamous]], meaning that its members cannot marry one another.  Some clans have an official leader such as a [[chieftain]], [[matriarch]], or [[patriarch]].
+
+'Clan' is the English spelling of 'clann,' a [[Goidelic language|Gaelic]] word meaning "children."  ''An Chlann Aoidh'', the [[Scottish Gaelic|Gaelic]] name for the Clan Mackay, literally means "The Children of Fire" ('fire' being the literal meaning of the Gaelic name 'Aodh' - genitive &amp; vocative case, 'hAoidh' - which translates to Scots and English, variously and as phonetically as possible, as Eth, Y, Hy, Heth, Huey, and Hugh).
+
+'Clannad' is an extended form of the word 'clan.'  It translates as "[[family]]" (literal meaning, "group of children").
+
+==Albanian==
+*[[Fis]], clans of the country's [[geography of Albania|northern highlands]].
+
+==Armenian==
+*[[Tohm]], clans of [[Armenian nobility]].
+
+==Australian Aboriginal and Torres Strait Islander==
+*[[List of Indigenous Australian group names]]
+*[[Australian Aboriginal kinship]]
+
+==Chechen tribal organization==
+*[[Teip]]
+*[[Tukkhum]]
+
+==Chinese==
+*[[Chinese clan]]
+*[[Chinese family name]]
+*[[Consort clan]]
+
+===Chinese In Hong Kong===
+The five Great [[Han Chinese]] ''[[Punti]]'' Clans in [[Hong Kong]] are:
+* [[Tang clan]], arrived in Hong Kong in [[1069]]
+* [[Hau clan]], arrived in the 12th century
+* [[Pang clan]], arrived in the 12th century
+* [[Man clan]], arrived in [[1307]]
+* [[Liu clan]], arrived in the 15th century
+
+
+
+== German ==
+
+*[[German clan]] or  [[Sippe]], Stamm or Sibba (old Germanic)
+
+==Irish==
+* [[Irish clans]]
+* [[Chiefs of the Name]]
+* [[Sept (social)]]
+
+==Indian==
+*[[Maratha clan system]]
+*[[Jat clan system]]
+
+==Iran==
+*[[Suren-Pahlav Clan]]
+
+==Japanese==
+* [[Japanese clans]]
+
+==Korean==
+* [[Korean clan]]
+* [[Korean name]]
+
+==Manchu==
+* [[List of Manchu clans]]
+* [[Manchu family name]]
+
+
+== Polish ==
+
+* [[Polish clans]]
+
+==Scandinavian==
+* [[Norse clans]]
+
+==Scottish==
+* [[Scottish clan]]s
+
+==Serbian==
+* [[Serb clans]]
+
+==Somali==
+*[[Somali clan]]s
+
+==Term used in multiplayer gaming==
+With the dawn of the internet and with many households now containing computers with a broadband connection, multiplayer gaming has become a popular hobby. In multiplayer gaming, the word clan is used to mean a group of people who play competitively against other people using organized tactics. Often clans are named after real or fictitious military divisions and require a short abbreviated prefix before one's actual call-sign.
+
+See: [[Clan (computer gaming)]]
+
+==See also==
+*[[Tribe]]
+*[[Wu-Tang Clan]]
+
+[[Category:Kinship and descent|Clan]]
+
+[[da:Klan]]
+[[de:clan]]
+[[es:Clan]]
+[[fa:عشایر کرد]]
+[[fr:Clan]]
+[[it:Clan (antropologia)]]
+[[ku:Eşîrên kurdan]]
+[[nl:Stam (antropologie)]]
+[[ja:氏族]]
+[[lt:Klanas]]
+[[no:Klan]]
+[[pl:Klan (antropologia)]]
+[[ru:Клан]]
+[[fi:Klaani]]
+[[sv:Klan]]
+[[ta:குலம்]]
+[[tr:Aşiret]]
+[[zh:氏族]]</rev></revisions></page></pages></query></api>

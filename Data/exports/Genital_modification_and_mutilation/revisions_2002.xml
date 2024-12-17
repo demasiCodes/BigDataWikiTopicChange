@@ -1,0 +1,11 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020805085107|145518" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="67918" pageid="67918" ns="0" title="Genital modification and mutilation"><revisions><rev timestamp="2002-08-08T16:07:49Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Genital mutilation''' is a name for various types of non-medical alteration of the [[genitals]]. 
+
+The most common forms are:
+
+* [[circumcision]]
+
+* [[body piercing|genital piercing]]
+
+* [[female genital mutilation]]
+
+* [[castration]]</rev></revisions></page></pages></query></api>

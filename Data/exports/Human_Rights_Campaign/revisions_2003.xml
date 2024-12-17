@@ -1,0 +1,8 @@
+<?xml version="1.0"?><api><continue rvcontinue="20031104092229|1691964" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="335104" pageid="335104" ns="0" title="Human Rights Campaign"><revisions><rev timestamp="2003-11-08T07:42:13Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">The '''Human Rights Campaign''', an organization founded in [[1980]], works for lesbian, gay, bisexual and transgender ([[LGBT]]) equal rights. It is the largest lesbian and gay political organization in the [[United States]].
+
+== See also ==
+*[[List of gay-rights organizations]]
+*[[Gay rights]]
+
+== External link ==
+*[http://www.hrc.org/ Official Website]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041104095756|7350358" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="46530" pageid="46530" ns="0" title="Human Rights Watch"><revisions><rev timestamp="2004-11-11T19:00:19Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Human Rights Watch''' is an international [[Non-governmental organization|NGO]] based in [[New York City]], [[United States|USA]], that works with human rights issues. 
+
+The organization was started under the name [[Helsinki Watch]] in [[1978]] to monitor the [[Soviet Union]]'s compliance with the [[Helsinki Accords]]. Other watch organizations were started to cover other parts of the world. They were united in [[1988]] and formed Human Rights Watch.
+
+Whereas most other groups are focused on [[advocacy]] and [[public pressure]], HRW's specialty is the production of [[report]]s, to establish the details needed for others to do advocacy work. Major issues raised by the organization in its reports include social and gender discrimination, government corruption, and abuses in criminal justice systems in many nations. 
+
+Human Rights Watch was one of six international NGOs that founded the [[Coalition to Stop the Use of Child Soldiers]] in [[1998]].
+
+Like most human rights groups, Human Rights Watch opposes the [[death penalty]]. 
+
+==See also==
+*[[Amnesty International]]
+*[[Democracy Watch (International)]]
+*[[Helsinki Committee for Human Rights]]
+
+== External links ==
+* [http://www.hrw.org/ HRW website]
+
+[[de:Human Rights Watch]]
+[[es:Human Rights Watch]]
+[[fr:Human Rights Watch]]
+[[nl:Human Rights Watch]]
+
+[[Category:Social Justice]] [[Category:Human rights bodies]]  [[Category:Civil Rights]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,435 @@
+<?xml version="1.0"?><api><continue rvcontinue="20041103171937|7094632" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="924166" pageid="924166" ns="0" title="LGBTQ rights by country or territory"><revisions><rev timestamp="2004-11-04T10:54:34Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">This is a list of [[laws]] from around the world permitting or outlawing [[homosexual]] behaviour (see [[sodomy laws]]). The list is arranged alphabetically by [[continent]] (with the [[Middle East]] listed seperately).
+
+==List of Homosexuality Laws==
+
+===Africa===
+{| border="1px" cellspacing="0" cellpadding="2px"
+|- style="background-color: #a0d0ff;"
+!width=150|Country!!Gay Male!!Lesbian!!Max Penalty!!width=400|Comments
+|-
+|[[Algeria]]||'''Illegal'''||'''Illegal'''||3 years||&amp;nbsp;
+|-
+|[[Angola]]||'''Illegal'''||'''Illegal'''||Unknown||&amp;nbsp;
+|-
+|[[Benin]]||'''Illegal'''||'''Illegal'''||Unknown||&amp;nbsp;
+|-
+|[[Botswana]]||'''Illegal'''||Legal||7 years||&amp;nbsp;
+|-
+|[[Burkina Faso]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Burundi]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Cameroon]]||'''Illegal'''||'''Illegal'''||5 years||&amp;nbsp;
+|-
+|[[Cape Verde]]||'''Illegal'''||'''Illegal'''||Bail||&amp;nbsp;
+|-
+|[[Central African Republic]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Chad]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Comoros]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Côte d'Ivoire]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Republic of the Congo|Congo]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Djibouti]]||'''Illegal'''||'''Illegal'''||Unknown||&amp;nbsp;
+|-
+|[[Democratic Republic of the Congo|DR Congo]]||Unknown||Unknown||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Equatorial Guinea]]||Unknown||Unknown||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Eritrea]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Ethiopia]]||'''Illegal'''||'''Illegal'''||3 years||&amp;nbsp;
+|-
+|[[Gabon]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Gambia]]||'''Illegal'''||Unknown||14 years||&amp;nbsp;
+|-
+|[[Gambia]]||'''Illegal'''||Legal||Unknown||&amp;nbsp;
+|-
+|[[Guinea]]||'''Illegal'''||'''Illegal'''||3 years||&amp;nbsp;
+|-
+|[[Guinea Bissau]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Kenya]]||'''Illegal'''||Unknown||14 years||&amp;nbsp;
+|-
+|[[Lesotho]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Liberia]]||'''Illegal'''||'''Illegal'''||Misdemeanor||&amp;nbsp;
+|-
+|[[Libya]]||'''Illegal'''||'''Illegal'''||5 years||&amp;nbsp;
+|-
+|[[Madagascar]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Malawi]]||'''Illegal'''||'''Illegal'''||Unknown||&amp;nbsp;
+|-
+|[[Mali]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Mauritania]]||'''Illegal'''||'''Illegal'''||'''Death'''||&amp;nbsp;
+|-
+|[[Mauritius]]||'''Illegal'''||'''Illegal'''||5 years||&amp;nbsp;
+|-
+|[[Morocco]]||'''Illegal'''||'''Illegal'''||3 years||&amp;nbsp;
+|-
+|[[Mozambique]]||'''Illegal'''||Legal||3 years||&amp;nbsp;
+|-
+|[[Namibia]]||'''Illegal'''||Legal||Unknown||&amp;nbsp;
+|-
+|[[Niger]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Nigeria]]||'''Illegal'''||Legal||'''Death'''||&amp;nbsp;
+|-
+|[[Rwanda]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[São Tomé and Príncipe]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Senegal]]||'''Illegal'''||'''Illegal'''||5 years||&amp;nbsp;
+|-
+|[[Seychelles]]||'''Illegal'''||Unknown||Unknown||&amp;nbsp;
+|-
+|[[Sierra Leone]]||Unknown||Unknown||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Somalia]]||'''Illegal'''||'''Illegal'''||3 years||&amp;nbsp;
+|-
+|[[South Africa]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Sudan]]||'''Illegal'''||'''Illegal'''||'''Death'''||&amp;nbsp;
+|-
+|[[Swaziland]]||'''Illegal'''||'''Illegal'''||Prison||&amp;nbsp;
+|-
+|[[Tanzania]]||'''Illegal'''||'''Illegal'''||25 years||&amp;nbsp;
+|-
+|[[Togo]]||'''Illegal'''||'''Illegal'''||3 years||&amp;nbsp;
+|-
+|[[Tunisia]]||'''Illegal'''||'''Illegal'''||3 years||&amp;nbsp;
+|-
+|[[Uganda]]||'''Illegal'''||Legal||Life||&amp;nbsp;
+|-
+|[[Zambia]]||'''Illegal'''||Legal||14 years||&amp;nbsp;
+|-
+|[[Zimbabwe]]||'''Illegal'''||Legal||3 years||&amp;nbsp;
+|-
+|}
+
+===America, North &amp; Central===
+{| border="1px" cellspacing="0" cellpadding="2px"
+|- style="background-color: #a0d0ff;"
+!width=150|Country!!Gay Male!!Lesbian!!Max Penalty!!width=400|Comments
+|- 
+|[[Antigua and Barbuda]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Bahamas]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Barbados]]||'''Illegal'''||'''Illegal'''||Unknown||&amp;nbsp;
+|-
+|[[Belize]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Canada]]||Legal||Legal||&amp;nbsp;||The [[Sodomy_law#Canada|sodomy laws]] were removed from the [[Criminal Code of Canada]] in the late [[1960s]] by the then justice minister [[Pierre Trudeau]] with his famous statement 'The state has no business in the bedrooms of the nation'.
+|-
+|[[Costa Rica]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Cuba]]||'''Illegal'''||'''Illegal'''||1 year||&amp;nbsp;
+|-
+|[[Dominican Republic]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[El Salvador]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Grenada]]||'''Illegal'''||Legal||Unknown||&amp;nbsp;
+|-
+|[[Guatemala]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Haiti]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Honduras]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Jamaica]]||'''Illegal'''||Legal||10 years||&amp;nbsp;
+|-
+|[[Mexico]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Nicaragua]]||'''Illegal'''||'''Illegal'''||3 years||&amp;nbsp;
+|-
+|[[Panama]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Saint Lucia]]||'''Illegal'''||'''Illegal'''||25 years||&amp;nbsp;
+|-
+|[[Trinidad and Tobago]]||'''Illegal'''||'''Illegal'''||10 years||&amp;nbsp;
+|-
+|[[United States]]||Legal||Legal||&amp;nbsp;||[[Sodomy laws in the United States]] were judged [[United States Constitution|unconstitutional]] by the [[Supreme Court of the United States]] in [[2003]] in the case [[Lawrence v. Texas]].
+|-
+|}
+
+===America, South===
+{| border="1px" cellspacing="0" cellpadding="2px"
+|- style="background-color: #a0d0ff;"
+!width=150|Country!!Gay Male!!Lesbian!!Max Penalty!!width=400|Comments
+|-
+|[[Argentina]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Bolivia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Brazil]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Chile]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Colombia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Ecuador]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Guyana]]||'''Illegal'''||Legal||Life||&amp;nbsp;
+|-
+|[[Paraguay]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Peru]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Suriname]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Uruguay]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Venezuela]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|}
+
+===Asia===
+{| border="1px" cellspacing="0" cellpadding="2px"
+|- style="background-color: #a0d0ff;"
+!width=150|Country!!Gay Male!!Lesbian!!Max Penalty!!width=400|Comments
+|-
+|[[Afghanistan]]||'''Illegal'''||'''Illegal'''||Unknown||&amp;nbsp;
+|-
+|[[Armenia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Azerbaijan]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Bangladesh]]||'''Illegal'''||'''Illegal'''||Life||&amp;nbsp;
+|-
+|[[Bhutan]]||'''Illegal'''||'''Illegal'''||Life||&amp;nbsp;
+|-
+|[[Brunei]]||'''Illegal'''||'''Illegal'''||10 years||&amp;nbsp;
+|-
+|[[Cambodia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[China]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Georgia (country)|Georgia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[India]]||'''Illegal'''||'''Illegal'''||Life||&amp;nbsp;
+|-
+|[[Indonesia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Japan]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Kazhakstan]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Kyrgyzstan]]||'''Illegal'''||Legal||10 years||&amp;nbsp;
+|-
+|[[Laos]]||Unknown||Unknown||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Malaysia]]||'''Illegal'''||'''Illegal'''||20 years||&amp;nbsp;
+|-
+|[[Maldives]]||'''Illegal'''||Legal||Life||&amp;nbsp;
+|-
+|[[Mongolia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Myanmar]]||'''Illegal'''||'''Illegal'''||10 years||&amp;nbsp;
+|-
+|[[Nepal]]||'''Illegal'''||'''Illegal'''||Life||&amp;nbsp;
+|-
+|[[North Korea]]||Unknown||Unknown||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Pakistan]]||'''Illegal'''||'''Illegal'''||'''Death'''||&amp;nbsp;
+|-
+|[[Philippines]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Singapore]]||'''Illegal'''||'''Unknown'''||Life||&amp;nbsp;
+|-
+|[[South Korea]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Sri Lanka]]||'''Illegal'''||Legal||12 years||&amp;nbsp;
+|-
+|[[Taiwan]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Tajikistan]]||'''Illegal'''||Legal||Unknown||&amp;nbsp;
+|-
+|[[Thailand]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Turkmenistan]]||'''Illegal'''||Legal||Unknown||&amp;nbsp;
+|-
+|[[Uzbekistan]]||'''Illegal'''||Legal||3 years||&amp;nbsp;
+|-
+|[[Vietnam]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|}
+
+===Europe===
+{| border="1px" cellspacing="0" cellpadding="2px"
+|- style="background-color: #a0d0ff;"
+!width=150|Country!!Gay Male!!Lesbian!!Max Penalty!!width=400|Comments
+|-
+|[[Albania]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Andorra]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Austria]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Belgium]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Belarus]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Bosnia-Herzegovina]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Bulgaria]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Croatia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Cyprus]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Czech Republic]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Denmark]]||Legal||Legal||&amp;nbsp;||Homosexuality was decriminalized for consenting adults in [[1930]] and in [[1989]] Denmark became the first country to grant registered homosexual couples the civil and legal rights of married heterosexual couples.
+|-
+|[[Estonia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Finland]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[France]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Germany]]||Legal||Legal||&amp;nbsp;||See [[Paragraph 175]].
+|-
+|[[Greece]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Hungary]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Iceland]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Ireland]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Italy]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Latvia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Liechtenstein]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Lithuania]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Luxembourg]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Republic of Macedonia|Macedonia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Malta]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Moldavia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Monaco]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Netherlands]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Norway]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Poland]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Portugal]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Romania]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Russia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[San Marino]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Serbia and Montenegro]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Slovakia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Slovenia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Spain]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Sweden]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Switzerland]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Turkey]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Ukraine]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[United Kingdom]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Vatican City]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|}
+
+===Middle East===
+{| border="1px" cellspacing="0" cellpadding="2px"
+|- style="background-color: #a0d0ff;"
+!width=150|Country!!Gay Male!!Lesbian!!Max Penalty!!width=400|Comments
+|-
+|[[Bahrain]]||'''Illegal'''||'''Illegal'''||10 years||&amp;nbsp;
+|-
+|[[Egypt]]||'''Illegal'''||'''Illegal'''||Varied||&amp;nbsp;
+|-
+|[[Iran]]||'''Illegal'''||'''Illegal'''||'''Death'''||&amp;nbsp;
+|-
+|[[Israel]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Iraq]]||Legal||Legal||&amp;nbsp;||Legal but taboo.
+|-
+|[[Jordan]]||Legal||Legal||&amp;nbsp;||Legal but taboo.
+|-
+|[[Kuwait]]||'''Illegal'''||'''Illegal'''||7 years||&amp;nbsp;
+|-
+|[[Lebanon]]||'''Illegal'''||'''Illegal'''||1 year||&amp;nbsp;
+|-
+|[[Oman]]||'''Illegal'''||'''Illegal'''||3 years||&amp;nbsp;
+|-
+|[[Palestine]]||'''Illegal'''||'''Illegal'''||10 years||&amp;nbsp;
+|-
+|[[Qatar]]||'''Illegal'''||'''Illegal'''||5 years||&amp;nbsp;
+|-
+|[[Saudi Arabia]]||'''Illegal'''||'''Illegal'''||'''Death'''||&amp;nbsp;
+|-
+|[[Syria]]||'''Illegal'''||'''Illegal'''||1 year||&amp;nbsp;
+|-
+|[[United Arab Emirates]]||'''Illegal'''||'''Illegal'''||'''Death'''||&amp;nbsp;
+|-
+|[[Yemen]]||'''Illegal'''||'''Illegal'''||'''Death'''||&amp;nbsp;
+|-
+|}
+
+===Oceania===
+{| border="1px" cellspacing="0" cellpadding="2px"
+|- style="background-color: #a0d0ff;"
+!width=150|Country!!Gay Male!!Lesbian!!Max Penalty!!width=400|Comments
+|-
+|[[Australia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Fiji]]||'''Illegal'''||Legal||14 years||&amp;nbsp;
+|-
+|[[Kiribati]]||'''Illegal'''||Legal||14 years||&amp;nbsp;
+|-
+|[[Marshall Islands]]||'''Illegal'''||Legal||10 years||&amp;nbsp;
+|-
+|[[Federated States of Micronesia|Micronesia]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Nauru]]||Unknown||Unknown||&amp;nbsp;||&amp;nbsp;
+|-
+|[[New Zealand]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|[[Papua New Guinea]]||'''Illegal'''||Legal||14 years||&amp;nbsp;
+|-
+|[[Samoa]]||'''Illegal'''||'''Illegal'''||7 years||&amp;nbsp;
+|-
+|[[Solomon Islands]]||'''Illegal'''||'''Illegal'''||14 years||&amp;nbsp;
+|-
+|[[Tonga]]||'''Illegal'''||Legal||10 years||&amp;nbsp;
+|-
+|[[Tuvalu]]||'''Illegal'''||Legal||14 years||&amp;nbsp;
+|-
+|[[Vanuatu]]||Legal||Legal||&amp;nbsp;||&amp;nbsp;
+|-
+|}
+
+==External Links==
+* [http://www.sodomylaws.org/ www.sodomylaws.org]
+
+[[Category:LGBT]]</rev></revisions></page></pages></query></api>

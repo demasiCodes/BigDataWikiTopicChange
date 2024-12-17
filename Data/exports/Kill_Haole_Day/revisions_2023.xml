@@ -1,0 +1,80 @@
+<?xml version="1.0"?><api><continue rvcontinue="20230821234758|1171572796" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="14698138" pageid="14698138" ns="0" title="Kill Haole Day"><revisions><rev timestamp="2023-08-23T05:43:29Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Short description|Hawaiian school bullying incidents}}
+{{Use mdy dates|date=April 2012}}
+{{Infobox event
+| title                    = Kill Haole Day
+| image                    = 
+| image_size               = 
+| image_upright            = 
+| image_alt                = 
+| caption                  = 
+| native_name              = 
+| native_name_lang         = 
+| english_name             = 
+| time                     = 
+| duration                 = 
+| date                     = The second to last day of school (May or June)
+| venue                    = 
+| location                 = [[Hawaii]], U.S.
+| coordinates              = &lt;!-- {{coord|LAT|LON|region:XXXX_type:event|display=inline,title}} --&gt;
+| also_known_as            = 
+| type                     = 
+| theme                    = 
+| cause                    = 
+| first_reporter           = 
+| budget                   = 
+| patron                   = &lt;!-- or |patrons= --&gt;
+| organisers               = &lt;!-- or |organizers= --&gt;
+| filmed_by                = 
+| participants             = 
+| outcome                  = 
+| casualties1              = 
+| casualties2              = 
+| casualties3              = 
+| reported deaths          = 
+| reported injuries        = 
+| reported missing         = 
+| reported property damage = 
+| burial                   = 
+| inquiries                = 
+| inquest                  = 
+| coroner                  = 
+| arrests                  = 
+| suspects                 = 
+| accused                  = 
+| convicted                = 
+| charges                  = 
+| trial                    = 
+| verdict                  = 
+| convictions              = 
+| sentence                 = 
+| publication_bans         = 
+| litigation               = 
+| awards                   = 
+| url                      = 
+| blank_label              = &lt;!-- or |blank_data= --&gt;
+| blank1_label             = &lt;!-- or |blank1_data= --&gt;
+| blank2_label             = &lt;!-- or |blank2_data= --&gt;
+| website                  = &lt;!-- {{URL|example.com}} --&gt;
+| notes                    = 
+}}
+'''Kill Haole Day''' is the term for bullying incidents that occurred in some public [[Hawaii]] schools, when non-white students would harass and attack white students.&lt;ref&gt;{{cite news | newspaper=The Los Angeles Times | title=Hawaii's Ethnic Mix Reflected by Tension in Schools | page=3 | date=July 15, 1979 | last=Freed | first=Kenneth | url=https://www.newspapers.com/clip/99973600/kill-haole-day-lat/}}&lt;/ref&gt; (''[[Haole]]'' is a Hawaiian term for individuals who are not Native Hawaiian.) Kill Haole Day was discussed by the [[Hawaii State Legislature]] when debating hate crimes legislation in 1999, despite the lack of documented incidents.&lt;ref name=rohrer&gt;{{cite book | last=Rohrer | first=J. | title=Haoles in Hawaii | publisher=University of Hawaii Press | series=Race and Ethnicity in Hawai'i | year=2010 | isbn=978-0-8248-6042-4 | url=https://books.google.com/books?id=gYwBEAAAQBAJ&amp;pg=PA79 | access-date=April 18, 2022 | pages=79–80}}&lt;/ref&gt;
+
+In his 2009 book, lawyer and former Hawai{{okina}}i governor [[Ben Cayetano]] wrote that "Kill Haole Day" began as a news story headline about an incident between haole and local (not just Hawaiian) students. After that, "whenever there was a fight or an incident between haole and non-haole students, the news media", and newspaper editorial boards, "repeatedly reprised 'Kill Haole Day' in their news stories".&lt;ref&gt;Cayetano, Ben. ''Ben: A Memoir, From Street Kid to Governor'' (Watermark, 2009), p. 531&lt;/ref&gt;
+
+In 1999, School Superintendent Paul LeMahieu said he was aware of "Kill Haole Day" but not of any significant incidents. Also, in 1999, it was an issue during debate on [[hate crimes]] legislation.&lt;ref name="starbulletin"&gt;{{cite web|url=http://starbulletin.com/1999/03/24/news/story7.html|title='Kill haole day' linked to hate-crime bill | url-status=dead | archive-url=https://web.archive.org/web/20040112071545/http://starbulletin.com/1999/03/24/news/story7.html | archive-date=January 12, 2004}}&lt;/ref&gt;{{r|rohrer}}
+ 
+On December 31, 2008, the [[United States Department of Education|U.S. Department of Education]] released a report on Kealakehe Intermediate School in [[Kailua-Kona, Hawaii|Kailua-Kona]] that concluded there was "substantial evidence that students experienced racially and sexually derogatory name-calling on nearly a daily basis on school buses, at school bus stops, in school hallways and other areas of the school".&lt;ref&gt;{{cite web|author=United States Department of Education - Office for Civil Rights|title=OCR Reference No 10051060|url=http://stopsexualassaultinschools.org/wp-content/uploads/2015/06/OCR-FOIA-cases-Hawaii.pdf}}&lt;/ref&gt;
+
+The report also concluded that school officials responded inadequately or not at all when students complained of racial harassment. Students who did complain were retaliated against by their antagonists.&lt;ref&gt;{{cite news|website=Southern Poverty Law Center | last=Keller | first=Larry|title=Hawaii Suffering From Racial Prejudice|url=http://www.splcenter.org/get-informed/intelligence-report/browse-all-issues/2009/fall/prejudice-in-paradise| url-status=dead | archive-date=August 29, 2018|archive-url=https://web.archive.org/web/20180829125639/https://www.splcenter.org/fighting-hate/intelligence-report/2009/hawaii-suffering-racial-prejudice}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{Racism topics}}
+
+[[Category:History of racism in Hawaii]]
+[[Category:Hate crime in the United States]]
+[[Category:Anti-white racism in the United States]]
+
+
+{{Crime-stub}}</rev></revisions></page></pages></query></api>

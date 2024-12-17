@@ -1,0 +1,22 @@
+<?xml version="1.0"?><api><continue rvcontinue="20061101154059|85049561" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="2649767" pageid="2649767" ns="0" title="Social stigma"><revisions><rev timestamp="2006-11-05T01:03:49Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Social stigma''' refers to severe social disapproval of personal characteristics or [[beliefs]] that are against cultural norms. Social stigma often leads to [[marginalization]].
+
+Examples of social stigmas are physical or mental [[disabilities]] and [[disorder]]s, as well as [[homosexuality]] or affiliation with a specific [[nationality]], [[religion]] or [[ethnicity]]. [[Crime|Criminality]] carries a strong social stigma.
+
+==See also==
+*[[Identity (social science)|Identity]]
+*[[Label (sociology)]]
+*[[Stereotype]]
+
+==Further reading==
+* [[Erving Goffman|Goffman, Erving]], 1963: ''Stigma: Notes on the Management of Spoiled Identity.'' Prentice-Hall. ISBN 0-671-62244-7
+
+''This article incorporates text translated from [http://de.wikipedia.org/w/index.php?title=Stigmatisierung&amp;oldid=8257586 the corresponding German Wikipedia article].''
+
+[[Category:Sociology]]
+
+[[de:Stigmatisierung]]
+[[it:Stigmatizzazione (scienze sociali)]]
+[[lt:Stigmatizacijos teorija]]
+[[ru:Стигматизация (социальная)]]
+[[sr:Стигматизација]]
+[[uk:Стигматизація]]</rev></revisions></page></pages></query></api>

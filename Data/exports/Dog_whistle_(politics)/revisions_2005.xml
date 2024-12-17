@@ -1,0 +1,10 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050806111118|20402304" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="1853472" pageid="1853472" ns="0" title="Dog whistle (politics)"><revisions><rev timestamp="2005-08-06T11:16:56Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Dog-whistle politics''' is a term used to describe a type of political campaigning which is "only heard" by a specific intended audience. It is usually used pejoratively by those that do not approve of the tactics.
+
+The term is by analogy to [[dog whistle]]s, built in such a way that humans cannot hear them due to their high [[frequency]], but dogs can. It could be argued that the term is disparaging of those who can hear the dog whistle message.
+
+The term originated in [[Australian politics]] in the late 1990s, on occasion used to describe the [[John_Howard|Howard Government's]] [[immigration]] policy. The Government took a strong stand against illegal immigrants. Some commentators argued that the stand was playing to racist fears in the community, despite the Government never using ''overtly'' racist terminology.
+
+The term is thought to have been introduced to the [[United Kingdom]] by [[Lynton Crosby]], where it played a role in the [[UK general election, 2005|2005 general election]]; [[Michael Howard]] was often accused of practising "dog-whistle politics" on contentious subjects like [[immigration]], with a campaign slogan that asked "Are you thinking what we're thinking?".
+
+{{poli-stub}}
+[[Category:Politics]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?><api><continue rvcontinue="20040915123336|6481198" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="171811" pageid="171811" ns="0" title="Planned Parenthood v. Casey"><revisions><rev timestamp="2004-10-11T00:26:52Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''''Planned Parenthood of Southeastern Pennsylvania v. Casey''''', 505 U.S. 833 ([[1992]]) was a case decided by the [[Supreme Court of the United States]] in which the constitutionality of several [[Pennsylvania]] [[U.S. state|state]] regulations regarding [[abortion]] was challenged.  The Court's lead plurality opinion upheld the right to have an abortion but lowered the standard for analyzing restrictions of that right, invalidating one regulation but upholding the others.
+
+== Background ==
+
+Four provisions of the Pennsylvania Abortion Control Act of 1982 were being challenged as unconstitutional under ''[[Roe v. Wade]]'', which first recognized a constitutional right to have an abortion in the liberty protected by the [[due process#Substantive Due Process|Due Process Clause]] of the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]].  The "informed consent" rule under the Act required doctors to provide women with information about the health risks and possible complications of having an abortion before one could be performed.  The "spousal notification" rule required women to give prior notice to their husbands, and the "parental notification" rule required the same of minors to their parents.  The fourth provision imposed a 24-hour waiting period before obtaining an abortion.  When the case came before the Court on review, Pennsylvania defended the Act in part by urging the Court to overturn ''Roe'' as having been wrongly decided.
+
+The case was a seminal one in the history of abortion rights in the United States, as it was the first direct challenge of ''Roe'' since the liberal [[Associate Justice of the Supreme Court of the United States|Justice]] [[William Brennan|Brennan]] was replaced in [[1990]] with the [[George Herbert Walker Bush|Bush]]-appointed and ostensibly conservative Justice [[David Souter|Souter]].  Even most pro choice advocates expected ''Roe'' to be overruled and were gearing up for a consequential State-by-State campaign against particular laws.  However, Souter defied expectations and voted to uphold the constitutional right to have an abortion, preserving the precarious 5-4 Court vote in favor, though still changing the Court's abortion rights [[jurisprudence]].
+
+== The Court's opinions ==
+
+''Casey'' is a divided judgment, in that none of the Justices' opinions was joined by a majority of justices.  However, the plurality decision jointly written by Justices Souter, [[Sandra Day O'Connor|O'Connor]], and [[Anthony Kennedy|Kennedy]] is recognized as the lead opinion with [[precedent]]ial weight because each of its parts were concurred in by at least two other Justices, albeit different ones for each part.
+
+Justices [[Harry Blackmun|Blackmun]] and [[John Paul Stevens|Stevens]] concurred with the parts of the Court's decision that upheld ''Roe'' and invalidated one of the Pennsylvania regulations.  On the other side, [[Chief Justice of the United States|Chief Justice]] [[William Rehnquist|Rehnquist]] and Justice [[Antonin Scalia|Scalia]] each wrote opinions concurring in the parts of the Court's decisions that weakened ''Roe'' and upheld abortion regulations and dissented from the rest.  Both Rehnquist and Scalia joined each other's concurrence/dissent, and Justice [[Byron White|White]] joined both.
+
+=== The O'Connor, Kennedy and Souter plurality opinion ===
+
+Though the plurality opinion stated that it was upholding what it called the "essential holding" of ''Roe'', it did not leave it intact.  The Court emphasized the right to abortion as "grounded in the general sense of liberty" under the Fourteenth Amendment, rather than recognizing a general [[right to privacy]] that had been implied in previous cases.
+
+However, the Court overturned the strict [[trimester]] formula used in ''Roe'' to weigh the woman's interest in obtaining an abortion against the State's interest in the life of the fetus.  Continuing advancements in medical technology meant that at the time ''Casey'' was decided, a fetus might be considered viable at 22 or 23 weeks rather than at the 28 weeks that was more common at the time of ''Roe''.  The Court recognized viability as the point at which the State interest in the life of the fetus outweighs the rights of the woman and abortion may be banned entirely.
+
+The Court also replaced the heightened scrutiny of abortion regulations under ''Roe'', which was standard for fundamental rights in the Court's case law, with a lesser "undue burden" standard previously unknown in the Court's case law.  A legal restriction posing an undue burden was defined as one having "the purpose or effect of placing a substantial obstacle in the path of a woman seeking an abortion of a nonviable fetus."
+
+Applying this new standard to the Pennsylvania Act under challenge, the Court struck the spousal notification requirement, stating that it gave too much power to husbands over their wives and would worsen situations of spousal abuse.  The Court upheld the State's 24 hour waiting period, informed consent, and parental notification requirements, holding that none constituted an undue burden.
+
+==See Also==
+
+* ''[[Roe v. Wade]]'', 410 U.S. 113 ([[1973]])
+* ''[[Griswold v. Connecticut]]'', 381 U.S. 479 ([[1965]])
+* ''[[Doe v. Bolton]]'', 410 U.S. 179 (1973)
+* ''[[Webster v. Reproductive Health Services]]'', 492 U.S. 490 ([[1989]])
+* ''[[Sex-related court cases in the United States]]''
+==External link==
+
+* [http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&amp;vol=505&amp;invol=833 FindLaw: PLANNED PARENTHOOD OF SOUTHEASTERN PA. v. CASEY, 505 U.S. 833 (1992)]
+
+[[Category:U.S. Supreme Court cases]][[Category:First Amendment case law]][[Category:Fourteenth Amendment case law]][[Category:Substantive due process cases]][[Category:U.S. abortion rights case law]]</rev></revisions></page></pages></query></api>

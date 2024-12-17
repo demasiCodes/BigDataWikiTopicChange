@@ -1,0 +1,11 @@
+<?xml version="1.0"?><api><continue rvcontinue="20040926123838|6677829" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="166029" pageid="166029" ns="0" title="Police brutality"><revisions><rev timestamp="2004-10-18T17:27:37Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Police brutality''' is a term used to describe the excessive use of force by [[police]] officers. Police brutality can become a major issue, especially when the police are from a different social group as the people they police. In such a situation, the general population may view the police as oppressors, while the police may begin to view the population as criminals. Brutality does not only apply to unreasonable physical force, but to threats and assault, as well.
+
+Many believe this has been the case with  [[African-American]]s in the United States, and [[Catholics]] in [[Northern Ireland]]. It also applies to violent incidents against [[political dissent]], in which the police attacked protesters, such as during the [[Quebec City Summit of the Americas]].
+
+== See also ==
+
+[[Amadou Diallo (shooting victim)|Amadou Diallo]], [[police oppression]], [[Rampart]], [[Starlight tours]], [[Rodney King]]
+
+{{stub}}
+
+[[Category:Law enforcement]]</rev></revisions></page></pages></query></api>

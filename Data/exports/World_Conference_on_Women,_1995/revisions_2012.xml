@@ -1,0 +1,28 @@
+<?xml version="1.0"?><api><continue rvcontinue="20120430025229|489888303" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="3523938" pageid="3523938" ns="0" title="World Conference on Women, 1995"><revisions><rev timestamp="2012-10-12T01:49:47Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Use dmy dates|date=January 2012}}
+{{refimprove|date=January 2011}}
+The United Nations convened the '''Fourth World Conference on Women: Action for Equality, Development and Peace''' on 4–15 September 1995 in Beijing, China. Delegates had prepared a Declaration and Platform for Action aimed at achieving greater equality and opportunity for women. 
+
+In fallout from pre-conference meetings, the [[Holy See]] publicly disagreed with positions outlined by the [[United States]] and other nations concerning [[abortion]], [[reproductive rights]], and other sensitive issues.&lt;ref&gt;{{cite news| url=http://www.nytimes.com/1994/08/09/world/vatican-attacks-population-stand-supported-by-us.html |newspaper=[[New York Times]] |title=Vatican Attacks U.S.-Backed Draft for Women's Conference | author=Tagliabue, John | date=August 26, 1995 |accessdate=2012-4-29}}&lt;/ref&gt;
+
+[[Aung San Suu Kyi]] delivered the keynote address at the conference.&lt;ref name=nobelprize.org&gt;{{cite web|title=nobelprize.org|url=http://www.nobelprize.org/nobel_prizes/peace/laureates/1991/kyi-bio.html|accessdate=12 October 2012}}&lt;/ref&gt;  
+==References==
+{{reflist}}
+
+==External links==
+*{{official|http://www.un.org/womenwatch/daw/beijing/fwcwn.html}}
+
+{{UN-stub}}
+
+[[Category:Women's rights]]
+[[Category:Reproductive rights]]
+[[Category:United Nations conferences]]
+[[Category:Diplomatic conferences in China]]
+[[Category:20th-century diplomatic conferences]]
+[[Category:1995 in international relations]]
+[[Category:1995 conferences]]
+
+[[de:UN-Weltfrauenkonferenz]]
+[[fr:Quatrième conférence mondiale sur les femmes]]
+[[ja:世界女性会議]]
+[[pl:Konferencja Pekińska]]
+[[pt:Conferência de Pequim de 1995]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?><api><continue rvcontinue="20100504033652|359989494" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="16966680" pageid="16966680" ns="0" title="Occupational segregation"><revisions><rev timestamp="2010-07-24T04:59:20Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Occupational segregation''' is the distribution of groups defined by ascribed characteristics, mostly [[gender]], across occupations.  More basically, it is the concentration of a similar group of people (be they males, females, whites, blacks, etc) in a job.  Occupational segregation levels differ on a basis of perfect segregation and integration.  Perfect segregation occurs where occupation and group membership correspond perfectly, where no job is populated by more than one group.  Perfect integration, on the other hand, occurs where each group holds the same proportion of positions in an occupation as it holds in the labor force &lt;ref&gt; Weeden, Kim. "Occupational Segregation." Blackwell Encyclopedia of Sociology. Ritzer, George (ed). Blackwell Publishing, 2007. Blackwell Reference Online. 31 March 2008 [http://www.blackwellreference.com/subscriber/tocnode?id=g9781405124331_chunk_g978140512433121_ss1-4] &lt;/ref&gt;.  
+
+Occupational segregation often occurs in patterns.  The pattern of segregation refers to the makeup of a group’s under- or overrepresentation in a specific occupation.  Segregation levels are constant if an occupation goes from being overly male to overly female.  Occupational segregation is one of the leading causes of income inequality and to some, it may be the leading cause.  As a matter of fact, according to Blackwell Encyclopedia of Sociology, the gender gap in wages is caused more so by segregation across jobs than by pay discrimination within jobs &lt;ref&gt; Weeden, Kim. "Occupational Segregation." Blackwell Encyclopedia of Sociology. Ritzer, George (ed). Blackwell Publishing, 2007. Blackwell Reference Online. 31 March 2008 [http://www.blackwellreference.com/subscriber/tocnode?id=g9781405124331_chunk_g978140512433121_ss1-4] &lt;/ref&gt;.  
+
+==Types==
+Within occupational segregation, there are different types, horizontal and vertical.  Horizontal segregation is where a workforce is made up mostly of one gender, race, or other ascribed characteristic.  Vertical segregation is similar to the [[glass ceiling]], where opportunities for career advancement for a particular gender, race, or other ascribed characteristics, are narrowed &lt;ref&gt; "Tackling Occupational Segregation Fact Sheet." Women and Equality Unit. May 2007. Women and Equality . 31 Mar 2008 [http://www.womenandequalityunit.gov.uk/publications/occupseg_facts_jun07.doc] &lt;/ref&gt;.
+
+==Causes==
+{{POV-section|date=December 2009}}
+Occupational segregation is mostly caused by stereotypical, biological and social differences between genders and races.  Segregation arises when preconceived notions about a particular gender or race are carried over into the workforce, and a person’s competency is based on these prejudices (i.e. thinking all women are weak and can’t engage in heavy labor, thinking all Hispanics won’t be able to read memos at a job, etc.).  Occupational segregation is also derived from what is known as “gender essentialism”, the belief that because of the biological differences between men and women, they are different as far as character and personality are concerned.  Gender essentialists view men as being strong and powerful and women as being meek and emotional &lt;ref&gt; Charles, Maria and Grusky, David.  “Occupational Ghettos:  “The Worldwide Segregation of Women and Men.”  16 April 2008   [http://www.womensmedia.com/new/Occupational-Ghettos.shtml] &lt;/ref&gt;
+
+==Statistics==
+Blacks are over- or underrepresented in typical jobs by a factor of 2.1; 21 percent would have to change jobs in order to reach perfect integration with Caucasians.  Men are over- or underrepresented in the average occupation by a factor of 5.5; 51 percent would have to change jobs in order to reach perfect integration with women. &lt;ref&gt; Weeden, Kim. "Occupational Segregation." Blackwell Encyclopedia of Sociology. Ritzer, George (ed). Blackwell Publishing, 2007. Blackwell Reference Online. 31 March 2008 [http://www.blackwellreference.com/subscriber/tocnode?id=g9781405124331_chunk_g978140512433121_ss1-4] &lt;/ref&gt;.  
+
+==Measuring Occupational Segregation==
+Occupational segregation is measured using Duncan’s D (or the [[index of dissimilarity]]), which serves as a measure of dissimilarity between two distributions.  D has to be calculated first:
+
+1.	Identify N different occupations.  
+2.	Calculate the percentage of men (or other ascribed category) who work in each of the occupations and the percentage of women who work in each occupation.  Give men and women a variable name (m&lt;sub&gt;1&lt;/sub&gt; could = men, w&lt;sub&gt;1&lt;/sub&gt; could = women).
+3.	Duncan’s D is calculated using this formula:
+D=½ε&lt;sub&gt;i&lt;/sub&gt;|m&lt;sub&gt;1&lt;/sub&gt;-w&lt;sub&gt;1&lt;/sub&gt;|
+	**It is important to note that Duncan’s D uses percentages.  So in a given occupation, the number of men (or women) in that occupation should be divided by the total number of men (or women) in all of the occupations.  For example:  You may have 10 men who are nurses out of 600 total men.  The value for the occupation of male nurses should be 10/600, or .0166.	
+4.	The number you get after calculations will be in decimal form, and you will need to multiply it by 100 to get its percentage.  For instance, if your answer is .45, this means that 45% of men or women would have to change jobs for the distribution of men and women across occupations to be exactly the same. &lt;ref&gt; Fain, Dr. Jim . "Occupational Segregation." OSU William S. Spears School of Business. 31 Mar 2008 [http://spears.okstate.edu/home/jrfain/legacy/occseg/index.html] &lt;/ref&gt;
+
+==Non-Traditional Jobs Held by Women==
+* Pilots
+* Barbers
+* Detectives
+* Construction workers
+* Architects
+* Fire Fighters
+* Engineers
+
+==Non-Traditional Jobs Held by Men==
+* Childcare providers
+* Paralegals
+* Secretaries
+* Public Relations
+* Interior Decorators
+* Nurses
+* Librarians
+* Estheticians
+
+==See also==
+* [[Gender equality]]
+* [[Glass ceiling]]
+* [[Social stratification]]
+* [[Occupational inequality]]
+* [[Online segregation]]
+
+==References==
+{{reflist}}
+
+[[Category:Sociology]] 
+[[Category:Occupations]]
+[[Category:Income in the United States]]
+[[Category:Sexism]]</rev></revisions></page></pages></query></api>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?><api><continue rvcontinue="20050911211615|23060195" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="29555364" pageid="29555364" ns="0" title="Ableism"><revisions><rev timestamp="2005-09-11T22:10:50Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Ableism''' is a term used to describe [[discrimination]] against people with [[disability|disabilities]] in favor of people who are able-bodied.
+
+==Organisations working against ableism==
+* [[American Association of People with Disabilities]] [http://www.aapd-dc.org/]
+* [[Alliance for Technology Access]] [http://www.ataccess.org/]
+* [[Center for Disability Law and Policy]] [http://www.equalemployment.org/aguideto.htm]
+* [[Ragged Edge Online]] [http://www.raggededgemagazine.com/1100/1100votestory.htm]
+
+==See also==
+*[[Disablism]]
+*[[Disability etiquette]]
+*[[List of disability rights activists]]
+
+==External link==
+* [http://www.zmag.org/sustainers/content/2002-08/31russell.cfm "The Social Movement Left Out"] - ''[[Z Magazine]]'' article by Marta Russell
+
+[[Category:prejudice and discrimination]]
+[[Category:Rights of the disabled]]</rev></revisions></page></pages></query></api>

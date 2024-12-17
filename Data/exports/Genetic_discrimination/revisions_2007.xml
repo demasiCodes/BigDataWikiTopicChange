@@ -1,0 +1,33 @@
+<?xml version="1.0"?><api><continue rvcontinue="20070919013544|158858151" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="3455302" pageid="3455302" ns="0" title="Genetic discrimination"><revisions><rev timestamp="2007-09-23T18:58:49Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{Unreferenced|date=July 2007}}
+
+'''Genetic discrimination''' occurs when people are treated differently by their [[employer]] or [[insurance company]] because they have a [[gene]] [[mutation]] that causes or increases the risk of an [[Genetic disorder|inherited disorder]]. People who undergo [[genetic testing]] may be at risk for genetic discrimination.
+
+The results of a genetic test are normally included in a person's [[medical record]]s. When a person applies for life, disability, or health insurance, in some countries the insurance company may ask to look at these records before making a decision about coverage. An employer may also have the right to look at an employee's medical records. As a result, genetic test results could affect a person's insurance coverage or employment. People making decisions about genetic testing should be aware that when test results are placed in their medical records, the results might not be kept private.
+
+Fear of discrimination is a concern among people considering [[genetic testing]]. Several countries have laws that help protect people against genetic discrimination; however, genetic testing is a fast-growing field and these laws don't cover every situation. 
+==Public Concern Against Discrimination==
+
+In 1993, the Ethical, Legal and Social Implications (ELSI) Working Group of the Human Genome Project issued a report titled "Genetic Information and Health Insurance". The report recommended that people be eligible for health insurance no matter what is known about their past, present or future health status. Two years later, the ELSI Working Group and the National Action Plan on Breast Cancer (NAPBC) jointly developed guidelines to assist federal and state agencies in preventing genetic discrimination in health insurance.
+Further, the ELSI Working Group and NAPBC recommended that health insurers be prohibited from using genetic information or an individual's request for genetic services to deny or limit health insurance coverage, establish differential rates or have access to an individual's genetic information without that individual's written authorization. Written authorization, the groups said, should be required for each separate disclosure and should specify the recipient of the disclosed information.
+
+Next, the National Human Genome Research Institute (NHGRI) and the United States Department of Energy, acting through the ELSI Working Group, cosponsored a series of workshops in the mid-1990s on genetic discrimination in health insurance and the workplace. The findings and recommendations of the workshop participants were published in Science: (Genetic Information and the Workplace: Legislative Approaches and Policy Challenges [sciencemag.org]) magazine, the monthly journal of the American Association for the Advancement of Science.
+==Laws Against Discrimination==
+Those recommendations, and earlier ones issued by the ELSI Working Group and NAPBC led, in part, to new legislation and policies at both the federal and state levels. The Health Insurance Portability and Accountability Act (HIPAA) of 1996 provided the first federal protections against genetic discrimination in health insurance. The act prohibited health insurers from excluding individuals from group coverage due to past or present medical problems, including genetic predisposition to certain diseases. It limited exclusions from group plans for preexisting conditions to 12 months and prohibited such exclusions for people who had been covered previously for that condition for 12 months or more. And the law specifically stated that genetic information in the absence of a current diagnosis of illness did not constitute a preexisting condition.
+
+The next step in addressing the issue of genetic discrimination was taken by President Bill Clinton. The President had earlier supported proposed legislation that would have banned all health plans - group or individual - from denying coverage or raising premiums on the basis of genetic information. When the legislation failed to pass Congress, President Clinton issued an executive order ( Executive Order 13145 to Prohibit Discrimination in Federal Employment Based on Genetic Information) in February 2000 prohibiting agencies of the federal government from obtaining genetic information about their employees or job applicants and from using genetic information in hiring and promotion decisions.
+
+There continues to be a high degree of interest in these topics in state legislatures. More than one hundred bills were introduced in state legislatures in 2000 alone. Some would inaugurate protection from genetic discrimination while others would modify or clarify existing legislation.
+
+==See also==
+*[[Gattaca]] -- A film about Genetic discrimination
+*[[Genoism]]
+*[[Human Genome Project]]
+*[[Health Insurance Portability and Accountability Act]]
+
+==References==
+National Human Genome Research Institute
+
+==Links==
+www.genome.gov/10002328
+
+[[Category:Genetics]]</rev></revisions></page></pages></query></api>

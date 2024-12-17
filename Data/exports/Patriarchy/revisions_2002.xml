@@ -1,0 +1,9 @@
+<?xml version="1.0"?><api><continue rvcontinue="20020910234622|357959" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="23266996" pageid="23266996" ns="0" title="Patriarchy"><revisions><rev timestamp="2002-10-14T14:22:34Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''Patriarchy''' (from Latin: ''Pater'' means father, from Greek: ''archy'' means rule by) is a [[government]] or society controlled by senior men. 
+
+The term is often used to mean societal control by men in general, although this is more properly termed ''andrarchy''. Many construe this to mean a [[gender]] [[hierarchy]] in which men dominate or exploit women, but that need not be the case. 
+
+Some [[feminism|feminist]] writers have considered patriarchy to be the basis on which most modern societies have been formed. They argue that it is necessary and desirable to get away from this model in order to achieve equality of the sexes.  Some critics argue that these writers are oversimplifying the complexities of society, and/or that such [[gender roles]] are not necessarily harmful.
+
+Patriarchy is distinct from [[patrilineality]] and [[patrilocality]].
+
+Compare: [[matriarchy]]</rev></revisions></page></pages></query></api>

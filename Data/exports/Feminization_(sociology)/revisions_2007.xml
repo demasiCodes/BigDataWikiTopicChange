@@ -1,0 +1,11 @@
+<?xml version="1.0"?><api><continue rvcontinue="20070625175825|140566078" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="11725949" pageid="11725949" ns="0" title="Feminization (sociology)"><revisions><rev timestamp="2007-10-16T16:11:54Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">The term '''feminization''' has been used to describe a shift in [[gender role]]s and [[sex role]]s in a society. Scholar Ann Douglas chronicled the rise of what she describes as sentimental "feminization" of American mass culture in the 19th century, in which writers of both sexes underscored popular convictions about women's weaknesses, desires, and proper place in the world. &lt;ref name="douglas"&gt;Ann Douglas (1977). ''The Feminization of American Culture''. Farrar, Straus and Giroux ISBN 0-374-52558-7&lt;/ref&gt; Such a figurative societal shift has also been remarked upon in more modern times. &lt;ref name="neutopia"&gt;Doctress Neutopia (1994). [http://feminism.eserver.org/feminization-of-cyberspace.txt The Feminization of Cyberspace.] Feminism and Women's Studies&lt;/ref&gt;  It can also mean the incorporation of women into a group or a profession that was once dominated only by males.
+
+==References==
+{{reflist}}
+
+{{socio-stub}}
+
+[[Category:Sociology]]
+[[Category:Gender studies]]
+
+[[ko:사회학적 여성화]]</rev></revisions></page></pages></query></api>

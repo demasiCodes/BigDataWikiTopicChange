@@ -1,0 +1,97 @@
+<?xml version="1.0"?><api><continue rvcontinue="20091116225016|326241436" continue="||" /><warnings><main xml:space="preserve">Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.</main><revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions></warnings><query><pages><page _idx="10874135" pageid="10874135" ns="0" title="Racism in China"><revisions><rev timestamp="2009-11-16T22:51:15Z" contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">{{ChineseText}}
+'''[[Racism]] in the [[People's Republic of China]]''' is a complex issue influenced by [[History of China|Chinese history]], [[Chinese nationalism]], and many other factors.
+
+==Causes==
+===History===
+
+{{Cquote|''Throughout the ages Chinese have had only one way of looking at foreigners. We either look up to them as gods or down on them as wild animals. - [[Lu Xun]]''&lt;ref&gt;{{cite web |url= http://www.newyorker.com/online/blogs/evanosnos/2009/03/2.html|title= A Chinese Pirate Unmasks|author= |date= |work= |publisher= The New Yorker|accessdate=2009-11-10 }}&lt;/ref&gt;}}
+
+*[[Hua-Yi distinction]]
+*[[Opium Wars]]
+*[[Boxer Rebellion]]
+*[[Second Sino-Japanese War]]
+*[[Nanjing anti-African protests]]
+*[[Jakarta riots of May 1998]]
+
+===Racial composition===
+
+China's racial composition is overwhelmingly homogeneous with 91.9% of the population being [[Han Chinese]], which by itself is a convergence of people from diverse origins and races, other ethnicities includes the [[Mongols]], [[Zhuang]], [[Miao]], [[Hui]], [[Tibetans]], [[Uighurs]] and [[Koreans]].&lt;ref&gt;{{cite web |url= https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html#People|title= China|accessdate= 2007-04-24|publisher= [[Central Intelligence Agency|CIA]]}}&lt;/ref&gt;
+
+==Anti-African sentiment==
+In 2007, police anti-drug crackdowns in Beijing's [[Sanlitun]] district were reported to target people from [[Africa]] as suspected criminals, though police officials denied targeting any group.&lt;ref&gt;[http://www.beijingnewspeak.com/2007/09/28/sanlitun-saga-update-anti-drug-operation-uncovers-no-drugs Beijing Newspeak :: Sanlitun saga update: anti-drug operation uncovers no drugs&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; A well-documented incident in 1988 featured Chinese students and the general in widespread against African students studying in [[Nanjing]].&lt;ref&gt;[http://query.nytimes.com/gst/fullpage.html?res=940DEED8153CF933A05751C1A96E948260&amp;sec=&amp;spon=&amp;pagewanted=all ''New York Times'' article by Nicholas Kristof]&lt;/ref&gt;
+
+==Anti-Japanese sentiment==
+{{main|Anti-Japanese sentiment in China}}
+
+Much anti-Japanese sentiment exists in China, most of it stemming from [[Japanese war crimes]] committed in the country during the [[Second Sino-Japanese War]]. [[Japanese history textbook controversies|History textbook revisionism]] in Japan and the denial or whitewashing of events such as the [[Nanking Massacre]] by right-wing Japanese groups has continued to inflame anti-Japanese feelings in China. Allegedly, anti-Japanese sentiment in China is partially the result of political manipulation by the [[Communist Party of China]].&lt;ref name="fragile"&gt;{{cite web |url= http://www.cceia.org/resources/transcripts/5425.html|title= China: Fragile Superpower: How China's Internal Politics Could Derail its Peaceful Rise |accessdate=2007-07-29 |date= 2007-04-05|author= Shirk, Susan}}&lt;/ref&gt;
+
+The [[2005 anti-Japanese demonstrations]] were tolerated, if not approved by the Chinese government,&lt;ref&gt;{{cite web |url= http://news.bbc.co.uk/1/hi/world/asia-pacific/4429809.stm|title= China's anti-Japan rallies spread|date= 2005-04-10|publisher= [[BBC News]]}}&lt;/ref&gt; unlike other demonstrations or "[[mass incident]]s" critical of the Chinese government itself.
+
+==Han-Uyghur tensions==
+
+Some have accused the Chinese government as well as certain Han Chinese citizens of alleged discrimination against the Chinese Muslim [[Uyghur people|Uyghur]] minority.&lt;ref name="neednotapply"&gt;{{cite web |title= "No Uighurs Need Apply"|url= http://jamesfallows.theatlantic.com/archives/2009/07/no_uighurs_need_apply.php|date= 10 Jul 2009|work= |publisher= ''The Atlantic''|accessdate=12 July 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title= Uighurs blame 'ethnic hatred' |url= http://english.aljazeera.net/focus/2009/07/20097761931298561.html|date= July 07, 2009|work= |publisher= Al Jazeera|accessdate=12 July 2009}}&lt;/ref&gt; This was used as a partial explanation for the [[July 2009 Ürümqi riots]] which pitted residents of the city against each other along largely racial lines. An essay in the ''[[People's Daily]]'' described the events as "so-called racial conflict"&lt;ref&gt;{{cite web |url=http://chinanewswrap.com/2009/07/10/peoples-daily-criticizes-double-standards-in-western-media-attitudes-to-75-incident/#more-2398 |title=People’s Daily criticizes double standards in Western media attitudes to 7.5 incident |work=China News Wrap |author=Global Times |date=10 July 2009}} [http://world.people.com.cn/GB/9628529.html original article in Chinese]&lt;/ref&gt; while several Western media sources labeled them as "[[race riots]]".&lt;ref&gt;{{cite web |title= Race Riots Continue in China's Far West|url= http://www.time.com/time/photogallery/0,29307,1908981,00.html|date= |work= |publisher= ''Time'' magazine|accessdate=13 July 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title= Deadly race riots put spotlight on China|url= http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/07/08/ED3H18KD53.DTL|date= July 8, 2009|work= |publisher= ''The San Francisco Chronicle''|accessdate=13 July 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title= Three killed in race riots in western China|url= http://www.irishtimes.com/newspaper/world/2009/0706/1224250105483.html|date= July 6, 2009|work= |publisher= ''The Irish Times''|accessdate=13 July 2009}}&lt;/ref&gt;
+
+In July 2009, a report in the ''The Atlantic'' highlighted a help wanted sign in the traditionally Uyghur city of [[Kashgar]] which explicitly stated that "this offer is for Han Chinese only."&lt;ref name="neednotapply"/&gt;
+
+It has also been reported that unofficial Chinese policy is to deny passports to Uyghurs until they reach retirement age, especially if they intend to leave the country for the [[Hajj|pilgrimage to Mecca]].&lt;ref name="neednotapply"/&gt;
+
+==Ethnic slurs==
+
+====Against children of inter-racial marriage====
+
+*半唐番 (Boon Tong Fan)- A tern used by Cantonese to describe offsprings of inter-racial couples, literary half-[[Tang]]-half-tribal-people.
+*半菜 (Buai Chai)- A term used by Hokkian-Teo chew people in South East Asia to describe offsprings of inter-racial couples, literary Half vegetable.
+
+====Against Europeans (Westerners and Russians)====
+{{main|Anti-Western sentiment in China}}
+
+*洋鬼子 (yáng guǐzi) - "Foreign devil", a slur for [[White people]] or [[Caucasians]].
+*鬼佬 (guǐlǎo) - Borrowed from Cantonese "[[Gweilo]]", "devil" or "devil guy", a slur for white people. The term emphasizes the skin color of Caucasians are very pale compared to the Chinese.
+*红毛猴 ([[Ang mo]] kow) - "Red Hair Monkey", a slur used by Hokkian people to call white European, because many Europeans have red hair.
+*红毛鬼 ([[Ang mo]] Gui) - "Red hair devil", a [[Minnan]] derogatory term used on foreigners.
+*油炸鬼 (Yao Jar Guai) - "Oil Fried Devil", is a southern Chinese snack, made from a small piece of dough cooked in hot vegetable oil. It is supposed to have originated during [[Opium Wars]] era, when China was under the attacks of foreigners.
+*番鬼 (Fan Guai) -  a slur is used by people of southern China to describe foreigners, and 番 (Fan)  means "Tribal people". The [[Minnan]] and [[Chaozhou]] people would used 山番 (mountain tribal people) and 生番 (raw tribal people) to describe natives and aboriginals.
+
+====Against Japanese====
+
+*小日本 (xiǎo Rìběn) — Literally "little Japan"(ese). This term is so common that it has very little impact left (Google Search returns 21,000,000 results as of August 2007). The term can be used to refer to either Japan or individual Japanese. "小", or the word "little", is usually construed as "puny", "lowly" or "small country", but not "spunky".  In northern China and [[Manchuria]], the phrase is often pronounced as 小日本兒 (xiǎo Rìběnr) and may have a stronger negative overtone, as a result of the Japanese occupation of Manchuria and later China.
+*日本鬼子 (Rìběn guǐzi) — Literally "Japanese devils". This is used mostly in the context of the [[Second Sino-Japanese War]], when Japan invaded and occupied large areas of China. This is the title of [[Japanese Devils|a Japanese documentary on Japanese war crimes druring WWII]].
+*倭 (Wō) — This was an ancient [[Chinese language|Chinese]] name for Japan, but was also adopted by the Japanese. Today, its usage in Chinese is usually intended to give a negative connotation (see Wōkòu below). The character is said to also mean "''dwarf''", although that meaning was not apparent when the name was first used. See [[Wa (Japan)]].
+*倭寇 (Wōkòu) — Originally referred to Japanese pirates and armed sea merchants who raided the Chinese coastline during the [[Ming Dynasty]] (see [[Wokou]]). The term was adopted during the [[Second Sino-Japanese War]] to refer to invading Japanese forces, (similarly to Germans being called [[Hun]]s). The word is today sometimes used to refer to all Japanese people in extremely negative contexts.
+*日本狗 (Rìběn gǒu, Cantonese: Yat Boon Gau) — Literally "Japanese dogs". The word is used to refer to all Japanese people in extremely negative contexts.
+*大腳盆族 (dà jiǎo pén zú) - Ethnic slur towards Japanese used prodominantly by Northern Chinese, mainly those from the city of [[Tianjin]]. Literally "Big Feet Bowl Race".
+*黃軍 (huáng jūn) - Literally "Yellow Soldier(s)", used during World War II to represent [[Imperial Japanese Army|Imperial Japanese soldiers]] due to the colour of the uniform. Today, it is used negatively against all Japanese. Since the stereotype of Japanese soldiers are commonly portrayed in war-related TV series in China as short men, with a toothbrush moustache (and sometimes round glasses, in the case of higher ranks), 黃軍 is also often used to pull jokes on Chinese people with these characteristics, and thus "appear like" Japanese soldiers.
+*蝗軍 (huáng jūn)-Literally "Locust Army", a term derived from 皇軍(Japan Imperial Army), because the Imperial Army burn and loot where ever they went.
+*自慰队 (zì wèi duì) - A pun on the homophone "自卫队" (zì wèi duì, literally "Self-Defence Forces", see [[Japan Self-Defense Forces]]), the definition of 慰 (wèi) used is "to comfort". This phrase is used to refer to Japanese (whose military force is known as "自卫队") being stereotypically hypersexual, as "自慰队" means "Self-comforting Forces", referring to [[masturbation]].
+*架佬 (Ga Lou)-A neutral term for Japanese used by Cantonese(especially Hong Kong cantonese), because Japanese use a lot of "Ga" at the end of a sentence. 架妹 (Ga Mui) is used for female Japanese.
+
+====Against Koreans====
+*高丽棒子 (Gāolì bàng zǐ) - Derogatory term used against all ethnic Koreans. 高丽 ([[Traditional Chinese character|Traditional]]: 高麗) refers to Ancient Korea ([[Koryo]]), while 棒子 means ''"club"'' or ''"corncob"'', referring to how Koreans would fit into trousers of the Ancient Koryo design. Sometimes 韓棒子 (hán bàng zǐ, "韓" referring to [[South Korea]]) is also used. Additionally, 死棒子 (sǐ bàng zǐ), Literally "dead corncob", is used.
+*二鬼子 (èr guǐ zǐ) - A disparaging designation of puppet armies and traitors during the Anti-Japanese War of China.&lt;ref&gt; [http://www.nciku.com/search/zh/detail/%E4%BA%8C%E9%AC%BC%E5%AD%90/99788?query=during&amp;internal=true Comprehensive Chinese-English Dictionary] &lt;/ref&gt;&lt;ref&gt;[http://us.mdbg.net/chindict/chindict.php?page=worddict&amp;wdqchi=%E4%BA%8C%E9%AC%BC%E5%AD%90&amp;wdrst=0&amp;wdqchim=3&amp;wddmtm=1 mdbg Chinese English Dictionary]&lt;/ref&gt;Japanese were known as "鬼子" (devils), and the 二鬼子 literally means "second devils". During World War II, some [[Korean people|Koreans]] were involved in Imperial Japanese Army, and so 二鬼子 refers to [[hanjian]] and ethnic Koreans. The definition of 二鬼子 has changed throughout time{{Or|date=September 2008}}, with modern slang usage entirely different from its original meaning during World War II and the subsequent [[Chinese civil war]].{{Fact|date=September 2008}}
+
+====Against Indians====
+*阿三 (ā sān) - Derogatory term used against [[Indians]], literally meaning 'The Third'. As in the 1960s, India claimed herself to be the leader of the Non-Aligned Movement, ranking No. 3 in all world powers after United States and Soviet Union. Since China defeated India in the Sino-India border conflict, 'The Third' was used to ridicule Indian self-aggrandization.
+
+*阿差 (Ah Cha)-Ah Cha means "Yes" in Indian, is a derogatory Cantonese term used against Indians. During the 1950s-1970s, there were many Indians working in Hong Kong as laborers, or doorman, especially doorman for big western hotels. 
+
+====Against Russians====
+*毛子 (máo zi) - literally 'body hair', it is a derogatory term against Caucasian peoples. However, because most white people in contact with China were Russians before the 19th century, 毛子 became a derogatory term specifically against Russians.
+
+==See also==
+
+* [[Anti-Manchuism]]
+* [[Fenqing]]
+* [[Han chauvinism]]
+* [[Hui pan-nationalism]]
+* [[Sinocentrism]]
+* [[Lou Jing]]
+
+==References==
+{{reflist}}
+
+{{Racism topics|state=collapsed}}
+
+[[Category:Racism by country or region]]
+[[Category:Culture of the People's Republic of China]]
+
+[[ta:சீனாவில் இனவாதம்]]</rev></revisions></page></pages></query></api>
